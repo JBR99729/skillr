@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how societal need helps make sense of the use of genetic testing for decisions",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how societal need helps make sense of the use of genetic testing for decisions",
+    "question": "Which statement correctly describes use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.",
+      "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
       "Scientists freely choose research without constraints",
-      "Map funding, infrastructure, ethics, regulation and community need",
-      "A response that mentions use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.\nHint: Map funding, infrastructure, ethics, regulation and community need.",
+    "explanation": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities\nHint: Use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.",
-      "hint": "Map funding, infrastructure, ethics, regulation and community need."
+      "summary": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
+      "hint": "Use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how value or concern helps make sense of how the values of 19th and early 20th century",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how value or concern helps make sense of how the values of 19th and early 20th century",
+    "question": "Which statement correctly describes use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Funded research is automatically biased or invalid",
-      "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.",
-      "Separate influence on topic choice from evaluation of method and evidence",
-      "A response that mentions use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.\nHint: Separate influence on topic choice from evaluation of method and evidence.",
+    "explanation": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians\nHint: Use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.",
-      "hint": "Separate influence on topic choice from evaluation of method and evidence."
+      "summary": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
+      "hint": "Use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how funding and capacity helps make sense of financial backing from governments or commercial organisations is needed",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how funding and capacity helps make sense of financial backing from governments or commercial organisations is needed",
+    "question": "Which statement correctly describes use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Scientists freely choose research without constraints",
-      "Map funding, infrastructure, ethics, regulation and community need",
-      "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.",
-      "A response that mentions use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.\nHint: Map funding, infrastructure, ethics, regulation and community need.",
+    "explanation": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out\nHint: Use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.",
-      "hint": "Map funding, infrastructure, ethics, regulation and community need."
+      "summary": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
+      "hint": "Use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the link between scientific research and real world applications to make the role of research question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how research question helps make sense of the link between scientific research and real-world applications",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how research question helps make sense of the link between scientific research and real-world applications",
+    "question": "Which statement correctly describes use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Funded research is automatically biased or invalid",
-      "Separate influence on topic choice from evaluation of method and evidence",
-      "A response that mentions use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "examining the link between scientific research and real-world applications such as space research and new material development"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.\nHint: Separate influence on topic choice from evaluation of method and evidence.",
+    "explanation": "examining the link between scientific research and real-world applications such as space research and new material development\nHint: Use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.",
-      "hint": "Separate influence on topic choice from evaluation of method and evidence."
+      "summary": "examining the link between scientific research and real-world applications such as space research and new material development",
+      "hint": "Use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, Use the central model to explain how society shapes research priorities in three linked sentences",
-    "audioPrompt": "During an evidence check, Use the central model to explain how society shapes research priorities in three linked sentences",
+    "question": "Which statement gives a valid example of use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Societal needs and values influence research focus. Funding and infrastructure enable some questions and constrain others. Priority decisions have benefits, ethical dimensions and opportunity costs.",
+      "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
       "Scientists freely choose research without constraints",
-      "Map funding, infrastructure, ethics, regulation and community need",
-      "A response that mentions use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Societal needs and values influence research focus. Funding and infrastructure enable some questions and constrain others. Priority decisions have benefits, ethical dimensions and opportunity costs.\nHint: Map funding, infrastructure, ethics, regulation and community need.",
+    "explanation": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities\nHint: Use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Societal needs and values influence research focus. Funding and infrastructure enable some questions and constrain others. Priority decisions have benefits, ethical dimensions and opportunity costs.",
-      "hint": "Map funding, infrastructure, ethics, regulation and community need."
+      "summary": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
+      "hint": "Use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how societal need helps make sense of the use of genetic testing for decisions",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how societal need helps make sense of the use of genetic testing for decisions",
+    "question": "Which statement gives a valid example of use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Scientists freely choose research without constraints",
-      "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.",
       "Funded research is automatically biased or invalid",
-      "Separate influence on topic choice from evaluation of method and evidence"
+      "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.\nHint: Map funding, infrastructure, ethics, regulation and community need.",
+    "explanation": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians\nHint: Use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.",
-      "hint": "Map funding, infrastructure, ethics, regulation and community need."
+      "summary": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
+      "hint": "Use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how value or concern helps make sense of how the values of 19th and early 20th century",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how value or concern helps make sense of how the values of 19th and early 20th century",
+    "question": "Which statement gives a valid example of use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Funded research is automatically biased or invalid",
       "Scientists freely choose research without constraints",
-      "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.",
-      "Map funding, infrastructure, ethics, regulation and community need"
+      "The method can be chosen without checking the values or conditions",
+      "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.\nHint: Separate influence on topic choice from evaluation of method and evidence.",
+    "explanation": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out\nHint: Use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.",
-      "hint": "Separate influence on topic choice from evaluation of method and evidence."
+      "summary": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
+      "hint": "Use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the link between scientific research and real world applications to make the role of research question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, In 20 seconds, explain how funding and capacity helps make sense of financial backing from governments or commercial organisations is needed",
-    "audioPrompt": "During an independent review, In 20 seconds, explain how funding and capacity helps make sense of financial backing from governments or commercial organisations is needed",
+    "question": "Which statement gives a valid example of use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Scientists freely choose research without constraints",
       "Funded research is automatically biased or invalid",
-      "Separate influence on topic choice from evaluation of method and evidence",
-      "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "examining the link between scientific research and real-world applications such as space research and new material development"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.\nHint: Map funding, infrastructure, ethics, regulation and community need.",
+    "explanation": "examining the link between scientific research and real-world applications such as space research and new material development\nHint: Use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.",
-      "hint": "Map funding, infrastructure, ethics, regulation and community need."
+      "summary": "examining the link between scientific research and real-world applications such as space research and new material development",
+      "hint": "Use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

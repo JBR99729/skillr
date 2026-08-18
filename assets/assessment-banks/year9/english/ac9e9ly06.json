@@ -6,34 +6,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_purpose_to_shape_developing_an_argument_that_has_a_series_of_sequenced_and_linked_paragraphs_beginning_with_a_contention_followed_by_a_series_of_supported_points_that_develop_a_line_of_argument_and_a_conclusion_that_summarises_the_main_line_of_argument_and_influence_how_an_audience_understands_the_text",
-    "question": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text?",
+    "audio_prompt": "Which statement correctly describes a writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument",
         "is_correct": true
-      },
-      {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
       },
       {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument",
+      "hint": "A writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_structure_to_shape_creating_informative_texts_that_explain_and_analyse_complex_phenomena_using_well_chosen_facts_and_precise_language_and_influence_how_an_audience_understands_the_text",
-    "question": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text?",
+    "audio_prompt": "Which statement correctly describes a writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
-        "text": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-        "is_correct": true
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language",
+      "hint": "A writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_evidence_to_shape_reviewing_and_editing_their_own_and_others_texts_which_may_involve_using_online_applications_for_accuracy_of_grammar_spelling_and_punctuation_and_to_achieve_particular_purposes_and_address_specific_audiences_by_improving_clarity_and_control_of_content_through_organising_developing_extending_and_linking_ideas_and_influence_how_an_audience_understands_the_text",
-    "question": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text?",
+    "audio_prompt": "Which statement correctly describes a writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas",
         "is_correct": true
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas",
+      "hint": "A writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text."
     }
   },
   {
@@ -117,34 +117,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_audience_to_shape_discussing_choices_of_literary_devices_used_in_a_literary_text_with_a_peer_and_evaluating_the_potential_effect_of_each_choice_on_an_audience_and_influence_how_an_audience_understands_the_text",
-    "question": "During a model interpretation, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During a model interpretation, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text?",
+    "audio_prompt": "Which statement correctly describes a writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience",
+      "hint": "A writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_purpose_to_shape_developing_an_argument_that_has_a_series_of_sequenced_and_linked_paragraphs_beginning_with_a_contention_followed_by_a_series_of_supported_points_that_develop_a_line_of_argument_and_a_conclusion_that_summarises_the_main_line_of_argument_and_influence_how_an_audience_understands_the_text",
-    "question": "During an evidence check, Explain how one deliberate choice shapes meaning in plan, create, edit and publish written and multimodal texts, organising, expanding and developing ideas, and selecting text structures, language features, literary devices and multimodal features for purposes and audiences in ways that may be imaginative, reflective, informative, persuasive, analytical and/or critical",
-    "audio_prompt": "During an evidence check, Explain how one deliberate choice shapes meaning in plan, create, edit and publish written and multimodal texts, organising, expanding and developing ideas, and selecting text structures, language features, literary devices and multimodal features for purposes and audiences in ways that may be imaginative, reflective, informative, persuasive, analytical and/or critical",
+    "question": "Which statement gives a valid example of a writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text?",
+    "audio_prompt": "Which statement gives a valid example of a writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "text": "developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument",
         "is_correct": true
-      },
-      {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
       },
       {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument",
+      "hint": "A writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_structure_to_shape_creating_informative_texts_that_explain_and_analyse_complex_phenomena_using_well_chosen_facts_and_precise_language_and_influence_how_an_audience_understands_the_text",
-    "question": "During a transfer problem, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During a transfer problem, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text?",
+    "audio_prompt": "Which statement gives a valid example of a writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
-        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-        "is_correct": true
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language",
+      "hint": "A writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text."
     }
   },
   {
@@ -228,34 +228,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_evidence_to_shape_reviewing_and_editing_their_own_and_others_texts_which_may_involve_using_online_applications_for_accuracy_of_grammar_spelling_and_punctuation_and_to_achieve_particular_purposes_and_address_specific_audiences_by_improving_clarity_and_control_of_content_through_organising_developing_extending_and_linking_ideas_and_influence_how_an_audience_understands_the_text",
-    "question": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text?",
+    "audio_prompt": "Which statement gives a valid example of a writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas",
         "is_correct": true
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas",
+      "hint": "A writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_audience_to_shape_discussing_choices_of_literary_devices_used_in_a_literary_text_with_a_peer_and_evaluating_the_potential_effect_of_each_choice_on_an_audience_and_influence_how_an_audience_understands_the_text",
-    "question": "During an independent review, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During an independent review, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text?",
+    "audio_prompt": "Which statement gives a valid example of a writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience",
+      "hint": "A writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_purpose_to_shape_developing_an_argument_that_has_a_series_of_sequenced_and_linked_paragraphs_beginning_with_a_contention_followed_by_a_series_of_supported_points_that_develop_a_line_of_argument_and_a_conclusion_that_summarises_the_main_line_of_argument_and_influence_how_an_audience_understands_the_text",
-    "question": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which response correctly uses a writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text?",
+    "audio_prompt": "Which response correctly uses a writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument",
         "is_correct": true
-      },
-      {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
       },
       {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument",
+      "hint": "A writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text."
     }
   },
   {
@@ -339,34 +339,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_structure_to_shape_creating_informative_texts_that_explain_and_analyse_complex_phenomena_using_well_chosen_facts_and_precise_language_and_influence_how_an_audience_understands_the_text",
-    "question": "During an unfamiliar representation, Explain how one deliberate choice shapes meaning in plan, create, edit and publish written and multimodal texts, organising, expanding and developing ideas, and selecting text structures, language features, literary devices and multimodal features for purposes and audiences in ways that may be imaginative, reflective, informative, persuasive, analytical and/or critical Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, Explain how one deliberate choice shapes meaning in plan, create, edit and publish written and multimodal texts, organising, expanding and developing ideas, and selecting text structures, language features, literary devices and multimodal features for purposes and audiences in ways that may be imaginative, reflective, informative, persuasive, analytical and/or critical Which response provides the strongest evidence?",
+    "question": "Which response correctly uses a writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text?",
+    "audio_prompt": "Which response correctly uses a writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
-      },
-      {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-        "is_correct": true
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language",
+      "hint": "A writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_evidence_to_shape_reviewing_and_editing_their_own_and_others_texts_which_may_involve_using_online_applications_for_accuracy_of_grammar_spelling_and_punctuation_and_to_achieve_particular_purposes_and_address_specific_audiences_by_improving_clarity_and_control_of_content_through_organising_developing_extending_and_linking_ideas_and_influence_how_an_audience_understands_the_text",
-    "question": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which response correctly uses a writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text?",
+    "audio_prompt": "Which response correctly uses a writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas",
         "is_correct": true
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas",
+      "hint": "A writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_audience_to_shape_discussing_choices_of_literary_devices_used_in_a_literary_text_with_a_peer_and_evaluating_the_potential_effect_of_each_choice_on_an_audience_and_influence_how_an_audience_understands_the_text",
-    "question": "During a worked solution audit, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which response correctly uses a writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text?",
+    "audio_prompt": "Which response correctly uses a writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience",
+      "hint": "A writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text."
     }
   },
   {
@@ -450,34 +450,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_purpose_to_shape_developing_an_argument_that_has_a_series_of_sequenced_and_linked_paragraphs_beginning_with_a_contention_followed_by_a_series_of_supported_points_that_develop_a_line_of_argument_and_a_conclusion_that_summarises_the_main_line_of_argument_and_influence_how_an_audience_understands_the_text",
-    "question": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text?",
+    "audio_prompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument",
         "is_correct": true
-      },
-      {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
       },
       {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument",
+      "hint": "A writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_structure_to_shape_creating_informative_texts_that_explain_and_analyse_complex_phenomena_using_well_chosen_facts_and_precise_language_and_influence_how_an_audience_understands_the_text",
-    "question": "During a multi-step application, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text?",
+    "audio_prompt": "Which interpretation is accurate for a writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
-        "text": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-        "is_correct": true
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language",
+      "hint": "A writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_evidence_to_shape_reviewing_and_editing_their_own_and_others_texts_which_may_involve_using_online_applications_for_accuracy_of_grammar_spelling_and_punctuation_and_to_achieve_particular_purposes_and_address_specific_audiences_by_improving_clarity_and_control_of_content_through_organising_developing_extending_and_linking_ideas_and_influence_how_an_audience_understands_the_text",
-    "question": "During a justification task, Explain how one deliberate choice shapes meaning in plan, create, edit and publish written and multimodal texts, organising, expanding and developing ideas, and selecting text structures, language features, literary devices and multimodal features for purposes and audiences in ways that may be imaginative, reflective, informative, persuasive, analytical and/or critical Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, Explain how one deliberate choice shapes meaning in plan, create, edit and publish written and multimodal texts, organising, expanding and developing ideas, and selecting text structures, language features, literary devices and multimodal features for purposes and audiences in ways that may be imaginative, reflective, informative, persuasive, analytical and/or critical Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text?",
+    "audio_prompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
-      },
-      {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas",
         "is_correct": true
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas",
+      "hint": "A writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text."
     }
   },
   {
@@ -561,34 +561,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_audience_to_shape_discussing_choices_of_literary_devices_used_in_a_literary_text_with_a_peer_and_evaluating_the_potential_effect_of_each_choice_on_an_audience_and_influence_how_an_audience_understands_the_text",
-    "question": "During a final synthesis, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text?",
+    "audio_prompt": "Which interpretation is accurate for a writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience",
+      "hint": "A writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text."
     }
   }
 ]

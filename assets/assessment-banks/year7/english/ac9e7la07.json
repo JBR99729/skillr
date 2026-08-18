@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "find_a_vector",
-    "question": "During a guided example, which statement correctly explains vector?",
-    "audio_prompt": "During a guided example, which statement correctly explains vector?",
+    "question": "Which statement correctly explains vector in vectors, angle and social distance in images?",
+    "audio_prompt": "Which statement correctly explains vector in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "explain_angle",
-    "question": "During a comparison task, which statement correctly explains camera angle?",
-    "audio_prompt": "During a comparison task, which statement correctly explains camera angle?",
+    "question": "Which description is accurate for camera angle in vectors, angle and social distance in images?",
+    "audio_prompt": "Which description is accurate for camera angle in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "compare_shot_distance",
-    "question": "During an error analysis, which statement correctly explains social distance?",
-    "audio_prompt": "During an error analysis, which statement correctly explains social distance?",
+    "question": "Which statement gives an example of social distance in vectors, angle and social distance in images?",
+    "audio_prompt": "Which statement gives an example of social distance in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "analyse_gaze",
-    "question": "During a model interpretation, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
+    "question": "What is important when using vector in vectors, angle and social distance in images?",
+    "audio_prompt": "What is important when using vector in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "connect_modes",
-    "question": "During an evidence check, which response best demonstrates connect modes in vectors, angle and social distance in images?",
-    "audio_prompt": "During an evidence check, which response best demonstrates connect modes in vectors, angle and social distance in images?",
+    "question": "Which statement correctly identifies camera angle in vectors, angle and social distance in images?",
+    "audio_prompt": "Which statement correctly identifies camera angle in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "find_a_vector",
-    "question": "During a transfer problem, which response best demonstrates find a vector in vectors, angle and social distance in images?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates find a vector in vectors, angle and social distance in images?",
+    "question": "Which choice best describes social distance in vectors, angle and social distance in images?",
+    "audio_prompt": "Which choice best describes social distance in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "explain_angle",
-    "question": "During a peer explanation, which response best demonstrates explain angle in vectors, angle and social distance in images?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates explain angle in vectors, angle and social distance in images?",
+    "question": "What does correct use require for vector in vectors, angle and social distance in images?",
+    "audio_prompt": "What does correct use require for vector in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "compare_shot_distance",
-    "question": "During an independent review, which response best demonstrates compare shot distance in vectors, angle and social distance in images?",
-    "audio_prompt": "During an independent review, which response best demonstrates compare shot distance in vectors, angle and social distance in images?",
+    "question": "Which statement is true about camera angle in vectors, angle and social distance in images?",
+    "audio_prompt": "Which statement is true about camera angle in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "analyse_gaze",
-    "question": "During a fresh case study, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
+    "question": "Which response correctly applies analyse gaze in vectors, angle and social distance in images?",
+    "audio_prompt": "Which response correctly applies analyse gaze in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "connect_modes",
-    "question": "During an unfamiliar representation, which response best demonstrates connect modes in vectors, angle and social distance in images?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates connect modes in vectors, angle and social distance in images?",
+    "question": "Which response shows correct use of connect modes in vectors, angle and social distance in images?",
+    "audio_prompt": "Which response shows correct use of connect modes in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "find_a_vector",
-    "question": "During a critical response, which response best demonstrates find a vector in vectors, angle and social distance in images?",
-    "audio_prompt": "During a critical response, which response best demonstrates find a vector in vectors, angle and social distance in images?",
+    "question": "Which interpretation is accurate for find a vector in vectors, angle and social distance in images?",
+    "audio_prompt": "Which interpretation is accurate for find a vector in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "explain_angle",
-    "question": "During a worked solution audit, which response best demonstrates explain angle in vectors, angle and social distance in images?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates explain angle in vectors, angle and social distance in images?",
+    "question": "Which choice demonstrates explain angle in vectors, angle and social distance in images?",
+    "audio_prompt": "Which choice demonstrates explain angle in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "compare_shot_distance",
-    "question": "During a source evaluation, which response best demonstrates compare shot distance in vectors, angle and social distance in images?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates compare shot distance in vectors, angle and social distance in images?",
+    "question": "What should be checked when applying compare shot distance in vectors, angle and social distance in images?",
+    "audio_prompt": "What should be checked when applying compare shot distance in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "analyse_gaze",
-    "question": "During a multi-step application, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates analyse gaze in vectors, angle and social distance in images?",
+    "question": "Which response best uses analyse gaze in vectors, angle and social distance in images?",
+    "audio_prompt": "Which response best uses analyse gaze in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "connect_modes",
-    "question": "During a justification task, which response best demonstrates connect modes in vectors, angle and social distance in images?",
-    "audio_prompt": "During a justification task, which response best demonstrates connect modes in vectors, angle and social distance in images?",
+    "question": "Which claim is accurate about connect modes in vectors, angle and social distance in images?",
+    "audio_prompt": "Which claim is accurate about connect modes in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "find_a_vector",
-    "question": "During a final synthesis, which response best demonstrates find a vector in vectors, angle and social distance in images?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates find a vector in vectors, angle and social distance in images?",
+    "question": "What is required to apply find a vector in vectors, angle and social distance in images?",
+    "audio_prompt": "What is required to apply find a vector in vectors, angle and social distance in images?",
     "visual": {
       "type": "none",
       "alt_text": ""

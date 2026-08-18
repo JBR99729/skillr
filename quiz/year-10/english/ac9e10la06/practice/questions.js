@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained making some information more explicit than other information and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information\nHint: A writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information",
+      "hint": "A writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause result manner concession condition and so on and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”\nHint: A writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”",
+      "hint": "A writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence; for example, “He focused on the political, religious, social and economic elements of the society in his thesis.”",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence; for example, “He focused on the political, religious, social and economic elements of the society in his thesis.”\nHint: A writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence; for example, “He focused on the political, religious, social and economic elements of the society in his thesis.”",
+      "hint": "A writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained making some information more explicit than other information and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, Explain how one deliberate choice shapes meaning in analyse how meaning and style are achieved through syntax",
-    "audioPrompt": "During a model interpretation, Explain how one deliberate choice shapes meaning in analyse how meaning and style are achieved through syntax",
+    "question": "Which statement gives a valid example of a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information\nHint: A writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information",
+      "hint": "A writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause result manner concession condition and so on and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”\nHint: A writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”",
+      "hint": "A writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a transfer problem, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence; for example, “He focused on the political, religious, social and economic elements of the society in his thesis.”",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence; for example, “He focused on the political, religious, social and economic elements of the society in his thesis.”\nHint: A writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names audience and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence; for example, “He focused on the political, religious, social and economic elements of the society in his thesis.”",
+      "hint": "A writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained making some information more explicit than other information and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
+    "question": "What should you check when using a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text?",
+    "audioPrompt": "What should you check when using a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information\nHint: A writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names relationship and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information",
+      "hint": "A writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause result manner concession condition and so on and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, Explain how one deliberate choice shapes meaning in analyse how meaning and style are achieved through syntax",
-    "audioPrompt": "During an independent review, Explain how one deliberate choice shapes meaning in analyse how meaning and style are achieved through syntax",
+    "question": "What should you check when using a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text?",
+    "audioPrompt": "What should you check when using a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”\nHint: A writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on; for example, “Although the poet was not generally well received by critics during her life (concession), her reputation grew substantially after her death.”",
+      "hint": "A writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   }

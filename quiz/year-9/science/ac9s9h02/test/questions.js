@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use the impact of technological advances developed in australia to make the role of technology visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, In 20 seconds, explain how scientific question helps make sense of how the development of imaging technologies has improved our Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, In 20 seconds, explain how scientific question helps make sense of how the development of imaging technologies has improved our Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the impact of technological advances developed in australia to make the role of technology visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use the impact of technological advances developed in australia to make the role of technology visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.",
+      "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi",
       "Technology is only applied science",
-      "Trace feedback in both directions between tool and knowledge",
-      "A response that mentions use the impact of technological advances developed in australia to make the role of technology visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.\nHint: Trace feedback in both directions between tool and knowledge.",
+    "explanation": "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi\nHint: Use the impact of technological advances developed in Australia to make the role of technology visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.",
-      "hint": "Trace feedback in both directions between tool and knowledge."
+      "summary": "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi",
+      "hint": "Use the impact of technological advances developed in Australia to make the role of technology visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how technology helps make sense of the impact of technological advances developed in australia Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, In 20 seconds, explain how technology helps make sense of the impact of technological advances developed in australia Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A more advanced instrument removes uncertainty",
-      "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.",
-      "Identify new sensitivity alongside calibration, sampling and interpretation limits",
-      "A response that mentions use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "researching how technological advances in monitoring greenhouse gas emissions and other environmental factors have contributed to the reinstatement of traditional fire management practices as a strategy to reduce atmospheric pollution",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.\nHint: Identify new sensitivity alongside calibration, sampling and interpretation limits.",
+    "explanation": "researching how technological advances in monitoring greenhouse gas emissions and other environmental factors have contributed to the reinstatement of traditional fire management practices as a strategy to reduce atmospheric pollution\nHint: Use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.",
-      "hint": "Identify new sensitivity alongside calibration, sampling and interpretation limits."
+      "summary": "researching how technological advances in monitoring greenhouse gas emissions and other environmental factors have contributed to the reinstatement of traditional fire management practices as a strategy to reduce atmospheric pollution",
+      "hint": "Use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, In 20 seconds, explain how new data helps make sense of how technological advances in monitoring greenhouse gas emissions Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, In 20 seconds, explain how new data helps make sense of how technological advances in monitoring greenhouse gas emissions Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Technology is only applied science",
-      "Trace feedback in both directions between tool and knowledge",
-      "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.",
-      "A response that mentions use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "examining how properties of electromagnetic radiation relate to its uses, such as radar, medicine, mobile phone communications, remote sensing and microwave cooking",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.\nHint: Trace feedback in both directions between tool and knowledge.",
+    "explanation": "examining how properties of electromagnetic radiation relate to its uses, such as radar, medicine, mobile phone communications, remote sensing and microwave cooking\nHint: Use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.",
-      "hint": "Trace feedback in both directions between tool and knowledge."
+      "summary": "examining how properties of electromagnetic radiation relate to its uses, such as radar, medicine, mobile phone communications, remote sensing and microwave cooking",
+      "hint": "Use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, In 20 seconds, explain how new explanation helps make sense of how properties of electromagnetic radiation relate to its uses Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, In 20 seconds, explain how new explanation helps make sense of how properties of electromagnetic radiation relate to its uses Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A more advanced instrument removes uncertainty",
-      "Identify new sensitivity alongside calibration, sampling and interpretation limits",
-      "A response that mentions use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring how scientists and engineers make machines more energy efficient"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.\nHint: Identify new sensitivity alongside calibration, sampling and interpretation limits.",
+    "explanation": "exploring how scientists and engineers make machines more energy efficient\nHint: Use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.",
-      "hint": "Identify new sensitivity alongside calibration, sampling and interpretation limits."
+      "summary": "exploring how scientists and engineers make machines more energy efficient",
+      "hint": "Use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, In 20 seconds, explain how engineering application helps make sense of how scientists and engineers make machines more energy efficient Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, In 20 seconds, explain how engineering application helps make sense of how scientists and engineers make machines more energy efficient Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.",
+      "exploring how understanding of the nature of matter and energy has changed over time, and how modern technology has enabled exploration of energy conversion processes at all scales, from black holes to atoms to sub-atomic particles",
       "Technology is only applied science",
-      "Trace feedback in both directions between tool and knowledge",
-      "A response that mentions use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.\nHint: Trace feedback in both directions between tool and knowledge.",
+    "explanation": "exploring how understanding of the nature of matter and energy has changed over time, and how modern technology has enabled exploration of energy conversion processes at all scales, from black holes to atoms to sub-atomic particles\nHint: Use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.",
-      "hint": "Trace feedback in both directions between tool and knowledge."
+      "summary": "exploring how understanding of the nature of matter and energy has changed over time, and how modern technology has enabled exploration of energy conversion processes at all scales, from black holes to atoms to sub-atomic particles",
+      "hint": "Use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, In 20 seconds, explain how scientific question helps make sense of how understanding of the nature of matter and energy Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, In 20 seconds, explain how scientific question helps make sense of how understanding of the nature of matter and energy Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A more advanced instrument removes uncertainty",
-      "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.",
-      "Identify new sensitivity alongside calibration, sampling and interpretation limits",
-      "A response that mentions use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "examining how advances in understanding of radioactivity and radioisotopes have led to new applications and technologies",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.\nHint: Identify new sensitivity alongside calibration, sampling and interpretation limits.",
+    "explanation": "examining how advances in understanding of radioactivity and radioisotopes have led to new applications and technologies\nHint: Use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.",
-      "hint": "Identify new sensitivity alongside calibration, sampling and interpretation limits."
+      "summary": "examining how advances in understanding of radioactivity and radioisotopes have led to new applications and technologies",
+      "hint": "Use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, In 20 seconds, explain how technology helps make sense of how advances in understanding of radioactivity and radioisotopes have Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, In 20 seconds, explain how technology helps make sense of how advances in understanding of radioactivity and radioisotopes have Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Technology is only applied science",
-      "Trace feedback in both directions between tool and knowledge",
-      "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.",
-      "A response that mentions use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.\nHint: Trace feedback in both directions between tool and knowledge.",
+    "explanation": "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems\nHint: Use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.",
-      "hint": "Trace feedback in both directions between tool and knowledge."
+      "summary": "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems",
+      "hint": "Use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use the impact of technological advances developed in australia to make the role of technology visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, Use the central model to explain science and technology advance together in three linked sentences Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, Use the central model to explain science and technology advance together in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use the impact of technological advances developed in australia to make the role of technology visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use the impact of technological advances developed in australia to make the role of technology visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Technology is only applied science",
       "A more advanced instrument removes uncertainty",
-      "Identify new sensitivity alongside calibration, sampling and interpretation limits",
-      "Technologies extend observation, measurement and analysis. Scientific knowledge informs engineering design. Science–technology relationships are iterative and include limitations."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi"
     ],
     "correct": 3,
-    "explanation": "Technologies extend observation, measurement and analysis. Scientific knowledge informs engineering design. Science–technology relationships are iterative and include limitations.\nHint: Trace feedback in both directions between tool and knowledge.",
+    "explanation": "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi\nHint: Use the impact of technological advances developed in Australia to make the role of technology visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Technologies extend observation, measurement and analysis. Scientific knowledge informs engineering design. Science–technology relationships are iterative and include limitations.",
-      "hint": "Trace feedback in both directions between tool and knowledge."
+      "summary": "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi",
+      "hint": "Use the impact of technological advances developed in Australia to make the role of technology visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

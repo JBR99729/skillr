@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For code a self-similar pattern, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For code a self-similar pattern, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output?",
+    "audioPrompt": "Which description correctly applies designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output\nHint: designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output",
+      "hint": "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For use geospatial technology for community problems, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For use geospatial technology for community problems, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation?",
+    "audioPrompt": "Which description correctly applies explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "exploring geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation\nHint: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation",
+      "hint": "Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "design and making scale models of three dimensional objects using digital tools",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For design a 3d scale model, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For design a 3d scale model, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses design and making scale models of three-dimensional objects using digital tools?",
+    "audioPrompt": "Which response correctly uses design and making scale models of three-dimensional objects using digital tools?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions design and making scale models of three-dimensional objects using digital tools but does not justify the relationship",
-      "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The spatial algorithms and design model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations\nHint: Design and making scale models of three-dimensional objects using digital tools.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations",
+      "hint": "Design and making scale models of three-dimensional objects using digital tools."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "apply a computational thinking approach to solving problems involving networks",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For choose an efficient network route, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For choose an efficient network route, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
+    "question": "Which response correctly uses apply a computational thinking approach to solving problems involving networks?",
+    "audioPrompt": "Which response correctly uses apply a computational thinking approach to solving problems involving networks?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions apply a computational thinking approach to solving problems involving networks but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Connectedness, coverage and weighted measures. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "applying a computational thinking approach to solving problems involving networks; for example, connectedness, coverage and weighted measures; taking different routes and choosing the most efficient route to take when travelling by car using virtual map software"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Connectedness, coverage and weighted measures. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Connectedness, coverage and weighted measures.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying a computational thinking approach to solving problems involving networks; for example, connectedness, coverage and weighted measures; taking different routes and choosing the most efficient route to take when travelling by car using virtual map software\nHint: Apply a computational thinking approach to solving problems involving networks.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Connectedness, coverage and weighted measures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Connectedness, coverage and weighted measures.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying a computational thinking approach to solving problems involving networks; for example, connectedness, coverage and weighted measures; taking different routes and choosing the most efficient route to take when travelling by car using virtual map software",
+      "hint": "Apply a computational thinking approach to solving problems involving networks."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For decompose a spatial design problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For decompose a spatial design problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem?",
+    "audioPrompt": "Which response correctly uses defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem; for example, designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items",
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem; for example, designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items\nHint: defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem; for example, designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items",
+      "hint": "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For code a self-similar pattern, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For code a self-similar pattern, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output?",
+    "audioPrompt": "Which response correctly uses designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The spatial algorithms and design model is copied without interpretation",
+      "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output\nHint: designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output",
+      "hint": "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For use geospatial technology for community problems, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For use geospatial technology for community problems, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation?",
+    "audioPrompt": "Which response correctly uses explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation but does not justify the relationship",
-      "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "exploring geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation\nHint: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation",
+      "hint": "Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "design and making scale models of three dimensional objects using digital tools",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For design a 3d scale model, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For design a 3d scale model, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for design and making scale models of three-dimensional objects using digital tools?",
+    "audioPrompt": "Which interpretation is accurate for design and making scale models of three-dimensional objects using digital tools?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions design and making scale models of three-dimensional objects using digital tools but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations\nHint: Design and making scale models of three-dimensional objects using digital tools.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations",
+      "hint": "Design and making scale models of three-dimensional objects using digital tools."
     },
     "qualitySchema": "production-v1"
   }

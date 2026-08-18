@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "compare and interpreting stacked bar charts area charts and line graphs discussing how they represent larger categories that can be subdivided into smaller categories",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For compare part-to-whole displays over time, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For compare part-to-whole displays over time, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories?",
+    "audioPrompt": "Which description correctly applies compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison\nHint: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison",
+      "hint": "Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools including generative artificial intelligence to generate different data displays and visualisations using existing data sets",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For critique an ai-generated visualisation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For critique an ai-generated visualisation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets?",
+    "audioPrompt": "Which description correctly applies use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context\nHint: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context",
+      "hint": "Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For match display to centre and spread, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For match display to centre and spread, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots?",
+    "audioPrompt": "Which response correctly uses compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots but does not justify the relationship",
-      "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The choosing data displays model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots\nHint: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots",
+      "hint": "Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "choose the type of representations based on the data type categorical nominal or ordinal or numerical discrete or continuous",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For match display to data type, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For match display to data type, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)?",
+    "audioPrompt": "Which response correctly uses choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous) but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous). Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous). Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous).’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)\nHint: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous).",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)",
+      "hint": "Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use different visualisations of data including non standard representations such as infographics and discussing their purpose intended audience evaluating how well they communicate responses to statistical questions of interest",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For evaluate an infographic for its audience, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For evaluate an infographic for its audience, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest?",
+    "audioPrompt": "Which response correctly uses use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Infographics, and discussing their purpose, intended audience. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Infographics, and discussing their purpose, intended audience. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Infographics, and discussing their purpose, intended audience.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest\nHint: Use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Infographics, and discussing their purpose, intended audience. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Infographics, and discussing their purpose, intended audience.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest",
+      "hint": "Use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "compare and interpreting stacked bar charts area charts and line graphs discussing how they represent larger categories that can be subdivided into smaller categories",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For compare part-to-whole displays over time, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For compare part-to-whole displays over time, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories?",
+    "audioPrompt": "Which response correctly uses compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The choosing data displays model is copied without interpretation",
+      "comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison\nHint: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison",
+      "hint": "Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools including generative artificial intelligence to generate different data displays and visualisations using existing data sets",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For critique an ai-generated visualisation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For critique an ai-generated visualisation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets?",
+    "audioPrompt": "Which response correctly uses use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets but does not justify the relationship",
-      "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context\nHint: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context",
+      "hint": "Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For match display to centre and spread, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For match display to centre and spread, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots?",
+    "audioPrompt": "Which interpretation is accurate for compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots\nHint: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots",
+      "hint": "Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots."
     },
     "qualitySchema": "production-v1"
   }

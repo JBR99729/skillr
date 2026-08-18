@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which response correctly uses a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
+    "audioPrompt": "Which response correctly uses a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context\nHint: A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+      "hint": "A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
+    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context\nHint: A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+      "hint": "A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text?",
+    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences\nHint: A writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+      "hint": "A writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, Explain how one deliberate choice shapes meaning in analyse representations of individuals, groups and places and evaluate how they reflect their context in literary texts by first nations australian, and wide-ranging australian and world authors Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, Explain how one deliberate choice shapes meaning in analyse representations of individuals, groups and places and evaluate how they reflect their context in literary texts by first nations australian, and wide-ranging australian and world authors Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
+    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context\nHint: A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+      "hint": "A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "When would you use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
+    "audioPrompt": "When would you use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context\nHint: A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+      "hint": "A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "When would you use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text?",
+    "audioPrompt": "When would you use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences\nHint: A writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "analysing how stories written by First Nations Australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences",
+      "hint": "A writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "When would you use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
+    "audioPrompt": "When would you use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context\nHint: A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "analysing how humour is used to represent the underdog in Australian texts and evaluating how the underdog reflects the context",
+      "hint": "A writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, Explain how one deliberate choice shapes meaning in analyse representations of individuals, groups and places and evaluate how they reflect their context in literary texts by first nations australian, and wide-ranging australian and world authors Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, Explain how one deliberate choice shapes meaning in analyse representations of individuals, groups and places and evaluate how they reflect their context in literary texts by first nations australian, and wide-ranging australian and world authors Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
+    "audioPrompt": "Which choice demonstrates a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context\nHint: A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "analysing the ways in which cultural stories may be retold and adapted across a range of contexts, such as the story of the “anti-hero”, and evaluating how the “anti-hero” reflects the context",
+      "hint": "A writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   }

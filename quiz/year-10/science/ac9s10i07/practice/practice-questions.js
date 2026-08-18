@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how claim helps make sense of a scientific argument showing how a range of evidence",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how claim helps make sense of a scientific argument showing how a range of evidence",
+    "question": "Which statement correctly describes use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+      "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe",
       "A persuasive tone strengthens scientific evidence",
-      "Evaluate data quality and reasoning before rhetoric",
-      "A response that mentions use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.\nHint: Evaluate data quality and reasoning before rhetoric.",
+    "explanation": "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe\nHint: Use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe",
+      "hint": "Use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use in evidence based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how evidence set helps make sense of in evidence-based debates about the role of human activity",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how evidence set helps make sense of in evidence-based debates about the role of human activity",
+    "question": "Which statement correctly describes use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Acknowledging uncertainty weakens an argument",
-      "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "Use uncertainty to set an honest conclusion boundary",
-      "A response that mentions use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "engaging in evidence-based debates about the role of human activity in global climate change",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.\nHint: Use uncertainty to set an honest conclusion boundary.",
+    "explanation": "engaging in evidence-based debates about the role of human activity in global climate change\nHint: Use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "engaging in evidence-based debates about the role of human activity in global climate change",
+      "hint": "Use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how source credibility helps make sense of from a range of evidence to support or rebut",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how source credibility helps make sense of from a range of evidence to support or rebut",
+    "question": "Which statement correctly describes use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A persuasive tone strengthens scientific evidence",
-      "Evaluate data quality and reasoning before rhetoric",
-      "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "A response that mentions use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.\nHint: Evaluate data quality and reasoning before rhetoric.",
+    "explanation": "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research\nHint: Use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research",
+      "hint": "Use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how reasoning and rebuttal helps make sense of secondary data to determine the credibility of the source",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how reasoning and rebuttal helps make sense of secondary data to determine the credibility of the source",
+    "question": "Which statement correctly describes use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Acknowledging uncertainty weakens an argument",
-      "Use uncertainty to set an honest conclusion boundary",
-      "A response that mentions use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.\nHint: Use uncertainty to set an honest conclusion boundary.",
+    "explanation": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources\nHint: Use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources",
+      "hint": "Use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how ethical use and boundary helps make sense of the need to critically analyse scientific literature for potential",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how ethical use and boundary helps make sense of the need to critically analyse scientific literature for potential",
+    "question": "Which statement correctly describes use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+      "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians",
       "A persuasive tone strengthens scientific evidence",
-      "Evaluate data quality and reasoning before rhetoric",
-      "A response that mentions use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.\nHint: Evaluate data quality and reasoning before rhetoric.",
+    "explanation": "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians\nHint: Use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians",
+      "hint": "Use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the ethical issues of non therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how claim helps make sense of the ethical issues of non-therapeutic genetic testing performed",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how claim helps make sense of the ethical issues of non-therapeutic genetic testing performed",
+    "question": "Which statement correctly describes use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Acknowledging uncertainty weakens an argument",
-      "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "Use uncertainty to set an honest conclusion boundary",
-      "A response that mentions use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.\nHint: Use uncertainty to set an honest conclusion boundary.",
+    "explanation": "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies\nHint: Use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies",
+      "hint": "Use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how evidence set helps make sense of primary or secondary scientific evidence to support or oppose",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how evidence set helps make sense of primary or secondary scientific evidence to support or oppose",
+    "question": "Which statement correctly describes use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A persuasive tone strengthens scientific evidence",
-      "Evaluate data quality and reasoning before rhetoric",
-      "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "A response that mentions use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.\nHint: Evaluate data quality and reasoning before rhetoric.",
+    "explanation": "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change\nHint: Use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change",
+      "hint": "Use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, In 20 seconds, explain how source credibility helps make sense of an argument for increased funding for a particular scientific",
-    "audioPrompt": "During an independent review, In 20 seconds, explain how source credibility helps make sense of an argument for increased funding for a particular scientific",
+    "question": "Which statement correctly describes use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Acknowledging uncertainty weakens an argument",
-      "Use uncertainty to set an honest conclusion boundary",
-      "A response that mentions use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "preparing an argument for increased funding for a particular scientific research focus"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.\nHint: Use uncertainty to set an honest conclusion boundary.",
+    "explanation": "preparing an argument for increased funding for a particular scientific research focus\nHint: Use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "preparing an argument for increased funding for a particular scientific research focus",
+      "hint": "Use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

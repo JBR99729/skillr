@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how synthesis helps make sense of representing synthesis, decomposition and displacement reactions using a variety",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how synthesis helps make sense of representing synthesis, decomposition and displacement reactions using a variety",
+    "question": "Which statement correctly describes use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns.",
+      "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
       "A catalyst increases the amount of product",
-      "Separate faster pathway from equilibrium amount in the selected reaction",
-      "A response that mentions use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns.\nHint: Separate faster pathway from equilibrium amount in the selected reaction.",
+    "explanation": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations\nHint: Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns.",
-      "hint": "Separate faster pathway from equilibrium amount in the selected reaction."
+      "summary": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
+      "hint": "Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how decomposition helps make sense of reaction type and predicting the products",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how decomposition helps make sense of reaction type and predicting the products",
+    "question": "Which statement correctly describes use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Hotter particles become larger",
-      "The response should use the displayed example and connect it to this idea: Balanced representations conserve atoms.",
-      "Model increased speed and collision frequency, not particle size",
-      "A response that mentions use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "identifying reaction type and predicting the products",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Balanced representations conserve atoms.\nHint: Model increased speed and collision frequency, not particle size.",
+    "explanation": "identifying reaction type and predicting the products\nHint: Use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Balanced representations conserve atoms.",
-      "hint": "Model increased speed and collision frequency, not particle size."
+      "summary": "identifying reaction type and predicting the products",
+      "hint": "Use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use synthesis reactions to make the role of displacement visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how displacement helps make sense of synthesis reactions",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how displacement helps make sense of synthesis reactions",
+    "question": "Which statement correctly describes use synthesis reactions to make the role of displacement visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use synthesis reactions to make the role of displacement visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A catalyst increases the amount of product",
-      "Separate faster pathway from equilibrium amount in the selected reaction",
-      "The response should use the displayed example and connect it to this idea: Rate depends on the frequency of successful collisions and can be changed by key factors.",
-      "A response that mentions use synthesis reactions to make the role of displacement visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Rate depends on the frequency of successful collisions and can be changed by key factors.\nHint: Separate faster pathway from equilibrium amount in the selected reaction.",
+    "explanation": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation\nHint: Use synthesis reactions to make the role of displacement visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Rate depends on the frequency of successful collisions and can be changed by key factors.",
-      "hint": "Separate faster pathway from equilibrium amount in the selected reaction."
+      "summary": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
+      "hint": "Use synthesis reactions to make the role of displacement visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how collision model helps make sense of the effect of a range of factors",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how collision model helps make sense of the effect of a range of factors",
+    "question": "Which statement correctly describes use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Hotter particles become larger",
-      "Model increased speed and collision frequency, not particle size",
-      "A response that mentions use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns.\nHint: Model increased speed and collision frequency, not particle size.",
+    "explanation": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions\nHint: Use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns.",
-      "hint": "Model increased speed and collision frequency, not particle size."
+      "summary": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions",
+      "hint": "Use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use chemical reactions employed by first nations australians to make the role of temperature concentration surface area and catalyst visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how temperature, concentration, surface area and catalyst helps make sense of chemical reactions employed by first nations australians",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how temperature, concentration, surface area and catalyst helps make sense of chemical reactions employed by first nations australians",
+    "question": "Which statement correctly describes use chemical reactions employed by first nations australians to make the role of temperature, concentration, surface area and catalyst visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use chemical reactions employed by first nations australians to make the role of temperature, concentration, surface area and catalyst visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Balanced representations conserve atoms.",
+      "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
       "A catalyst increases the amount of product",
-      "Separate faster pathway from equilibrium amount in the selected reaction",
-      "A response that mentions use chemical reactions employed by first nations australians to make the role of temperature, concentration, surface area and catalyst visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Balanced representations conserve atoms.\nHint: Separate faster pathway from equilibrium amount in the selected reaction.",
+    "explanation": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol\nHint: Use chemical reactions employed by First Nations Australians to make the role of temperature, concentration, surface area and catalyst visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Balanced representations conserve atoms.",
-      "hint": "Separate faster pathway from equilibrium amount in the selected reaction."
+      "summary": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
+      "hint": "Use chemical reactions employed by First Nations Australians to make the role of temperature, concentration, surface area and catalyst visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how synthesis helps make sense of some of the chemical reactions and methods employed",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how synthesis helps make sense of some of the chemical reactions and methods employed",
+    "question": "Which statement correctly describes use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Hotter particles become larger",
-      "The response should use the displayed example and connect it to this idea: Rate depends on the frequency of successful collisions and can be changed by key factors.",
-      "Model increased speed and collision frequency, not particle size",
-      "A response that mentions use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Rate depends on the frequency of successful collisions and can be changed by key factors.\nHint: Model increased speed and collision frequency, not particle size.",
+    "explanation": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products\nHint: Use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Rate depends on the frequency of successful collisions and can be changed by key factors.",
-      "hint": "Model increased speed and collision frequency, not particle size."
+      "summary": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
+      "hint": "Use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how decomposition helps make sense of reactions that are used to produce a range",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how decomposition helps make sense of reactions that are used to produce a range",
+    "question": "Which statement correctly describes use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A catalyst increases the amount of product",
-      "Separate faster pathway from equilibrium amount in the selected reaction",
-      "The response should use the displayed example and connect it to this idea: Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns.",
-      "A response that mentions use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "examining reactions that are used to produce a range of useful products",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns.\nHint: Separate faster pathway from equilibrium amount in the selected reaction.",
+    "explanation": "examining reactions that are used to produce a range of useful products\nHint: Use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns.",
-      "hint": "Separate faster pathway from equilibrium amount in the selected reaction."
+      "summary": "examining reactions that are used to produce a range of useful products",
+      "hint": "Use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, Use the central model to explain reaction patterns and reaction rate in three linked sentences",
-    "audioPrompt": "During an independent review, Use the central model to explain reaction patterns and reaction rate in three linked sentences",
+    "question": "Which statement gives a valid example of use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A catalyst increases the amount of product",
       "Hotter particles become larger",
-      "Model increased speed and collision frequency, not particle size",
-      "Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns. Balanced representations conserve atoms. Rate depends on the frequency of successful collisions and can be changed by key factors."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations"
     ],
     "correct": 3,
-    "explanation": "Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns. Balanced representations conserve atoms. Rate depends on the frequency of successful collisions and can be changed by key factors.\nHint: Separate faster pathway from equilibrium amount in the selected reaction.",
+    "explanation": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations\nHint: Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Synthesis, decomposition and displacement reactions have recognisable reactant–product patterns. Balanced representations conserve atoms. Rate depends on the frequency of successful collisions and can be changed by key factors.",
-      "hint": "Separate faster pathway from equilibrium amount in the selected reaction."
+      "summary": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
+      "hint": "Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

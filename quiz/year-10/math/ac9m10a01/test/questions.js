@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explaining the relationship between factorisation and expansion including the completed square form for quadratic expressions",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For connect expansion, factorisation and completed square, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For connect expansion, factorisation and completed square, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "When would you use explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
+    "audioPrompt": "When would you use explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions\nHint: explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
+      "hint": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For use integer exponent laws in equations, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For use integer exponent laws in equations, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "When would you use apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
+    "audioPrompt": "When would you use apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically\nHint: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
+      "hint": "Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "explaining the relationship between factorisation and expansion including the completed square form for quadratic expressions",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For connect expansion, factorisation and completed square, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For connect expansion, factorisation and completed square, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
+    "audioPrompt": "Which choice demonstrates explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions but does not justify the relationship",
-      "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The advanced algebraic equivalence model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions\nHint: explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
+      "hint": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For use integer exponent laws in equations, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For use integer exponent laws in equations, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
+    "audioPrompt": "Which choice demonstrates apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically\nHint: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
+      "hint": "Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "explaining the relationship between factorisation and expansion including the completed square form for quadratic expressions",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For connect expansion, factorisation and completed square, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For connect expansion, factorisation and completed square, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "What does correct application require for explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
+    "audioPrompt": "What does correct application require for explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions\nHint: explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
+      "hint": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For use integer exponent laws in equations, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For use integer exponent laws in equations, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "What does correct application require for apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
+    "audioPrompt": "What does correct application require for apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The advanced algebraic equivalence model is copied without interpretation",
+      "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically\nHint: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
+      "hint": "Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "explaining the relationship between factorisation and expansion including the completed square form for quadratic expressions",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For connect expansion, factorisation and completed square, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For connect expansion, factorisation and completed square, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which claim is accurate about explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
+    "audioPrompt": "Which claim is accurate about explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions but does not justify the relationship",
-      "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions\nHint: explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions",
+      "hint": "explaining the relationship between factorisation and expansion, including the completed square form for quadratic expressions."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For use integer exponent laws in equations, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For use integer exponent laws in equations, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which claim is accurate about apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
+    "audioPrompt": "Which claim is accurate about apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically\nHint: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically",
+      "hint": "Apply knowledge of exponent laws to algebraic terms and using both positive and negative integral exponents to simplifying algebraic expressions and solve equations algebraically."
     },
     "qualitySchema": "production-v1"
   }

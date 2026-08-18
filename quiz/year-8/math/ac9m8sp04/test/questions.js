@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For test and debug a geometric algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For test and debug a geometric algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
+    "question": "Which response correctly uses evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
+    "audioPrompt": "Which response correctly uses evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles\nHint: evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
+      "hint": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For design a congruence decision tree, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For design a congruence decision tree, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for listing the properties or criteria necessary to determine if shapes are similar or congruent?",
+    "audioPrompt": "Which interpretation is accurate for listing the properties or criteria necessary to determine if shapes are similar or congruent?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Listing the properties or criteria necessary to determine if shapes are similar or congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions listing the properties or criteria necessary to determine if shapes are similar or congruent but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "listing the properties or criteria necessary to determine if shapes are similar or congruent",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Listing the properties or criteria necessary to determine if shapes are similar or congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Listing the properties or criteria necessary to determine if shapes are similar or congruent.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "listing the properties or criteria necessary to determine if shapes are similar or congruent\nHint: listing the properties or criteria necessary to determine if shapes are similar or congruent.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Listing the properties or criteria necessary to determine if shapes are similar or congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Listing the properties or criteria necessary to determine if shapes are similar or congruent.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
+      "hint": "listing the properties or criteria necessary to determine if shapes are similar or congruent."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For design a similarity decision tree, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For design a similarity decision tree, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
+    "audioPrompt": "Which interpretation is accurate for use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm but does not justify the relationship",
-      "Use the model evidence: Equal corresponding angles and one common side scale factor establish similarity; equal lengths establish congruence. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The algorithms for congruence and similarity model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Equal corresponding angles and one common side scale factor establish similarity; equal lengths establish congruence. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Equal corresponding angles and one common side scale factor establish similarity; equal lengths establish congruence.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart\nHint: Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Equal corresponding angles and one common side scale factor establish similarity; equal lengths establish congruence. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Equal corresponding angles and one common side scale factor establish similarity; equal lengths establish congruence.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
+      "hint": "Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For test and debug a geometric algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For test and debug a geometric algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
+    "audioPrompt": "Which interpretation is accurate for evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles\nHint: evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
+      "hint": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For design a congruence decision tree, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For design a congruence decision tree, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "When would you use listing the properties or criteria necessary to determine if shapes are similar or congruent?",
+    "audioPrompt": "When would you use listing the properties or criteria necessary to determine if shapes are similar or congruent?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Listing the properties or criteria necessary to determine if shapes are similar or congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "listing the properties or criteria necessary to determine if shapes are similar or congruent",
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions listing the properties or criteria necessary to determine if shapes are similar or congruent but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Listing the properties or criteria necessary to determine if shapes are similar or congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Listing the properties or criteria necessary to determine if shapes are similar or congruent.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "listing the properties or criteria necessary to determine if shapes are similar or congruent\nHint: listing the properties or criteria necessary to determine if shapes are similar or congruent.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Listing the properties or criteria necessary to determine if shapes are similar or congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Listing the properties or criteria necessary to determine if shapes are similar or congruent.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
+      "hint": "listing the properties or criteria necessary to determine if shapes are similar or congruent."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For design a similarity decision tree, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For design a similarity decision tree, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "When would you use use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
+    "audioPrompt": "When would you use use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Equal corresponding angles and one common side scale factor establish similarity; equal lengths establish congruence. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The algorithms for congruence and similarity model is copied without interpretation",
+      "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Equal corresponding angles and one common side scale factor establish similarity; equal lengths establish congruence. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Equal corresponding angles and one common side scale factor establish similarity; equal lengths establish congruence.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart\nHint: Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Equal corresponding angles and one common side scale factor establish similarity; equal lengths establish congruence. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Equal corresponding angles and one common side scale factor establish similarity; equal lengths establish congruence.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
+      "hint": "Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For test and debug a geometric algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For test and debug a geometric algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
+    "question": "When would you use evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
+    "audioPrompt": "When would you use evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles but does not justify the relationship",
-      "Use the model evidence: Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles\nHint: evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
+      "hint": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For design a congruence decision tree, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For design a congruence decision tree, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates listing the properties or criteria necessary to determine if shapes are similar or congruent?",
+    "audioPrompt": "Which choice demonstrates listing the properties or criteria necessary to determine if shapes are similar or congruent?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions listing the properties or criteria necessary to determine if shapes are similar or congruent but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Listing the properties or criteria necessary to determine if shapes are similar or congruent. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "listing the properties or criteria necessary to determine if shapes are similar or congruent"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Listing the properties or criteria necessary to determine if shapes are similar or congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Listing the properties or criteria necessary to determine if shapes are similar or congruent.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "listing the properties or criteria necessary to determine if shapes are similar or congruent\nHint: listing the properties or criteria necessary to determine if shapes are similar or congruent.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Listing the properties or criteria necessary to determine if shapes are similar or congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Listing the properties or criteria necessary to determine if shapes are similar or congruent.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
+      "hint": "listing the properties or criteria necessary to determine if shapes are similar or congruent."
     },
     "qualitySchema": "production-v1"
   }

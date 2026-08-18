@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use karyotypes and applications of gene technologies to make the role of scientific question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, Use the central model to explain science and technology advance together in three linked sentences Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, Use the central model to explain science and technology advance together in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use karyotypes and applications of gene technologies to make the role of scientific question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use karyotypes and applications of gene technologies to make the role of scientific question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Technologies extend observation, measurement and analysis. Scientific knowledge informs engineering design. Science–technology relationships are iterative and include limitations.",
+      "examining karyotypes and applications of gene technologies, such as gene therapy and genetic engineering and biotechnologies used to produce therapeutic proteins",
       "Technology is only applied science",
-      "Trace feedback in both directions between tool and knowledge",
-      "A response that mentions use karyotypes and applications of gene technologies to make the role of scientific question visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Technologies extend observation, measurement and analysis. Scientific knowledge informs engineering design. Science–technology relationships are iterative and include limitations.\nHint: Trace feedback in both directions between tool and knowledge.",
+    "explanation": "examining karyotypes and applications of gene technologies, such as gene therapy and genetic engineering and biotechnologies used to produce therapeutic proteins\nHint: Use karyotypes and applications of gene technologies to make the role of scientific question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Technologies extend observation, measurement and analysis. Scientific knowledge informs engineering design. Science–technology relationships are iterative and include limitations.",
-      "hint": "Trace feedback in both directions between tool and knowledge."
+      "summary": "examining karyotypes and applications of gene technologies, such as gene therapy and genetic engineering and biotechnologies used to produce therapeutic proteins",
+      "hint": "Use karyotypes and applications of gene technologies to make the role of scientific question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use the development of fast computers has made possible to make the role of technology visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how scientific question helps make sense of karyotypes and applications of gene technologies Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, In 20 seconds, explain how scientific question helps make sense of karyotypes and applications of gene technologies Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the development of fast computers has made possible to make the role of technology visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use the development of fast computers has made possible to make the role of technology visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Technology is only applied science",
-      "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.",
       "A more advanced instrument removes uncertainty",
-      "Identify new sensitivity alongside calibration, sampling and interpretation limits"
+      "recognising that the development of fast computers has made possible the analysis of DNA sequencing, radio astronomy signals and other data generated by major international science projects such as the Event Horizon Telescope, Large Hadron Collider, the Laser Interferometer Gravitational-Wave Observatory and the Square Kilometre Array",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.\nHint: Trace feedback in both directions between tool and knowledge.",
+    "explanation": "recognising that the development of fast computers has made possible the analysis of DNA sequencing, radio astronomy signals and other data generated by major international science projects such as the Event Horizon Telescope, Large Hadron Collider, the Laser Interferometer Gravitational-Wave Observatory and the Square Kilometre Array\nHint: Use the development of fast computers has made possible to make the role of technology visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.",
-      "hint": "Trace feedback in both directions between tool and knowledge."
+      "summary": "recognising that the development of fast computers has made possible the analysis of DNA sequencing, radio astronomy signals and other data generated by major international science projects such as the Event Horizon Telescope, Large Hadron Collider, the Laser Interferometer Gravitational-Wave Observatory and the Square Kilometre Array",
+      "hint": "Use the development of fast computers has made possible to make the role of technology visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use how computer modelling has improved knowledge and predictability to make the role of new data visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, In 20 seconds, explain how technology helps make sense of the development of fast computers has made possible Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, In 20 seconds, explain how technology helps make sense of the development of fast computers has made possible Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how computer modelling has improved knowledge and predictability to make the role of new data visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how computer modelling has improved knowledge and predictability to make the role of new data visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A more advanced instrument removes uncertainty",
       "Technology is only applied science",
-      "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.",
-      "Trace feedback in both directions between tool and knowledge"
+      "The method can be chosen without checking the values or conditions",
+      "considering how computer modelling has improved knowledge and predictability of phenomena such as climate change and atmospheric pollution",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.\nHint: Identify new sensitivity alongside calibration, sampling and interpretation limits.",
+    "explanation": "considering how computer modelling has improved knowledge and predictability of phenomena such as climate change and atmospheric pollution\nHint: Use how computer modelling has improved knowledge and predictability to make the role of new data visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.",
-      "hint": "Identify new sensitivity alongside calibration, sampling and interpretation limits."
+      "summary": "considering how computer modelling has improved knowledge and predictability of phenomena such as climate change and atmospheric pollution",
+      "hint": "Use how computer modelling has improved knowledge and predictability to make the role of new data visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how satellites generate global data to make the role of new explanation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, In 20 seconds, explain how new data helps make sense of how computer modelling has improved knowledge and predictability Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, In 20 seconds, explain how new data helps make sense of how computer modelling has improved knowledge and predictability Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how satellites generate global data to make the role of new explanation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how satellites generate global data to make the role of new explanation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Technology is only applied science",
       "A more advanced instrument removes uncertainty",
-      "Identify new sensitivity alongside calibration, sampling and interpretation limits",
-      "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating how satellites generate global data including ocean temperatures, sea levels and forest and ice cover and examining how that data is used to evaluate the effects of climate change"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.\nHint: Trace feedback in both directions between tool and knowledge.",
+    "explanation": "investigating how satellites generate global data including ocean temperatures, sea levels and forest and ice cover and examining how that data is used to evaluate the effects of climate change\nHint: Use how satellites generate global data to make the role of new explanation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.",
-      "hint": "Trace feedback in both directions between tool and knowledge."
+      "summary": "investigating how satellites generate global data including ocean temperatures, sea levels and forest and ice cover and examining how that data is used to evaluate the effects of climate change",
+      "hint": "Use how satellites generate global data to make the role of new explanation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use how an understanding of the way dna stores data to make the role of engineering application visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, In 20 seconds, explain how new explanation helps make sense of how satellites generate global data Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, In 20 seconds, explain how new explanation helps make sense of how satellites generate global data Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how an understanding of the way dna stores data to make the role of engineering application visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how an understanding of the way dna stores data to make the role of engineering application visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.",
-      "A more advanced instrument removes uncertainty",
+      "researching how an understanding of the way DNA stores data has been applied to DNA bar coding to accelerate the pace of research in fields such as chemical engineering, materials science and nanotechnology",
       "Technology is only applied science",
-      "Trace feedback in both directions between tool and knowledge"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.\nHint: Identify new sensitivity alongside calibration, sampling and interpretation limits.",
+    "explanation": "researching how an understanding of the way DNA stores data has been applied to DNA bar coding to accelerate the pace of research in fields such as chemical engineering, materials science and nanotechnology\nHint: Use how an understanding of the way DNA stores data to make the role of engineering application visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.",
-      "hint": "Identify new sensitivity alongside calibration, sampling and interpretation limits."
+      "summary": "researching how an understanding of the way DNA stores data has been applied to DNA bar coding to accelerate the pace of research in fields such as chemical engineering, materials science and nanotechnology",
+      "hint": "Use how an understanding of the way DNA stores data to make the role of engineering application visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use how the recent use of female crash test dummies to make the role of scientific question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, In 20 seconds, explain how engineering application helps make sense of how an understanding of the way dna stores data Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, In 20 seconds, explain how engineering application helps make sense of how an understanding of the way dna stores data Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how the recent use of female crash test dummies to make the role of scientific question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how the recent use of female crash test dummies to make the role of scientific question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Technology is only applied science",
-      "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.",
       "A more advanced instrument removes uncertainty",
-      "Identify new sensitivity alongside calibration, sampling and interpretation limits"
+      "examining how the recent use of female crash test dummies has shown women are at greater risk of injury in a car accident and considering implications for changing car safety features",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.\nHint: Trace feedback in both directions between tool and knowledge.",
+    "explanation": "examining how the recent use of female crash test dummies has shown women are at greater risk of injury in a car accident and considering implications for changing car safety features\nHint: Use how the recent use of female crash test dummies to make the role of scientific question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Scientific knowledge informs engineering design.",
-      "hint": "Trace feedback in both directions between tool and knowledge."
+      "summary": "examining how the recent use of female crash test dummies has shown women are at greater risk of injury in a car accident and considering implications for changing car safety features",
+      "hint": "Use how the recent use of female crash test dummies to make the role of scientific question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use how the development of new materials and thin films to make the role of technology visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, In 20 seconds, explain how scientific question helps make sense of how the recent use of female crash test dummies Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, In 20 seconds, explain how scientific question helps make sense of how the recent use of female crash test dummies Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how the development of new materials and thin films to make the role of technology visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how the development of new materials and thin films to make the role of technology visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A more advanced instrument removes uncertainty",
       "Technology is only applied science",
-      "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.",
-      "Trace feedback in both directions between tool and knowledge"
+      "The method can be chosen without checking the values or conditions",
+      "exploring how the development of new materials and thin films has led to better computer chips and solar cells",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.\nHint: Identify new sensitivity alongside calibration, sampling and interpretation limits.",
+    "explanation": "exploring how the development of new materials and thin films has led to better computer chips and solar cells\nHint: Use how the development of new materials and thin films to make the role of technology visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Science–technology relationships are iterative and include limitations.",
-      "hint": "Identify new sensitivity alongside calibration, sampling and interpretation limits."
+      "summary": "exploring how the development of new materials and thin films has led to better computer chips and solar cells",
+      "hint": "Use how the development of new materials and thin films to make the role of technology visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use how the development of superstrong lighter alloys has enabled to make the role of new data visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, In 20 seconds, explain how technology helps make sense of how the development of new materials and thin films Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, In 20 seconds, explain how technology helps make sense of how the development of new materials and thin films Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how the development of superstrong, lighter alloys has enabled to make the role of new data visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how the development of superstrong, lighter alloys has enabled to make the role of new data visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Technology is only applied science",
       "A more advanced instrument removes uncertainty",
-      "Identify new sensitivity alongside calibration, sampling and interpretation limits",
-      "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating how the development of superstrong, lighter alloys has enabled engineers to improve structural components in building, transportation and industry and to design products such as improved protective armour for police and soldiers"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.\nHint: Trace feedback in both directions between tool and knowledge.",
+    "explanation": "investigating how the development of superstrong, lighter alloys has enabled engineers to improve structural components in building, transportation and industry and to design products such as improved protective armour for police and soldiers\nHint: Use how the development of superstrong, lighter alloys has enabled to make the role of new data visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Technologies extend observation, measurement and analysis.",
-      "hint": "Trace feedback in both directions between tool and knowledge."
+      "summary": "investigating how the development of superstrong, lighter alloys has enabled engineers to improve structural components in building, transportation and industry and to design products such as improved protective armour for police and soldiers",
+      "hint": "Use how the development of superstrong, lighter alloys has enabled to make the role of new data visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

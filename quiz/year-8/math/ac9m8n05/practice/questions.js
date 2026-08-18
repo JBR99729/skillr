@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For model signed environmental change, what changes, what stays invariant, and why",
-    "audioPrompt": "During a guided example, For model signed environmental change, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers?",
+    "audioPrompt": "Which statement correctly describes model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "modelling situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers; for example, involving average temperature increases and decreases",
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Involving average temperature increases and decreases.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers; for example, involving average temperature increases and decreases\nHint: Model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Involving average temperature increases and decreases.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers; for example, involving average temperature increases and decreases",
+      "hint": "Model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations that involve percentage increases or decreases and explaining why it is an increase or decrease such as mark ups discounts goods and services tax",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For use percentage increase and decrease, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a comparison task, For use percentage increase and decrease, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax?",
+    "audioPrompt": "Which statement correctly describes model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The modelling rational numbers and percentages model is copied without interpretation",
+      "modelling situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates\nHint: Model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates",
+      "hint": "Model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving personal income tax interpreting tax tables to determine income tax at various levels of income including overall percentage of income allocated to tax",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For interpret a personal income-tax table, which pattern in the table supports the conclusion",
-    "audioPrompt": "During an error analysis, For interpret a personal income-tax table, which pattern in the table supports the conclusion",
+    "question": "Which statement correctly describes model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax?",
+    "audioPrompt": "Which statement correctly describes model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax but does not justify the relationship",
-      "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "modelling situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax\nHint: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax",
+      "hint": "Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving percentage increase or decrease such as market trends effects on population or effects on the environment over extended time periods",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For model percentage change over time, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a model interpretation, For model percentage change over time, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods?",
+    "audioPrompt": "Which statement correctly describes model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "modelling situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Market trends, effects on population, or effects on the environment over extended time periods.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods\nHint: Model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Market trends, effects on population, or effects on the environment over extended time periods.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods",
+      "hint": "Model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For model signed environmental change, what changes, what stays invariant, and why",
-    "audioPrompt": "During an evidence check, For model signed environmental change, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers?",
+    "audioPrompt": "Which statement gives a valid example of model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "modelling situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers; for example, involving average temperature increases and decreases",
+      "The modelling rational numbers and percentages model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Involving average temperature increases and decreases.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers; for example, involving average temperature increases and decreases\nHint: Model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Involving average temperature increases and decreases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Involving average temperature increases and decreases.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers; for example, involving average temperature increases and decreases",
+      "hint": "Model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations that involve percentage increases or decreases and explaining why it is an increase or decrease such as mark ups discounts goods and services tax",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For use percentage increase and decrease, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a transfer problem, For use percentage increase and decrease, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax?",
+    "audioPrompt": "Which statement gives a valid example of model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "modelling situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates\nHint: Model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates",
+      "hint": "Model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving personal income tax interpreting tax tables to determine income tax at various levels of income including overall percentage of income allocated to tax",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For interpret a personal income-tax table, which pattern in the table supports the conclusion",
-    "audioPrompt": "During a peer explanation, For interpret a personal income-tax table, which pattern in the table supports the conclusion",
+    "question": "Which statement gives a valid example of model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax?",
+    "audioPrompt": "Which statement gives a valid example of model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax but does not justify the relationship",
-      "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "modelling situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax\nHint: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax",
+      "hint": "Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving percentage increase or decrease such as market trends effects on population or effects on the environment over extended time periods",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For model percentage change over time, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an independent review, For model percentage change over time, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods?",
+    "audioPrompt": "Which statement gives a valid example of model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The modelling rational numbers and percentages model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "modelling situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Market trends, effects on population, or effects on the environment over extended time periods.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods\nHint: Model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Market trends, effects on population, or effects on the environment over extended time periods. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Market trends, effects on population, or effects on the environment over extended time periods.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods",
+      "hint": "Model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods."
     },
     "qualitySchema": "production-v1"
   }

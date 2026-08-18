@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, In 20 seconds, explain how descriptive statistic helps make sense of applying algorithms to measure carbon storage of different vegetation Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, In 20 seconds, explain how descriptive statistic helps make sense of applying algorithms to measure carbon storage of different vegetation Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
+      "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams",
       "The representation with the most features is best",
-      "Choose the simplest form that answers the question without hiding uncertainty",
-      "A response that mentions use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.\nHint: Choose the simplest form that answers the question without hiding uncertainty.",
+    "explanation": "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams\nHint: Use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams",
+      "hint": "Use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how model or equation helps make sense of applying ratios to accurately represent usable and waste energy Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, In 20 seconds, explain how model or equation helps make sense of applying ratios to accurately represent usable and waste energy Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Changing an axis only changes appearance",
-      "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
-      "Compare how scale changes perceived magnitude and slope",
-      "A response that mentions use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.\nHint: Compare how scale changes perceived magnitude and slope.",
+    "explanation": "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass\nHint: Use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
-      "hint": "Compare how scale changes perceived magnitude and slope."
+      "summary": "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass",
+      "hint": "Use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, In 20 seconds, explain how scale and limitation helps make sense of the information provided by molecular models and word Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, In 20 seconds, explain how scale and limitation helps make sense of the information provided by molecular models and word Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "The representation with the most features is best",
-      "Choose the simplest form that answers the question without hiding uncertainty",
-      "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
-      "A response that mentions use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "using spreadsheet software to present data in tabular and graphical forms",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.\nHint: Choose the simplest form that answers the question without hiding uncertainty.",
+    "explanation": "using spreadsheet software to present data in tabular and graphical forms\nHint: Use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "using spreadsheet software to present data in tabular and graphical forms",
+      "hint": "Use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use which sample properties to make the role of table or graph visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, Use the central model to explain represent data without distortion in three linked sentences Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, Use the central model to explain represent data without distortion in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use which sample properties to make the role of table or graph visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use which sample properties to make the role of table or graph visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The representation with the most features is best",
       "Changing an axis only changes appearance",
-      "Compare how scale changes perceived magnitude and slope",
-      "Representation choice is purpose- and data-dependent. Conventions and scale affect interpretation. Statistics and models summarise evidence but have limitations."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations"
     ],
     "correct": 3,
-    "explanation": "Representation choice is purpose- and data-dependent. Conventions and scale affect interpretation. Statistics and models summarise evidence but have limitations.\nHint: Choose the simplest form that answers the question without hiding uncertainty.",
+    "explanation": "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations\nHint: Use which sample properties to make the role of table or graph visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Representation choice is purpose- and data-dependent. Conventions and scale affect interpretation. Statistics and models summarise evidence but have limitations.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations",
+      "hint": "Use which sample properties to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, In 20 seconds, explain how data purpose helps make sense of spreadsheet software to present data in tabular and graphical Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, In 20 seconds, explain how data purpose helps make sense of spreadsheet software to present data in tabular and graphical Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
+      "applying algorithms to measure carbon storage of different vegetation types",
       "The representation with the most features is best",
-      "Choose the simplest form that answers the question without hiding uncertainty",
-      "A response that mentions use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.\nHint: Choose the simplest form that answers the question without hiding uncertainty.",
+    "explanation": "applying algorithms to measure carbon storage of different vegetation types\nHint: Use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "applying algorithms to measure carbon storage of different vegetation types",
+      "hint": "Use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, In 20 seconds, explain how table or graph helps make sense of which sample properties Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, In 20 seconds, explain how table or graph helps make sense of which sample properties Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Changing an axis only changes appearance",
-      "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
-      "Compare how scale changes perceived magnitude and slope",
-      "A response that mentions use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.\nHint: Compare how scale changes perceived magnitude and slope.",
+    "explanation": "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams\nHint: Use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
-      "hint": "Compare how scale changes perceived magnitude and slope."
+      "summary": "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams",
+      "hint": "Use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, In 20 seconds, explain how descriptive statistic helps make sense of applying algorithms to measure carbon storage of different vegetation Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, In 20 seconds, explain how descriptive statistic helps make sense of applying algorithms to measure carbon storage of different vegetation Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "The representation with the most features is best",
-      "Choose the simplest form that answers the question without hiding uncertainty",
-      "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
-      "A response that mentions use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.\nHint: Choose the simplest form that answers the question without hiding uncertainty.",
+    "explanation": "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass\nHint: Use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass",
+      "hint": "Use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, In 20 seconds, explain how model or equation helps make sense of applying ratios to accurately represent usable and waste energy Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, In 20 seconds, explain how model or equation helps make sense of applying ratios to accurately represent usable and waste energy Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which interpretation is accurate for use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Changing an axis only changes appearance",
-      "Compare how scale changes perceived magnitude and slope",
-      "A response that mentions use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using spreadsheet software to present data in tabular and graphical forms"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.\nHint: Compare how scale changes perceived magnitude and slope.",
+    "explanation": "using spreadsheet software to present data in tabular and graphical forms\nHint: Use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
-      "hint": "Compare how scale changes perceived magnitude and slope."
+      "summary": "using spreadsheet software to present data in tabular and graphical forms",
+      "hint": "Use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving linear functions including practical contexts such as taxi fares involving flag fall fees motion in a straight line at a constant speed",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For build a linear model from a context, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During a guided example, For build a linear model from a context, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed?",
+    "audioPrompt": "Which statement correctly describes model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range",
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range\nHint: Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range",
+      "hint": "Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "model problems in practical situations and interpreting solutions within the context of the problem including giving attention to all units of measure and whether results are suitable",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For compare financial linear models, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During a comparison task, For compare financial linear models, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable?",
+    "audioPrompt": "Which statement correctly describes model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: Once a water tank is empty no more water can flow from it. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The modelling with linear relations model is copied without interpretation",
+      "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Once a water tank is empty no more water can flow from it. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Once a water tank is empty no more water can flow from it.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it\nHint: Model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Once a water tank is empty no more water can flow from it. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Once a water tank is empty no more water can flow from it.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it",
+      "hint": "Model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "model financial problems involving pay rates using a table of values to represent the pay amounts and hours worked using an hourly rate of pay",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For choose a useful representation, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an error analysis, For choose a useful representation, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay?",
+    "audioPrompt": "Which statement correctly describes model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay but does not justify the relationship",
-      "Use the model evidence: Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences\nHint: Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences",
+      "hint": "Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "model patterns on country place and exploring their connections and meaning to linear equations using the model as a predictive tool and critiquing results by connecting back to country place",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For test the model's assumptions, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During a model interpretation, For test the model's assumptions, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes model patterns on country/place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to country/place?",
+    "audioPrompt": "Which statement correctly describes model patterns on country/place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to country/place?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions model patterns on country/place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to country/place but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place\nHint: Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place",
+      "hint": "Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving linear functions including practical contexts such as taxi fares involving flag fall fees motion in a straight line at a constant speed",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For build a linear model from a context, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During an evidence check, For build a linear model from a context, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement gives a valid example of model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed?",
+    "audioPrompt": "Which statement gives a valid example of model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range",
+      "The modelling with linear relations model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range\nHint: Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range",
+      "hint": "Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "model problems in practical situations and interpreting solutions within the context of the problem including giving attention to all units of measure and whether results are suitable",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For compare financial linear models, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During a transfer problem, For compare financial linear models, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement gives a valid example of model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable?",
+    "audioPrompt": "Which statement gives a valid example of model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: Once a water tank is empty no more water can flow from it. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Once a water tank is empty no more water can flow from it. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Once a water tank is empty no more water can flow from it.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it\nHint: Model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Once a water tank is empty no more water can flow from it. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Once a water tank is empty no more water can flow from it.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it",
+      "hint": "Model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "model financial problems involving pay rates using a table of values to represent the pay amounts and hours worked using an hourly rate of pay",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For choose a useful representation, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a peer explanation, For choose a useful representation, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay?",
+    "audioPrompt": "Which statement gives a valid example of model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay but does not justify the relationship",
-      "Use the model evidence: Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences\nHint: Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences",
+      "hint": "Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "model patterns on country place and exploring their connections and meaning to linear equations using the model as a predictive tool and critiquing results by connecting back to country place",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For test the model's assumptions, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During an independent review, For test the model's assumptions, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement gives a valid example of model patterns on country/place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to country/place?",
+    "audioPrompt": "Which statement gives a valid example of model patterns on country/place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to country/place?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions model patterns on country/place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to country/place but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The modelling with linear relations model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place\nHint: Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place",
+      "hint": "Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place."
     },
     "qualitySchema": "production-v1"
   }

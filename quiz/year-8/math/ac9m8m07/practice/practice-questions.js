@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "model and solving problems related to situations such as scales on maps and plans the mixing of chemicals or ingredients or calculating magnification factors applying relevant ratios",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For scale a multi-part ratio, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a guided example, For scale a multi-part ratio, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios?",
+    "audioPrompt": "Which statement correctly describes model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "modelling and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions\nHint: Model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions",
+      "hint": "Model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For model a direct rate, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a comparison task, For model a direct rate, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel?",
+    "audioPrompt": "Which statement correctly describes model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The modelling ratios and rates model is copied without interpretation",
+      "modelling problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel\nHint: Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel",
+      "hint": "Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving financial contexts",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For compare financial rates, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an error analysis, For compare financial rates, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model situations involving financial contexts?",
+    "audioPrompt": "Which statement correctly describes model situations involving financial contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions model situations involving financial contexts but does not justify the relationship",
-      "Use the model evidence: Income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "modelling situations involving financial contexts; for example, income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay; comparing the benefits of different phone plans using different call rates and associated fees to determine the best plan",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving financial contexts; for example, income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay; comparing the benefits of different phone plans using different call rates and associated fees to determine the best plan\nHint: Model situations involving financial contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving financial contexts; for example, income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay; comparing the benefits of different phone plans using different call rates and associated fees to determine the best plan",
+      "hint": "Model situations involving financial contexts."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving the use of ratios in radiocarbon dating methods including the ratio of carbon 14 to carbon 12 isotopes in organisms",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For interpret a ratio-model solution, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a model interpretation, For interpret a ratio-model solution, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms?",
+    "audioPrompt": "Which statement correctly describes model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "modelling situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms, to measure dates of First Peoples of Australia’s habitation on the Australian continent"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms, to measure dates of First Peoples of Australia’s habitation on the Australian continent\nHint: Model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms, to measure dates of First Peoples of Australia’s habitation on the Australian continent",
+      "hint": "Model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving ratio and its application in the making of string and cordage by first nations australians including the ratio of length to the mass of a rope",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For review proportional assumptions, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an evidence check, For review proportional assumptions, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model situations involving ratio and its application in the making of string and cordage by first nations australians, including the ratio of length to the mass of a rope?",
+    "audioPrompt": "Which statement correctly describes model situations involving ratio and its application in the making of string and cordage by first nations australians, including the ratio of length to the mass of a rope?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Model situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions model situations involving ratio and its application in the making of string and cordage by first nations australians, including the ratio of length to the mass of a rope but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "modelling situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope, the strength of the ply in proportion to a rope’s pulling force, and the proportion of fibre for the length of string required",
+      "The modelling ratios and rates model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Model situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope, the strength of the ply in proportion to a rope’s pulling force, and the proportion of fibre for the length of string required\nHint: Model situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope, the strength of the ply in proportion to a rope’s pulling force, and the proportion of fibre for the length of string required",
+      "hint": "Model situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "model and solving problems related to situations such as scales on maps and plans the mixing of chemicals or ingredients or calculating magnification factors applying relevant ratios",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For scale a multi-part ratio, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a transfer problem, For scale a multi-part ratio, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios?",
+    "audioPrompt": "Which statement gives a valid example of model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "modelling and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions\nHint: Model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions",
+      "hint": "Model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For model a direct rate, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a peer explanation, For model a direct rate, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel?",
+    "audioPrompt": "Which statement gives a valid example of model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel but does not justify the relationship",
-      "Use the model evidence: Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "modelling problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel\nHint: Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel",
+      "hint": "Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving financial contexts",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For compare financial rates, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an independent review, For compare financial rates, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of model situations involving financial contexts?",
+    "audioPrompt": "Which statement gives a valid example of model situations involving financial contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions model situations involving financial contexts but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The modelling ratios and rates model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "modelling situations involving financial contexts; for example, income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay; comparing the benefits of different phone plans using different call rates and associated fees to determine the best plan"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving financial contexts; for example, income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay; comparing the benefits of different phone plans using different call rates and associated fees to determine the best plan\nHint: Model situations involving financial contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving financial contexts; for example, income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay; comparing the benefits of different phone plans using different call rates and associated fees to determine the best plan",
+      "hint": "Model situations involving financial contexts."
     },
     "qualitySchema": "production-v1"
   }

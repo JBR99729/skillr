@@ -6,15 +6,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_how_a_tested_hypothesis_may_lead_to_further_predictions_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a guided example, In 20 seconds, explain how observation helps make sense of how a tested hypothesis may lead to further predictions",
-    "audio_prompt": "During a guided example, In 20 seconds, explain how observation helps make sense of how a tested hypothesis may lead to further predictions",
+    "question": "Which statement correctly describes use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "text": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+      "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_hypotheses_about_the_role_of_human_activity_in_changes_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a comparison task, In 20 seconds, explain how question helps make sense of hypotheses about the role of human activity in changes",
-    "audio_prompt": "During a comparison task, In 20 seconds, explain how question helps make sense of hypotheses about the role of human activity in changes",
+    "question": "Which statement correctly describes use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -55,22 +55,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+        "text": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
         "is_correct": true
       },
       {
-        "text": "Distinguish descriptive, relational and causal questions",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
-      "hint": "Distinguish descriptive, relational and causal questions."
+      "summary": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+      "hint": "Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_a_change_in_the_frequency_of_extreme_weather_events_to_make_the_role_of_variables_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an error analysis, In 20 seconds, explain how variables helps make sense of a change in the frequency of extreme weather events",
-    "audio_prompt": "During an error analysis, In 20 seconds, explain how variables helps make sense of a change in the frequency of extreme weather events",
+    "question": "Which statement correctly describes use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -92,22 +92,22 @@
         "is_correct": false
       },
       {
-        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
+        "text": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+      "hint": "Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_asking_questions_about_the_relationship_between_crash_impact_force_to_make_the_role_of_hypothesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a model interpretation, In 20 seconds, explain how hypothesis helps make sense of asking questions about the relationship between crash impact force",
-    "audio_prompt": "During a model interpretation, In 20 seconds, explain how hypothesis helps make sense of asking questions about the relationship between crash impact force",
+    "question": "Which statement correctly describes use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "Distinguish descriptive, relational and causal questions",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "text": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
-      "hint": "Distinguish descriptive, relational and causal questions."
+      "summary": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+      "hint": "Use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -154,15 +154,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_how_changing_the_surface_area_concentration_and_temperature_affects_to_make_the_role_of_model_based_prediction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an evidence check, In 20 seconds, explain how model-based prediction helps make sense of how changing the surface area, concentration and temperature affects",
-    "audio_prompt": "During an evidence check, In 20 seconds, explain how model-based prediction helps make sense of how changing the surface area, concentration and temperature affects",
+    "question": "Which statement correctly describes use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+        "text": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
         "is_correct": true
       },
       {
@@ -170,18 +170,18 @@
         "is_correct": false
       },
       {
-        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+      "hint": "Use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_how_a_tested_hypothesis_may_lead_to_further_predictions_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a transfer problem, Use the central model to explain develop testable explanatory questions in three linked sentences",
-    "audio_prompt": "During a transfer problem, Use the central model to explain develop testable explanatory questions in three linked sentences",
+    "question": "Which statement gives a valid example of use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement gives a valid example of use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A prediction and hypothesis are identical",
-        "is_correct": false
-      },
-      {
-        "text": "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions.",
-        "is_correct": true
-      },
-      {
         "text": "A testable question must always be causal",
         "is_correct": false
       },
       {
-        "text": "Distinguish descriptive, relational and causal questions",
+        "text": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+      "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_hypotheses_about_the_role_of_human_activity_in_changes_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a peer explanation, In 20 seconds, explain how observation helps make sense of how a tested hypothesis may lead to further predictions",
-    "audio_prompt": "During a peer explanation, In 20 seconds, explain how observation helps make sense of how a tested hypothesis may lead to further predictions",
+    "question": "Which statement gives a valid example of use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement gives a valid example of use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "text": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+      "hint": "Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_a_change_in_the_frequency_of_extreme_weather_events_to_make_the_role_of_variables_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an independent review, In 20 seconds, explain how question helps make sense of hypotheses about the role of human activity in changes",
-    "audio_prompt": "During an independent review, In 20 seconds, explain how question helps make sense of hypotheses about the role of human activity in changes",
+    "question": "Which statement gives a valid example of use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement gives a valid example of use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -277,22 +277,22 @@
         "is_correct": false
       },
       {
-        "text": "Distinguish descriptive, relational and causal questions",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+        "text": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
-      "hint": "Distinguish descriptive, relational and causal questions."
+      "summary": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+      "hint": "Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -302,15 +302,15 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_asking_questions_about_the_relationship_between_crash_impact_force_to_make_the_role_of_hypothesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a fresh case study, In 20 seconds, explain how variables helps make sense of a change in the frequency of extreme weather events Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, In 20 seconds, explain how variables helps make sense of a change in the frequency of extreme weather events Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
+        "text": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
         "is_correct": true
       },
       {
@@ -318,18 +318,18 @@
         "is_correct": false
       },
       {
-        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+      "hint": "Use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_how_changing_the_surface_area_concentration_and_temperature_affects_to_make_the_role_of_model_based_prediction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how hypothesis helps make sense of asking questions about the relationship between crash impact force Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how hypothesis helps make sense of asking questions about the relationship between crash impact force Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "text": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
         "is_correct": true
       },
       {
-        "text": "Distinguish descriptive, relational and causal questions",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
-      "hint": "Distinguish descriptive, relational and causal questions."
+      "summary": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+      "hint": "Use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_how_a_tested_hypothesis_may_lead_to_further_predictions_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a critical response, In 20 seconds, explain how model-based prediction helps make sense of how changing the surface area, concentration and temperature affects Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, In 20 seconds, explain how model-based prediction helps make sense of how changing the surface area, concentration and temperature affects Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -388,22 +388,22 @@
         "is_correct": false
       },
       {
-        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+        "text": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+      "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_hypotheses_about_the_role_of_human_activity_in_changes_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a worked solution audit, Use the central model to explain develop testable explanatory questions in three linked sentences Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, Use the central model to explain develop testable explanatory questions in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A prediction and hypothesis are identical",
-        "is_correct": false
-      },
-      {
         "text": "A testable question must always be causal",
         "is_correct": false
       },
       {
-        "text": "Distinguish descriptive, relational and causal questions",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
+      "hint": "Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_a_change_in_the_frequency_of_extreme_weather_events_to_make_the_role_of_variables_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a source evaluation, In 20 seconds, explain how observation helps make sense of how a tested hypothesis may lead to further predictions Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, In 20 seconds, explain how observation helps make sense of how a tested hypothesis may lead to further predictions Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "text": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
+      "hint": "Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -487,8 +487,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_asking_questions_about_the_relationship_between_crash_impact_force_to_make_the_role_of_hypothesis_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a multi-step application, In 20 seconds, explain how question helps make sense of hypotheses about the role of human activity in changes Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, In 20 seconds, explain how question helps make sense of hypotheses about the role of human activity in changes Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -499,22 +499,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
+        "text": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
         "is_correct": true
       },
       {
-        "text": "Distinguish descriptive, relational and causal questions",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
-      "hint": "Distinguish descriptive, relational and causal questions."
+      "summary": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
+      "hint": "Use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_how_changing_the_surface_area_concentration_and_temperature_affects_to_make_the_role_of_model_based_prediction_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a justification task, In 20 seconds, explain how variables helps make sense of a change in the frequency of extreme weather events Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, In 20 seconds, explain how variables helps make sense of a change in the frequency of extreme weather events Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -536,22 +536,22 @@
         "is_correct": false
       },
       {
-        "text": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
+        "text": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
+      "hint": "Use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_how_a_tested_hypothesis_may_lead_to_further_predictions_to_make_the_role_of_observation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a final synthesis, In 20 seconds, explain how hypothesis helps make sense of asking questions about the relationship between crash impact force Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, In 20 seconds, explain how hypothesis helps make sense of asking questions about the relationship between crash impact force Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which interpretation is accurate for use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "Distinguish descriptive, relational and causal questions",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+        "text": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
-      "hint": "Distinguish descriptive, relational and causal questions."
+      "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
+      "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
     }
   }
 ]

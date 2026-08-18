@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply right angled trigonometry to solve navigation problems involving bearings",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For navigate with bearings, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a guided example, For navigate with bearings, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes apply right-angled trigonometry to solve navigation problems involving bearings?",
+    "audioPrompt": "Which statement correctly describes apply right-angled trigonometry to solve navigation problems involving bearings?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Determining the bearing and estimating the distance of the final leg of an orienteering course. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "applying right-angled trigonometry to solve navigation problems involving bearings; for example, determining the bearing and estimating the distance of the final leg of an orienteering course",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions apply right-angled trigonometry to solve navigation problems involving bearings but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Determining the bearing and estimating the distance of the final leg of an orienteering course. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Determining the bearing and estimating the distance of the final leg of an orienteering course.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying right-angled trigonometry to solve navigation problems involving bearings; for example, determining the bearing and estimating the distance of the final leg of an orienteering course\nHint: Apply right-angled trigonometry to solve navigation problems involving bearings.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Determining the bearing and estimating the distance of the final leg of an orienteering course. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Determining the bearing and estimating the distance of the final leg of an orienteering course.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying right-angled trigonometry to solve navigation problems involving bearings; for example, determining the bearing and estimating the distance of the final leg of an orienteering course",
+      "hint": "Apply right-angled trigonometry to solve navigation problems involving bearings."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply pythagoras theorem and trigonometry to problems in surveying and design where three dimensional problems are decomposed into two dimensional problems",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For reduce a 3d problem to right triangles, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a comparison task, For reduce a 3d problem to right triangles, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes apply pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems?",
+    "audioPrompt": "Which statement correctly describes apply pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Investigating the dimensions of the smallest box needed to package an object of a particular length. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions apply pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The navigation and right-triangle trigonometry model is copied without interpretation",
+      "applying Pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems; for example, investigating the dimensions of the smallest box needed to package an object of a particular length",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Investigating the dimensions of the smallest box needed to package an object of a particular length. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Investigating the dimensions of the smallest box needed to package an object of a particular length.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying Pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems; for example, investigating the dimensions of the smallest box needed to package an object of a particular length\nHint: Apply Pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Investigating the dimensions of the smallest box needed to package an object of a particular length. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Investigating the dimensions of the smallest box needed to package an object of a particular length.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying Pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems; for example, investigating the dimensions of the smallest box needed to package an object of a particular length",
+      "hint": "Apply Pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use a clinometer to measure angles of inclination and applying trigonometry and proportional reasoning to determine the height of buildings in practical contexts",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For measure height with a clinometer, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During an error analysis, For measure height with a clinometer, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts?",
+    "audioPrompt": "Which statement correctly describes use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts but does not justify the relationship",
-      "Use the model evidence: Use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts\nHint: Use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts",
+      "hint": "Use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply pythagoras theorem and trigonometry and using dynamic geometric software to design three dimensional models of practical situations involving angles of elevation and depression",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For model elevation and depression, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a model interpretation, For model elevation and depression, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes apply pythagoras’ theorem and trigonometry, and using dynamic geometric software, to design three-dimensional models of practical situations involving angles of elevation and depression?",
+    "audioPrompt": "Which statement correctly describes apply pythagoras’ theorem and trigonometry, and using dynamic geometric software, to design three-dimensional models of practical situations involving angles of elevation and depression?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions apply pythagoras’ theorem and trigonometry, and using dynamic geometric software, to design three-dimensional models of practical situations involving angles of elevation and depression but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: A horizontal sight line creates equal alternate angles, so an angle of depression can label the matching angle of elevation. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "applying Pythagoras’ theorem and trigonometry, and using dynamic geometric software, to design three-dimensional models of practical situations involving angles of elevation and depression; for example, modelling a crime scene"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: A horizontal sight line creates equal alternate angles, so an angle of depression can label the matching angle of elevation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A horizontal sight line creates equal alternate angles, so an angle of depression can label the matching angle of elevation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying Pythagoras’ theorem and trigonometry, and using dynamic geometric software, to design three-dimensional models of practical situations involving angles of elevation and depression; for example, modelling a crime scene\nHint: Apply Pythagoras’ theorem and trigonometry, and using dynamic geometric software, to design three-dimensional models of practical situations involving angles of elevation and depression.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A horizontal sight line creates equal alternate angles, so an angle of depression can label the matching angle of elevation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A horizontal sight line creates equal alternate angles, so an angle of depression can label the matching angle of elevation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying Pythagoras’ theorem and trigonometry, and using dynamic geometric software, to design three-dimensional models of practical situations involving angles of elevation and depression; for example, modelling a crime scene",
+      "hint": "Apply Pythagoras’ theorem and trigonometry, and using dynamic geometric software, to design three-dimensional models of practical situations involving angles of elevation and depression."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how autonomous vehicles use algorithms that use pythagoras theorem and trigonometry to calculate distance and navigate spaces",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For calculate an autonomous route, which test case could expose an error in the steps",
-    "audioPrompt": "During an evidence check, For calculate an autonomous route, which test case could expose an error in the steps",
+    "question": "Which statement correctly describes explore how autonomous vehicles use algorithms that use pythagoras' theorem and trigonometry to calculate distance and navigate spaces?",
+    "audioPrompt": "Which statement correctly describes explore how autonomous vehicles use algorithms that use pythagoras' theorem and trigonometry to calculate distance and navigate spaces?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explore how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore how autonomous vehicles use algorithms that use pythagoras' theorem and trigonometry to calculate distance and navigate spaces but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces; for example, if an autonomous vehicle knows its current position (x, y) and the coordinates of a target location (x', y'), it can determine the straight-line distance between them using the formula distance =\\sqrt{(x'-x)^2 + (y'-y)^2}",
+      "The navigation and right-triangle trigonometry model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explore how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces; for example, if an autonomous vehicle knows its current position (x, y) and the coordinates of a target location (x', y'), it can determine the straight-line distance between them using the formula distance =\\sqrt{(x'-x)^2 + (y'-y)^2}\nHint: Explore how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces; for example, if an autonomous vehicle knows its current position (x, y) and the coordinates of a target location (x', y'), it can determine the straight-line distance between them using the formula distance =\\sqrt{(x'-x)^2 + (y'-y)^2}",
+      "hint": "Explore how autonomous vehicles use algorithms that use Pythagoras' theorem and trigonometry to calculate distance and navigate spaces."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore navigation design of technologies or surveying by first nations australians investigating geometric and spatial reasoning and how these connect to trigonometry",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For connect cultural technologies and trigonometry, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a transfer problem, For connect cultural technologies and trigonometry, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes explore navigation, design of technologies or surveying by first nations australians, investigating geometric and spatial reasoning, and how these connect to trigonometry?",
+    "audioPrompt": "Which statement correctly describes explore navigation, design of technologies or surveying by first nations australians, investigating geometric and spatial reasoning, and how these connect to trigonometry?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Explore navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore navigation, design of technologies or surveying by first nations australians, investigating geometric and spatial reasoning, and how these connect to trigonometry but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "exploring navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry\nHint: Explore navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry",
+      "hint": "Explore navigation, design of technologies or surveying by First Nations Australians, investigating geometric and spatial reasoning, and how these connect to trigonometry."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply right angled trigonometry to solve navigation problems involving bearings",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For navigate with bearings, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a peer explanation, For navigate with bearings, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of apply right-angled trigonometry to solve navigation problems involving bearings?",
+    "audioPrompt": "Which statement gives a valid example of apply right-angled trigonometry to solve navigation problems involving bearings?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions apply right-angled trigonometry to solve navigation problems involving bearings but does not justify the relationship",
-      "Use the model evidence: Determining the bearing and estimating the distance of the final leg of an orienteering course. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "applying right-angled trigonometry to solve navigation problems involving bearings; for example, determining the bearing and estimating the distance of the final leg of an orienteering course",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Determining the bearing and estimating the distance of the final leg of an orienteering course. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Determining the bearing and estimating the distance of the final leg of an orienteering course.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying right-angled trigonometry to solve navigation problems involving bearings; for example, determining the bearing and estimating the distance of the final leg of an orienteering course\nHint: Apply right-angled trigonometry to solve navigation problems involving bearings.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Determining the bearing and estimating the distance of the final leg of an orienteering course. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Determining the bearing and estimating the distance of the final leg of an orienteering course.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying right-angled trigonometry to solve navigation problems involving bearings; for example, determining the bearing and estimating the distance of the final leg of an orienteering course",
+      "hint": "Apply right-angled trigonometry to solve navigation problems involving bearings."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply pythagoras theorem and trigonometry to problems in surveying and design where three dimensional problems are decomposed into two dimensional problems",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For reduce a 3d problem to right triangles, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During an independent review, For reduce a 3d problem to right triangles, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of apply pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems?",
+    "audioPrompt": "Which statement gives a valid example of apply pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions apply pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Investigating the dimensions of the smallest box needed to package an object of a particular length. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The navigation and right-triangle trigonometry model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "applying Pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems; for example, investigating the dimensions of the smallest box needed to package an object of a particular length"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Investigating the dimensions of the smallest box needed to package an object of a particular length. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Investigating the dimensions of the smallest box needed to package an object of a particular length.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying Pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems; for example, investigating the dimensions of the smallest box needed to package an object of a particular length\nHint: Apply Pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Investigating the dimensions of the smallest box needed to package an object of a particular length. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Investigating the dimensions of the smallest box needed to package an object of a particular length.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying Pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems; for example, investigating the dimensions of the smallest box needed to package an object of a particular length",
+      "hint": "Apply Pythagoras’ theorem and trigonometry to problems in surveying and design, where three-dimensional problems are decomposed into two-dimensional problems."
     },
     "qualitySchema": "production-v1"
   }

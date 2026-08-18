@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_that_the_logarithmic_scale_is_calibrated_in_terms_of_order_of_magnitude",
-    "question": "During a guided example, For read orders of magnitude, which units, bounds or accuracy statement belong in the result",
-    "audio_prompt": "During a guided example, For read orders of magnitude, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes understand that the logarithmic scale is calibrated in terms of order of magnitude?",
+    "audio_prompt": "Which statement correctly describes understand that the logarithmic scale is calibrated in terms of order of magnitude?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand that the logarithmic scale is calibrated in terms of order of magnitude but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
+      "hint": "Understand that the logarithmic scale is calibrated in terms of order of magnitude."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "identify_and_interpreting_data_representations_charts_and_graphs_that_use_logarithmic_scales_and_discussing_when_it_is_appropriate_to_use_this_type_of_scale",
-    "question": "During a comparison task, For choose linear or logarithmic axes, which units, bounds or accuracy statement belong in the result",
-    "audio_prompt": "During a comparison task, For choose linear or logarithmic axes, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale?",
+    "audio_prompt": "Which statement correctly describes identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The logarithmic scales model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Graphs representing percentage change, a wide range of values or exponential growth. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
         "is_correct": true
       },
       {
-        "text": "A response that mentions identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Graphs representing percentage change, a wide range of values or exponential growth. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Graphs representing percentage change, a wide range of values or exponential growth.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
+      "hint": "Identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_and_interpreting_logarithmic_scales_used_in_real_world_contexts",
-    "question": "During an error analysis, For interpret real logarithmic scales, which units, bounds or accuracy statement belong in the result",
-    "audio_prompt": "During an error analysis, For interpret real logarithmic scales, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes explore and interpreting logarithmic scales used in real-world contexts?",
+    "audio_prompt": "Which statement correctly describes explore and interpreting logarithmic scales used in real-world contexts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore and interpreting logarithmic scales used in real-world contexts but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: On a base-10 logarithmic scale, equal axis gaps can represent 1, 10, 100 and 1000—not equal additive changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: On a base-10 logarithmic scale, equal axis gaps can represent 1, 10, 100 and 1000—not equal additive changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘On a base-10 logarithmic scale, equal axis gaps can represent 1, 10, 100 and 1000—not equal additive changes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
+      "hint": "Explore and interpreting logarithmic scales used in real-world contexts."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_logarithmic_scaling_can_be_used_in_machine_learning_algorithms_to_compress_large_values_while_preserving_small_ones",
-    "question": "During a model interpretation, For compress wide-ranging values, which pattern in the table supports the conclusion",
-    "audio_prompt": "During a model interpretation, For compress wide-ranging values, which pattern in the table supports the conclusion",
+    "question": "Which statement correctly describes explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones?",
+    "audio_prompt": "Which statement correctly describes explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values",
+      "hint": "Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_dating_methods_of_geological_sites_to_provide_evidence_of_first_peoples_of_australia_s_human_presence_in_australia_including_the_madjedbebe_dig_in_the_northern_territory",
-    "question": "During an evidence check, For connect dating scales and accuracy, which units, bounds or accuracy statement belong in the result",
-    "audio_prompt": "During an evidence check, For connect dating scales and accuracy, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory?",
+    "audio_prompt": "Which statement correctly describes explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating",
         "is_correct": true
       },
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The logarithmic scales model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating",
+      "hint": "Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_that_the_logarithmic_scale_is_calibrated_in_terms_of_order_of_magnitude",
-    "question": "During a transfer problem, For read orders of magnitude, which units, bounds or accuracy statement belong in the result",
-    "audio_prompt": "During a transfer problem, For read orders of magnitude, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of understand that the logarithmic scale is calibrated in terms of order of magnitude?",
+    "audio_prompt": "Which statement gives a valid example of understand that the logarithmic scale is calibrated in terms of order of magnitude?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
         "is_correct": true
       },
       {
-        "text": "A response that mentions understand that the logarithmic scale is calibrated in terms of order of magnitude but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
+      "hint": "Understand that the logarithmic scale is calibrated in terms of order of magnitude."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "identify_and_interpreting_data_representations_charts_and_graphs_that_use_logarithmic_scales_and_discussing_when_it_is_appropriate_to_use_this_type_of_scale",
-    "question": "During a peer explanation, For choose linear or logarithmic axes, which units, bounds or accuracy statement belong in the result",
-    "audio_prompt": "During a peer explanation, For choose linear or logarithmic axes, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale?",
+    "audio_prompt": "Which statement gives a valid example of identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Graphs representing percentage change, a wide range of values or exponential growth. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Graphs representing percentage change, a wide range of values or exponential growth. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Graphs representing percentage change, a wide range of values or exponential growth.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
+      "hint": "Identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_and_interpreting_logarithmic_scales_used_in_real_world_contexts",
-    "question": "During an independent review, For interpret real logarithmic scales, which units, bounds or accuracy statement belong in the result",
-    "audio_prompt": "During an independent review, For interpret real logarithmic scales, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of explore and interpreting logarithmic scales used in real-world contexts?",
+    "audio_prompt": "Which statement gives a valid example of explore and interpreting logarithmic scales used in real-world contexts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The logarithmic scales model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore and interpreting logarithmic scales used in real-world contexts but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: On a base-10 logarithmic scale, equal axis gaps can represent 1, 10, 100 and 1000—not equal additive changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: On a base-10 logarithmic scale, equal axis gaps can represent 1, 10, 100 and 1000—not equal additive changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘On a base-10 logarithmic scale, equal axis gaps can represent 1, 10, 100 and 1000—not equal additive changes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
+      "hint": "Explore and interpreting logarithmic scales used in real-world contexts."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_logarithmic_scaling_can_be_used_in_machine_learning_algorithms_to_compress_large_values_while_preserving_small_ones",
-    "question": "During a fresh case study, For compress wide-ranging values, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For compress wide-ranging values, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones?",
+    "audio_prompt": "Which description correctly applies explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values",
         "is_correct": true
       },
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values",
+      "hint": "Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_dating_methods_of_geological_sites_to_provide_evidence_of_first_peoples_of_australia_s_human_presence_in_australia_including_the_madjedbebe_dig_in_the_northern_territory",
-    "question": "During an unfamiliar representation, For connect dating scales and accuracy, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For connect dating scales and accuracy, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory?",
+    "audio_prompt": "Which description correctly applies explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating",
+      "hint": "Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "understand_that_the_logarithmic_scale_is_calibrated_in_terms_of_order_of_magnitude",
-    "question": "During a critical response, For read orders of magnitude, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For read orders of magnitude, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses understand that the logarithmic scale is calibrated in terms of order of magnitude?",
+    "audio_prompt": "Which response correctly uses understand that the logarithmic scale is calibrated in terms of order of magnitude?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The logarithmic scales model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand that the logarithmic scale is calibrated in terms of order of magnitude but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
+      "hint": "Understand that the logarithmic scale is calibrated in terms of order of magnitude."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "identify_and_interpreting_data_representations_charts_and_graphs_that_use_logarithmic_scales_and_discussing_when_it_is_appropriate_to_use_this_type_of_scale",
-    "question": "During a worked solution audit, For choose linear or logarithmic axes, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For choose linear or logarithmic axes, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale?",
+    "audio_prompt": "Which response correctly uses identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Graphs representing percentage change, a wide range of values or exponential growth. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Graphs representing percentage change, a wide range of values or exponential growth. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Graphs representing percentage change, a wide range of values or exponential growth.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
+      "hint": "Identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_and_interpreting_logarithmic_scales_used_in_real_world_contexts",
-    "question": "During a source evaluation, For interpret real logarithmic scales, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For interpret real logarithmic scales, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore and interpreting logarithmic scales used in real-world contexts?",
+    "audio_prompt": "Which response correctly uses explore and interpreting logarithmic scales used in real-world contexts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: On a base-10 logarithmic scale, equal axis gaps can represent 1, 10, 100 and 1000—not equal additive changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore and interpreting logarithmic scales used in real-world contexts but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: On a base-10 logarithmic scale, equal axis gaps can represent 1, 10, 100 and 1000—not equal additive changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘On a base-10 logarithmic scale, equal axis gaps can represent 1, 10, 100 and 1000—not equal additive changes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
+      "hint": "Explore and interpreting logarithmic scales used in real-world contexts."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_logarithmic_scaling_can_be_used_in_machine_learning_algorithms_to_compress_large_values_while_preserving_small_ones",
-    "question": "During a multi-step application, For compress wide-ranging values, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For compress wide-ranging values, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones?",
+    "audio_prompt": "Which response correctly uses explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The logarithmic scales model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values",
+      "hint": "Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_dating_methods_of_geological_sites_to_provide_evidence_of_first_peoples_of_australia_s_human_presence_in_australia_including_the_madjedbebe_dig_in_the_northern_territory",
-    "question": "During a justification task, For connect dating scales and accuracy, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For connect dating scales and accuracy, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory?",
+    "audio_prompt": "Which response correctly uses explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore dating methods of geological sites to provide evidence of first peoples of australia’s human presence in australia, including the madjedbebe dig in the northern territory but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating",
+      "hint": "Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "understand_that_the_logarithmic_scale_is_calibrated_in_terms_of_order_of_magnitude",
-    "question": "During a final synthesis, For read orders of magnitude, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For read orders of magnitude, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for understand that the logarithmic scale is calibrated in terms of order of magnitude?",
+    "audio_prompt": "Which interpretation is accurate for understand that the logarithmic scale is calibrated in terms of order of magnitude?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand that the logarithmic scale is calibrated in terms of order of magnitude but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Moving one step on a base-10 logarithmic scale multiplies the value by 10; two steps multiply it by 100.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
+      "hint": "Understand that the logarithmic scale is calibrated in terms of order of magnitude."
     }
   }
 ]

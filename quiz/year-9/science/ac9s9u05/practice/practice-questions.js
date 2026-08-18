@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how system boundary helps make sense of the law of conservation of energy explains that total",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how system boundary helps make sense of the law of conservation of energy explains that total",
+    "question": "Which statement correctly describes use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Energy is conserved across a defined system.",
+      "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system",
       "Inefficient systems destroy energy",
-      "Complete the energy account including dissipated outputs",
-      "A response that mentions use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Energy is conserved across a defined system.\nHint: Complete the energy account including dissipated outputs.",
+    "explanation": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system\nHint: Use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Energy is conserved across a defined system.",
-      "hint": "Complete the energy account including dissipated outputs."
+      "summary": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system",
+      "hint": "Use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how input helps make sense of efficiency and recognising that in energy transfer and transformation",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how input helps make sense of efficiency and recognising that in energy transfer and transformation",
+    "question": "Which statement correctly describes use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Efficiency can exceed 100%",
-      "The response should use the displayed example and connect it to this idea: Useful and dissipated outputs together equal input.",
-      "Check that useful output cannot be greater than total input for the same boundary and interval",
-      "A response that mentions use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "explaining efficiency and recognising that in energy transfer and transformation a variety of processes can occur, so that the amount of usable energy is reduced and the system is not 100% efficient",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Useful and dissipated outputs together equal input.\nHint: Check that useful output cannot be greater than total input for the same boundary and interval.",
+    "explanation": "explaining efficiency and recognising that in energy transfer and transformation a variety of processes can occur, so that the amount of usable energy is reduced and the system is not 100% efficient\nHint: Use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Useful and dissipated outputs together equal input.",
-      "hint": "Check that useful output cannot be greater than total input for the same boundary and interval."
+      "summary": "explaining efficiency and recognising that in energy transfer and transformation a variety of processes can occur, so that the amount of usable energy is reduced and the system is not 100% efficient",
+      "hint": "Use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use critiquing representations to make the role of useful output visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how useful output helps make sense of critiquing representations",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how useful output helps make sense of critiquing representations",
+    "question": "Which statement correctly describes use critiquing representations to make the role of useful output visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use critiquing representations to make the role of useful output visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Inefficient systems destroy energy",
-      "Complete the energy account including dissipated outputs",
-      "The response should use the displayed example and connect it to this idea: Efficiency is useful output divided by total input, expressed as a percentage.",
-      "A response that mentions use critiquing representations to make the role of useful output visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "using and critiquing representations such as Sankey diagrams to show energy inputs, changes and outputs in a system",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Efficiency is useful output divided by total input, expressed as a percentage.\nHint: Complete the energy account including dissipated outputs.",
+    "explanation": "using and critiquing representations such as Sankey diagrams to show energy inputs, changes and outputs in a system\nHint: Use critiquing representations to make the role of useful output visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Efficiency is useful output divided by total input, expressed as a percentage.",
-      "hint": "Complete the energy account including dissipated outputs."
+      "summary": "using and critiquing representations such as Sankey diagrams to show energy inputs, changes and outputs in a system",
+      "hint": "Use critiquing representations to make the role of useful output visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the efficiency of ground ovens used by first nations to make the role of dissipated output visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how dissipated output helps make sense of the efficiency of ground ovens used by first nations",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how dissipated output helps make sense of the efficiency of ground ovens used by first nations",
+    "question": "Which statement correctly describes use the efficiency of ground ovens used by first nations to make the role of dissipated output visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the efficiency of ground ovens used by first nations to make the role of dissipated output visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Efficiency can exceed 100%",
-      "Check that useful output cannot be greater than total input for the same boundary and interval",
-      "A response that mentions use the efficiency of ground ovens used by first nations to make the role of dissipated output visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Energy is conserved across a defined system."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating the efficiency of ground ovens used by First Nations Australians"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Energy is conserved across a defined system.\nHint: Check that useful output cannot be greater than total input for the same boundary and interval.",
+    "explanation": "investigating the efficiency of ground ovens used by First Nations Australians\nHint: Use the efficiency of ground ovens used by First Nations to make the role of dissipated output visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Energy is conserved across a defined system.",
-      "hint": "Check that useful output cannot be greater than total input for the same boundary and interval."
+      "summary": "investigating the efficiency of ground ovens used by First Nations Australians",
+      "hint": "Use the efficiency of ground ovens used by First Nations to make the role of dissipated output visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how efficiency helps make sense of the efficiency of electricity generation from coal and other",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how efficiency helps make sense of the efficiency of electricity generation from coal and other",
+    "question": "Which statement correctly describes use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Useful and dissipated outputs together equal input.",
+      "comparing the efficiency of electricity generation from coal and other sources such as nuclear, hydroelectricity, gas, solar and wind",
       "Inefficient systems destroy energy",
-      "Complete the energy account including dissipated outputs",
-      "A response that mentions use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Useful and dissipated outputs together equal input.\nHint: Complete the energy account including dissipated outputs.",
+    "explanation": "comparing the efficiency of electricity generation from coal and other sources such as nuclear, hydroelectricity, gas, solar and wind\nHint: Use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Useful and dissipated outputs together equal input.",
-      "hint": "Complete the energy account including dissipated outputs."
+      "summary": "comparing the efficiency of electricity generation from coal and other sources such as nuclear, hydroelectricity, gas, solar and wind",
+      "hint": "Use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how system boundary helps make sense of the meaning of energy star ratings given to appliances",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how system boundary helps make sense of the meaning of energy star ratings given to appliances",
+    "question": "Which statement correctly describes use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Efficiency can exceed 100%",
-      "The response should use the displayed example and connect it to this idea: Efficiency is useful output divided by total input, expressed as a percentage.",
-      "Check that useful output cannot be greater than total input for the same boundary and interval",
-      "A response that mentions use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "examining the meaning of energy star ratings given to appliances such as refrigerators and washing machines and criteria used to determine these ratings",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Efficiency is useful output divided by total input, expressed as a percentage.\nHint: Check that useful output cannot be greater than total input for the same boundary and interval.",
+    "explanation": "examining the meaning of energy star ratings given to appliances such as refrigerators and washing machines and criteria used to determine these ratings\nHint: Use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Efficiency is useful output divided by total input, expressed as a percentage.",
-      "hint": "Check that useful output cannot be greater than total input for the same boundary and interval."
+      "summary": "examining the meaning of energy star ratings given to appliances such as refrigerators and washing machines and criteria used to determine these ratings",
+      "hint": "Use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how input helps make sense of how improving efficiency in energy transfer and transformations",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how input helps make sense of how improving efficiency in energy transfer and transformations",
+    "question": "Which statement correctly describes use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Inefficient systems destroy energy",
-      "Complete the energy account including dissipated outputs",
-      "The response should use the displayed example and connect it to this idea: Energy is conserved across a defined system.",
-      "A response that mentions use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "examining how improving efficiency in energy transfer and transformations in sporting activities such as pole vaulting or archery improves athletic performance",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Energy is conserved across a defined system.\nHint: Complete the energy account including dissipated outputs.",
+    "explanation": "examining how improving efficiency in energy transfer and transformations in sporting activities such as pole vaulting or archery improves athletic performance\nHint: Use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Energy is conserved across a defined system.",
-      "hint": "Complete the energy account including dissipated outputs."
+      "summary": "examining how improving efficiency in energy transfer and transformations in sporting activities such as pole vaulting or archery improves athletic performance",
+      "hint": "Use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, Use the central model to explain conservation and system efficiency in three linked sentences",
-    "audioPrompt": "During an independent review, Use the central model to explain conservation and system efficiency in three linked sentences",
+    "question": "Which statement gives a valid example of use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Inefficient systems destroy energy",
       "Efficiency can exceed 100%",
-      "Check that useful output cannot be greater than total input for the same boundary and interval",
-      "Energy is conserved across a defined system. Useful and dissipated outputs together equal input. Efficiency is useful output divided by total input, expressed as a percentage."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system"
     ],
     "correct": 3,
-    "explanation": "Energy is conserved across a defined system. Useful and dissipated outputs together equal input. Efficiency is useful output divided by total input, expressed as a percentage.\nHint: Complete the energy account including dissipated outputs.",
+    "explanation": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system\nHint: Use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Energy is conserved across a defined system. Useful and dissipated outputs together equal input. Efficiency is useful output divided by total input, expressed as a percentage.",
-      "hint": "Complete the energy account including dissipated outputs."
+      "summary": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system",
+      "hint": "Use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

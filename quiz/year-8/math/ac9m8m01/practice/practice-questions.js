@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "determine the area of composite shapes by composing or decomposing shapes",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For decompose an irregular region, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a guided example, For decompose an irregular region, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes determine the area of composite shapes by composing or decomposing shapes?",
+    "audioPrompt": "Which statement correctly describes determine the area of composite shapes by composing or decomposing shapes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "determining the area of composite shapes by composing or decomposing shapes",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions determine the area of composite shapes by composing or decomposing shapes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "determining the area of composite shapes by composing or decomposing shapes\nHint: Determine the area of composite shapes by composing or decomposing shapes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "determining the area of composite shapes by composing or decomposing shapes",
+      "hint": "Determine the area of composite shapes by composing or decomposing shapes."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the labelled model to investigate compare perimeter and area",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For compare perimeter and area, what changes, what stays invariant, and why",
-    "audioPrompt": "During a comparison task, For compare perimeter and area, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes use the labelled model to investigate compare perimeter and area?",
+    "audioPrompt": "Which statement correctly describes use the labelled model to investigate compare perimeter and area?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use the labelled model to investigate compare perimeter and area but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The area and perimeter of composite shapes model is copied without interpretation",
+      "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock\nHint: Use the labelled model to investigate compare perimeter and area.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock",
+      "hint": "Use the labelled model to investigate compare perimeter and area."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements such as line segments and grids",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For solve a composite design problem, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During an error analysis, For solve a composite design problem, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids?",
+    "audioPrompt": "Which statement correctly describes determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids but does not justify the relationship",
-      "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "determining the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids; for example, using millimetres or square millimetres as opposed to centimetres or square centimetres",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Using millimetres or square millimetres as opposed to centimetres or square centimetres.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "determining the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids; for example, using millimetres or square millimetres as opposed to centimetres or square centimetres\nHint: Determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Using millimetres or square millimetres as opposed to centimetres or square centimetres.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "determining the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids; for example, using millimetres or square millimetres as opposed to centimetres or square centimetres",
+      "hint": "Determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "determine the area of composite shapes by composing or decomposing shapes",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For decompose an irregular region, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a model interpretation, For decompose an irregular region, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of determine the area of composite shapes by composing or decomposing shapes?",
+    "audioPrompt": "Which statement gives a valid example of determine the area of composite shapes by composing or decomposing shapes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions determine the area of composite shapes by composing or decomposing shapes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "determining the area of composite shapes by composing or decomposing shapes"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "determining the area of composite shapes by composing or decomposing shapes\nHint: Determine the area of composite shapes by composing or decomposing shapes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "determining the area of composite shapes by composing or decomposing shapes",
+      "hint": "Determine the area of composite shapes by composing or decomposing shapes."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the labelled model to investigate compare perimeter and area",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For compare perimeter and area, what changes, what stays invariant, and why",
-    "audioPrompt": "During an evidence check, For compare perimeter and area, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of use the labelled model to investigate compare perimeter and area?",
+    "audioPrompt": "Which statement gives a valid example of use the labelled model to investigate compare perimeter and area?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions use the labelled model to investigate compare perimeter and area but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock",
+      "The area and perimeter of composite shapes model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock\nHint: Use the labelled model to investigate compare perimeter and area.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock",
+      "hint": "Use the labelled model to investigate compare perimeter and area."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements such as line segments and grids",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For solve a composite design problem, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a transfer problem, For solve a composite design problem, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids?",
+    "audioPrompt": "Which statement gives a valid example of determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "determining the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids; for example, using millimetres or square millimetres as opposed to centimetres or square centimetres",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Using millimetres or square millimetres as opposed to centimetres or square centimetres.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "determining the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids; for example, using millimetres or square millimetres as opposed to centimetres or square centimetres\nHint: Determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Using millimetres or square millimetres as opposed to centimetres or square centimetres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Using millimetres or square millimetres as opposed to centimetres or square centimetres.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "determining the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids; for example, using millimetres or square millimetres as opposed to centimetres or square centimetres",
+      "hint": "Determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "determine the area of composite shapes by composing or decomposing shapes",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For decompose an irregular region, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a peer explanation, For decompose an irregular region, which labelled relationship justifies the conclusion",
+    "question": "What should you check when using determine the area of composite shapes by composing or decomposing shapes?",
+    "audioPrompt": "What should you check when using determine the area of composite shapes by composing or decomposing shapes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions determine the area of composite shapes by composing or decomposing shapes but does not justify the relationship",
-      "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "determining the area of composite shapes by composing or decomposing shapes",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "determining the area of composite shapes by composing or decomposing shapes\nHint: Determine the area of composite shapes by composing or decomposing shapes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Determine the area of composite shapes by composing or decomposing shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Determine the area of composite shapes by composing or decomposing shapes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "determining the area of composite shapes by composing or decomposing shapes",
+      "hint": "Determine the area of composite shapes by composing or decomposing shapes."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the labelled model to investigate compare perimeter and area",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For compare perimeter and area, what changes, what stays invariant, and why",
-    "audioPrompt": "During an independent review, For compare perimeter and area, what changes, what stays invariant, and why",
+    "question": "What should you check when using use the labelled model to investigate compare perimeter and area?",
+    "audioPrompt": "What should you check when using use the labelled model to investigate compare perimeter and area?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions use the labelled model to investigate compare perimeter and area but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The area and perimeter of composite shapes model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock\nHint: Use the labelled model to investigate compare perimeter and area.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use the labelled model to investigate compare perimeter and area. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use the labelled model to investigate compare perimeter and area.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock",
+      "hint": "Use the labelled model to investigate compare perimeter and area."
     },
     "qualitySchema": "production-v1"
   }

@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
-    "question": "During a guided example, For simulate a compound event, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a guided example, For simulate a compound event, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "audio_prompt": "Which statement correctly describes use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_a_random_number_generator_and_digital_tools_including_generative_artificial_intelligence_to_simulate_rolling_2_dice_and_calculating_the_difference_between_them",
-    "question": "During a comparison task, For compare experimental and theoretical probability, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a comparison task, For compare experimental and theoretical probability, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
+    "audio_prompt": "Which statement correctly describes use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The compound chance experiments and simulations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_online_simulation_software_to_conduct_probability_simulations_to_determine_in_the_long_run_if_events_are_complementary",
-    "question": "During an error analysis, For describe long-run variation, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an error analysis, For describe long-run variation, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
+    "audio_prompt": "Which statement correctly describes use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use online simulation software to conduct probability simulations to determine in the long run if events are complementary but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use online simulation software to conduct probability simulations to determine in the long run if events are complementary.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
-    "question": "During a model interpretation, For simulate a compound event, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a model interpretation, For simulate a compound event, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "audio_prompt": "Which statement gives a valid example of use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_a_random_number_generator_and_digital_tools_including_generative_artificial_intelligence_to_simulate_rolling_2_dice_and_calculating_the_difference_between_them",
-    "question": "During an evidence check, For compare experimental and theoretical probability, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an evidence check, For compare experimental and theoretical probability, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
+    "audio_prompt": "Which statement gives a valid example of use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The compound chance experiments and simulations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_online_simulation_software_to_conduct_probability_simulations_to_determine_in_the_long_run_if_events_are_complementary",
-    "question": "During a transfer problem, For describe long-run variation, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a transfer problem, For describe long-run variation, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
+    "audio_prompt": "Which statement gives a valid example of use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use online simulation software to conduct probability simulations to determine in the long run if events are complementary but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use online simulation software to conduct probability simulations to determine in the long run if events are complementary.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
-    "question": "During a peer explanation, For simulate a compound event, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a peer explanation, For simulate a compound event, which outcomes belong in the denominator, and why",
+    "question": "What should you check when using use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "audio_prompt": "What should you check when using use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_a_random_number_generator_and_digital_tools_including_generative_artificial_intelligence_to_simulate_rolling_2_dice_and_calculating_the_difference_between_them",
-    "question": "During an independent review, For compare experimental and theoretical probability, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an independent review, For compare experimental and theoretical probability, which outcomes belong in the denominator, and why",
+    "question": "What should you check when using use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
+    "audio_prompt": "What should you check when using use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The compound chance experiments and simulations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_online_simulation_software_to_conduct_probability_simulations_to_determine_in_the_long_run_if_events_are_complementary",
-    "question": "During a fresh case study, For describe long-run variation, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For describe long-run variation, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
+    "audio_prompt": "Which response correctly uses use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use online simulation software to conduct probability simulations to determine in the long run if events are complementary but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use online simulation software to conduct probability simulations to determine in the long run if events are complementary.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
-    "question": "During an unfamiliar representation, For simulate a compound event, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For simulate a compound event, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "audio_prompt": "Which interpretation is accurate for use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_a_random_number_generator_and_digital_tools_including_generative_artificial_intelligence_to_simulate_rolling_2_dice_and_calculating_the_difference_between_them",
-    "question": "During a critical response, For compare experimental and theoretical probability, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For compare experimental and theoretical probability, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
+    "audio_prompt": "Which interpretation is accurate for use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The compound chance experiments and simulations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_online_simulation_software_to_conduct_probability_simulations_to_determine_in_the_long_run_if_events_are_complementary",
-    "question": "During a worked solution audit, For describe long-run variation, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For describe long-run variation, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
+    "audio_prompt": "Which interpretation is accurate for use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use online simulation software to conduct probability simulations to determine in the long run if events are complementary but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use online simulation software to conduct probability simulations to determine in the long run if events are complementary.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
-    "question": "During a source evaluation, For simulate a compound event, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For simulate a compound event, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "When would you use use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "audio_prompt": "When would you use use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_a_random_number_generator_and_digital_tools_including_generative_artificial_intelligence_to_simulate_rolling_2_dice_and_calculating_the_difference_between_them",
-    "question": "During a multi-step application, For compare experimental and theoretical probability, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For compare experimental and theoretical probability, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "When would you use use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
+    "audio_prompt": "When would you use use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The compound chance experiments and simulations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
+      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_online_simulation_software_to_conduct_probability_simulations_to_determine_in_the_long_run_if_events_are_complementary",
-    "question": "During a justification task, For describe long-run variation, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For describe long-run variation, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "When would you use use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
+    "audio_prompt": "When would you use use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use online simulation software to conduct probability simulations to determine in the long run if events are complementary but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use online simulation software to conduct probability simulations to determine in the long run if events are complementary.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
+      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_digital_tools_including_generative_artificial_intelligence_to_conduct_probability_simulations_involving_compound_events",
-    "question": "During a final synthesis, For simulate a compound event, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For simulate a compound event, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "audio_prompt": "Which choice demonstrates use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
+      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
     }
   }
 ]

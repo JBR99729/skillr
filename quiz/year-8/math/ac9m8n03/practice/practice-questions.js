@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For which fractions terminate?, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During a guided example, For which fractions terminate?, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
+    "audioPrompt": "Which statement correctly describes identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does\nHint: Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
+      "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For write recurring decimals clearly, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During a comparison task, For write recurring decimals clearly, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
+    "audioPrompt": "Which statement correctly describes identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅ but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The terminating and recurring decimals model is copied without interpretation",
+      "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘1/3 = 0.3̅; the bar shows that the digit 3 repeats without end.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3\nHint: Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘1/3 = 0.3̅; the bar shows that the digit 3 repeats without end.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
+      "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For which fractions terminate?, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During an error analysis, For which fractions terminate?, which algebraic step preserves equivalence, and why",
+    "question": "Which statement gives a valid example of identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
+    "audioPrompt": "Which statement gives a valid example of identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator but does not justify the relationship",
-      "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does\nHint: Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
+      "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For write recurring decimals clearly, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During a model interpretation, For write recurring decimals clearly, which algebraic step preserves equivalence, and why",
+    "question": "Which statement gives a valid example of identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
+    "audioPrompt": "Which statement gives a valid example of identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅ but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘1/3 = 0.3̅; the bar shows that the digit 3 repeats without end.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3\nHint: Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘1/3 = 0.3̅; the bar shows that the digit 3 repeats without end.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
+      "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For which fractions terminate?, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During an evidence check, For which fractions terminate?, which algebraic step preserves equivalence, and why",
+    "question": "What should you check when using identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
+    "audioPrompt": "What should you check when using identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
+      "The terminating and recurring decimals model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does\nHint: Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
+      "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For write recurring decimals clearly, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During a transfer problem, For write recurring decimals clearly, which algebraic step preserves equivalence, and why",
+    "question": "What should you check when using identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
+    "audioPrompt": "What should you check when using identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅ but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘1/3 = 0.3̅; the bar shows that the digit 3 repeats without end.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3\nHint: Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘1/3 = 0.3̅; the bar shows that the digit 3 repeats without end.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
+      "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For which fractions terminate?, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During a peer explanation, For which fractions terminate?, which algebraic step preserves equivalence, and why",
+    "question": "Which statement best explains identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
+    "audioPrompt": "Which statement best explains identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator but does not justify the relationship",
-      "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does\nHint: Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘7/24 = 0.2916̅ does not have a terminating decimal expansion, while 7/25 = 0.28 does.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
+      "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For write recurring decimals clearly, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During an independent review, For write recurring decimals clearly, which algebraic step preserves equivalence, and why",
+    "question": "Which statement best explains identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
+    "audioPrompt": "Which statement best explains identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅ but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The terminating and recurring decimals model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘1/3 = 0.3̅; the bar shows that the digit 3 repeats without end.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3\nHint: Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 1/3 = 0.3̅; the bar shows that the digit 3 repeats without end. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘1/3 = 0.3̅; the bar shows that the digit 3 repeats without end.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
+      "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
     },
     "qualitySchema": "production-v1"
   }

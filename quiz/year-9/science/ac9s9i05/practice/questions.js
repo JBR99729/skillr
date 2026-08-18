@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how source A helps make sense of the validity of the data when extrapolating",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how source A helps make sense of the validity of the data when extrapolating",
+    "question": "Which statement correctly describes use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+      "discussing the validity of the data when extrapolating from a graph",
       "Different sources can be averaged immediately",
-      "Check units, definitions, sampling and comparability first",
-      "A response that mentions use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.\nHint: Check units, definitions, sampling and comparability first.",
+    "explanation": "discussing the validity of the data when extrapolating from a graph\nHint: Use the validity of the data when extrapolating to make the role of source A visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
-      "hint": "Check units, definitions, sampling and comparability first."
+      "summary": "discussing the validity of the data when extrapolating from a graph",
+      "hint": "Use the validity of the data when extrapolating to make the role of source A visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how source B helps make sense of representations of data from atmospheric monitoring and ice cores",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how source B helps make sense of representations of data from atmospheric monitoring and ice cores",
+    "question": "Which statement correctly describes use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "An anomaly invalidates the whole data set",
-      "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
-      "Test its cause and influence on the relationship",
-      "A response that mentions use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.\nHint: Test its cause and influence on the relationship.",
+    "explanation": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies\nHint: Use representations of data from atmospheric monitoring and ice cores to make the role of source B visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
-      "hint": "Test its cause and influence on the relationship."
+      "summary": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
+      "hint": "Use representations of data from atmospheric monitoring and ice cores to make the role of source B visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how shared pattern helps make sense of published data with experimental data",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how shared pattern helps make sense of published data with experimental data",
+    "question": "Which statement correctly describes use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Different sources can be averaged immediately",
-      "Check units, definitions, sampling and comparability first",
-      "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
-      "A response that mentions use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.\nHint: Check units, definitions, sampling and comparability first.",
+    "explanation": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’\nHint: Use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
-      "hint": "Check units, definitions, sampling and comparability first."
+      "summary": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’",
+      "hint": "Use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how anomaly helps make sense of data on heat transfer through multiple layers",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how anomaly helps make sense of data on heat transfer through multiple layers",
+    "question": "Which statement correctly describes use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "An anomaly invalidates the whole data set",
-      "Test its cause and influence on the relationship",
-      "A response that mentions use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "analysing data on heat transfer through multiple layers of an insulating material and identifying patterns and proportional relationships, such as: ‘When the thickness of the material is doubled the amount of heat transferred is halved’"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.\nHint: Test its cause and influence on the relationship.",
+    "explanation": "analysing data on heat transfer through multiple layers of an insulating material and identifying patterns and proportional relationships, such as: ‘When the thickness of the material is doubled the amount of heat transferred is halved’\nHint: Use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
-      "hint": "Test its cause and influence on the relationship."
+      "summary": "analysing data on heat transfer through multiple layers of an insulating material and identifying patterns and proportional relationships, such as: ‘When the thickness of the material is doubled the amount of heat transferred is halved’",
+      "hint": "Use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use tables graphs and digital simulations of radioactive decay half life to make the role of model based explanation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how model-based explanation helps make sense of tables, graphs and digital simulations of radioactive decay half-life",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how model-based explanation helps make sense of tables, graphs and digital simulations of radioactive decay half-life",
+    "question": "Which statement correctly describes use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
+      "examining tables, graphs and digital simulations of radioactive decay half-life to predict changes in mass over time",
       "Different sources can be averaged immediately",
-      "Check units, definitions, sampling and comparability first",
-      "A response that mentions use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.\nHint: Check units, definitions, sampling and comparability first.",
+    "explanation": "examining tables, graphs and digital simulations of radioactive decay half-life to predict changes in mass over time\nHint: Use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
-      "hint": "Check units, definitions, sampling and comparability first."
+      "summary": "examining tables, graphs and digital simulations of radioactive decay half-life to predict changes in mass over time",
+      "hint": "Use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, Use the central model to explain connect evidence across data sets in three linked sentences",
-    "audioPrompt": "During a transfer problem, Use the central model to explain connect evidence across data sets in three linked sentences",
+    "question": "Which statement gives a valid example of use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Different sources can be averaged immediately",
-      "Comparable data can reveal converging patterns or conflicts. Anomalies and uncertainty affect interpretation. Explanations connect data patterns to scientific mechanisms or models.",
       "An anomaly invalidates the whole data set",
-      "Test its cause and influence on the relationship"
+      "discussing the validity of the data when extrapolating from a graph",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Comparable data can reveal converging patterns or conflicts. Anomalies and uncertainty affect interpretation. Explanations connect data patterns to scientific mechanisms or models.\nHint: Check units, definitions, sampling and comparability first.",
+    "explanation": "discussing the validity of the data when extrapolating from a graph\nHint: Use the validity of the data when extrapolating to make the role of source A visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Comparable data can reveal converging patterns or conflicts. Anomalies and uncertainty affect interpretation. Explanations connect data patterns to scientific mechanisms or models.",
-      "hint": "Check units, definitions, sampling and comparability first."
+      "summary": "discussing the validity of the data when extrapolating from a graph",
+      "hint": "Use the validity of the data when extrapolating to make the role of source A visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how source A helps make sense of the validity of the data when extrapolating",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how source A helps make sense of the validity of the data when extrapolating",
+    "question": "Which statement gives a valid example of use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Different sources can be averaged immediately",
-      "Check units, definitions, sampling and comparability first",
-      "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
-      "A response that mentions use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.\nHint: Check units, definitions, sampling and comparability first.",
+    "explanation": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies\nHint: Use representations of data from atmospheric monitoring and ice cores to make the role of source B visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
-      "hint": "Check units, definitions, sampling and comparability first."
+      "summary": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
+      "hint": "Use representations of data from atmospheric monitoring and ice cores to make the role of source B visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, In 20 seconds, explain how source B helps make sense of representations of data from atmospheric monitoring and ice cores",
-    "audioPrompt": "During an independent review, In 20 seconds, explain how source B helps make sense of representations of data from atmospheric monitoring and ice cores",
+    "question": "Which statement gives a valid example of use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "An anomaly invalidates the whole data set",
-      "Test its cause and influence on the relationship",
-      "A response that mentions use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.\nHint: Test its cause and influence on the relationship.",
+    "explanation": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’\nHint: Use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
-      "hint": "Test its cause and influence on the relationship."
+      "summary": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’",
+      "hint": "Use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

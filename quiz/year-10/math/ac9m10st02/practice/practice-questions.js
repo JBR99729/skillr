@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For compare distributions with boxplots, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a guided example, For compare distributions with boxplots, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data?",
+    "audioPrompt": "Which statement correctly describes construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets\nHint: Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets",
+      "hint": "Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For compare shape across several displays, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a comparison task, For compare shape across several displays, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality?",
+    "audioPrompt": "Which statement correctly describes compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The continuous distributions and boxplots model is copied without interpretation",
+      "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality\nHint: Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality",
+      "hint": "Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For choose boxplot or histogram, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an error analysis, For choose boxplot or histogram, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed?",
+    "audioPrompt": "Which statement correctly describes use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed but does not justify the relationship",
-      "Use the model evidence: Use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed and the effectiveness of the display in helping to answer the question",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed and the effectiveness of the display in helping to answer the question\nHint: Use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed and the effectiveness of the display in helping to answer the question",
+      "hint": "Use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For build and use a five-number summary, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a model interpretation, For build and use a five-number summary, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically?",
+    "audioPrompt": "Which statement correctly describes find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "finding the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically and visually comparing the centre and spread of data sets"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "finding the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically and visually comparing the centre and spread of data sets\nHint: Find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "finding the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically and visually comparing the centre and spread of data sets",
+      "hint": "Find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For tell different stories from the same data, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an evidence check, For tell different stories from the same data, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways?",
+    "audioPrompt": "Which statement correctly describes compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "comparing the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways, including histograms, dot plots, box plots and cumulative frequency graphs",
+      "The continuous distributions and boxplots model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways, including histograms, dot plots, box plots and cumulative frequency graphs\nHint: Compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways, including histograms, dot plots, box plots and cumulative frequency graphs",
+      "hint": "Compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For handle outliers responsibly, what changes, what stays invariant, and why",
-    "audioPrompt": "During a transfer problem, For handle outliers responsibly, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model?",
+    "audioPrompt": "Which statement correctly describes explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "exploring how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model\nHint: Explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model",
+      "hint": "Explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For compare distributions with boxplots, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a peer explanation, For compare distributions with boxplots, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data?",
+    "audioPrompt": "Which statement gives a valid example of construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data but does not justify the relationship",
-      "Use the model evidence: Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets\nHint: Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets",
+      "hint": "Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For compare shape across several displays, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During an independent review, For compare shape across several displays, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality?",
+    "audioPrompt": "Which statement gives a valid example of compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The continuous distributions and boxplots model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality\nHint: Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality",
+      "hint": "Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality."
     },
     "qualitySchema": "production-v1"
   }

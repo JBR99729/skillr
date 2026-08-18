@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "represent_decimals_in_exponential_form",
-    "question": "During a guided example, For write decimals with powers of ten, which algebraic step preserves equivalence, and why",
-    "audio_prompt": "During a guided example, For write decimals with powers of ten, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes represent decimals in exponential form?",
+    "audio_prompt": "Which statement correctly describes represent decimals in exponential form?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: 0.475 can be represented as 0.475 = 4/10+7/100+5/1000 = 4×10^(-1)+7×10^(-2)+5×10^(-3) and 0.00023 as 23×10^(-5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "representing decimals in exponential form; for example, 0.475 can be represented as 0.475\\;=\\;\\frac4{10}+\\frac7{100}+\\frac5{1000}\\;=\\;4\\times10^{-1}+7\\times10^{-2}+5\\times10^{-3} and 0.00023 as 23\\times10^{-5}",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions represent decimals in exponential form but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: 0.475 can be represented as 0.475 = 4/10+7/100+5/1000 = 4×10^(-1)+7×10^(-2)+5×10^(-3) and 0.00023 as 23×10^(-5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘0.475 can be represented as 0.475 = 4/10+7/100+5/1000 = 4×10^(-1)+7×10^(-2)+5×10^(-3) and 0.00023 as 23×10^(-5).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "representing decimals in exponential form; for example, 0.475 can be represented as 0.475\\;=\\;\\frac4{10}+\\frac7{100}+\\frac5{1000}\\;=\\;4\\times10^{-1}+7\\times10^{-2}+5\\times10^{-3} and 0.00023 as 23\\times10^{-5}",
+      "hint": "Represent decimals in exponential form."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "simplifying_and_evaluating_numerical_expressions_involving_both_positive_and_negative_integer_exponents_explaining_why",
-    "question": "During a comparison task, For interpret negative exponents, which algebraic step preserves equivalence, and why",
-    "audio_prompt": "During a comparison task, For interpret negative exponents, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why?",
+    "audio_prompt": "Which statement correctly describes simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The integer exponents and variables model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: 5^(-3)=(1)/(5³)=(1/5)³=1/125 and connecting terms of the sequence 125, 25, 5, 1, 1/5, 1/25, 1/125 and so on to terms of the sequence 5³, 5², 5^1, 5^0,5^(-1),5^(-2),5^(-3). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why; for example, 5^{-3}=\\frac1{5^3}=(\\frac15)^3=\\frac1{125} and connecting terms of the sequence 125, 25, 5, 1, \\frac15, \\frac1{25}, \\frac1{125}the omitted idea to terms of the sequence 5^3, 5^2, 5^1, 5^0,5^{-1},5^{-2},5^{-3}the omitted idea",
         "is_correct": true
       },
       {
-        "text": "A response that mentions simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: 5^(-3)=(1)/(5³)=(1/5)³=1/125 and connecting terms of the sequence 125, 25, 5, 1, 1/5, 1/25, 1/125 and so on to terms of the sequence 5³, 5², 5^1, 5^0,5^(-1),5^(-2),5^(-3). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘5^(-3)=(1)/(5³)=(1/5)³=1/125 and connecting terms of the sequence 125, 25, 5, 1, 1/5, 1/25, 1/125 and so on to terms of the sequence 5³, 5², 5^1, 5^0,5^(-1),5^(-2),5^(-3).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why; for example, 5^{-3}=\\frac1{5^3}=(\\frac15)^3=\\frac1{125} and connecting terms of the sequence 125, 25, 5, 1, \\frac15, \\frac1{25}, \\frac1{125}the omitted idea to terms of the sequence 5^3, 5^2, 5^1, 5^0,5^{-1},5^{-2},5^{-3}the omitted idea",
+      "hint": "simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "connect_the_computation_of_numerical_expressions_involving_exponents_to_the_exponent_laws_and_the_definition_of_an_exponent",
-    "question": "During an error analysis, For connect calculations to exponent laws, which algebraic step preserves equivalence, and why",
-    "audio_prompt": "During an error analysis, For connect calculations to exponent laws, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes connect the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent?",
+    "audio_prompt": "Which statement correctly describes connect the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions connect the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: 2³÷2^5 = 2^(-2) = (1)/(2²)=1/4 and (3×5)² = 3²×5² = 9×25 = 225. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent; for example, 2^3\\div2^5\\;=\\;2^{-2}\\;=\\;\\frac1{2^2}=\\frac14 and (3\\times5)^2\\;=\\;3^2\\times5^2\\;=\\;9\\times25\\;=\\;225",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: 2³÷2^5 = 2^(-2) = (1)/(2²)=1/4 and (3×5)² = 3²×5² = 9×25 = 225. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘2³÷2^5 = 2^(-2) = (1)/(2²)=1/4 and (3×5)² = 3²×5² = 9×25 = 225.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent; for example, 2^3\\div2^5\\;=\\;2^{-2}\\;=\\;\\frac1{2^2}=\\frac14 and (3\\times5)^2\\;=\\;3^2\\times5^2\\;=\\;9\\times25\\;=\\;225",
+      "hint": "Connect the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "recognise_exponents_in_algebraic_expressions_and_applying_the_relevant_exponent_laws_and_corresponding_conventions",
-    "question": "During a model interpretation, For apply exponent conventions to variables, which algebraic step preserves equivalence, and why",
-    "audio_prompt": "During a model interpretation, For apply exponent conventions to variables, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions?",
+    "audio_prompt": "Which statement correctly describes recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "recognising exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions; for example, for any non-zero natural number a, a^0\\;=\\;1, x^1\\;=\\;x, r^2\\;=\\;r\\times r, h^3\\;=\\;h\\times h\\times h, y^4\\;=\\;y\\times y\\times y\\times y, and \\frac1{w} \\times \\frac1{w}=\\frac1{w^2} = w^{-2}",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions; for example, for any non-zero natural number a, a^0\\;=\\;1, x^1\\;=\\;x, r^2\\;=\\;r\\times r, h^3\\;=\\;h\\times h\\times h, y^4\\;=\\;y\\times y\\times y\\times y, and \\frac1{w} \\times \\frac1{w}=\\frac1{w^2} = w^{-2}",
+      "hint": "Recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "connect_simplification_of_expressions_from_first_principles_and_counting_to_the_use_of_exponent_laws",
-    "question": "During an evidence check, For build algebraic laws from first principles, which algebraic step preserves equivalence, and why",
-    "audio_prompt": "During an evidence check, For build algebraic laws from first principles, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes connect simplification of expressions from first principles and counting to the use of exponent laws?",
+    "audio_prompt": "Which statement correctly describes connect simplification of expressions from first principles and counting to the use of exponent laws?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: (a²)³ = (a× a) × (a× a) × (a× a) = a× a× a× a× a× a = a^6. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating simplification of expressions from first principles and counting to the use of exponent laws; for example, (a^2)^3\\;=\\;(a\\times a)\\;\\times\\;(a\\times a)\\;\\times\\;(a\\times a)\\;=\\;a\\times a\\times a\\times a\\times a\\times a\\;=\\;a^6; b^2\\times b^3\\;=\\;(b\\times b)\\times(b\\times b\\times b)\\;=\\;b\\times b\\times b\\times b\\times b\\;=\\;b^5; \\frac{y^4}{y^2}\\;=\\;\\frac{y\\times y\\times y\\times y}{y\\times y}\\;=\\;\\frac{y^2}1\\;=\\;y^2 and (5a)^2\\;=\\;(5\\times a)\\times(5\\times a)\\;=\\;5\\times5\\times a\\times a\\;=\\;25\\times a^2\\;=\\;25a^2",
         "is_correct": true
       },
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The integer exponents and variables model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions connect simplification of expressions from first principles and counting to the use of exponent laws but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: (a²)³ = (a× a) × (a× a) × (a× a) = a× a× a× a× a× a = a^6. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘(a²)³ = (a× a) × (a× a) × (a× a) = a× a× a× a× a× a = a^6.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating simplification of expressions from first principles and counting to the use of exponent laws; for example, (a^2)^3\\;=\\;(a\\times a)\\;\\times\\;(a\\times a)\\;\\times\\;(a\\times a)\\;=\\;a\\times a\\times a\\times a\\times a\\times a\\;=\\;a^6; b^2\\times b^3\\;=\\;(b\\times b)\\times(b\\times b\\times b)\\;=\\;b\\times b\\times b\\times b\\times b\\;=\\;b^5; \\frac{y^4}{y^2}\\;=\\;\\frac{y\\times y\\times y\\times y}{y\\times y}\\;=\\;\\frac{y^2}1\\;=\\;y^2 and (5a)^2\\;=\\;(5\\times a)\\times(5\\times a)\\;=\\;5\\times5\\times a\\times a\\;=\\;25\\times a^2\\;=\\;25a^2",
+      "hint": "Connect simplification of expressions from first principles and counting to the use of exponent laws."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "apply_the_exponent_laws_to_simplifying_expressions_involving_products_quotients_and_powers_of_constants_and_variables",
-    "question": "During a transfer problem, For simplify products, quotients and powers, which algebraic step preserves equivalence, and why",
-    "audio_prompt": "During a transfer problem, For simplify products, quotients and powers, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes apply the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables?",
+    "audio_prompt": "Which statement correctly describes apply the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: ((2xy)³)/(xy^4) = (8x³y³)/(xy^4) = 8x²y^(-1). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables; for example, \\frac{(2xy)^3}{xy^4}\\;=\\;\\frac{8x^3y^3}{xy^4}\\;=\\;8x^2y^{-1}",
         "is_correct": true
       },
       {
-        "text": "A response that mentions apply the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: ((2xy)³)/(xy^4) = (8x³y³)/(xy^4) = 8x²y^(-1). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘((2xy)³)/(xy^4) = (8x³y³)/(xy^4) = 8x²y^(-1).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables; for example, \\frac{(2xy)^3}{xy^4}\\;=\\;\\frac{8x^3y^3}{xy^4}\\;=\\;8x^2y^{-1}",
+      "hint": "Apply the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "connect_the_prefixes_for_si_units_from_pico_trillionth_to_tera_trillion_to_the_corresponding_powers_of_10",
-    "question": "During a peer explanation, For connect si prefixes to powers of ten, what changes, what stays invariant, and why",
-    "audio_prompt": "During a peer explanation, For connect si prefixes to powers of ten, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes connect the prefixes for si units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10?",
+    "audio_prompt": "Which statement correctly describes connect the prefixes for si units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions connect the prefixes for si units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10 but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: One pico-gram = 10^(-12) gram and one terabyte = 10^(12) bytes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating the prefixes for SI units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10; for example, one pico-gram = 10^{-12} gram and one terabyte = 10^{12} bytes",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: One pico-gram = 10^(-12) gram and one terabyte = 10^(12) bytes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘One pico-gram = 10^(-12) gram and one terabyte = 10^(12) bytes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating the prefixes for SI units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10; for example, one pico-gram = 10^{-12} gram and one terabyte = 10^{12} bytes",
+      "hint": "Connect the prefixes for SI units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "represent_decimals_in_exponential_form",
-    "question": "During an independent review, For write decimals with powers of ten, which algebraic step preserves equivalence, and why",
-    "audio_prompt": "During an independent review, For write decimals with powers of ten, which algebraic step preserves equivalence, and why",
+    "question": "Which statement gives a valid example of represent decimals in exponential form?",
+    "audio_prompt": "Which statement gives a valid example of represent decimals in exponential form?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The integer exponents and variables model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions represent decimals in exponential form but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: 0.475 can be represented as 0.475 = 4/10+7/100+5/1000 = 4×10^(-1)+7×10^(-2)+5×10^(-3) and 0.00023 as 23×10^(-5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "representing decimals in exponential form; for example, 0.475 can be represented as 0.475\\;=\\;\\frac4{10}+\\frac7{100}+\\frac5{1000}\\;=\\;4\\times10^{-1}+7\\times10^{-2}+5\\times10^{-3} and 0.00023 as 23\\times10^{-5}",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: 0.475 can be represented as 0.475 = 4/10+7/100+5/1000 = 4×10^(-1)+7×10^(-2)+5×10^(-3) and 0.00023 as 23×10^(-5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘0.475 can be represented as 0.475 = 4/10+7/100+5/1000 = 4×10^(-1)+7×10^(-2)+5×10^(-3) and 0.00023 as 23×10^(-5).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "representing decimals in exponential form; for example, 0.475 can be represented as 0.475\\;=\\;\\frac4{10}+\\frac7{100}+\\frac5{1000}\\;=\\;4\\times10^{-1}+7\\times10^{-2}+5\\times10^{-3} and 0.00023 as 23\\times10^{-5}",
+      "hint": "Represent decimals in exponential form."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "simplifying_and_evaluating_numerical_expressions_involving_both_positive_and_negative_integer_exponents_explaining_why",
-    "question": "During a fresh case study, For interpret negative exponents, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For interpret negative exponents, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why?",
+    "audio_prompt": "Which description correctly applies simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: 5^(-3)=(1)/(5³)=(1/5)³=1/125 and connecting terms of the sequence 125, 25, 5, 1, 1/5, 1/25, 1/125 and so on to terms of the sequence 5³, 5², 5^1, 5^0,5^(-1),5^(-2),5^(-3). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why; for example, 5^{-3}=\\frac1{5^3}=(\\frac15)^3=\\frac1{125} and connecting terms of the sequence 125, 25, 5, 1, \\frac15, \\frac1{25}, \\frac1{125}the omitted idea to terms of the sequence 5^3, 5^2, 5^1, 5^0,5^{-1},5^{-2},5^{-3}the omitted idea",
         "is_correct": true
       },
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: 5^(-3)=(1)/(5³)=(1/5)³=1/125 and connecting terms of the sequence 125, 25, 5, 1, 1/5, 1/25, 1/125 and so on to terms of the sequence 5³, 5², 5^1, 5^0,5^(-1),5^(-2),5^(-3). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘5^(-3)=(1)/(5³)=(1/5)³=1/125 and connecting terms of the sequence 125, 25, 5, 1, 1/5, 1/25, 1/125 and so on to terms of the sequence 5³, 5², 5^1, 5^0,5^(-1),5^(-2),5^(-3).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why; for example, 5^{-3}=\\frac1{5^3}=(\\frac15)^3=\\frac1{125} and connecting terms of the sequence 125, 25, 5, 1, \\frac15, \\frac1{25}, \\frac1{125}the omitted idea to terms of the sequence 5^3, 5^2, 5^1, 5^0,5^{-1},5^{-2},5^{-3}the omitted idea",
+      "hint": "simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "connect_the_computation_of_numerical_expressions_involving_exponents_to_the_exponent_laws_and_the_definition_of_an_exponent",
-    "question": "During an unfamiliar representation, For connect calculations to exponent laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For connect calculations to exponent laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies connect the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent?",
+    "audio_prompt": "Which description correctly applies connect the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: 2³÷2^5 = 2^(-2) = (1)/(2²)=1/4 and (3×5)² = 3²×5² = 9×25 = 225. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent; for example, 2^3\\div2^5\\;=\\;2^{-2}\\;=\\;\\frac1{2^2}=\\frac14 and (3\\times5)^2\\;=\\;3^2\\times5^2\\;=\\;9\\times25\\;=\\;225",
         "is_correct": true
       },
       {
-        "text": "A response that mentions connect the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: 2³÷2^5 = 2^(-2) = (1)/(2²)=1/4 and (3×5)² = 3²×5² = 9×25 = 225. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘2³÷2^5 = 2^(-2) = (1)/(2²)=1/4 and (3×5)² = 3²×5² = 9×25 = 225.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent; for example, 2^3\\div2^5\\;=\\;2^{-2}\\;=\\;\\frac1{2^2}=\\frac14 and (3\\times5)^2\\;=\\;3^2\\times5^2\\;=\\;9\\times25\\;=\\;225",
+      "hint": "Connect the computation of numerical expressions involving exponents to the exponent laws and the definition of an exponent."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "recognise_exponents_in_algebraic_expressions_and_applying_the_relevant_exponent_laws_and_corresponding_conventions",
-    "question": "During a critical response, For apply exponent conventions to variables, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For apply exponent conventions to variables, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions?",
+    "audio_prompt": "Which description correctly applies recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The integer exponents and variables model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "recognising exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions; for example, for any non-zero natural number a, a^0\\;=\\;1, x^1\\;=\\;x, r^2\\;=\\;r\\times r, h^3\\;=\\;h\\times h\\times h, y^4\\;=\\;y\\times y\\times y\\times y, and \\frac1{w} \\times \\frac1{w}=\\frac1{w^2} = w^{-2}",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions; for example, for any non-zero natural number a, a^0\\;=\\;1, x^1\\;=\\;x, r^2\\;=\\;r\\times r, h^3\\;=\\;h\\times h\\times h, y^4\\;=\\;y\\times y\\times y\\times y, and \\frac1{w} \\times \\frac1{w}=\\frac1{w^2} = w^{-2}",
+      "hint": "Recognise exponents in algebraic expressions and applying the relevant exponent laws and corresponding conventions."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "connect_simplification_of_expressions_from_first_principles_and_counting_to_the_use_of_exponent_laws",
-    "question": "During a worked solution audit, For build algebraic laws from first principles, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For build algebraic laws from first principles, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies connect simplification of expressions from first principles and counting to the use of exponent laws?",
+    "audio_prompt": "Which description correctly applies connect simplification of expressions from first principles and counting to the use of exponent laws?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions connect simplification of expressions from first principles and counting to the use of exponent laws but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: (a²)³ = (a× a) × (a× a) × (a× a) = a× a× a× a× a× a = a^6. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating simplification of expressions from first principles and counting to the use of exponent laws; for example, (a^2)^3\\;=\\;(a\\times a)\\;\\times\\;(a\\times a)\\;\\times\\;(a\\times a)\\;=\\;a\\times a\\times a\\times a\\times a\\times a\\;=\\;a^6; b^2\\times b^3\\;=\\;(b\\times b)\\times(b\\times b\\times b)\\;=\\;b\\times b\\times b\\times b\\times b\\;=\\;b^5; \\frac{y^4}{y^2}\\;=\\;\\frac{y\\times y\\times y\\times y}{y\\times y}\\;=\\;\\frac{y^2}1\\;=\\;y^2 and (5a)^2\\;=\\;(5\\times a)\\times(5\\times a)\\;=\\;5\\times5\\times a\\times a\\;=\\;25\\times a^2\\;=\\;25a^2",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: (a²)³ = (a× a) × (a× a) × (a× a) = a× a× a× a× a× a = a^6. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘(a²)³ = (a× a) × (a× a) × (a× a) = a× a× a× a× a× a = a^6.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating simplification of expressions from first principles and counting to the use of exponent laws; for example, (a^2)^3\\;=\\;(a\\times a)\\;\\times\\;(a\\times a)\\;\\times\\;(a\\times a)\\;=\\;a\\times a\\times a\\times a\\times a\\times a\\;=\\;a^6; b^2\\times b^3\\;=\\;(b\\times b)\\times(b\\times b\\times b)\\;=\\;b\\times b\\times b\\times b\\times b\\;=\\;b^5; \\frac{y^4}{y^2}\\;=\\;\\frac{y\\times y\\times y\\times y}{y\\times y}\\;=\\;\\frac{y^2}1\\;=\\;y^2 and (5a)^2\\;=\\;(5\\times a)\\times(5\\times a)\\;=\\;5\\times5\\times a\\times a\\;=\\;25\\times a^2\\;=\\;25a^2",
+      "hint": "Connect simplification of expressions from first principles and counting to the use of exponent laws."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "apply_the_exponent_laws_to_simplifying_expressions_involving_products_quotients_and_powers_of_constants_and_variables",
-    "question": "During a source evaluation, For simplify products, quotients and powers, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For simplify products, quotients and powers, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies apply the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables?",
+    "audio_prompt": "Which description correctly applies apply the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: ((2xy)³)/(xy^4) = (8x³y³)/(xy^4) = 8x²y^(-1). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables; for example, \\frac{(2xy)^3}{xy^4}\\;=\\;\\frac{8x^3y^3}{xy^4}\\;=\\;8x^2y^{-1}",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions apply the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: ((2xy)³)/(xy^4) = (8x³y³)/(xy^4) = 8x²y^(-1). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘((2xy)³)/(xy^4) = (8x³y³)/(xy^4) = 8x²y^(-1).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables; for example, \\frac{(2xy)^3}{xy^4}\\;=\\;\\frac{8x^3y^3}{xy^4}\\;=\\;8x^2y^{-1}",
+      "hint": "Apply the exponent laws to simplifying expressions involving products, quotients, and powers of constants and variables."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "connect_the_prefixes_for_si_units_from_pico_trillionth_to_tera_trillion_to_the_corresponding_powers_of_10",
-    "question": "During a multi-step application, For connect si prefixes to powers of ten, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For connect si prefixes to powers of ten, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies connect the prefixes for si units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10?",
+    "audio_prompt": "Which description correctly applies connect the prefixes for si units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The integer exponents and variables model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: One pico-gram = 10^(-12) gram and one terabyte = 10^(12) bytes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating the prefixes for SI units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10; for example, one pico-gram = 10^{-12} gram and one terabyte = 10^{12} bytes",
         "is_correct": true
       },
       {
-        "text": "A response that mentions connect the prefixes for si units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10 but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: One pico-gram = 10^(-12) gram and one terabyte = 10^(12) bytes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘One pico-gram = 10^(-12) gram and one terabyte = 10^(12) bytes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating the prefixes for SI units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10; for example, one pico-gram = 10^{-12} gram and one terabyte = 10^{12} bytes",
+      "hint": "Connect the prefixes for SI units from pico- (trillionth) to tera- (trillion) to the corresponding powers of 10."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "represent_decimals_in_exponential_form",
-    "question": "During a justification task, For write decimals with powers of ten, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For write decimals with powers of ten, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses represent decimals in exponential form?",
+    "audio_prompt": "Which response correctly uses represent decimals in exponential form?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions represent decimals in exponential form but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: 0.475 can be represented as 0.475 = 4/10+7/100+5/1000 = 4×10^(-1)+7×10^(-2)+5×10^(-3) and 0.00023 as 23×10^(-5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "representing decimals in exponential form; for example, 0.475 can be represented as 0.475\\;=\\;\\frac4{10}+\\frac7{100}+\\frac5{1000}\\;=\\;4\\times10^{-1}+7\\times10^{-2}+5\\times10^{-3} and 0.00023 as 23\\times10^{-5}",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: 0.475 can be represented as 0.475 = 4/10+7/100+5/1000 = 4×10^(-1)+7×10^(-2)+5×10^(-3) and 0.00023 as 23×10^(-5). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘0.475 can be represented as 0.475 = 4/10+7/100+5/1000 = 4×10^(-1)+7×10^(-2)+5×10^(-3) and 0.00023 as 23×10^(-5).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "representing decimals in exponential form; for example, 0.475 can be represented as 0.475\\;=\\;\\frac4{10}+\\frac7{100}+\\frac5{1000}\\;=\\;4\\times10^{-1}+7\\times10^{-2}+5\\times10^{-3} and 0.00023 as 23\\times10^{-5}",
+      "hint": "Represent decimals in exponential form."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "simplifying_and_evaluating_numerical_expressions_involving_both_positive_and_negative_integer_exponents_explaining_why",
-    "question": "During a final synthesis, For interpret negative exponents, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For interpret negative exponents, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why?",
+    "audio_prompt": "Which response correctly uses simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: 5^(-3)=(1)/(5³)=(1/5)³=1/125 and connecting terms of the sequence 125, 25, 5, 1, 1/5, 1/25, 1/125 and so on to terms of the sequence 5³, 5², 5^1, 5^0,5^(-1),5^(-2),5^(-3). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why; for example, 5^{-3}=\\frac1{5^3}=(\\frac15)^3=\\frac1{125} and connecting terms of the sequence 125, 25, 5, 1, \\frac15, \\frac1{25}, \\frac1{125}the omitted idea to terms of the sequence 5^3, 5^2, 5^1, 5^0,5^{-1},5^{-2},5^{-3}the omitted idea",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: 5^(-3)=(1)/(5³)=(1/5)³=1/125 and connecting terms of the sequence 125, 25, 5, 1, 1/5, 1/25, 1/125 and so on to terms of the sequence 5³, 5², 5^1, 5^0,5^(-1),5^(-2),5^(-3). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘5^(-3)=(1)/(5³)=(1/5)³=1/125 and connecting terms of the sequence 125, 25, 5, 1, 1/5, 1/25, 1/125 and so on to terms of the sequence 5³, 5², 5^1, 5^0,5^(-1),5^(-2),5^(-3).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why; for example, 5^{-3}=\\frac1{5^3}=(\\frac15)^3=\\frac1{125} and connecting terms of the sequence 125, 25, 5, 1, \\frac15, \\frac1{25}, \\frac1{125}the omitted idea to terms of the sequence 5^3, 5^2, 5^1, 5^0,5^{-1},5^{-2},5^{-3}the omitted idea",
+      "hint": "simplifying and evaluating numerical expressions, involving both positive and negative integer exponents, explaining why."
     }
   }
 ]

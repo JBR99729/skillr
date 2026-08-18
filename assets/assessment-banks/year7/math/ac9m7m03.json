@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_c_from_radius",
-    "question": "During a guided example, which statement correctly explains radius?",
-    "audio_prompt": "During a guided example, which statement correctly explains radius?",
+    "question": "Which statement correctly explains radius in circle features and circumference?",
+    "audio_prompt": "Which statement correctly explains radius in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_radius_from_diameter",
-    "question": "During a comparison task, which statement correctly explains diameter?",
-    "audio_prompt": "During a comparison task, which statement correctly explains diameter?",
+    "question": "Which description is accurate for diameter in circle features and circumference?",
+    "audio_prompt": "Which description is accurate for diameter in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "estimate_wheel_travel",
-    "question": "During an error analysis, which statement correctly explains circumference?",
-    "audio_prompt": "During an error analysis, which statement correctly explains circumference?",
+    "question": "Which statement gives an example of circumference in circle features and circumference?",
+    "audio_prompt": "Which statement gives an example of circumference in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explain_as_ratio",
-    "question": "During a model interpretation, which response best demonstrates explain π as ratio in circle features and circumference?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates explain π as ratio in circle features and circumference?",
+    "question": "What is important when using radius in circle features and circumference?",
+    "audio_prompt": "What is important when using radius in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_correct_units_and_accuracy",
-    "question": "During an evidence check, which response best demonstrates use correct units and accuracy in circle features and circumference?",
-    "audio_prompt": "During an evidence check, which response best demonstrates use correct units and accuracy in circle features and circumference?",
+    "question": "Which statement correctly identifies diameter in circle features and circumference?",
+    "audio_prompt": "Which statement correctly identifies diameter in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_c_from_radius",
-    "question": "During a transfer problem, which response best demonstrates find c from radius in circle features and circumference?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates find c from radius in circle features and circumference?",
+    "question": "Which choice best describes circumference in circle features and circumference?",
+    "audio_prompt": "Which choice best describes circumference in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_radius_from_diameter",
-    "question": "During a peer explanation, which response best demonstrates find radius from diameter in circle features and circumference?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates find radius from diameter in circle features and circumference?",
+    "question": "What does correct use require for radius in circle features and circumference?",
+    "audio_prompt": "What does correct use require for radius in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "estimate_wheel_travel",
-    "question": "During an independent review, which response best demonstrates estimate wheel travel in circle features and circumference?",
-    "audio_prompt": "During an independent review, which response best demonstrates estimate wheel travel in circle features and circumference?",
+    "question": "Which statement is true about diameter in circle features and circumference?",
+    "audio_prompt": "Which statement is true about diameter in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explain_as_ratio",
-    "question": "During a fresh case study, which response best demonstrates explain π as ratio in circle features and circumference?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates explain π as ratio in circle features and circumference?",
+    "question": "Which response correctly applies explain π as ratio in circle features and circumference?",
+    "audio_prompt": "Which response correctly applies explain π as ratio in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_correct_units_and_accuracy",
-    "question": "During an unfamiliar representation, which response best demonstrates use correct units and accuracy in circle features and circumference?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates use correct units and accuracy in circle features and circumference?",
+    "question": "Which response shows correct use of use correct units and accuracy in circle features and circumference?",
+    "audio_prompt": "Which response shows correct use of use correct units and accuracy in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_c_from_radius",
-    "question": "During a critical response, which response best demonstrates find c from radius in circle features and circumference?",
-    "audio_prompt": "During a critical response, which response best demonstrates find c from radius in circle features and circumference?",
+    "question": "Which interpretation is accurate for find c from radius in circle features and circumference?",
+    "audio_prompt": "Which interpretation is accurate for find c from radius in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_radius_from_diameter",
-    "question": "During a worked solution audit, which response best demonstrates find radius from diameter in circle features and circumference?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates find radius from diameter in circle features and circumference?",
+    "question": "Which choice demonstrates find radius from diameter in circle features and circumference?",
+    "audio_prompt": "Which choice demonstrates find radius from diameter in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "estimate_wheel_travel",
-    "question": "During a source evaluation, which response best demonstrates estimate wheel travel in circle features and circumference?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates estimate wheel travel in circle features and circumference?",
+    "question": "What should be checked when applying estimate wheel travel in circle features and circumference?",
+    "audio_prompt": "What should be checked when applying estimate wheel travel in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explain_as_ratio",
-    "question": "During a multi-step application, which response best demonstrates explain π as ratio in circle features and circumference?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates explain π as ratio in circle features and circumference?",
+    "question": "Which response best uses explain π as ratio in circle features and circumference?",
+    "audio_prompt": "Which response best uses explain π as ratio in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_correct_units_and_accuracy",
-    "question": "During a justification task, which response best demonstrates use correct units and accuracy in circle features and circumference?",
-    "audio_prompt": "During a justification task, which response best demonstrates use correct units and accuracy in circle features and circumference?",
+    "question": "Which claim is accurate about use correct units and accuracy in circle features and circumference?",
+    "audio_prompt": "Which claim is accurate about use correct units and accuracy in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_c_from_radius",
-    "question": "During a final synthesis, which response best demonstrates find c from radius in circle features and circumference?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates find c from radius in circle features and circumference?",
+    "question": "What is required to apply find c from radius in circle features and circumference?",
+    "audio_prompt": "What is required to apply find c from radius in circle features and circumference?",
     "visual": {
       "type": "none",
       "alt_text": ""

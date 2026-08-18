@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "identify_contextual_influence",
-    "question": "During a guided example, which statement correctly explains worldview?",
-    "audio_prompt": "During a guided example, which statement correctly explains worldview?",
+    "question": "Which statement correctly explains worldview in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which statement correctly explains worldview in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "distinguish_evidence_value",
-    "question": "During a comparison task, which statement correctly explains cultural perspective?",
-    "audio_prompt": "During a comparison task, which statement correctly explains cultural perspective?",
+    "question": "Which description is accurate for cultural perspective in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which description is accurate for cultural perspective in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "evaluate_source_authority",
-    "question": "During an error analysis, which statement correctly explains knowledge protocol?",
-    "audio_prompt": "During an error analysis, which statement correctly explains knowledge protocol?",
+    "question": "Which statement gives an example of knowledge protocol in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which statement gives an example of knowledge protocol in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "avoid_stereotype",
-    "question": "During a model interpretation, which response best demonstrates avoid stereotype in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates avoid stereotype in cultural perspectives, questions and scientific practice?",
+    "question": "What is important when using worldview in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "What is important when using worldview in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "plan_respectful_collaboration",
-    "question": "During an evidence check, which response best demonstrates plan respectful collaboration in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During an evidence check, which response best demonstrates plan respectful collaboration in cultural perspectives, questions and scientific practice?",
+    "question": "Which statement correctly identifies cultural perspective in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which statement correctly identifies cultural perspective in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "identify_contextual_influence",
-    "question": "During a transfer problem, which response best demonstrates identify contextual influence in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates identify contextual influence in cultural perspectives, questions and scientific practice?",
+    "question": "Which choice best describes knowledge protocol in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which choice best describes knowledge protocol in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "distinguish_evidence_value",
-    "question": "During a peer explanation, which response best demonstrates distinguish evidence/value in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates distinguish evidence/value in cultural perspectives, questions and scientific practice?",
+    "question": "What does correct use require for worldview in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "What does correct use require for worldview in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "evaluate_source_authority",
-    "question": "During an independent review, which response best demonstrates evaluate source authority in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During an independent review, which response best demonstrates evaluate source authority in cultural perspectives, questions and scientific practice?",
+    "question": "Which statement is true about cultural perspective in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which statement is true about cultural perspective in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "avoid_stereotype",
-    "question": "During a fresh case study, which response best demonstrates avoid stereotype in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates avoid stereotype in cultural perspectives, questions and scientific practice?",
+    "question": "Which response correctly applies avoid stereotype in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which response correctly applies avoid stereotype in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "plan_respectful_collaboration",
-    "question": "During an unfamiliar representation, which response best demonstrates plan respectful collaboration in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates plan respectful collaboration in cultural perspectives, questions and scientific practice?",
+    "question": "Which response shows correct use of plan respectful collaboration in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which response shows correct use of plan respectful collaboration in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "identify_contextual_influence",
-    "question": "During a critical response, which response best demonstrates identify contextual influence in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During a critical response, which response best demonstrates identify contextual influence in cultural perspectives, questions and scientific practice?",
+    "question": "Which interpretation is accurate for identify contextual influence in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which interpretation is accurate for identify contextual influence in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "distinguish_evidence_value",
-    "question": "During a worked solution audit, which response best demonstrates distinguish evidence/value in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates distinguish evidence/value in cultural perspectives, questions and scientific practice?",
+    "question": "Which choice demonstrates distinguish evidence/value in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which choice demonstrates distinguish evidence/value in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "evaluate_source_authority",
-    "question": "During a source evaluation, which response best demonstrates evaluate source authority in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates evaluate source authority in cultural perspectives, questions and scientific practice?",
+    "question": "What should be checked when applying evaluate source authority in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "What should be checked when applying evaluate source authority in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "avoid_stereotype",
-    "question": "During a multi-step application, which response best demonstrates avoid stereotype in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates avoid stereotype in cultural perspectives, questions and scientific practice?",
+    "question": "Which response best uses avoid stereotype in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which response best uses avoid stereotype in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "plan_respectful_collaboration",
-    "question": "During a justification task, which response best demonstrates plan respectful collaboration in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During a justification task, which response best demonstrates plan respectful collaboration in cultural perspectives, questions and scientific practice?",
+    "question": "Which claim is accurate about plan respectful collaboration in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "Which claim is accurate about plan respectful collaboration in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "identify_contextual_influence",
-    "question": "During a final synthesis, which response best demonstrates identify contextual influence in cultural perspectives, questions and scientific practice?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates identify contextual influence in cultural perspectives, questions and scientific practice?",
+    "question": "What is required to apply identify contextual influence in cultural perspectives, questions and scientific practice?",
+    "audio_prompt": "What is required to apply identify contextual influence in cultural perspectives, questions and scientific practice?",
     "visual": {
       "type": "none",
       "alt_text": ""

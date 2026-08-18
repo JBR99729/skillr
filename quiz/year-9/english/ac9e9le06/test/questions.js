@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which response correctly uses a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
+    "audioPrompt": "Which response correctly uses a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative\nHint: A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
+      "hint": "A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
+    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "taking an existing short story, poem, play or speech in print form and creating a short film",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "taking an existing short story, poem, play or speech in print form and creating a short film\nHint: A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "taking an existing short story, poem, play or speech in print form and creating a short film",
+      "hint": "A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text?",
+    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "adapting traditional and contemporary literature through textual intervention, prequel or sequel\nHint: A writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
+      "hint": "A writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, Explain how one deliberate choice shapes meaning in create and edit literary texts, that may be a hybrid, that experiment with text structures, language features and literary devices for purposes and audiences Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, Explain how one deliberate choice shapes meaning in create and edit literary texts, that may be a hybrid, that experiment with text structures, language features and literary devices for purposes and audiences Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
+    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative\nHint: A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
+      "hint": "A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "When would you use a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
+    "audioPrompt": "When would you use a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "taking an existing short story, poem, play or speech in print form and creating a short film",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "taking an existing short story, poem, play or speech in print form and creating a short film\nHint: A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "taking an existing short story, poem, play or speech in print form and creating a short film",
+      "hint": "A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention prequel or sequel and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "When would you use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text?",
+    "audioPrompt": "When would you use a writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "adapting traditional and contemporary literature through textual intervention, prequel or sequel\nHint: A writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "adapting traditional and contemporary literature through textual intervention, prequel or sequel",
+      "hint": "A writer or speaker can use representation to shape adapting traditional and contemporary literature through textual intervention, prequel or sequel and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape editing by checking for run on sentences ensuring that detail or repetition is used for effect and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "When would you use a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
+    "audioPrompt": "When would you use a writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative\nHint: A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative",
+      "hint": "A writer or speaker can use text choice to shape editing by checking for run-on sentences, ensuring that detail or repetition is used for effect, and ensuring paragraphs are linked in ways that develop the narrative and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape taking an existing short story poem play or speech in print form and creating a short film and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, Explain how one deliberate choice shapes meaning in create and edit literary texts, that may be a hybrid, that experiment with text structures, language features and literary devices for purposes and audiences Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, Explain how one deliberate choice shapes meaning in create and edit literary texts, that may be a hybrid, that experiment with text structures, language features and literary devices for purposes and audiences Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
+    "audioPrompt": "Which choice demonstrates a writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "taking an existing short story, poem, play or speech in print form and creating a short film"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "taking an existing short story, poem, play or speech in print form and creating a short film\nHint: A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "taking an existing short story, poem, play or speech in print form and creating a short film",
+      "hint": "A writer or speaker can use voice to shape taking an existing short story, poem, play or speech in print form and creating a short film and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   }

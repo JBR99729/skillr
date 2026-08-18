@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use a report on a scientific investigation including an introductory to make the role of evidence selection visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, In 20 seconds, explain how audience helps make sense of appropriate content and language which is culturally responsive Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, In 20 seconds, explain how audience helps make sense of appropriate content and language which is culturally responsive Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.",
-      "More technical vocabulary is more scientific",
+      "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility",
       "Audience adaptation permits changing the conclusion",
-      "Change explanation depth and form, not the supported meaning"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.\nHint: Prefer precise language the audience can interpret.",
+    "explanation": "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility\nHint: Use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.",
-      "hint": "Prefer precise language the audience can interpret."
+      "summary": "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility",
+      "hint": "Use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how evidence selection helps make sense of a report on a scientific investigation including: an introductory Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, In 20 seconds, explain how evidence selection helps make sense of a report on a scientific investigation including: an introductory Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Audience adaptation permits changing the conclusion",
-      "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.",
       "More technical vocabulary is more scientific",
-      "Prefer precise language the audience can interpret"
+      "developing an interactive presentation that shows feedback loops in human body systems",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Change explanation depth and form, not the supported meaning.",
+    "explanation": "developing an interactive presentation that shows feedback loops in human body systems\nHint: Use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "hint": "Change explanation depth and form, not the supported meaning."
+      "summary": "developing an interactive presentation that shows feedback loops in human body systems",
+      "hint": "Use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, In 20 seconds, explain how language and structure helps make sense of an interactive presentation that shows feedback loops in human Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, In 20 seconds, explain how language and structure helps make sense of an interactive presentation that shows feedback loops in human Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "More technical vocabulary is more scientific",
       "Audience adaptation permits changing the conclusion",
-      "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.",
-      "Change explanation depth and form, not the supported meaning"
+      "The method can be chosen without checking the values or conditions",
+      "planning a social media campaign to encourage young people to reduce their carbon footprint",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.\nHint: Prefer precise language the audience can interpret.",
+    "explanation": "planning a social media campaign to encourage young people to reduce their carbon footprint\nHint: Use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.",
-      "hint": "Prefer precise language the audience can interpret."
+      "summary": "planning a social media campaign to encourage young people to reduce their carbon footprint",
+      "hint": "Use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, In 20 seconds, explain how digital feature and review helps make sense of planning a social media campaign to encourage young people Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, In 20 seconds, explain how digital feature and review helps make sense of planning a social media campaign to encourage young people Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Audience adaptation permits changing the conclusion",
       "More technical vocabulary is more scientific",
-      "Prefer precise language the audience can interpret",
-      "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "collaborating to prepare a written report for local government on estimated carbon storage across different local ecosystems and proposals to increase carbon storage across the area"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.\nHint: Change explanation depth and form, not the supported meaning.",
+    "explanation": "collaborating to prepare a written report for local government on estimated carbon storage across different local ecosystems and proposals to increase carbon storage across the area\nHint: Use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.",
-      "hint": "Change explanation depth and form, not the supported meaning."
+      "summary": "collaborating to prepare a written report for local government on estimated carbon storage across different local ecosystems and proposals to increase carbon storage across the area",
+      "hint": "Use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, In 20 seconds, explain how purpose helps make sense of collaborating to prepare a written report for local government Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, In 20 seconds, explain how purpose helps make sense of collaborating to prepare a written report for local government Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "More technical vocabulary is more scientific",
+      "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features",
       "Audience adaptation permits changing the conclusion",
-      "Change explanation depth and form, not the supported meaning"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Prefer precise language the audience can interpret.",
+    "explanation": "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features\nHint: Use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "hint": "Prefer precise language the audience can interpret."
+      "summary": "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features",
+      "hint": "Use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, Use the central model to explain create effective scientific texts in three linked sentences Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, Use the central model to explain create effective scientific texts in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Audience adaptation permits changing the conclusion",
-      "Purpose and audience guide content and form. Scientific representations and conventions remain accurate. Editing checks evidence, uncertainty, accessibility and ethical attribution.",
       "More technical vocabulary is more scientific",
-      "Prefer precise language the audience can interpret"
+      "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Purpose and audience guide content and form. Scientific representations and conventions remain accurate. Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Change explanation depth and form, not the supported meaning.",
+    "explanation": "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions\nHint: Use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Purpose and audience guide content and form. Scientific representations and conventions remain accurate. Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "hint": "Change explanation depth and form, not the supported meaning."
+      "summary": "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions",
+      "hint": "Use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use a report on a scientific investigation including an introductory to make the role of evidence selection visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, In 20 seconds, explain how purpose helps make sense of contrasting scientific texts addressing similar topics for different purposes Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, In 20 seconds, explain how purpose helps make sense of contrasting scientific texts addressing similar topics for different purposes Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Audience adaptation permits changing the conclusion",
-      "Change explanation depth and form, not the supported meaning",
-      "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.",
-      "A response that mentions use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.\nHint: Change explanation depth and form, not the supported meaning.",
+    "explanation": "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility\nHint: Use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.",
-      "hint": "Change explanation depth and form, not the supported meaning."
+      "summary": "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility",
+      "hint": "Use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, In 20 seconds, explain how audience helps make sense of appropriate content and language which is culturally responsive Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, In 20 seconds, explain how audience helps make sense of appropriate content and language which is culturally responsive Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "More technical vocabulary is more scientific",
-      "Prefer precise language the audience can interpret",
-      "A response that mentions use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "developing an interactive presentation that shows feedback loops in human body systems"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.\nHint: Prefer precise language the audience can interpret.",
+    "explanation": "developing an interactive presentation that shows feedback loops in human body systems\nHint: Use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.",
-      "hint": "Prefer precise language the audience can interpret."
+      "summary": "developing an interactive presentation that shows feedback loops in human body systems",
+      "hint": "Use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

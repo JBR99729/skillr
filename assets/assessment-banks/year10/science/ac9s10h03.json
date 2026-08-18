@@ -6,15 +6,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_agricultural_practices_have_changed_to_include_widespread_use_to_make_the_role_of_evidence_strength_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a guided example, In 20 seconds, explain how evidence strength helps make sense of agricultural practices have changed to include widespread use",
-    "audio_prompt": "During a guided example, In 20 seconds, explain how evidence strength helps make sense of agricultural practices have changed to include widespread use",
+    "question": "Which statement correctly describes use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
+        "text": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "Add trust, access, incentives, regulation and values to the model",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+      "hint": "Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_statistics_to_compare_bicycle_or_electric_scooter_injuries_sustained_to_make_the_role_of_benefit_and_risk_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a comparison task, In 20 seconds, explain how benefit and risk helps make sense of statistics to compare bicycle or electric scooter injuries sustained",
-    "audio_prompt": "During a comparison task, In 20 seconds, explain how benefit and risk helps make sense of statistics to compare bicycle or electric scooter injuries sustained",
+    "question": "Which statement correctly describes use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -55,22 +55,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
+        "text": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
         "is_correct": true
       },
       {
-        "text": "Test several adoption factors before inferring the cause",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
-      "hint": "Test several adoption factors before inferring the cause."
+      "summary": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+      "hint": "Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_examples_of_the_application_of_genetic_screening_and_reasons_to_make_the_role_of_trust_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an error analysis, In 20 seconds, explain how trust helps make sense of examples of the application of genetic screening and reasons",
-    "audio_prompt": "During an error analysis, In 20 seconds, explain how trust helps make sense of examples of the application of genetic screening and reasons",
+    "question": "Which statement correctly describes use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -92,22 +92,22 @@
         "is_correct": false
       },
       {
-        "text": "Add trust, access, incentives, regulation and values to the model",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
+        "text": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+      "hint": "Use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_climate_change_models_used_by_scientists_are_contested_to_make_the_role_of_access_and_cost_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a model interpretation, In 20 seconds, explain how access and cost helps make sense of climate change models used by scientists are contested",
-    "audio_prompt": "During a model interpretation, In 20 seconds, explain how access and cost helps make sense of climate change models used by scientists are contested",
+    "question": "Which statement correctly describes use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "Test several adoption factors before inferring the cause",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
+        "text": "examining why climate change models used by scientists are contested by some people in society",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
-      "hint": "Test several adoption factors before inferring the cause."
+      "summary": "examining why climate change models used by scientists are contested by some people in society",
+      "hint": "Use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -154,15 +154,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_citizen_science_projects_to_make_the_role_of_values_and_policy_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an evidence check, In 20 seconds, explain how values and policy helps make sense of citizen science projects",
-    "audio_prompt": "During an evidence check, In 20 seconds, explain how values and policy helps make sense of citizen science projects",
+    "question": "Which statement correctly describes use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
+        "text": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
         "is_correct": true
       },
       {
@@ -170,18 +170,18 @@
         "is_correct": false
       },
       {
-        "text": "Add trust, access, incentives, regulation and values to the model",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
+      "hint": "Use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_how_the_traditional_ecological_knowledges_of_first_nations_australians_to_make_the_role_of_evidence_strength_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a transfer problem, In 20 seconds, explain how evidence strength helps make sense of how the traditional ecological knowledges of first nations australians",
-    "audio_prompt": "During a transfer problem, In 20 seconds, explain how evidence strength helps make sense of how the traditional ecological knowledges of first nations australians",
+    "question": "Which statement correctly describes use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -203,22 +203,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
+        "text": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
         "is_correct": true
       },
       {
-        "text": "Test several adoption factors before inferring the cause",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
-      "hint": "Test several adoption factors before inferring the cause."
+      "summary": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
+      "hint": "Use how the traditional ecological knowledges of First Nations Australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_agricultural_practices_have_changed_to_include_widespread_use_to_make_the_role_of_evidence_strength_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a peer explanation, Use the central model to explain why society adopts scientific practices in three linked sentences",
-    "audio_prompt": "During a peer explanation, Use the central model to explain why society adopts scientific practices in three linked sentences",
+    "question": "Which statement gives a valid example of use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement gives a valid example of use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "Add trust, access, incentives, regulation and values to the model",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Adoption is influenced by scientific and social factors. Evidence quality is essential but not sufficient. Adoption patterns can vary among groups and over time.",
+        "text": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Adoption is influenced by scientific and social factors. Evidence quality is essential but not sufficient. Adoption patterns can vary among groups and over time.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+      "hint": "Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_statistics_to_compare_bicycle_or_electric_scooter_injuries_sustained_to_make_the_role_of_benefit_and_risk_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an independent review, In 20 seconds, explain how evidence strength helps make sense of agricultural practices have changed to include widespread use",
-    "audio_prompt": "During an independent review, In 20 seconds, explain how evidence strength helps make sense of agricultural practices have changed to include widespread use",
+    "question": "Which statement gives a valid example of use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement gives a valid example of use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Strong evidence guarantees rapid adoption",
-        "is_correct": false
-      },
-      {
         "text": "Low adoption proves the science is weak",
         "is_correct": false
       },
       {
-        "text": "Test several adoption factors before inferring the cause",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+      "hint": "Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_examples_of_the_application_of_genetic_screening_and_reasons_to_make_the_role_of_trust_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a fresh case study, In 20 seconds, explain how benefit and risk helps make sense of statistics to compare bicycle or electric scooter injuries sustained Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, In 20 seconds, explain how benefit and risk helps make sense of statistics to compare bicycle or electric scooter injuries sustained Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
+        "text": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
         "is_correct": true
-      },
-      {
-        "text": "Low adoption proves the science is weak",
-        "is_correct": false
       },
       {
         "text": "Strong evidence guarantees rapid adoption",
         "is_correct": false
       },
       {
-        "text": "Add trust, access, incentives, regulation and values to the model",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
-      "hint": "Test several adoption factors before inferring the cause."
+      "summary": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+      "hint": "Use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -339,34 +339,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_climate_change_models_used_by_scientists_are_contested_to_make_the_role_of_access_and_cost_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how trust helps make sense of examples of the application of genetic screening and reasons Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how trust helps make sense of examples of the application of genetic screening and reasons Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Strong evidence guarantees rapid adoption",
-        "is_correct": false
-      },
-      {
-        "text": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
-        "is_correct": true
-      },
-      {
         "text": "Low adoption proves the science is weak",
         "is_correct": false
       },
       {
-        "text": "Test several adoption factors before inferring the cause",
+        "text": "examining why climate change models used by scientists are contested by some people in society",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "examining why climate change models used by scientists are contested by some people in society",
+      "hint": "Use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_citizen_science_projects_to_make_the_role_of_values_and_policy_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a critical response, In 20 seconds, explain how access and cost helps make sense of climate change models used by scientists are contested Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, In 20 seconds, explain how access and cost helps make sense of climate change models used by scientists are contested Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Low adoption proves the science is weak",
-        "is_correct": false
-      },
-      {
         "text": "Strong evidence guarantees rapid adoption",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
         "is_correct": true
       },
       {
-        "text": "Add trust, access, incentives, regulation and values to the model",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
-      "hint": "Test several adoption factors before inferring the cause."
+      "summary": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
+      "hint": "Use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_how_the_traditional_ecological_knowledges_of_first_nations_australians_to_make_the_role_of_evidence_strength_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a worked solution audit, In 20 seconds, explain how values and policy helps make sense of citizen science projects Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how values and policy helps make sense of citizen science projects Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Strong evidence guarantees rapid adoption",
-        "is_correct": false
-      },
-      {
         "text": "Low adoption proves the science is weak",
         "is_correct": false
       },
       {
-        "text": "Test several adoption factors before inferring the cause",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
+      "hint": "Use how the traditional ecological knowledges of First Nations Australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -450,34 +450,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_agricultural_practices_have_changed_to_include_widespread_use_to_make_the_role_of_evidence_strength_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a source evaluation, In 20 seconds, explain how evidence strength helps make sense of how the traditional ecological knowledges of first nations australians Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, In 20 seconds, explain how evidence strength helps make sense of how the traditional ecological knowledges of first nations australians Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
+        "text": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
         "is_correct": true
-      },
-      {
-        "text": "Low adoption proves the science is weak",
-        "is_correct": false
       },
       {
         "text": "Strong evidence guarantees rapid adoption",
         "is_correct": false
       },
       {
-        "text": "Add trust, access, incentives, regulation and values to the model",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
-      "hint": "Test several adoption factors before inferring the cause."
+      "summary": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
+      "hint": "Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_statistics_to_compare_bicycle_or_electric_scooter_injuries_sustained_to_make_the_role_of_benefit_and_risk_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a multi-step application, Use the central model to explain why society adopts scientific practices in three linked sentences Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, Use the central model to explain why society adopts scientific practices in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Strong evidence guarantees rapid adoption",
-        "is_correct": false
-      },
-      {
-        "text": "Adoption is influenced by scientific and social factors. Evidence quality is essential but not sufficient. Adoption patterns can vary among groups and over time.",
-        "is_correct": true
-      },
-      {
         "text": "Low adoption proves the science is weak",
         "is_correct": false
       },
       {
-        "text": "Test several adoption factors before inferring the cause",
+        "text": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Adoption is influenced by scientific and social factors. Evidence quality is essential but not sufficient. Adoption patterns can vary among groups and over time.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
+      "hint": "Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_examples_of_the_application_of_genetic_screening_and_reasons_to_make_the_role_of_trust_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a justification task, In 20 seconds, explain how evidence strength helps make sense of agricultural practices have changed to include widespread use Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, In 20 seconds, explain how evidence strength helps make sense of agricultural practices have changed to include widespread use Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -536,22 +536,22 @@
         "is_correct": false
       },
       {
-        "text": "Add trust, access, incentives, regulation and values to the model",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
+        "text": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
+      "hint": "Use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_climate_change_models_used_by_scientists_are_contested_to_make_the_role_of_access_and_cost_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a final synthesis, In 20 seconds, explain how benefit and risk helps make sense of statistics to compare bicycle or electric scooter injuries sustained Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, In 20 seconds, explain how benefit and risk helps make sense of statistics to compare bicycle or electric scooter injuries sustained Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "Test several adoption factors before inferring the cause",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
+        "text": "examining why climate change models used by scientists are contested by some people in society",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
-      "hint": "Test several adoption factors before inferring the cause."
+      "summary": "examining why climate change models used by scientists are contested by some people in society",
+      "hint": "Use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation."
     }
   }
 ]

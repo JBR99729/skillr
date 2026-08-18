@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_networks_and_network_diagrams_can_be_used_to_model_authentic_situations_recognising_what_real_world_quantity_is_represented_by_the_nodes_vertices",
-    "question": "During a guided example, For translate a situation into nodes and edges, what do the vertices and edges represent, and is the network connected",
-    "audio_prompt": "During a guided example, For translate a situation into nodes and edges, what do the vertices and edges represent, and is the network connected",
+    "question": "Which statement correctly describes explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)?",
+    "audio_prompt": "Which statement correctly describes explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices) but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
+      "hint": "Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_the_use_of_graphs_to_represent_a_network_analysing_connectedness",
-    "question": "During a comparison task, For test network connectedness, what do the vertices and edges represent, and is the network connected",
-    "audio_prompt": "During a comparison task, For test network connectedness, what do the vertices and edges represent, and is the network connected",
+    "question": "Which statement correctly describes explore the use of graphs to represent a network, analysing connectedness?",
+    "audio_prompt": "Which statement correctly describes explore the use of graphs to represent a network, analysing connectedness?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The networks and connectedness model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Investigating the “The Seven Bridges of Königsberg” problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore the use of graphs to represent a network, analysing connectedness but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Investigating the “The Seven Bridges of Königsberg” problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Investigating the “The Seven Bridges of Königsberg” problem.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
+      "hint": "Explore the use of graphs to represent a network, analysing connectedness."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_polyhedra_can_be_represented_as_a_network_using_edges_vertices_interior_and_exterior_faces_representing_the_number_of_edges_vertices_and_faces_in_a_table",
-    "question": "During an error analysis, For connect polyhedra and euler's formula, which algebraic step preserves equivalence, and why",
-    "audio_prompt": "During an error analysis, For connect polyhedra and euler's formula, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table?",
+    "audio_prompt": "Which statement correctly describes explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table and demonstrating how Euler’s formula F + V = E + 2 applies",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table and demonstrating how Euler’s formula F + V = E + 2 applies",
+      "hint": "Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_a_social_network_intranet_local_area_network_lan_electrical_wiring_or_wireless_network_of_a_home_can_be_represented_as_a_network_diagram_to_specify_relationships",
-    "question": "During a model interpretation, For model communication and electrical networks, what do the vertices and edges represent, and is the network connected",
-    "audio_prompt": "During a model interpretation, For model communication and electrical networks, what do the vertices and edges represent, and is the network connected",
+    "question": "Which statement correctly describes explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships?",
+    "audio_prompt": "Which statement correctly describes explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Using network diagrams to investigate practical problems involving connections, power overload or the need for routers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships; for example, using network diagrams to investigate practical problems involving connections, power overload or the need for routers",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Using network diagrams to investigate practical problems involving connections, power overload or the need for routers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Using network diagrams to investigate practical problems involving connections, power overload or the need for routers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships; for example, using network diagrams to investigate practical problems involving connections, power overload or the need for routers",
+      "hint": "Explore how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_the_use_of_networks_to_represent_authentic_situations",
-    "question": "During an evidence check, For compare authentic network models, what do the vertices and edges represent, and is the network connected",
-    "audio_prompt": "During an evidence check, For compare authentic network models, what do the vertices and edges represent, and is the network connected",
+    "question": "Which statement correctly describes explore the use of networks to represent authentic situations?",
+    "audio_prompt": "Which statement correctly describes explore the use of networks to represent authentic situations?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Rail or air travel between or within London, Paris, Hong Kong. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating the use of networks to represent authentic situations; for example, rail or air travel between or within London, Paris, Hong Kong; a food web representing a simple eco-system; metabolic networks and other chemical or biological structures",
         "is_correct": true
       },
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The networks and connectedness model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore the use of networks to represent authentic situations but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Rail or air travel between or within London, Paris, Hong Kong. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Rail or air travel between or within London, Paris, Hong Kong.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the use of networks to represent authentic situations; for example, rail or air travel between or within London, Paris, Hong Kong; a food web representing a simple eco-system; metabolic networks and other chemical or biological structures",
+      "hint": "Explore the use of networks to represent authentic situations."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "represent_first_nations_australians_kinship_systems_using_network_diagrams_and_exploring_the_significance_of_relationships_to_country_place",
-    "question": "During a transfer problem, For represent kinship relationships respectfully, what do the vertices and edges represent, and is the network connected",
-    "audio_prompt": "During a transfer problem, For represent kinship relationships respectfully, what do the vertices and edges represent, and is the network connected",
+    "question": "Which statement correctly describes represent first nations australians’ kinship systems using network diagrams and exploring the significance of relationships to country/place?",
+    "audio_prompt": "Which statement correctly describes represent first nations australians’ kinship systems using network diagrams and exploring the significance of relationships to country/place?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "representing First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place",
         "is_correct": true
       },
       {
-        "text": "A response that mentions represent first nations australians’ kinship systems using network diagrams and exploring the significance of relationships to country/place but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "representing First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place",
+      "hint": "Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_networks_and_network_diagrams_can_be_used_to_model_authentic_situations_recognising_what_real_world_quantity_is_represented_by_the_nodes_vertices",
-    "question": "During a peer explanation, For translate a situation into nodes and edges, what do the vertices and edges represent, and is the network connected",
-    "audio_prompt": "During a peer explanation, For translate a situation into nodes and edges, what do the vertices and edges represent, and is the network connected",
+    "question": "Which statement gives a valid example of explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)?",
+    "audio_prompt": "Which statement gives a valid example of explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices) but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
+      "hint": "Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_the_use_of_graphs_to_represent_a_network_analysing_connectedness",
-    "question": "During an independent review, For test network connectedness, what do the vertices and edges represent, and is the network connected",
-    "audio_prompt": "During an independent review, For test network connectedness, what do the vertices and edges represent, and is the network connected",
+    "question": "Which statement gives a valid example of explore the use of graphs to represent a network, analysing connectedness?",
+    "audio_prompt": "Which statement gives a valid example of explore the use of graphs to represent a network, analysing connectedness?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The networks and connectedness model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore the use of graphs to represent a network, analysing connectedness but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Investigating the “The Seven Bridges of Königsberg” problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Investigating the “The Seven Bridges of Königsberg” problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Investigating the “The Seven Bridges of Königsberg” problem.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
+      "hint": "Explore the use of graphs to represent a network, analysing connectedness."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_polyhedra_can_be_represented_as_a_network_using_edges_vertices_interior_and_exterior_faces_representing_the_number_of_edges_vertices_and_faces_in_a_table",
-    "question": "During a fresh case study, For connect polyhedra and euler's formula, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For connect polyhedra and euler's formula, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table?",
+    "audio_prompt": "Which description correctly applies explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table and demonstrating how Euler’s formula F + V = E + 2 applies",
         "is_correct": true
       },
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table and demonstrating how Euler’s formula F + V = E + 2 applies",
+      "hint": "Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_a_social_network_intranet_local_area_network_lan_electrical_wiring_or_wireless_network_of_a_home_can_be_represented_as_a_network_diagram_to_specify_relationships",
-    "question": "During an unfamiliar representation, For model communication and electrical networks, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For model communication and electrical networks, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships?",
+    "audio_prompt": "Which description correctly applies explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Using network diagrams to investigate practical problems involving connections, power overload or the need for routers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships; for example, using network diagrams to investigate practical problems involving connections, power overload or the need for routers",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Using network diagrams to investigate practical problems involving connections, power overload or the need for routers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Using network diagrams to investigate practical problems involving connections, power overload or the need for routers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships; for example, using network diagrams to investigate practical problems involving connections, power overload or the need for routers",
+      "hint": "Explore how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_the_use_of_networks_to_represent_authentic_situations",
-    "question": "During a critical response, For compare authentic network models, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For compare authentic network models, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore the use of networks to represent authentic situations?",
+    "audio_prompt": "Which description correctly applies explore the use of networks to represent authentic situations?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The networks and connectedness model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore the use of networks to represent authentic situations but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Rail or air travel between or within London, Paris, Hong Kong. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating the use of networks to represent authentic situations; for example, rail or air travel between or within London, Paris, Hong Kong; a food web representing a simple eco-system; metabolic networks and other chemical or biological structures",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Rail or air travel between or within London, Paris, Hong Kong. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Rail or air travel between or within London, Paris, Hong Kong.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the use of networks to represent authentic situations; for example, rail or air travel between or within London, Paris, Hong Kong; a food web representing a simple eco-system; metabolic networks and other chemical or biological structures",
+      "hint": "Explore the use of networks to represent authentic situations."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "represent_first_nations_australians_kinship_systems_using_network_diagrams_and_exploring_the_significance_of_relationships_to_country_place",
-    "question": "During a worked solution audit, For represent kinship relationships respectfully, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For represent kinship relationships respectfully, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
+    "question": "Which description correctly applies represent first nations australians’ kinship systems using network diagrams and exploring the significance of relationships to country/place?",
+    "audio_prompt": "Which description correctly applies represent first nations australians’ kinship systems using network diagrams and exploring the significance of relationships to country/place?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions represent first nations australians’ kinship systems using network diagrams and exploring the significance of relationships to country/place but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "representing First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "representing First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place",
+      "hint": "Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_networks_and_network_diagrams_can_be_used_to_model_authentic_situations_recognising_what_real_world_quantity_is_represented_by_the_nodes_vertices",
-    "question": "During a source evaluation, For translate a situation into nodes and edges, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For translate a situation into nodes and edges, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)?",
+    "audio_prompt": "Which response correctly uses explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices). Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices) but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
+      "hint": "Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_the_use_of_graphs_to_represent_a_network_analysing_connectedness",
-    "question": "During a multi-step application, For test network connectedness, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For test network connectedness, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore the use of graphs to represent a network, analysing connectedness?",
+    "audio_prompt": "Which response correctly uses explore the use of graphs to represent a network, analysing connectedness?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The networks and connectedness model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Investigating the “The Seven Bridges of Königsberg” problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore the use of graphs to represent a network, analysing connectedness but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Investigating the “The Seven Bridges of Königsberg” problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Investigating the “The Seven Bridges of Königsberg” problem.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
+      "hint": "Explore the use of graphs to represent a network, analysing connectedness."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_polyhedra_can_be_represented_as_a_network_using_edges_vertices_interior_and_exterior_faces_representing_the_number_of_edges_vertices_and_faces_in_a_table",
-    "question": "During a justification task, For connect polyhedra and euler's formula, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For connect polyhedra and euler's formula, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table?",
+    "audio_prompt": "Which response correctly uses explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table and demonstrating how Euler’s formula F + V = E + 2 applies",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table and demonstrating how Euler’s formula F + V = E + 2 applies",
+      "hint": "Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_a_social_network_intranet_local_area_network_lan_electrical_wiring_or_wireless_network_of_a_home_can_be_represented_as_a_network_diagram_to_specify_relationships",
-    "question": "During a final synthesis, For model communication and electrical networks, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For model communication and electrical networks, what do the vertices and edges represent, and is the network connected Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships?",
+    "audio_prompt": "Which response correctly uses explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how a social network, intranet, local area network (lan), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Using network diagrams to investigate practical problems involving connections, power overload or the need for routers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships; for example, using network diagrams to investigate practical problems involving connections, power overload or the need for routers",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Using network diagrams to investigate practical problems involving connections, power overload or the need for routers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Using network diagrams to investigate practical problems involving connections, power overload or the need for routers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships; for example, using network diagrams to investigate practical problems involving connections, power overload or the need for routers",
+      "hint": "Explore how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships."
     }
   }
 ]

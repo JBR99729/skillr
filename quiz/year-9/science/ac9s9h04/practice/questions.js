@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how societal need helps make sense of how governments determine which scientific research projects should be",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how societal need helps make sense of how governments determine which scientific research projects should be",
+    "question": "Which statement correctly describes use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.",
+      "exploring how governments determine which scientific research projects should be funded",
       "Scientists freely choose research without constraints",
-      "Map funding, infrastructure, ethics, regulation and community need",
-      "A response that mentions use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.\nHint: Map funding, infrastructure, ethics, regulation and community need.",
+    "explanation": "exploring how governments determine which scientific research projects should be funded\nHint: Use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.",
-      "hint": "Map funding, infrastructure, ethics, regulation and community need."
+      "summary": "exploring how governments determine which scientific research projects should be funded",
+      "hint": "Use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how value or concern helps make sense of how australia has developed an artificial intelligence system which",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how value or concern helps make sense of how australia has developed an artificial intelligence system which",
+    "question": "Which statement correctly describes use how australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Funded research is automatically biased or invalid",
-      "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.",
-      "Separate influence on topic choice from evaluation of method and evidence",
-      "A response that mentions use how australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "exploring how Australia has developed an artificial intelligence system which is used to predict the likelihood of a viable pregnancy from transfer of a single embryo to a woman undergoing in-vitro fertilisation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.\nHint: Separate influence on topic choice from evaluation of method and evidence.",
+    "explanation": "exploring how Australia has developed an artificial intelligence system which is used to predict the likelihood of a viable pregnancy from transfer of a single embryo to a woman undergoing in-vitro fertilisation\nHint: Use how Australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.",
-      "hint": "Separate influence on topic choice from evaluation of method and evidence."
+      "summary": "exploring how Australia has developed an artificial intelligence system which is used to predict the likelihood of a viable pregnancy from transfer of a single embryo to a woman undergoing in-vitro fertilisation",
+      "hint": "Use how Australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how first nations peoples of the torres strait are to make the role of funding and capacity visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how funding and capacity helps make sense of how first nations peoples of the torres strait are",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how funding and capacity helps make sense of how first nations peoples of the torres strait are",
+    "question": "Which statement correctly describes use how first nations peoples of the torres strait are to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how first nations peoples of the torres strait are to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Scientists freely choose research without constraints",
-      "Map funding, infrastructure, ethics, regulation and community need",
-      "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.",
-      "A response that mentions use how first nations peoples of the torres strait are to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "researching how First Nations Peoples of the Torres Strait are at the forefront of the development of scientific measures to prevent the transfer of certain infectious diseases and pests to the Australian continent",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.\nHint: Map funding, infrastructure, ethics, regulation and community need.",
+    "explanation": "researching how First Nations Peoples of the Torres Strait are at the forefront of the development of scientific measures to prevent the transfer of certain infectious diseases and pests to the Australian continent\nHint: Use how First Nations Peoples of the Torres Strait are to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.",
-      "hint": "Map funding, infrastructure, ethics, regulation and community need."
+      "summary": "researching how First Nations Peoples of the Torres Strait are at the forefront of the development of scientific measures to prevent the transfer of certain infectious diseases and pests to the Australian continent",
+      "hint": "Use how First Nations Peoples of the Torres Strait are to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how research question helps make sense of how the need to minimise greenhouse gas production has",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how research question helps make sense of how the need to minimise greenhouse gas production has",
+    "question": "Which statement correctly describes use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Funded research is automatically biased or invalid",
-      "Separate influence on topic choice from evaluation of method and evidence",
-      "A response that mentions use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating how the need to minimise greenhouse gas production has led to scientific and technological advances"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.\nHint: Separate influence on topic choice from evaluation of method and evidence.",
+    "explanation": "investigating how the need to minimise greenhouse gas production has led to scientific and technological advances\nHint: Use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.",
-      "hint": "Separate influence on topic choice from evaluation of method and evidence."
+      "summary": "investigating how the need to minimise greenhouse gas production has led to scientific and technological advances",
+      "hint": "Use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use innovative energy transfer devices to make the role of benefit and opportunity cost visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how benefit and opportunity cost helps make sense of innovative energy transfer devices",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how benefit and opportunity cost helps make sense of innovative energy transfer devices",
+    "question": "Which statement correctly describes use innovative energy transfer devices, to make the role of benefit and opportunity cost visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use innovative energy transfer devices, to make the role of benefit and opportunity cost visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.",
+      "considering innovative energy transfer devices, including those used in transport and communication",
       "Scientists freely choose research without constraints",
-      "Map funding, infrastructure, ethics, regulation and community need",
-      "A response that mentions use innovative energy transfer devices, to make the role of benefit and opportunity cost visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.\nHint: Map funding, infrastructure, ethics, regulation and community need.",
+    "explanation": "considering innovative energy transfer devices, including those used in transport and communication\nHint: Use innovative energy transfer devices, to make the role of benefit and opportunity cost visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Funding and infrastructure enable some questions and constrain others.",
-      "hint": "Map funding, infrastructure, ethics, regulation and community need."
+      "summary": "considering innovative energy transfer devices, including those used in transport and communication",
+      "hint": "Use innovative energy transfer devices, to make the role of benefit and opportunity cost visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how societal need helps make sense of how the development of new materials and procedures has",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how societal need helps make sense of how the development of new materials and procedures has",
+    "question": "Which statement correctly describes use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Funded research is automatically biased or invalid",
-      "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.",
-      "Separate influence on topic choice from evaluation of method and evidence",
-      "A response that mentions use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "considering how the development of new materials and procedures has contributed to safe sound levels for humans in the workplace and leisure activities",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.\nHint: Separate influence on topic choice from evaluation of method and evidence.",
+    "explanation": "considering how the development of new materials and procedures has contributed to safe sound levels for humans in the workplace and leisure activities\nHint: Use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Priority decisions have benefits, ethical dimensions and opportunity costs.",
-      "hint": "Separate influence on topic choice from evaluation of method and evidence."
+      "summary": "considering how the development of new materials and procedures has contributed to safe sound levels for humans in the workplace and leisure activities",
+      "hint": "Use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how value or concern helps make sense of many manufacturers are adopting green chemistry processes",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how value or concern helps make sense of many manufacturers are adopting green chemistry processes",
+    "question": "Which statement correctly describes use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Scientists freely choose research without constraints",
-      "Map funding, infrastructure, ethics, regulation and community need",
-      "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.",
-      "A response that mentions use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "examining why many manufacturers are adopting green chemistry processes",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.\nHint: Map funding, infrastructure, ethics, regulation and community need.",
+    "explanation": "examining why many manufacturers are adopting green chemistry processes\nHint: Use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Societal needs and values influence research focus.",
-      "hint": "Map funding, infrastructure, ethics, regulation and community need."
+      "summary": "examining why many manufacturers are adopting green chemistry processes",
+      "hint": "Use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, Use the central model to explain how society shapes research priorities in three linked sentences",
-    "audioPrompt": "During an independent review, Use the central model to explain how society shapes research priorities in three linked sentences",
+    "question": "Which statement gives a valid example of use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Scientists freely choose research without constraints",
       "Funded research is automatically biased or invalid",
-      "Separate influence on topic choice from evaluation of method and evidence",
-      "Societal needs and values influence research focus. Funding and infrastructure enable some questions and constrain others. Priority decisions have benefits, ethical dimensions and opportunity costs."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring how governments determine which scientific research projects should be funded"
     ],
     "correct": 3,
-    "explanation": "Societal needs and values influence research focus. Funding and infrastructure enable some questions and constrain others. Priority decisions have benefits, ethical dimensions and opportunity costs.\nHint: Map funding, infrastructure, ethics, regulation and community need.",
+    "explanation": "exploring how governments determine which scientific research projects should be funded\nHint: Use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Societal needs and values influence research focus. Funding and infrastructure enable some questions and constrain others. Priority decisions have benefits, ethical dimensions and opportunity costs.",
-      "hint": "Map funding, infrastructure, ethics, regulation and community need."
+      "summary": "exploring how governments determine which scientific research projects should be funded",
+      "hint": "Use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

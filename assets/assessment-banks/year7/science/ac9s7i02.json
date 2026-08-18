@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "write_reproducible_steps",
-    "question": "During a guided example, which statement correctly explains reproducibility?",
-    "audio_prompt": "During a guided example, which statement correctly explains reproducibility?",
+    "question": "Which statement correctly explains reproducibility in planning reproducible investigations?",
+    "audio_prompt": "Which statement correctly explains reproducibility in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "identify_variables",
-    "question": "During a comparison task, which statement correctly explains risk control?",
-    "audio_prompt": "During a comparison task, which statement correctly explains risk control?",
+    "question": "Which description is accurate for risk control in planning reproducible investigations?",
+    "audio_prompt": "Which description is accurate for risk control in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "plan_repeats",
-    "question": "During an error analysis, which statement correctly explains controlled variable?",
-    "audio_prompt": "During an error analysis, which statement correctly explains controlled variable?",
+    "question": "Which statement gives an example of controlled variable in planning reproducible investigations?",
+    "audio_prompt": "Which statement gives an example of controlled variable in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "control_a_hazard",
-    "question": "During a model interpretation, which response best demonstrates control a hazard in planning reproducible investigations?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates control a hazard in planning reproducible investigations?",
+    "question": "What is important when using reproducibility in planning reproducible investigations?",
+    "audio_prompt": "What is important when using reproducibility in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_a_pilot_test",
-    "question": "During an evidence check, which response best demonstrates use a pilot test in planning reproducible investigations?",
-    "audio_prompt": "During an evidence check, which response best demonstrates use a pilot test in planning reproducible investigations?",
+    "question": "Which statement correctly identifies risk control in planning reproducible investigations?",
+    "audio_prompt": "Which statement correctly identifies risk control in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "write_reproducible_steps",
-    "question": "During a transfer problem, which response best demonstrates write reproducible steps in planning reproducible investigations?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates write reproducible steps in planning reproducible investigations?",
+    "question": "Which choice best describes controlled variable in planning reproducible investigations?",
+    "audio_prompt": "Which choice best describes controlled variable in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "identify_variables",
-    "question": "During a peer explanation, which response best demonstrates identify variables in planning reproducible investigations?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates identify variables in planning reproducible investigations?",
+    "question": "What does correct use require for reproducibility in planning reproducible investigations?",
+    "audio_prompt": "What does correct use require for reproducibility in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "plan_repeats",
-    "question": "During an independent review, which response best demonstrates plan repeats in planning reproducible investigations?",
-    "audio_prompt": "During an independent review, which response best demonstrates plan repeats in planning reproducible investigations?",
+    "question": "Which statement is true about risk control in planning reproducible investigations?",
+    "audio_prompt": "Which statement is true about risk control in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "control_a_hazard",
-    "question": "During a fresh case study, which response best demonstrates control a hazard in planning reproducible investigations?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates control a hazard in planning reproducible investigations?",
+    "question": "Which response correctly applies control a hazard in planning reproducible investigations?",
+    "audio_prompt": "Which response correctly applies control a hazard in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_a_pilot_test",
-    "question": "During an unfamiliar representation, which response best demonstrates use a pilot test in planning reproducible investigations?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates use a pilot test in planning reproducible investigations?",
+    "question": "Which response shows correct use of use a pilot test in planning reproducible investigations?",
+    "audio_prompt": "Which response shows correct use of use a pilot test in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "write_reproducible_steps",
-    "question": "During a critical response, which response best demonstrates write reproducible steps in planning reproducible investigations?",
-    "audio_prompt": "During a critical response, which response best demonstrates write reproducible steps in planning reproducible investigations?",
+    "question": "Which interpretation is accurate for write reproducible steps in planning reproducible investigations?",
+    "audio_prompt": "Which interpretation is accurate for write reproducible steps in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "identify_variables",
-    "question": "During a worked solution audit, which response best demonstrates identify variables in planning reproducible investigations?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates identify variables in planning reproducible investigations?",
+    "question": "Which choice demonstrates identify variables in planning reproducible investigations?",
+    "audio_prompt": "Which choice demonstrates identify variables in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "plan_repeats",
-    "question": "During a source evaluation, which response best demonstrates plan repeats in planning reproducible investigations?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates plan repeats in planning reproducible investigations?",
+    "question": "What should be checked when applying plan repeats in planning reproducible investigations?",
+    "audio_prompt": "What should be checked when applying plan repeats in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "control_a_hazard",
-    "question": "During a multi-step application, which response best demonstrates control a hazard in planning reproducible investigations?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates control a hazard in planning reproducible investigations?",
+    "question": "Which response best uses control a hazard in planning reproducible investigations?",
+    "audio_prompt": "Which response best uses control a hazard in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_a_pilot_test",
-    "question": "During a justification task, which response best demonstrates use a pilot test in planning reproducible investigations?",
-    "audio_prompt": "During a justification task, which response best demonstrates use a pilot test in planning reproducible investigations?",
+    "question": "Which claim is accurate about use a pilot test in planning reproducible investigations?",
+    "audio_prompt": "Which claim is accurate about use a pilot test in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "write_reproducible_steps",
-    "question": "During a final synthesis, which response best demonstrates write reproducible steps in planning reproducible investigations?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates write reproducible steps in planning reproducible investigations?",
+    "question": "What is required to apply write reproducible steps in planning reproducible investigations?",
+    "audio_prompt": "What is required to apply write reproducible steps in planning reproducible investigations?",
     "visual": {
       "type": "none",
       "alt_text": ""

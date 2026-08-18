@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, Which version would you use with a teacher you do not know well? Why",
-    "audioPrompt": "During a guided example, Which version would you use with a teacher you do not know well? Why",
+    "question": "Which statement correctly describes a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audioPrompt": "Which statement correctly describes a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
-      "Student says formal is always correct",
+      "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
       "Formal language is always better",
-      "Replace better with better fit. Ask: Who is speaking, to whom, and for what purpose"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.\nHint: Ask what would sound strange in a close friend chat, then return to audience fit.",
+    "explanation": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating\nHint: A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "structuredExplanation": {
-      "summary": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
-      "hint": "Ask what would sound strange in a close friend chat, then return to audience fit."
+      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, How can an acronym or specialist term make people feel part of a group",
-    "audioPrompt": "During a comparison task, How can an acronym or specialist term make people feel part of a group",
+    "question": "Which statement correctly describes a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
+    "audioPrompt": "Which statement correctly describes a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Student treats acronyms as only shortened words",
-      "It shows shared knowledge and can build solidarity because insiders understand it quickly.",
       "Slang or acronyms are just lazy language",
-      "Show how specialist terms and acronyms can efficiently signal group expertise or shared identity"
+      "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "It shows shared knowledge and can build solidarity because insiders understand it quickly.\nHint: Compare an acronym known by the group with one outsiders would not understand.",
+    "explanation": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place\nHint: A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "structuredExplanation": {
-      "summary": "It shows shared knowledge and can build solidarity because insiders understand it quickly.",
-      "hint": "Compare an acronym known by the group with one outsiders would not understand."
+      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, What is one careful sentence we could write using a language name from an authoritative map",
-    "audioPrompt": "During an error analysis, What is one careful sentence we could write using a language name from an authoritative map",
+    "question": "Which statement gives a valid example of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audioPrompt": "Which statement gives a valid example of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Student says the map proves a simple ownership boundary",
       "A map label tells the whole story of Country/Place",
-      "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.",
-      "Use cautious source language and explain that cultural knowledge needs respectful, authoritative context"
+      "The method can be chosen without checking the values or conditions",
+      "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.\nHint: Restate that language maps are references and cultural relationships need careful source context.",
+    "explanation": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating\nHint: A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "structuredExplanation": {
-      "summary": "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.",
-      "hint": "Restate that language maps are references and cultural relationships need careful source context."
+      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, Explain the effect of 'our chat' in Version A",
-    "audioPrompt": "During a model interpretation, Explain the effect of 'our chat' in Version A",
+    "question": "Which statement gives a valid example of a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
+    "audioPrompt": "Which statement gives a valid example of a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Student says it is informal but gives no effect",
       "Formal language is always better",
-      "Replace better with better fit. Ask: Who is speaking, to whom, and for what purpose",
-      "'Our chat' suggests the speaker and listener share a group space, creating closeness and solidarity."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place"
     ],
     "correct": 3,
-    "explanation": "'Our chat' suggests the speaker and listener share a group space, creating closeness and solidarity.\nHint: Use the stem: This phrase suggests the omitted idea because the omitted idea",
+    "explanation": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place\nHint: A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "structuredExplanation": {
-      "summary": "'Our chat' suggests the speaker and listener share a group space, creating closeness and solidarity.",
-      "hint": "Use the stem: This phrase suggests the omitted idea because the omitted idea"
+      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, Choose one language choice from a short text and explain how it shapes a relationship, role or group identity",
-    "audioPrompt": "During an evidence check, Choose one language choice from a short text and explain how it shapes a relationship, role or group identity",
+    "question": "What should you check when using a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audioPrompt": "What should you check when using a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A complete answer quotes or names the language choice, identifies the relationship/role/group identity, and explains the effect on the audience.",
-      "Student describes the topic of the text rather than the social effect of language",
+      "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
       "Slang or acronyms are just lazy language",
-      "Show how specialist terms and acronyms can efficiently signal group expertise or shared identity"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A complete answer quotes or names the language choice, identifies the relationship/role/group identity, and explains the effect on the audience.\nHint: Ask for the exact word choice first, then ask who it includes, distances, respects or positions.",
+    "explanation": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating\nHint: A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "structuredExplanation": {
-      "summary": "A complete answer quotes or names the language choice, identifies the relationship/role/group identity, and explains the effect on the audience.",
-      "hint": "Ask for the exact word choice first, then ask who it includes, distances, respects or positions."
+      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, Which version would you use with a teacher you do not know well? Why",
-    "audioPrompt": "During a transfer problem, Which version would you use with a teacher you do not know well? Why",
+    "question": "What should you check when using a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
+    "audioPrompt": "What should you check when using a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Student says formal is always correct",
-      "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
       "A map label tells the whole story of Country/Place",
-      "Use cautious source language and explain that cultural knowledge needs respectful, authoritative context"
+      "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.\nHint: Ask what would sound strange in a close friend chat, then return to audience fit.",
+    "explanation": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place\nHint: A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "structuredExplanation": {
-      "summary": "The polite request with 'Could you pleasethe omitted idea' because it shows respect and social distance.",
-      "hint": "Ask what would sound strange in a close friend chat, then return to audience fit."
+      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, How can an acronym or specialist term make people feel part of a group",
-    "audioPrompt": "During a peer explanation, How can an acronym or specialist term make people feel part of a group",
+    "question": "Which statement best explains a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audioPrompt": "Which statement best explains a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Student treats acronyms as only shortened words",
       "Formal language is always better",
-      "It shows shared knowledge and can build solidarity because insiders understand it quickly.",
-      "Replace better with better fit. Ask: Who is speaking, to whom, and for what purpose"
+      "The method can be chosen without checking the values or conditions",
+      "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "It shows shared knowledge and can build solidarity because insiders understand it quickly.\nHint: Compare an acronym known by the group with one outsiders would not understand.",
+    "explanation": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating\nHint: A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
     "structuredExplanation": {
-      "summary": "It shows shared knowledge and can build solidarity because insiders understand it quickly.",
-      "hint": "Compare an acronym known by the group with one outsiders would not understand."
+      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, What is one careful sentence we could write using a language name from an authoritative map",
-    "audioPrompt": "During an independent review, What is one careful sentence we could write using a language name from an authoritative map",
+    "question": "Which statement best explains a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
+    "audioPrompt": "Which statement best explains a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Student says the map proves a simple ownership boundary",
       "Slang or acronyms are just lazy language",
-      "Show how specialist terms and acronyms can efficiently signal group expertise or shared identity",
-      "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place"
     ],
     "correct": 3,
-    "explanation": "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.\nHint: Restate that language maps are references and cultural relationships need careful source context.",
+    "explanation": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place\nHint: A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully.",
     "structuredExplanation": {
-      "summary": "According to the source, this language name is connected with this Country/Place; we should not treat the map as the whole story.",
-      "hint": "Restate that language maps are references and cultural relationships need careful source context."
+      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     },
     "qualitySchema": "production-v1"
   }

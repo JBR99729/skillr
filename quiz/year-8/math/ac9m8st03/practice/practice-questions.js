@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For watch random samples vary, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a guided example, For watch random samples vary, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population?",
+    "audioPrompt": "Which statement correctly describes compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population\nHint: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
+      "hint": "Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use digital tools to simulate repeated sampling of the same population such as heights or arm spans of students recording and comparing means median",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For compare sample proportions, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a comparison task, For compare sample proportions, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median?",
+    "audioPrompt": "Which statement correctly describes use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The sampling variation and sample size model is copied without interpretation",
+      "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Heights or arm spans of students, recording and comparing means, median and range of data between samples.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples\nHint: Use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Heights or arm spans of students, recording and comparing means, median and range of data between samples.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples",
+      "hint": "Use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use relative frequencies from historical data to predict proportions",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For see the effect of sample size, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an error analysis, For see the effect of sample size, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes use relative frequencies from historical data to predict proportions?",
+    "audioPrompt": "Which statement correctly describes use relative frequencies from historical data to predict proportions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use relative frequencies from historical data to predict proportions but does not justify the relationship",
-      "Use the model evidence: Weather forecasting or the countries of origin of visitors to tourist attractions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using relative frequencies from historical data to predict proportions and the likely number of outcomes in situations such as weather forecasting or the countries of origin of visitors to tourist attractions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Weather forecasting or the countries of origin of visitors to tourist attractions. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Weather forecasting or the countries of origin of visitors to tourist attractions.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using relative frequencies from historical data to predict proportions and the likely number of outcomes in situations such as weather forecasting or the countries of origin of visitors to tourist attractions\nHint: Use relative frequencies from historical data to predict proportions.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Weather forecasting or the countries of origin of visitors to tourist attractions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Weather forecasting or the countries of origin of visitors to tourist attractions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using relative frequencies from historical data to predict proportions and the likely number of outcomes in situations such as weather forecasting or the countries of origin of visitors to tourist attractions",
+      "hint": "Use relative frequencies from historical data to predict proportions."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore the effect that adding or removing data from a data set has on measures of central tendency and spread",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For simulate repeated samples, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a model interpretation, For simulate repeated samples, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore the effect that adding or removing data from a data set has on measures of central tendency and spread?",
+    "audioPrompt": "Which statement correctly describes explore the effect that adding or removing data from a data set has on measures of central tendency and spread?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore the effect that adding or removing data from a data set has on measures of central tendency and spread but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating the effect that adding or removing data from a data set has on measures of central tendency and spread"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the effect that adding or removing data from a data set has on measures of central tendency and spread.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the effect that adding or removing data from a data set has on measures of central tendency and spread\nHint: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the effect that adding or removing data from a data set has on measures of central tendency and spread.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the effect that adding or removing data from a data set has on measures of central tendency and spread",
+      "hint": "Explore the effect that adding or removing data from a data set has on measures of central tendency and spread."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore first nations ranger groups and other groups use of sampling techniques to track biodiversity of species",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For separate population and sample values, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an evidence check, For separate population and sample values, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore first nations ranger groups and other groups’ use of sampling techniques to track biodiversity of species?",
+    "audioPrompt": "Which statement correctly describes explore first nations ranger groups and other groups’ use of sampling techniques to track biodiversity of species?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore first nations ranger groups and other groups’ use of sampling techniques to track biodiversity of species but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species",
+      "The sampling variation and sample size model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species\nHint: Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species",
+      "hint": "Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how the comparison of variations in distributions and proportions from the same population applies to data driven decision making and how this relates to training of artificial intelligence systems",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For explain uncertainty without guessing, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a transfer problem, For explain uncertainty without guessing, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems?",
+    "audioPrompt": "Which statement correctly describes explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "exploring how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems\nHint: Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems",
+      "hint": "Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For watch random samples vary, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a peer explanation, For watch random samples vary, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population?",
+    "audioPrompt": "Which statement gives a valid example of compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population but does not justify the relationship",
-      "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population\nHint: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
+      "hint": "Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use digital tools to simulate repeated sampling of the same population such as heights or arm spans of students recording and comparing means median",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For compare sample proportions, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an independent review, For compare sample proportions, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median?",
+    "audioPrompt": "Which statement gives a valid example of use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The sampling variation and sample size model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Heights or arm spans of students, recording and comparing means, median and range of data between samples.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples\nHint: Use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Heights or arm spans of students, recording and comparing means, median and range of data between samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Heights or arm spans of students, recording and comparing means, median and range of data between samples.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples",
+      "hint": "Use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median."
     },
     "qualitySchema": "production-v1"
   }

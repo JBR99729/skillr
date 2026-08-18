@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how heritable variation helps make sense of processes involved in natural selection",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how heritable variation helps make sense of processes involved in natural selection",
+    "question": "Which statement correctly describes use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Populations contain heritable variation.",
+      "outlining processes involved in natural selection including variation, isolation and selection",
       "Individuals evolve because they need to",
-      "Track changes in trait frequency across a reproducing population",
-      "A response that mentions use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Populations contain heritable variation.\nHint: Track changes in trait frequency across a reproducing population.",
+    "explanation": "outlining processes involved in natural selection including variation, isolation and selection\nHint: Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Populations contain heritable variation.",
-      "hint": "Track changes in trait frequency across a reproducing population."
+      "summary": "outlining processes involved in natural selection including variation, isolation and selection",
+      "hint": "Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how selection pressure helps make sense of biodiversity as a function of evolution",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how selection pressure helps make sense of biodiversity as a function of evolution",
+    "question": "Which statement correctly describes use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Natural selection is random",
-      "The response should use the displayed example and connect it to this idea: Selection pressures affect survival and reproductive success.",
-      "Separate random sources of variation from non-random survival and reproduction under a selection pressure",
-      "A response that mentions use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "examining biodiversity as a function of evolution",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Selection pressures affect survival and reproductive success.\nHint: Separate random sources of variation from non-random survival and reproduction under a selection pressure.",
+    "explanation": "examining biodiversity as a function of evolution\nHint: Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Selection pressures affect survival and reproductive success.",
-      "hint": "Separate random sources of variation from non-random survival and reproduction under a selection pressure."
+      "summary": "examining biodiversity as a function of evolution",
+      "hint": "Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how survival and reproduction helps make sense of evidence for the theory of evolution by natural selection",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how survival and reproduction helps make sense of evidence for the theory of evolution by natural selection",
+    "question": "Which statement correctly describes use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Individuals evolve because they need to",
-      "Track changes in trait frequency across a reproducing population",
-      "The response should use the displayed example and connect it to this idea: Fossils, anatomy, biogeography and molecular evidence support evolutionary theory.",
-      "A response that mentions use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Fossils, anatomy, biogeography and molecular evidence support evolutionary theory.\nHint: Track changes in trait frequency across a reproducing population.",
+    "explanation": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species\nHint: Use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Fossils, anatomy, biogeography and molecular evidence support evolutionary theory.",
-      "hint": "Track changes in trait frequency across a reproducing population."
+      "summary": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
+      "hint": "Use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how population change helps make sense of changes caused by natural selection in a particular population",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how population change helps make sense of changes caused by natural selection in a particular population",
+    "question": "Which statement correctly describes use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Natural selection is random",
-      "Separate random sources of variation from non-random survival and reproduction under a selection pressure",
-      "A response that mentions use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Populations contain heritable variation."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Populations contain heritable variation.\nHint: Separate random sources of variation from non-random survival and reproduction under a selection pressure.",
+    "explanation": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics\nHint: Use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Populations contain heritable variation.",
-      "hint": "Separate random sources of variation from non-random survival and reproduction under a selection pressure."
+      "summary": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
+      "hint": "Use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how multiple evidence lines helps make sense of genetic characteristics to survival and reproductive rates",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how multiple evidence lines helps make sense of genetic characteristics to survival and reproductive rates",
+    "question": "Which statement correctly describes use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Selection pressures affect survival and reproductive success.",
+      "relating genetic characteristics to survival and reproductive rates",
       "Individuals evolve because they need to",
-      "Track changes in trait frequency across a reproducing population",
-      "A response that mentions use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Selection pressures affect survival and reproductive success.\nHint: Track changes in trait frequency across a reproducing population.",
+    "explanation": "relating genetic characteristics to survival and reproductive rates\nHint: Use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Selection pressures affect survival and reproductive success.",
-      "hint": "Track changes in trait frequency across a reproducing population."
+      "summary": "relating genetic characteristics to survival and reproductive rates",
+      "hint": "Use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how heritable variation helps make sense of some of the structural and physiological adaptations of first",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how heritable variation helps make sense of some of the structural and physiological adaptations of first",
+    "question": "Which statement correctly describes use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Natural selection is random",
-      "The response should use the displayed example and connect it to this idea: Fossils, anatomy, biogeography and molecular evidence support evolutionary theory.",
-      "Separate random sources of variation from non-random survival and reproduction under a selection pressure",
-      "A response that mentions use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Fossils, anatomy, biogeography and molecular evidence support evolutionary theory.\nHint: Separate random sources of variation from non-random survival and reproduction under a selection pressure.",
+    "explanation": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment\nHint: Use some of the structural and physiological adaptations of First to make the role of heritable variation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Fossils, anatomy, biogeography and molecular evidence support evolutionary theory.",
-      "hint": "Separate random sources of variation from non-random survival and reproduction under a selection pressure."
+      "summary": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
+      "hint": "Use some of the structural and physiological adaptations of First to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, Use the central model to explain natural selection explains diversity in three linked sentences",
-    "audioPrompt": "During a peer explanation, Use the central model to explain natural selection explains diversity in three linked sentences",
+    "question": "Which statement gives a valid example of use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Individuals evolve because they need to",
-      "Track changes in trait frequency across a reproducing population",
-      "Populations contain heritable variation. Selection pressures affect survival and reproductive success. Fossils, anatomy, biogeography and molecular evidence support evolutionary theory.",
-      "A response that mentions use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "outlining processes involved in natural selection including variation, isolation and selection",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Populations contain heritable variation. Selection pressures affect survival and reproductive success. Fossils, anatomy, biogeography and molecular evidence support evolutionary theory.\nHint: Track changes in trait frequency across a reproducing population.",
+    "explanation": "outlining processes involved in natural selection including variation, isolation and selection\nHint: Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Populations contain heritable variation. Selection pressures affect survival and reproductive success. Fossils, anatomy, biogeography and molecular evidence support evolutionary theory.",
-      "hint": "Track changes in trait frequency across a reproducing population."
+      "summary": "outlining processes involved in natural selection including variation, isolation and selection",
+      "hint": "Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, In 20 seconds, explain how heritable variation helps make sense of processes involved in natural selection",
-    "audioPrompt": "During an independent review, In 20 seconds, explain how heritable variation helps make sense of processes involved in natural selection",
+    "question": "Which statement gives a valid example of use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Individuals evolve because they need to",
       "Natural selection is random",
-      "Separate random sources of variation from non-random survival and reproduction under a selection pressure",
-      "The response should use the displayed example and connect it to this idea: Populations contain heritable variation."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "examining biodiversity as a function of evolution"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Populations contain heritable variation.\nHint: Track changes in trait frequency across a reproducing population.",
+    "explanation": "examining biodiversity as a function of evolution\nHint: Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Populations contain heritable variation.",
-      "hint": "Track changes in trait frequency across a reproducing population."
+      "summary": "examining biodiversity as a function of evolution",
+      "hint": "Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

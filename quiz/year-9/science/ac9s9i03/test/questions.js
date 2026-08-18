@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, In 20 seconds, explain how range and resolution helps make sense of data loggers and choosing correct scale and appropriate output Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, In 20 seconds, explain how range and resolution helps make sense of data loggers and choosing correct scale and appropriate output Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
-      "Calibration and zeroing are the same for every instrument",
+      "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation",
       "A large data file means a large sample",
-      "Count independent experimental units or trials, not sensor rows"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.\nHint: Use the manufacturer or laboratory procedure appropriate to the instrument.",
+    "explanation": "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation\nHint: Use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
-      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+      "summary": "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation",
+      "hint": "Use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use the replicability of data collected using different instruments to make the role of sample size visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how consistent technique helps make sense of the degree of accuracy that different instruments provide Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, In 20 seconds, explain how consistent technique helps make sense of the degree of accuracy that different instruments provide Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A large data file means a large sample",
-      "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
       "Calibration and zeroing are the same for every instrument",
-      "Use the manufacturer or laboratory procedure appropriate to the instrument"
+      "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.\nHint: Count independent experimental units or trials, not sensor rows.",
+    "explanation": "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements\nHint: Use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
-      "hint": "Count independent experimental units or trials, not sensor rows."
+      "summary": "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements",
+      "hint": "Use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, In 20 seconds, explain how sample size helps make sense of the replicability of data collected using different instruments Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, In 20 seconds, explain how sample size helps make sense of the replicability of data collected using different instruments Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Calibration and zeroing are the same for every instrument",
       "A large data file means a large sample",
-      "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
-      "Count independent experimental units or trials, not sensor rows"
+      "The method can be chosen without checking the values or conditions",
+      "discussing the amount of data needed to produce a useful sample size and why sample size is important",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.\nHint: Use the manufacturer or laboratory procedure appropriate to the instrument.",
+    "explanation": "discussing the amount of data needed to produce a useful sample size and why sample size is important\nHint: Use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
-      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+      "summary": "discussing the amount of data needed to produce a useful sample size and why sample size is important",
+      "hint": "Use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use an appropriate sample size for the investigation and how to make the role of calibration visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, In 20 seconds, explain how replicable record helps make sense of the amount of data needed to produce a useful Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, In 20 seconds, explain how replicable record helps make sense of the amount of data needed to produce a useful Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use an appropriate sample size for the investigation, and how to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use an appropriate sample size for the investigation, and how to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A large data file means a large sample",
       "Calibration and zeroing are the same for every instrument",
-      "Use the manufacturer or laboratory procedure appropriate to the instrument",
-      "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "considering an appropriate sample size for the investigation, and how the use of digital tools might enable more-efficient data collection for larger sample sizes"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.\nHint: Count independent experimental units or trials, not sensor rows.",
+    "explanation": "considering an appropriate sample size for the investigation, and how the use of digital tools might enable more-efficient data collection for larger sample sizes\nHint: Use an appropriate sample size for the investigation, and how to make the role of calibration visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
-      "hint": "Count independent experimental units or trials, not sensor rows."
+      "summary": "considering an appropriate sample size for the investigation, and how the use of digital tools might enable more-efficient data collection for larger sample sizes",
+      "hint": "Use an appropriate sample size for the investigation, and how to make the role of calibration visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, In 20 seconds, explain how calibration helps make sense of an appropriate sample size for the investigation, and how Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, In 20 seconds, explain how calibration helps make sense of an appropriate sample size for the investigation, and how Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
-      "Calibration and zeroing are the same for every instrument",
+      "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units",
       "A large data file means a large sample",
-      "Count independent experimental units or trials, not sensor rows"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.\nHint: Use the manufacturer or laboratory procedure appropriate to the instrument.",
+    "explanation": "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units\nHint: Use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
-      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+      "summary": "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units",
+      "hint": "Use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, Use the central model to explain collect precise, replicable data in three linked sentences Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, Use the central model to explain collect precise, replicable data in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A large data file means a large sample",
-      "Calibration and instrument limits affect measurement quality. Consistent procedures improve replicability. Useful sample size depends on variation and independent evidence.",
       "Calibration and zeroing are the same for every instrument",
-      "Use the manufacturer or laboratory procedure appropriate to the instrument"
+      "using data loggers and choosing correct scale and appropriate output representation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Calibration and instrument limits affect measurement quality. Consistent procedures improve replicability. Useful sample size depends on variation and independent evidence.\nHint: Count independent experimental units or trials, not sensor rows.",
+    "explanation": "using data loggers and choosing correct scale and appropriate output representation\nHint: Use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Calibration and instrument limits affect measurement quality. Consistent procedures improve replicability. Useful sample size depends on variation and independent evidence.",
-      "hint": "Count independent experimental units or trials, not sensor rows."
+      "summary": "using data loggers and choosing correct scale and appropriate output representation",
+      "hint": "Use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, In 20 seconds, explain how calibration helps make sense of an electronic balance that measures within the parameters Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, In 20 seconds, explain how calibration helps make sense of an electronic balance that measures within the parameters Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A large data file means a large sample",
-      "Count independent experimental units or trials, not sensor rows",
-      "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
-      "A response that mentions use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.\nHint: Count independent experimental units or trials, not sensor rows.",
+    "explanation": "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation\nHint: Use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
-      "hint": "Count independent experimental units or trials, not sensor rows."
+      "summary": "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation",
+      "hint": "Use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use the replicability of data collected using different instruments to make the role of sample size visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, In 20 seconds, explain how range and resolution helps make sense of data loggers and choosing correct scale and appropriate output Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, In 20 seconds, explain how range and resolution helps make sense of data loggers and choosing correct scale and appropriate output Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Calibration and zeroing are the same for every instrument",
-      "Use the manufacturer or laboratory procedure appropriate to the instrument",
-      "A response that mentions use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.\nHint: Use the manufacturer or laboratory procedure appropriate to the instrument.",
+    "explanation": "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements\nHint: Use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
-      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+      "summary": "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements",
+      "hint": "Use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

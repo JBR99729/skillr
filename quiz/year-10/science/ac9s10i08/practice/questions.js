@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how purpose helps make sense of purpose and audience guide content and form",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how purpose helps make sense of purpose and audience guide content and form",
+    "question": "Which statement correctly describes use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.",
+      "Purpose and audience guide content and form.",
       "Audience adaptation permits changing the conclusion",
-      "Change explanation depth and form, not the supported meaning",
-      "A response that mentions use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.\nHint: Change explanation depth and form, not the supported meaning.",
+    "explanation": "Purpose and audience guide content and form.\nHint: Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.",
-      "hint": "Change explanation depth and form, not the supported meaning."
+      "summary": "Purpose and audience guide content and form.",
+      "hint": "Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how audience helps make sense of scientific representations and conventions remain accurate",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how audience helps make sense of scientific representations and conventions remain accurate",
+    "question": "Which statement correctly describes use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "More technical vocabulary is more scientific",
-      "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.",
-      "Prefer precise language the audience can interpret",
-      "A response that mentions use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "Scientific representations and conventions remain accurate.",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.\nHint: Prefer precise language the audience can interpret.",
+    "explanation": "Scientific representations and conventions remain accurate.\nHint: Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.",
-      "hint": "Prefer precise language the audience can interpret."
+      "summary": "Scientific representations and conventions remain accurate.",
+      "hint": "Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how evidence selection helps make sense of editing checks evidence, uncertainty, accessibility and ethical attribution",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how evidence selection helps make sense of editing checks evidence, uncertainty, accessibility and ethical attribution",
+    "question": "Which statement correctly describes use editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Audience adaptation permits changing the conclusion",
-      "Change explanation depth and form, not the supported meaning",
-      "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "A response that mentions use editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "Editing checks evidence, uncertainty, accessibility and ethical attribution.",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Change explanation depth and form, not the supported meaning.",
+    "explanation": "Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Use Editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "hint": "Change explanation depth and form, not the supported meaning."
+      "summary": "Editing checks evidence, uncertainty, accessibility and ethical attribution.",
+      "hint": "Use Editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, Use the central model to explain create effective scientific texts in three linked sentences",
-    "audioPrompt": "During a model interpretation, Use the central model to explain create effective scientific texts in three linked sentences",
+    "question": "Which statement gives a valid example of use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Audience adaptation permits changing the conclusion",
       "More technical vocabulary is more scientific",
-      "Prefer precise language the audience can interpret",
-      "Purpose and audience guide content and form. Scientific representations and conventions remain accurate. Editing checks evidence, uncertainty, accessibility and ethical attribution."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "Purpose and audience guide content and form."
     ],
     "correct": 3,
-    "explanation": "Purpose and audience guide content and form. Scientific representations and conventions remain accurate. Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Change explanation depth and form, not the supported meaning.",
+    "explanation": "Purpose and audience guide content and form.\nHint: Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Purpose and audience guide content and form. Scientific representations and conventions remain accurate. Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "hint": "Change explanation depth and form, not the supported meaning."
+      "summary": "Purpose and audience guide content and form.",
+      "hint": "Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how purpose helps make sense of purpose and audience guide content and form",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how purpose helps make sense of purpose and audience guide content and form",
+    "question": "Which statement gives a valid example of use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.",
+      "Scientific representations and conventions remain accurate.",
       "Audience adaptation permits changing the conclusion",
-      "Change explanation depth and form, not the supported meaning",
-      "A response that mentions use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.\nHint: Change explanation depth and form, not the supported meaning.",
+    "explanation": "Scientific representations and conventions remain accurate.\nHint: Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Purpose and audience guide content and form.",
-      "hint": "Change explanation depth and form, not the supported meaning."
+      "summary": "Scientific representations and conventions remain accurate.",
+      "hint": "Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how audience helps make sense of scientific representations and conventions remain accurate",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how audience helps make sense of scientific representations and conventions remain accurate",
+    "question": "Which statement gives a valid example of use editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "More technical vocabulary is more scientific",
-      "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.",
-      "Prefer precise language the audience can interpret",
-      "A response that mentions use editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "Editing checks evidence, uncertainty, accessibility and ethical attribution.",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.\nHint: Prefer precise language the audience can interpret.",
+    "explanation": "Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Use Editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Scientific representations and conventions remain accurate.",
-      "hint": "Prefer precise language the audience can interpret."
+      "summary": "Editing checks evidence, uncertainty, accessibility and ethical attribution.",
+      "hint": "Use Editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how evidence selection helps make sense of editing checks evidence, uncertainty, accessibility and ethical attribution",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how evidence selection helps make sense of editing checks evidence, uncertainty, accessibility and ethical attribution",
+    "question": "What should you check when using use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "What should you check when using use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Audience adaptation permits changing the conclusion",
-      "Change explanation depth and form, not the supported meaning",
-      "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "A response that mentions use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "Purpose and audience guide content and form.",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Change explanation depth and form, not the supported meaning.",
+    "explanation": "Purpose and audience guide content and form.\nHint: Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "hint": "Change explanation depth and form, not the supported meaning."
+      "summary": "Purpose and audience guide content and form.",
+      "hint": "Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, Use the central model to explain create effective scientific texts in three linked sentences",
-    "audioPrompt": "During an independent review, Use the central model to explain create effective scientific texts in three linked sentences",
+    "question": "What should you check when using use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "What should you check when using use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Audience adaptation permits changing the conclusion",
       "More technical vocabulary is more scientific",
-      "Prefer precise language the audience can interpret",
-      "Purpose and audience guide content and form. Scientific representations and conventions remain accurate. Editing checks evidence, uncertainty, accessibility and ethical attribution."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "Scientific representations and conventions remain accurate."
     ],
     "correct": 3,
-    "explanation": "Purpose and audience guide content and form. Scientific representations and conventions remain accurate. Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Change explanation depth and form, not the supported meaning.",
+    "explanation": "Scientific representations and conventions remain accurate.\nHint: Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Purpose and audience guide content and form. Scientific representations and conventions remain accurate. Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "hint": "Change explanation depth and form, not the supported meaning."
+      "summary": "Scientific representations and conventions remain accurate.",
+      "hint": "Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

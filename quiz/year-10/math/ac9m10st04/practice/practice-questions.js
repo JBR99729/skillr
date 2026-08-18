@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use two way tables to investigate and comparing the survey responses to questions involving five point likert scale against 2 different categories of respondents",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For compare groups with a two-way table, which pattern in the table supports the conclusion",
-    "audioPrompt": "During a guided example, For compare groups with a two-way table, which pattern in the table supports the conclusion",
+    "question": "Which statement correctly describes use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents?",
+    "audioPrompt": "Which statement correctly describes use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question\nHint: Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
+      "hint": "Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "record data in two way tables and using percentages and proportions to identify patterns and associations in the data",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For use row and column percentages, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a comparison task, For use row and column percentages, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes record data in two-way tables and using percentages and proportions to identify patterns and associations in the data?",
+    "audioPrompt": "Which statement correctly describes record data in two-way tables and using percentages and proportions to identify patterns and associations in the data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions record data in two-way tables and using percentages and proportions to identify patterns and associations in the data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The categorical relationships model is copied without interpretation",
+      "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data\nHint: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
+      "hint": "Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the labelled model to investigate investigate two categorical variables",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For investigate two categorical variables, what changes, what stays invariant, and why",
-    "audioPrompt": "During an error analysis, For investigate two categorical variables, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes use the labelled model to investigate investigate two categorical variables?",
+    "audioPrompt": "Which statement correctly describes use the labelled model to investigate investigate two categorical variables?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use the labelled model to investigate investigate two categorical variables but does not justify the relationship",
-      "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold\nHint: Use the labelled model to investigate investigate two categorical variables.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold",
+      "hint": "Use the labelled model to investigate investigate two categorical variables."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use two way tables to investigate and comparing the survey responses to questions involving five point likert scale against 2 different categories of respondents",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For compare groups with a two-way table, which pattern in the table supports the conclusion",
-    "audioPrompt": "During a model interpretation, For compare groups with a two-way table, which pattern in the table supports the conclusion",
+    "question": "Which statement gives a valid example of use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents?",
+    "audioPrompt": "Which statement gives a valid example of use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question\nHint: Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
+      "hint": "Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "record data in two way tables and using percentages and proportions to identify patterns and associations in the data",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For use row and column percentages, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an evidence check, For use row and column percentages, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of record data in two-way tables and using percentages and proportions to identify patterns and associations in the data?",
+    "audioPrompt": "Which statement gives a valid example of record data in two-way tables and using percentages and proportions to identify patterns and associations in the data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions record data in two-way tables and using percentages and proportions to identify patterns and associations in the data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
+      "The categorical relationships model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data\nHint: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
+      "hint": "Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the labelled model to investigate investigate two categorical variables",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For investigate two categorical variables, what changes, what stays invariant, and why",
-    "audioPrompt": "During a transfer problem, For investigate two categorical variables, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of use the labelled model to investigate investigate two categorical variables?",
+    "audioPrompt": "Which statement gives a valid example of use the labelled model to investigate investigate two categorical variables?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use the labelled model to investigate investigate two categorical variables but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold\nHint: Use the labelled model to investigate investigate two categorical variables.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold",
+      "hint": "Use the labelled model to investigate investigate two categorical variables."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use two way tables to investigate and comparing the survey responses to questions involving five point likert scale against 2 different categories of respondents",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For compare groups with a two-way table, which pattern in the table supports the conclusion",
-    "audioPrompt": "During a peer explanation, For compare groups with a two-way table, which pattern in the table supports the conclusion",
+    "question": "What should you check when using use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents?",
+    "audioPrompt": "What should you check when using use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents but does not justify the relationship",
-      "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question\nHint: Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Junior compared to senior students’ responses to a survey question. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Junior compared to senior students’ responses to a survey question.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
+      "hint": "Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "record data in two way tables and using percentages and proportions to identify patterns and associations in the data",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For use row and column percentages, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an independent review, For use row and column percentages, which quantities must scale or compare by the same factor",
+    "question": "What should you check when using record data in two-way tables and using percentages and proportions to identify patterns and associations in the data?",
+    "audioPrompt": "What should you check when using record data in two-way tables and using percentages and proportions to identify patterns and associations in the data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions record data in two-way tables and using percentages and proportions to identify patterns and associations in the data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The categorical relationships model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data\nHint: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
+      "hint": "Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data."
     },
     "qualitySchema": "production-v1"
   }

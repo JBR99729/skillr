@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For describe distribution shape, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For describe distribution shape, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”?",
+    "audioPrompt": "Which response correctly uses describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: “positive skew”, “negative skew” and “symmetric” and “bi-modal”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal” but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: “positive skew”, “negative skew” and “symmetric” and “bi-modal”. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘“positive skew”, “negative skew” and “symmetric” and “bi-modal”.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”\nHint: Describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: “positive skew”, “negative skew” and “symmetric” and “bi-modal”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘“positive skew”, “negative skew” and “symmetric” and “bi-modal”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”",
+      "hint": "Describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For build a back-to-back stem-and-leaf plot, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For build a back-to-back stem-and-leaf plot, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class?",
+    "audioPrompt": "Which response correctly uses use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: The heights of girls and the heights of boys in a class. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: The heights of girls and the heights of boys in a class. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The heights of girls and the heights of boys in a class.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class\nHint: Use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The heights of girls and the heights of boys in a class. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The heights of girls and the heights of boys in a class.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
+      "hint": "Use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For test a claim with grouped histograms, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For test a claim with grouped histograms, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims?",
+    "audioPrompt": "Which response correctly uses construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims but does not justify the relationship",
-      "Use the model evidence: Lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The comparing data distributions model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims\nHint: Construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims",
+      "hint": "Construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For interpret comparative closing the gap data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For interpret comparative closing the gap data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore comparative data presented in reports by national indigenous australians agency in regard to “closing the gap”, discussing the comparative distributions within the context of the data?",
+    "audioPrompt": "Which response correctly uses explore comparative data presented in reports by national indigenous australians agency in regard to “closing the gap”, discussing the comparative distributions within the context of the data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore comparative data presented in reports by national indigenous australians agency in regard to “closing the gap”, discussing the comparative distributions within the context of the data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Comparative data presented in the “Closing the Gap - Prime Minister’s Report”. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Comparative data presented in the “Closing the Gap - Prime Minister’s Report”. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Comparative data presented in the “Closing the Gap - Prime Minister’s Report”.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”\nHint: Explore comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Comparative data presented in the “Closing the Gap - Prime Minister’s Report”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Comparative data presented in the “Closing the Gap - Prime Minister’s Report”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”",
+      "hint": "Explore comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For describe distribution shape, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For describe distribution shape, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”?",
+    "audioPrompt": "Which interpretation is accurate for describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: “positive skew”, “negative skew” and “symmetric” and “bi-modal”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal” but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: “positive skew”, “negative skew” and “symmetric” and “bi-modal”. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘“positive skew”, “negative skew” and “symmetric” and “bi-modal”.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”\nHint: Describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: “positive skew”, “negative skew” and “symmetric” and “bi-modal”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘“positive skew”, “negative skew” and “symmetric” and “bi-modal”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”",
+      "hint": "Describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For build a back-to-back stem-and-leaf plot, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For build a back-to-back stem-and-leaf plot, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class?",
+    "audioPrompt": "Which interpretation is accurate for use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: The heights of girls and the heights of boys in a class. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The comparing data distributions model is copied without interpretation",
+      "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: The heights of girls and the heights of boys in a class. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The heights of girls and the heights of boys in a class.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class\nHint: Use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The heights of girls and the heights of boys in a class. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The heights of girls and the heights of boys in a class.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
+      "hint": "Use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For test a claim with grouped histograms, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For test a claim with grouped histograms, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims?",
+    "audioPrompt": "Which interpretation is accurate for construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims but does not justify the relationship",
-      "Use the model evidence: Lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims\nHint: Construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims",
+      "hint": "Construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For interpret comparative closing the gap data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For interpret comparative closing the gap data, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for explore comparative data presented in reports by national indigenous australians agency in regard to “closing the gap”, discussing the comparative distributions within the context of the data?",
+    "audioPrompt": "Which interpretation is accurate for explore comparative data presented in reports by national indigenous australians agency in regard to “closing the gap”, discussing the comparative distributions within the context of the data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore comparative data presented in reports by national indigenous australians agency in regard to “closing the gap”, discussing the comparative distributions within the context of the data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Comparative data presented in the “Closing the Gap - Prime Minister’s Report”. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Comparative data presented in the “Closing the Gap - Prime Minister’s Report”. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Comparative data presented in the “Closing the Gap - Prime Minister’s Report”.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”\nHint: Explore comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Comparative data presented in the “Closing the Gap - Prime Minister’s Report”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Comparative data presented in the “Closing the Gap - Prime Minister’s Report”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”",
+      "hint": "Explore comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data."
     },
     "qualitySchema": "production-v1"
   }

@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify potentially misleading data representations in the media such as graphs with broken axes",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For expose a misleading graph, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During a guided example, For expose a misleading graph, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes identify potentially misleading data representations in the media such as graphs with broken axes?",
+    "audioPrompt": "Which statement correctly describes identify potentially misleading data representations in the media such as graphs with broken axes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Graphs with broken axes and scales that do not start at zero or are nonlinear. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions identify potentially misleading data representations in the media such as graphs with broken axes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Graphs with broken axes and scales that do not start at zero or are nonlinear. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Graphs with broken axes and scales that do not start at zero or are nonlinear.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view\nHint: Identify potentially misleading data representations in the media such as graphs with broken axes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Graphs with broken axes and scales that do not start at zero or are nonlinear. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Graphs with broken axes and scales that do not start at zero or are nonlinear.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
+      "hint": "Identify potentially misleading data representations in the media such as graphs with broken axes."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For check whether a sample represents its population, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a comparison task, For check whether a sample represents its population, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population?",
+    "audioPrompt": "Which statement correctly describes explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The critiquing statistical reports model is copied without interpretation",
+      "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population\nHint: Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
+      "hint": "Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates and the number of cases per head of population",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For report population rates ethically, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an error analysis, For report population rates ethically, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population?",
+    "audioPrompt": "Which statement correctly describes explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population but does not justify the relationship",
-      "Use the model evidence: Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "investigating population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population\nHint: Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population",
+      "hint": "Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For evaluate a public-health prediction, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a model interpretation, For evaluate a public-health prediction, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication?",
+    "audioPrompt": "Which statement correctly describes use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication, discussing the ethical considerations of reporting of such data to the wider public, considering validity claims and samples sizes"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication, discussing the ethical considerations of reporting of such data to the wider public, considering validity claims and samples sizes\nHint: Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication, discussing the ethical considerations of reporting of such data to the wider public, considering validity claims and samples sizes",
+      "hint": "Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness accuracy",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For identify bias in machine learning, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During an evidence check, For identify bias in machine learning, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy?",
+    "audioPrompt": "Which statement correctly describes recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "recognising how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy and ethical implications of artificial intelligence systems",
+      "The critiquing statistical reports model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recognising how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy and ethical implications of artificial intelligence systems\nHint: Recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy and ethical implications of artificial intelligence systems",
+      "hint": "Recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the concept of indigenous data sovereignty to critique and evaluate the australian government s closing the gap report",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For apply indigenous data sovereignty, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a transfer problem, For apply indigenous data sovereignty, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes use the concept of indigenous data sovereignty to critique and evaluate the australian government’s “closing the gap” report?",
+    "audioPrompt": "Which statement correctly describes use the concept of indigenous data sovereignty to critique and evaluate the australian government’s “closing the gap” report?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Use the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use the concept of indigenous data sovereignty to critique and evaluate the australian government’s “closing the gap” report but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "using the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report\nHint: Use the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report",
+      "hint": "Use the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify potentially misleading data representations in the media such as graphs with broken axes",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For expose a misleading graph, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During a peer explanation, For expose a misleading graph, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement gives a valid example of identify potentially misleading data representations in the media such as graphs with broken axes?",
+    "audioPrompt": "Which statement gives a valid example of identify potentially misleading data representations in the media such as graphs with broken axes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions identify potentially misleading data representations in the media such as graphs with broken axes but does not justify the relationship",
-      "Use the model evidence: Graphs with broken axes and scales that do not start at zero or are nonlinear. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Graphs with broken axes and scales that do not start at zero or are nonlinear. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Graphs with broken axes and scales that do not start at zero or are nonlinear.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view\nHint: Identify potentially misleading data representations in the media such as graphs with broken axes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Graphs with broken axes and scales that do not start at zero or are nonlinear. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Graphs with broken axes and scales that do not start at zero or are nonlinear.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
+      "hint": "Identify potentially misleading data representations in the media such as graphs with broken axes."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For check whether a sample represents its population, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an independent review, For check whether a sample represents its population, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population?",
+    "audioPrompt": "Which statement gives a valid example of explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The critiquing statistical reports model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population\nHint: Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
+      "hint": "Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population."
     },
     "qualitySchema": "production-v1"
   }

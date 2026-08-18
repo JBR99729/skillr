@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use plans and elevation drawings to investigate making changes to building designs employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For read plans and elevations, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a guided example, For read plans and elevations, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes?",
+    "audioPrompt": "Which statement correctly describes use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes\nHint: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
+      "hint": "Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "analyse and applying scale and ratios in situations such as production prototypes and 3d printing",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For scale a production prototype, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a comparison task, For scale a production prototype, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes analyse and applying scale and ratios in situations such as production prototypes and 3d printing?",
+    "audioPrompt": "Which statement correctly describes analyse and applying scale and ratios in situations such as production prototypes and 3d printing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions analyse and applying scale and ratios in situations such as production prototypes and 3d printing but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The proportion and scaling models model is copied without interpretation",
+      "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Using a 3D printer to produce scaled versions of actual objects.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects\nHint: Analyse and applying scale and ratios in situations such as production prototypes and 3D printing.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Using a 3D printer to produce scaled versions of actual objects.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects",
+      "hint": "Analyse and applying scale and ratios in situations such as production prototypes and 3D printing."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "estimate the scale of an object such as a toy car by measuring a linear dimension and using a typical car dimension to work out the scale factor",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For estimate an object's scale, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an error analysis, For estimate an object's scale, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor?",
+    "audioPrompt": "Which statement correctly describes estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor but does not justify the relationship",
-      "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor\nHint: Estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor",
+      "hint": "Estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore compliance with building codes and standards in design and construction such as for escalators in shopping centres",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For check a design against standards, what changes, what stays invariant, and why",
-    "audioPrompt": "During a model interpretation, For check a design against standards, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres?",
+    "audioPrompt": "Which statement correctly describes explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘For escalators in shopping centres.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres\nHint: Explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘For escalators in shopping centres.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres",
+      "hint": "Explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how artificial intelligence image generators use proportion and scaling techniques such as aspect ratio preservation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an evidence check, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation?",
+    "audioPrompt": "Which statement correctly describes explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene",
+      "The proportion and scaling models model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene\nHint: Explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene",
+      "hint": "Explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use plans and elevation drawings to investigate making changes to building designs employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For read plans and elevations, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a transfer problem, For read plans and elevations, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes?",
+    "audioPrompt": "Which statement gives a valid example of use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes\nHint: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
+      "hint": "Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "analyse and applying scale and ratios in situations such as production prototypes and 3d printing",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For scale a production prototype, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a peer explanation, For scale a production prototype, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of analyse and applying scale and ratios in situations such as production prototypes and 3d printing?",
+    "audioPrompt": "Which statement gives a valid example of analyse and applying scale and ratios in situations such as production prototypes and 3d printing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions analyse and applying scale and ratios in situations such as production prototypes and 3d printing but does not justify the relationship",
-      "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Using a 3D printer to produce scaled versions of actual objects.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects\nHint: Analyse and applying scale and ratios in situations such as production prototypes and 3D printing.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Using a 3D printer to produce scaled versions of actual objects.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects",
+      "hint": "Analyse and applying scale and ratios in situations such as production prototypes and 3D printing."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "estimate the scale of an object such as a toy car by measuring a linear dimension and using a typical car dimension to work out the scale factor",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For estimate an object's scale, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an independent review, For estimate an object's scale, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor?",
+    "audioPrompt": "Which statement gives a valid example of estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The proportion and scaling models model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor\nHint: Estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor",
+      "hint": "Estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor."
     },
     "qualitySchema": "production-v1"
   }

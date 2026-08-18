@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_samples_of_different_sizes_with_and_without_replacement_from_a_population_to_identify_when_the_difference_in_methods_becomes_negligible",
-    "question": "During a guided example, For compare sample size and replacement, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a guided example, For compare sample size and replacement, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible?",
+    "audio_prompt": "Which statement correctly describes use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
+      "hint": "Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "recognise_that_an_event_can_be_dependent_on_another_event_and_that_this_will_affect_the_way_its_probability_is_calculated",
-    "question": "During a comparison task, For recognise dependent events, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a comparison task, For recognise dependent events, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes recognise that an event can be dependent on another event and that this will affect the way its probability is calculated?",
+    "audio_prompt": "Which statement correctly describes recognise that an event can be dependent on another event and that this will affect the way its probability is calculated?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The conditional probability simulations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated",
         "is_correct": true
       },
       {
-        "text": "A response that mentions recognise that an event can be dependent on another event and that this will affect the way its probability is calculated but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated",
+      "hint": "Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_simulations_to_gather_data_on_frequencies_for_situations_involving_chance_that_appear_to_be_counter_intuitive_such_as_the_three_door_problem_or_the_birthday_problem",
-    "question": "During an error analysis, For simulate a counter-intuitive problem, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an error analysis, For simulate a counter-intuitive problem, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem?",
+    "audio_prompt": "Which statement correctly describes use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: The three-door problem or the birthday problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: The three-door problem or the birthday problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The three-door problem or the birthday problem.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem",
+      "hint": "Use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "identify_situations_in_real_life_where_probability_simulations_are_used_for_decision_making_such_as_supply_and_demand_of_product_insurance_risk_and_queueing",
-    "question": "During a model interpretation, For use simulation for decisions, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a model interpretation, For use simulation for decisions, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing?",
+    "audio_prompt": "Which statement correctly describes identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Supply and demand of product, insurance risk and queueing. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "identifying situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Supply and demand of product, insurance risk and queueing. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Supply and demand of product, insurance risk and queueing.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing",
+      "hint": "Identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_simulation_to_predict_the_number_of_people_likely_to_be_infected_with_a_strain_of_flu_or_virus",
-    "question": "During an evidence check, For model infection risk with simulation, what changes, what stays invariant, and why",
-    "audio_prompt": "During an evidence check, For model infection risk with simulation, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes use simulation to predict the number of people likely to be infected with a strain of flu or virus?",
+    "audio_prompt": "Which statement correctly describes use simulation to predict the number of people likely to be infected with a strain of flu or virus?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Use simulation to predict the number of people likely to be infected with a strain of flu or virus. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using simulation to predict the number of people likely to be infected with a strain of flu or virus",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The conditional probability simulations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use simulation to predict the number of people likely to be infected with a strain of flu or virus but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Use simulation to predict the number of people likely to be infected with a strain of flu or virus. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use simulation to predict the number of people likely to be infected with a strain of flu or virus.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using simulation to predict the number of people likely to be infected with a strain of flu or virus",
+      "hint": "Use simulation to predict the number of people likely to be infected with a strain of flu or virus."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_samples_of_different_sizes_with_and_without_replacement_from_a_population_to_identify_when_the_difference_in_methods_becomes_negligible",
-    "question": "During a transfer problem, For compare sample size and replacement, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a transfer problem, For compare sample size and replacement, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible?",
+    "audio_prompt": "Which statement gives a valid example of use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
+      "hint": "Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "recognise_that_an_event_can_be_dependent_on_another_event_and_that_this_will_affect_the_way_its_probability_is_calculated",
-    "question": "During a peer explanation, For recognise dependent events, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a peer explanation, For recognise dependent events, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of recognise that an event can be dependent on another event and that this will affect the way its probability is calculated?",
+    "audio_prompt": "Which statement gives a valid example of recognise that an event can be dependent on another event and that this will affect the way its probability is calculated?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions recognise that an event can be dependent on another event and that this will affect the way its probability is calculated but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated",
+      "hint": "Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_simulations_to_gather_data_on_frequencies_for_situations_involving_chance_that_appear_to_be_counter_intuitive_such_as_the_three_door_problem_or_the_birthday_problem",
-    "question": "During an independent review, For simulate a counter-intuitive problem, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an independent review, For simulate a counter-intuitive problem, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem?",
+    "audio_prompt": "Which statement gives a valid example of use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The conditional probability simulations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: The three-door problem or the birthday problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: The three-door problem or the birthday problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The three-door problem or the birthday problem.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem",
+      "hint": "Use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "identify_situations_in_real_life_where_probability_simulations_are_used_for_decision_making_such_as_supply_and_demand_of_product_insurance_risk_and_queueing",
-    "question": "During a fresh case study, For use simulation for decisions, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For use simulation for decisions, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing?",
+    "audio_prompt": "Which description correctly applies identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Supply and demand of product, insurance risk and queueing. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "identifying situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Supply and demand of product, insurance risk and queueing. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Supply and demand of product, insurance risk and queueing.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing",
+      "hint": "Identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_simulation_to_predict_the_number_of_people_likely_to_be_infected_with_a_strain_of_flu_or_virus",
-    "question": "During an unfamiliar representation, For model infection risk with simulation, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For model infection risk with simulation, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use simulation to predict the number of people likely to be infected with a strain of flu or virus?",
+    "audio_prompt": "Which description correctly applies use simulation to predict the number of people likely to be infected with a strain of flu or virus?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use simulation to predict the number of people likely to be infected with a strain of flu or virus. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using simulation to predict the number of people likely to be infected with a strain of flu or virus",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use simulation to predict the number of people likely to be infected with a strain of flu or virus but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Use simulation to predict the number of people likely to be infected with a strain of flu or virus. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use simulation to predict the number of people likely to be infected with a strain of flu or virus.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using simulation to predict the number of people likely to be infected with a strain of flu or virus",
+      "hint": "Use simulation to predict the number of people likely to be infected with a strain of flu or virus."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_samples_of_different_sizes_with_and_without_replacement_from_a_population_to_identify_when_the_difference_in_methods_becomes_negligible",
-    "question": "During a critical response, For compare sample size and replacement, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For compare sample size and replacement, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible?",
+    "audio_prompt": "Which response correctly uses use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The conditional probability simulations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
+      "hint": "Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "recognise_that_an_event_can_be_dependent_on_another_event_and_that_this_will_affect_the_way_its_probability_is_calculated",
-    "question": "During a worked solution audit, For recognise dependent events, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For recognise dependent events, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses recognise that an event can be dependent on another event and that this will affect the way its probability is calculated?",
+    "audio_prompt": "Which response correctly uses recognise that an event can be dependent on another event and that this will affect the way its probability is calculated?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions recognise that an event can be dependent on another event and that this will affect the way its probability is calculated but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that an event can be dependent on another event and that this will affect the way its probability is calculated",
+      "hint": "Recognise that an event can be dependent on another event and that this will affect the way its probability is calculated."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_simulations_to_gather_data_on_frequencies_for_situations_involving_chance_that_appear_to_be_counter_intuitive_such_as_the_three_door_problem_or_the_birthday_problem",
-    "question": "During a source evaluation, For simulate a counter-intuitive problem, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For simulate a counter-intuitive problem, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem?",
+    "audio_prompt": "Which response correctly uses use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: The three-door problem or the birthday problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: The three-door problem or the birthday problem. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The three-door problem or the birthday problem.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem",
+      "hint": "Use simulations to gather data on frequencies for situations involving chance that appear to be counter-intuitive, such as the three-door problem or the birthday problem."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "identify_situations_in_real_life_where_probability_simulations_are_used_for_decision_making_such_as_supply_and_demand_of_product_insurance_risk_and_queueing",
-    "question": "During a multi-step application, For use simulation for decisions, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For use simulation for decisions, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing?",
+    "audio_prompt": "Which response correctly uses identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The conditional probability simulations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Supply and demand of product, insurance risk and queueing. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "identifying situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing",
         "is_correct": true
       },
       {
-        "text": "A response that mentions identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Supply and demand of product, insurance risk and queueing. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Supply and demand of product, insurance risk and queueing.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing",
+      "hint": "Identify situations in real-life where probability simulations are used for decision-making, such as supply and demand of product, insurance risk and queueing."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_simulation_to_predict_the_number_of_people_likely_to_be_infected_with_a_strain_of_flu_or_virus",
-    "question": "During a justification task, For model infection risk with simulation, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For model infection risk with simulation, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use simulation to predict the number of people likely to be infected with a strain of flu or virus?",
+    "audio_prompt": "Which response correctly uses use simulation to predict the number of people likely to be infected with a strain of flu or virus?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use simulation to predict the number of people likely to be infected with a strain of flu or virus but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use simulation to predict the number of people likely to be infected with a strain of flu or virus. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using simulation to predict the number of people likely to be infected with a strain of flu or virus",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Use simulation to predict the number of people likely to be infected with a strain of flu or virus. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use simulation to predict the number of people likely to be infected with a strain of flu or virus.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using simulation to predict the number of people likely to be infected with a strain of flu or virus",
+      "hint": "Use simulation to predict the number of people likely to be infected with a strain of flu or virus."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_samples_of_different_sizes_with_and_without_replacement_from_a_population_to_identify_when_the_difference_in_methods_becomes_negligible",
-    "question": "During a final synthesis, For compare sample size and replacement, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For compare sample size and replacement, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible?",
+    "audio_prompt": "Which interpretation is accurate for use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible",
+      "hint": "Use samples of different sizes with and without replacement from a population to identify when the difference in methods becomes negligible."
     }
   }
 ]

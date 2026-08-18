@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore error as a percentage of the exact value",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For calculate percentage error, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a guided example, For calculate percentage error, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes explore error as a percentage of the exact value?",
+    "audioPrompt": "Which statement correctly describes explore error as a percentage of the exact value?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "investigating error as a percentage of the exact value; for example, comparing an estimation of the number of people expected to come to an event by subtracting the actual number that turned up to give an error, then converting this into a percentage error",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore error as a percentage of the exact value but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore error as a percentage of the exact value.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating error as a percentage of the exact value; for example, comparing an estimation of the number of people expected to come to an event by subtracting the actual number that turned up to give an error, then converting this into a percentage error\nHint: Explore error as a percentage of the exact value.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore error as a percentage of the exact value.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating error as a percentage of the exact value; for example, comparing an estimation of the number of people expected to come to an event by subtracting the actual number that turned up to give an error, then converting this into a percentage error",
+      "hint": "Explore error as a percentage of the exact value."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use absolute value in a percentage error formula considering when they would use the absolute value and when they would not depending upon the context",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For decide when absolute error matters, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a comparison task, For decide when absolute error matters, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context?",
+    "audioPrompt": "Which statement correctly describes use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The measurement error model is copied without interpretation",
+      "using absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use absolute value in a percentage error formula.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context\nHint: Use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use absolute value in a percentage error formula.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context",
+      "hint": "Use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "calculate the percentage errors in expected budgets to actual expenditure",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For compare budget forecast and expenditure, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During an error analysis, For compare budget forecast and expenditure, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes calculate the percentage errors in expected budgets to actual expenditure?",
+    "audioPrompt": "Which statement correctly describes calculate the percentage errors in expected budgets to actual expenditure?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions calculate the percentage errors in expected budgets to actual expenditure but does not justify the relationship",
-      "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "calculating the percentage errors in expected budgets to actual expenditure",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Calculate the percentage errors in expected budgets to actual expenditure.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "calculating the percentage errors in expected budgets to actual expenditure\nHint: Calculate the percentage errors in expected budgets to actual expenditure.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Calculate the percentage errors in expected budgets to actual expenditure.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "calculating the percentage errors in expected budgets to actual expenditure",
+      "hint": "Calculate the percentage errors in expected budgets to actual expenditure."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For give measurement bounds, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a model interpretation, For give measurement bounds, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values?",
+    "audioPrompt": "Which statement correctly describes estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "estimating the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "estimating the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values\nHint: Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "estimating the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values",
+      "hint": "Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how calculating and interpreting absolute relative and percentage errors in measurements relates to artificial intelligence systems such as regression models estimating uncertainty and recommendation systems",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For interpret uncertainty in predictive systems, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During an evidence check, For interpret uncertainty in predictive systems, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems?",
+    "audioPrompt": "Which statement correctly describes explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Regression models, estimating uncertainty and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems",
+      "The measurement error model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Regression models, estimating uncertainty and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Regression models, estimating uncertainty and recommendation systems.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems\nHint: Explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Regression models, estimating uncertainty and recommendation systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Regression models, estimating uncertainty and recommendation systems.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems",
+      "hint": "Explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore error as a percentage of the exact value",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For calculate percentage error, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a transfer problem, For calculate percentage error, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of explore error as a percentage of the exact value?",
+    "audioPrompt": "Which statement gives a valid example of explore error as a percentage of the exact value?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore error as a percentage of the exact value but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "investigating error as a percentage of the exact value; for example, comparing an estimation of the number of people expected to come to an event by subtracting the actual number that turned up to give an error, then converting this into a percentage error",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore error as a percentage of the exact value.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating error as a percentage of the exact value; for example, comparing an estimation of the number of people expected to come to an event by subtracting the actual number that turned up to give an error, then converting this into a percentage error\nHint: Explore error as a percentage of the exact value.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore error as a percentage of the exact value. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore error as a percentage of the exact value.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating error as a percentage of the exact value; for example, comparing an estimation of the number of people expected to come to an event by subtracting the actual number that turned up to give an error, then converting this into a percentage error",
+      "hint": "Explore error as a percentage of the exact value."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use absolute value in a percentage error formula considering when they would use the absolute value and when they would not depending upon the context",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For decide when absolute error matters, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a peer explanation, For decide when absolute error matters, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context?",
+    "audioPrompt": "Which statement gives a valid example of use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context but does not justify the relationship",
-      "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "using absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use absolute value in a percentage error formula.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context\nHint: Use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use absolute value in a percentage error formula. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use absolute value in a percentage error formula.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context",
+      "hint": "Use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "calculate the percentage errors in expected budgets to actual expenditure",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For compare budget forecast and expenditure, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During an independent review, For compare budget forecast and expenditure, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of calculate the percentage errors in expected budgets to actual expenditure?",
+    "audioPrompt": "Which statement gives a valid example of calculate the percentage errors in expected budgets to actual expenditure?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions calculate the percentage errors in expected budgets to actual expenditure but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The measurement error model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "calculating the percentage errors in expected budgets to actual expenditure"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Calculate the percentage errors in expected budgets to actual expenditure.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "calculating the percentage errors in expected budgets to actual expenditure\nHint: Calculate the percentage errors in expected budgets to actual expenditure.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Calculate the percentage errors in expected budgets to actual expenditure. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Calculate the percentage errors in expected budgets to actual expenditure.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "calculating the percentage errors in expected budgets to actual expenditure",
+      "hint": "Calculate the percentage errors in expected budgets to actual expenditure."
     },
     "qualitySchema": "production-v1"
   }

@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "choose_a_useful_feature",
-    "question": "During a guided example, which statement correctly explains classification?",
-    "audio_prompt": "During a guided example, which statement correctly explains classification?",
+    "question": "Which statement correctly explains classification in biological classification and dichotomous keys?",
+    "audio_prompt": "Which statement correctly explains classification in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "follow_a_key",
-    "question": "During a comparison task, which statement correctly explains dichotomous key?",
-    "audio_prompt": "During a comparison task, which statement correctly explains dichotomous key?",
+    "question": "Which description is accurate for dichotomous key in biological classification and dichotomous keys?",
+    "audio_prompt": "Which description is accurate for dichotomous key in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "find_an_ambiguous_split",
-    "question": "During an error analysis, which statement correctly explains taxon?",
-    "audio_prompt": "During an error analysis, which statement correctly explains taxon?",
+    "question": "Which statement gives an example of taxon in biological classification and dichotomous keys?",
+    "audio_prompt": "Which statement gives an example of taxon in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "create_paired_statements",
-    "question": "During a model interpretation, which response best demonstrates create paired statements in biological classification and dichotomous keys?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates create paired statements in biological classification and dichotomous keys?",
+    "question": "What is important when using classification in biological classification and dichotomous keys?",
+    "audio_prompt": "What is important when using classification in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "explain_why_classification_may_change",
-    "question": "During an evidence check, which response best demonstrates explain why classification may change in biological classification and dichotomous keys?",
-    "audio_prompt": "During an evidence check, which response best demonstrates explain why classification may change in biological classification and dichotomous keys?",
+    "question": "Which statement correctly identifies dichotomous key in biological classification and dichotomous keys?",
+    "audio_prompt": "Which statement correctly identifies dichotomous key in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "choose_a_useful_feature",
-    "question": "During a transfer problem, which response best demonstrates choose a useful feature in biological classification and dichotomous keys?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates choose a useful feature in biological classification and dichotomous keys?",
+    "question": "Which choice best describes taxon in biological classification and dichotomous keys?",
+    "audio_prompt": "Which choice best describes taxon in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "follow_a_key",
-    "question": "During a peer explanation, which response best demonstrates follow a key in biological classification and dichotomous keys?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates follow a key in biological classification and dichotomous keys?",
+    "question": "What does correct use require for classification in biological classification and dichotomous keys?",
+    "audio_prompt": "What does correct use require for classification in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "find_an_ambiguous_split",
-    "question": "During an independent review, which response best demonstrates find an ambiguous split in biological classification and dichotomous keys?",
-    "audio_prompt": "During an independent review, which response best demonstrates find an ambiguous split in biological classification and dichotomous keys?",
+    "question": "Which statement is true about dichotomous key in biological classification and dichotomous keys?",
+    "audio_prompt": "Which statement is true about dichotomous key in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "create_paired_statements",
-    "question": "During a fresh case study, which response best demonstrates create paired statements in biological classification and dichotomous keys?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates create paired statements in biological classification and dichotomous keys?",
+    "question": "Which response correctly applies create paired statements in biological classification and dichotomous keys?",
+    "audio_prompt": "Which response correctly applies create paired statements in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "explain_why_classification_may_change",
-    "question": "During an unfamiliar representation, which response best demonstrates explain why classification may change in biological classification and dichotomous keys?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates explain why classification may change in biological classification and dichotomous keys?",
+    "question": "Which response shows correct use of explain why classification may change in biological classification and dichotomous keys?",
+    "audio_prompt": "Which response shows correct use of explain why classification may change in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_a_useful_feature",
-    "question": "During a critical response, which response best demonstrates choose a useful feature in biological classification and dichotomous keys?",
-    "audio_prompt": "During a critical response, which response best demonstrates choose a useful feature in biological classification and dichotomous keys?",
+    "question": "Which interpretation is accurate for choose a useful feature in biological classification and dichotomous keys?",
+    "audio_prompt": "Which interpretation is accurate for choose a useful feature in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "follow_a_key",
-    "question": "During a worked solution audit, which response best demonstrates follow a key in biological classification and dichotomous keys?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates follow a key in biological classification and dichotomous keys?",
+    "question": "Which choice demonstrates follow a key in biological classification and dichotomous keys?",
+    "audio_prompt": "Which choice demonstrates follow a key in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "find_an_ambiguous_split",
-    "question": "During a source evaluation, which response best demonstrates find an ambiguous split in biological classification and dichotomous keys?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates find an ambiguous split in biological classification and dichotomous keys?",
+    "question": "What should be checked when applying find an ambiguous split in biological classification and dichotomous keys?",
+    "audio_prompt": "What should be checked when applying find an ambiguous split in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "create_paired_statements",
-    "question": "During a multi-step application, which response best demonstrates create paired statements in biological classification and dichotomous keys?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates create paired statements in biological classification and dichotomous keys?",
+    "question": "Which response best uses create paired statements in biological classification and dichotomous keys?",
+    "audio_prompt": "Which response best uses create paired statements in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "explain_why_classification_may_change",
-    "question": "During a justification task, which response best demonstrates explain why classification may change in biological classification and dichotomous keys?",
-    "audio_prompt": "During a justification task, which response best demonstrates explain why classification may change in biological classification and dichotomous keys?",
+    "question": "Which claim is accurate about explain why classification may change in biological classification and dichotomous keys?",
+    "audio_prompt": "Which claim is accurate about explain why classification may change in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_a_useful_feature",
-    "question": "During a final synthesis, which response best demonstrates choose a useful feature in biological classification and dichotomous keys?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates choose a useful feature in biological classification and dichotomous keys?",
+    "question": "What is required to apply choose a useful feature in biological classification and dichotomous keys?",
+    "audio_prompt": "What is required to apply choose a useful feature in biological classification and dichotomous keys?",
     "visual": {
       "type": "none",
       "alt_text": ""

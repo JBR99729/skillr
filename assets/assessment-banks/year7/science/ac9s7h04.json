@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "audit_a_headline",
-    "question": "During a guided example, which statement correctly explains science communication?",
-    "audio_prompt": "During a guided example, which statement correctly explains science communication?",
+    "question": "Which statement correctly explains science communication in science communication and decision-making?",
+    "audio_prompt": "Which statement correctly explains science communication in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "read_uncertainty",
-    "question": "During a comparison task, which statement correctly explains uncertainty?",
-    "audio_prompt": "During a comparison task, which statement correctly explains uncertainty?",
+    "question": "Which description is accurate for uncertainty in science communication and decision-making?",
+    "audio_prompt": "Which description is accurate for uncertainty in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "check_graph_scale",
-    "question": "During an error analysis, which statement correctly explains source transparency?",
-    "audio_prompt": "During an error analysis, which statement correctly explains source transparency?",
+    "question": "Which statement gives an example of source transparency in science communication and decision-making?",
+    "audio_prompt": "Which statement gives an example of source transparency in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "separate_finding_recommendation",
-    "question": "During a model interpretation, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
+    "question": "What is important when using science communication in science communication and decision-making?",
+    "audio_prompt": "What is important when using science communication in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "improve_accessibility",
-    "question": "During an evidence check, which response best demonstrates improve accessibility in science communication and decision-making?",
-    "audio_prompt": "During an evidence check, which response best demonstrates improve accessibility in science communication and decision-making?",
+    "question": "Which statement correctly identifies uncertainty in science communication and decision-making?",
+    "audio_prompt": "Which statement correctly identifies uncertainty in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "audit_a_headline",
-    "question": "During a transfer problem, which response best demonstrates audit a headline in science communication and decision-making?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates audit a headline in science communication and decision-making?",
+    "question": "Which choice best describes source transparency in science communication and decision-making?",
+    "audio_prompt": "Which choice best describes source transparency in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "read_uncertainty",
-    "question": "During a peer explanation, which response best demonstrates read uncertainty in science communication and decision-making?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates read uncertainty in science communication and decision-making?",
+    "question": "What does correct use require for science communication in science communication and decision-making?",
+    "audio_prompt": "What does correct use require for science communication in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "check_graph_scale",
-    "question": "During an independent review, which response best demonstrates check graph scale in science communication and decision-making?",
-    "audio_prompt": "During an independent review, which response best demonstrates check graph scale in science communication and decision-making?",
+    "question": "Which statement is true about uncertainty in science communication and decision-making?",
+    "audio_prompt": "Which statement is true about uncertainty in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "separate_finding_recommendation",
-    "question": "During a fresh case study, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
+    "question": "Which response correctly applies separate finding/recommendation in science communication and decision-making?",
+    "audio_prompt": "Which response correctly applies separate finding/recommendation in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "improve_accessibility",
-    "question": "During an unfamiliar representation, which response best demonstrates improve accessibility in science communication and decision-making?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates improve accessibility in science communication and decision-making?",
+    "question": "Which response shows correct use of improve accessibility in science communication and decision-making?",
+    "audio_prompt": "Which response shows correct use of improve accessibility in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "audit_a_headline",
-    "question": "During a critical response, which response best demonstrates audit a headline in science communication and decision-making?",
-    "audio_prompt": "During a critical response, which response best demonstrates audit a headline in science communication and decision-making?",
+    "question": "Which interpretation is accurate for audit a headline in science communication and decision-making?",
+    "audio_prompt": "Which interpretation is accurate for audit a headline in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "read_uncertainty",
-    "question": "During a worked solution audit, which response best demonstrates read uncertainty in science communication and decision-making?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates read uncertainty in science communication and decision-making?",
+    "question": "Which choice demonstrates read uncertainty in science communication and decision-making?",
+    "audio_prompt": "Which choice demonstrates read uncertainty in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "check_graph_scale",
-    "question": "During a source evaluation, which response best demonstrates check graph scale in science communication and decision-making?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates check graph scale in science communication and decision-making?",
+    "question": "What should be checked when applying check graph scale in science communication and decision-making?",
+    "audio_prompt": "What should be checked when applying check graph scale in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "separate_finding_recommendation",
-    "question": "During a multi-step application, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates separate finding/recommendation in science communication and decision-making?",
+    "question": "Which response best uses separate finding/recommendation in science communication and decision-making?",
+    "audio_prompt": "Which response best uses separate finding/recommendation in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "improve_accessibility",
-    "question": "During a justification task, which response best demonstrates improve accessibility in science communication and decision-making?",
-    "audio_prompt": "During a justification task, which response best demonstrates improve accessibility in science communication and decision-making?",
+    "question": "Which claim is accurate about improve accessibility in science communication and decision-making?",
+    "audio_prompt": "Which claim is accurate about improve accessibility in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "audit_a_headline",
-    "question": "During a final synthesis, which response best demonstrates audit a headline in science communication and decision-making?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates audit a headline in science communication and decision-making?",
+    "question": "What is required to apply audit a headline in science communication and decision-making?",
+    "audio_prompt": "What is required to apply audit a headline in science communication and decision-making?",
     "visual": {
       "type": "none",
       "alt_text": ""

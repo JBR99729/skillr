@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "recognise that in a table of values if the ratio between consecutive values of the dependent variable is constant then it is an exponential relation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For spot a constant ratio, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For spot a constant ratio, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation?",
+    "audioPrompt": "Which response correctly uses recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "recognising that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recognising that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation\nHint: Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation",
+      "hint": "Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore the links between algebraic and graphical representations of exponential functions using graphing software",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For connect exponential rules and graphs, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For connect exponential rules and graphs, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore the links between algebraic and graphical representations of exponential functions using graphing software?",
+    "audioPrompt": "Which response correctly uses explore the links between algebraic and graphical representations of exponential functions using graphing software?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: Explore the links between algebraic and graphical representations of exponential functions using graphing software. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore the links between algebraic and graphical representations of exponential functions using graphing software but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating the links between algebraic and graphical representations of exponential functions using graphing software",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore the links between algebraic and graphical representations of exponential functions using graphing software. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the links between algebraic and graphical representations of exponential functions using graphing software.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the links between algebraic and graphical representations of exponential functions using graphing software\nHint: Explore the links between algebraic and graphical representations of exponential functions using graphing software.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the links between algebraic and graphical representations of exponential functions using graphing software. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the links between algebraic and graphical representations of exponential functions using graphing software.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the links between algebraic and graphical representations of exponential functions using graphing software",
+      "hint": "Explore the links between algebraic and graphical representations of exponential functions using graphing software."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools with symbolic manipulation functionality to systematically explore exponential relations",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For explore exponential equations digitally, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For explore exponential equations digitally, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use digital tools with symbolic manipulation functionality to systematically explore exponential relations?",
+    "audioPrompt": "Which response correctly uses use digital tools with symbolic manipulation functionality to systematically explore exponential relations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions use digital tools with symbolic manipulation functionality to systematically explore exponential relations but does not justify the relationship",
-      "Use the model evidence: Use digital tools with symbolic manipulation functionality to systematically explore exponential relations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The exponential relations model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "using digital tools with symbolic manipulation functionality to systematically explore exponential relations",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use digital tools with symbolic manipulation functionality to systematically explore exponential relations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools with symbolic manipulation functionality to systematically explore exponential relations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools with symbolic manipulation functionality to systematically explore exponential relations\nHint: Use digital tools with symbolic manipulation functionality to systematically explore exponential relations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools with symbolic manipulation functionality to systematically explore exponential relations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools with symbolic manipulation functionality to systematically explore exponential relations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools with symbolic manipulation functionality to systematically explore exponential relations",
+      "hint": "Use digital tools with symbolic manipulation functionality to systematically explore exponential relations."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore first nations australian ranger groups and other groups programs that attempt to eradicate feral animals for survival of native animals on country place",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For model competing animal populations, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For model competing animal populations, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore first nations australian ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on country/place?",
+    "audioPrompt": "Which response correctly uses explore first nations australian ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on country/place?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions explore first nations australian ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on country/place but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Compare two population rules over equal time steps; identify whether each changes by a constant amount or constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place, exploring the competition between feral and native animals and their impact on natural resources by formulating exponential equations for population growth for each animal species"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Compare two population rules over equal time steps; identify whether each changes by a constant amount or constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare two population rules over equal time steps; identify whether each changes by a constant amount or constant ratio.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place, exploring the competition between feral and native animals and their impact on natural resources by formulating exponential equations for population growth for each animal species\nHint: Explore First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare two population rules over equal time steps; identify whether each changes by a constant amount or constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare two population rules over equal time steps; identify whether each changes by a constant amount or constant ratio.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place, exploring the competition between feral and native animals and their impact on natural resources by formulating exponential equations for population growth for each animal species",
+      "hint": "Explore First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "recognise that in a table of values if the ratio between consecutive values of the dependent variable is constant then it is an exponential relation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For spot a constant ratio, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For spot a constant ratio, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation?",
+    "audioPrompt": "Which interpretation is accurate for recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "recognising that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation",
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recognising that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation\nHint: Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation",
+      "hint": "Recognise that in a table of values, if the ratio between consecutive values of the dependent variable is constant, then it is an exponential relation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "explore the links between algebraic and graphical representations of exponential functions using graphing software",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For connect exponential rules and graphs, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For connect exponential rules and graphs, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for explore the links between algebraic and graphical representations of exponential functions using graphing software?",
+    "audioPrompt": "Which interpretation is accurate for explore the links between algebraic and graphical representations of exponential functions using graphing software?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: Explore the links between algebraic and graphical representations of exponential functions using graphing software. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore the links between algebraic and graphical representations of exponential functions using graphing software but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The exponential relations model is copied without interpretation",
+      "investigating the links between algebraic and graphical representations of exponential functions using graphing software",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore the links between algebraic and graphical representations of exponential functions using graphing software. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the links between algebraic and graphical representations of exponential functions using graphing software.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the links between algebraic and graphical representations of exponential functions using graphing software\nHint: Explore the links between algebraic and graphical representations of exponential functions using graphing software.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the links between algebraic and graphical representations of exponential functions using graphing software. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the links between algebraic and graphical representations of exponential functions using graphing software.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the links between algebraic and graphical representations of exponential functions using graphing software",
+      "hint": "Explore the links between algebraic and graphical representations of exponential functions using graphing software."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools with symbolic manipulation functionality to systematically explore exponential relations",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For explore exponential equations digitally, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For explore exponential equations digitally, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use digital tools with symbolic manipulation functionality to systematically explore exponential relations?",
+    "audioPrompt": "Which interpretation is accurate for use digital tools with symbolic manipulation functionality to systematically explore exponential relations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions use digital tools with symbolic manipulation functionality to systematically explore exponential relations but does not justify the relationship",
-      "Use the model evidence: Use digital tools with symbolic manipulation functionality to systematically explore exponential relations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using digital tools with symbolic manipulation functionality to systematically explore exponential relations",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use digital tools with symbolic manipulation functionality to systematically explore exponential relations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools with symbolic manipulation functionality to systematically explore exponential relations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools with symbolic manipulation functionality to systematically explore exponential relations\nHint: Use digital tools with symbolic manipulation functionality to systematically explore exponential relations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools with symbolic manipulation functionality to systematically explore exponential relations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools with symbolic manipulation functionality to systematically explore exponential relations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools with symbolic manipulation functionality to systematically explore exponential relations",
+      "hint": "Use digital tools with symbolic manipulation functionality to systematically explore exponential relations."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore first nations australian ranger groups and other groups programs that attempt to eradicate feral animals for survival of native animals on country place",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For model competing animal populations, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For model competing animal populations, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for explore first nations australian ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on country/place?",
+    "audioPrompt": "Which interpretation is accurate for explore first nations australian ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on country/place?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions explore first nations australian ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on country/place but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Compare two population rules over equal time steps; identify whether each changes by a constant amount or constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place, exploring the competition between feral and native animals and their impact on natural resources by formulating exponential equations for population growth for each animal species"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Compare two population rules over equal time steps; identify whether each changes by a constant amount or constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare two population rules over equal time steps; identify whether each changes by a constant amount or constant ratio.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place, exploring the competition between feral and native animals and their impact on natural resources by formulating exponential equations for population growth for each animal species\nHint: Explore First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare two population rules over equal time steps; identify whether each changes by a constant amount or constant ratio. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare two population rules over equal time steps; identify whether each changes by a constant amount or constant ratio.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place, exploring the competition between feral and native animals and their impact on natural resources by formulating exponential equations for population growth for each animal species",
+      "hint": "Explore First Nations Australian Ranger groups’ and other groups’ programs that attempt to eradicate feral animals for survival of native animals on Country/Place."
     },
     "qualitySchema": "production-v1"
   }

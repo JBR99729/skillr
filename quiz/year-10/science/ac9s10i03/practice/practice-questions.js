@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how calibration helps make sense of instruments are correctly calibrated before use and planning",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how calibration helps make sense of instruments are correctly calibrated before use and planning",
+    "question": "Which statement correctly describes use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
+      "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
       "A large data file means a large sample",
-      "Count independent experimental units or trials, not sensor rows",
-      "A response that mentions use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.\nHint: Count independent experimental units or trials, not sensor rows.",
+    "explanation": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results\nHint: Use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
-      "hint": "Count independent experimental units or trials, not sensor rows."
+      "summary": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
+      "hint": "Use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how range and resolution helps make sense of how estimation affects precision and examining the inaccuracy introduced",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how range and resolution helps make sense of how estimation affects precision and examining the inaccuracy introduced",
+    "question": "Which statement correctly describes use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Calibration and zeroing are the same for every instrument",
-      "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
-      "Use the manufacturer or laboratory procedure appropriate to the instrument",
-      "A response that mentions use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.\nHint: Use the manufacturer or laboratory procedure appropriate to the instrument.",
+    "explanation": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings\nHint: Use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
-      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+      "summary": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
+      "hint": "Use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how consistent technique helps make sense of how human error can affect replicability and reproducibility",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how consistent technique helps make sense of how human error can affect replicability and reproducibility",
+    "question": "Which statement correctly describes use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A large data file means a large sample",
-      "Count independent experimental units or trials, not sensor rows",
-      "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
-      "A response that mentions use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "identifying how human error can affect replicability and reproducibility",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.\nHint: Count independent experimental units or trials, not sensor rows.",
+    "explanation": "identifying how human error can affect replicability and reproducibility\nHint: Use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
-      "hint": "Count independent experimental units or trials, not sensor rows."
+      "summary": "identifying how human error can affect replicability and reproducibility",
+      "hint": "Use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how sample size helps make sense of how much data is needed to produce valid conclusions",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how sample size helps make sense of how much data is needed to produce valid conclusions",
+    "question": "Which statement correctly describes use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Calibration and zeroing are the same for every instrument",
-      "Use the manufacturer or laboratory procedure appropriate to the instrument",
-      "A response that mentions use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "deciding how much data is needed to produce valid conclusions"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.\nHint: Use the manufacturer or laboratory procedure appropriate to the instrument.",
+    "explanation": "deciding how much data is needed to produce valid conclusions\nHint: Use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
-      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+      "summary": "deciding how much data is needed to produce valid conclusions",
+      "hint": "Use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, Use the central model to explain collect precise, replicable data in three linked sentences",
-    "audioPrompt": "During an evidence check, Use the central model to explain collect precise, replicable data in three linked sentences",
+    "question": "Which statement gives a valid example of use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Calibration and instrument limits affect measurement quality. Consistent procedures improve replicability. Useful sample size depends on variation and independent evidence.",
+      "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
       "A large data file means a large sample",
-      "Count independent experimental units or trials, not sensor rows",
-      "A response that mentions use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Calibration and instrument limits affect measurement quality. Consistent procedures improve replicability. Useful sample size depends on variation and independent evidence.\nHint: Count independent experimental units or trials, not sensor rows.",
+    "explanation": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results\nHint: Use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Calibration and instrument limits affect measurement quality. Consistent procedures improve replicability. Useful sample size depends on variation and independent evidence.",
-      "hint": "Count independent experimental units or trials, not sensor rows."
+      "summary": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
+      "hint": "Use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how calibration helps make sense of instruments are correctly calibrated before use and planning",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how calibration helps make sense of instruments are correctly calibrated before use and planning",
+    "question": "Which statement gives a valid example of use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A large data file means a large sample",
-      "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
       "Calibration and zeroing are the same for every instrument",
-      "Use the manufacturer or laboratory procedure appropriate to the instrument"
+      "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.\nHint: Count independent experimental units or trials, not sensor rows.",
+    "explanation": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings\nHint: Use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Calibration and instrument limits affect measurement quality.",
-      "hint": "Count independent experimental units or trials, not sensor rows."
+      "summary": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
+      "hint": "Use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how range and resolution helps make sense of how estimation affects precision and examining the inaccuracy introduced",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how range and resolution helps make sense of how estimation affects precision and examining the inaccuracy introduced",
+    "question": "Which statement gives a valid example of use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Calibration and zeroing are the same for every instrument",
       "A large data file means a large sample",
-      "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
-      "Count independent experimental units or trials, not sensor rows"
+      "The method can be chosen without checking the values or conditions",
+      "identifying how human error can affect replicability and reproducibility",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.\nHint: Use the manufacturer or laboratory procedure appropriate to the instrument.",
+    "explanation": "identifying how human error can affect replicability and reproducibility\nHint: Use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Consistent procedures improve replicability.",
-      "hint": "Use the manufacturer or laboratory procedure appropriate to the instrument."
+      "summary": "identifying how human error can affect replicability and reproducibility",
+      "hint": "Use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, In 20 seconds, explain how consistent technique helps make sense of how human error can affect replicability and reproducibility",
-    "audioPrompt": "During an independent review, In 20 seconds, explain how consistent technique helps make sense of how human error can affect replicability and reproducibility",
+    "question": "Which statement gives a valid example of use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A large data file means a large sample",
       "Calibration and zeroing are the same for every instrument",
-      "Use the manufacturer or laboratory procedure appropriate to the instrument",
-      "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "deciding how much data is needed to produce valid conclusions"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.\nHint: Count independent experimental units or trials, not sensor rows.",
+    "explanation": "deciding how much data is needed to produce valid conclusions\nHint: Use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Useful sample size depends on variation and independent evidence.",
-      "hint": "Count independent experimental units or trials, not sensor rows."
+      "summary": "deciding how much data is needed to produce valid conclusions",
+      "hint": "Use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "draw_three_orthographic_views",
-    "question": "During a guided example, which statement correctly explains orthographic view?",
-    "audio_prompt": "During a guided example, which statement correctly explains orthographic view?",
+    "question": "Which statement correctly explains orthographic view in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which statement correctly explains orthographic view in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "interpret_an_isometric_sketch",
-    "question": "During a comparison task, which statement correctly explains isometric sketch?",
-    "audio_prompt": "During a comparison task, which statement correctly explains isometric sketch?",
+    "question": "Which description is accurate for isometric sketch in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which description is accurate for isometric sketch in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "identify_ambiguity",
-    "question": "During an error analysis, which statement correctly explains cross-section?",
-    "audio_prompt": "During an error analysis, which statement correctly explains cross-section?",
+    "question": "Which statement gives an example of cross-section in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which statement gives an example of cross-section in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "choose_a_representation",
-    "question": "During a model interpretation, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
+    "question": "What is important when using orthographic view in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "What is important when using orthographic view in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "state_a_limitation",
-    "question": "During an evidence check, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During an evidence check, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
+    "question": "Which statement correctly identifies isometric sketch in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which statement correctly identifies isometric sketch in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "draw_three_orthographic_views",
-    "question": "During a transfer problem, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "question": "Which choice best describes cross-section in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which choice best describes cross-section in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "interpret_an_isometric_sketch",
-    "question": "During a peer explanation, which response best demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
+    "question": "What does correct use require for orthographic view in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "What does correct use require for orthographic view in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "identify_ambiguity",
-    "question": "During an independent review, which response best demonstrates identify ambiguity in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During an independent review, which response best demonstrates identify ambiguity in representing three-dimensional objects in two dimensions?",
+    "question": "Which statement is true about isometric sketch in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which statement is true about isometric sketch in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "choose_a_representation",
-    "question": "During a fresh case study, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
+    "question": "Which response correctly applies choose a representation in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which response correctly applies choose a representation in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "state_a_limitation",
-    "question": "During an unfamiliar representation, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
+    "question": "Which response shows correct use of state a limitation in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which response shows correct use of state a limitation in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "draw_three_orthographic_views",
-    "question": "During a critical response, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During a critical response, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "question": "Which interpretation is accurate for draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which interpretation is accurate for draw three orthographic views in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "interpret_an_isometric_sketch",
-    "question": "During a worked solution audit, which response best demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
+    "question": "Which choice demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which choice demonstrates interpret an isometric sketch in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "identify_ambiguity",
-    "question": "During a source evaluation, which response best demonstrates identify ambiguity in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates identify ambiguity in representing three-dimensional objects in two dimensions?",
+    "question": "What should be checked when applying identify ambiguity in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "What should be checked when applying identify ambiguity in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "choose_a_representation",
-    "question": "During a multi-step application, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates choose a representation in representing three-dimensional objects in two dimensions?",
+    "question": "Which response best uses choose a representation in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which response best uses choose a representation in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "state_a_limitation",
-    "question": "During a justification task, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During a justification task, which response best demonstrates state a limitation in representing three-dimensional objects in two dimensions?",
+    "question": "Which claim is accurate about state a limitation in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "Which claim is accurate about state a limitation in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "draw_three_orthographic_views",
-    "question": "During a final synthesis, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "question": "What is required to apply draw three orthographic views in representing three-dimensional objects in two dimensions?",
+    "audio_prompt": "What is required to apply draw three orthographic views in representing three-dimensional objects in two dimensions?",
     "visual": {
       "type": "none",
       "alt_text": ""

@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
-    "question": "During a guided example, For use long-run relative frequency, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a guided example, For use long-run relative frequency, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "audio_prompt": "Which statement correctly describes understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_venn_diagrams_or_two_way_tables_to_estimate_frequencies_of_events_involving_and_or_questions",
-    "question": "During a comparison task, For interpret ‘and’ and ‘or’, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a comparison task, For interpret ‘and’ and ‘or’, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
+    "audio_prompt": "Which statement correctly describes use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The relative frequency and event language model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "designing_testing_and_refining_an_algorithm_used_to_determine_relative_frequencies_from_a_generated_data_set_to_estimate_different_probabilities",
-    "question": "During an error analysis, For code a relative-frequency algorithm, which test case could expose an error in the steps",
-    "audio_prompt": "During an error analysis, For code a relative-frequency algorithm, which test case could expose an error in the steps",
+    "question": "Which statement correctly describes designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
+    "audio_prompt": "Which statement correctly describes designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
-    "question": "During a model interpretation, For use long-run relative frequency, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a model interpretation, For use long-run relative frequency, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "audio_prompt": "Which statement gives a valid example of understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_venn_diagrams_or_two_way_tables_to_estimate_frequencies_of_events_involving_and_or_questions",
-    "question": "During an evidence check, For interpret ‘and’ and ‘or’, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an evidence check, For interpret ‘and’ and ‘or’, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
+    "audio_prompt": "Which statement gives a valid example of use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The relative frequency and event language model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "designing_testing_and_refining_an_algorithm_used_to_determine_relative_frequencies_from_a_generated_data_set_to_estimate_different_probabilities",
-    "question": "During a transfer problem, For code a relative-frequency algorithm, which test case could expose an error in the steps",
-    "audio_prompt": "During a transfer problem, For code a relative-frequency algorithm, which test case could expose an error in the steps",
+    "question": "Which statement gives a valid example of designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
+    "audio_prompt": "Which statement gives a valid example of designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
         "is_correct": true
       },
       {
-        "text": "A response that mentions designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
-    "question": "During a peer explanation, For use long-run relative frequency, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a peer explanation, For use long-run relative frequency, which outcomes belong in the denominator, and why",
+    "question": "What should you check when using understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "audio_prompt": "What should you check when using understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_venn_diagrams_or_two_way_tables_to_estimate_frequencies_of_events_involving_and_or_questions",
-    "question": "During an independent review, For interpret ‘and’ and ‘or’, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an independent review, For interpret ‘and’ and ‘or’, which outcomes belong in the denominator, and why",
+    "question": "What should you check when using use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
+    "audio_prompt": "What should you check when using use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The relative frequency and event language model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "designing_testing_and_refining_an_algorithm_used_to_determine_relative_frequencies_from_a_generated_data_set_to_estimate_different_probabilities",
-    "question": "During a fresh case study, For code a relative-frequency algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For code a relative-frequency algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
+    "question": "Which response correctly uses designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
+    "audio_prompt": "Which response correctly uses designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
-    "question": "During an unfamiliar representation, For use long-run relative frequency, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For use long-run relative frequency, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "audio_prompt": "Which interpretation is accurate for understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
         "is_correct": true
       },
       {
-        "text": "A response that mentions understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_venn_diagrams_or_two_way_tables_to_estimate_frequencies_of_events_involving_and_or_questions",
-    "question": "During a critical response, For interpret ‘and’ and ‘or’, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For interpret ‘and’ and ‘or’, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
+    "audio_prompt": "Which interpretation is accurate for use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The relative frequency and event language model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "designing_testing_and_refining_an_algorithm_used_to_determine_relative_frequencies_from_a_generated_data_set_to_estimate_different_probabilities",
-    "question": "During a worked solution audit, For code a relative-frequency algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For code a relative-frequency algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
+    "audio_prompt": "Which interpretation is accurate for designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
-    "question": "During a source evaluation, For use long-run relative frequency, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For use long-run relative frequency, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "When would you use understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "audio_prompt": "When would you use understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_venn_diagrams_or_two_way_tables_to_estimate_frequencies_of_events_involving_and_or_questions",
-    "question": "During a multi-step application, For interpret ‘and’ and ‘or’, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For interpret ‘and’ and ‘or’, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "When would you use use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
+    "audio_prompt": "When would you use use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The relative frequency and event language model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "designing_testing_and_refining_an_algorithm_used_to_determine_relative_frequencies_from_a_generated_data_set_to_estimate_different_probabilities",
-    "question": "During a justification task, For code a relative-frequency algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For code a relative-frequency algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
+    "question": "When would you use designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
+    "audio_prompt": "When would you use designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
-    "question": "During a final synthesis, For use long-run relative frequency, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For use long-run relative frequency, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "audio_prompt": "Which choice demonstrates understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
     }
   }
 ]

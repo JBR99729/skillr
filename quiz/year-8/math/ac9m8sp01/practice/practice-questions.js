@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "develop an understanding of what it means for shapes to be congruent or similar",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For distinguish congruent and similar, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a guided example, For distinguish congruent and similar, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes develop an understanding of what it means for shapes to be congruent or similar?",
+    "audioPrompt": "Which statement correctly describes develop an understanding of what it means for shapes to be congruent or similar?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Develop an understanding of what it means for shapes to be congruent or similar. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "developing an understanding of what it means for shapes to be congruent or similar",
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions develop an understanding of what it means for shapes to be congruent or similar but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Develop an understanding of what it means for shapes to be congruent or similar. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Develop an understanding of what it means for shapes to be congruent or similar.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "developing an understanding of what it means for shapes to be congruent or similar\nHint: Develop an understanding of what it means for shapes to be congruent or similar.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Develop an understanding of what it means for shapes to be congruent or similar. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Develop an understanding of what it means for shapes to be congruent or similar.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "developing an understanding of what it means for shapes to be congruent or similar",
+      "hint": "Develop an understanding of what it means for shapes to be congruent or similar."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the enlargement transformation and digital tools to develop sets of similar shapes",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For test triangle congruence, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a comparison task, For test triangle congruence, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes use the enlargement transformation and digital tools to develop sets of similar shapes?",
+    "audioPrompt": "Which statement correctly describes use the enlargement transformation and digital tools to develop sets of similar shapes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Use the enlargement transformation and digital tools to develop sets of similar shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use the enlargement transformation and digital tools to develop sets of similar shapes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The congruence and similarity model is copied without interpretation",
+      "using the enlargement transformation and digital tools to develop sets of similar shapes",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use the enlargement transformation and digital tools to develop sets of similar shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use the enlargement transformation and digital tools to develop sets of similar shapes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the enlargement transformation and digital tools to develop sets of similar shapes\nHint: Use the enlargement transformation and digital tools to develop sets of similar shapes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use the enlargement transformation and digital tools to develop sets of similar shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use the enlargement transformation and digital tools to develop sets of similar shapes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the enlargement transformation and digital tools to develop sets of similar shapes",
+      "hint": "Use the enlargement transformation and digital tools to develop sets of similar shapes."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore sufficient conditions to establish that 2 triangles are congruent",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For test triangle similarity, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During an error analysis, For test triangle similarity, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes explore sufficient conditions to establish that 2 triangles are congruent?",
+    "audioPrompt": "Which statement correctly describes explore sufficient conditions to establish that 2 triangles are congruent?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions explore sufficient conditions to establish that 2 triangles are congruent but does not justify the relationship",
-      "Use the model evidence: Explore sufficient conditions to establish that 2 triangles are congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "investigating sufficient conditions to establish that 2 triangles are congruent",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explore sufficient conditions to establish that 2 triangles are congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore sufficient conditions to establish that 2 triangles are congruent.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating sufficient conditions to establish that 2 triangles are congruent\nHint: Explore sufficient conditions to establish that 2 triangles are congruent.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore sufficient conditions to establish that 2 triangles are congruent. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore sufficient conditions to establish that 2 triangles are congruent.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating sufficient conditions to establish that 2 triangles are congruent",
+      "hint": "Explore sufficient conditions to establish that 2 triangles are congruent."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For match corresponding vertices, what do the vertices and edges represent, and is the network connected",
-    "audioPrompt": "During a model interpretation, For match corresponding vertices, what do the vertices and edges represent, and is the network connected",
+    "question": "Which statement correctly describes apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes?",
+    "audioPrompt": "Which statement correctly describes apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes\nHint: Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
+      "hint": "Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For connect transformations to congruence, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During an evidence check, For connect transformations to congruence, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes compare angle and side measurements of shapes under transformation to answer questions such as “what changes?” and “what stays the same?”?",
+    "audioPrompt": "Which statement correctly describes compare angle and side measurements of shapes under transformation to answer questions such as “what changes?” and “what stays the same?”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: “What changes?” and “What stays the same?”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions compare angle and side measurements of shapes under transformation to answer questions such as “what changes?” and “what stays the same?” but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”",
+      "The congruence and similarity model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: “What changes?” and “What stays the same?”. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘“What changes?” and “What stays the same?”.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”\nHint: Compare angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: “What changes?” and “What stays the same?”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘“What changes?” and “What stays the same?”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”",
+      "hint": "Compare angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For use a counterexample to reject a condition, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a transfer problem, For use a counterexample to reject a condition, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations?",
+    "audioPrompt": "Which statement correctly describes establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal\nHint: Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal",
+      "hint": "Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "develop an understanding of what it means for shapes to be congruent or similar",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For distinguish congruent and similar, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a peer explanation, For distinguish congruent and similar, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of develop an understanding of what it means for shapes to be congruent or similar?",
+    "audioPrompt": "Which statement gives a valid example of develop an understanding of what it means for shapes to be congruent or similar?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions develop an understanding of what it means for shapes to be congruent or similar but does not justify the relationship",
-      "Use the model evidence: Develop an understanding of what it means for shapes to be congruent or similar. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "developing an understanding of what it means for shapes to be congruent or similar",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Develop an understanding of what it means for shapes to be congruent or similar. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Develop an understanding of what it means for shapes to be congruent or similar.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "developing an understanding of what it means for shapes to be congruent or similar\nHint: Develop an understanding of what it means for shapes to be congruent or similar.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Develop an understanding of what it means for shapes to be congruent or similar. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Develop an understanding of what it means for shapes to be congruent or similar.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "developing an understanding of what it means for shapes to be congruent or similar",
+      "hint": "Develop an understanding of what it means for shapes to be congruent or similar."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the enlargement transformation and digital tools to develop sets of similar shapes",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For test triangle congruence, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During an independent review, For test triangle congruence, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of use the enlargement transformation and digital tools to develop sets of similar shapes?",
+    "audioPrompt": "Which statement gives a valid example of use the enlargement transformation and digital tools to develop sets of similar shapes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions use the enlargement transformation and digital tools to develop sets of similar shapes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Use the enlargement transformation and digital tools to develop sets of similar shapes. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The congruence and similarity model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using the enlargement transformation and digital tools to develop sets of similar shapes"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Use the enlargement transformation and digital tools to develop sets of similar shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use the enlargement transformation and digital tools to develop sets of similar shapes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the enlargement transformation and digital tools to develop sets of similar shapes\nHint: Use the enlargement transformation and digital tools to develop sets of similar shapes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use the enlargement transformation and digital tools to develop sets of similar shapes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use the enlargement transformation and digital tools to develop sets of similar shapes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the enlargement transformation and digital tools to develop sets of similar shapes",
+      "hint": "Use the enlargement transformation and digital tools to develop sets of similar shapes."
     },
     "qualitySchema": "production-v1"
   }

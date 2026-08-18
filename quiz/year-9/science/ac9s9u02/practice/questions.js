@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how gametes and organs helps make sense of how the male and female reproductive organ structures work",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how gametes and organs helps make sense of how the male and female reproductive organ structures work",
+    "question": "Which statement correctly describes use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
+      "examining how the male and female reproductive organ structures work collectively as a system",
       "Sexual reproduction always means mating",
-      "Define it by fusion of gametes in plants and animals",
-      "A response that mentions use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.\nHint: Define it by fusion of gametes in plants and animals.",
+    "explanation": "examining how the male and female reproductive organ structures work collectively as a system\nHint: Use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
-      "hint": "Define it by fusion of gametes in plants and animals."
+      "summary": "examining how the male and female reproductive organ structures work collectively as a system",
+      "hint": "Use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how fertilisation helps make sense of how the forms of male and female gametes relate",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how fertilisation helps make sense of how the forms of male and female gametes relate",
+    "question": "Which statement correctly describes use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Asexual offspring are always perfectly identical",
-      "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
-      "Use ‘genetically very similar’ and acknowledge mutation and environment",
-      "A response that mentions use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "explaining how the forms of male and female gametes relate to their specific function",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.\nHint: Use ‘genetically very similar’ and acknowledge mutation and environment.",
+    "explanation": "explaining how the forms of male and female gametes relate to their specific function\nHint: Use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
-      "hint": "Use ‘genetically very similar’ and acknowledge mutation and environment."
+      "summary": "explaining how the forms of male and female gametes relate to their specific function",
+      "hint": "Use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how sexual reproduction helps make sense of comparing sexual and asexual reproductive strategies in plants",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how sexual reproduction helps make sense of comparing sexual and asexual reproductive strategies in plants",
+    "question": "Which statement correctly describes use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Sexual reproduction always means mating",
-      "Define it by fusion of gametes in plants and animals",
-      "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
-      "A response that mentions use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "identifying and comparing sexual and asexual reproductive strategies in plants",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.\nHint: Define it by fusion of gametes in plants and animals.",
+    "explanation": "identifying and comparing sexual and asexual reproductive strategies in plants\nHint: Use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
-      "hint": "Define it by fusion of gametes in plants and animals."
+      "summary": "identifying and comparing sexual and asexual reproductive strategies in plants",
+      "hint": "Use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how asexual reproduction helps make sense of how sexual reproduction creates a greater rate of variation",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how asexual reproduction helps make sense of how sexual reproduction creates a greater rate of variation",
+    "question": "Which statement correctly describes use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Asexual offspring are always perfectly identical",
-      "Use ‘genetically very similar’ and acknowledge mutation and environment",
-      "A response that mentions use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring how sexual reproduction creates a greater rate of variation among offspring compared with asexual reproduction"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.\nHint: Use ‘genetically very similar’ and acknowledge mutation and environment.",
+    "explanation": "exploring how sexual reproduction creates a greater rate of variation among offspring compared with asexual reproduction\nHint: Use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
-      "hint": "Use ‘genetically very similar’ and acknowledge mutation and environment."
+      "summary": "exploring how sexual reproduction creates a greater rate of variation among offspring compared with asexual reproduction",
+      "hint": "Use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how variation and survival helps make sense of how the reproductive strategies of multicellular animals are related",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how variation and survival helps make sense of how the reproductive strategies of multicellular animals are related",
+    "question": "Which statement correctly describes use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
+      "examining how the reproductive strategies of multicellular animals are related to their environment and the complexity of the organism",
       "Sexual reproduction always means mating",
-      "Define it by fusion of gametes in plants and animals",
-      "A response that mentions use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.\nHint: Define it by fusion of gametes in plants and animals.",
+    "explanation": "examining how the reproductive strategies of multicellular animals are related to their environment and the complexity of the organism\nHint: Use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Sexual reproduction involves gamete fusion and usually increases genetic variation.",
-      "hint": "Define it by fusion of gametes in plants and animals."
+      "summary": "examining how the reproductive strategies of multicellular animals are related to their environment and the complexity of the organism",
+      "hint": "Use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how gametes and organs helps make sense of how the number of offspring produced by animals is",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how gametes and organs helps make sense of how the number of offspring produced by animals is",
+    "question": "Which statement correctly describes use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Asexual offspring are always perfectly identical",
-      "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
-      "Use ‘genetically very similar’ and acknowledge mutation and environment",
-      "A response that mentions use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "examining how the number of offspring produced by animals is related to the amount of parental care",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.\nHint: Use ‘genetically very similar’ and acknowledge mutation and environment.",
+    "explanation": "examining how the number of offspring produced by animals is related to the amount of parental care\nHint: Use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Asexual reproduction uses one parent and can rapidly increase numbers.",
-      "hint": "Use ‘genetically very similar’ and acknowledge mutation and environment."
+      "summary": "examining how the number of offspring produced by animals is related to the amount of parental care",
+      "hint": "Use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, Use the central model to explain reproduction and species survival in three linked sentences",
-    "audioPrompt": "During a peer explanation, Use the central model to explain reproduction and species survival in three linked sentences",
+    "question": "Which statement gives a valid example of use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Sexual reproduction always means mating",
-      "Define it by fusion of gametes in plants and animals",
-      "Reproductive cells and organs have structures suited to their functions. Sexual reproduction involves gamete fusion and usually increases genetic variation. Asexual reproduction uses one parent and can rapidly increase numbers.",
-      "A response that mentions use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "examining how the male and female reproductive organ structures work collectively as a system",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Reproductive cells and organs have structures suited to their functions. Sexual reproduction involves gamete fusion and usually increases genetic variation. Asexual reproduction uses one parent and can rapidly increase numbers.\nHint: Define it by fusion of gametes in plants and animals.",
+    "explanation": "examining how the male and female reproductive organ structures work collectively as a system\nHint: Use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Reproductive cells and organs have structures suited to their functions. Sexual reproduction involves gamete fusion and usually increases genetic variation. Asexual reproduction uses one parent and can rapidly increase numbers.",
-      "hint": "Define it by fusion of gametes in plants and animals."
+      "summary": "examining how the male and female reproductive organ structures work collectively as a system",
+      "hint": "Use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, In 20 seconds, explain how gametes and organs helps make sense of how the male and female reproductive organ structures work",
-    "audioPrompt": "During an independent review, In 20 seconds, explain how gametes and organs helps make sense of how the male and female reproductive organ structures work",
+    "question": "Which statement gives a valid example of use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Sexual reproduction always means mating",
       "Asexual offspring are always perfectly identical",
-      "Use ‘genetically very similar’ and acknowledge mutation and environment",
-      "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "explaining how the forms of male and female gametes relate to their specific function"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.\nHint: Define it by fusion of gametes in plants and animals.",
+    "explanation": "explaining how the forms of male and female gametes relate to their specific function\nHint: Use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproductive cells and organs have structures suited to their functions.",
-      "hint": "Define it by fusion of gametes in plants and animals."
+      "summary": "explaining how the forms of male and female gametes relate to their specific function",
+      "hint": "Use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

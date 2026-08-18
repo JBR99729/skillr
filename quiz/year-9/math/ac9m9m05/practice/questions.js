@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For model direct proportion, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a guided example, For model direct proportion, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts?",
+    "audioPrompt": "Which statement correctly describes model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Hooke’s law and other science contexts involving wave lengths and frequencies. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Hooke’s law and other science contexts involving wave lengths and frequencies. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Hooke’s law and other science contexts involving wave lengths and frequencies.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies\nHint: Model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Hooke’s law and other science contexts involving wave lengths and frequencies. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Hooke’s law and other science contexts involving wave lengths and frequencies.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies",
+      "hint": "Model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For preserve image proportions, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a comparison task, For preserve image proportions, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images?",
+    "audioPrompt": "Which statement correctly describes model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The modelling proportion, rate and scale model is copied without interpretation",
+      "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images\nHint: Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
+      "hint": "Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving compliance with building and construction standards in design and construction such as the rise and tread of staircases and vertical and horizontal components of escalators",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For apply scale to construction, what changes, what stays invariant, and why",
-    "audioPrompt": "During an error analysis, For apply scale to construction, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators?",
+    "audioPrompt": "Which statement correctly describes model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators but does not justify the relationship",
-      "Use the model evidence: The rise and tread of staircases, and vertical and horizontal components of escalators. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: The rise and tread of staircases, and vertical and horizontal components of escalators. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The rise and tread of staircases, and vertical and horizontal components of escalators.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators\nHint: Model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The rise and tread of staircases, and vertical and horizontal components of escalators. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The rise and tread of staircases, and vertical and horizontal components of escalators.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators",
+      "hint": "Model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving the application of rates in practical contexts",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For model practical rates, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a model interpretation, For model practical rates, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes model situations involving the application of rates in practical contexts?",
+    "audioPrompt": "Which statement correctly describes model situations involving the application of rates in practical contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions model situations involving the application of rates in practical contexts but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Density, birth, flow or heartbeats. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "modelling situations involving the application of rates in practical contexts; for example, density, birth, flow or heartbeats"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Density, birth, flow or heartbeats. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Density, birth, flow or heartbeats.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving the application of rates in practical contexts; for example, density, birth, flow or heartbeats\nHint: Model situations involving the application of rates in practical contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Density, birth, flow or heartbeats. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Density, birth, flow or heartbeats.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving the application of rates in practical contexts; for example, density, birth, flow or heartbeats",
+      "hint": "Model situations involving the application of rates in practical contexts."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore fire techniques in land management practices used by first nations australians that use proportion relationships",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For connect environmental rates and conditions, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an evidence check, For connect environmental rates and conditions, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes explore fire techniques in land management practices used by first nations australians that use proportion relationships?",
+    "audioPrompt": "Which statement correctly describes explore fire techniques in land management practices used by first nations australians that use proportion relationships?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explore fire techniques in land management practices used by First Nations Australians that use proportion relationships. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore fire techniques in land management practices used by first nations australians that use proportion relationships but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "exploring fire techniques in land management practices used by First Nations Australians that use proportion relationships, including the rate of fire spread in different fuel types to wind speed, temperature and relative humidity",
+      "The modelling proportion, rate and scale model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explore fire techniques in land management practices used by First Nations Australians that use proportion relationships. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore fire techniques in land management practices used by First Nations Australians that use proportion relationships.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring fire techniques in land management practices used by First Nations Australians that use proportion relationships, including the rate of fire spread in different fuel types to wind speed, temperature and relative humidity\nHint: Explore fire techniques in land management practices used by First Nations Australians that use proportion relationships.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore fire techniques in land management practices used by First Nations Australians that use proportion relationships. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore fire techniques in land management practices used by First Nations Australians that use proportion relationships.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring fire techniques in land management practices used by First Nations Australians that use proportion relationships, including the rate of fire spread in different fuel types to wind speed, temperature and relative humidity",
+      "hint": "Explore fire techniques in land management practices used by First Nations Australians that use proportion relationships."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For model direct proportion, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a transfer problem, For model direct proportion, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts?",
+    "audioPrompt": "Which statement gives a valid example of model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Hooke’s law and other science contexts involving wave lengths and frequencies. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Hooke’s law and other science contexts involving wave lengths and frequencies. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Hooke’s law and other science contexts involving wave lengths and frequencies.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies\nHint: Model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Hooke’s law and other science contexts involving wave lengths and frequencies. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Hooke’s law and other science contexts involving wave lengths and frequencies.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies",
+      "hint": "Model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For preserve image proportions, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a peer explanation, For preserve image proportions, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images?",
+    "audioPrompt": "Which statement gives a valid example of model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images but does not justify the relationship",
-      "Use the model evidence: Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images\nHint: Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
+      "hint": "Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "model situations involving compliance with building and construction standards in design and construction such as the rise and tread of staircases and vertical and horizontal components of escalators",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For apply scale to construction, what changes, what stays invariant, and why",
-    "audioPrompt": "During an independent review, For apply scale to construction, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators?",
+    "audioPrompt": "Which statement gives a valid example of model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: The rise and tread of staircases, and vertical and horizontal components of escalators. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The modelling proportion, rate and scale model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: The rise and tread of staircases, and vertical and horizontal components of escalators. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The rise and tread of staircases, and vertical and horizontal components of escalators.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators\nHint: Model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The rise and tread of staircases, and vertical and horizontal components of escalators. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The rise and tread of staircases, and vertical and horizontal components of escalators.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators",
+      "hint": "Model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators."
     },
     "qualitySchema": "production-v1"
   }

@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For simulate simple and compound events, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a guided example, For simulate simple and compound events, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities?",
+    "audioPrompt": "Which statement correctly describes use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "using digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities",
       "The sample space or dependency changes without being noticed",
-      "A response that mentions use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities\nHint: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities",
+      "hint": "Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare experiments which differ only by being undertaken with replacement or without replacement",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For compare replacement methods, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a comparison task, For compare replacement methods, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes compare experiments which differ only by being undertaken with replacement or without replacement?",
+    "audioPrompt": "Which statement correctly describes compare experiments which differ only by being undertaken with replacement or without replacement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions compare experiments which differ only by being undertaken with replacement or without replacement but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The chance experiments and simulations model is copied without interpretation",
+      "comparing experiments which differ only by being undertaken with replacement or without replacement",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare experiments which differ only by being undertaken with replacement or without replacement.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing experiments which differ only by being undertaken with replacement or without replacement\nHint: Compare experiments which differ only by being undertaken with replacement or without replacement.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare experiments which differ only by being undertaken with replacement or without replacement.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing experiments which differ only by being undertaken with replacement or without replacement",
+      "hint": "Compare experiments which differ only by being undertaken with replacement or without replacement."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "conduct two step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For list favourable outcomes systematically, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During an error analysis, For list favourable outcomes systematically, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event?",
+    "audioPrompt": "Which statement correctly describes conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event but does not justify the relationship",
-      "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "conducting two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "conducting two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event\nHint: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "conducting two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event",
+      "hint": "Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use repeated trials of first nations australian children s instructive games",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For estimate winning in a repeated game, what changes, what stays invariant, and why",
-    "audioPrompt": "During a model interpretation, For estimate winning in a repeated game, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes use repeated trials of first nations australian children’s instructive games?",
+    "audioPrompt": "Which statement correctly describes use repeated trials of first nations australian children’s instructive games?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The sample space or dependency changes without being noticed",
-      "A response that mentions use repeated trials of first nations australian children’s instructive games but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using repeated trials of First Nations Australian children’s instructive games; for example, Gorri from all parts of Australia, to calculate the probabilities of winning and not winning"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Gorri from all parts of Australia, to calculate the probabilities of winning and not winning.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using repeated trials of First Nations Australian children’s instructive games; for example, Gorri from all parts of Australia, to calculate the probabilities of winning and not winning\nHint: Use repeated trials of First Nations Australian children’s instructive games.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Gorri from all parts of Australia, to calculate the probabilities of winning and not winning.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using repeated trials of First Nations Australian children’s instructive games; for example, Gorri from all parts of Australia, to calculate the probabilities of winning and not winning",
+      "hint": "Use repeated trials of First Nations Australian children’s instructive games."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For simulate simple and compound events, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During an evidence check, For simulate simple and compound events, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities?",
+    "audioPrompt": "Which statement gives a valid example of use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "using digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities",
+      "The chance experiments and simulations model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities\nHint: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities",
+      "hint": "Use digital tools to conduct probability simulations that demonstrate the relationship between the probability of compound events and the individual probabilities."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare experiments which differ only by being undertaken with replacement or without replacement",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For compare replacement methods, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a transfer problem, For compare replacement methods, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of compare experiments which differ only by being undertaken with replacement or without replacement?",
+    "audioPrompt": "Which statement gives a valid example of compare experiments which differ only by being undertaken with replacement or without replacement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions compare experiments which differ only by being undertaken with replacement or without replacement but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "comparing experiments which differ only by being undertaken with replacement or without replacement",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare experiments which differ only by being undertaken with replacement or without replacement.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing experiments which differ only by being undertaken with replacement or without replacement\nHint: Compare experiments which differ only by being undertaken with replacement or without replacement.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare experiments which differ only by being undertaken with replacement or without replacement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare experiments which differ only by being undertaken with replacement or without replacement.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing experiments which differ only by being undertaken with replacement or without replacement",
+      "hint": "Compare experiments which differ only by being undertaken with replacement or without replacement."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "conduct two step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For list favourable outcomes systematically, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a peer explanation, For list favourable outcomes systematically, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event?",
+    "audioPrompt": "Which statement gives a valid example of conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The sample space or dependency changes without being noticed",
-      "A response that mentions conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event but does not justify the relationship",
-      "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "conducting two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "conducting two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event\nHint: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "conducting two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event",
+      "hint": "Conduct two-step chance experiments using systematic methods to list outcomes of experiments and to list outcomes favourable to an event."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use repeated trials of first nations australian children s instructive games",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For estimate winning in a repeated game, what changes, what stays invariant, and why",
-    "audioPrompt": "During an independent review, For estimate winning in a repeated game, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of use repeated trials of first nations australian children’s instructive games?",
+    "audioPrompt": "Which statement gives a valid example of use repeated trials of first nations australian children’s instructive games?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions use repeated trials of first nations australian children’s instructive games but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The chance experiments and simulations model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using repeated trials of First Nations Australian children’s instructive games; for example, Gorri from all parts of Australia, to calculate the probabilities of winning and not winning"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Gorri from all parts of Australia, to calculate the probabilities of winning and not winning.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using repeated trials of First Nations Australian children’s instructive games; for example, Gorri from all parts of Australia, to calculate the probabilities of winning and not winning\nHint: Use repeated trials of First Nations Australian children’s instructive games.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Gorri from all parts of Australia, to calculate the probabilities of winning and not winning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Gorri from all parts of Australia, to calculate the probabilities of winning and not winning.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using repeated trials of First Nations Australian children’s instructive games; for example, Gorri from all parts of Australia, to calculate the probabilities of winning and not winning",
+      "hint": "Use repeated trials of First Nations Australian children’s instructive games."
     },
     "qualitySchema": "production-v1"
   }

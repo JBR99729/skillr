@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "recognise that the gradient of a line is calculated using the gradient of a line segment on that line",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For show that gradient is constant, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a guided example, For show that gradient is constant, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes recognise that the gradient of a line is calculated using the gradient of a line segment on that line?",
+    "audioPrompt": "Which statement correctly describes recognise that the gradient of a line is calculated using the gradient of a line segment on that line?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Recognise that the gradient of a line is calculated using the gradient of a line segment on that line. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "recognising that the gradient of a line is calculated using the gradient of a line segment on that line and is independent of which 2 distinct points on the line are used for this calculation",
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions recognise that the gradient of a line is calculated using the gradient of a line segment on that line but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Recognise that the gradient of a line is calculated using the gradient of a line segment on that line. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Recognise that the gradient of a line is calculated using the gradient of a line segment on that line.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recognising that the gradient of a line is calculated using the gradient of a line segment on that line and is independent of which 2 distinct points on the line are used for this calculation\nHint: Recognise that the gradient of a line is calculated using the gradient of a line segment on that line.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Recognise that the gradient of a line is calculated using the gradient of a line segment on that line. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that the gradient of a line is calculated using the gradient of a line segment on that line.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that the gradient of a line is calculated using the gradient of a line segment on that line and is independent of which 2 distinct points on the line are used for this calculation",
+      "hint": "Recognise that the gradient of a line is calculated using the gradient of a line segment on that line."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For connect parallel and perpendicular gradients, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a comparison task, For connect parallel and perpendicular gradients, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient?",
+    "audioPrompt": "Which statement correctly describes use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The coordinate geometry model is copied without interpretation",
+      "using digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient and that the relationship between the gradients of pairs of perpendicular lines is that their product is (-1)",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient and that the relationship between the gradients of pairs of perpendicular lines is that their product is (-1)\nHint: Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient and that the relationship between the gradients of pairs of perpendicular lines is that their product is (-1)",
+      "hint": "Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use pythagoras theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For derive the distance formula, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During an error analysis, For derive the distance formula, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes use pythagoras’ theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates?",
+    "audioPrompt": "Which statement correctly describes use pythagoras’ theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions use pythagoras’ theorem to establish the distance between 2 points in the cartesian plane and applying this using horizontal and vertical distances and coordinates but does not justify the relationship",
-      "Use the model evidence: Use Pythagoras’ theorem to establish the distance between 2 points in the Cartesian plane and applying this using horizontal and vertical distances and coordinates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using Pythagoras’ theorem to establish the distance between 2 points in the Cartesian plane and applying this using horizontal and vertical distances and coordinates",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use Pythagoras’ theorem to establish the distance between 2 points in the Cartesian plane and applying this using horizontal and vertical distances and coordinates. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use Pythagoras’ theorem to establish the distance between 2 points in the Cartesian plane and applying this using horizontal and vertical distances and coordinates.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using Pythagoras’ theorem to establish the distance between 2 points in the Cartesian plane and applying this using horizontal and vertical distances and coordinates\nHint: Use Pythagoras’ theorem to establish the distance between 2 points in the Cartesian plane and applying this using horizontal and vertical distances and coordinates.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use Pythagoras’ theorem to establish the distance between 2 points in the Cartesian plane and applying this using horizontal and vertical distances and coordinates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use Pythagoras’ theorem to establish the distance between 2 points in the Cartesian plane and applying this using horizontal and vertical distances and coordinates.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using Pythagoras’ theorem to establish the distance between 2 points in the Cartesian plane and applying this using horizontal and vertical distances and coordinates",
+      "hint": "Use Pythagoras’ theorem to establish the distance between 2 points in the Cartesian plane and applying this using horizontal and vertical distances and coordinates."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For find midpoint and gradient, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a model interpretation, For find midpoint and gradient, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points?",
+    "audioPrompt": "Which statement correctly describes explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points\nHint: Explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points",
+      "hint": "Explore graphical and algebraic techniques for finding the midpoint and gradient of the line segment between 2 points."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use dynamic graphing software and superimposed images",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For interpret gradient as a rate, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an evidence check, For interpret gradient as a rate, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes use dynamic graphing software and superimposed images?",
+    "audioPrompt": "Which statement correctly describes use dynamic graphing software and superimposed images?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Use dynamic graphing software and superimposed images. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions use dynamic graphing software and superimposed images but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "using dynamic graphing software and superimposed images; for example, playground equipment, ramps and escalators, to investigate gradients in context and their relationship to rule of a linear function, and interpret gradient as a constant rate of change in linear modelling contexts",
+      "The coordinate geometry model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Use dynamic graphing software and superimposed images. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use dynamic graphing software and superimposed images.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using dynamic graphing software and superimposed images; for example, playground equipment, ramps and escalators, to investigate gradients in context and their relationship to rule of a linear function, and interpret gradient as a constant rate of change in linear modelling contexts\nHint: Use dynamic graphing software and superimposed images.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use dynamic graphing software and superimposed images. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use dynamic graphing software and superimposed images.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using dynamic graphing software and superimposed images; for example, playground equipment, ramps and escalators, to investigate gradients in context and their relationship to rule of a linear function, and interpret gradient as a constant rate of change in linear modelling contexts",
+      "hint": "Use dynamic graphing software and superimposed images."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For see coordinates inside navigation algorithms, which test case could expose an error in the steps",
-    "audioPrompt": "During a transfer problem, For see coordinates inside navigation algorithms, which test case could expose an error in the steps",
+    "question": "Which statement correctly describes explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms?",
+    "audioPrompt": "Which statement correctly describes explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: Object detection and navigation by autonomous vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "investigating how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms; for example, object detection and navigation by autonomous vehicles",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Object detection and navigation by autonomous vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Object detection and navigation by autonomous vehicles.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms; for example, object detection and navigation by autonomous vehicles\nHint: Explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Object detection and navigation by autonomous vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Object detection and navigation by autonomous vehicles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms; for example, object detection and navigation by autonomous vehicles",
+      "hint": "Explore how coordinate geometry and aspects of linear algebra play a fundamental role in machine learning and predictive algorithms."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "recognise that the gradient of a line is calculated using the gradient of a line segment on that line",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For show that gradient is constant, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a peer explanation, For show that gradient is constant, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of recognise that the gradient of a line is calculated using the gradient of a line segment on that line?",
+    "audioPrompt": "Which statement gives a valid example of recognise that the gradient of a line is calculated using the gradient of a line segment on that line?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions recognise that the gradient of a line is calculated using the gradient of a line segment on that line but does not justify the relationship",
-      "Use the model evidence: Recognise that the gradient of a line is calculated using the gradient of a line segment on that line. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "recognising that the gradient of a line is calculated using the gradient of a line segment on that line and is independent of which 2 distinct points on the line are used for this calculation",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Recognise that the gradient of a line is calculated using the gradient of a line segment on that line. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Recognise that the gradient of a line is calculated using the gradient of a line segment on that line.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recognising that the gradient of a line is calculated using the gradient of a line segment on that line and is independent of which 2 distinct points on the line are used for this calculation\nHint: Recognise that the gradient of a line is calculated using the gradient of a line segment on that line.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Recognise that the gradient of a line is calculated using the gradient of a line segment on that line. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that the gradient of a line is calculated using the gradient of a line segment on that line.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that the gradient of a line is calculated using the gradient of a line segment on that line and is independent of which 2 distinct points on the line are used for this calculation",
+      "hint": "Recognise that the gradient of a line is calculated using the gradient of a line segment on that line."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For connect parallel and perpendicular gradients, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an independent review, For connect parallel and perpendicular gradients, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient?",
+    "audioPrompt": "Which statement gives a valid example of use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions use digital tools and transformations to illustrate that parallel lines in the cartesian plane have the same gradient but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The coordinate geometry model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient and that the relationship between the gradients of pairs of perpendicular lines is that their product is (-1)"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient and that the relationship between the gradients of pairs of perpendicular lines is that their product is (-1)\nHint: Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient and that the relationship between the gradients of pairs of perpendicular lines is that their product is (-1)",
+      "hint": "Use digital tools and transformations to illustrate that parallel lines in the Cartesian plane have the same gradient."
     },
     "qualitySchema": "production-v1"
   }

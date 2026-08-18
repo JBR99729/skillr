@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how early hot dense universe helps make sense of the major components of the universe using appropriate scientific",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how early hot dense universe helps make sense of the major components of the universe using appropriate scientific",
+    "question": "Which statement correctly describes use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: The universe has changed from an early hot, dense state.",
+      "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years",
       "The Big Bang was an explosion at one location",
-      "Use an expanding-space model with no privileged centre on the surface",
-      "A response that mentions use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: The universe has changed from an early hot, dense state.\nHint: Use an expanding-space model with no privileged centre on the surface.",
+    "explanation": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years\nHint: Use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: The universe has changed from an early hot, dense state.",
-      "hint": "Use an expanding-space model with no privileged centre on the surface."
+      "summary": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years",
+      "hint": "Use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how expansion helps make sense of a timeline to show major changes in the universe",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how expansion helps make sense of a timeline to show major changes in the universe",
+    "question": "Which statement correctly describes use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A scientific theory is an untested guess",
-      "The response should use the displayed example and connect it to this idea: Expansion, cosmic microwave background radiation and light-element abundance support the model.",
-      "Link the model to redshift, background radiation and element-abundance evidence",
-      "A response that mentions use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "constructing a timeline to show major changes in the universe which are thought to have occurred from the Big Bang until the formation of the major components such as stars and galaxies",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Expansion, cosmic microwave background radiation and light-element abundance support the model.\nHint: Link the model to redshift, background radiation and element-abundance evidence.",
+    "explanation": "constructing a timeline to show major changes in the universe which are thought to have occurred from the Big Bang until the formation of the major components such as stars and galaxies\nHint: Use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Expansion, cosmic microwave background radiation and light-element abundance support the model.",
-      "hint": "Link the model to redshift, background radiation and element-abundance evidence."
+      "summary": "constructing a timeline to show major changes in the universe which are thought to have occurred from the Big Bang until the formation of the major components such as stars and galaxies",
+      "hint": "Use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how stars light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how galaxy and star formation helps make sense of how stars’ light spectra and brightness is used",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how galaxy and star formation helps make sense of how stars’ light spectra and brightness is used",
+    "question": "Which statement correctly describes use how stars’ light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how stars’ light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The Big Bang was an explosion at one location",
-      "Use an expanding-space model with no privileged centre on the surface",
-      "The response should use the displayed example and connect it to this idea: Models and technologies connect observations to cosmic history.",
-      "A response that mentions use how stars’ light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "examining how stars’ light spectra and brightness is used to identify compositional elements of stars, their movements and their distances from Earth",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Models and technologies connect observations to cosmic history.\nHint: Use an expanding-space model with no privileged centre on the surface.",
+    "explanation": "examining how stars’ light spectra and brightness is used to identify compositional elements of stars, their movements and their distances from Earth\nHint: Use how stars’ light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Models and technologies connect observations to cosmic history.",
-      "hint": "Use an expanding-space model with no privileged centre on the surface."
+      "summary": "examining how stars’ light spectra and brightness is used to identify compositional elements of stars, their movements and their distances from Earth",
+      "hint": "Use how stars’ light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how redshift helps make sense of how each different type of evidence",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how redshift helps make sense of how each different type of evidence",
+    "question": "Which statement correctly describes use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A scientific theory is an untested guess",
-      "Link the model to redshift, background radiation and element-abundance evidence",
-      "A response that mentions use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: The universe has changed from an early hot, dense state."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "explaining how each different type of evidence, such as cosmic microwave background radiation, red or blue shift of galaxies, Edwin Hubble’s observations and proportion of matter in the universe, provides support for the acceptance of the big bang theory"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: The universe has changed from an early hot, dense state.\nHint: Link the model to redshift, background radiation and element-abundance evidence.",
+    "explanation": "explaining how each different type of evidence, such as cosmic microwave background radiation, red or blue shift of galaxies, Edwin Hubble’s observations and proportion of matter in the universe, provides support for the acceptance of the big bang theory\nHint: Use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: The universe has changed from an early hot, dense state.",
-      "hint": "Link the model to redshift, background radiation and element-abundance evidence."
+      "summary": "explaining how each different type of evidence, such as cosmic microwave background radiation, red or blue shift of galaxies, Edwin Hubble’s observations and proportion of matter in the universe, provides support for the acceptance of the big bang theory",
+      "hint": "Use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use first nations australians knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how cosmic microwave background helps make sense of first nations australians’ knowledges of celestial bodies and explanations",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how cosmic microwave background helps make sense of first nations australians’ knowledges of celestial bodies and explanations",
+    "question": "Which statement correctly describes use first nations australians’ knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use first nations australians’ knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Expansion, cosmic microwave background radiation and light-element abundance support the model.",
+      "researching First Nations Australians’ knowledges of celestial bodies and explanations of the origin of the universe",
       "The Big Bang was an explosion at one location",
-      "Use an expanding-space model with no privileged centre on the surface",
-      "A response that mentions use first nations australians’ knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Expansion, cosmic microwave background radiation and light-element abundance support the model.\nHint: Use an expanding-space model with no privileged centre on the surface.",
+    "explanation": "researching First Nations Australians’ knowledges of celestial bodies and explanations of the origin of the universe\nHint: Use First Nations Australians’ knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Expansion, cosmic microwave background radiation and light-element abundance support the model.",
-      "hint": "Use an expanding-space model with no privileged centre on the surface."
+      "summary": "researching First Nations Australians’ knowledges of celestial bodies and explanations of the origin of the universe",
+      "hint": "Use First Nations Australians’ knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how early hot dense universe helps make sense of the different technologies used to collect astronomical data",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how early hot dense universe helps make sense of the different technologies used to collect astronomical data",
+    "question": "Which statement correctly describes use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A scientific theory is an untested guess",
-      "The response should use the displayed example and connect it to this idea: Models and technologies connect observations to cosmic history.",
-      "Link the model to redshift, background radiation and element-abundance evidence",
-      "A response that mentions use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "identifying the different technologies used to collect astronomical data and the types of data collected",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Models and technologies connect observations to cosmic history.\nHint: Link the model to redshift, background radiation and element-abundance evidence.",
+    "explanation": "identifying the different technologies used to collect astronomical data and the types of data collected\nHint: Use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Models and technologies connect observations to cosmic history.",
-      "hint": "Link the model to redshift, background radiation and element-abundance evidence."
+      "summary": "identifying the different technologies used to collect astronomical data and the types of data collected",
+      "hint": "Use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use recent advances in astronomy to make the role of expansion visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how expansion helps make sense of recent advances in astronomy",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how expansion helps make sense of recent advances in astronomy",
+    "question": "Which statement correctly describes use recent advances in astronomy, to make the role of expansion visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use recent advances in astronomy, to make the role of expansion visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The Big Bang was an explosion at one location",
-      "Use an expanding-space model with no privileged centre on the surface",
-      "The response should use the displayed example and connect it to this idea: The universe has changed from an early hot, dense state.",
-      "A response that mentions use recent advances in astronomy, to make the role of expansion visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "exploring recent advances in astronomy, including the Australian Square Kilometre Array Pathfinder, and astrophysics, such as the discovery of gravitational waves, dark matter and dark energy; and identifying new knowledge which has emerged",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: The universe has changed from an early hot, dense state.\nHint: Use an expanding-space model with no privileged centre on the surface.",
+    "explanation": "exploring recent advances in astronomy, including the Australian Square Kilometre Array Pathfinder, and astrophysics, such as the discovery of gravitational waves, dark matter and dark energy; and identifying new knowledge which has emerged\nHint: Use recent advances in astronomy, to make the role of expansion visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: The universe has changed from an early hot, dense state.",
-      "hint": "Use an expanding-space model with no privileged centre on the surface."
+      "summary": "exploring recent advances in astronomy, including the Australian Square Kilometre Array Pathfinder, and astrophysics, such as the discovery of gravitational waves, dark matter and dark energy; and identifying new knowledge which has emerged",
+      "hint": "Use recent advances in astronomy, to make the role of expansion visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, Use the central model to explain evidence for an expanding universe in three linked sentences",
-    "audioPrompt": "During an independent review, Use the central model to explain evidence for an expanding universe in three linked sentences",
+    "question": "Which statement gives a valid example of use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The Big Bang was an explosion at one location",
       "A scientific theory is an untested guess",
-      "Link the model to redshift, background radiation and element-abundance evidence",
-      "The universe has changed from an early hot, dense state. Expansion, cosmic microwave background radiation and light-element abundance support the model. Models and technologies connect observations to cosmic history."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years"
     ],
     "correct": 3,
-    "explanation": "The universe has changed from an early hot, dense state. Expansion, cosmic microwave background radiation and light-element abundance support the model. Models and technologies connect observations to cosmic history.\nHint: Use an expanding-space model with no privileged centre on the surface.",
+    "explanation": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years\nHint: Use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The universe has changed from an early hot, dense state. Expansion, cosmic microwave background radiation and light-element abundance support the model. Models and technologies connect observations to cosmic history.",
-      "hint": "Use an expanding-space model with no privileged centre on the surface."
+      "summary": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years",
+      "hint": "Use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

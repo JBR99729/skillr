@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explore compliance with building codes and standards in design and construction such as for escalators in shopping centres",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For check a design against standards, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For check a design against standards, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres?",
+    "audioPrompt": "Which description correctly applies explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘For escalators in shopping centres.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres\nHint: Explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘For escalators in shopping centres.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres",
+      "hint": "Explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore how artificial intelligence image generators use proportion and scaling techniques such as aspect ratio preservation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation?",
+    "audioPrompt": "Which description correctly applies explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene\nHint: Explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene",
+      "hint": "Explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use plans and elevation drawings to investigate making changes to building designs employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For read plans and elevations, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For read plans and elevations, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes?",
+    "audioPrompt": "Which response correctly uses use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes but does not justify the relationship",
-      "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The proportion and scaling models model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes\nHint: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
+      "hint": "Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "analyse and applying scale and ratios in situations such as production prototypes and 3d printing",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For scale a production prototype, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For scale a production prototype, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses analyse and applying scale and ratios in situations such as production prototypes and 3d printing?",
+    "audioPrompt": "Which response correctly uses analyse and applying scale and ratios in situations such as production prototypes and 3d printing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions analyse and applying scale and ratios in situations such as production prototypes and 3d printing but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Using a 3D printer to produce scaled versions of actual objects.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects\nHint: Analyse and applying scale and ratios in situations such as production prototypes and 3D printing.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Using a 3D printer to produce scaled versions of actual objects. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Using a 3D printer to produce scaled versions of actual objects.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "analysing and applying scale and ratios in situations such as production prototypes and 3D printing; for example, using a 3D printer to produce scaled versions of actual objects",
+      "hint": "Analyse and applying scale and ratios in situations such as production prototypes and 3D printing."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "estimate the scale of an object such as a toy car by measuring a linear dimension and using a typical car dimension to work out the scale factor",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For estimate an object's scale, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For estimate an object's scale, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor?",
+    "audioPrompt": "Which response correctly uses estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor\nHint: Estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "estimating the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor",
+      "hint": "Estimate the scale of an object, such as a toy car, by measuring a linear dimension and using a typical car dimension to work out the scale factor."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "explore compliance with building codes and standards in design and construction such as for escalators in shopping centres",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For check a design against standards, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For check a design against standards, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres?",
+    "audioPrompt": "Which response correctly uses explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The proportion and scaling models model is copied without interpretation",
+      "investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘For escalators in shopping centres.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres\nHint: Explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: For escalators in shopping centres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘For escalators in shopping centres.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating compliance with building codes and standards in design and construction, such as for escalators in shopping centres",
+      "hint": "Explore compliance with building codes and standards in design and construction, such as for escalators in shopping centres."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "explore how artificial intelligence image generators use proportion and scaling techniques such as aspect ratio preservation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For preserve aspect ratio in generated images, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation?",
+    "audioPrompt": "Which response correctly uses explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation but does not justify the relationship",
-      "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "investigating how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene\nHint: Explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation, to ensure that the generated content adheres to realistic visual principles and maintains appropriate relationships between objects and elements within the scene",
+      "hint": "Explore how artificial intelligence image generators use proportion and scaling techniques, such as aspect ratio preservation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use plans and elevation drawings to investigate making changes to building designs employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For read plans and elevations, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For read plans and elevations, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes?",
+    "audioPrompt": "Which interpretation is accurate for use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes\nHint: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes",
+      "hint": "Use plans and elevation drawings to investigate making changes to building designs, employing appropriate scales and converting to actual measurements within the context to make decisions about changes."
     },
     "qualitySchema": "production-v1"
   }

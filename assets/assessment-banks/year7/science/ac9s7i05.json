@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "calculate_a_mean",
-    "question": "During a guided example, which statement correctly explains trend?",
-    "audio_prompt": "During a guided example, which statement correctly explains trend?",
+    "question": "Which statement correctly explains trend in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which statement correctly explains trend in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "describe_a_trend",
-    "question": "During a comparison task, which statement correctly explains anomaly?",
-    "audio_prompt": "During a comparison task, which statement correctly explains anomaly?",
+    "question": "Which description is accurate for anomaly in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which description is accurate for anomaly in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "investigate_anomaly",
-    "question": "During an error analysis, which statement correctly explains data processing?",
-    "audio_prompt": "During an error analysis, which statement correctly explains data processing?",
+    "question": "Which statement gives an example of data processing in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which statement gives an example of data processing in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "quantify_relationship",
-    "question": "During a model interpretation, which response best demonstrates quantify relationship in analysing patterns, trends and relationships?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates quantify relationship in analysing patterns, trends and relationships?",
+    "question": "What is important when using trend in analysing patterns, trends and relationships?",
+    "audio_prompt": "What is important when using trend in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "write_a_limited_conclusion",
-    "question": "During an evidence check, which response best demonstrates write a limited conclusion in analysing patterns, trends and relationships?",
-    "audio_prompt": "During an evidence check, which response best demonstrates write a limited conclusion in analysing patterns, trends and relationships?",
+    "question": "Which statement correctly identifies anomaly in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which statement correctly identifies anomaly in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "calculate_a_mean",
-    "question": "During a transfer problem, which response best demonstrates calculate a mean in analysing patterns, trends and relationships?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates calculate a mean in analysing patterns, trends and relationships?",
+    "question": "Which choice best describes data processing in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which choice best describes data processing in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "describe_a_trend",
-    "question": "During a peer explanation, which response best demonstrates describe a trend in analysing patterns, trends and relationships?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates describe a trend in analysing patterns, trends and relationships?",
+    "question": "What does correct use require for trend in analysing patterns, trends and relationships?",
+    "audio_prompt": "What does correct use require for trend in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "investigate_anomaly",
-    "question": "During an independent review, which response best demonstrates investigate anomaly in analysing patterns, trends and relationships?",
-    "audio_prompt": "During an independent review, which response best demonstrates investigate anomaly in analysing patterns, trends and relationships?",
+    "question": "Which statement is true about anomaly in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which statement is true about anomaly in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "quantify_relationship",
-    "question": "During a fresh case study, which response best demonstrates quantify relationship in analysing patterns, trends and relationships?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates quantify relationship in analysing patterns, trends and relationships?",
+    "question": "Which response correctly applies quantify relationship in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which response correctly applies quantify relationship in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "write_a_limited_conclusion",
-    "question": "During an unfamiliar representation, which response best demonstrates write a limited conclusion in analysing patterns, trends and relationships?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates write a limited conclusion in analysing patterns, trends and relationships?",
+    "question": "Which response shows correct use of write a limited conclusion in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which response shows correct use of write a limited conclusion in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "calculate_a_mean",
-    "question": "During a critical response, which response best demonstrates calculate a mean in analysing patterns, trends and relationships?",
-    "audio_prompt": "During a critical response, which response best demonstrates calculate a mean in analysing patterns, trends and relationships?",
+    "question": "Which interpretation is accurate for calculate a mean in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which interpretation is accurate for calculate a mean in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "describe_a_trend",
-    "question": "During a worked solution audit, which response best demonstrates describe a trend in analysing patterns, trends and relationships?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates describe a trend in analysing patterns, trends and relationships?",
+    "question": "Which choice demonstrates describe a trend in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which choice demonstrates describe a trend in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "investigate_anomaly",
-    "question": "During a source evaluation, which response best demonstrates investigate anomaly in analysing patterns, trends and relationships?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates investigate anomaly in analysing patterns, trends and relationships?",
+    "question": "What should be checked when applying investigate anomaly in analysing patterns, trends and relationships?",
+    "audio_prompt": "What should be checked when applying investigate anomaly in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "quantify_relationship",
-    "question": "During a multi-step application, which response best demonstrates quantify relationship in analysing patterns, trends and relationships?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates quantify relationship in analysing patterns, trends and relationships?",
+    "question": "Which response best uses quantify relationship in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which response best uses quantify relationship in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "write_a_limited_conclusion",
-    "question": "During a justification task, which response best demonstrates write a limited conclusion in analysing patterns, trends and relationships?",
-    "audio_prompt": "During a justification task, which response best demonstrates write a limited conclusion in analysing patterns, trends and relationships?",
+    "question": "Which claim is accurate about write a limited conclusion in analysing patterns, trends and relationships?",
+    "audio_prompt": "Which claim is accurate about write a limited conclusion in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "calculate_a_mean",
-    "question": "During a final synthesis, which response best demonstrates calculate a mean in analysing patterns, trends and relationships?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates calculate a mean in analysing patterns, trends and relationships?",
+    "question": "What is required to apply calculate a mean in analysing patterns, trends and relationships?",
+    "audio_prompt": "What is required to apply calculate a mean in analysing patterns, trends and relationships?",
     "visual": {
       "type": "none",
       "alt_text": ""

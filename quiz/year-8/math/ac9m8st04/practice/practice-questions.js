@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For plan a fair sample investigation, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a guided example, For plan a fair sample investigation, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
+    "audioPrompt": "Which statement correctly describes use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business\nHint: Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
+      "hint": "Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For make a cautious population inference, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a comparison task, For make a cautious population inference, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data?",
+    "audioPrompt": "Which statement correctly describes identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The statistical investigations and inference model is copied without interpretation",
+      "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population\nHint: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
+      "hint": "Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For report ethics, method and uncertainty, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an error analysis, For report ethics, method and uncertainty, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore progress in reconciliation between first nations australians and non-indigenous australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress?",
+    "audioPrompt": "Which statement correctly describes explore progress in reconciliation between first nations australians and non-indigenous australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore progress in reconciliation between first nations australians and non-indigenous australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress but does not justify the relationship",
-      "Use the model evidence: Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress\nHint: Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
+      "hint": "Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For plan a fair sample investigation, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a model interpretation, For plan a fair sample investigation, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
+    "audioPrompt": "Which statement gives a valid example of use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business\nHint: Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
+      "hint": "Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For make a cautious population inference, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an evidence check, For make a cautious population inference, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data?",
+    "audioPrompt": "Which statement gives a valid example of identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
+      "The statistical investigations and inference model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population\nHint: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
+      "hint": "Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For report ethics, method and uncertainty, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a transfer problem, For report ethics, method and uncertainty, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of explore progress in reconciliation between first nations australians and non-indigenous australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress?",
+    "audioPrompt": "Which statement gives a valid example of explore progress in reconciliation between first nations australians and non-indigenous australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore progress in reconciliation between first nations australians and non-indigenous australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress\nHint: Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
+      "hint": "Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For plan a fair sample investigation, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a peer explanation, For plan a fair sample investigation, what claim is supported, and what limitation remains",
+    "question": "What should you check when using use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
+    "audioPrompt": "What should you check when using use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business but does not justify the relationship",
-      "Use the model evidence: Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business\nHint: Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
+      "hint": "Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For make a cautious population inference, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an independent review, For make a cautious population inference, what claim is supported, and what limitation remains",
+    "question": "What should you check when using identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data?",
+    "audioPrompt": "What should you check when using identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The statistical investigations and inference model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population\nHint: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
+      "hint": "Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data."
     },
     "qualitySchema": "production-v1"
   }

@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For explain a quadrilateral result step by step, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For explain a quadrilateral result step by step, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers?",
+    "audioPrompt": "Which response correctly uses apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers\nHint: Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
+      "hint": "Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For split a quadrilateral with a diagonal, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For split a quadrilateral with a diagonal, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
+    "audioPrompt": "Which interpretation is accurate for establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: The sum of the exterior angles of a polygon is equal to a complete turn or 360°. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: The sum of the exterior angles of a polygon is equal to a complete turn or 360°. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The sum of the exterior angles of a polygon is equal to a complete turn or 360°.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°\nHint: Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The sum of the exterior angles of a polygon is equal to a complete turn or 360°. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The sum of the exterior angles of a polygon is equal to a complete turn or 360°.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
+      "hint": "Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For prove parallelogram properties, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For prove parallelogram properties, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry?",
+    "audioPrompt": "Which interpretation is accurate for identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry but does not justify the relationship",
-      "Use the model evidence: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The properties of quadrilaterals model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry\nHint: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
+      "hint": "Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For explain a quadrilateral result step by step, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For explain a quadrilateral result step by step, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers?",
+    "audioPrompt": "Which interpretation is accurate for apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers\nHint: Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
+      "hint": "Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For split a quadrilateral with a diagonal, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For split a quadrilateral with a diagonal, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "When would you use establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
+    "audioPrompt": "When would you use establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: The sum of the exterior angles of a polygon is equal to a complete turn or 360°. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: The sum of the exterior angles of a polygon is equal to a complete turn or 360°. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The sum of the exterior angles of a polygon is equal to a complete turn or 360°.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°\nHint: Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The sum of the exterior angles of a polygon is equal to a complete turn or 360°. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The sum of the exterior angles of a polygon is equal to a complete turn or 360°.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
+      "hint": "Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For prove parallelogram properties, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For prove parallelogram properties, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "When would you use identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry?",
+    "audioPrompt": "When would you use identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The properties of quadrilaterals model is copied without interpretation",
+      "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry\nHint: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
+      "hint": "Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For explain a quadrilateral result step by step, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For explain a quadrilateral result step by step, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "When would you use apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers?",
+    "audioPrompt": "When would you use apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers but does not justify the relationship",
-      "Use the model evidence: Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers\nHint: Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
+      "hint": "Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For split a quadrilateral with a diagonal, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For split a quadrilateral with a diagonal, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
+    "audioPrompt": "Which choice demonstrates establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: The sum of the exterior angles of a polygon is equal to a complete turn or 360°. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: The sum of the exterior angles of a polygon is equal to a complete turn or 360°. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The sum of the exterior angles of a polygon is equal to a complete turn or 360°.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°\nHint: Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The sum of the exterior angles of a polygon is equal to a complete turn or 360°. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The sum of the exterior angles of a polygon is equal to a complete turn or 360°.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
+      "hint": "Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof."
     },
     "qualitySchema": "production-v1"
   }

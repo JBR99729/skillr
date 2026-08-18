@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use mathematical modelling to provide solutions to problems involving surface area and volume",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For optimise storage under practical constraints, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For optimise storage under practical constraints, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use mathematical modelling to provide solutions to problems involving surface area and volume?",
+    "audioPrompt": "Which response correctly uses use mathematical modelling to provide solutions to problems involving surface area and volume?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions use mathematical modelling to provide solutions to problems involving surface area and volume but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "using mathematical modelling to provide solutions to problems involving surface area and volume; for example, ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property; determining whether to hire extra freezer space for the amount of ice cream required at a fundraising event for the school or community",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using mathematical modelling to provide solutions to problems involving surface area and volume; for example, ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property; determining whether to hire extra freezer space for the amount of ice cream required at a fundraising event for the school or community\nHint: Use mathematical modelling to provide solutions to problems involving surface area and volume.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using mathematical modelling to provide solutions to problems involving surface area and volume; for example, ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property; determining whether to hire extra freezer space for the amount of ice cream required at a fundraising event for the school or community",
+      "hint": "Use mathematical modelling to provide solutions to problems involving surface area and volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "determine the volumes and surface areas of composite solids formed from a range of right prisms and cylinders by considering the individual solids from which they are constructed",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For decompose a composite solid, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For decompose a composite solid, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed?",
+    "audioPrompt": "Which interpretation is accurate for determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "determining the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "determining the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed\nHint: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "determining the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed",
+      "hint": "Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "estimate the surface area and volume of composite objects in practical contexts",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For estimate a real composite object, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For estimate a real composite object, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for estimate the surface area and volume of composite objects in practical contexts?",
+    "audioPrompt": "Which interpretation is accurate for estimate the surface area and volume of composite objects in practical contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions estimate the surface area and volume of composite objects in practical contexts but does not justify the relationship",
-      "Use the model evidence: Estimate the surface area and volume of composite objects in practical contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The composite solids model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "estimating the surface area and volume of composite objects in practical contexts",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Estimate the surface area and volume of composite objects in practical contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Estimate the surface area and volume of composite objects in practical contexts.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "estimating the surface area and volume of composite objects in practical contexts\nHint: Estimate the surface area and volume of composite objects in practical contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Estimate the surface area and volume of composite objects in practical contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Estimate the surface area and volume of composite objects in practical contexts.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "estimating the surface area and volume of composite objects in practical contexts",
+      "hint": "Estimate the surface area and volume of composite objects in practical contexts."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use mathematical modelling to provide solutions to problems involving surface area and volume",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For optimise storage under practical constraints, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For optimise storage under practical constraints, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use mathematical modelling to provide solutions to problems involving surface area and volume?",
+    "audioPrompt": "Which interpretation is accurate for use mathematical modelling to provide solutions to problems involving surface area and volume?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions use mathematical modelling to provide solutions to problems involving surface area and volume but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using mathematical modelling to provide solutions to problems involving surface area and volume; for example, ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property; determining whether to hire extra freezer space for the amount of ice cream required at a fundraising event for the school or community"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using mathematical modelling to provide solutions to problems involving surface area and volume; for example, ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property; determining whether to hire extra freezer space for the amount of ice cream required at a fundraising event for the school or community\nHint: Use mathematical modelling to provide solutions to problems involving surface area and volume.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using mathematical modelling to provide solutions to problems involving surface area and volume; for example, ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property; determining whether to hire extra freezer space for the amount of ice cream required at a fundraising event for the school or community",
+      "hint": "Use mathematical modelling to provide solutions to problems involving surface area and volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "determine the volumes and surface areas of composite solids formed from a range of right prisms and cylinders by considering the individual solids from which they are constructed",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For decompose a composite solid, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For decompose a composite solid, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "When would you use determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed?",
+    "audioPrompt": "When would you use determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "determining the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "determining the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed\nHint: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "determining the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed",
+      "hint": "Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "estimate the surface area and volume of composite objects in practical contexts",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For estimate a real composite object, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For estimate a real composite object, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "When would you use estimate the surface area and volume of composite objects in practical contexts?",
+    "audioPrompt": "When would you use estimate the surface area and volume of composite objects in practical contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Estimate the surface area and volume of composite objects in practical contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions estimate the surface area and volume of composite objects in practical contexts but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The composite solids model is copied without interpretation",
+      "estimating the surface area and volume of composite objects in practical contexts",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Estimate the surface area and volume of composite objects in practical contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Estimate the surface area and volume of composite objects in practical contexts.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "estimating the surface area and volume of composite objects in practical contexts\nHint: Estimate the surface area and volume of composite objects in practical contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Estimate the surface area and volume of composite objects in practical contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Estimate the surface area and volume of composite objects in practical contexts.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "estimating the surface area and volume of composite objects in practical contexts",
+      "hint": "Estimate the surface area and volume of composite objects in practical contexts."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use mathematical modelling to provide solutions to problems involving surface area and volume",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For optimise storage under practical constraints, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For optimise storage under practical constraints, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "When would you use use mathematical modelling to provide solutions to problems involving surface area and volume?",
+    "audioPrompt": "When would you use use mathematical modelling to provide solutions to problems involving surface area and volume?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions use mathematical modelling to provide solutions to problems involving surface area and volume but does not justify the relationship",
-      "Use the model evidence: Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using mathematical modelling to provide solutions to problems involving surface area and volume; for example, ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property; determining whether to hire extra freezer space for the amount of ice cream required at a fundraising event for the school or community",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using mathematical modelling to provide solutions to problems involving surface area and volume; for example, ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property; determining whether to hire extra freezer space for the amount of ice cream required at a fundraising event for the school or community\nHint: Use mathematical modelling to provide solutions to problems involving surface area and volume.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using mathematical modelling to provide solutions to problems involving surface area and volume; for example, ascertaining the rainfall that can be saved from a roof top and the optimal shape and dimensions for rainwater storage based on where it will be located on a property; determining whether to hire extra freezer space for the amount of ice cream required at a fundraising event for the school or community",
+      "hint": "Use mathematical modelling to provide solutions to problems involving surface area and volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "determine the volumes and surface areas of composite solids formed from a range of right prisms and cylinders by considering the individual solids from which they are constructed",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For decompose a composite solid, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For decompose a composite solid, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed?",
+    "audioPrompt": "Which choice demonstrates determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "determining the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "determining the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed\nHint: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "determining the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed",
+      "hint": "Determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed."
     },
     "qualitySchema": "production-v1"
   }

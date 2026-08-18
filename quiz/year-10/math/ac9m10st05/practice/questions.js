@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "design statistical investigations that collect bivariate data over time through observation experiment or measurement graphing interpreting and analysing data",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For plan a bivariate investigation, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a guided example, For plan a bivariate investigation, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data?",
+    "audioPrompt": "Which statement correctly describes design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Design statistical investigations that collect bivariate data over time through observation, experiment or measurement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "designing statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data; and reporting within the context of the statistical investigation question",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Design statistical investigations that collect bivariate data over time through observation, experiment or measurement. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Design statistical investigations that collect bivariate data over time through observation, experiment or measurement.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "designing statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data; and reporting within the context of the statistical investigation question\nHint: Design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Design statistical investigations that collect bivariate data over time through observation, experiment or measurement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Design statistical investigations that collect bivariate data over time through observation, experiment or measurement.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data; and reporting within the context of the statistical investigation question",
+      "hint": "Design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore anecdotal claims including those concerning climate housing affordability and natural resources with consideration of data validity and limitations of interpolation or extrapolation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For test an anecdotal claim, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a comparison task, For test an anecdotal claim, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation?",
+    "audioPrompt": "Which statement correctly describes explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The bivariate statistical investigations model is copied without interpretation",
+      "investigating anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation\nHint: Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation",
+      "hint": "Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use a statistical investigation to address the question is there a relationship between vaccines and immunity from a virus",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For investigate vaccines and immunity, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an error analysis, For investigate vaccines and immunity, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes use a statistical investigation to address the question, “is there a relationship between vaccines and immunity from a virus”?",
+    "audioPrompt": "Which statement correctly describes use a statistical investigation to address the question, “is there a relationship between vaccines and immunity from a virus”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use a statistical investigation to address the question, “is there a relationship between vaccines and immunity from a virus” but does not justify the relationship",
-      "Use the model evidence: Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”\nHint: Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”",
+      "hint": "Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data discussing and reporting on associations",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For compare biodiversity before and after colonisation, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a model interpretation, For compare biodiversity before and after colonisation, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations?",
+    "audioPrompt": "Which statement correctly describes explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations\nHint: Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations",
+      "hint": "Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "design statistical investigations that collect bivariate data over time through observation experiment or measurement graphing interpreting and analysing data",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For plan a bivariate investigation, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an evidence check, For plan a bivariate investigation, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data?",
+    "audioPrompt": "Which statement gives a valid example of design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Design statistical investigations that collect bivariate data over time through observation, experiment or measurement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "designing statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data; and reporting within the context of the statistical investigation question",
+      "The bivariate statistical investigations model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Design statistical investigations that collect bivariate data over time through observation, experiment or measurement. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Design statistical investigations that collect bivariate data over time through observation, experiment or measurement.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "designing statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data; and reporting within the context of the statistical investigation question\nHint: Design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Design statistical investigations that collect bivariate data over time through observation, experiment or measurement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Design statistical investigations that collect bivariate data over time through observation, experiment or measurement.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "designing statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data; and reporting within the context of the statistical investigation question",
+      "hint": "Design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore anecdotal claims including those concerning climate housing affordability and natural resources with consideration of data validity and limitations of interpolation or extrapolation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For test an anecdotal claim, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a transfer problem, For test an anecdotal claim, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation?",
+    "audioPrompt": "Which statement gives a valid example of explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "investigating anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation\nHint: Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation",
+      "hint": "Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use a statistical investigation to address the question is there a relationship between vaccines and immunity from a virus",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For investigate vaccines and immunity, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a peer explanation, For investigate vaccines and immunity, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of use a statistical investigation to address the question, “is there a relationship between vaccines and immunity from a virus”?",
+    "audioPrompt": "Which statement gives a valid example of use a statistical investigation to address the question, “is there a relationship between vaccines and immunity from a virus”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use a statistical investigation to address the question, “is there a relationship between vaccines and immunity from a virus” but does not justify the relationship",
-      "Use the model evidence: Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "using a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”\nHint: Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”",
+      "hint": "Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data discussing and reporting on associations",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For compare biodiversity before and after colonisation, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an independent review, For compare biodiversity before and after colonisation, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations?",
+    "audioPrompt": "Which statement gives a valid example of explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The bivariate statistical investigations model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations\nHint: Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations",
+      "hint": "Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations."
     },
     "qualitySchema": "production-v1"
   }

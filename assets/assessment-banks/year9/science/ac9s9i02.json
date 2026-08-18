@@ -6,15 +6,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_what_is_meant_by_validity_and_reproducibility_and_how_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a guided example, In 20 seconds, explain how question helps make sense of what is meant by validity and reproducibility and how",
-    "audio_prompt": "During a guided example, In 20 seconds, explain how question helps make sense of what is meant by validity and reproducibility and how",
+    "question": "Which statement correctly describes use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
+        "text": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "Use calibration and design changes for bias; repeats mainly estimate random variation",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
+      "hint": "Use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_determining_the_reproducibility_of_a_field_investigation_using_survey_to_make_the_role_of_variables_and_controls_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a comparison task, In 20 seconds, explain how variables and controls helps make sense of determining the reproducibility of a field investigation using survey",
-    "audio_prompt": "During a comparison task, In 20 seconds, explain how variables and controls helps make sense of determining the reproducibility of a field investigation using survey",
+    "question": "Which statement correctly describes use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -55,22 +55,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
+        "text": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
         "is_correct": true
       },
       {
-        "text": "Check whether the evidence can actually answer the question",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
-      "hint": "Check whether the evidence can actually answer the question."
+      "summary": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
+      "hint": "Use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_possible_sources_of_error_in_methods_then_examining_if_to_make_the_role_of_sampling_and_repeats_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an error analysis, In 20 seconds, explain how sampling and repeats helps make sense of possible sources of error in methods then examining if",
-    "audio_prompt": "During an error analysis, In 20 seconds, explain how sampling and repeats helps make sense of possible sources of error in methods then examining if",
+    "question": "Which statement correctly describes use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -92,22 +92,22 @@
         "is_correct": false
       },
       {
-        "text": "Use calibration and design changes for bias; repeats mainly estimate random variation",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
+        "text": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
+      "hint": "Use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_the_potential_hazards_of_chemicals_or_biological_materials_to_make_the_role_of_risk_and_ethics_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a model interpretation, In 20 seconds, explain how risk and ethics helps make sense of the potential hazards of chemicals or biological materials",
-    "audio_prompt": "During a model interpretation, In 20 seconds, explain how risk and ethics helps make sense of the potential hazards of chemicals or biological materials",
+    "question": "Which statement correctly describes use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "Check whether the evidence can actually answer the question",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
+        "text": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
-      "hint": "Check whether the evidence can actually answer the question."
+      "summary": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed",
+      "hint": "Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -154,15 +154,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_the_ethical_and_social_issues_involved_in_the_care_to_make_the_role_of_reproducible_method_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an evidence check, In 20 seconds, explain how reproducible method helps make sense of the ethical and social issues involved in the care",
-    "audio_prompt": "During an evidence check, In 20 seconds, explain how reproducible method helps make sense of the ethical and social issues involved in the care",
+    "question": "Which statement correctly describes use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
+        "text": "discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
         "is_correct": true
       },
       {
@@ -170,18 +170,18 @@
         "is_correct": false
       },
       {
-        "text": "Use calibration and design changes for bias; repeats mainly estimate random variation",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
+      "hint": "Use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_first_nations_australians_heritage_laws_and_public_responsibilities_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a transfer problem, In 20 seconds, explain how question helps make sense of first nations australians’ heritage laws and public responsibilities",
-    "audio_prompt": "During a transfer problem, In 20 seconds, explain how question helps make sense of first nations australians’ heritage laws and public responsibilities",
+    "question": "Which statement correctly describes use first nations australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use first nations australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -203,22 +203,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
+        "text": "recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters",
         "is_correct": true
       },
       {
-        "text": "Check whether the evidence can actually answer the question",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use first nations australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "hint": "Check whether the evidence can actually answer the question."
+      "summary": "recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters",
+      "hint": "Use First Nations Australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_what_is_meant_by_validity_and_reproducibility_and_how_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a peer explanation, Use the central model to explain design valid, reproducible investigations in three linked sentences",
-    "audio_prompt": "During a peer explanation, Use the central model to explain design valid, reproducible investigations in three linked sentences",
+    "question": "Which statement gives a valid example of use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement gives a valid example of use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "Use calibration and design changes for bias; repeats mainly estimate random variation",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Validity depends on alignment and control of relevant variables. Reproducibility requires transparent procedures and useful sample sizes. Risk, ethics and Country/Place protocols can change or prevent a method.",
+        "text": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Validity depends on alignment and control of relevant variables. Reproducibility requires transparent procedures and useful sample sizes. Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
+      "hint": "Use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_determining_the_reproducibility_of_a_field_investigation_using_survey_to_make_the_role_of_variables_and_controls_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an independent review, In 20 seconds, explain how question helps make sense of what is meant by validity and reproducibility and how",
-    "audio_prompt": "During an independent review, In 20 seconds, explain how question helps make sense of what is meant by validity and reproducibility and how",
+    "question": "Which statement gives a valid example of use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement gives a valid example of use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Many repeats fix systematic bias",
-        "is_correct": false
-      },
-      {
         "text": "A detailed method is automatically valid",
         "is_correct": false
       },
       {
-        "text": "Check whether the evidence can actually answer the question",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
+      "hint": "Use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_possible_sources_of_error_in_methods_then_examining_if_to_make_the_role_of_sampling_and_repeats_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a fresh case study, In 20 seconds, explain how variables and controls helps make sense of determining the reproducibility of a field investigation using survey Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, In 20 seconds, explain how variables and controls helps make sense of determining the reproducibility of a field investigation using survey Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
+        "text": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
         "is_correct": true
-      },
-      {
-        "text": "A detailed method is automatically valid",
-        "is_correct": false
       },
       {
         "text": "Many repeats fix systematic bias",
         "is_correct": false
       },
       {
-        "text": "Use calibration and design changes for bias; repeats mainly estimate random variation",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
-      "hint": "Check whether the evidence can actually answer the question."
+      "summary": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
+      "hint": "Use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -339,34 +339,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_the_potential_hazards_of_chemicals_or_biological_materials_to_make_the_role_of_risk_and_ethics_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how sampling and repeats helps make sense of possible sources of error in methods then examining if Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how sampling and repeats helps make sense of possible sources of error in methods then examining if Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Many repeats fix systematic bias",
-        "is_correct": false
-      },
-      {
-        "text": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
-        "is_correct": true
-      },
-      {
         "text": "A detailed method is automatically valid",
         "is_correct": false
       },
       {
-        "text": "Check whether the evidence can actually answer the question",
+        "text": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed",
+      "hint": "Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_the_ethical_and_social_issues_involved_in_the_care_to_make_the_role_of_reproducible_method_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a critical response, In 20 seconds, explain how risk and ethics helps make sense of the potential hazards of chemicals or biological materials Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, In 20 seconds, explain how risk and ethics helps make sense of the potential hazards of chemicals or biological materials Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A detailed method is automatically valid",
-        "is_correct": false
-      },
-      {
         "text": "Many repeats fix systematic bias",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
         "is_correct": true
       },
       {
-        "text": "Use calibration and design changes for bias; repeats mainly estimate random variation",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
-      "hint": "Check whether the evidence can actually answer the question."
+      "summary": "discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
+      "hint": "Use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_first_nations_australians_heritage_laws_and_public_responsibilities_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a worked solution audit, In 20 seconds, explain how reproducible method helps make sense of the ethical and social issues involved in the care Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how reproducible method helps make sense of the ethical and social issues involved in the care Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use first nations australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use first nations australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Many repeats fix systematic bias",
-        "is_correct": false
-      },
-      {
         "text": "A detailed method is automatically valid",
         "is_correct": false
       },
       {
-        "text": "Check whether the evidence can actually answer the question",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters",
+      "hint": "Use First Nations Australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -450,34 +450,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_what_is_meant_by_validity_and_reproducibility_and_how_to_make_the_role_of_question_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a source evaluation, In 20 seconds, explain how question helps make sense of first nations australians’ heritage laws and public responsibilities Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, In 20 seconds, explain how question helps make sense of first nations australians’ heritage laws and public responsibilities Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
+        "text": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
         "is_correct": true
-      },
-      {
-        "text": "A detailed method is automatically valid",
-        "is_correct": false
       },
       {
         "text": "Many repeats fix systematic bias",
         "is_correct": false
       },
       {
-        "text": "Use calibration and design changes for bias; repeats mainly estimate random variation",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "hint": "Check whether the evidence can actually answer the question."
+      "summary": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
+      "hint": "Use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_determining_the_reproducibility_of_a_field_investigation_using_survey_to_make_the_role_of_variables_and_controls_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a multi-step application, Use the central model to explain design valid, reproducible investigations in three linked sentences Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, Use the central model to explain design valid, reproducible investigations in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Many repeats fix systematic bias",
-        "is_correct": false
-      },
-      {
-        "text": "Validity depends on alignment and control of relevant variables. Reproducibility requires transparent procedures and useful sample sizes. Risk, ethics and Country/Place protocols can change or prevent a method.",
-        "is_correct": true
-      },
-      {
         "text": "A detailed method is automatically valid",
         "is_correct": false
       },
       {
-        "text": "Check whether the evidence can actually answer the question",
+        "text": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Validity depends on alignment and control of relevant variables. Reproducibility requires transparent procedures and useful sample sizes. Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
+      "hint": "Use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_possible_sources_of_error_in_methods_then_examining_if_to_make_the_role_of_sampling_and_repeats_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a justification task, In 20 seconds, explain how question helps make sense of what is meant by validity and reproducibility and how Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, In 20 seconds, explain how question helps make sense of what is meant by validity and reproducibility and how Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -536,22 +536,22 @@
         "is_correct": false
       },
       {
-        "text": "Use calibration and design changes for bias; repeats mainly estimate random variation",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
+        "text": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
+      "hint": "Use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_the_potential_hazards_of_chemicals_or_biological_materials_to_make_the_role_of_risk_and_ethics_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a final synthesis, In 20 seconds, explain how variables and controls helps make sense of determining the reproducibility of a field investigation using survey Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, In 20 seconds, explain how variables and controls helps make sense of determining the reproducibility of a field investigation using survey Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "Check whether the evidence can actually answer the question",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
+        "text": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
-      "hint": "Check whether the evidence can actually answer the question."
+      "summary": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed",
+      "hint": "Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation."
     }
   }
 ]

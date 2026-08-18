@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which response correctly uses a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text?",
+    "audioPrompt": "Which response correctly uses a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story\nHint: A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story",
+      "hint": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text?",
+    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "reflecting on content by connecting and comparing information across and between texts",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "reflecting on content by connecting and comparing information across and between texts\nHint: A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "reflecting on content by connecting and comparing information across and between texts",
+      "hint": "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text?",
+    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness\nHint: A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness",
+      "hint": "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, Explain how one deliberate choice shapes meaning in use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring, questioning and inferring to interpret and evaluate ideas in texts Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, Explain how one deliberate choice shapes meaning in use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring, questioning and inferring to interpret and evaluate ideas in texts Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text?",
+    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story\nHint: A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story",
+      "hint": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "When would you use a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text?",
+    "audioPrompt": "When would you use a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "reflecting on content by connecting and comparing information across and between texts",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "reflecting on content by connecting and comparing information across and between texts\nHint: A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "reflecting on content by connecting and comparing information across and between texts",
+      "hint": "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "When would you use a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text?",
+    "audioPrompt": "When would you use a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness\nHint: A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness",
+      "hint": "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "When would you use a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text?",
+    "audioPrompt": "When would you use a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story\nHint: A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story",
+      "hint": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, Explain how one deliberate choice shapes meaning in use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring, questioning and inferring to interpret and evaluate ideas in texts Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, Explain how one deliberate choice shapes meaning in use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring, questioning and inferring to interpret and evaluate ideas in texts Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text?",
+    "audioPrompt": "Which choice demonstrates a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "reflecting on content by connecting and comparing information across and between texts"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "reflecting on content by connecting and comparing information across and between texts\nHint: A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "reflecting on content by connecting and comparing information across and between texts",
+      "hint": "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   }

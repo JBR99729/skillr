@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "describe_events_using_language_of_at_least_exclusive_or_a_or_b_but_not_both_inclusive_or_a_or_b_or_both_and_and",
-    "question": "During a guided example, For list every two-event combination, what changes, what stays invariant, and why",
-    "audio_prompt": "During a guided example, For list every two-event combination, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
+    "audio_prompt": "Which statement correctly describes describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "describing events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and” but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "describing events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”",
+      "hint": "Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_the_relation_pr_a_and_b_pr_a_and_not_b_pr_not_a_and_b_pr_not_a_and_not_b_1_to_calculate_probabilities_including_the_special_case_of_mutually_exclusive_events_where_pr_a",
-    "question": "During a comparison task, For build a two-way table, which pattern in the table supports the conclusion",
-    "audio_prompt": "During a comparison task, For build a two-way table, which pattern in the table supports the conclusion",
+    "question": "Which statement correctly describes use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
+    "audio_prompt": "Which statement correctly describes use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The representing two events model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using the relation Pr(A\\;and\\;B)+Pr(A\\;and\\;not\\;B)+Pr(not\\;A\\;and\\;B)+Pr(not\\;A\\;and\\;not\\;B)=\\;1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A\\;and\\;B)\\;=\\;0",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the relation Pr(A\\;and\\;B)+Pr(A\\;and\\;not\\;B)+Pr(not\\;A\\;and\\;B)+Pr(not\\;A\\;and\\;not\\;B)=\\;1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A\\;and\\;B)\\;=\\;0",
+      "hint": "Use the relation Pr(A and B)+Pr(A and not B)+Pr(not A and B)+Pr(not A and not B)= 1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_venn_diagrams_or_two_way_tables_to_demonstrate_the_difference_between_events_that_are_mutually_exclusive_such_as_whether_a_coin_toss_will_land_on_a_head_or_a_tail",
-    "question": "During an error analysis, For build a probability tree, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an error analysis, For build a probability tree, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
+    "audio_prompt": "Which statement correctly describes use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes",
+      "hint": "Use Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_first_nations_australian_children_s_instructive_games",
-    "question": "During a model interpretation, For use a venn diagram without double-counting, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a model interpretation, For use a venn diagram without double-counting, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes explore first nations australian children’s instructive games?",
+    "audio_prompt": "Which statement correctly describes explore first nations australian children’s instructive games?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore first nations australian children’s instructive games but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore First Nations Australian children’s instructive games. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "exploring First Nations Australian children’s instructive games; for example, Battendi from the Ngarrindjeri Peoples of Lake Murray and Lake Albert in southern Australia, applying possible combinations and relationships and calculating probabilities using two-way tables and Venn diagrams",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Explore First Nations Australian children’s instructive games. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore First Nations Australian children’s instructive games.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring First Nations Australian children’s instructive games; for example, Battendi from the Ngarrindjeri Peoples of Lake Murray and Lake Albert in southern Australia, applying possible combinations and relationships and calculating probabilities using two-way tables and Venn diagrams",
+      "hint": "Explore First Nations Australian children’s instructive games."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "describe_events_using_language_of_at_least_exclusive_or_a_or_b_but_not_both_inclusive_or_a_or_b_or_both_and_and",
-    "question": "During an evidence check, For list every two-event combination, what changes, what stays invariant, and why",
-    "audio_prompt": "During an evidence check, For list every two-event combination, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
+    "audio_prompt": "Which statement gives a valid example of describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "describing events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The representing two events model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and” but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "describing events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”",
+      "hint": "Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_the_relation_pr_a_and_b_pr_a_and_not_b_pr_not_a_and_b_pr_not_a_and_not_b_1_to_calculate_probabilities_including_the_special_case_of_mutually_exclusive_events_where_pr_a",
-    "question": "During a transfer problem, For build a two-way table, which pattern in the table supports the conclusion",
-    "audio_prompt": "During a transfer problem, For build a two-way table, which pattern in the table supports the conclusion",
+    "question": "Which statement gives a valid example of use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
+    "audio_prompt": "Which statement gives a valid example of use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using the relation Pr(A\\;and\\;B)+Pr(A\\;and\\;not\\;B)+Pr(not\\;A\\;and\\;B)+Pr(not\\;A\\;and\\;not\\;B)=\\;1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A\\;and\\;B)\\;=\\;0",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the relation Pr(A\\;and\\;B)+Pr(A\\;and\\;not\\;B)+Pr(not\\;A\\;and\\;B)+Pr(not\\;A\\;and\\;not\\;B)=\\;1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A\\;and\\;B)\\;=\\;0",
+      "hint": "Use the relation Pr(A and B)+Pr(A and not B)+Pr(not A and B)+Pr(not A and not B)= 1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_venn_diagrams_or_two_way_tables_to_demonstrate_the_difference_between_events_that_are_mutually_exclusive_such_as_whether_a_coin_toss_will_land_on_a_head_or_a_tail",
-    "question": "During a peer explanation, For build a probability tree, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During a peer explanation, For build a probability tree, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
+    "audio_prompt": "Which statement gives a valid example of use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes",
+      "hint": "Use Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_first_nations_australian_children_s_instructive_games",
-    "question": "During an independent review, For use a venn diagram without double-counting, which outcomes belong in the denominator, and why",
-    "audio_prompt": "During an independent review, For use a venn diagram without double-counting, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of explore first nations australian children’s instructive games?",
+    "audio_prompt": "Which statement gives a valid example of explore first nations australian children’s instructive games?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The representing two events model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore first nations australian children’s instructive games but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore First Nations Australian children’s instructive games. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "exploring First Nations Australian children’s instructive games; for example, Battendi from the Ngarrindjeri Peoples of Lake Murray and Lake Albert in southern Australia, applying possible combinations and relationships and calculating probabilities using two-way tables and Venn diagrams",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Explore First Nations Australian children’s instructive games. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore First Nations Australian children’s instructive games.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring First Nations Australian children’s instructive games; for example, Battendi from the Ngarrindjeri Peoples of Lake Murray and Lake Albert in southern Australia, applying possible combinations and relationships and calculating probabilities using two-way tables and Venn diagrams",
+      "hint": "Explore First Nations Australian children’s instructive games."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "describe_events_using_language_of_at_least_exclusive_or_a_or_b_but_not_both_inclusive_or_a_or_b_or_both_and_and",
-    "question": "During a fresh case study, For list every two-event combination, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For list every two-event combination, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
+    "audio_prompt": "Which response correctly uses describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "describing events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”",
         "is_correct": true
       },
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and” but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "describing events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”",
+      "hint": "Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_the_relation_pr_a_and_b_pr_a_and_not_b_pr_not_a_and_b_pr_not_a_and_not_b_1_to_calculate_probabilities_including_the_special_case_of_mutually_exclusive_events_where_pr_a",
-    "question": "During an unfamiliar representation, For build a two-way table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For build a two-way table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
+    "audio_prompt": "Which response correctly uses use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using the relation Pr(A\\;and\\;B)+Pr(A\\;and\\;not\\;B)+Pr(not\\;A\\;and\\;B)+Pr(not\\;A\\;and\\;not\\;B)=\\;1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A\\;and\\;B)\\;=\\;0",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the relation Pr(A\\;and\\;B)+Pr(A\\;and\\;not\\;B)+Pr(not\\;A\\;and\\;B)+Pr(not\\;A\\;and\\;not\\;B)=\\;1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A\\;and\\;B)\\;=\\;0",
+      "hint": "Use the relation Pr(A and B)+Pr(A and not B)+Pr(not A and B)+Pr(not A and not B)= 1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_venn_diagrams_or_two_way_tables_to_demonstrate_the_difference_between_events_that_are_mutually_exclusive_such_as_whether_a_coin_toss_will_land_on_a_head_or_a_tail",
-    "question": "During a critical response, For build a probability tree, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For build a probability tree, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
+    "audio_prompt": "Which response correctly uses use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The representing two events model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes",
+      "hint": "Use Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_first_nations_australian_children_s_instructive_games",
-    "question": "During a worked solution audit, For use a venn diagram without double-counting, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For use a venn diagram without double-counting, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore first nations australian children’s instructive games?",
+    "audio_prompt": "Which response correctly uses explore first nations australian children’s instructive games?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore first nations australian children’s instructive games but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore First Nations Australian children’s instructive games. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "exploring First Nations Australian children’s instructive games; for example, Battendi from the Ngarrindjeri Peoples of Lake Murray and Lake Albert in southern Australia, applying possible combinations and relationships and calculating probabilities using two-way tables and Venn diagrams",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Explore First Nations Australian children’s instructive games. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore First Nations Australian children’s instructive games.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring First Nations Australian children’s instructive games; for example, Battendi from the Ngarrindjeri Peoples of Lake Murray and Lake Albert in southern Australia, applying possible combinations and relationships and calculating probabilities using two-way tables and Venn diagrams",
+      "hint": "Explore First Nations Australian children’s instructive games."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "describe_events_using_language_of_at_least_exclusive_or_a_or_b_but_not_both_inclusive_or_a_or_b_or_both_and_and",
-    "question": "During a source evaluation, For list every two-event combination, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For list every two-event combination, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
+    "audio_prompt": "Which interpretation is accurate for describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "describing events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and” but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "describing events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”",
+      "hint": "Describe events using language of “at least”, exclusive “or” (A or B but not both), inclusive “or” (A or B or both) and “and”."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_the_relation_pr_a_and_b_pr_a_and_not_b_pr_not_a_and_b_pr_not_a_and_not_b_1_to_calculate_probabilities_including_the_special_case_of_mutually_exclusive_events_where_pr_a",
-    "question": "During a multi-step application, For build a two-way table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For build a two-way table, which pattern in the table supports the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
+    "audio_prompt": "Which interpretation is accurate for use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The representing two events model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using the relation Pr(A\\;and\\;B)+Pr(A\\;and\\;not\\;B)+Pr(not\\;A\\;and\\;B)+Pr(not\\;A\\;and\\;not\\;B)=\\;1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A\\;and\\;B)\\;=\\;0",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The four disjoint cells—A and B, A and not B, not A and B, neither—must total the whole sample space.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the relation Pr(A\\;and\\;B)+Pr(A\\;and\\;not\\;B)+Pr(not\\;A\\;and\\;B)+Pr(not\\;A\\;and\\;not\\;B)=\\;1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A\\;and\\;B)\\;=\\;0",
+      "hint": "Use the relation Pr(A and B)+Pr(A and not B)+Pr(not A and B)+Pr(not A and not B)= 1 to calculate probabilities, including the special case of mutually exclusive events where Pr(A."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_venn_diagrams_or_two_way_tables_to_demonstrate_the_difference_between_events_that_are_mutually_exclusive_such_as_whether_a_coin_toss_will_land_on_a_head_or_a_tail",
-    "question": "During a justification task, For build a probability tree, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For build a probability tree, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
+    "audio_prompt": "Which interpretation is accurate for use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The sample space or dependency changes without being noticed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail, or those that are not mutually exclusive, such as people who have blonde hair and people who have blue eyes",
+      "hint": "Use Venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_first_nations_australian_children_s_instructive_games",
-    "question": "During a final synthesis, For use a venn diagram without double-counting, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For use a venn diagram without double-counting, which outcomes belong in the denominator, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for explore first nations australian children’s instructive games?",
+    "audio_prompt": "Which interpretation is accurate for explore first nations australian children’s instructive games?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore first nations australian children’s instructive games but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore First Nations Australian children’s instructive games. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "exploring First Nations Australian children’s instructive games; for example, Battendi from the Ngarrindjeri Peoples of Lake Murray and Lake Albert in southern Australia, applying possible combinations and relationships and calculating probabilities using two-way tables and Venn diagrams",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Explore First Nations Australian children’s instructive games. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore First Nations Australian children’s instructive games.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring First Nations Australian children’s instructive games; for example, Battendi from the Ngarrindjeri Peoples of Lake Murray and Lake Albert in southern Australia, applying possible combinations and relationships and calculating probabilities using two-way tables and Venn diagrams",
+      "hint": "Explore First Nations Australian children’s instructive games."
     }
   }
 ]

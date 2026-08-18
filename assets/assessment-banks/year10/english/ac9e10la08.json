@@ -6,34 +6,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which statement correctly describes a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
-      },
-      {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
       },
       {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a comparison task, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts",
-    "audio_prompt": "During a comparison task, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts",
+    "question": "Which statement gives a valid example of a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which statement gives a valid example of a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
-      },
-      {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-        "is_correct": true
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
+    "question": "What should you check when using a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -117,34 +117,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a model interpretation, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts",
-    "audio_prompt": "During a model interpretation, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts",
+    "question": "Which statement best explains a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which statement best explains a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement shows correct use of a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which statement shows correct use of a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
-      },
-      {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
       },
       {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a transfer problem, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts",
-    "audio_prompt": "During a transfer problem, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts",
+    "question": "Which statement accurately identifies a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which statement accurately identifies a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
-      },
-      {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-        "is_correct": true
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -228,34 +228,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
-    "audio_prompt": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
+    "question": "What is important when using a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "What is important when using a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "english",
     "bank": "practice",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During an independent review, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts",
-    "audio_prompt": "During an independent review, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts",
+    "question": "Which statement is true about a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which statement is true about a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "What is the correct way to apply a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "What is the correct way to apply a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
-      },
-      {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
       },
       {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -339,34 +339,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During an unfamiliar representation, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts Which response provides the strongest evidence?",
+    "question": "Which description correctly applies a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which description correctly applies a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
-      },
-      {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-        "is_correct": true
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "Which response correctly uses a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which response correctly uses a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a worked solution audit, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which interpretation is accurate for a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -450,34 +450,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "When would you use a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "When would you use a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
-      },
-      {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
       },
       {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a multi-step application, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which choice demonstrates a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
-      },
-      {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-        "is_correct": true
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, Which choice is evidence, and what effect does it create for the audience Which response provides the strongest evidence?",
+    "question": "What does correct application require for a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "What does correct application require for a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student labels a feature but does not explain its effect or context",
-        "is_correct": false
-      },
-      {
         "text": "A feature name is enough to prove an interpretation",
         "is_correct": false
       },
       {
-        "text": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
       },
       {
-        "text": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A precise response names word choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   },
   {
@@ -561,34 +561,34 @@
     "subject": "english",
     "bank": "test",
     "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_the_meaning_of_an_increasing_range_of_technical_vocabulary_and_influence_how_an_audience_understands_the_text",
-    "question": "During a final synthesis, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, Explain how one deliberate choice shapes meaning in use an expanded technical and academic vocabulary for precision when writing academic texts Which response provides the strongest evidence?",
+    "question": "Which claim is accurate about a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
+    "audio_prompt": "Which claim is accurate about a writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The student retells content or names a technique without explaining why it matters",
-        "is_correct": false
-      },
-      {
         "text": "Effect means whether the student personally likes the text",
         "is_correct": false
       },
       {
-        "text": "Replace preference with an audience effect supported by the exact wording or structure",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "identifying the meaning of an increasing range of technical vocabulary; for example, using specific terms about rhythm such as “iambic pentameter” when analysing poetry",
+      "hint": "A writer or speaker can use word choice to shape identifying the meaning of an increasing range of technical vocabulary and influence how an audience understands the text."
     }
   }
 ]

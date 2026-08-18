@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, In 20 seconds, explain how method and data helps make sense of large data sets and statistical analysis in validating scientific Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, In 20 seconds, explain how method and data helps make sense of large data sets and statistical analysis in validating scientific Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
-      "Consensus is a vote detached from evidence",
+      "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists",
       "Peer review proves a paper is true",
-      "Treat it as one quality-control stage followed by replication and continuing scrutiny"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.\nHint: Connect consensus to independent, converging evidence and expert evaluation.",
+    "explanation": "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists\nHint: Use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
-      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+      "summary": "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists",
+      "hint": "Use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use how astronomer vera rubin s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how publication helps make sense of there are different climate change models used by scientists Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, In 20 seconds, explain how publication helps make sense of there are different climate change models used by scientists Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how astronomer vera rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how astronomer vera rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Peer review proves a paper is true",
-      "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
       "Consensus is a vote detached from evidence",
-      "Connect consensus to independent, converging evidence and expert evaluation"
+      "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.\nHint: Treat it as one quality-control stage followed by replication and continuing scrutiny.",
+    "explanation": "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated\nHint: Use how astronomer Vera Rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
-      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+      "summary": "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated",
+      "hint": "Use how astronomer Vera Rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use how the discovery of gravity waves validated einstein s theory to make the role of replication and refinement visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, In 20 seconds, explain how peer scrutiny helps make sense of how astronomer vera rubin’s discovery of the existence Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, In 20 seconds, explain how peer scrutiny helps make sense of how astronomer vera rubin’s discovery of the existence Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how the discovery of gravity waves validated einstein’s theory to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how the discovery of gravity waves validated einstein’s theory to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Consensus is a vote detached from evidence",
       "Peer review proves a paper is true",
-      "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
-      "Treat it as one quality-control stage followed by replication and continuing scrutiny"
+      "The method can be chosen without checking the values or conditions",
+      "examining how the discovery of gravity waves validated Einstein’s theory of general relativity and why this discovery did not occur until 100 years after the theory was proposed",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.\nHint: Connect consensus to independent, converging evidence and expert evaluation.",
+    "explanation": "examining how the discovery of gravity waves validated Einstein’s theory of general relativity and why this discovery did not occur until 100 years after the theory was proposed\nHint: Use how the discovery of gravity waves validated Einstein’s theory to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
-      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+      "summary": "examining how the discovery of gravity waves validated Einstein’s theory of general relativity and why this discovery did not occur until 100 years after the theory was proposed",
+      "hint": "Use how the discovery of gravity waves validated Einstein’s theory to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, In 20 seconds, explain how replication and refinement helps make sense of how the discovery of gravity waves validated einstein’s theory Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, In 20 seconds, explain how replication and refinement helps make sense of how the discovery of gravity waves validated einstein’s theory Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Peer review proves a paper is true",
       "Consensus is a vote detached from evidence",
-      "Connect consensus to independent, converging evidence and expert evaluation",
-      "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating how the development of the periodic table has been disputed and refined as science has progressed and new elements have been discovered"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.\nHint: Treat it as one quality-control stage followed by replication and continuing scrutiny.",
+    "explanation": "investigating how the development of the periodic table has been disputed and refined as science has progressed and new elements have been discovered\nHint: Use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
-      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+      "summary": "investigating how the development of the periodic table has been disputed and refined as science has progressed and new elements have been discovered",
+      "hint": "Use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use how the work of rosalind franklin was critical to make the role of research question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, In 20 seconds, explain how research question helps make sense of how the development of the periodic table has been Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, In 20 seconds, explain how research question helps make sense of how the development of the periodic table has been Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use how the work of rosalind franklin was critical to make the role of research question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use how the work of rosalind franklin was critical to make the role of research question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
-      "Consensus is a vote detached from evidence",
+      "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick",
       "Peer review proves a paper is true",
-      "Treat it as one quality-control stage followed by replication and continuing scrutiny"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.\nHint: Connect consensus to independent, converging evidence and expert evaluation.",
+    "explanation": "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick\nHint: Use how the work of Rosalind Franklin was critical to make the role of research question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Replication and converging evidence validate, refine or challenge knowledge.",
-      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+      "summary": "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick",
+      "hint": "Use how the work of Rosalind Franklin was critical to make the role of research question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, Use the central model to explain how science is validated and refined in three linked sentences Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, Use the central model to explain how science is validated and refined in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Peer review proves a paper is true",
-      "Publication makes methods and findings available for scrutiny. Peer review evaluates quality but does not guarantee correctness. Replication and converging evidence validate, refine or challenge knowledge.",
       "Consensus is a vote detached from evidence",
-      "Connect consensus to independent, converging evidence and expert evaluation"
+      "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Publication makes methods and findings available for scrutiny. Peer review evaluates quality but does not guarantee correctness. Replication and converging evidence validate, refine or challenge knowledge.\nHint: Treat it as one quality-control stage followed by replication and continuing scrutiny.",
+    "explanation": "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants\nHint: Use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Publication makes methods and findings available for scrutiny. Peer review evaluates quality but does not guarantee correctness. Replication and converging evidence validate, refine or challenge knowledge.",
-      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+      "summary": "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants",
+      "hint": "Use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, In 20 seconds, explain how research question helps make sense of how the work of rosalind franklin was critical Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, In 20 seconds, explain how research question helps make sense of how the work of rosalind franklin was critical Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Peer review proves a paper is true",
-      "Treat it as one quality-control stage followed by replication and continuing scrutiny",
-      "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
-      "A response that mentions use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.\nHint: Treat it as one quality-control stage followed by replication and continuing scrutiny.",
+    "explanation": "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists\nHint: Use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Publication makes methods and findings available for scrutiny.",
-      "hint": "Treat it as one quality-control stage followed by replication and continuing scrutiny."
+      "summary": "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists",
+      "hint": "Use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use how astronomer vera rubin s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, In 20 seconds, explain how method and data helps make sense of large data sets and statistical analysis in validating scientific Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, In 20 seconds, explain how method and data helps make sense of large data sets and statistical analysis in validating scientific Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use how astronomer vera rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use how astronomer vera rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Consensus is a vote detached from evidence",
-      "Connect consensus to independent, converging evidence and expert evaluation",
-      "A response that mentions use how astronomer vera rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.\nHint: Connect consensus to independent, converging evidence and expert evaluation.",
+    "explanation": "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated\nHint: Use how astronomer Vera Rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Peer review evaluates quality but does not guarantee correctness.",
-      "hint": "Connect consensus to independent, converging evidence and expert evaluation."
+      "summary": "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated",
+      "hint": "Use how astronomer Vera Rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

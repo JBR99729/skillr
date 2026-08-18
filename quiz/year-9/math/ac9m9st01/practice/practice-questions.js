@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For link media claims to survey evidence, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a guided example, For link media claims to survey evidence, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data?",
+    "audioPrompt": "Which statement correctly describes explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data\nHint: Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data",
+      "hint": "Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore the use of statistics in reports regarding the growth of australia s trade with other countries of the asia region",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For read statistics about international trade, what changes, what stays invariant, and why",
-    "audioPrompt": "During a comparison task, For read statistics about international trade, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes explore the use of statistics in reports regarding the growth of australia's trade with other countries of the asia region?",
+    "audioPrompt": "Which statement correctly describes explore the use of statistics in reports regarding the growth of australia's trade with other countries of the asia region?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore the use of statistics in reports regarding the growth of australia's trade with other countries of the asia region but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The reading survey reports model is copied without interpretation",
+      "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region\nHint: Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region",
+      "hint": "Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how natural language processing nlp tools can be used to help analyse large volumes of survey reports in digital media expediting various processes",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For evaluate automated survey analysis, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an error analysis, For evaluate automated survey analysis, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore how natural language processing (nlp) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes?",
+    "audioPrompt": "Which statement correctly describes explore how natural language processing (nlp) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore how natural language processing (nlp) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes but does not justify the relationship",
-      "Use the model evidence: Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools\nHint: Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools",
+      "hint": "Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore a range of data and its sources",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For compare international data sources, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a model interpretation, For compare international data sources, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore a range of data and its sources?",
+    "audioPrompt": "Which statement correctly describes explore a range of data and its sources?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore a range of data and its sources but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: The age of residents in Australia, Cambodia and Tonga. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating a range of data and its sources; for example, the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Singapore, Japan, South Korea and Timor-Leste"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: The age of residents in Australia, Cambodia and Tonga. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The age of residents in Australia, Cambodia and Tonga.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating a range of data and its sources; for example, the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Singapore, Japan, South Korea and Timor-Leste\nHint: Explore a range of data and its sources.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The age of residents in Australia, Cambodia and Tonga. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The age of residents in Australia, Cambodia and Tonga.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating a range of data and its sources; for example, the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Singapore, Japan, South Korea and Timor-Leste",
+      "hint": "Explore a range of data and its sources."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "analyse reports of public opinion surveys on environmental issues such as land clearing wind farms or single use plastics discussing methods of data collection",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For audit an environmental opinion poll, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an evidence check, For audit an environmental opinion poll, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes analyse reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection?",
+    "audioPrompt": "Which statement correctly describes analyse reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Land clearing, wind farms or single use plastics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions analyse reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "analysing reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection and the reasonableness of any inferences made",
+      "The reading survey reports model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Land clearing, wind farms or single use plastics. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Land clearing, wind farms or single use plastics.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "analysing reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection and the reasonableness of any inferences made\nHint: Analyse reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Land clearing, wind farms or single use plastics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Land clearing, wind farms or single use plastics.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "analysing reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection and the reasonableness of any inferences made",
+      "hint": "Analyse reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For link media claims to survey evidence, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a transfer problem, For link media claims to survey evidence, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data?",
+    "audioPrompt": "Which statement gives a valid example of explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data\nHint: Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data",
+      "hint": "Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore the use of statistics in reports regarding the growth of australia s trade with other countries of the asia region",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For read statistics about international trade, what changes, what stays invariant, and why",
-    "audioPrompt": "During a peer explanation, For read statistics about international trade, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of explore the use of statistics in reports regarding the growth of australia's trade with other countries of the asia region?",
+    "audioPrompt": "Which statement gives a valid example of explore the use of statistics in reports regarding the growth of australia's trade with other countries of the asia region?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore the use of statistics in reports regarding the growth of australia's trade with other countries of the asia region but does not justify the relationship",
-      "Use the model evidence: Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region\nHint: Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region",
+      "hint": "Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how natural language processing nlp tools can be used to help analyse large volumes of survey reports in digital media expediting various processes",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For evaluate automated survey analysis, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an independent review, For evaluate automated survey analysis, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of explore how natural language processing (nlp) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes?",
+    "audioPrompt": "Which statement gives a valid example of explore how natural language processing (nlp) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore how natural language processing (nlp) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The reading survey reports model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools\nHint: Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools",
+      "hint": "Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes."
     },
     "qualitySchema": "production-v1"
   }

@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "examine the degree of accuracy that different measurement instruments provide in a science laboratory such as a measuring cylinder compared with a pipette",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For match instrument precision to recorded values, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For match instrument precision to recorded values, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette?",
+    "audioPrompt": "Which response correctly uses examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation\nHint: Examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation",
+      "hint": "Examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "represent very large and small real numbers in scientific notation converting real numbers expressed in scientific notation into decimal form",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For write extreme measurements in scientific notation, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For write extreme measurements in scientific notation, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form?",
+    "audioPrompt": "Which interpretation is accurate for represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams\nHint: Represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams",
+      "hint": "Represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For calculate with scientific notation, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For calculate with scientific notation, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts?",
+    "audioPrompt": "Which interpretation is accurate for use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts but does not justify the relationship",
-      "Use the model evidence: Performing calculations involving extremely small numbers in scientific and other contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The scientific notation and scale model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "using knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts; for example, performing calculations involving extremely small numbers in scientific and other contexts",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Performing calculations involving extremely small numbers in scientific and other contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Performing calculations involving extremely small numbers in scientific and other contexts.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts; for example, performing calculations involving extremely small numbers in scientific and other contexts\nHint: Use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Performing calculations involving extremely small numbers in scientific and other contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Performing calculations involving extremely small numbers in scientific and other contexts.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts; for example, performing calculations involving extremely small numbers in scientific and other contexts",
+      "hint": "Use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "examine the degree of accuracy that different measurement instruments provide in a science laboratory such as a measuring cylinder compared with a pipette",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For match instrument precision to recorded values, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For match instrument precision to recorded values, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette?",
+    "audioPrompt": "Which interpretation is accurate for examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation\nHint: Examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation",
+      "hint": "Examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "represent very large and small real numbers in scientific notation converting real numbers expressed in scientific notation into decimal form",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For write extreme measurements in scientific notation, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For write extreme measurements in scientific notation, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "When would you use represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form?",
+    "audioPrompt": "When would you use represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams\nHint: Represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams",
+      "hint": "Represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For calculate with scientific notation, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For calculate with scientific notation, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "When would you use use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts?",
+    "audioPrompt": "When would you use use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Performing calculations involving extremely small numbers in scientific and other contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The scientific notation and scale model is copied without interpretation",
+      "using knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts; for example, performing calculations involving extremely small numbers in scientific and other contexts",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Performing calculations involving extremely small numbers in scientific and other contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Performing calculations involving extremely small numbers in scientific and other contexts.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts; for example, performing calculations involving extremely small numbers in scientific and other contexts\nHint: Use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Performing calculations involving extremely small numbers in scientific and other contexts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Performing calculations involving extremely small numbers in scientific and other contexts.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts; for example, performing calculations involving extremely small numbers in scientific and other contexts",
+      "hint": "Use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "examine the degree of accuracy that different measurement instruments provide in a science laboratory such as a measuring cylinder compared with a pipette",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For match instrument precision to recorded values, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For match instrument precision to recorded values, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "When would you use examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette?",
+    "audioPrompt": "When would you use examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette but does not justify the relationship",
-      "Use the model evidence: A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation\nHint: Examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "examining the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of accuracy using appropriate scientific notation",
+      "hint": "Examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "represent very large and small real numbers in scientific notation converting real numbers expressed in scientific notation into decimal form",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For write extreme measurements in scientific notation, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For write extreme measurements in scientific notation, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form?",
+    "audioPrompt": "Which choice demonstrates represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams\nHint: Represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The approximate geological age of the earth is 4.6× 10^9 years, the mass of a sugar molecule is 5.68× 10^(-21) grams.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "representing very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form; for example, the approximate geological age of the earth is 4.6\\times 10^9 years, the mass of a sugar molecule is 5.68\\times 10^{-21} grams",
+      "hint": "Represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form."
     },
     "qualitySchema": "production-v1"
   }

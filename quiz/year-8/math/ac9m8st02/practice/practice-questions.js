@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore different methods of sampling used to collect data considering the source and size of samples",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For compare random and non-random samples, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a guided example, For compare random and non-random samples, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore different methods of sampling used to collect data, considering the source and size of samples?",
+    "audioPrompt": "Which statement correctly describes explore different methods of sampling used to collect data, considering the source and size of samples?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "investigating different methods of sampling used to collect data, considering the source and size of samples",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore different methods of sampling used to collect data, considering the source and size of samples but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore different methods of sampling used to collect data, considering the source and size of samples.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating different methods of sampling used to collect data, considering the source and size of samples\nHint: Explore different methods of sampling used to collect data, considering the source and size of samples.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore different methods of sampling used to collect data, considering the source and size of samples.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating different methods of sampling used to collect data, considering the source and size of samples",
+      "hint": "Explore different methods of sampling used to collect data, considering the source and size of samples."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For describe centre, spread and shape, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a comparison task, For describe centre, spread and shape, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn?",
+    "audioPrompt": "Which statement correctly describes compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The sampling and data distributions model is copied without interpretation",
+      "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn\nHint: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn",
+      "hint": "Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For connect sampling method to distribution, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an error analysis, For connect sampling method to distribution, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution?",
+    "audioPrompt": "Which statement correctly describes defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution but does not justify the relationship",
-      "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Random, sample space, sample and sample distribution.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution\nHint: defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Random, sample space, sample and sample distribution.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution",
+      "hint": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For evaluate a claim from secondary data, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a model interpretation, For evaluate a claim from secondary data, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings?",
+    "audioPrompt": "Which statement correctly describes explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings\nHint: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings",
+      "hint": "Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore different methods of sampling used to collect data considering the source and size of samples",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For compare random and non-random samples, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an evidence check, For compare random and non-random samples, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of explore different methods of sampling used to collect data, considering the source and size of samples?",
+    "audioPrompt": "Which statement gives a valid example of explore different methods of sampling used to collect data, considering the source and size of samples?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore different methods of sampling used to collect data, considering the source and size of samples but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating different methods of sampling used to collect data, considering the source and size of samples",
+      "The sampling and data distributions model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore different methods of sampling used to collect data, considering the source and size of samples.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating different methods of sampling used to collect data, considering the source and size of samples\nHint: Explore different methods of sampling used to collect data, considering the source and size of samples.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore different methods of sampling used to collect data, considering the source and size of samples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore different methods of sampling used to collect data, considering the source and size of samples.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating different methods of sampling used to collect data, considering the source and size of samples",
+      "hint": "Explore different methods of sampling used to collect data, considering the source and size of samples."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For describe centre, spread and shape, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a transfer problem, For describe centre, spread and shape, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn?",
+    "audioPrompt": "Which statement gives a valid example of compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn\nHint: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn",
+      "hint": "Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For connect sampling method to distribution, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a peer explanation, For connect sampling method to distribution, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution?",
+    "audioPrompt": "Which statement gives a valid example of defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution but does not justify the relationship",
-      "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Random, sample space, sample and sample distribution.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution\nHint: defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Random, sample space, sample and sample distribution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Random, sample space, sample and sample distribution.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution",
+      "hint": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For evaluate a claim from secondary data, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an independent review, For evaluate a claim from secondary data, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings?",
+    "audioPrompt": "Which statement gives a valid example of explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore primary and secondary data sources relating to reconciliation between first nations australians and non-indigenous australians, analysing and reporting on findings but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The sampling and data distributions model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings\nHint: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings",
+      "hint": "Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings."
     },
     "qualitySchema": "production-v1"
   }

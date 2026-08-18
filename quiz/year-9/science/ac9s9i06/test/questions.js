@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, In 20 seconds, explain how reproducibility helps make sense of gaps or weaknesses in conclusions and relating these Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, In 20 seconds, explain how reproducibility helps make sense of gaps or weaknesses in conclusions and relating these Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Reproducibility and error patterns affect confidence.",
-      "Reproducible results prove the explanation",
+      "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion",
       "Random error means a careless person made a mistake",
-      "Describe unpredictable measurement variation; separate systematic bias"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reproducibility and error patterns affect confidence.\nHint: A consistently biased method can reproduce the wrong value.",
+    "explanation": "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion\nHint: Use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproducibility and error patterns affect confidence.",
-      "hint": "A consistently biased method can reproduce the wrong value."
+      "summary": "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion",
+      "hint": "Use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how random and systematic error helps make sense of assumptions in methods and determining the impact these could Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, In 20 seconds, explain how random and systematic error helps make sense of assumptions in methods and determining the impact these could Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Random error means a careless person made a mistake",
-      "The response should use the displayed example and connect it to this idea: Conclusions must reflect assumptions, uncertainty and conflicting evidence.",
       "Reproducible results prove the explanation",
-      "A consistently biased method can reproduce the wrong value"
+      "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Conclusions must reflect assumptions, uncertainty and conflicting evidence.\nHint: Describe unpredictable measurement variation; separate systematic bias.",
+    "explanation": "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions\nHint: Use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Conclusions must reflect assumptions, uncertainty and conflicting evidence.",
-      "hint": "Describe unpredictable measurement variation; separate systematic bias."
+      "summary": "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
+      "hint": "Use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, In 20 seconds, explain how assumption helps make sense of methods and conclusions to identify facts or premises that Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, In 20 seconds, explain how assumption helps make sense of methods and conclusions to identify facts or premises that Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Reproducible results prove the explanation",
       "Random error means a careless person made a mistake",
-      "The response should use the displayed example and connect it to this idea: Validity concerns whether the design supports the intended inference.",
-      "Describe unpredictable measurement variation; separate systematic bias"
+      "The method can be chosen without checking the values or conditions",
+      "considering if areas of uncertainty could lead to a viable alternative conclusion",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Validity concerns whether the design supports the intended inference.\nHint: A consistently biased method can reproduce the wrong value.",
+    "explanation": "considering if areas of uncertainty could lead to a viable alternative conclusion\nHint: Use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Validity concerns whether the design supports the intended inference.",
-      "hint": "A consistently biased method can reproduce the wrong value."
+      "summary": "considering if areas of uncertainty could lead to a viable alternative conclusion",
+      "hint": "Use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, In 20 seconds, explain how claim confidence helps make sense of if areas of uncertainty could lead to a viable Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, In 20 seconds, explain how claim confidence helps make sense of if areas of uncertainty could lead to a viable Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Random error means a careless person made a mistake",
       "Reproducible results prove the explanation",
-      "A consistently biased method can reproduce the wrong value",
-      "The response should use the displayed example and connect it to this idea: Reproducibility and error patterns affect confidence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "considering how general practitioners manage conflicting evidence to diagnose illness"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reproducibility and error patterns affect confidence.\nHint: Describe unpredictable measurement variation; separate systematic bias.",
+    "explanation": "considering how general practitioners manage conflicting evidence to diagnose illness\nHint: Use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproducibility and error patterns affect confidence.",
-      "hint": "Describe unpredictable measurement variation; separate systematic bias."
+      "summary": "considering how general practitioners manage conflicting evidence to diagnose illness",
+      "hint": "Use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use what is meant by validity and how the validity to make the role of method validity visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, In 20 seconds, explain how method validity helps make sense of how general practitioners manage conflicting evidence to diagnose illness Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, In 20 seconds, explain how method validity helps make sense of how general practitioners manage conflicting evidence to diagnose illness Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use what is meant by ‘validity’ and how the validity to make the role of method validity visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use what is meant by ‘validity’ and how the validity to make the role of method validity visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Conclusions must reflect assumptions, uncertainty and conflicting evidence.",
-      "Reproducible results prove the explanation",
+      "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated",
       "Random error means a careless person made a mistake",
-      "Describe unpredictable measurement variation; separate systematic bias"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Conclusions must reflect assumptions, uncertainty and conflicting evidence.\nHint: A consistently biased method can reproduce the wrong value.",
+    "explanation": "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated\nHint: Use what is meant by ‘validity’ and how the validity to make the role of method validity visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Conclusions must reflect assumptions, uncertainty and conflicting evidence.",
-      "hint": "A consistently biased method can reproduce the wrong value."
+      "summary": "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated",
+      "hint": "Use what is meant by ‘validity’ and how the validity to make the role of method validity visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, Use the central model to explain judge validity, reproducibility and claims in three linked sentences Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, Use the central model to explain judge validity, reproducibility and claims in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Random error means a careless person made a mistake",
-      "Validity concerns whether the design supports the intended inference. Reproducibility and error patterns affect confidence. Conclusions must reflect assumptions, uncertainty and conflicting evidence.",
       "Reproducible results prove the explanation",
-      "A consistently biased method can reproduce the wrong value"
+      "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Validity concerns whether the design supports the intended inference. Reproducibility and error patterns affect confidence. Conclusions must reflect assumptions, uncertainty and conflicting evidence.\nHint: Describe unpredictable measurement variation; separate systematic bias.",
+    "explanation": "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method\nHint: Use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Validity concerns whether the design supports the intended inference. Reproducibility and error patterns affect confidence. Conclusions must reflect assumptions, uncertainty and conflicting evidence.",
-      "hint": "Describe unpredictable measurement variation; separate systematic bias."
+      "summary": "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method",
+      "hint": "Use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, In 20 seconds, explain how method validity helps make sense of what is meant by ‘validity’ and how the validity Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, In 20 seconds, explain how method validity helps make sense of what is meant by ‘validity’ and how the validity Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Random error means a careless person made a mistake",
-      "Describe unpredictable measurement variation; separate systematic bias",
-      "The response should use the displayed example and connect it to this idea: Validity concerns whether the design supports the intended inference.",
-      "A response that mentions use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Validity concerns whether the design supports the intended inference.\nHint: Describe unpredictable measurement variation; separate systematic bias.",
+    "explanation": "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion\nHint: Use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Validity concerns whether the design supports the intended inference.",
-      "hint": "Describe unpredictable measurement variation; separate systematic bias."
+      "summary": "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion",
+      "hint": "Use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, In 20 seconds, explain how reproducibility helps make sense of gaps or weaknesses in conclusions and relating these Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, In 20 seconds, explain how reproducibility helps make sense of gaps or weaknesses in conclusions and relating these Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Reproducible results prove the explanation",
-      "A consistently biased method can reproduce the wrong value",
-      "A response that mentions use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Reproducibility and error patterns affect confidence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reproducibility and error patterns affect confidence.\nHint: A consistently biased method can reproduce the wrong value.",
+    "explanation": "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions\nHint: Use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproducibility and error patterns affect confidence.",
-      "hint": "A consistently biased method can reproduce the wrong value."
+      "summary": "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
+      "hint": "Use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

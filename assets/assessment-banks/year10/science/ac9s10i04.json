@@ -6,15 +6,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_spreadsheet_software_to_carry_out_mathematical_analyses_of_data_to_make_the_role_of_data_purpose_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a guided example, In 20 seconds, explain how data purpose helps make sense of spreadsheet software to carry out mathematical analyses of data",
-    "audio_prompt": "During a guided example, In 20 seconds, explain how data purpose helps make sense of spreadsheet software to carry out mathematical analyses of data",
+    "question": "Which statement correctly describes use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
+        "text": "using spreadsheet software to carry out mathematical analyses of data",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "Choose the simplest form that answers the question without hiding uncertainty",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "using spreadsheet software to carry out mathematical analyses of data",
+      "hint": "Use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_table_or_graph_in_context_to_make_the_role_of_table_or_graph_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a comparison task, In 20 seconds, explain how table or graph helps make sense of table or graph in context",
-    "audio_prompt": "During a comparison task, In 20 seconds, explain how table or graph helps make sense of table or graph in context",
+    "question": "Which statement correctly describes use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -55,22 +55,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
+        "text": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
         "is_correct": true
       },
       {
-        "text": "Compare how scale changes perceived magnitude and slope",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
-      "hint": "Compare how scale changes perceived magnitude and slope."
+      "summary": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
+      "hint": "Use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_how_data_or_information_can_be_organised_and_represented_to_make_the_role_of_descriptive_statistic_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an error analysis, In 20 seconds, explain how descriptive statistic helps make sense of how data or information can be organised and represented",
-    "audio_prompt": "During an error analysis, In 20 seconds, explain how descriptive statistic helps make sense of how data or information can be organised and represented",
+    "question": "Which statement correctly describes use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -92,22 +92,22 @@
         "is_correct": false
       },
       {
-        "text": "Choose the simplest form that answers the question without hiding uncertainty",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
+        "text": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
+      "hint": "Use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_how_the_scales_used_for_representing_data_affect_interpretation_to_make_the_role_of_model_or_equation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a model interpretation, In 20 seconds, explain how model or equation helps make sense of how the scales used for representing data affect interpretation",
-    "audio_prompt": "During a model interpretation, In 20 seconds, explain how model or equation helps make sense of how the scales used for representing data affect interpretation",
+    "question": "Which statement correctly describes use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "Compare how scale changes perceived magnitude and slope",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
+        "text": "considering how the scales used for representing data affect interpretation of the data",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
-      "hint": "Compare how scale changes perceived magnitude and slope."
+      "summary": "considering how the scales used for representing data affect interpretation of the data",
+      "hint": "Use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -154,15 +154,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_the_merits_and_limitations_of_time_lapse_visual_representations_to_make_the_role_of_scale_and_limitation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an evidence check, In 20 seconds, explain how scale and limitation helps make sense of the merits and limitations of time-lapse visual representations",
-    "audio_prompt": "During an evidence check, In 20 seconds, explain how scale and limitation helps make sense of the merits and limitations of time-lapse visual representations",
+    "question": "Which statement correctly describes use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
+        "text": "evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation",
         "is_correct": true
       },
       {
@@ -170,18 +170,18 @@
         "is_correct": false
       },
       {
-        "text": "Choose the simplest form that answers the question without hiding uncertainty",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation",
+      "hint": "Use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_merits_and_limitations_of_patterns_as_represented_to_make_the_role_of_data_purpose_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a transfer problem, In 20 seconds, explain how data purpose helps make sense of merits and limitations of patterns as represented",
-    "audio_prompt": "During a transfer problem, In 20 seconds, explain how data purpose helps make sense of merits and limitations of patterns as represented",
+    "question": "Which statement correctly describes use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -203,22 +203,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
+        "text": "comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies",
         "is_correct": true
       },
       {
-        "text": "Compare how scale changes perceived magnitude and slope",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
-      "hint": "Compare how scale changes perceived magnitude and slope."
+      "summary": "comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies",
+      "hint": "Use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_spreadsheet_software_to_carry_out_mathematical_analyses_of_data_to_make_the_role_of_data_purpose_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a peer explanation, Use the central model to explain represent data without distortion in three linked sentences",
-    "audio_prompt": "During a peer explanation, Use the central model to explain represent data without distortion in three linked sentences",
+    "question": "Which statement gives a valid example of use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement gives a valid example of use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "Choose the simplest form that answers the question without hiding uncertainty",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Representation choice is purpose- and data-dependent. Conventions and scale affect interpretation. Statistics and models summarise evidence but have limitations.",
+        "text": "using spreadsheet software to carry out mathematical analyses of data",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Representation choice is purpose- and data-dependent. Conventions and scale affect interpretation. Statistics and models summarise evidence but have limitations.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "using spreadsheet software to carry out mathematical analyses of data",
+      "hint": "Use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_table_or_graph_in_context_to_make_the_role_of_table_or_graph_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an independent review, In 20 seconds, explain how data purpose helps make sense of spreadsheet software to carry out mathematical analyses of data",
-    "audio_prompt": "During an independent review, In 20 seconds, explain how data purpose helps make sense of spreadsheet software to carry out mathematical analyses of data",
+    "question": "Which statement gives a valid example of use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement gives a valid example of use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The representation with the most features is best",
-        "is_correct": false
-      },
-      {
         "text": "Changing an axis only changes appearance",
         "is_correct": false
       },
       {
-        "text": "Compare how scale changes perceived magnitude and slope",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
+      "hint": "Use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_how_data_or_information_can_be_organised_and_represented_to_make_the_role_of_descriptive_statistic_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a fresh case study, In 20 seconds, explain how table or graph helps make sense of table or graph in context Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, In 20 seconds, explain how table or graph helps make sense of table or graph in context Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
+        "text": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
         "is_correct": true
-      },
-      {
-        "text": "Changing an axis only changes appearance",
-        "is_correct": false
       },
       {
         "text": "The representation with the most features is best",
         "is_correct": false
       },
       {
-        "text": "Choose the simplest form that answers the question without hiding uncertainty",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
-      "hint": "Compare how scale changes perceived magnitude and slope."
+      "summary": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
+      "hint": "Use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -339,34 +339,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_how_the_scales_used_for_representing_data_affect_interpretation_to_make_the_role_of_model_or_equation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how descriptive statistic helps make sense of how data or information can be organised and represented Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how descriptive statistic helps make sense of how data or information can be organised and represented Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The representation with the most features is best",
-        "is_correct": false
-      },
-      {
-        "text": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
-        "is_correct": true
-      },
-      {
         "text": "Changing an axis only changes appearance",
         "is_correct": false
       },
       {
-        "text": "Compare how scale changes perceived magnitude and slope",
+        "text": "considering how the scales used for representing data affect interpretation of the data",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "considering how the scales used for representing data affect interpretation of the data",
+      "hint": "Use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_the_merits_and_limitations_of_time_lapse_visual_representations_to_make_the_role_of_scale_and_limitation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a critical response, In 20 seconds, explain how model or equation helps make sense of how the scales used for representing data affect interpretation Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, In 20 seconds, explain how model or equation helps make sense of how the scales used for representing data affect interpretation Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Changing an axis only changes appearance",
-        "is_correct": false
-      },
-      {
         "text": "The representation with the most features is best",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation",
         "is_correct": true
       },
       {
-        "text": "Choose the simplest form that answers the question without hiding uncertainty",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
-      "hint": "Compare how scale changes perceived magnitude and slope."
+      "summary": "evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation",
+      "hint": "Use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_merits_and_limitations_of_patterns_as_represented_to_make_the_role_of_data_purpose_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a worked solution audit, In 20 seconds, explain how scale and limitation helps make sense of the merits and limitations of time-lapse visual representations Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how scale and limitation helps make sense of the merits and limitations of time-lapse visual representations Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The representation with the most features is best",
-        "is_correct": false
-      },
-      {
         "text": "Changing an axis only changes appearance",
         "is_correct": false
       },
       {
-        "text": "Compare how scale changes perceived magnitude and slope",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies",
+      "hint": "Use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -450,34 +450,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_spreadsheet_software_to_carry_out_mathematical_analyses_of_data_to_make_the_role_of_data_purpose_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a source evaluation, In 20 seconds, explain how data purpose helps make sense of merits and limitations of patterns as represented Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, In 20 seconds, explain how data purpose helps make sense of merits and limitations of patterns as represented Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
+        "text": "using spreadsheet software to carry out mathematical analyses of data",
         "is_correct": true
-      },
-      {
-        "text": "Changing an axis only changes appearance",
-        "is_correct": false
       },
       {
         "text": "The representation with the most features is best",
         "is_correct": false
       },
       {
-        "text": "Choose the simplest form that answers the question without hiding uncertainty",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Statistics and models summarise evidence but have limitations.",
-      "hint": "Compare how scale changes perceived magnitude and slope."
+      "summary": "using spreadsheet software to carry out mathematical analyses of data",
+      "hint": "Use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_table_or_graph_in_context_to_make_the_role_of_table_or_graph_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a multi-step application, Use the central model to explain represent data without distortion in three linked sentences Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, Use the central model to explain represent data without distortion in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The representation with the most features is best",
-        "is_correct": false
-      },
-      {
-        "text": "Representation choice is purpose- and data-dependent. Conventions and scale affect interpretation. Statistics and models summarise evidence but have limitations.",
-        "is_correct": true
-      },
-      {
         "text": "Changing an axis only changes appearance",
         "is_correct": false
       },
       {
-        "text": "Compare how scale changes perceived magnitude and slope",
+        "text": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Representation choice is purpose- and data-dependent. Conventions and scale affect interpretation. Statistics and models summarise evidence but have limitations.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
+      "hint": "Use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_how_data_or_information_can_be_organised_and_represented_to_make_the_role_of_descriptive_statistic_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a justification task, In 20 seconds, explain how data purpose helps make sense of spreadsheet software to carry out mathematical analyses of data Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, In 20 seconds, explain how data purpose helps make sense of spreadsheet software to carry out mathematical analyses of data Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -536,22 +536,22 @@
         "is_correct": false
       },
       {
-        "text": "Choose the simplest form that answers the question without hiding uncertainty",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
+        "text": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Representation choice is purpose- and data-dependent.",
-      "hint": "Choose the simplest form that answers the question without hiding uncertainty."
+      "summary": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
+      "hint": "Use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_how_the_scales_used_for_representing_data_affect_interpretation_to_make_the_role_of_model_or_equation_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a final synthesis, In 20 seconds, explain how table or graph helps make sense of table or graph in context Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, In 20 seconds, explain how table or graph helps make sense of table or graph in context Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "Compare how scale changes perceived magnitude and slope",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
+        "text": "considering how the scales used for representing data affect interpretation of the data",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Conventions and scale affect interpretation.",
-      "hint": "Compare how scale changes perceived magnitude and slope."
+      "summary": "considering how the scales used for representing data affect interpretation of the data",
+      "hint": "Use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation."
     }
   }
 ]

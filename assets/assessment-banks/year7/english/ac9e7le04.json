@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "define_aesthetic_value",
-    "question": "During a guided example, which statement correctly explains aesthetic value?",
-    "audio_prompt": "During a guided example, which statement correctly explains aesthetic value?",
+    "question": "Which statement correctly explains aesthetic value in aesthetic and social value of literature?",
+    "audio_prompt": "Which statement correctly explains aesthetic value in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "define_social_value",
-    "question": "During a comparison task, which statement correctly explains social value?",
-    "audio_prompt": "During a comparison task, which statement correctly explains social value?",
+    "question": "Which description is accurate for social value in aesthetic and social value of literature?",
+    "audio_prompt": "Which description is accurate for social value in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "use_metalanguage",
-    "question": "During an error analysis, which statement correctly explains literary metalanguage?",
-    "audio_prompt": "During an error analysis, which statement correctly explains literary metalanguage?",
+    "question": "Which statement gives an example of literary metalanguage in aesthetic and social value of literature?",
+    "audio_prompt": "Which statement gives an example of literary metalanguage in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "cite_craft_evidence",
-    "question": "During a model interpretation, which response best demonstrates cite craft evidence in aesthetic and social value of literature?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates cite craft evidence in aesthetic and social value of literature?",
+    "question": "What is important when using aesthetic value in aesthetic and social value of literature?",
+    "audio_prompt": "What is important when using aesthetic value in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "qualify_a_cultural_claim",
-    "question": "During an evidence check, which response best demonstrates qualify a cultural claim in aesthetic and social value of literature?",
-    "audio_prompt": "During an evidence check, which response best demonstrates qualify a cultural claim in aesthetic and social value of literature?",
+    "question": "Which statement correctly identifies social value in aesthetic and social value of literature?",
+    "audio_prompt": "Which statement correctly identifies social value in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "define_aesthetic_value",
-    "question": "During a transfer problem, which response best demonstrates define aesthetic value in aesthetic and social value of literature?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates define aesthetic value in aesthetic and social value of literature?",
+    "question": "Which choice best describes literary metalanguage in aesthetic and social value of literature?",
+    "audio_prompt": "Which choice best describes literary metalanguage in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "define_social_value",
-    "question": "During a peer explanation, which response best demonstrates define social value in aesthetic and social value of literature?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates define social value in aesthetic and social value of literature?",
+    "question": "What does correct use require for aesthetic value in aesthetic and social value of literature?",
+    "audio_prompt": "What does correct use require for aesthetic value in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "use_metalanguage",
-    "question": "During an independent review, which response best demonstrates use metalanguage in aesthetic and social value of literature?",
-    "audio_prompt": "During an independent review, which response best demonstrates use metalanguage in aesthetic and social value of literature?",
+    "question": "Which statement is true about social value in aesthetic and social value of literature?",
+    "audio_prompt": "Which statement is true about social value in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "cite_craft_evidence",
-    "question": "During a fresh case study, which response best demonstrates cite craft evidence in aesthetic and social value of literature?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates cite craft evidence in aesthetic and social value of literature?",
+    "question": "Which response correctly applies cite craft evidence in aesthetic and social value of literature?",
+    "audio_prompt": "Which response correctly applies cite craft evidence in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "qualify_a_cultural_claim",
-    "question": "During an unfamiliar representation, which response best demonstrates qualify a cultural claim in aesthetic and social value of literature?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates qualify a cultural claim in aesthetic and social value of literature?",
+    "question": "Which response shows correct use of qualify a cultural claim in aesthetic and social value of literature?",
+    "audio_prompt": "Which response shows correct use of qualify a cultural claim in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "define_aesthetic_value",
-    "question": "During a critical response, which response best demonstrates define aesthetic value in aesthetic and social value of literature?",
-    "audio_prompt": "During a critical response, which response best demonstrates define aesthetic value in aesthetic and social value of literature?",
+    "question": "Which interpretation is accurate for define aesthetic value in aesthetic and social value of literature?",
+    "audio_prompt": "Which interpretation is accurate for define aesthetic value in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "define_social_value",
-    "question": "During a worked solution audit, which response best demonstrates define social value in aesthetic and social value of literature?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates define social value in aesthetic and social value of literature?",
+    "question": "Which choice demonstrates define social value in aesthetic and social value of literature?",
+    "audio_prompt": "Which choice demonstrates define social value in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "use_metalanguage",
-    "question": "During a source evaluation, which response best demonstrates use metalanguage in aesthetic and social value of literature?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates use metalanguage in aesthetic and social value of literature?",
+    "question": "What should be checked when applying use metalanguage in aesthetic and social value of literature?",
+    "audio_prompt": "What should be checked when applying use metalanguage in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "cite_craft_evidence",
-    "question": "During a multi-step application, which response best demonstrates cite craft evidence in aesthetic and social value of literature?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates cite craft evidence in aesthetic and social value of literature?",
+    "question": "Which response best uses cite craft evidence in aesthetic and social value of literature?",
+    "audio_prompt": "Which response best uses cite craft evidence in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "qualify_a_cultural_claim",
-    "question": "During a justification task, which response best demonstrates qualify a cultural claim in aesthetic and social value of literature?",
-    "audio_prompt": "During a justification task, which response best demonstrates qualify a cultural claim in aesthetic and social value of literature?",
+    "question": "Which claim is accurate about qualify a cultural claim in aesthetic and social value of literature?",
+    "audio_prompt": "Which claim is accurate about qualify a cultural claim in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "define_aesthetic_value",
-    "question": "During a final synthesis, which response best demonstrates define aesthetic value in aesthetic and social value of literature?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates define aesthetic value in aesthetic and social value of literature?",
+    "question": "What is required to apply define aesthetic value in aesthetic and social value of literature?",
+    "audio_prompt": "What is required to apply define aesthetic value in aesthetic and social value of literature?",
     "visual": {
       "type": "none",
       "alt_text": ""

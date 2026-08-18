@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For build a prism from its cross-section, what changes, what stays invariant, and why",
-    "audioPrompt": "During a guided example, For build a prism from its cross-section, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
+    "audioPrompt": "Which statement correctly describes use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "using models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres, recognising that one millilitre is equivalent to one cm^3",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres, recognising that one millilitre is equivalent to one cm^3\nHint: Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres, recognising that one millilitre is equivalent to one cm^3",
+      "hint": "Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "solve practical problems involving volume and capacity",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For connect cubic units and capacity, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a comparison task, For connect cubic units and capacity, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes solve practical problems involving volume and capacity?",
+    "audioPrompt": "Which statement correctly describes solve practical problems involving volume and capacity?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: 1 L = 1000 cm³; volume and capacity describe the same space using different units. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions solve practical problems involving volume and capacity but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The volume and capacity of right prisms model is copied without interpretation",
+      "solving practical problems involving volume and capacity; for example, optimal packaging and production",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: 1 L = 1000 cm³; volume and capacity describe the same space using different units. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘1 L = 1000 cm³; volume and capacity describe the same space using different units.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "solving practical problems involving volume and capacity; for example, optimal packaging and production\nHint: Solve practical problems involving volume and capacity.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 1 L = 1000 cm³; volume and capacity describe the same space using different units. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘1 L = 1000 cm³; volume and capacity describe the same space using different units.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "solving practical problems involving volume and capacity; for example, optimal packaging and production",
+      "hint": "Solve practical problems involving volume and capacity."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "choose which measurements are useful to consider when solving practical problems in context",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For solve a composite-prism problem, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During an error analysis, For solve a composite-prism problem, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes choose which measurements are useful to consider when solving practical problems in context?",
+    "audioPrompt": "Which statement correctly describes choose which measurements are useful to consider when solving practical problems in context?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions choose which measurements are useful to consider when solving practical problems in context but does not justify the relationship",
-      "Use the model evidence: Choose which measurements are useful to consider when solving practical problems in context. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "choosing which measurements are useful to consider when solving practical problems in context; for example, when purchasing a new washing machine, the dimensions are useful when determining whether it will fit in the available space in the laundry and its capacity is useful when considering the maximum washing load it can carry",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Choose which measurements are useful to consider when solving practical problems in context. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Choose which measurements are useful to consider when solving practical problems in context.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "choosing which measurements are useful to consider when solving practical problems in context; for example, when purchasing a new washing machine, the dimensions are useful when determining whether it will fit in the available space in the laundry and its capacity is useful when considering the maximum washing load it can carry\nHint: Choose which measurements are useful to consider when solving practical problems in context.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Choose which measurements are useful to consider when solving practical problems in context. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Choose which measurements are useful to consider when solving practical problems in context.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "choosing which measurements are useful to consider when solving practical problems in context; for example, when purchasing a new washing machine, the dimensions are useful when determining whether it will fit in the available space in the laundry and its capacity is useful when considering the maximum washing load it can carry",
+      "hint": "Choose which measurements are useful to consider when solving practical problems in context."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For choose dimensions under a capacity constraint, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a model interpretation, For choose dimensions under a capacity constraint, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
+    "audioPrompt": "Which statement correctly describes investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects; for example, given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects; for example, given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity\nHint: investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects; for example, given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity",
+      "hint": "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For build a prism from its cross-section, what changes, what stays invariant, and why",
-    "audioPrompt": "During an evidence check, For build a prism from its cross-section, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
+    "audioPrompt": "Which statement gives a valid example of use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "using models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres, recognising that one millilitre is equivalent to one cm^3",
+      "The volume and capacity of right prisms model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres, recognising that one millilitre is equivalent to one cm^3\nHint: Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres, recognising that one millilitre is equivalent to one cm^3",
+      "hint": "Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "solve practical problems involving volume and capacity",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For connect cubic units and capacity, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a transfer problem, For connect cubic units and capacity, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of solve practical problems involving volume and capacity?",
+    "audioPrompt": "Which statement gives a valid example of solve practical problems involving volume and capacity?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: 1 L = 1000 cm³; volume and capacity describe the same space using different units. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions solve practical problems involving volume and capacity but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "solving practical problems involving volume and capacity; for example, optimal packaging and production",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: 1 L = 1000 cm³; volume and capacity describe the same space using different units. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘1 L = 1000 cm³; volume and capacity describe the same space using different units.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "solving practical problems involving volume and capacity; for example, optimal packaging and production\nHint: Solve practical problems involving volume and capacity.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 1 L = 1000 cm³; volume and capacity describe the same space using different units. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘1 L = 1000 cm³; volume and capacity describe the same space using different units.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "solving practical problems involving volume and capacity; for example, optimal packaging and production",
+      "hint": "Solve practical problems involving volume and capacity."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "choose which measurements are useful to consider when solving practical problems in context",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For solve a composite-prism problem, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During a peer explanation, For solve a composite-prism problem, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of choose which measurements are useful to consider when solving practical problems in context?",
+    "audioPrompt": "Which statement gives a valid example of choose which measurements are useful to consider when solving practical problems in context?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions choose which measurements are useful to consider when solving practical problems in context but does not justify the relationship",
-      "Use the model evidence: Choose which measurements are useful to consider when solving practical problems in context. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "choosing which measurements are useful to consider when solving practical problems in context; for example, when purchasing a new washing machine, the dimensions are useful when determining whether it will fit in the available space in the laundry and its capacity is useful when considering the maximum washing load it can carry",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Choose which measurements are useful to consider when solving practical problems in context. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Choose which measurements are useful to consider when solving practical problems in context.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "choosing which measurements are useful to consider when solving practical problems in context; for example, when purchasing a new washing machine, the dimensions are useful when determining whether it will fit in the available space in the laundry and its capacity is useful when considering the maximum washing load it can carry\nHint: Choose which measurements are useful to consider when solving practical problems in context.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Choose which measurements are useful to consider when solving practical problems in context. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Choose which measurements are useful to consider when solving practical problems in context.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "choosing which measurements are useful to consider when solving practical problems in context; for example, when purchasing a new washing machine, the dimensions are useful when determining whether it will fit in the available space in the laundry and its capacity is useful when considering the maximum washing load it can carry",
+      "hint": "Choose which measurements are useful to consider when solving practical problems in context."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "investigating reasoning and finding solutions to measurement problems involving dimensions rates volume and capacity of objects",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For choose dimensions under a capacity constraint, which units, bounds or accuracy statement belong in the result",
-    "audioPrompt": "During an independent review, For choose dimensions under a capacity constraint, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement gives a valid example of investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
+    "audioPrompt": "Which statement gives a valid example of investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The volume and capacity of right prisms model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects; for example, given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects; for example, given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity\nHint: investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects; for example, given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity",
+      "hint": "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects."
     },
     "qualitySchema": "production-v1"
   }

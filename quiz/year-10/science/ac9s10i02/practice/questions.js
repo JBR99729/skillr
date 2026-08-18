@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use possible sources of error through choice of equipment variable to make the role of question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how question helps make sense of possible sources of error through choice of equipment, variable",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how question helps make sense of possible sources of error through choice of equipment, variable",
+    "question": "Which statement correctly describes use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
+      "addressing possible sources of error through choice of equipment, variable control or further testing",
       "Many repeats fix systematic bias",
-      "Use calibration and design changes for bias; repeats mainly estimate random variation",
-      "A response that mentions use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.\nHint: Use calibration and design changes for bias; repeats mainly estimate random variation.",
+    "explanation": "addressing possible sources of error through choice of equipment, variable control or further testing\nHint: Use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "addressing possible sources of error through choice of equipment, variable control or further testing",
+      "hint": "Use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how variables and controls helps make sense of possible confounding variables or effects and ensuring these are",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how variables and controls helps make sense of possible confounding variables or effects and ensuring these are",
+    "question": "Which statement correctly describes use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A detailed method is automatically valid",
-      "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
-      "Check whether the evidence can actually answer the question",
-      "A response that mentions use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "considering possible confounding variables or effects and ensuring these are controlled or accounted for in planned methods for data collection and analysis",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.\nHint: Check whether the evidence can actually answer the question.",
+    "explanation": "considering possible confounding variables or effects and ensuring these are controlled or accounted for in planned methods for data collection and analysis\nHint: Use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
-      "hint": "Check whether the evidence can actually answer the question."
+      "summary": "considering possible confounding variables or effects and ensuring these are controlled or accounted for in planned methods for data collection and analysis",
+      "hint": "Use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how sampling and repeats helps make sense of safety risks and impacts on animal welfare and ensuring",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how sampling and repeats helps make sense of safety risks and impacts on animal welfare and ensuring",
+    "question": "Which statement correctly describes use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Many repeats fix systematic bias",
-      "Use calibration and design changes for bias; repeats mainly estimate random variation",
-      "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "A response that mentions use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "identifying safety risks and impacts on animal welfare and ensuring these are effectively managed within an investigation",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.\nHint: Use calibration and design changes for bias; repeats mainly estimate random variation.",
+    "explanation": "identifying safety risks and impacts on animal welfare and ensuring these are effectively managed within an investigation\nHint: Use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "identifying safety risks and impacts on animal welfare and ensuring these are effectively managed within an investigation",
+      "hint": "Use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how risk and ethics helps make sense of the potential hazards of chemicals or biological materials",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how risk and ethics helps make sense of the potential hazards of chemicals or biological materials",
+    "question": "Which statement correctly describes use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A detailed method is automatically valid",
-      "Check whether the evidence can actually answer the question",
-      "A response that mentions use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and how these should be addressed"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.\nHint: Check whether the evidence can actually answer the question.",
+    "explanation": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and how these should be addressed\nHint: Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
-      "hint": "Check whether the evidence can actually answer the question."
+      "summary": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and how these should be addressed",
+      "hint": "Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use ethical issues when collaborating with first nations australians to make the role of reproducible method visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how reproducible method helps make sense of ethical issues when collaborating with first nations australians",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how reproducible method helps make sense of ethical issues when collaborating with first nations australians",
+    "question": "Which statement correctly describes use ethical issues when collaborating with first nations australians to make the role of reproducible method visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use ethical issues when collaborating with first nations australians to make the role of reproducible method visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
+      "addressing ethical issues when collaborating with First Nations Australians to explore the development of a commercial product based on traditional ecological knowledges",
       "Many repeats fix systematic bias",
-      "Use calibration and design changes for bias; repeats mainly estimate random variation",
-      "A response that mentions use ethical issues when collaborating with first nations australians to make the role of reproducible method visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.\nHint: Use calibration and design changes for bias; repeats mainly estimate random variation.",
+    "explanation": "addressing ethical issues when collaborating with First Nations Australians to explore the development of a commercial product based on traditional ecological knowledges\nHint: Use ethical issues when collaborating with First Nations Australians to make the role of reproducible method visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reproducibility requires transparent procedures and useful sample sizes.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "addressing ethical issues when collaborating with First Nations Australians to explore the development of a commercial product based on traditional ecological knowledges",
+      "hint": "Use ethical issues when collaborating with First Nations Australians to make the role of reproducible method visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how to report the discovery of unregistered first nations to make the role of question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how question helps make sense of how to report the discovery of unregistered first nations",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how question helps make sense of how to report the discovery of unregistered first nations",
+    "question": "Which statement correctly describes use how to report the discovery of unregistered first nations to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how to report the discovery of unregistered first nations to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A detailed method is automatically valid",
-      "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "Check whether the evidence can actually answer the question",
-      "A response that mentions use how to report the discovery of unregistered first nations to make the role of question visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "modelling how to report the discovery of unregistered First Nations Australians artefacts and heritage or any unauthorised disturbance",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.\nHint: Check whether the evidence can actually answer the question.",
+    "explanation": "modelling how to report the discovery of unregistered First Nations Australians artefacts and heritage or any unauthorised disturbance\nHint: Use how to report the discovery of unregistered First Nations to make the role of question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "hint": "Check whether the evidence can actually answer the question."
+      "summary": "modelling how to report the discovery of unregistered First Nations Australians artefacts and heritage or any unauthorised disturbance",
+      "hint": "Use how to report the discovery of unregistered First Nations to make the role of question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how variables and controls helps make sense of the ethical and social issues and legal responsibilities involved",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how variables and controls helps make sense of the ethical and social issues and legal responsibilities involved",
+    "question": "Which statement correctly describes use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Many repeats fix systematic bias",
-      "Use calibration and design changes for bias; repeats mainly estimate random variation",
-      "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
-      "A response that mentions use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "considering the ethical and social issues and legal responsibilities involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.\nHint: Use calibration and design changes for bias; repeats mainly estimate random variation.",
+    "explanation": "considering the ethical and social issues and legal responsibilities involved in the care and use of animals for scientific purposes before starting an investigation involving animals\nHint: Use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Validity depends on alignment and control of relevant variables.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "considering the ethical and social issues and legal responsibilities involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
+      "hint": "Use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use possible sources of error through choice of equipment variable to make the role of question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, Use the central model to explain design valid, reproducible investigations in three linked sentences",
-    "audioPrompt": "During an independent review, Use the central model to explain design valid, reproducible investigations in three linked sentences",
+    "question": "Which statement gives a valid example of use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Many repeats fix systematic bias",
       "A detailed method is automatically valid",
-      "Check whether the evidence can actually answer the question",
-      "Validity depends on alignment and control of relevant variables. Reproducibility requires transparent procedures and useful sample sizes. Risk, ethics and Country/Place protocols can change or prevent a method."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "addressing possible sources of error through choice of equipment, variable control or further testing"
     ],
     "correct": 3,
-    "explanation": "Validity depends on alignment and control of relevant variables. Reproducibility requires transparent procedures and useful sample sizes. Risk, ethics and Country/Place protocols can change or prevent a method.\nHint: Use calibration and design changes for bias; repeats mainly estimate random variation.",
+    "explanation": "addressing possible sources of error through choice of equipment, variable control or further testing\nHint: Use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Validity depends on alignment and control of relevant variables. Reproducibility requires transparent procedures and useful sample sizes. Risk, ethics and Country/Place protocols can change or prevent a method.",
-      "hint": "Use calibration and design changes for bias; repeats mainly estimate random variation."
+      "summary": "addressing possible sources of error through choice of equipment, variable control or further testing",
+      "hint": "Use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

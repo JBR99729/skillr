@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how incoming solar radiation helps make sense of radiation from the sun and how its interactions",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how incoming solar radiation helps make sense of radiation from the sun and how its interactions",
+    "question": "Which statement correctly describes use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere.",
+      "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system",
       "The greenhouse effect is a physical layer trapping heat",
-      "Trace absorption and re-emission of infrared energy by atmospheric gases",
-      "A response that mentions use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere.\nHint: Trace absorption and re-emission of infrared energy by atmospheric gases.",
+    "explanation": "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system\nHint: Use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere.",
-      "hint": "Trace absorption and re-emission of infrared energy by atmospheric gases."
+      "summary": "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system",
+      "hint": "Use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how reflection and absorption helps make sense of indicators of climate change",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how reflection and absorption helps make sense of indicators of climate change",
+    "question": "Which statement correctly describes use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "One weather event proves or disproves climate change",
-      "The response should use the displayed example and connect it to this idea: Multiple long-term indicators show climate patterns and change.",
-      "Use long-term patterns across multiple indicators and data sets",
-      "A response that mentions use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Multiple long-term indicators show climate patterns and change.\nHint: Use long-term patterns across multiple indicators and data sets.",
+    "explanation": "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice\nHint: Use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Multiple long-term indicators show climate patterns and change.",
-      "hint": "Use long-term patterns across multiple indicators and data sets."
+      "summary": "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice",
+      "hint": "Use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use changes in global climate over time exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how infrared emission helps make sense of changes in global climate over time, exploring visualisations",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how infrared emission helps make sense of changes in global climate over time, exploring visualisations",
+    "question": "Which statement correctly describes use changes in global climate over time, exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use changes in global climate over time, exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The greenhouse effect is a physical layer trapping heat",
-      "Trace absorption and re-emission of infrared energy by atmospheric gases",
-      "The response should use the displayed example and connect it to this idea: Models support predictions but include uncertainty and assumptions.",
-      "A response that mentions use changes in global climate over time, exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "identifying changes in global climate over time, exploring visualisations and using simulations to explore why energy balances have changed",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Models support predictions but include uncertainty and assumptions.\nHint: Trace absorption and re-emission of infrared energy by atmospheric gases.",
+    "explanation": "identifying changes in global climate over time, exploring visualisations and using simulations to explore why energy balances have changed\nHint: Use changes in global climate over time, exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Models support predictions but include uncertainty and assumptions.",
-      "hint": "Trace absorption and re-emission of infrared energy by atmospheric gases."
+      "summary": "identifying changes in global climate over time, exploring visualisations and using simulations to explore why energy balances have changed",
+      "hint": "Use changes in global climate over time, exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how greenhouse effect helps make sense of greenhouse effect in context",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how greenhouse effect helps make sense of greenhouse effect in context",
+    "question": "Which statement correctly describes use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "One weather event proves or disproves climate change",
-      "Use long-term patterns across multiple indicators and data sets",
-      "A response that mentions use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "examining the factors, including energy, that drive deep ocean currents, their role in regulating global climate and their effects on marine life"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere.\nHint: Use long-term patterns across multiple indicators and data sets.",
+    "explanation": "examining the factors, including energy, that drive deep ocean currents, their role in regulating global climate and their effects on marine life\nHint: Use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere.",
-      "hint": "Use long-term patterns across multiple indicators and data sets."
+      "summary": "examining the factors, including energy, that drive deep ocean currents, their role in regulating global climate and their effects on marine life",
+      "hint": "Use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how climate evidence and response helps make sense of how quantum computers enhance modelling of complex weather",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how climate evidence and response helps make sense of how quantum computers enhance modelling of complex weather",
+    "question": "Which statement correctly describes use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Multiple long-term indicators show climate patterns and change.",
+      "investigating how quantum computers enhance modelling of complex weather and climate systems",
       "The greenhouse effect is a physical layer trapping heat",
-      "Trace absorption and re-emission of infrared energy by atmospheric gases",
-      "A response that mentions use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Multiple long-term indicators show climate patterns and change.\nHint: Trace absorption and re-emission of infrared energy by atmospheric gases.",
+    "explanation": "investigating how quantum computers enhance modelling of complex weather and climate systems\nHint: Use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Multiple long-term indicators show climate patterns and change.",
-      "hint": "Trace absorption and re-emission of infrared energy by atmospheric gases."
+      "summary": "investigating how quantum computers enhance modelling of complex weather and climate systems",
+      "hint": "Use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how incoming solar radiation helps make sense of changes to the earth system and identifying strategies designed",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how incoming solar radiation helps make sense of changes to the earth system and identifying strategies designed",
+    "question": "Which statement correctly describes use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "One weather event proves or disproves climate change",
-      "The response should use the displayed example and connect it to this idea: Models support predictions but include uncertainty and assumptions.",
-      "Use long-term patterns across multiple indicators and data sets",
-      "A response that mentions use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "predicting changes to the Earth system and identifying strategies designed to reduce climate change or mitigate its effects",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Models support predictions but include uncertainty and assumptions.\nHint: Use long-term patterns across multiple indicators and data sets.",
+    "explanation": "predicting changes to the Earth system and identifying strategies designed to reduce climate change or mitigate its effects\nHint: Use changes to the Earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Models support predictions but include uncertainty and assumptions.",
-      "hint": "Use long-term patterns across multiple indicators and data sets."
+      "summary": "predicting changes to the Earth system and identifying strategies designed to reduce climate change or mitigate its effects",
+      "hint": "Use changes to the Earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, Use the central model to explain earth’s energy balance and climate in three linked sentences",
-    "audioPrompt": "During a peer explanation, Use the central model to explain earth’s energy balance and climate in three linked sentences",
+    "question": "Which statement gives a valid example of use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The greenhouse effect is a physical layer trapping heat",
-      "Trace absorption and re-emission of infrared energy by atmospheric gases",
-      "Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere. Multiple long-term indicators show climate patterns and change. Models support predictions but include uncertainty and assumptions.",
-      "A response that mentions use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere. Multiple long-term indicators show climate patterns and change. Models support predictions but include uncertainty and assumptions.\nHint: Trace absorption and re-emission of infrared energy by atmospheric gases.",
+    "explanation": "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system\nHint: Use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere. Multiple long-term indicators show climate patterns and change. Models support predictions but include uncertainty and assumptions.",
-      "hint": "Trace absorption and re-emission of infrared energy by atmospheric gases."
+      "summary": "examining the role of radiation from the sun and how its interactions with the atmosphere, ocean and land are the foundation for the global climate system",
+      "hint": "Use radiation from the sun and how its interactions to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, In 20 seconds, explain how incoming solar radiation helps make sense of radiation from the sun and how its interactions",
-    "audioPrompt": "During an independent review, In 20 seconds, explain how incoming solar radiation helps make sense of radiation from the sun and how its interactions",
+    "question": "Which statement gives a valid example of use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The greenhouse effect is a physical layer trapping heat",
       "One weather event proves or disproves climate change",
-      "Use long-term patterns across multiple indicators and data sets",
-      "The response should use the displayed example and connect it to this idea: Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere.\nHint: Trace absorption and re-emission of infrared energy by atmospheric gases.",
+    "explanation": "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice\nHint: Use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Climate is driven by energy transfer among the atmosphere, hydrosphere, biosphere and geosphere.",
-      "hint": "Trace absorption and re-emission of infrared energy by atmospheric gases."
+      "summary": "investigating indicators of climate change such as changes in ocean and atmospheric temperatures, sea levels, biodiversity, species distribution, permafrost and sea ice",
+      "hint": "Use indicators of climate change to make the role of reflection and absorption visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

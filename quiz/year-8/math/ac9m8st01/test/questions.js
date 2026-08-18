@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools such as simulations and digital measuring devices to observe measure and record qualitative and quantitative data discussing precision and the implications of error",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For identify ethical collection choices, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For identify ethical collection choices, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error?",
+    "audioPrompt": "Which description correctly applies use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "using digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error\nHint: Use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error",
+      "hint": "Use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore how decisions concerning sampling relate to the training of artificial intelligence systems",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For match a method to a research question, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For match a method to a research question, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore how decisions concerning sampling relate to the training of artificial intelligence systems?",
+    "audioPrompt": "Which description correctly applies explore how decisions concerning sampling relate to the training of artificial intelligence systems?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore how decisions concerning sampling relate to the training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore how decisions concerning sampling relate to the training of artificial intelligence systems but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating how decisions concerning sampling relate to the training of artificial intelligence systems, recognising the need to mitigate any potential bias that may lead to the development of biased models",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore how decisions concerning sampling relate to the training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore how decisions concerning sampling relate to the training of artificial intelligence systems.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating how decisions concerning sampling relate to the training of artificial intelligence systems, recognising the need to mitigate any potential bias that may lead to the development of biased models\nHint: Explore how decisions concerning sampling relate to the training of artificial intelligence systems.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore how decisions concerning sampling relate to the training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how decisions concerning sampling relate to the training of artificial intelligence systems.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how decisions concerning sampling relate to the training of artificial intelligence systems, recognising the need to mitigate any potential bias that may lead to the development of biased models",
+      "hint": "Explore how decisions concerning sampling relate to the training of artificial intelligence systems."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "identify situations where data can be collected by census and those where a sample is appropriate",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For choose census or sample, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For choose census or sample, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses identify situations where data can be collected by census and those where a sample is appropriate?",
+    "audioPrompt": "Which response correctly uses identify situations where data can be collected by census and those where a sample is appropriate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions identify situations where data can be collected by census and those where a sample is appropriate but does not justify the relationship",
-      "Use the model evidence: Identify situations where data can be collected by census and those where a sample is appropriate. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The data collection techniques model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "identifying situations where data can be collected by census and those where a sample is appropriate",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Identify situations where data can be collected by census and those where a sample is appropriate. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Identify situations where data can be collected by census and those where a sample is appropriate.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying situations where data can be collected by census and those where a sample is appropriate\nHint: Identify situations where data can be collected by census and those where a sample is appropriate.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Identify situations where data can be collected by census and those where a sample is appropriate. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify situations where data can be collected by census and those where a sample is appropriate.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying situations where data can be collected by census and those where a sample is appropriate",
+      "hint": "Identify situations where data can be collected by census and those where a sample is appropriate."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore the practicalities and implications of obtaining data through sampling using a variety of investigative processes",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For distinguish experiment and observation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For distinguish experiment and observation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore the practicalities and implications of obtaining data through sampling, using a variety of investigative processes?",
+    "audioPrompt": "Which response correctly uses explore the practicalities and implications of obtaining data through sampling, using a variety of investigative processes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore the practicalities and implications of obtaining data through sampling, using a variety of investigative processes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Investigating situations when random sampling or non-random sampling is used to collect data and the implication of each sampling method. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating the practicalities and implications of obtaining data through sampling, using a variety of investigative processes; for example, investigating situations when random sampling or non-random sampling is used to collect data and the implication of each sampling method"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Investigating situations when random sampling or non-random sampling is used to collect data and the implication of each sampling method. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Investigating situations when random sampling or non-random sampling is used to collect data and the implication of each sampling method.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the practicalities and implications of obtaining data through sampling, using a variety of investigative processes; for example, investigating situations when random sampling or non-random sampling is used to collect data and the implication of each sampling method\nHint: Explore the practicalities and implications of obtaining data through sampling, using a variety of investigative processes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Investigating situations when random sampling or non-random sampling is used to collect data and the implication of each sampling method. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Investigating situations when random sampling or non-random sampling is used to collect data and the implication of each sampling method.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the practicalities and implications of obtaining data through sampling, using a variety of investigative processes; for example, investigating situations when random sampling or non-random sampling is used to collect data and the implication of each sampling method",
+      "hint": "Explore the practicalities and implications of obtaining data through sampling, using a variety of investigative processes."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "discuss how observations experiments and sampling methods can be impacted by bias",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For recognise practical data limits, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For recognise practical data limits, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses discuss how observations, experiments and sampling methods can be impacted by bias?",
+    "audioPrompt": "Which response correctly uses discuss how observations, experiments and sampling methods can be impacted by bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: A convenience survey at one location over-represents people who were available there and then. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "discussing how observations, experiments and sampling methods can be impacted by bias; for example, recognising that a sampling bias occurs when certain members of a population are more likely to be selected in a sample than others, such as a survey conducted at a shopping centre; recognising that environmental conditions may bias the results of scientific investigations if experiments are conducted at different times or under different conditions",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions discuss how observations, experiments and sampling methods can be impacted by bias but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: A convenience survey at one location over-represents people who were available there and then. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A convenience survey at one location over-represents people who were available there and then.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "discussing how observations, experiments and sampling methods can be impacted by bias; for example, recognising that a sampling bias occurs when certain members of a population are more likely to be selected in a sample than others, such as a survey conducted at a shopping centre; recognising that environmental conditions may bias the results of scientific investigations if experiments are conducted at different times or under different conditions\nHint: Discuss how observations, experiments and sampling methods can be impacted by bias.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A convenience survey at one location over-represents people who were available there and then. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A convenience survey at one location over-represents people who were available there and then.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "discussing how observations, experiments and sampling methods can be impacted by bias; for example, recognising that a sampling bias occurs when certain members of a population are more likely to be selected in a sample than others, such as a survey conducted at a shopping centre; recognising that environmental conditions may bias the results of scientific investigations if experiments are conducted at different times or under different conditions",
+      "hint": "Discuss how observations, experiments and sampling methods can be impacted by bias."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools such as simulations and digital measuring devices to observe measure and record qualitative and quantitative data discussing precision and the implications of error",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For identify ethical collection choices, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For identify ethical collection choices, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error?",
+    "audioPrompt": "Which response correctly uses use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The data collection techniques model is copied without interpretation",
+      "using digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error\nHint: Use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error",
+      "hint": "Use digital tools such as simulations and digital measuring devices to observe, measure and record qualitative and quantitative data, discussing precision and the implications of error."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "explore how decisions concerning sampling relate to the training of artificial intelligence systems",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For match a method to a research question, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For match a method to a research question, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore how decisions concerning sampling relate to the training of artificial intelligence systems?",
+    "audioPrompt": "Which response correctly uses explore how decisions concerning sampling relate to the training of artificial intelligence systems?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore how decisions concerning sampling relate to the training of artificial intelligence systems but does not justify the relationship",
-      "Use the model evidence: Explore how decisions concerning sampling relate to the training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "investigating how decisions concerning sampling relate to the training of artificial intelligence systems, recognising the need to mitigate any potential bias that may lead to the development of biased models",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explore how decisions concerning sampling relate to the training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore how decisions concerning sampling relate to the training of artificial intelligence systems.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating how decisions concerning sampling relate to the training of artificial intelligence systems, recognising the need to mitigate any potential bias that may lead to the development of biased models\nHint: Explore how decisions concerning sampling relate to the training of artificial intelligence systems.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore how decisions concerning sampling relate to the training of artificial intelligence systems. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how decisions concerning sampling relate to the training of artificial intelligence systems.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how decisions concerning sampling relate to the training of artificial intelligence systems, recognising the need to mitigate any potential bias that may lead to the development of biased models",
+      "hint": "Explore how decisions concerning sampling relate to the training of artificial intelligence systems."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "identify situations where data can be collected by census and those where a sample is appropriate",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For choose census or sample, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For choose census or sample, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for identify situations where data can be collected by census and those where a sample is appropriate?",
+    "audioPrompt": "Which interpretation is accurate for identify situations where data can be collected by census and those where a sample is appropriate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions identify situations where data can be collected by census and those where a sample is appropriate but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Identify situations where data can be collected by census and those where a sample is appropriate. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "identifying situations where data can be collected by census and those where a sample is appropriate"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Identify situations where data can be collected by census and those where a sample is appropriate. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Identify situations where data can be collected by census and those where a sample is appropriate.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying situations where data can be collected by census and those where a sample is appropriate\nHint: Identify situations where data can be collected by census and those where a sample is appropriate.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Identify situations where data can be collected by census and those where a sample is appropriate. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify situations where data can be collected by census and those where a sample is appropriate.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying situations where data can be collected by census and those where a sample is appropriate",
+      "hint": "Identify situations where data can be collected by census and those where a sample is appropriate."
     },
     "qualitySchema": "production-v1"
   }

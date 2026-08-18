@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "write_a_statistical_question",
-    "question": "During a guided example, which statement correctly explains population?",
-    "audio_prompt": "During a guided example, which statement correctly explains population?",
+    "question": "Which statement correctly explains population in statistical investigations and sampling?",
+    "audio_prompt": "Which statement correctly explains population in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "define_population_sample",
-    "question": "During a comparison task, which statement correctly explains sample?",
-    "audio_prompt": "During a comparison task, which statement correctly explains sample?",
+    "question": "Which description is accurate for sample in statistical investigations and sampling?",
+    "audio_prompt": "Which description is accurate for sample in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_sampling_methods",
-    "question": "During an error analysis, which statement correctly explains sampling bias?",
-    "audio_prompt": "During an error analysis, which statement correctly explains sampling bias?",
+    "question": "Which statement gives an example of sampling bias in statistical investigations and sampling?",
+    "audio_prompt": "Which statement gives an example of sampling bias in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "analyse_distribution",
-    "question": "During a model interpretation, which response best demonstrates analyse distribution in statistical investigations and sampling?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates analyse distribution in statistical investigations and sampling?",
+    "question": "What is important when using population in statistical investigations and sampling?",
+    "audio_prompt": "What is important when using population in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "write_a_limited_conclusion",
-    "question": "During an evidence check, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
-    "audio_prompt": "During an evidence check, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
+    "question": "Which statement correctly identifies sample in statistical investigations and sampling?",
+    "audio_prompt": "Which statement correctly identifies sample in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "write_a_statistical_question",
-    "question": "During a transfer problem, which response best demonstrates write a statistical question in statistical investigations and sampling?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates write a statistical question in statistical investigations and sampling?",
+    "question": "Which choice best describes sampling bias in statistical investigations and sampling?",
+    "audio_prompt": "Which choice best describes sampling bias in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "define_population_sample",
-    "question": "During a peer explanation, which response best demonstrates define population/sample in statistical investigations and sampling?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates define population/sample in statistical investigations and sampling?",
+    "question": "What does correct use require for population in statistical investigations and sampling?",
+    "audio_prompt": "What does correct use require for population in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_sampling_methods",
-    "question": "During an independent review, which response best demonstrates compare sampling methods in statistical investigations and sampling?",
-    "audio_prompt": "During an independent review, which response best demonstrates compare sampling methods in statistical investigations and sampling?",
+    "question": "Which statement is true about sample in statistical investigations and sampling?",
+    "audio_prompt": "Which statement is true about sample in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "analyse_distribution",
-    "question": "During a fresh case study, which response best demonstrates analyse distribution in statistical investigations and sampling?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates analyse distribution in statistical investigations and sampling?",
+    "question": "Which response correctly applies analyse distribution in statistical investigations and sampling?",
+    "audio_prompt": "Which response correctly applies analyse distribution in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_limited_conclusion",
-    "question": "During an unfamiliar representation, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
+    "question": "Which response shows correct use of write a limited conclusion in statistical investigations and sampling?",
+    "audio_prompt": "Which response shows correct use of write a limited conclusion in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_statistical_question",
-    "question": "During a critical response, which response best demonstrates write a statistical question in statistical investigations and sampling?",
-    "audio_prompt": "During a critical response, which response best demonstrates write a statistical question in statistical investigations and sampling?",
+    "question": "Which interpretation is accurate for write a statistical question in statistical investigations and sampling?",
+    "audio_prompt": "Which interpretation is accurate for write a statistical question in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "define_population_sample",
-    "question": "During a worked solution audit, which response best demonstrates define population/sample in statistical investigations and sampling?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates define population/sample in statistical investigations and sampling?",
+    "question": "Which choice demonstrates define population/sample in statistical investigations and sampling?",
+    "audio_prompt": "Which choice demonstrates define population/sample in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "compare_sampling_methods",
-    "question": "During a source evaluation, which response best demonstrates compare sampling methods in statistical investigations and sampling?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates compare sampling methods in statistical investigations and sampling?",
+    "question": "What should be checked when applying compare sampling methods in statistical investigations and sampling?",
+    "audio_prompt": "What should be checked when applying compare sampling methods in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "analyse_distribution",
-    "question": "During a multi-step application, which response best demonstrates analyse distribution in statistical investigations and sampling?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates analyse distribution in statistical investigations and sampling?",
+    "question": "Which response best uses analyse distribution in statistical investigations and sampling?",
+    "audio_prompt": "Which response best uses analyse distribution in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_limited_conclusion",
-    "question": "During a justification task, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
-    "audio_prompt": "During a justification task, which response best demonstrates write a limited conclusion in statistical investigations and sampling?",
+    "question": "Which claim is accurate about write a limited conclusion in statistical investigations and sampling?",
+    "audio_prompt": "Which claim is accurate about write a limited conclusion in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_statistical_question",
-    "question": "During a final synthesis, which response best demonstrates write a statistical question in statistical investigations and sampling?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates write a statistical question in statistical investigations and sampling?",
+    "question": "What is required to apply write a statistical question in statistical investigations and sampling?",
+    "audio_prompt": "What is required to apply write a statistical question in statistical investigations and sampling?",
     "visual": {
       "type": "none",
       "alt_text": ""

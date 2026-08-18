@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "deducing that the area of a circle is between 2 radius squares and 4 radius squares",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For connect radius, diameter and circumference, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For connect radius, diameter and circumference, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses deducing that the area of a circle is between 2 radius squares and 4 radius squares?",
+    "audioPrompt": "Which response correctly uses deducing that the area of a circle is between 2 radius squares and 4 radius squares?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Deducing that the area of a circle is between 2 radius squares and 4 radius squares. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions deducing that the area of a circle is between 2 radius squares and 4 radius squares but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "deducing that the area of a circle is between 2 radius squares and 4 radius squares, and using 3\\timesradius^2 as a rough estimate for the area of a circle",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Deducing that the area of a circle is between 2 radius squares and 4 radius squares. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Deducing that the area of a circle is between 2 radius squares and 4 radius squares.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "deducing that the area of a circle is between 2 radius squares and 4 radius squares, and using 3\\timesradius^2 as a rough estimate for the area of a circle\nHint: deducing that the area of a circle is between 2 radius squares and 4 radius squares.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Deducing that the area of a circle is between 2 radius squares and 4 radius squares. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Deducing that the area of a circle is between 2 radius squares and 4 radius squares.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "deducing that the area of a circle is between 2 radius squares and 4 radius squares, and using 3\\timesradius^2 as a rough estimate for the area of a circle",
+      "hint": "deducing that the area of a circle is between 2 radius squares and 4 radius squares."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore the area of circles using a square grid or by rearranging a circle divided into smaller",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For derive the circle-area relationship, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For derive the circle-area relationship, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore the area of circles using a square grid or by rearranging a circle divided into smaller?",
+    "audioPrompt": "Which response correctly uses explore the area of circles using a square grid or by rearranging a circle divided into smaller?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Explore the area of circles using a square grid or by rearranging a circle divided into smaller. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore the area of circles using a square grid or by rearranging a circle divided into smaller but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating the area of circles using a square grid or by rearranging a circle divided into smaller and smaller sectors or slices to resemble a close approximation of a rectangle",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore the area of circles using a square grid or by rearranging a circle divided into smaller. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the area of circles using a square grid or by rearranging a circle divided into smaller.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the area of circles using a square grid or by rearranging a circle divided into smaller and smaller sectors or slices to resemble a close approximation of a rectangle\nHint: Explore the area of circles using a square grid or by rearranging a circle divided into smaller.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the area of circles using a square grid or by rearranging a circle divided into smaller. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the area of circles using a square grid or by rearranging a circle divided into smaller.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the area of circles using a square grid or by rearranging a circle divided into smaller and smaller sectors or slices to resemble a close approximation of a rectangle",
+      "hint": "Explore the area of circles using a square grid or by rearranging a circle divided into smaller."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "apply the formulas for the area and circumference of a circle to solve practical problems and using one of the measures of radius diameter",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For solve a compound circle problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For solve a compound circle problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter?",
+    "audioPrompt": "Which response correctly uses apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter but does not justify the relationship",
-      "Use the model evidence: Determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The circumference and area of circles model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "applying the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter, circumference or area to deduce the value of the other measures; for example, determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter, circumference or area to deduce the value of the other measures; for example, determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop\nHint: Apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter, circumference or area to deduce the value of the other measures; for example, determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop",
+      "hint": "Apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore traditional weaving designs by first nations australians and investigating the significance and use of circles",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For keep π exact until the final step, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For keep π exact until the final step, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore traditional weaving designs by first nations australians and investigating the significance and use of circles?",
+    "audioPrompt": "Which response correctly uses explore traditional weaving designs by first nations australians and investigating the significance and use of circles?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore traditional weaving designs by first nations australians and investigating the significance and use of circles but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring traditional weaving designs by First Nations Australians and investigating the significance and use of circles"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring traditional weaving designs by First Nations Australians and investigating the significance and use of circles\nHint: Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring traditional weaving designs by First Nations Australians and investigating the significance and use of circles",
+      "hint": "Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "deducing that the area of a circle is between 2 radius squares and 4 radius squares",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For connect radius, diameter and circumference, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For connect radius, diameter and circumference, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for deducing that the area of a circle is between 2 radius squares and 4 radius squares?",
+    "audioPrompt": "Which interpretation is accurate for deducing that the area of a circle is between 2 radius squares and 4 radius squares?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Deducing that the area of a circle is between 2 radius squares and 4 radius squares. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "deducing that the area of a circle is between 2 radius squares and 4 radius squares, and using 3\\timesradius^2 as a rough estimate for the area of a circle",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions deducing that the area of a circle is between 2 radius squares and 4 radius squares but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Deducing that the area of a circle is between 2 radius squares and 4 radius squares. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Deducing that the area of a circle is between 2 radius squares and 4 radius squares.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "deducing that the area of a circle is between 2 radius squares and 4 radius squares, and using 3\\timesradius^2 as a rough estimate for the area of a circle\nHint: deducing that the area of a circle is between 2 radius squares and 4 radius squares.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Deducing that the area of a circle is between 2 radius squares and 4 radius squares. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Deducing that the area of a circle is between 2 radius squares and 4 radius squares.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "deducing that the area of a circle is between 2 radius squares and 4 radius squares, and using 3\\timesradius^2 as a rough estimate for the area of a circle",
+      "hint": "deducing that the area of a circle is between 2 radius squares and 4 radius squares."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "explore the area of circles using a square grid or by rearranging a circle divided into smaller",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For derive the circle-area relationship, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For derive the circle-area relationship, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for explore the area of circles using a square grid or by rearranging a circle divided into smaller?",
+    "audioPrompt": "Which interpretation is accurate for explore the area of circles using a square grid or by rearranging a circle divided into smaller?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Explore the area of circles using a square grid or by rearranging a circle divided into smaller. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore the area of circles using a square grid or by rearranging a circle divided into smaller but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The circumference and area of circles model is copied without interpretation",
+      "investigating the area of circles using a square grid or by rearranging a circle divided into smaller and smaller sectors or slices to resemble a close approximation of a rectangle",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore the area of circles using a square grid or by rearranging a circle divided into smaller. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the area of circles using a square grid or by rearranging a circle divided into smaller.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the area of circles using a square grid or by rearranging a circle divided into smaller and smaller sectors or slices to resemble a close approximation of a rectangle\nHint: Explore the area of circles using a square grid or by rearranging a circle divided into smaller.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the area of circles using a square grid or by rearranging a circle divided into smaller. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the area of circles using a square grid or by rearranging a circle divided into smaller.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the area of circles using a square grid or by rearranging a circle divided into smaller and smaller sectors or slices to resemble a close approximation of a rectangle",
+      "hint": "Explore the area of circles using a square grid or by rearranging a circle divided into smaller."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "apply the formulas for the area and circumference of a circle to solve practical problems and using one of the measures of radius diameter",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For solve a compound circle problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For solve a compound circle problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter?",
+    "audioPrompt": "Which interpretation is accurate for apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter but does not justify the relationship",
-      "Use the model evidence: Determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "applying the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter, circumference or area to deduce the value of the other measures; for example, determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter, circumference or area to deduce the value of the other measures; for example, determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop\nHint: Apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter, circumference or area to deduce the value of the other measures; for example, determining the length of material needed to edge a round table, given its dimensions as the area of the tabletop",
+      "hint": "Apply the formulas for the area and circumference of a circle to solve practical problems, and using one of the measures of radius, diameter."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore traditional weaving designs by first nations australians and investigating the significance and use of circles",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For keep π exact until the final step, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For keep π exact until the final step, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for explore traditional weaving designs by first nations australians and investigating the significance and use of circles?",
+    "audioPrompt": "Which interpretation is accurate for explore traditional weaving designs by first nations australians and investigating the significance and use of circles?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore traditional weaving designs by first nations australians and investigating the significance and use of circles but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring traditional weaving designs by First Nations Australians and investigating the significance and use of circles"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring traditional weaving designs by First Nations Australians and investigating the significance and use of circles\nHint: Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring traditional weaving designs by First Nations Australians and investigating the significance and use of circles",
+      "hint": "Explore traditional weaving designs by First Nations Australians and investigating the significance and use of circles."
     },
     "qualitySchema": "production-v1"
   }

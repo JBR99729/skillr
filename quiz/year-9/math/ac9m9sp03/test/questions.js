@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For test and refine a visual-proof algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For test and refine a visual-proof algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
+    "question": "Which response correctly uses develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
+    "audioPrompt": "Which response correctly uses develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases\nHint: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
+      "hint": "Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For code a triangle test, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For code a triangle test, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
+    "audioPrompt": "Which interpretation is accurate for create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples\nHint: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
+      "hint": "Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For code an angle construction, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For code an angle construction, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
+    "audioPrompt": "Which interpretation is accurate for create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts but does not justify the relationship",
-      "Use the model evidence: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The geometric algorithms model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts\nHint: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
+      "hint": "Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For test and refine a visual-proof algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For test and refine a visual-proof algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
+    "audioPrompt": "Which interpretation is accurate for develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases\nHint: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
+      "hint": "Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For code a triangle test, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For code a triangle test, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "When would you use create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
+    "audioPrompt": "When would you use create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples\nHint: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
+      "hint": "Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For code an angle construction, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For code an angle construction, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "When would you use create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
+    "audioPrompt": "When would you use create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The geometric algorithms model is copied without interpretation",
+      "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts\nHint: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
+      "hint": "Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For test and refine a visual-proof algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For test and refine a visual-proof algorithm, which test case could expose an error in the steps Which response provides the strongest evidence?",
+    "question": "When would you use develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
+    "audioPrompt": "When would you use develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases but does not justify the relationship",
-      "Use the model evidence: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases\nHint: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
+      "hint": "Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For code a triangle test, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For code a triangle test, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
+    "audioPrompt": "Which choice demonstrates create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples\nHint: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
+      "hint": "Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples."
     },
     "qualitySchema": "production-v1"
   }

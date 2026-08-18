@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "recognise_that_in_a_table_of_values_if_the_second_difference_between_consecutive_values_of_the_dependent_variable_is_constant_then_it_is_a_quadratic",
-    "question": "During a guided example, For spot constant second differences, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During a guided example, For spot constant second differences, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic?",
+    "audio_prompt": "Which statement correctly describes recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic",
+      "hint": "Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "graphing_quadratic_functions_using_digital_tools_and_comparing_what_is_the_same_and_what_is_different_between_these_different_functions",
-    "question": "During a comparison task, For read the features of a parabola, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During a comparison task, For read the features of a parabola, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions?",
+    "audio_prompt": "Which statement correctly describes graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The quadratic functions and equations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions and their respective graphs; interpreting features of the graphs such as symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range",
         "is_correct": true
       },
       {
-        "text": "A response that mentions graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions and their respective graphs; interpreting features of the graphs such as symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range",
+      "hint": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "solve_quadratic_equations_algebraically_and_comparing_these_to_graphical_solutions",
-    "question": "During an error analysis, For compare algebraic and graphical solutions, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During an error analysis, For compare algebraic and graphical solutions, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes solve quadratic equations algebraically and comparing these to graphical solutions?",
+    "audio_prompt": "Which statement correctly describes solve quadratic equations algebraically and comparing these to graphical solutions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions solve quadratic equations algebraically and comparing these to graphical solutions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Solve quadratic equations algebraically and comparing these to graphical solutions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "solving quadratic equations algebraically and comparing these to graphical solutions",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Solve quadratic equations algebraically and comparing these to graphical solutions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Solve quadratic equations algebraically and comparing these to graphical solutions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "solving quadratic equations algebraically and comparing these to graphical solutions",
+      "hint": "Solve quadratic equations algebraically and comparing these to graphical solutions."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_graphs_to_determine_the_solutions_of_quadratic_equations_recognising_that_the_roots_of_a_quadratic_function_correspond_to_the_x_intercepts_of_its_graph",
-    "question": "During a model interpretation, For connect roots and x-intercepts, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During a model interpretation, For connect roots and x-intercepts, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes use graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph?",
+    "audio_prompt": "Which statement correctly describes use graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use graphs to determine the solutions of quadratic equations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph and that if the graph has no x-intercepts, then the corresponding equation has no real solutions",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Use graphs to determine the solutions of quadratic equations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use graphs to determine the solutions of quadratic equations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph and that if the graph has no x-intercepts, then the corresponding equation has no real solutions",
+      "hint": "Use graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "connect_horizontal_axis_intercepts_of_the_graph_of_a_quadratic_function_to_the_factorised_form_of_its_rule_using_the_null_factor_law",
-    "question": "During an evidence check, For connect factors and intercepts, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During an evidence check, For connect factors and intercepts, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law?",
+    "audio_prompt": "Which statement correctly describes connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: The graph of the function y=x²-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law; for example, the graph of the function y=x^2-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0",
         "is_correct": true
       },
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The quadratic functions and equations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: The graph of the function y=x²-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The graph of the function y=x²-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law; for example, the graph of the function y=x^2-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0",
+      "hint": "Connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "recognise_that_the_equation_x_a_where_a_0_has_2_solutions_x_a_and_x_a",
-    "question": "During a transfer problem, For solve x²=a in both directions, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During a transfer problem, For solve x²=a in both directions, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes recognise that the equation x²=a, where a>0, has 2 solutions, x=√a and x=-√a?",
+    "audio_prompt": "Which statement correctly describes recognise that the equation x²=a, where a>0, has 2 solutions, x=√a and x=-√a?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: If x²=39 then x=√(39)=6.245 correct to 3 decimal places, or x=-√(39)=-6.245 correct to 3 decimal places, and representing these graphically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "recognising that the equation x^2=a, where a>0, has 2 solutions, x=\\sqrt a and x=-\\sqrt a; for example, if x^2=39 then x=\\sqrt{39}=6.245 correct to 3 decimal places, or x=-\\sqrt{39}=-6.245 correct to 3 decimal places, and representing these graphically",
         "is_correct": true
       },
       {
-        "text": "A response that mentions recognise that the equation x²=a, where a>0, has 2 solutions, x=√a and x=-√a but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: If x²=39 then x=√(39)=6.245 correct to 3 decimal places, or x=-√(39)=-6.245 correct to 3 decimal places, and representing these graphically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘If x²=39 then x=√(39)=6.245 correct to 3 decimal places, or x=-√(39)=-6.245 correct to 3 decimal places, and representing these graphically.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that the equation x^2=a, where a>0, has 2 solutions, x=\\sqrt a and x=-\\sqrt a; for example, if x^2=39 then x=\\sqrt{39}=6.245 correct to 3 decimal places, or x=-\\sqrt{39}=-6.245 correct to 3 decimal places, and representing these graphically",
+      "hint": "Recognise that the equation x²=a, where a>0, has 2 solutions, x=√a and x=-√a."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "graphing_percentages_of_illumination_of_moon_phases_in_relation_to_first_nations_australians_understandings_that_describe_the_different_phases_of_the_moon",
-    "question": "During a peer explanation, For graph changing moon illumination, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During a peer explanation, For graph changing moon illumination, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes graphing percentages of illumination of moon phases in relation to first nations australians’ understandings that describe the different phases of the moon?",
+    "audio_prompt": "Which statement correctly describes graphing percentages of illumination of moon phases in relation to first nations australians’ understandings that describe the different phases of the moon?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions graphing percentages of illumination of moon phases in relation to first nations australians’ understandings that describe the different phases of the moon but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon",
+      "hint": "graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "recognise_that_in_a_table_of_values_if_the_second_difference_between_consecutive_values_of_the_dependent_variable_is_constant_then_it_is_a_quadratic",
-    "question": "During an independent review, For spot constant second differences, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During an independent review, For spot constant second differences, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement gives a valid example of recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic?",
+    "audio_prompt": "Which statement gives a valid example of recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The quadratic functions and equations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic",
+      "hint": "Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "graphing_quadratic_functions_using_digital_tools_and_comparing_what_is_the_same_and_what_is_different_between_these_different_functions",
-    "question": "During a fresh case study, For read the features of a parabola, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For read the features of a parabola, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions?",
+    "audio_prompt": "Which description correctly applies graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions and their respective graphs; interpreting features of the graphs such as symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range",
         "is_correct": true
       },
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions and their respective graphs; interpreting features of the graphs such as symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range",
+      "hint": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "solve_quadratic_equations_algebraically_and_comparing_these_to_graphical_solutions",
-    "question": "During an unfamiliar representation, For compare algebraic and graphical solutions, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For compare algebraic and graphical solutions, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies solve quadratic equations algebraically and comparing these to graphical solutions?",
+    "audio_prompt": "Which description correctly applies solve quadratic equations algebraically and comparing these to graphical solutions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Solve quadratic equations algebraically and comparing these to graphical solutions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "solving quadratic equations algebraically and comparing these to graphical solutions",
         "is_correct": true
       },
       {
-        "text": "A response that mentions solve quadratic equations algebraically and comparing these to graphical solutions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Solve quadratic equations algebraically and comparing these to graphical solutions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Solve quadratic equations algebraically and comparing these to graphical solutions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "solving quadratic equations algebraically and comparing these to graphical solutions",
+      "hint": "Solve quadratic equations algebraically and comparing these to graphical solutions."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_graphs_to_determine_the_solutions_of_quadratic_equations_recognising_that_the_roots_of_a_quadratic_function_correspond_to_the_x_intercepts_of_its_graph",
-    "question": "During a critical response, For connect roots and x-intercepts, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For connect roots and x-intercepts, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph?",
+    "audio_prompt": "Which description correctly applies use graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The quadratic functions and equations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use graphs to determine the solutions of quadratic equations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph and that if the graph has no x-intercepts, then the corresponding equation has no real solutions",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Use graphs to determine the solutions of quadratic equations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use graphs to determine the solutions of quadratic equations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph and that if the graph has no x-intercepts, then the corresponding equation has no real solutions",
+      "hint": "Use graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "connect_horizontal_axis_intercepts_of_the_graph_of_a_quadratic_function_to_the_factorised_form_of_its_rule_using_the_null_factor_law",
-    "question": "During a worked solution audit, For connect factors and intercepts, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For connect factors and intercepts, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law?",
+    "audio_prompt": "Which description correctly applies connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: The graph of the function y=x²-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law; for example, the graph of the function y=x^2-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: The graph of the function y=x²-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The graph of the function y=x²-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law; for example, the graph of the function y=x^2-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0",
+      "hint": "Connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "recognise_that_the_equation_x_a_where_a_0_has_2_solutions_x_a_and_x_a",
-    "question": "During a source evaluation, For solve x²=a in both directions, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For solve x²=a in both directions, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies recognise that the equation x²=a, where a>0, has 2 solutions, x=√a and x=-√a?",
+    "audio_prompt": "Which description correctly applies recognise that the equation x²=a, where a>0, has 2 solutions, x=√a and x=-√a?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: If x²=39 then x=√(39)=6.245 correct to 3 decimal places, or x=-√(39)=-6.245 correct to 3 decimal places, and representing these graphically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "recognising that the equation x^2=a, where a>0, has 2 solutions, x=\\sqrt a and x=-\\sqrt a; for example, if x^2=39 then x=\\sqrt{39}=6.245 correct to 3 decimal places, or x=-\\sqrt{39}=-6.245 correct to 3 decimal places, and representing these graphically",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions recognise that the equation x²=a, where a>0, has 2 solutions, x=√a and x=-√a but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: If x²=39 then x=√(39)=6.245 correct to 3 decimal places, or x=-√(39)=-6.245 correct to 3 decimal places, and representing these graphically. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘If x²=39 then x=√(39)=6.245 correct to 3 decimal places, or x=-√(39)=-6.245 correct to 3 decimal places, and representing these graphically.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that the equation x^2=a, where a>0, has 2 solutions, x=\\sqrt a and x=-\\sqrt a; for example, if x^2=39 then x=\\sqrt{39}=6.245 correct to 3 decimal places, or x=-\\sqrt{39}=-6.245 correct to 3 decimal places, and representing these graphically",
+      "hint": "Recognise that the equation x²=a, where a>0, has 2 solutions, x=√a and x=-√a."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "graphing_percentages_of_illumination_of_moon_phases_in_relation_to_first_nations_australians_understandings_that_describe_the_different_phases_of_the_moon",
-    "question": "During a multi-step application, For graph changing moon illumination, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For graph changing moon illumination, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies graphing percentages of illumination of moon phases in relation to first nations australians’ understandings that describe the different phases of the moon?",
+    "audio_prompt": "Which description correctly applies graphing percentages of illumination of moon phases in relation to first nations australians’ understandings that describe the different phases of the moon?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The quadratic functions and equations model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon",
         "is_correct": true
       },
       {
-        "text": "A response that mentions graphing percentages of illumination of moon phases in relation to first nations australians’ understandings that describe the different phases of the moon but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon",
+      "hint": "graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "recognise_that_in_a_table_of_values_if_the_second_difference_between_consecutive_values_of_the_dependent_variable_is_constant_then_it_is_a_quadratic",
-    "question": "During a justification task, For spot constant second differences, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For spot constant second differences, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic?",
+    "audio_prompt": "Which response correctly uses recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic",
+      "hint": "Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "graphing_quadratic_functions_using_digital_tools_and_comparing_what_is_the_same_and_what_is_different_between_these_different_functions",
-    "question": "During a final synthesis, For read the features of a parabola, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For read the features of a parabola, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions?",
+    "audio_prompt": "Which response correctly uses graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions and their respective graphs; interpreting features of the graphs such as symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions and their respective graphs; interpreting features of the graphs such as symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range",
+      "hint": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions."
     }
   }
 ]

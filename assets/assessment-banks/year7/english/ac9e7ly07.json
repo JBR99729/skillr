@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "create_roadmap",
-    "question": "During a guided example, which statement correctly explains signposting?",
-    "audio_prompt": "During a guided example, which statement correctly explains signposting?",
+    "question": "Which statement correctly explains signposting in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which statement correctly explains signposting in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "use_signpost",
-    "question": "During a comparison task, which statement correctly explains rehearsal?",
-    "audio_prompt": "During a comparison task, which statement correctly explains rehearsal?",
+    "question": "Which description is accurate for rehearsal in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which description is accurate for rehearsal in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "interpret_a_visual",
-    "question": "During an error analysis, which statement correctly explains delivery?",
-    "audio_prompt": "During an error analysis, which statement correctly explains delivery?",
+    "question": "Which statement gives an example of delivery in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which statement gives an example of delivery in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "set_rehearsal_criterion",
-    "question": "During a model interpretation, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "question": "What is important when using signposting in purposeful oral and multimodal presentations?",
+    "audio_prompt": "What is important when using signposting in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "respond_to_questions",
-    "question": "During an evidence check, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During an evidence check, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
+    "question": "Which statement correctly identifies rehearsal in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which statement correctly identifies rehearsal in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "create_roadmap",
-    "question": "During a transfer problem, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
+    "question": "Which choice best describes delivery in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which choice best describes delivery in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "use_signpost",
-    "question": "During a peer explanation, which response best demonstrates use signpost in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates use signpost in purposeful oral and multimodal presentations?",
+    "question": "What does correct use require for signposting in purposeful oral and multimodal presentations?",
+    "audio_prompt": "What does correct use require for signposting in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "interpret_a_visual",
-    "question": "During an independent review, which response best demonstrates interpret a visual in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During an independent review, which response best demonstrates interpret a visual in purposeful oral and multimodal presentations?",
+    "question": "Which statement is true about rehearsal in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which statement is true about rehearsal in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "set_rehearsal_criterion",
-    "question": "During a fresh case study, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "question": "Which response correctly applies set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which response correctly applies set rehearsal criterion in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "respond_to_questions",
-    "question": "During an unfamiliar representation, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
+    "question": "Which response shows correct use of respond to questions in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which response shows correct use of respond to questions in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "create_roadmap",
-    "question": "During a critical response, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During a critical response, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
+    "question": "Which interpretation is accurate for create roadmap in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which interpretation is accurate for create roadmap in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "use_signpost",
-    "question": "During a worked solution audit, which response best demonstrates use signpost in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates use signpost in purposeful oral and multimodal presentations?",
+    "question": "Which choice demonstrates use signpost in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which choice demonstrates use signpost in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "interpret_a_visual",
-    "question": "During a source evaluation, which response best demonstrates interpret a visual in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates interpret a visual in purposeful oral and multimodal presentations?",
+    "question": "What should be checked when applying interpret a visual in purposeful oral and multimodal presentations?",
+    "audio_prompt": "What should be checked when applying interpret a visual in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "set_rehearsal_criterion",
-    "question": "During a multi-step application, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "question": "Which response best uses set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which response best uses set rehearsal criterion in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "respond_to_questions",
-    "question": "During a justification task, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During a justification task, which response best demonstrates respond to questions in purposeful oral and multimodal presentations?",
+    "question": "Which claim is accurate about respond to questions in purposeful oral and multimodal presentations?",
+    "audio_prompt": "Which claim is accurate about respond to questions in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "create_roadmap",
-    "question": "During a final synthesis, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates create roadmap in purposeful oral and multimodal presentations?",
+    "question": "What is required to apply create roadmap in purposeful oral and multimodal presentations?",
+    "audio_prompt": "What is required to apply create roadmap in purposeful oral and multimodal presentations?",
     "visual": {
       "type": "none",
       "alt_text": ""

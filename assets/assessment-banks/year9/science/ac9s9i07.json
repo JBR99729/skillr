@@ -6,15 +6,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_secondary_data_to_determine_the_credibility_of_the_source_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a guided example, In 20 seconds, explain how claim helps make sense of secondary data to determine the credibility of the source",
-    "audio_prompt": "During a guided example, In 20 seconds, explain how claim helps make sense of secondary data to determine the credibility of the source",
+    "question": "Which statement correctly describes use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
+      "hint": "Use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_multiple_sources_of_evidence_that_are_consistent_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a comparison task, In 20 seconds, explain how evidence set helps make sense of multiple sources of evidence that are consistent",
-    "audio_prompt": "During a comparison task, In 20 seconds, explain how evidence set helps make sense of multiple sources of evidence that are consistent",
+    "question": "Which statement correctly describes use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -55,22 +55,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "text": "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine",
         "is_correct": true
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine",
+      "hint": "Use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_interrogating_the_evidence_and_reasoning_used_to_justify_claims_to_make_the_role_of_source_credibility_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an error analysis, In 20 seconds, explain how source credibility helps make sense of interrogating the evidence and reasoning used to justify claims",
-    "audio_prompt": "During an error analysis, In 20 seconds, explain how source credibility helps make sense of interrogating the evidence and reasoning used to justify claims",
+    "question": "Which statement correctly describes use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -92,22 +92,22 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "interrogating the evidence and reasoning used to justify claims regarding the age of ancient artefacts",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "interrogating the evidence and reasoning used to justify claims regarding the age of ancient artefacts",
+      "hint": "Use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_the_methods_used_by_scientists_in_studies_reported_to_make_the_role_of_reasoning_and_rebuttal_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a model interpretation, In 20 seconds, explain how reasoning and rebuttal helps make sense of the methods used by scientists in studies reported",
-    "audio_prompt": "During a model interpretation, In 20 seconds, explain how reasoning and rebuttal helps make sense of the methods used by scientists in studies reported",
+    "question": "Which statement correctly describes use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "researching the methods used by scientists in studies reported in the media to evaluate the validity of the headlines",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "researching the methods used by scientists in studies reported in the media to evaluate the validity of the headlines",
+      "hint": "Use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -154,15 +154,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_secondary_data_to_ensure_it_does_not_contain_personal_to_make_the_role_of_ethical_use_and_boundary_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an evidence check, In 20 seconds, explain how ethical use and boundary helps make sense of secondary data to ensure it does not contain personal",
-    "audio_prompt": "During an evidence check, In 20 seconds, explain how ethical use and boundary helps make sense of secondary data to ensure it does not contain personal",
+    "question": "Which statement correctly describes use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "text": "examining secondary data to ensure it does not contain personal information which could potentially harm individuals, is correctly cited and is relevant to the investigation question or claim",
         "is_correct": true
       },
       {
@@ -170,18 +170,18 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "examining secondary data to ensure it does not contain personal information which could potentially harm individuals, is correctly cited and is relevant to the investigation question or claim",
+      "hint": "Use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_identifying_the_relationship_between_first_peoples_knowledges_and_contemporary_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a transfer problem, In 20 seconds, explain how claim helps make sense of identifying the relationship between first peoples’ knowledges and contemporary",
-    "audio_prompt": "During a transfer problem, In 20 seconds, explain how claim helps make sense of identifying the relationship between first peoples’ knowledges and contemporary",
+    "question": "Which statement correctly describes use identifying the relationship between first peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use identifying the relationship between first peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -203,22 +203,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "acknowledging and identifying the relationship between First Peoples’ knowledges and contemporary science and the co-contributions in arriving at shared understandings when working ‘both ways’",
         "is_correct": true
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use identifying the relationship between first peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "acknowledging and identifying the relationship between First Peoples’ knowledges and contemporary science and the co-contributions in arriving at shared understandings when working ‘both ways’",
+      "hint": "Use identifying the relationship between First Peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_constructing_an_argument_for_the_contributions_to_medicine_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a peer explanation, In 20 seconds, explain how evidence set helps make sense of constructing an argument for the contributions to medicine",
-    "audio_prompt": "During a peer explanation, In 20 seconds, explain how evidence set helps make sense of constructing an argument for the contributions to medicine",
+    "question": "Which statement correctly describes use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "acknowledging and constructing an argument for the contributions to medicine of First Nations Australians’ knowledges of physiological pathways and contemporary medicinal delivery systems",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "acknowledging and constructing an argument for the contributions to medicine of First Nations Australians’ knowledges of physiological pathways and contemporary medicinal delivery systems",
+      "hint": "Use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_secondary_data_to_determine_the_credibility_of_the_source_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an independent review, Use the central model to explain argue from multiple lines of evidence in three linked sentences",
-    "audio_prompt": "During an independent review, Use the central model to explain argue from multiple lines of evidence in three linked sentences",
+    "question": "Which statement gives a valid example of use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement gives a valid example of use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A persuasive tone strengthens scientific evidence",
-        "is_correct": false
-      },
-      {
         "text": "Acknowledging uncertainty weakens an argument",
         "is_correct": false
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Arguments synthesise multiple credible evidence lines. Reasoning addresses alternatives and limitations. Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Arguments synthesise multiple credible evidence lines. Reasoning addresses alternatives and limitations. Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
+      "hint": "Use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -302,15 +302,15 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_multiple_sources_of_evidence_that_are_consistent_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a fresh case study, In 20 seconds, explain how claim helps make sense of secondary data to determine the credibility of the source Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, In 20 seconds, explain how claim helps make sense of secondary data to determine the credibility of the source Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine",
         "is_correct": true
       },
       {
@@ -318,18 +318,18 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine",
+      "hint": "Use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_interrogating_the_evidence_and_reasoning_used_to_justify_claims_to_make_the_role_of_source_credibility_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how evidence set helps make sense of multiple sources of evidence that are consistent Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how evidence set helps make sense of multiple sources of evidence that are consistent Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "text": "interrogating the evidence and reasoning used to justify claims regarding the age of ancient artefacts",
         "is_correct": true
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "interrogating the evidence and reasoning used to justify claims regarding the age of ancient artefacts",
+      "hint": "Use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_the_methods_used_by_scientists_in_studies_reported_to_make_the_role_of_reasoning_and_rebuttal_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a critical response, In 20 seconds, explain how source credibility helps make sense of interrogating the evidence and reasoning used to justify claims Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, In 20 seconds, explain how source credibility helps make sense of interrogating the evidence and reasoning used to justify claims Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -388,22 +388,22 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "researching the methods used by scientists in studies reported in the media to evaluate the validity of the headlines",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "researching the methods used by scientists in studies reported in the media to evaluate the validity of the headlines",
+      "hint": "Use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_secondary_data_to_ensure_it_does_not_contain_personal_to_make_the_role_of_ethical_use_and_boundary_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a worked solution audit, In 20 seconds, explain how reasoning and rebuttal helps make sense of the methods used by scientists in studies reported Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how reasoning and rebuttal helps make sense of the methods used by scientists in studies reported Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -425,22 +425,22 @@
         "is_correct": false
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "examining secondary data to ensure it does not contain personal information which could potentially harm individuals, is correctly cited and is relevant to the investigation question or claim",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "examining secondary data to ensure it does not contain personal information which could potentially harm individuals, is correctly cited and is relevant to the investigation question or claim",
+      "hint": "Use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_identifying_the_relationship_between_first_peoples_knowledges_and_contemporary_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a source evaluation, In 20 seconds, explain how ethical use and boundary helps make sense of secondary data to ensure it does not contain personal Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, In 20 seconds, explain how ethical use and boundary helps make sense of secondary data to ensure it does not contain personal Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use identifying the relationship between first peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use identifying the relationship between first peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "text": "acknowledging and identifying the relationship between First Peoples’ knowledges and contemporary science and the co-contributions in arriving at shared understandings when working ‘both ways’",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use identifying the relationship between first peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "acknowledging and identifying the relationship between First Peoples’ knowledges and contemporary science and the co-contributions in arriving at shared understandings when working ‘both ways’",
+      "hint": "Use identifying the relationship between First Peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -487,8 +487,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_constructing_an_argument_for_the_contributions_to_medicine_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a multi-step application, In 20 seconds, explain how claim helps make sense of identifying the relationship between first peoples’ knowledges and contemporary Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, In 20 seconds, explain how claim helps make sense of identifying the relationship between first peoples’ knowledges and contemporary Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -499,22 +499,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "acknowledging and constructing an argument for the contributions to medicine of First Nations Australians’ knowledges of physiological pathways and contemporary medicinal delivery systems",
         "is_correct": true
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "acknowledging and constructing an argument for the contributions to medicine of First Nations Australians’ knowledges of physiological pathways and contemporary medicinal delivery systems",
+      "hint": "Use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_secondary_data_to_determine_the_credibility_of_the_source_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a justification task, In 20 seconds, explain how evidence set helps make sense of constructing an argument for the contributions to medicine Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, In 20 seconds, explain how evidence set helps make sense of constructing an argument for the contributions to medicine Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -536,22 +536,22 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
+      "hint": "Use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -561,34 +561,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_multiple_sources_of_evidence_that_are_consistent_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a final synthesis, Use the central model to explain argue from multiple lines of evidence in three linked sentences Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, Use the central model to explain argue from multiple lines of evidence in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which response correctly uses use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A persuasive tone strengthens scientific evidence",
-        "is_correct": false
-      },
-      {
         "text": "Acknowledging uncertainty weakens an argument",
         "is_correct": false
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Arguments synthesise multiple credible evidence lines. Reasoning addresses alternatives and limitations. Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Arguments synthesise multiple credible evidence lines. Reasoning addresses alternatives and limitations. Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine",
+      "hint": "Use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     }
   }
 ]

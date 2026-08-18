@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use patterns to assist in establishing the rules for the multiplication and division of integers",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For establish the integer sign rules, what changes, what stays invariant, and why",
-    "audioPrompt": "During a guided example, For establish the integer sign rules, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes use patterns to assist in establishing the rules for the multiplication and division of integers?",
+    "audioPrompt": "Which statement correctly describes use patterns to assist in establishing the rules for the multiplication and division of integers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Use patterns to assist in establishing the rules for the multiplication and division of integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "using patterns to assist in establishing the rules for the multiplication and division of integers",
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions use patterns to assist in establishing the rules for the multiplication and division of integers but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Use patterns to assist in establishing the rules for the multiplication and division of integers. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use patterns to assist in establishing the rules for the multiplication and division of integers.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using patterns to assist in establishing the rules for the multiplication and division of integers\nHint: Use patterns to assist in establishing the rules for the multiplication and division of integers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use patterns to assist in establishing the rules for the multiplication and division of integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use patterns to assist in establishing the rules for the multiplication and division of integers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using patterns to assist in establishing the rules for the multiplication and division of integers",
+      "hint": "Use patterns to assist in establishing the rules for the multiplication and division of integers."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply and explaining efficient strategies such as using the commutative or associative property for regrouping partitioning place value patterning",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For choose efficient rational-number strategies, what changes, what stays invariant, and why",
-    "audioPrompt": "During a comparison task, For choose efficient rational-number strategies, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning?",
+    "audioPrompt": "Which statement correctly describes apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "Use the model evidence: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The operations with integers and rational numbers model is copied without interpretation",
+      "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals\nHint: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals",
+      "hint": "Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "recognise the effect of sign in the multiplication of integers",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For track signs through powers, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During an error analysis, For track signs through powers, which algebraic step preserves equivalence, and why",
+    "question": "Which statement correctly describes recognise the effect of sign in the multiplication of integers?",
+    "audioPrompt": "Which statement correctly describes recognise the effect of sign in the multiplication of integers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions recognise the effect of sign in the multiplication of integers but does not justify the relationship",
-      "Use the model evidence: (−1)⁴ = 1 but (−1)⁵ = −1: an even number of negative factors pairs off; one remains for an odd power. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "recognising the effect of sign in the multiplication of integers; for example, (-1)^4\\;=\\;1 and (-1)^5\\;= -1",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: (−1)⁴ = 1 but (−1)⁵ = −1: an even number of negative factors pairs off; one remains for an odd power. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘(−1)⁴ = 1 but (−1)⁵ = −1: an even number of negative factors pairs off; one remains for an odd power.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recognising the effect of sign in the multiplication of integers; for example, (-1)^4\\;=\\;1 and (-1)^5\\;= -1\nHint: Recognise the effect of sign in the multiplication of integers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: (−1)⁴ = 1 but (−1)⁵ = −1: an even number of negative factors pairs off; one remains for an odd power. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘(−1)⁴ = 1 but (−1)⁵ = −1: an even number of negative factors pairs off; one remains for an odd power.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising the effect of sign in the multiplication of integers; for example, (-1)^4\\;=\\;1 and (-1)^5\\;= -1",
+      "hint": "Recognise the effect of sign in the multiplication of integers."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use patterns to assist in establishing the rules for the multiplication and division of integers",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For establish the integer sign rules, what changes, what stays invariant, and why",
-    "audioPrompt": "During a model interpretation, For establish the integer sign rules, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of use patterns to assist in establishing the rules for the multiplication and division of integers?",
+    "audioPrompt": "Which statement gives a valid example of use patterns to assist in establishing the rules for the multiplication and division of integers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions use patterns to assist in establishing the rules for the multiplication and division of integers but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Use patterns to assist in establishing the rules for the multiplication and division of integers. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using patterns to assist in establishing the rules for the multiplication and division of integers"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Use patterns to assist in establishing the rules for the multiplication and division of integers. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use patterns to assist in establishing the rules for the multiplication and division of integers.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using patterns to assist in establishing the rules for the multiplication and division of integers\nHint: Use patterns to assist in establishing the rules for the multiplication and division of integers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use patterns to assist in establishing the rules for the multiplication and division of integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use patterns to assist in establishing the rules for the multiplication and division of integers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using patterns to assist in establishing the rules for the multiplication and division of integers",
+      "hint": "Use patterns to assist in establishing the rules for the multiplication and division of integers."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply and explaining efficient strategies such as using the commutative or associative property for regrouping partitioning place value patterning",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For choose efficient rational-number strategies, what changes, what stays invariant, and why",
-    "audioPrompt": "During an evidence check, For choose efficient rational-number strategies, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning?",
+    "audioPrompt": "Which statement gives a valid example of apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals",
+      "The operations with integers and rational numbers model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals\nHint: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals",
+      "hint": "Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "recognise the effect of sign in the multiplication of integers",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For track signs through powers, which algebraic step preserves equivalence, and why",
-    "audioPrompt": "During a transfer problem, For track signs through powers, which algebraic step preserves equivalence, and why",
+    "question": "Which statement gives a valid example of recognise the effect of sign in the multiplication of integers?",
+    "audioPrompt": "Which statement gives a valid example of recognise the effect of sign in the multiplication of integers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "Use the model evidence: (−1)⁴ = 1 but (−1)⁵ = −1: an even number of negative factors pairs off; one remains for an odd power. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions recognise the effect of sign in the multiplication of integers but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "recognising the effect of sign in the multiplication of integers; for example, (-1)^4\\;=\\;1 and (-1)^5\\;= -1",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: (−1)⁴ = 1 but (−1)⁵ = −1: an even number of negative factors pairs off; one remains for an odd power. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘(−1)⁴ = 1 but (−1)⁵ = −1: an even number of negative factors pairs off; one remains for an odd power.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recognising the effect of sign in the multiplication of integers; for example, (-1)^4\\;=\\;1 and (-1)^5\\;= -1\nHint: Recognise the effect of sign in the multiplication of integers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: (−1)⁴ = 1 but (−1)⁵ = −1: an even number of negative factors pairs off; one remains for an odd power. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘(−1)⁴ = 1 but (−1)⁵ = −1: an even number of negative factors pairs off; one remains for an odd power.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising the effect of sign in the multiplication of integers; for example, (-1)^4\\;=\\;1 and (-1)^5\\;= -1",
+      "hint": "Recognise the effect of sign in the multiplication of integers."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use patterns to assist in establishing the rules for the multiplication and division of integers",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For establish the integer sign rules, what changes, what stays invariant, and why",
-    "audioPrompt": "During a peer explanation, For establish the integer sign rules, what changes, what stays invariant, and why",
+    "question": "What should you check when using use patterns to assist in establishing the rules for the multiplication and division of integers?",
+    "audioPrompt": "What should you check when using use patterns to assist in establishing the rules for the multiplication and division of integers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions use patterns to assist in establishing the rules for the multiplication and division of integers but does not justify the relationship",
-      "Use the model evidence: Use patterns to assist in establishing the rules for the multiplication and division of integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "using patterns to assist in establishing the rules for the multiplication and division of integers",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use patterns to assist in establishing the rules for the multiplication and division of integers. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use patterns to assist in establishing the rules for the multiplication and division of integers.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using patterns to assist in establishing the rules for the multiplication and division of integers\nHint: Use patterns to assist in establishing the rules for the multiplication and division of integers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use patterns to assist in establishing the rules for the multiplication and division of integers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use patterns to assist in establishing the rules for the multiplication and division of integers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using patterns to assist in establishing the rules for the multiplication and division of integers",
+      "hint": "Use patterns to assist in establishing the rules for the multiplication and division of integers."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "apply and explaining efficient strategies such as using the commutative or associative property for regrouping partitioning place value patterning",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For choose efficient rational-number strategies, what changes, what stays invariant, and why",
-    "audioPrompt": "During an independent review, For choose efficient rational-number strategies, what changes, what stays invariant, and why",
+    "question": "What should you check when using apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning?",
+    "audioPrompt": "What should you check when using apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The operations with integers and rational numbers model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals\nHint: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals",
+      "hint": "Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning."
     },
     "qualitySchema": "production-v1"
   }

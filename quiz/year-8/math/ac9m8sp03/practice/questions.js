@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For read an ordered triple, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a guided example, For read an ordered triple, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system?",
+    "audioPrompt": "Which statement correctly describes locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system\nHint: locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
+      "hint": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For locate points in three dimensions, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a comparison task, For locate points in three dimensions, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes construct three-dimensional objects using 3d printers or designing software that uses a three-dimensional coordinate system?",
+    "audioPrompt": "Which statement correctly describes construct three-dimensional objects using 3d printers or designing software that uses a three-dimensional coordinate system?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions construct three-dimensional objects using 3d printers or designing software that uses a three-dimensional coordinate system but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The position in three dimensions model is copied without interpretation",
+      "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system\nHint: Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
+      "hint": "Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For compare plan and elevation views, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During an error analysis, For compare plan and elevation views, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views?",
+    "audioPrompt": "Which statement correctly describes compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views but does not justify the relationship",
-      "Use the model evidence: Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views\nHint: Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
+      "hint": "Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For describe position from a chosen origin, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a model interpretation, For describe position from a chosen origin, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system?",
+    "audioPrompt": "Which statement correctly describes use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system\nHint: Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system",
+      "hint": "Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For use layers to represent height, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During an evidence check, For use layers to represent height, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional noughts and crosses (tic-tac-toe)?",
+    "audioPrompt": "Which statement correctly describes interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional noughts and crosses (tic-tac-toe)?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Three-dimensional Noughts and Crosses (Tic-Tac-Toe). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional noughts and crosses (tic-tac-toe) but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)",
+      "The position in three dimensions model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Three-dimensional Noughts and Crosses (Tic-Tac-Toe). Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Three-dimensional Noughts and Crosses (Tic-Tac-Toe).’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)\nHint: Interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe).",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Three-dimensional Noughts and Crosses (Tic-Tac-Toe). Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Three-dimensional Noughts and Crosses (Tic-Tac-Toe).’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)",
+      "hint": "Interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore position and transformation through geospatial technologies used by first nations australians communities",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For navigate a digital 3d model, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a transfer problem, For navigate a digital 3d model, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes explore position and transformation through geospatial technologies used by first nations australians’ communities?",
+    "audioPrompt": "Which statement correctly describes explore position and transformation through geospatial technologies used by first nations australians’ communities?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Explore position and transformation through geospatial technologies used by First Nations Australians’ communities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore position and transformation through geospatial technologies used by first nations australians’ communities but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore position and transformation through geospatial technologies used by First Nations Australians’ communities. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore position and transformation through geospatial technologies used by First Nations Australians’ communities.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities\nHint: Explore position and transformation through geospatial technologies used by First Nations Australians’ communities.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore position and transformation through geospatial technologies used by First Nations Australians’ communities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore position and transformation through geospatial technologies used by First Nations Australians’ communities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities",
+      "hint": "Explore position and transformation through geospatial technologies used by First Nations Australians’ communities."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For read an ordered triple, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a peer explanation, For read an ordered triple, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system?",
+    "audioPrompt": "Which statement gives a valid example of locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system but does not justify the relationship",
-      "Use the model evidence: Locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system\nHint: locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
+      "hint": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For locate points in three dimensions, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During an independent review, For locate points in three dimensions, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of construct three-dimensional objects using 3d printers or designing software that uses a three-dimensional coordinate system?",
+    "audioPrompt": "Which statement gives a valid example of construct three-dimensional objects using 3d printers or designing software that uses a three-dimensional coordinate system?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions construct three-dimensional objects using 3d printers or designing software that uses a three-dimensional coordinate system but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The position in three dimensions model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system\nHint: Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
+      "hint": "Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system."
     },
     "qualitySchema": "production-v1"
   }

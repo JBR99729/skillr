@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For audit a media infographic, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a guided example, For audit a media infographic, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
+    "audioPrompt": "Which statement correctly describes explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples\nHint: Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For see how contact methods bias surveys, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a comparison task, For see how contact methods bias surveys, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
+    "audioPrompt": "Which statement correctly describes discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The sampling and representation bias model is copied without interpretation",
+      "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data\nHint: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For identify cultural bias in sampling, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an error analysis, For identify cultural bias in sampling, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports?",
+    "audioPrompt": "Which statement correctly describes explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports but does not justify the relationship",
-      "Use the model evidence: Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports\nHint: Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+      "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For audit a media infographic, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a model interpretation, For audit a media infographic, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
+    "audioPrompt": "Which statement gives a valid example of explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples\nHint: Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For see how contact methods bias surveys, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an evidence check, For see how contact methods bias surveys, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
+    "audioPrompt": "Which statement gives a valid example of discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+      "The sampling and representation bias model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data\nHint: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For identify cultural bias in sampling, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a transfer problem, For identify cultural bias in sampling, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports?",
+    "audioPrompt": "Which statement gives a valid example of explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports\nHint: Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+      "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For audit a media infographic, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a peer explanation, For audit a media infographic, what claim is supported, and what limitation remains",
+    "question": "What should you check when using explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
+    "audioPrompt": "What should you check when using explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples but does not justify the relationship",
-      "Use the model evidence: Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples\nHint: Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For see how contact methods bias surveys, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an independent review, For see how contact methods bias surveys, what claim is supported, and what limitation remains",
+    "question": "What should you check when using discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
+    "audioPrompt": "What should you check when using discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The sampling and representation bias model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data\nHint: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
     },
     "qualitySchema": "production-v1"
   }

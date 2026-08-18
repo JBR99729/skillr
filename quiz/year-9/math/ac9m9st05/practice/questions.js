@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For investigate a secondary data set, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a guided example, For investigate a secondary data set, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics?",
+    "audioPrompt": "Which statement correctly describes plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The Australian Bureau of Statistics.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics\nHint: Plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The Australian Bureau of Statistics.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+      "hint": "Plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For design fair consumer research, what changes, what stays invariant, and why",
-    "audioPrompt": "During a comparison task, For design fair consumer research, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing?",
+    "audioPrompt": "Which statement correctly describes plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The statistical evidence model is copied without interpretation",
+      "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Plan and conducting an investigation relating to consumer spending habits.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias\nHint: Plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Plan and conducting an investigation relating to consumer spending habits.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+      "hint": "Plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore where would be the best location for a tropical fruit plantation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For compare locations with several variables, what changes, what stays invariant, and why",
-    "audioPrompt": "During an error analysis, For compare locations with several variables, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes explore where would be the best location for a tropical fruit plantation?",
+    "audioPrompt": "Which statement correctly describes explore where would be the best location for a tropical fruit plantation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore where would be the best location for a tropical fruit plantation but does not justify the relationship",
-      "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs\nHint: Explore where would be the best location for a tropical fruit plantation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+      "hint": "Explore where would be the best location for a tropical fruit plantation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains",
-    "audioPrompt": "During a model interpretation, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains",
+    "question": "Which statement correctly describes posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables?",
+    "audioPrompt": "Which statement correctly describes posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables\nHint: posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
+      "hint": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For investigate a secondary data set, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an evidence check, For investigate a secondary data set, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics?",
+    "audioPrompt": "Which statement gives a valid example of plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+      "The statistical evidence model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The Australian Bureau of Statistics.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics\nHint: Plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The Australian Bureau of Statistics. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The Australian Bureau of Statistics.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+      "hint": "Plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For design fair consumer research, what changes, what stays invariant, and why",
-    "audioPrompt": "During a transfer problem, For design fair consumer research, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing?",
+    "audioPrompt": "Which statement gives a valid example of plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Plan and conducting an investigation relating to consumer spending habits.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias\nHint: Plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Plan and conducting an investigation relating to consumer spending habits. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Plan and conducting an investigation relating to consumer spending habits.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+      "hint": "Plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore where would be the best location for a tropical fruit plantation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For compare locations with several variables, what changes, what stays invariant, and why",
-    "audioPrompt": "During a peer explanation, For compare locations with several variables, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of explore where would be the best location for a tropical fruit plantation?",
+    "audioPrompt": "Which statement gives a valid example of explore where would be the best location for a tropical fruit plantation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore where would be the best location for a tropical fruit plantation but does not justify the relationship",
-      "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs\nHint: Explore where would be the best location for a tropical fruit plantation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+      "hint": "Explore where would be the best location for a tropical fruit plantation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains",
-    "audioPrompt": "During an independent review, For investigate relationships in reconciliation data, what claim is supported, and what limitation remains",
+    "question": "Which statement gives a valid example of posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables?",
+    "audioPrompt": "Which statement gives a valid example of posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The statistical evidence model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables\nHint: posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
+      "hint": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables."
     },
     "qualitySchema": "production-v1"
   }

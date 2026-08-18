@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9m9p01-t-001",
     "curriculumCode": "AC9M9P01",
     "bank": "test",
-    "skill": "complete sample spaces",
+    "skill": "understanding outcomes with and without replacement",
     "printable": true,
     "type": "single",
-    "question": "A 3-colour spinner is spun and then a coin is flipped. How many ordered outcomes are possible?",
-    "audioPrompt": "A 3-colour spinner is spun and then a coin is flipped. How many ordered outcomes are possible?",
+    "question": "Which response correctly uses understanding outcomes with and without replacement?",
+    "audioPrompt": "Which response correctly uses understanding outcomes with and without replacement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "6",
-      "3",
-      "5",
-      "9"
+      "discussing two-step chance experiments, such as the game of Heads and Tails, describing the different outcomes and their related probabilities",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The multiplication principle gives 3 × 2 = 6 ordered outcomes.\nHint: Pair each spinner colour with H and T.",
+    "explanation": "discussing two-step chance experiments, such as the game of Heads and Tails, describing the different outcomes and their related probabilities\nHint: Understanding outcomes with and without replacement.",
     "structuredExplanation": {
-      "summary": "The multiplication principle gives 3 × 2 = 6 ordered outcomes.",
-      "hint": "Pair each spinner colour with H and T."
+      "summary": "discussing two-step chance experiments, such as the game of Heads and Tails, describing the different outcomes and their related probabilities",
+      "hint": "Understanding outcomes with and without replacement."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,11 +33,11 @@ window.skillrTestQuestions = [
     "id": "ac9m9p01-t-002",
     "curriculumCode": "AC9M9P01",
     "bank": "test",
-    "skill": "complete sample spaces",
+    "skill": "a systematic list or two way array organises two stage outcomes so none are missed or counted twice",
     "printable": true,
     "type": "single",
-    "question": "Two fair six-sided dice are rolled. What is the probability of the ordered outcome (2, 5)?",
-    "audioPrompt": "Two fair six-sided dice are rolled. What is the probability of the ordered outcome (2, 5)?",
+    "question": "Which response correctly uses a systematic list or two-way array organises two-stage outcomes so none are missed or counted twice?",
+    "audioPrompt": "Which response correctly uses a systematic list or two-way array organises two-stage outcomes so none are missed or counted twice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "1/12",
-      "1/36",
-      "1/6",
-      "2/36"
+      "The sample space or dependency changes without being noticed",
+      "using systematic methods such as lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "There are 6 × 6 = 36 equally likely ordered outcomes and (2, 5) is one of them.\nHint: The first and second die positions matter.",
+    "explanation": "using systematic methods such as lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders\nHint: A systematic list or two-way array organises two-stage outcomes so none are missed or counted twice.",
     "structuredExplanation": {
-      "summary": "There are 6 × 6 = 36 equally likely ordered outcomes and (2, 5) is one of them.",
-      "hint": "The first and second die positions matter."
+      "summary": "using systematic methods such as lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders",
+      "hint": "A systematic list or two-way array organises two-stage outcomes so none are missed or counted twice."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,11 +62,11 @@ window.skillrTestQuestions = [
     "id": "ac9m9p01-t-003",
     "curriculumCode": "AC9M9P01",
     "bank": "test",
-    "skill": "systematic lists and tables",
+    "skill": "a tree branches at each stage multiply probabilities along a path and add probabilities across disjoint successful paths",
     "printable": true,
     "type": "single",
-    "question": "A spinner labelled A, B, C is spun twice. Which method guarantees every ordered outcome is recorded once?",
-    "audioPrompt": "A spinner labelled A, B, C is spun twice. Which method guarantees every ordered outcome is recorded once?",
+    "question": "Which response correctly uses a tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths?",
+    "audioPrompt": "Which response correctly uses a tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List A, B and C once",
-      "Record only matching letters",
-      "Use a 3 × 3 table with first spin as rows and second spin as columns",
-      "Add the two labels"
+      "The compound outcomes model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "using a tree diagram to represent a three-stage event and assigning probabilities to these events; for example, selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A 3 × 3 table creates one cell for each of the 9 ordered pairs.\nHint: One axis must represent each stage.",
+    "explanation": "using a tree diagram to represent a three-stage event and assigning probabilities to these events; for example, selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw\nHint: A tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths.",
     "structuredExplanation": {
-      "summary": "A 3 × 3 table creates one cell for each of the 9 ordered pairs.",
-      "hint": "One axis must represent each stage."
+      "summary": "using a tree diagram to represent a three-stage event and assigning probabilities to these events; for example, selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw",
+      "hint": "A tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,11 +91,11 @@ window.skillrTestQuestions = [
     "id": "ac9m9p01-t-004",
     "curriculumCode": "AC9M9P01",
     "bank": "test",
-    "skill": "systematic lists and tables",
+    "skill": "randomly selecting distinct people uses without replacement probabilities because one person cannot be selected twice",
     "printable": true,
     "type": "single",
-    "question": "A 3-colour spinner is spun twice. What is the probability that both spins show the same colour?",
-    "audioPrompt": "A 3-colour spinner is spun twice. What is the probability that both spins show the same colour?",
+    "question": "Which response correctly uses randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice?",
+    "audioPrompt": "Which response correctly uses randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "1/9",
-      "2/3",
-      "1",
-      "1/3"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "assigning probabilities to compound events involving the random selection of people from a given population; for example, selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9"
     ],
     "correct": 3,
-    "explanation": "The 3 matching outcomes are AA, BB and CC among 9 equally likely ordered outcomes, so 3/9 = 1/3.\nHint: Use the diagonal cells of a 3 × 3 table.",
+    "explanation": "assigning probabilities to compound events involving the random selection of people from a given population; for example, selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9\nHint: Randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice.",
     "structuredExplanation": {
-      "summary": "The 3 matching outcomes are AA, BB and CC among 9 equally likely ordered outcomes, so 3/9 = 1/3.",
-      "hint": "Use the diagonal cells of a 3 × 3 table."
+      "summary": "assigning probabilities to compound events involving the random selection of people from a given population; for example, selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9",
+      "hint": "Randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,11 +120,11 @@ window.skillrTestQuestions = [
     "id": "ac9m9p01-t-005",
     "curriculumCode": "AC9M9P01",
     "bank": "test",
-    "skill": "replacement and tree diagrams",
+    "skill": "understanding outcomes with and without replacement",
     "printable": true,
     "type": "single",
-    "question": "A bag has 4 green and 3 yellow counters. Two are drawn without replacement. What is P(green then green)?",
-    "audioPrompt": "A bag has 4 green and 3 yellow counters. Two are drawn without replacement. What is P(green then green)?",
+    "question": "Which interpretation is accurate for understanding outcomes with and without replacement?",
+    "audioPrompt": "Which interpretation is accurate for understanding outcomes with and without replacement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "2/7",
-      "16/49",
-      "3/7",
-      "4/21"
+      "discussing two-step chance experiments, such as the game of Heads and Tails, describing the different outcomes and their related probabilities",
+      "The sample space or dependency changes without being noticed",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Without replacement, P(GG) = 4/7 × 3/6 = 12/42 = 2/7.\nHint: After one green is removed, update both counts.",
+    "explanation": "discussing two-step chance experiments, such as the game of Heads and Tails, describing the different outcomes and their related probabilities\nHint: Understanding outcomes with and without replacement.",
     "structuredExplanation": {
-      "summary": "Without replacement, P(GG) = 4/7 × 3/6 = 12/42 = 2/7.",
-      "hint": "After one green is removed, update both counts."
+      "summary": "discussing two-step chance experiments, such as the game of Heads and Tails, describing the different outcomes and their related probabilities",
+      "hint": "Understanding outcomes with and without replacement."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,11 +149,11 @@ window.skillrTestQuestions = [
     "id": "ac9m9p01-t-006",
     "curriculumCode": "AC9M9P01",
     "bank": "test",
-    "skill": "replacement and tree diagrams",
+    "skill": "a systematic list or two way array organises two stage outcomes so none are missed or counted twice",
     "printable": true,
     "type": "single",
-    "question": "An ace is drawn from a 52-card deck and kept out. What is the probability the next card is a king?",
-    "audioPrompt": "An ace is drawn from a 52-card deck and kept out. What is the probability the next card is a king?",
+    "question": "Which interpretation is accurate for a systematic list or two-way array organises two-stage outcomes so none are missed or counted twice?",
+    "audioPrompt": "Which interpretation is accurate for a systematic list or two-way array organises two-stage outcomes so none are missed or counted twice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "3/51",
-      "4/51",
-      "4/52",
-      "3/52"
+      "The compound outcomes model is copied without interpretation",
+      "using systematic methods such as lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Removing an ace leaves 51 cards but all 4 kings, so the second probability is 4/51.\nHint: Ask separately how the total and number of kings changed.",
+    "explanation": "using systematic methods such as lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders\nHint: A systematic list or two-way array organises two-stage outcomes so none are missed or counted twice.",
     "structuredExplanation": {
-      "summary": "Removing an ace leaves 51 cards but all 4 kings, so the second probability is 4/51.",
-      "hint": "Ask separately how the total and number of kings changed."
+      "summary": "using systematic methods such as lists or arrays to record outcomes and assign probabilities, such as drawing the names of students from a bag to appoint 2 team leaders",
+      "hint": "A systematic list or two-way array organises two-stage outcomes so none are missed or counted twice."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,11 +178,11 @@ window.skillrTestQuestions = [
     "id": "ac9m9p01-t-007",
     "curriculumCode": "AC9M9P01",
     "bank": "test",
-    "skill": "population selection without replacement",
+    "skill": "a tree branches at each stage multiply probabilities along a path and add probabilities across disjoint successful paths",
     "printable": true,
     "type": "single",
-    "question": "A team has 7 juniors and 5 seniors. Two captains are selected without replacement. What is P(both are seniors)?",
-    "audioPrompt": "A team has 7 juniors and 5 seniors. Two captains are selected without replacement. What is P(both are seniors)?",
+    "question": "Which interpretation is accurate for a tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths?",
+    "audioPrompt": "Which interpretation is accurate for a tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "25/144",
-      "10/33",
-      "5/33",
-      "5/12"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using a tree diagram to represent a three-stage event and assigning probabilities to these events; for example, selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "P(two seniors) = 5/12 × 4/11 = 20/132 = 5/33.\nHint: Update 5 seniors out of 12 to 4 seniors out of 11.",
+    "explanation": "using a tree diagram to represent a three-stage event and assigning probabilities to these events; for example, selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw\nHint: A tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths.",
     "structuredExplanation": {
-      "summary": "P(two seniors) = 5/12 × 4/11 = 20/132 = 5/33.",
-      "hint": "Update 5 seniors out of 12 to 4 seniors out of 11."
+      "summary": "using a tree diagram to represent a three-stage event and assigning probabilities to these events; for example, selecting 3 cards from a deck, assigning the probability of drawing an ace, then a king, then a queen of the same suit, with and without replacing the cards after every draw",
+      "hint": "A tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,11 +207,11 @@ window.skillrTestQuestions = [
     "id": "ac9m9p01-t-008",
     "curriculumCode": "AC9M9P01",
     "bank": "test",
-    "skill": "population selection without replacement",
+    "skill": "randomly selecting distinct people uses without replacement probabilities because one person cannot be selected twice",
     "printable": true,
     "type": "single",
-    "question": "From 6 musicians and 4 actors, two different people are chosen. What is P(actor first, then musician)?",
-    "audioPrompt": "From 6 musicians and 4 actors, two different people are chosen. What is P(actor first, then musician)?",
+    "question": "Which interpretation is accurate for randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice?",
+    "audioPrompt": "Which interpretation is accurate for randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "2/5",
-      "3/10",
-      "8/15",
-      "4/15"
+      "The sample space or dependency changes without being noticed",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "assigning probabilities to compound events involving the random selection of people from a given population; for example, selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9"
     ],
     "correct": 3,
-    "explanation": "P(actor then musician) = 4/10 × 6/9 = 24/90 = 4/15.\nHint: Selecting an actor leaves all 6 musicians among 9 people.",
+    "explanation": "assigning probabilities to compound events involving the random selection of people from a given population; for example, selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9\nHint: Randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice.",
     "structuredExplanation": {
-      "summary": "P(actor then musician) = 4/10 × 6/9 = 24/90 = 4/15.",
-      "hint": "Selecting an actor leaves all 6 musicians among 9 people."
+      "summary": "assigning probabilities to compound events involving the random selection of people from a given population; for example, selecting 2 names at random from all of the students at a high school and assigning the probability that they are both in Year 9",
+      "hint": "Randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice."
     },
     "qualitySchema": "production-v1"
   }

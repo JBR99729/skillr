@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs making and testing conjectures",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For vary gradient and intercept, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During a guided example, For vary gradient and intercept, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures?",
+    "audioPrompt": "Which statement correctly describes use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right",
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right\nHint: Use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right",
+      "hint": "Use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use graphing software to systematically contrast the graphs of y 2x y 2x y 2x and y 2x with those of y 2x y 2x y 2x and y 2x making",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For test parallel-line conjectures, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During a comparison task, For test parallel-line conjectures, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making?",
+    "audioPrompt": "Which statement correctly describes use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: y = 2x is a boundary line; y > 2x and y < 2x shade opposite half-planes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The experimenting with linear functions model is copied without interpretation",
+      "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: y = 2x is a boundary line; y > 2x and y < 2x shade opposite half-planes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘y = 2x is a boundary line; y > 2x and y < 2x shade opposite half-planes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality\nHint: Use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: y = 2x is a boundary line; y > 2x and y < 2x shade opposite half-planes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘y = 2x is a boundary line; y > 2x and y < 2x shade opposite half-planes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality",
+      "hint": "Use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use digital tools to investigate integer solutions to equations such as 2x 3y 48",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For compare tables, rules and graphs, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During an error analysis, For compare tables, rules and graphs, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes use digital tools to investigate integer solutions to equations such as 2x+3y = 48?",
+    "audioPrompt": "Which statement correctly describes use digital tools to investigate integer solutions to equations such as 2x+3y = 48?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions use digital tools to investigate integer solutions to equations such as 2x+3y = 48 but does not justify the relationship",
-      "Use the model evidence: Compare tables, rules and graphs: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Compare tables, rules and graphs: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare tables, rules and graphs: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48\nHint: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare tables, rules and graphs: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare tables, rules and graphs: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48",
+      "hint": "Use digital tools to investigate integer solutions to equations such as 2x+3y = 48."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For generalise a linear pattern, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During a model interpretation, For generalise a linear pattern, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents?",
+    "audioPrompt": "Which statement correctly describes explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors\nHint: Explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors",
+      "hint": "Explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs making and testing conjectures",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For vary gradient and intercept, which quantities must scale or compare by the same factor",
-    "audioPrompt": "During an evidence check, For vary gradient and intercept, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures?",
+    "audioPrompt": "Which statement gives a valid example of use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right",
+      "The experimenting with linear functions model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right\nHint: Use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right",
+      "hint": "Use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use graphing software to systematically contrast the graphs of y 2x y 2x y 2x and y 2x with those of y 2x y 2x y 2x and y 2x making",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For test parallel-line conjectures, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During a transfer problem, For test parallel-line conjectures, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement gives a valid example of use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making?",
+    "audioPrompt": "Which statement gives a valid example of use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: y = 2x is a boundary line; y > 2x and y < 2x shade opposite half-planes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: y = 2x is a boundary line; y > 2x and y < 2x shade opposite half-planes. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘y = 2x is a boundary line; y > 2x and y < 2x shade opposite half-planes.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality\nHint: Use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: y = 2x is a boundary line; y > 2x and y < 2x shade opposite half-planes. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘y = 2x is a boundary line; y > 2x and y < 2x shade opposite half-planes.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality",
+      "hint": "Use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use digital tools to investigate integer solutions to equations such as 2x 3y 48",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For compare tables, rules and graphs, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During a peer explanation, For compare tables, rules and graphs, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement gives a valid example of use digital tools to investigate integer solutions to equations such as 2x+3y = 48?",
+    "audioPrompt": "Which statement gives a valid example of use digital tools to investigate integer solutions to equations such as 2x+3y = 48?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions use digital tools to investigate integer solutions to equations such as 2x+3y = 48 but does not justify the relationship",
-      "Use the model evidence: Compare tables, rules and graphs: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Compare tables, rules and graphs: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare tables, rules and graphs: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48\nHint: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare tables, rules and graphs: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare tables, rules and graphs: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48",
+      "hint": "Use digital tools to investigate integer solutions to equations such as 2x+3y = 48."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For generalise a linear pattern, which graph feature is direct evidence for the conclusion",
-    "audioPrompt": "During an independent review, For generalise a linear pattern, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement gives a valid example of explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents?",
+    "audioPrompt": "Which statement gives a valid example of explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The experimenting with linear functions model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors\nHint: Explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors",
+      "hint": "Explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents."
     },
     "qualitySchema": "production-v1"
   }

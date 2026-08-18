@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule quotient of powers rule and power of a power rule",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For build the product-of-powers law, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For build the product-of-powers law, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule?",
+    "audioPrompt": "Which response correctly uses recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents\nHint: Recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents",
+      "hint": "Recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "apply the exponent laws of the product of powers rule quotient of powers rule power of a power rule and zero exponent individually and in combination",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For build the quotient and power laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For build the quotient and power laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination?",
+    "audioPrompt": "Which response correctly uses apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Exact and approximate values are treated as interchangeable",
-      "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27\nHint: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27",
+      "hint": "Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools to systematically explore the application of the exponent laws observing that the bases need to be the same",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For combine exponent laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For combine exponent laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same?",
+    "audioPrompt": "Which response correctly uses use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same but does not justify the relationship",
-      "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The exponent laws model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools to systematically explore the application of the exponent laws.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same\nHint: Use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools to systematically explore the application of the exponent laws.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same",
+      "hint": "Use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use examples such as 3 4 3 4 1 and 3 4 4 3 0 to illustrate the necessity that for any non zero natural number n n 0 1",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For why does a⁰ equal 1?, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For why does a⁰ equal 1?, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1?",
+    "audioPrompt": "Which response correctly uses use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1 but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘(3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1\nHint: Use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘(3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1",
+      "hint": "Use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule quotient of powers rule and power of a power rule",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For build the product-of-powers law, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For build the product-of-powers law, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule?",
+    "audioPrompt": "Which interpretation is accurate for recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents",
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents\nHint: Recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘2³×2² can be represented as (2×2×2)×(2×2)=2^5 and connecting the result to the addition of exponents.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents",
+      "hint": "Recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "apply the exponent laws of the product of powers rule quotient of powers rule power of a power rule and zero exponent individually and in combination",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For build the quotient and power laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For build the quotient and power laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination?",
+    "audioPrompt": "Which interpretation is accurate for apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The exponent laws model is copied without interpretation",
+      "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27\nHint: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27",
+      "hint": "Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools to systematically explore the application of the exponent laws observing that the bases need to be the same",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For combine exponent laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For combine exponent laws, which algebraic step preserves equivalence, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same?",
+    "audioPrompt": "Which interpretation is accurate for use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same but does not justify the relationship",
-      "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use digital tools to systematically explore the application of the exponent laws.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same\nHint: Use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use digital tools to systematically explore the application of the exponent laws. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use digital tools to systematically explore the application of the exponent laws.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same",
+      "hint": "Use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use examples such as 3 4 3 4 1 and 3 4 4 3 0 to illustrate the necessity that for any non zero natural number n n 0 1",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For why does a⁰ equal 1?, what changes, what stays invariant, and why Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For why does a⁰ equal 1?, what changes, what stays invariant, and why Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1?",
+    "audioPrompt": "Which interpretation is accurate for use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1 but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘(3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1\nHint: Use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘(3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1",
+      "hint": "Use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1."
     },
     "qualitySchema": "production-v1"
   }

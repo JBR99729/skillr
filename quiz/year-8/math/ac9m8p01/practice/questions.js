@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "understand that knowing the probability of an event allows the probability of its complement to be found including for those events that are not equally likely",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For identify an event's complement, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a guided example, For identify an event's complement, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely?",
+    "audioPrompt": "Which statement correctly describes understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Getting a specific novelty toy in a supermarket promotion. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "understanding that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely, such as getting a specific novelty toy in a supermarket promotion",
       "The sample space or dependency changes without being noticed",
-      "A response that mentions understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Getting a specific novelty toy in a supermarket promotion. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Getting a specific novelty toy in a supermarket promotion.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "understanding that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely, such as getting a specific novelty toy in a supermarket promotion\nHint: Understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Getting a specific novelty toy in a supermarket promotion. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Getting a specific novelty toy in a supermarket promotion.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely, such as getting a specific novelty toy in a supermarket promotion",
+      "hint": "Understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the relationship that for a single event a pr a pr not a 1",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For use p(aᶜ)=1−p(a), what changes, what stays invariant, and why",
-    "audioPrompt": "During a comparison task, For use p(aᶜ)=1−p(a), what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes use the relationship that for a single event a, pr(a)+pr( not a) = 1?",
+    "audioPrompt": "Which statement correctly describes use the relationship that for a single event a, pr(a)+pr( not a) = 1?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "Use the model evidence: Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use the relationship that for a single event a, pr(a)+pr( not a) = 1 but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The complementary events model is copied without interpretation",
+      "using the relationship that for a single event A, Pr(A)+Pr(\\;not\\;A)\\;=\\;1; for example, if the probability that it rains on a particular day is 80\\%, the probability that it does not rain on that day is 20\\%, or the probability of not getting a 6 on a single roll of a fair dice is 1-\\frac16=\\frac56",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the relationship that for a single event A, Pr(A)+Pr(\\;not\\;A)\\;=\\;1; for example, if the probability that it rains on a particular day is 80\\%, the probability that it does not rain on that day is 20\\%, or the probability of not getting a 6 on a single roll of a fair dice is 1-\\frac16=\\frac56\nHint: Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the relationship that for a single event A, Pr(A)+Pr(\\;not\\;A)\\;=\\;1; for example, if the probability that it rains on a particular day is 80\\%, the probability that it does not rain on that day is 20\\%, or the probability of not getting a 6 on a single roll of a fair dice is 1-\\frac16=\\frac56",
+      "hint": "Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the sum of probabilities to solve problems such as the probability of starting a game by throwing a 5 or 6 on a dice is 1 3",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For define the whole sample space, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During an error analysis, For define the whole sample space, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3?",
+    "audioPrompt": "Which statement correctly describes use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3 but does not justify the relationship",
-      "Use the model evidence: The probability of starting a game by throwing a 5 or 6 on a dice is 1/3 and probability of not throwing a 5 or 6 is 2/3. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is \\frac13 and probability of not throwing a 5 or 6 is \\frac23",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: The probability of starting a game by throwing a 5 or 6 on a dice is 1/3 and probability of not throwing a 5 or 6 is 2/3. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The probability of starting a game by throwing a 5 or 6 on a dice is 1/3 and probability of not throwing a 5 or 6 is 2/3.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is \\frac13 and probability of not throwing a 5 or 6 is \\frac23\nHint: Use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The probability of starting a game by throwing a 5 or 6 on a dice is 1/3 and probability of not throwing a 5 or 6 is 2/3. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The probability of starting a game by throwing a 5 or 6 on a dice is 1/3 and probability of not throwing a 5 or 6 is 2/3.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is \\frac13 and probability of not throwing a 5 or 6 is \\frac23",
+      "hint": "Use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For apply complements in context, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a model interpretation, For apply complements in context, which outcomes belong in the denominator, and why",
+    "question": "Which statement correctly describes explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes?",
+    "audioPrompt": "Which statement correctly describes explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The sample space or dependency changes without being noticed",
-      "A response that mentions explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: In binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes and making informed decisions based on these probabilities; for example, in binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: In binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘In binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes and making informed decisions based on these probabilities; for example, in binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud\nHint: Explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: In binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘In binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes and making informed decisions based on these probabilities; for example, in binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud",
+      "hint": "Explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "understand that knowing the probability of an event allows the probability of its complement to be found including for those events that are not equally likely",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For identify an event's complement, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During an evidence check, For identify an event's complement, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely?",
+    "audioPrompt": "Which statement gives a valid example of understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Getting a specific novelty toy in a supermarket promotion. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "understanding that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely, such as getting a specific novelty toy in a supermarket promotion",
+      "The complementary events model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Getting a specific novelty toy in a supermarket promotion. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Getting a specific novelty toy in a supermarket promotion.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "understanding that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely, such as getting a specific novelty toy in a supermarket promotion\nHint: Understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Getting a specific novelty toy in a supermarket promotion. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Getting a specific novelty toy in a supermarket promotion.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely, such as getting a specific novelty toy in a supermarket promotion",
+      "hint": "Understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the relationship that for a single event a pr a pr not a 1",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For use p(aᶜ)=1−p(a), what changes, what stays invariant, and why",
-    "audioPrompt": "During a transfer problem, For use p(aᶜ)=1−p(a), what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of use the relationship that for a single event a, pr(a)+pr( not a) = 1?",
+    "audioPrompt": "Which statement gives a valid example of use the relationship that for a single event a, pr(a)+pr( not a) = 1?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "Use the model evidence: Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use the relationship that for a single event a, pr(a)+pr( not a) = 1 but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "using the relationship that for a single event A, Pr(A)+Pr(\\;not\\;A)\\;=\\;1; for example, if the probability that it rains on a particular day is 80\\%, the probability that it does not rain on that day is 20\\%, or the probability of not getting a 6 on a single roll of a fair dice is 1-\\frac16=\\frac56",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the relationship that for a single event A, Pr(A)+Pr(\\;not\\;A)\\;=\\;1; for example, if the probability that it rains on a particular day is 80\\%, the probability that it does not rain on that day is 20\\%, or the probability of not getting a 6 on a single roll of a fair dice is 1-\\frac16=\\frac56\nHint: Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the relationship that for a single event A, Pr(A)+Pr(\\;not\\;A)\\;=\\;1; for example, if the probability that it rains on a particular day is 80\\%, the probability that it does not rain on that day is 20\\%, or the probability of not getting a 6 on a single roll of a fair dice is 1-\\frac16=\\frac56",
+      "hint": "Use the relationship that for a single event A, Pr(A)+Pr( not A) = 1."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the sum of probabilities to solve problems such as the probability of starting a game by throwing a 5 or 6 on a dice is 1 3",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For define the whole sample space, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During a peer explanation, For define the whole sample space, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3?",
+    "audioPrompt": "Which statement gives a valid example of use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The sample space or dependency changes without being noticed",
-      "A response that mentions use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3 but does not justify the relationship",
-      "Use the model evidence: The probability of starting a game by throwing a 5 or 6 on a dice is 1/3 and probability of not throwing a 5 or 6 is 2/3. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "using the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is \\frac13 and probability of not throwing a 5 or 6 is \\frac23",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: The probability of starting a game by throwing a 5 or 6 on a dice is 1/3 and probability of not throwing a 5 or 6 is 2/3. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The probability of starting a game by throwing a 5 or 6 on a dice is 1/3 and probability of not throwing a 5 or 6 is 2/3.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is \\frac13 and probability of not throwing a 5 or 6 is \\frac23\nHint: Use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The probability of starting a game by throwing a 5 or 6 on a dice is 1/3 and probability of not throwing a 5 or 6 is 2/3. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The probability of starting a game by throwing a 5 or 6 on a dice is 1/3 and probability of not throwing a 5 or 6 is 2/3.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is \\frac13 and probability of not throwing a 5 or 6 is \\frac23",
+      "hint": "Use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For apply complements in context, which outcomes belong in the denominator, and why",
-    "audioPrompt": "During an independent review, For apply complements in context, which outcomes belong in the denominator, and why",
+    "question": "Which statement gives a valid example of explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes?",
+    "audioPrompt": "Which statement gives a valid example of explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sample space or dependency changes without being noticed",
-      "A response that mentions explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: In binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The complementary events model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes and making informed decisions based on these probabilities; for example, in binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: In binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘In binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes and making informed decisions based on these probabilities; for example, in binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud\nHint: Explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: In binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘In binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes and making informed decisions based on these probabilities; for example, in binary classification problems where data is classified into one of two categories, such as spam or not spam, fraud or not fraud",
+      "hint": "Explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes."
     },
     "qualitySchema": "production-v1"
   }

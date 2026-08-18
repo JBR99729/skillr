@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how reactant particles helps make sense of reactants and products in chemical reactions",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how reactant particles helps make sense of reactants and products in chemical reactions",
+    "question": "Which statement correctly describes use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Atoms are rearranged, not created or destroyed, in chemical reactions.",
+      "identifying reactants and products in chemical reactions",
       "Balancing creates extra atoms",
-      "Inventory atoms before and after and only adjust coefficients",
-      "A response that mentions use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Atoms are rearranged, not created or destroyed, in chemical reactions.\nHint: Inventory atoms before and after and only adjust coefficients.",
+    "explanation": "identifying reactants and products in chemical reactions\nHint: Use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Atoms are rearranged, not created or destroyed, in chemical reactions.",
-      "hint": "Inventory atoms before and after and only adjust coefficients."
+      "summary": "identifying reactants and products in chemical reactions",
+      "hint": "Use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how product particles helps make sense of models and representations to show the rearrangement of atoms",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how product particles helps make sense of models and representations to show the rearrangement of atoms",
+    "question": "Which statement correctly describes use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Mass decreases when a gas escapes",
-      "The response should use the displayed example and connect it to this idea: Word, particle and balanced symbolic equations represent the same event.",
-      "Define the system boundary and distinguish measured open-system mass from total mass",
-      "A response that mentions use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "using models and representations to show the rearrangement of atoms in chemical reactions",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Word, particle and balanced symbolic equations represent the same event.\nHint: Define the system boundary and distinguish measured open-system mass from total mass.",
+    "explanation": "using models and representations to show the rearrangement of atoms in chemical reactions\nHint: Use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Word, particle and balanced symbolic equations represent the same event.",
-      "hint": "Define the system boundary and distinguish measured open-system mass from total mass."
+      "summary": "using models and representations to show the rearrangement of atoms in chemical reactions",
+      "hint": "Use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how word equation helps make sense of chemical reactions in closed and open systems and relating",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how word equation helps make sense of chemical reactions in closed and open systems and relating",
+    "question": "Which statement correctly describes use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Balancing creates extra atoms",
-      "Inventory atoms before and after and only adjust coefficients",
-      "The response should use the displayed example and connect it to this idea: Mass is conserved when the whole system is considered.",
-      "A response that mentions use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "investigating chemical reactions in closed and open systems and relating data obtained to the law of conservation of mass",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Mass is conserved when the whole system is considered.\nHint: Inventory atoms before and after and only adjust coefficients.",
+    "explanation": "investigating chemical reactions in closed and open systems and relating data obtained to the law of conservation of mass\nHint: Use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Mass is conserved when the whole system is considered.",
-      "hint": "Inventory atoms before and after and only adjust coefficients."
+      "summary": "investigating chemical reactions in closed and open systems and relating data obtained to the law of conservation of mass",
+      "hint": "Use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use symbolic equations that are easy to balance and explaining to make the role of balanced equation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how balanced equation helps make sense of symbolic equations that are easy to balance and explaining",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how balanced equation helps make sense of symbolic equations that are easy to balance and explaining",
+    "question": "Which statement correctly describes use symbolic equations that are easy to balance and explaining, to make the role of balanced equation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use symbolic equations that are easy to balance and explaining, to make the role of balanced equation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Mass decreases when a gas escapes",
-      "Define the system boundary and distinguish measured open-system mass from total mass",
-      "A response that mentions use symbolic equations that are easy to balance and explaining, to make the role of balanced equation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Atoms are rearranged, not created or destroyed, in chemical reactions."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "writing symbolic equations that are easy to balance and explaining, using the law of conservation of mass, and atoms, the rationale for balancing chemical equations"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Atoms are rearranged, not created or destroyed, in chemical reactions.\nHint: Define the system boundary and distinguish measured open-system mass from total mass.",
+    "explanation": "writing symbolic equations that are easy to balance and explaining, using the law of conservation of mass, and atoms, the rationale for balancing chemical equations\nHint: Use symbolic equations that are easy to balance and explaining, to make the role of balanced equation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Atoms are rearranged, not created or destroyed, in chemical reactions.",
-      "hint": "Define the system boundary and distinguish measured open-system mass from total mass."
+      "summary": "writing symbolic equations that are easy to balance and explaining, using the law of conservation of mass, and atoms, the rationale for balancing chemical equations",
+      "hint": "Use symbolic equations that are easy to balance and explaining, to make the role of balanced equation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how conservation of mass helps make sense of most elements are not found in their elemental state",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how conservation of mass helps make sense of most elements are not found in their elemental state",
+    "question": "Which statement correctly describes use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Word, particle and balanced symbolic equations represent the same event.",
+      "investigating why most elements are not found in their elemental state and processes which are used to obtain the element",
       "Balancing creates extra atoms",
-      "Inventory atoms before and after and only adjust coefficients",
-      "A response that mentions use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Word, particle and balanced symbolic equations represent the same event.\nHint: Inventory atoms before and after and only adjust coefficients.",
+    "explanation": "investigating why most elements are not found in their elemental state and processes which are used to obtain the element\nHint: Use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Word, particle and balanced symbolic equations represent the same event.",
-      "hint": "Inventory atoms before and after and only adjust coefficients."
+      "summary": "investigating why most elements are not found in their elemental state and processes which are used to obtain the element",
+      "hint": "Use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how reactant particles helps make sense of how ideas of green chemistry",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how reactant particles helps make sense of how ideas of green chemistry",
+    "question": "Which statement correctly describes use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Mass decreases when a gas escapes",
-      "The response should use the displayed example and connect it to this idea: Mass is conserved when the whole system is considered.",
-      "Define the system boundary and distinguish measured open-system mass from total mass",
-      "A response that mentions use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "predicting how ideas of green chemistry such as minimising the amount of unusable waste products, energy use and using more environmentally friendly chemical processes will affect the environment",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Mass is conserved when the whole system is considered.\nHint: Define the system boundary and distinguish measured open-system mass from total mass.",
+    "explanation": "predicting how ideas of green chemistry such as minimising the amount of unusable waste products, energy use and using more environmentally friendly chemical processes will affect the environment\nHint: Use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Mass is conserved when the whole system is considered.",
-      "hint": "Define the system boundary and distinguish measured open-system mass from total mass."
+      "summary": "predicting how ideas of green chemistry such as minimising the amount of unusable waste products, energy use and using more environmentally friendly chemical processes will affect the environment",
+      "hint": "Use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, Use the central model to explain atoms rearrange in reactions in three linked sentences",
-    "audioPrompt": "During a peer explanation, Use the central model to explain atoms rearrange in reactions in three linked sentences",
+    "question": "Which statement gives a valid example of use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Balancing creates extra atoms",
-      "Inventory atoms before and after and only adjust coefficients",
-      "Atoms are rearranged, not created or destroyed, in chemical reactions. Word, particle and balanced symbolic equations represent the same event. Mass is conserved when the whole system is considered.",
-      "A response that mentions use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "identifying reactants and products in chemical reactions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Atoms are rearranged, not created or destroyed, in chemical reactions. Word, particle and balanced symbolic equations represent the same event. Mass is conserved when the whole system is considered.\nHint: Inventory atoms before and after and only adjust coefficients.",
+    "explanation": "identifying reactants and products in chemical reactions\nHint: Use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Atoms are rearranged, not created or destroyed, in chemical reactions. Word, particle and balanced symbolic equations represent the same event. Mass is conserved when the whole system is considered.",
-      "hint": "Inventory atoms before and after and only adjust coefficients."
+      "summary": "identifying reactants and products in chemical reactions",
+      "hint": "Use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, In 20 seconds, explain how reactant particles helps make sense of reactants and products in chemical reactions",
-    "audioPrompt": "During an independent review, In 20 seconds, explain how reactant particles helps make sense of reactants and products in chemical reactions",
+    "question": "Which statement gives a valid example of use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement gives a valid example of use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Balancing creates extra atoms",
       "Mass decreases when a gas escapes",
-      "Define the system boundary and distinguish measured open-system mass from total mass",
-      "The response should use the displayed example and connect it to this idea: Atoms are rearranged, not created or destroyed, in chemical reactions."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using models and representations to show the rearrangement of atoms in chemical reactions"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Atoms are rearranged, not created or destroyed, in chemical reactions.\nHint: Inventory atoms before and after and only adjust coefficients.",
+    "explanation": "using models and representations to show the rearrangement of atoms in chemical reactions\nHint: Use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Atoms are rearranged, not created or destroyed, in chemical reactions.",
-      "hint": "Inventory atoms before and after and only adjust coefficients."
+      "summary": "using models and representations to show the rearrangement of atoms in chemical reactions",
+      "hint": "Use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

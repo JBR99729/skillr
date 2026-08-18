@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "compare_arrangements",
-    "question": "During a guided example, which statement correctly explains particle theory?",
-    "audio_prompt": "During a guided example, which statement correctly explains particle theory?",
+    "question": "Which statement correctly explains particle theory in particle theory and changes of state?",
+    "audio_prompt": "Which statement correctly explains particle theory in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "explain_melting",
-    "question": "During a comparison task, which statement correctly explains change of state?",
-    "audio_prompt": "During a comparison task, which statement correctly explains change of state?",
+    "question": "Which description is accurate for change of state in particle theory and changes of state?",
+    "audio_prompt": "Which description is accurate for change of state in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "distinguish_boiling_evaporation",
-    "question": "During an error analysis, which statement correctly explains thermal energy?",
-    "audio_prompt": "During an error analysis, which statement correctly explains thermal energy?",
+    "question": "Which statement gives an example of thermal energy in particle theory and changes of state?",
+    "audio_prompt": "Which statement gives an example of thermal energy in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "correct_expanding_particle_idea",
-    "question": "During a model interpretation, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
+    "question": "What is important when using particle theory in particle theory and changes of state?",
+    "audio_prompt": "What is important when using particle theory in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "explain_a_temperature_plateau",
-    "question": "During an evidence check, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
-    "audio_prompt": "During an evidence check, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
+    "question": "Which statement correctly identifies change of state in particle theory and changes of state?",
+    "audio_prompt": "Which statement correctly identifies change of state in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "compare_arrangements",
-    "question": "During a transfer problem, which response best demonstrates compare arrangements in particle theory and changes of state?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates compare arrangements in particle theory and changes of state?",
+    "question": "Which choice best describes thermal energy in particle theory and changes of state?",
+    "audio_prompt": "Which choice best describes thermal energy in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "explain_melting",
-    "question": "During a peer explanation, which response best demonstrates explain melting in particle theory and changes of state?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates explain melting in particle theory and changes of state?",
+    "question": "What does correct use require for particle theory in particle theory and changes of state?",
+    "audio_prompt": "What does correct use require for particle theory in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "distinguish_boiling_evaporation",
-    "question": "During an independent review, which response best demonstrates distinguish boiling/evaporation in particle theory and changes of state?",
-    "audio_prompt": "During an independent review, which response best demonstrates distinguish boiling/evaporation in particle theory and changes of state?",
+    "question": "Which statement is true about change of state in particle theory and changes of state?",
+    "audio_prompt": "Which statement is true about change of state in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "correct_expanding_particle_idea",
-    "question": "During a fresh case study, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
+    "question": "Which response correctly applies correct expanding-particle idea in particle theory and changes of state?",
+    "audio_prompt": "Which response correctly applies correct expanding-particle idea in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "explain_a_temperature_plateau",
-    "question": "During an unfamiliar representation, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
+    "question": "Which response shows correct use of explain a temperature plateau in particle theory and changes of state?",
+    "audio_prompt": "Which response shows correct use of explain a temperature plateau in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "compare_arrangements",
-    "question": "During a critical response, which response best demonstrates compare arrangements in particle theory and changes of state?",
-    "audio_prompt": "During a critical response, which response best demonstrates compare arrangements in particle theory and changes of state?",
+    "question": "Which interpretation is accurate for compare arrangements in particle theory and changes of state?",
+    "audio_prompt": "Which interpretation is accurate for compare arrangements in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "explain_melting",
-    "question": "During a worked solution audit, which response best demonstrates explain melting in particle theory and changes of state?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates explain melting in particle theory and changes of state?",
+    "question": "Which choice demonstrates explain melting in particle theory and changes of state?",
+    "audio_prompt": "Which choice demonstrates explain melting in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "distinguish_boiling_evaporation",
-    "question": "During a source evaluation, which response best demonstrates distinguish boiling/evaporation in particle theory and changes of state?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates distinguish boiling/evaporation in particle theory and changes of state?",
+    "question": "What should be checked when applying distinguish boiling/evaporation in particle theory and changes of state?",
+    "audio_prompt": "What should be checked when applying distinguish boiling/evaporation in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "correct_expanding_particle_idea",
-    "question": "During a multi-step application, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates correct expanding-particle idea in particle theory and changes of state?",
+    "question": "Which response best uses correct expanding-particle idea in particle theory and changes of state?",
+    "audio_prompt": "Which response best uses correct expanding-particle idea in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "explain_a_temperature_plateau",
-    "question": "During a justification task, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
-    "audio_prompt": "During a justification task, which response best demonstrates explain a temperature plateau in particle theory and changes of state?",
+    "question": "Which claim is accurate about explain a temperature plateau in particle theory and changes of state?",
+    "audio_prompt": "Which claim is accurate about explain a temperature plateau in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "compare_arrangements",
-    "question": "During a final synthesis, which response best demonstrates compare arrangements in particle theory and changes of state?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates compare arrangements in particle theory and changes of state?",
+    "question": "What is required to apply compare arrangements in particle theory and changes of state?",
+    "audio_prompt": "What is required to apply compare arrangements in particle theory and changes of state?",
     "visual": {
       "type": "none",
       "alt_text": ""

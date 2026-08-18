@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use taxation tables to calculate an individual s annual income tax",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For compare rates fairly, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For compare rates fairly, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use taxation tables to calculate an individual's annual income tax?",
+    "audioPrompt": "Which description correctly applies use taxation tables to calculate an individual's annual income tax?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions use taxation tables to calculate an individual's annual income tax but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "using taxation tables to calculate an individual's annual income tax",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use taxation tables to calculate an individual's annual income tax.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using taxation tables to calculate an individual's annual income tax\nHint: Use taxation tables to calculate an individual's annual income tax.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use taxation tables to calculate an individual's annual income tax.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using taxation tables to calculate an individual's annual income tax",
+      "hint": "Use taxation tables to calculate an individual's annual income tax."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore the application of rates in first nation australians land management practices including the rate of fire spread under different environmental conditions such as fuel types",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For interpret a rate in context, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For interpret a rate in context, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types?",
+    "audioPrompt": "Which description correctly applies explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types, wind speed, temperature and relative humidity; the conservation of water by First Nations Australians by estimating rates of water evaporation based on surface area and climatic conditions",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Fuel types, wind speed, temperature and relative humidity.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types, wind speed, temperature and relative humidity; the conservation of water by First Nations Australians by estimating rates of water evaporation based on surface area and climatic conditions\nHint: Explore the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Fuel types, wind speed, temperature and relative humidity.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types, wind speed, temperature and relative humidity; the conservation of water by First Nations Australians by estimating rates of water evaporation based on surface area and climatic conditions",
+      "hint": "Explore the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "identify examples of rates in the real world including constant rates rate of pay cost per kilogram recipes simple interest and average rates",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For read a rate as unlike units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For read a rate as unlike units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates?",
+    "audioPrompt": "Which response correctly uses identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates but does not justify the relationship",
-      "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The rates and unit rates model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "identifying examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates\nHint: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates",
+      "hint": "Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "apply rates to solve problems involving the conversion between different units of measure",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For calculate a unit rate, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For calculate a unit rate, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses apply rates to solve problems involving the conversion between different units of measure?",
+    "audioPrompt": "Which response correctly uses apply rates to solve problems involving the conversion between different units of measure?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions apply rates to solve problems involving the conversion between different units of measure but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Using a conversion rate to convert distances from miles into kilometres. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "applying rates to solve problems involving the conversion between different units of measure; for example, using a conversion rate to convert distances from miles into kilometres; using currency exchange rates to determine the price of items"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Using a conversion rate to convert distances from miles into kilometres. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Using a conversion rate to convert distances from miles into kilometres.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying rates to solve problems involving the conversion between different units of measure; for example, using a conversion rate to convert distances from miles into kilometres; using currency exchange rates to determine the price of items\nHint: Apply rates to solve problems involving the conversion between different units of measure.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Using a conversion rate to convert distances from miles into kilometres. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Using a conversion rate to convert distances from miles into kilometres.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying rates to solve problems involving the conversion between different units of measure; for example, using a conversion rate to convert distances from miles into kilometres; using currency exchange rates to determine the price of items",
+      "hint": "Apply rates to solve problems involving the conversion between different units of measure."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "apply rates to calculate solutions to problems in different contexts",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For convert between compound units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For convert between compound units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses apply rates to calculate solutions to problems in different contexts?",
+    "audioPrompt": "Which response correctly uses apply rates to calculate solutions to problems in different contexts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "applying rates to calculate solutions to problems in different contexts; for example, required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions apply rates to calculate solutions to problems in different contexts but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "applying rates to calculate solutions to problems in different contexts; for example, required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles\nHint: Apply rates to calculate solutions to problems in different contexts.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying rates to calculate solutions to problems in different contexts; for example, required run rates in cricket, dilution of concentrated chemicals and comparing the petrol consumption rates of different vehicles",
+      "hint": "Apply rates to calculate solutions to problems in different contexts."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use taxation tables to calculate an individual s annual income tax",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For compare rates fairly, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For compare rates fairly, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use taxation tables to calculate an individual's annual income tax?",
+    "audioPrompt": "Which response correctly uses use taxation tables to calculate an individual's annual income tax?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use taxation tables to calculate an individual's annual income tax but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The rates and unit rates model is copied without interpretation",
+      "using taxation tables to calculate an individual's annual income tax",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use taxation tables to calculate an individual's annual income tax.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using taxation tables to calculate an individual's annual income tax\nHint: Use taxation tables to calculate an individual's annual income tax.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use taxation tables to calculate an individual's annual income tax. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use taxation tables to calculate an individual's annual income tax.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using taxation tables to calculate an individual's annual income tax",
+      "hint": "Use taxation tables to calculate an individual's annual income tax."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "explore the application of rates in first nation australians land management practices including the rate of fire spread under different environmental conditions such as fuel types",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For interpret a rate in context, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For interpret a rate in context, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types?",
+    "audioPrompt": "Which response correctly uses explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore the application of rates in first nation australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types but does not justify the relationship",
-      "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "investigating the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types, wind speed, temperature and relative humidity; the conservation of water by First Nations Australians by estimating rates of water evaporation based on surface area and climatic conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Fuel types, wind speed, temperature and relative humidity.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types, wind speed, temperature and relative humidity; the conservation of water by First Nations Australians by estimating rates of water evaporation based on surface area and climatic conditions\nHint: Explore the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Fuel types, wind speed, temperature and relative humidity. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Fuel types, wind speed, temperature and relative humidity.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types, wind speed, temperature and relative humidity; the conservation of water by First Nations Australians by estimating rates of water evaporation based on surface area and climatic conditions",
+      "hint": "Explore the application of rates in First Nation Australians’ land management practices, including the rate of fire spread under different environmental conditions such as fuel types."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "identify examples of rates in the real world including constant rates rate of pay cost per kilogram recipes simple interest and average rates",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For read a rate as unlike units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For read a rate as unlike units, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates?",
+    "audioPrompt": "Which interpretation is accurate for identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "identifying examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "identifying examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates\nHint: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates",
+      "hint": "Identify examples of rates in the real world, including constant rates, rate of pay, cost per kilogram, recipes, simple interest and average rates."
     },
     "qualitySchema": "production-v1"
   }

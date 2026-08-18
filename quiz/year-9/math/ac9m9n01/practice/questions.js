@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore the real number system by representing the relationships between irrationals rationals integers and natural numbers and discussing the difference between exact representations",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, For map the real number system, what changes, what stays invariant, and why",
-    "audioPrompt": "During a guided example, For map the real number system, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
+    "audioPrompt": "Which statement correctly describes explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers\nHint: Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
+      "hint": "Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use a real number line to indicate the solution interval for inequalities of the form ax b c",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, For graph an inequality interval, which bound or interval is justified by the model",
-    "audioPrompt": "During a comparison task, For graph an inequality interval, which bound or interval is justified by the model",
+    "question": "Which statement correctly describes use a real number line to indicate the solution interval for inequalities of the form ax+b c?",
+    "audioPrompt": "Which statement correctly describes use a real number line to indicate the solution interval for inequalities of the form ax+b c?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "Use the model evidence: 1.2x − 5.4 > 10.8 gives x > 13.5, shown with an open point at 13.5 and an arrow to the right. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use a real number line to indicate the solution interval for inequalities of the form ax+b c but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The real numbers and exact values model is copied without interpretation",
+      "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: 1.2x − 5.4 > 10.8 gives x > 13.5, shown with an open point at 13.5 and an arrow to the right. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘1.2x − 5.4 > 10.8 gives x > 13.5, shown with an open point at 13.5 and an arrow to the right.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8\nHint: Use a real number line to indicate the solution interval for inequalities of the form ax+b c.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 1.2x − 5.4 > 10.8 gives x > 13.5, shown with an open point at 13.5 and an arrow to the right. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘1.2x − 5.4 > 10.8 gives x > 13.5, shown with an open point at 13.5 and an arrow to the right.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8",
+      "hint": "Use a real number line to indicate the solution interval for inequalities of the form ax+b c."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use positive and negative rational numbers to solve problems",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, For use signed numbers in a budget, what changes, what stays invariant, and why",
-    "audioPrompt": "During an error analysis, For use signed numbers in a budget, what changes, what stays invariant, and why",
+    "question": "Which statement correctly describes use positive and negative rational numbers to solve problems?",
+    "audioPrompt": "Which statement correctly describes use positive and negative rational numbers to solve problems?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions use positive and negative rational numbers to solve problems but does not justify the relationship",
-      "Use the model evidence: For financial planning such as budgeting. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: For financial planning such as budgeting. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘For financial planning such as budgeting.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting\nHint: Use positive and negative rational numbers to solve problems.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: For financial planning such as budgeting. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘For financial planning such as budgeting.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting",
+      "hint": "Use positive and negative rational numbers to solve problems."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "solve problems involving the substitution of real numbers into formulas understanding that solutions can be represented in exact form or as a decimal approximation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, For keep answers exact or approximate, which labelled relationship justifies the conclusion",
-    "audioPrompt": "During a model interpretation, For keep answers exact or approximate, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation?",
+    "audioPrompt": "Which statement correctly describes solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: The circumference of a circle with diameter 5 units is 5π units, and the exact area is π(5/2)²=25/4π square units which rounds to 19.63 square units, correct to 2 decimal places. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "solving problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation, such as calculating the area of a circle using the formula A=\\mathrm{π}r^2 and specifying the answer in terms of π as an exact real number; for example, the circumference of a circle with diameter 5 units is 5\\mathrm\\pi units, and the exact area is \\mathrm\\pi(\\frac52)^2=\\frac{25}4\\mathrm\\pi square units which rounds to 19.63 square units, correct to 2 decimal places"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: The circumference of a circle with diameter 5 units is 5π units, and the exact area is π(5/2)²=25/4π square units which rounds to 19.63 square units, correct to 2 decimal places. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The circumference of a circle with diameter 5 units is 5π units, and the exact area is π(5/2)²=25/4π square units which rounds to 19.63 square units, correct to 2 decimal places.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "solving problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation, such as calculating the area of a circle using the formula A=\\mathrm{π}r^2 and specifying the answer in terms of π as an exact real number; for example, the circumference of a circle with diameter 5 units is 5\\mathrm\\pi units, and the exact area is \\mathrm\\pi(\\frac52)^2=\\frac{25}4\\mathrm\\pi square units which rounds to 19.63 square units, correct to 2 decimal places\nHint: Solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The circumference of a circle with diameter 5 units is 5π units, and the exact area is π(5/2)²=25/4π square units which rounds to 19.63 square units, correct to 2 decimal places. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The circumference of a circle with diameter 5 units is 5π units, and the exact area is π(5/2)²=25/4π square units which rounds to 19.63 square units, correct to 2 decimal places.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "solving problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation, such as calculating the area of a circle using the formula A=\\mathrm{π}r^2 and specifying the answer in terms of π as an exact real number; for example, the circumference of a circle with diameter 5 units is 5\\mathrm\\pi units, and the exact area is \\mathrm\\pi(\\frac52)^2=\\frac{25}4\\mathrm\\pi square units which rounds to 19.63 square units, correct to 2 decimal places",
+      "hint": "Solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore the position of rational and irrational numbers on the real number line using geometric constructions to locate rational numbers and square roots on a number line",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, For construct √2 on a number line, which bound or interval is justified by the model",
-    "audioPrompt": "During an evidence check, For construct √2 on a number line, which bound or interval is justified by the model",
+    "question": "Which statement correctly describes explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line?",
+    "audioPrompt": "Which statement correctly describes explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: √2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line; for example, \\sqrt2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square",
+      "The real numbers and exact values model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: √2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘√2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line; for example, \\sqrt2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square\nHint: Explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: √2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘√2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line; for example, \\sqrt2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square",
+      "hint": "Explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "explore the real number system by representing the relationships between irrationals rationals integers and natural numbers and discussing the difference between exact representations",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, For map the real number system, what changes, what stays invariant, and why",
-    "audioPrompt": "During a transfer problem, For map the real number system, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
+    "audioPrompt": "Which statement gives a valid example of explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "Use the model evidence: Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers\nHint: Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
+      "hint": "Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use a real number line to indicate the solution interval for inequalities of the form ax b c",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, For graph an inequality interval, which bound or interval is justified by the model",
-    "audioPrompt": "During a peer explanation, For graph an inequality interval, which bound or interval is justified by the model",
+    "question": "Which statement gives a valid example of use a real number line to indicate the solution interval for inequalities of the form ax+b c?",
+    "audioPrompt": "Which statement gives a valid example of use a real number line to indicate the solution interval for inequalities of the form ax+b c?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Exact and approximate values are treated as interchangeable",
-      "A response that mentions use a real number line to indicate the solution interval for inequalities of the form ax+b c but does not justify the relationship",
-      "Use the model evidence: 1.2x − 5.4 > 10.8 gives x > 13.5, shown with an open point at 13.5 and an arrow to the right. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: 1.2x − 5.4 > 10.8 gives x > 13.5, shown with an open point at 13.5 and an arrow to the right. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘1.2x − 5.4 > 10.8 gives x > 13.5, shown with an open point at 13.5 and an arrow to the right.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8\nHint: Use a real number line to indicate the solution interval for inequalities of the form ax+b c.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 1.2x − 5.4 > 10.8 gives x > 13.5, shown with an open point at 13.5 and an arrow to the right. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘1.2x − 5.4 > 10.8 gives x > 13.5, shown with an open point at 13.5 and an arrow to the right.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8",
+      "hint": "Use a real number line to indicate the solution interval for inequalities of the form ax+b c."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use positive and negative rational numbers to solve problems",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, For use signed numbers in a budget, what changes, what stays invariant, and why",
-    "audioPrompt": "During an independent review, For use signed numbers in a budget, what changes, what stays invariant, and why",
+    "question": "Which statement gives a valid example of use positive and negative rational numbers to solve problems?",
+    "audioPrompt": "Which statement gives a valid example of use positive and negative rational numbers to solve problems?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "A response that mentions use positive and negative rational numbers to solve problems but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: For financial planning such as budgeting. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The real numbers and exact values model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: For financial planning such as budgeting. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘For financial planning such as budgeting.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting\nHint: Use positive and negative rational numbers to solve problems.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: For financial planning such as budgeting. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘For financial planning such as budgeting.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting",
+      "hint": "Use positive and negative rational numbers to solve problems."
     },
     "qualitySchema": "production-v1"
   }

@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_the_terms_base_altitude_hypotenuse_and_adjacent_and_opposite_sides_to_an_angle_in_a_right_angled_triangle_and_identifying_these_for_a_given_right_angled_triangle",
-    "question": "During a guided example, For name sides relative to an angle, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During a guided example, For name sides relative to an angle, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
+    "audio_prompt": "Which statement correctly describes understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle",
+      "hint": "Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_patterns_to_reason_about_nested_similar_triangles_that_are_aligned_on_a_coordinate_plane_connecting_ideas_of_parallel_sides",
-    "question": "During a comparison task, For find constant ratios in similar triangles, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During a comparison task, For find constant ratios in similar triangles, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
+    "audio_prompt": "Which statement correctly describes explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The trigonometric ratios model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides and identifying the constancy of ratios of corresponding sides for a given angle",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides and identifying the constancy of ratios of corresponding sides for a given angle",
+      "hint": "Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "establish_an_understanding_that_the_sine_of_an_angle_can_be_considered_as_the_length_of_the_altitude_of_a_right_angled_triangle_with_a_hypotenuse_of_length_one_unit",
-    "question": "During an error analysis, For see sine and cosine on a unit hypotenuse, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During an error analysis, For see sine and cosine on a unit hypotenuse, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
+    "audio_prompt": "Which statement correctly describes establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles",
+      "hint": "Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "connect_the_tangent_of_an_angle_to_the_altitude_and_base_of_nested_similar_right_angled_triangles",
-    "question": "During a model interpretation, For connect tangent and gradient, which quantities must scale or compare by the same factor",
-    "audio_prompt": "During a model interpretation, For connect tangent and gradient, which quantities must scale or compare by the same factor",
+    "question": "Which statement correctly describes connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
+    "audio_prompt": "Which statement correctly describes connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions connect the tangent of an angle to the altitude and base of nested similar right-angled triangles but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line",
+      "hint": "Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_the_terms_base_altitude_hypotenuse_and_adjacent_and_opposite_sides_to_an_angle_in_a_right_angled_triangle_and_identifying_these_for_a_given_right_angled_triangle",
-    "question": "During an evidence check, For name sides relative to an angle, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During an evidence check, For name sides relative to an angle, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
+    "audio_prompt": "Which statement gives a valid example of understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle",
         "is_correct": true
       },
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The trigonometric ratios model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle",
+      "hint": "Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_patterns_to_reason_about_nested_similar_triangles_that_are_aligned_on_a_coordinate_plane_connecting_ideas_of_parallel_sides",
-    "question": "During a transfer problem, For find constant ratios in similar triangles, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During a transfer problem, For find constant ratios in similar triangles, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
+    "audio_prompt": "Which statement gives a valid example of explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides and identifying the constancy of ratios of corresponding sides for a given angle",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides and identifying the constancy of ratios of corresponding sides for a given angle",
+      "hint": "Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "establish_an_understanding_that_the_sine_of_an_angle_can_be_considered_as_the_length_of_the_altitude_of_a_right_angled_triangle_with_a_hypotenuse_of_length_one_unit",
-    "question": "During a peer explanation, For see sine and cosine on a unit hypotenuse, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During a peer explanation, For see sine and cosine on a unit hypotenuse, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
+    "audio_prompt": "Which statement gives a valid example of establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles",
+      "hint": "Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "connect_the_tangent_of_an_angle_to_the_altitude_and_base_of_nested_similar_right_angled_triangles",
-    "question": "During an independent review, For connect tangent and gradient, which quantities must scale or compare by the same factor",
-    "audio_prompt": "During an independent review, For connect tangent and gradient, which quantities must scale or compare by the same factor",
+    "question": "Which statement gives a valid example of connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
+    "audio_prompt": "Which statement gives a valid example of connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The trigonometric ratios model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions connect the tangent of an angle to the altitude and base of nested similar right-angled triangles but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line",
+      "hint": "Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "understand_the_terms_base_altitude_hypotenuse_and_adjacent_and_opposite_sides_to_an_angle_in_a_right_angled_triangle_and_identifying_these_for_a_given_right_angled_triangle",
-    "question": "During a fresh case study, For name sides relative to an angle, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For name sides relative to an angle, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
+    "audio_prompt": "Which response correctly uses understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle",
         "is_correct": true
       },
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle",
+      "hint": "Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_patterns_to_reason_about_nested_similar_triangles_that_are_aligned_on_a_coordinate_plane_connecting_ideas_of_parallel_sides",
-    "question": "During an unfamiliar representation, For find constant ratios in similar triangles, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For find constant ratios in similar triangles, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
+    "audio_prompt": "Which response correctly uses explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides and identifying the constancy of ratios of corresponding sides for a given angle",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides and identifying the constancy of ratios of corresponding sides for a given angle",
+      "hint": "Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "establish_an_understanding_that_the_sine_of_an_angle_can_be_considered_as_the_length_of_the_altitude_of_a_right_angled_triangle_with_a_hypotenuse_of_length_one_unit",
-    "question": "During a critical response, For see sine and cosine on a unit hypotenuse, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For see sine and cosine on a unit hypotenuse, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
+    "audio_prompt": "Which response correctly uses establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The trigonometric ratios model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles",
+      "hint": "Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "connect_the_tangent_of_an_angle_to_the_altitude_and_base_of_nested_similar_right_angled_triangles",
-    "question": "During a worked solution audit, For connect tangent and gradient, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For connect tangent and gradient, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which response correctly uses connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
+    "audio_prompt": "Which response correctly uses connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions connect the tangent of an angle to the altitude and base of nested similar right-angled triangles but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line",
+      "hint": "Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "understand_the_terms_base_altitude_hypotenuse_and_adjacent_and_opposite_sides_to_an_angle_in_a_right_angled_triangle_and_identifying_these_for_a_given_right_angled_triangle",
-    "question": "During a source evaluation, For name sides relative to an angle, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For name sides relative to an angle, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
+    "audio_prompt": "Which interpretation is accurate for understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle",
+      "hint": "Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_patterns_to_reason_about_nested_similar_triangles_that_are_aligned_on_a_coordinate_plane_connecting_ideas_of_parallel_sides",
-    "question": "During a multi-step application, For find constant ratios in similar triangles, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For find constant ratios in similar triangles, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
+    "audio_prompt": "Which interpretation is accurate for explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The trigonometric ratios model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides and identifying the constancy of ratios of corresponding sides for a given angle",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides and identifying the constancy of ratios of corresponding sides for a given angle",
+      "hint": "Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "establish_an_understanding_that_the_sine_of_an_angle_can_be_considered_as_the_length_of_the_altitude_of_a_right_angled_triangle_with_a_hypotenuse_of_length_one_unit",
-    "question": "During a justification task, For see sine and cosine on a unit hypotenuse, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For see sine and cosine on a unit hypotenuse, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
+    "audio_prompt": "Which interpretation is accurate for establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles",
+      "hint": "Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "connect_the_tangent_of_an_angle_to_the_altitude_and_base_of_nested_similar_right_angled_triangles",
-    "question": "During a final synthesis, For connect tangent and gradient, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For connect tangent and gradient, which quantities must scale or compare by the same factor Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
+    "audio_prompt": "Which interpretation is accurate for connect the tangent of an angle to the altitude and base of nested similar right-angled triangles?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions connect the tangent of an angle to the altitude and base of nested similar right-angled triangles but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line",
+      "hint": "Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles."
     }
   }
 ]

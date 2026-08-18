@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, In 20 seconds, explain how variables helps make sense of investigable questions to explore an explanatory model Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, In 20 seconds, explain how variables helps make sense of investigable questions to explore an explanatory model Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
+      "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence",
       "A prediction and hypothesis are identical",
-      "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
-      "A response that mentions use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.\nHint: Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship.",
+    "explanation": "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence\nHint: Use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence",
+      "hint": "Use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use proposing a hypothesis to test an identified relationship to make the role of model based prediction visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how hypothesis helps make sense of a scientific hypothesis has to be able to be Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, In 20 seconds, explain how hypothesis helps make sense of a scientific hypothesis has to be able to be Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A testable question must always be causal",
-      "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
-      "Distinguish descriptive, relational and causal questions",
-      "A response that mentions use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.\nHint: Distinguish descriptive, relational and causal questions.",
+    "explanation": "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’\nHint: Use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
-      "hint": "Distinguish descriptive, relational and causal questions."
+      "summary": "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’",
+      "hint": "Use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, In 20 seconds, explain how model-based prediction helps make sense of proposing a hypothesis to test an identified relationship Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, In 20 seconds, explain how model-based prediction helps make sense of proposing a hypothesis to test an identified relationship Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A prediction and hypothesis are identical",
-      "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
-      "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
-      "A response that mentions use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "discussing what is needed for a question to be investigable or a prediction to be reasoned",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.\nHint: Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship.",
+    "explanation": "discussing what is needed for a question to be investigable or a prediction to be reasoned\nHint: Use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "discussing what is needed for a question to be investigable or a prediction to be reasoned",
+      "hint": "Use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, Use the central model to explain develop testable explanatory questions in three linked sentences Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, Use the central model to explain develop testable explanatory questions in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A prediction and hypothesis are identical",
       "A testable question must always be causal",
-      "Distinguish descriptive, relational and causal questions",
-      "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’"
     ],
     "correct": 3,
-    "explanation": "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions.\nHint: Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship.",
+    "explanation": "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’\nHint: Use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Questions identify measurable relationships or model tests. Hypotheses include scientific reasoning. Predictions follow logically from a hypothesis under stated conditions.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’",
+      "hint": "Use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, In 20 seconds, explain how observation helps make sense of what is needed for a question to be investigable Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, In 20 seconds, explain how observation helps make sense of what is needed for a question to be investigable Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
+      "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’",
       "A prediction and hypothesis are identical",
-      "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
-      "A response that mentions use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.\nHint: Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship.",
+    "explanation": "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’\nHint: Use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’",
+      "hint": "Use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, In 20 seconds, explain how question helps make sense of generating investigable questions about the relationships between human body Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, In 20 seconds, explain how question helps make sense of generating investigable questions about the relationships between human body Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A testable question must always be causal",
-      "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
-      "Distinguish descriptive, relational and causal questions",
-      "A response that mentions use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.\nHint: Distinguish descriptive, relational and causal questions.",
+    "explanation": "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence\nHint: Use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Hypotheses include scientific reasoning.",
-      "hint": "Distinguish descriptive, relational and causal questions."
+      "summary": "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence",
+      "hint": "Use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use proposing a hypothesis to test an identified relationship to make the role of model based prediction visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, In 20 seconds, explain how variables helps make sense of investigable questions to explore an explanatory model Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, In 20 seconds, explain how variables helps make sense of investigable questions to explore an explanatory model Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A prediction and hypothesis are identical",
-      "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship",
-      "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
-      "A response that mentions use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.\nHint: Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship.",
+    "explanation": "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’\nHint: Use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Predictions follow logically from a hypothesis under stated conditions.",
-      "hint": "Use prediction for expected outcome and hypothesis for the reasoned explanatory relationship."
+      "summary": "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’",
+      "hint": "Use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, In 20 seconds, explain how hypothesis helps make sense of a scientific hypothesis has to be able to be Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, In 20 seconds, explain how hypothesis helps make sense of a scientific hypothesis has to be able to be Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which interpretation is accurate for use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A testable question must always be causal",
-      "Distinguish descriptive, relational and causal questions",
-      "A response that mentions use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "discussing what is needed for a question to be investigable or a prediction to be reasoned"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.\nHint: Distinguish descriptive, relational and causal questions.",
+    "explanation": "discussing what is needed for a question to be investigable or a prediction to be reasoned\nHint: Use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Questions identify measurable relationships or model tests.",
-      "hint": "Distinguish descriptive, relational and causal questions."
+      "summary": "discussing what is needed for a question to be investigable or a prediction to be reasoned",
+      "hint": "Use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

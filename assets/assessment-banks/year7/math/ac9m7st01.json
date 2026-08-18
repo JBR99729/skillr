@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "classify_variable_type",
-    "question": "During a guided example, which statement correctly explains mean?",
-    "audio_prompt": "During a guided example, which statement correctly explains mean?",
+    "question": "Which statement correctly explains mean in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which statement correctly explains mean in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "calculate_mean_median_mode_range",
-    "question": "During a comparison task, which statement correctly explains median?",
-    "audio_prompt": "During a comparison task, which statement correctly explains median?",
+    "question": "Which description is accurate for median in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which description is accurate for median in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "interpret_an_outlier",
-    "question": "During an error analysis, which statement correctly explains range?",
-    "audio_prompt": "During an error analysis, which statement correctly explains range?",
+    "question": "Which statement gives an example of range in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which statement gives an example of range in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "clean_a_data_table",
-    "question": "During a model interpretation, which response best demonstrates clean a data table in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During a model interpretation, which response best demonstrates clean a data table in acquiring numerical data and measures of centre?",
+    "question": "What is important when using mean in acquiring numerical data and measures of centre?",
+    "audio_prompt": "What is important when using mean in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "audit_a_spreadsheet_formula",
-    "question": "During an evidence check, which response best demonstrates audit a spreadsheet formula in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During an evidence check, which response best demonstrates audit a spreadsheet formula in acquiring numerical data and measures of centre?",
+    "question": "Which statement correctly identifies median in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which statement correctly identifies median in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "classify_variable_type",
-    "question": "During a transfer problem, which response best demonstrates classify variable type in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During a transfer problem, which response best demonstrates classify variable type in acquiring numerical data and measures of centre?",
+    "question": "Which choice best describes range in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which choice best describes range in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "calculate_mean_median_mode_range",
-    "question": "During a peer explanation, which response best demonstrates calculate mean/median/mode/range in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During a peer explanation, which response best demonstrates calculate mean/median/mode/range in acquiring numerical data and measures of centre?",
+    "question": "What does correct use require for mean in acquiring numerical data and measures of centre?",
+    "audio_prompt": "What does correct use require for mean in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "interpret_an_outlier",
-    "question": "During an independent review, which response best demonstrates interpret an outlier in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During an independent review, which response best demonstrates interpret an outlier in acquiring numerical data and measures of centre?",
+    "question": "Which statement is true about median in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which statement is true about median in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "clean_a_data_table",
-    "question": "During a fresh case study, which response best demonstrates clean a data table in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During a fresh case study, which response best demonstrates clean a data table in acquiring numerical data and measures of centre?",
+    "question": "Which response correctly applies clean a data table in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which response correctly applies clean a data table in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "audit_a_spreadsheet_formula",
-    "question": "During an unfamiliar representation, which response best demonstrates audit a spreadsheet formula in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During an unfamiliar representation, which response best demonstrates audit a spreadsheet formula in acquiring numerical data and measures of centre?",
+    "question": "Which response shows correct use of audit a spreadsheet formula in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which response shows correct use of audit a spreadsheet formula in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "classify_variable_type",
-    "question": "During a critical response, which response best demonstrates classify variable type in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During a critical response, which response best demonstrates classify variable type in acquiring numerical data and measures of centre?",
+    "question": "Which interpretation is accurate for classify variable type in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which interpretation is accurate for classify variable type in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "calculate_mean_median_mode_range",
-    "question": "During a worked solution audit, which response best demonstrates calculate mean/median/mode/range in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During a worked solution audit, which response best demonstrates calculate mean/median/mode/range in acquiring numerical data and measures of centre?",
+    "question": "Which choice demonstrates calculate mean/median/mode/range in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which choice demonstrates calculate mean/median/mode/range in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "interpret_an_outlier",
-    "question": "During a source evaluation, which response best demonstrates interpret an outlier in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During a source evaluation, which response best demonstrates interpret an outlier in acquiring numerical data and measures of centre?",
+    "question": "What should be checked when applying interpret an outlier in acquiring numerical data and measures of centre?",
+    "audio_prompt": "What should be checked when applying interpret an outlier in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "clean_a_data_table",
-    "question": "During a multi-step application, which response best demonstrates clean a data table in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During a multi-step application, which response best demonstrates clean a data table in acquiring numerical data and measures of centre?",
+    "question": "Which response best uses clean a data table in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which response best uses clean a data table in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "audit_a_spreadsheet_formula",
-    "question": "During a justification task, which response best demonstrates audit a spreadsheet formula in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During a justification task, which response best demonstrates audit a spreadsheet formula in acquiring numerical data and measures of centre?",
+    "question": "Which claim is accurate about audit a spreadsheet formula in acquiring numerical data and measures of centre?",
+    "audio_prompt": "Which claim is accurate about audit a spreadsheet formula in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "classify_variable_type",
-    "question": "During a final synthesis, which response best demonstrates classify variable type in acquiring numerical data and measures of centre?",
-    "audio_prompt": "During a final synthesis, which response best demonstrates classify variable type in acquiring numerical data and measures of centre?",
+    "question": "What is required to apply classify variable type in acquiring numerical data and measures of centre?",
+    "audio_prompt": "What is required to apply classify variable type in acquiring numerical data and measures of centre?",
     "visual": {
       "type": "none",
       "alt_text": ""

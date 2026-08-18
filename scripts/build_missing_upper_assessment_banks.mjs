@@ -22,6 +22,24 @@ const contexts = [
   "a source evaluation", "a multi-step application", "a justification task", "a final synthesis",
 ];
 
+function generatedBankRows() {
+  const root = path.join(ROOT, "assets/assessment-banks");
+  if (!fs.existsSync(root)) return [];
+  return fs.readdirSync(root, { withFileTypes: true }).filter((entry) => /^year(?:7|8|9|10)$/.test(entry.name)).flatMap((yearEntry) => {
+    const year = Number(yearEntry.name.replace("year", ""));
+    const yearRoot = path.join(root, yearEntry.name);
+    return fs.readdirSync(yearRoot, { withFileTypes: true }).filter((entry) => entry.isDirectory()).flatMap((subjectEntry) => {
+      const subject = subjectEntry.name;
+      return fs.readdirSync(path.join(yearRoot, subject)).filter((name) => name.endsWith(".json")).flatMap((name) => {
+        const code = path.basename(name, ".json").toUpperCase();
+        const items = readExistingBank(path.join(yearRoot, subject, name));
+        const pattern = new RegExp(`^${code.toLowerCase()}-[pt]-00[1-8]$`);
+        return items.length === 16 && items.every((item) => pattern.test(clean(item.id))) ? [{ year, subject, code }] : [];
+      });
+    });
+  });
+}
+
 function loadGlobal(file, globalName) {
   const box = { window: {} };
   vm.runInNewContext(fs.readFileSync(path.join(ROOT, file), "utf8"), box, { filename: file });
@@ -114,34 +132,30 @@ function mergeBank(existing, generated) {
 }
 
 function canonicalSeeds(unit) {
-  const mastery = unit.masteryItems || [];
   const misconceptions = unit.misconceptions || [];
-  const worked = unit.workedExamples || [];
   const elaborations = unit.elaborations || [];
-  if (!mastery.length) throw new Error(`${unit.code}: no canonical mastery items`);
+  if (!elaborations.length) throw new Error(`${unit.code}: no canonical elaborations`);
   return Array.from({ length: 16 }, (_, index) => {
-    const source = mastery[index % mastery.length];
+    const elaboration = elaborations[index % elaborations.length];
     const misconception = misconceptions[index % Math.max(1, misconceptions.length)] || {};
-    const example = worked[index % Math.max(1, worked.length)] || {};
-    const elaboration = elaborations[index % Math.max(1, elaborations.length)] || {};
     const isTest = index >= 8;
-    const focus = elaboration.plainLanguageConcept || example.title || unit.title;
-    const question = isTest
-      ? `During ${contexts[index]}, ${sentence(source.prompt)} Which response provides the strongest evidence?`
-      : `During ${contexts[index]}, ${sentence(source.prompt)}`;
-    const correct = source.expectedAnswer;
+    const focus = elaboration.plainLanguageConcept || elaboration.teachingPurpose || unit.title;
+    const correct = elaboration.curriculumWording || elaboration.plainLanguageConcept;
+    const promptVariants = isTest
+      ? ["What is the correct way to apply", "Which description correctly applies", "Which response correctly uses", "Which interpretation is accurate for", "When would you use", "Which choice demonstrates", "What does correct application require for", "Which claim is accurate about"]
+      : ["Which statement correctly describes", "Which statement gives a valid example of", "What should you check when using", "Which statement best explains", "Which statement shows correct use of", "Which statement accurately identifies", "What is important when using", "Which statement is true about"];
+    const question = `${promptVariants[Math.floor(index / elaborations.length) % promptVariants.length]} ${sentence(focus).toLowerCase()}?`;
     const distractors = [
-      source.likelyMisconception,
-      misconception.incorrectIdea || misconception.cause,
-      misconception.rapidRemediation,
-      `A response that mentions ${sentence(focus).toLowerCase()} but does not justify the relationship`,
+      Array.isArray(misconception) ? misconception[0] : misconception.incorrectIdea || misconception.cause,
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
     ];
     return {
       question,
       correct,
       distractors,
-      summary: source.expectedAnswer,
-      hint: source.remediation,
+      summary: correct,
+      hint: elaboration.plainLanguageConcept || `Review ${sentence(focus).toLowerCase()}.`,
       focus,
     };
   });
@@ -158,11 +172,10 @@ function year7Seeds(unit) {
     const mistake = mistakes[index % Math.max(1, mistakes.length)] || ["The claim is unsupported", "Use the model and justify the relationship."];
     const focus = quick[index % Math.max(1, quick.length)] || unit.title;
     const correct = examples[index % examples.length];
-    const question = isTest
-      ? `During ${contexts[index]}, which response best demonstrates ${sentence(focus).toLowerCase()} in ${unit.title.toLowerCase()}?`
-      : index < 3
-        ? `During ${contexts[index]}, which statement correctly explains ${term[0]}?`
-        : `During ${contexts[index]}, which response best demonstrates ${sentence(focus).toLowerCase()} in ${unit.title.toLowerCase()}?`;
+    const practicePrompts = ["Which statement correctly explains", "Which description is accurate for", "Which statement gives an example of", "What is important when using", "Which statement correctly identifies", "Which choice best describes", "What does correct use require for", "Which statement is true about"];
+    const testPrompts = ["Which response correctly applies", "Which response shows correct use of", "Which interpretation is accurate for", "Which choice demonstrates", "What should be checked when applying", "Which response best uses", "Which claim is accurate about", "What is required to apply"];
+    const target = isTest ? `${sentence(focus).toLowerCase()} in ${unit.title.toLowerCase()}` : `${term[0]} in ${unit.title.toLowerCase()}`;
+    const question = `${(isTest ? testPrompts : practicePrompts)[index % 8]} ${target}?`;
     return {
       question,
       correct,
@@ -175,7 +188,8 @@ function year7Seeds(unit) {
 }
 
 const results = { preserved: 0, built: 0, practice: 0, test: 0, byYearSubject: {} };
-for (const { year, subject, code } of hidden) {
+const rows = refreshGenerated ? [...new Map([...hidden, ...generatedBankRows()].map((row) => [`${row.year}-${row.subject}-${row.code}`, row])).values()] : hidden;
+for (const { year, subject, code } of rows) {
   const outputDir = path.join(ROOT, "assets/assessment-banks", `year${year}`, subject);
   const output = path.join(outputDir, `${code.toLowerCase()}.json`);
   let existing = readExistingBank(output);

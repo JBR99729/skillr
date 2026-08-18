@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "informally using a line of good fit by eye to discuss reliability of any predictions",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For use a line of good fit cautiously, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For use a line of good fit cautiously, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which description correctly applies informally using a line of good fit by eye to discuss reliability of any predictions?",
+    "audioPrompt": "Which description correctly applies informally using a line of good fit by eye to discuss reliability of any predictions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: A line of good fit summarises a trend inside the observed data range; extrapolation beyond that range needs new justification. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions informally using a line of good fit by eye to discuss reliability of any predictions but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "informally using a line of good fit by eye to discuss reliability of any predictions",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: A line of good fit summarises a trend inside the observed data range; extrapolation beyond that range needs new justification. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A line of good fit summarises a trend inside the observed data range; extrapolation beyond that range needs new justification.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "informally using a line of good fit by eye to discuss reliability of any predictions\nHint: informally using a line of good fit by eye to discuss reliability of any predictions.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A line of good fit summarises a trend inside the observed data range; extrapolation beyond that range needs new justification. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A line of good fit summarises a trend inside the observed data range; extrapolation beyond that range needs new justification.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "informally using a line of good fit by eye to discuss reliability of any predictions",
+      "hint": "informally using a line of good fit by eye to discuss reliability of any predictions."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore how scatter plots and association help data scientists gain insights into the data identify relationships",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For use scatterplots in data science, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For use scatterplots in data science, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore how scatter plots and association help data scientists gain insights into the data, identify relationships?",
+    "audioPrompt": "Which description correctly applies explore how scatter plots and association help data scientists gain insights into the data, identify relationships?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: Explore how scatter plots and association help data scientists gain insights into the data, identify relationships. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore how scatter plots and association help data scientists gain insights into the data, identify relationships but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "exploring how scatter plots and association help data scientists gain insights into the data, identify relationships, and can be applied to machine learning to make informed decisions about feature engineering and assess model performance",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore how scatter plots and association help data scientists gain insights into the data, identify relationships. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore how scatter plots and association help data scientists gain insights into the data, identify relationships.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring how scatter plots and association help data scientists gain insights into the data, identify relationships, and can be applied to machine learning to make informed decisions about feature engineering and assess model performance\nHint: Explore how scatter plots and association help data scientists gain insights into the data, identify relationships.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore how scatter plots and association help data scientists gain insights into the data, identify relationships. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how scatter plots and association help data scientists gain insights into the data, identify relationships.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring how scatter plots and association help data scientists gain insights into the data, identify relationships, and can be applied to machine learning to make informed decisions about feature engineering and assess model performance",
+      "hint": "Explore how scatter plots and association help data scientists gain insights into the data, identify relationships."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For recognise limits of ai correlation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For recognise limits of ai correlation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations?",
+    "audioPrompt": "Which description correctly applies explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations but does not justify the relationship",
-      "Use the model evidence: The artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The bivariate association model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "investigating artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations; for example, the artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: The artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘The artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations; for example, the artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications\nHint: Explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: The artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations; for example, the artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications",
+      "hint": "Explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots make comparisons and draw conclusions",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For investigate two spear-thrower variables, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For investigate two spear-thrower variables, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots, make comparisons and draw conclusions?",
+    "audioPrompt": "Which description correctly applies explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots, make comparisons and draw conclusions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots, make comparisons and draw conclusions but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions\nHint: Explore the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions",
+      "hint": "Explore the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "discuss the difference between association and cause and effect and relating this to situations such as health diversity of species and climate control",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For separate association from causation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For separate association from causation, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control?",
+    "audioPrompt": "Which response correctly uses discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: A scatterplot can show association between two variables, but it cannot by itself rule out confounding variables or prove causation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control",
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: A scatterplot can show association between two variables, but it cannot by itself rule out confounding variables or prove causation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A scatterplot can show association between two variables, but it cannot by itself rule out confounding variables or prove causation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control\nHint: Discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A scatterplot can show association between two variables, but it cannot by itself rule out confounding variables or prove causation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A scatterplot can show association between two variables, but it cannot by itself rule out confounding variables or prove causation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control",
+      "hint": "Discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use statistical evidence to make justify and critique claims about association between variables such as in contexts of climate change migration online shopping and social media",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For critique an association claim, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For critique an association claim, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media?",
+    "audioPrompt": "Which response correctly uses use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "Use the model evidence: In contexts of climate change, migration, online shopping and social media. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The bivariate association model is copied without interpretation",
+      "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: In contexts of climate change, migration, online shopping and social media. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘In contexts of climate change, migration, online shopping and social media.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media\nHint: Use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: In contexts of climate change, migration, online shopping and social media. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘In contexts of climate change, migration, online shopping and social media.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media",
+      "hint": "Use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "informally using a line of good fit by eye to discuss reliability of any predictions",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For use a line of good fit cautiously, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For use a line of good fit cautiously, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses informally using a line of good fit by eye to discuss reliability of any predictions?",
+    "audioPrompt": "Which response correctly uses informally using a line of good fit by eye to discuss reliability of any predictions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions informally using a line of good fit by eye to discuss reliability of any predictions but does not justify the relationship",
-      "Use the model evidence: A line of good fit summarises a trend inside the observed data range; extrapolation beyond that range needs new justification. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "informally using a line of good fit by eye to discuss reliability of any predictions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: A line of good fit summarises a trend inside the observed data range; extrapolation beyond that range needs new justification. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘A line of good fit summarises a trend inside the observed data range; extrapolation beyond that range needs new justification.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "informally using a line of good fit by eye to discuss reliability of any predictions\nHint: informally using a line of good fit by eye to discuss reliability of any predictions.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: A line of good fit summarises a trend inside the observed data range; extrapolation beyond that range needs new justification. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘A line of good fit summarises a trend inside the observed data range; extrapolation beyond that range needs new justification.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "informally using a line of good fit by eye to discuss reliability of any predictions",
+      "hint": "informally using a line of good fit by eye to discuss reliability of any predictions."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore how scatter plots and association help data scientists gain insights into the data identify relationships",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For use scatterplots in data science, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For use scatterplots in data science, what claim is supported, and what limitation remains Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore how scatter plots and association help data scientists gain insights into the data, identify relationships?",
+    "audioPrompt": "Which response correctly uses explore how scatter plots and association help data scientists gain insights into the data, identify relationships?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A display or sample is treated as proof of a stronger claim",
-      "A response that mentions explore how scatter plots and association help data scientists gain insights into the data, identify relationships but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore how scatter plots and association help data scientists gain insights into the data, identify relationships. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "exploring how scatter plots and association help data scientists gain insights into the data, identify relationships, and can be applied to machine learning to make informed decisions about feature engineering and assess model performance"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore how scatter plots and association help data scientists gain insights into the data, identify relationships. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore how scatter plots and association help data scientists gain insights into the data, identify relationships.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "exploring how scatter plots and association help data scientists gain insights into the data, identify relationships, and can be applied to machine learning to make informed decisions about feature engineering and assess model performance\nHint: Explore how scatter plots and association help data scientists gain insights into the data, identify relationships.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore how scatter plots and association help data scientists gain insights into the data, identify relationships. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how scatter plots and association help data scientists gain insights into the data, identify relationships.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "exploring how scatter plots and association help data scientists gain insights into the data, identify relationships, and can be applied to machine learning to make informed decisions about feature engineering and assess model performance",
+      "hint": "Explore how scatter plots and association help data scientists gain insights into the data, identify relationships."
     },
     "qualitySchema": "production-v1"
   }

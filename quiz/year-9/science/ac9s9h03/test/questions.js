@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, In 20 seconds, explain how evidence strength helps make sense of citizen science projects related to public health and examining Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, In 20 seconds, explain how evidence strength helps make sense of citizen science projects related to public health and examining Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
+      "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality",
       "Strong evidence guarantees rapid adoption",
-      "Add trust, access, incentives, regulation and values to the model",
-      "A response that mentions use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.\nHint: Add trust, access, incentives, regulation and values to the model.",
+    "explanation": "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality\nHint: Use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality",
+      "hint": "Use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how benefit and risk helps make sense of how the practices adopted by society based on research Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, In 20 seconds, explain how benefit and risk helps make sense of how the practices adopted by society based on research Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Low adoption proves the science is weak",
-      "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
-      "Test several adoption factors before inferring the cause",
-      "A response that mentions use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "examining how assisted reproductive technologies have become widely used since their initial development",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.\nHint: Test several adoption factors before inferring the cause.",
+    "explanation": "examining how assisted reproductive technologies have become widely used since their initial development\nHint: Use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
-      "hint": "Test several adoption factors before inferring the cause."
+      "summary": "examining how assisted reproductive technologies have become widely used since their initial development",
+      "hint": "Use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use how government initiatives to make the role of access and cost visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, In 20 seconds, explain how trust helps make sense of how assisted reproductive technologies have become widely used since Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, In 20 seconds, explain how trust helps make sense of how assisted reproductive technologies have become widely used since Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how government initiatives to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how government initiatives to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Strong evidence guarantees rapid adoption",
-      "Add trust, access, incentives, regulation and values to the model",
-      "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
-      "A response that mentions use how government initiatives to make the role of access and cost visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "examining how government initiatives such as Landcare support adoption of effective land restoration practices that improve soil quality and increase carbon sequestration in soils",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.\nHint: Add trust, access, incentives, regulation and values to the model.",
+    "explanation": "examining how government initiatives such as Landcare support adoption of effective land restoration practices that improve soil quality and increase carbon sequestration in soils\nHint: Use how government initiatives to make the role of access and cost visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "examining how government initiatives such as Landcare support adoption of effective land restoration practices that improve soil quality and increase carbon sequestration in soils",
+      "hint": "Use how government initiatives to make the role of access and cost visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how first nations australians fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, In 20 seconds, explain how access and cost helps make sense of how government initiatives Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, In 20 seconds, explain how access and cost helps make sense of how government initiatives Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how first nations australians’ fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how first nations australians’ fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Low adoption proves the science is weak",
-      "Test several adoption factors before inferring the cause",
-      "A response that mentions use how first nations australians’ fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating how First Nations Australians’ fire management practices are informing and being adopted in contemporary fire management"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.\nHint: Test several adoption factors before inferring the cause.",
+    "explanation": "investigating how First Nations Australians’ fire management practices are informing and being adopted in contemporary fire management\nHint: Use how First Nations Australians’ fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
-      "hint": "Test several adoption factors before inferring the cause."
+      "summary": "investigating how First Nations Australians’ fire management practices are informing and being adopted in contemporary fire management",
+      "hint": "Use how First Nations Australians’ fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, In 20 seconds, explain how values and policy helps make sense of how first nations australians’ fire management practices are informing Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, In 20 seconds, explain how values and policy helps make sense of how first nations australians’ fire management practices are informing Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
+      "analysing factors that have led to the adoption of solar panels and battery storage by individuals, industries and communities",
       "Strong evidence guarantees rapid adoption",
-      "Add trust, access, incentives, regulation and values to the model",
-      "A response that mentions use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.\nHint: Add trust, access, incentives, regulation and values to the model.",
+    "explanation": "analysing factors that have led to the adoption of solar panels and battery storage by individuals, industries and communities\nHint: Use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Evidence quality is essential but not sufficient.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "analysing factors that have led to the adoption of solar panels and battery storage by individuals, industries and communities",
+      "hint": "Use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, In 20 seconds, explain how evidence strength helps make sense of factors that have led to the adoption of solar Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, In 20 seconds, explain how evidence strength helps make sense of factors that have led to the adoption of solar Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Low adoption proves the science is weak",
-      "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
-      "Test several adoption factors before inferring the cause",
-      "A response that mentions use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "investigating how an understanding of materials and concern for the environment have led to the adoption of widespread recycling practices",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.\nHint: Test several adoption factors before inferring the cause.",
+    "explanation": "investigating how an understanding of materials and concern for the environment have led to the adoption of widespread recycling practices\nHint: Use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption patterns can vary among groups and over time.",
-      "hint": "Test several adoption factors before inferring the cause."
+      "summary": "investigating how an understanding of materials and concern for the environment have led to the adoption of widespread recycling practices",
+      "hint": "Use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, In 20 seconds, explain how benefit and risk helps make sense of how an understanding of materials and concern Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, In 20 seconds, explain how benefit and risk helps make sense of how an understanding of materials and concern Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Strong evidence guarantees rapid adoption",
-      "Add trust, access, incentives, regulation and values to the model",
-      "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
-      "A response that mentions use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "researching citizen science projects related to public health and examining why people would choose to be involved",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.\nHint: Add trust, access, incentives, regulation and values to the model.",
+    "explanation": "researching citizen science projects related to public health and examining why people would choose to be involved\nHint: Use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Adoption is influenced by scientific and social factors.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "researching citizen science projects related to public health and examining why people would choose to be involved",
+      "hint": "Use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, Use the central model to explain why society adopts scientific practices in three linked sentences Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, Use the central model to explain why society adopts scientific practices in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Strong evidence guarantees rapid adoption",
       "Low adoption proves the science is weak",
-      "Test several adoption factors before inferring the cause",
-      "Adoption is influenced by scientific and social factors. Evidence quality is essential but not sufficient. Adoption patterns can vary among groups and over time."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality"
     ],
     "correct": 3,
-    "explanation": "Adoption is influenced by scientific and social factors. Evidence quality is essential but not sufficient. Adoption patterns can vary among groups and over time.\nHint: Add trust, access, incentives, regulation and values to the model.",
+    "explanation": "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality\nHint: Use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Adoption is influenced by scientific and social factors. Evidence quality is essential but not sufficient. Adoption patterns can vary among groups and over time.",
-      "hint": "Add trust, access, incentives, regulation and values to the model."
+      "summary": "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality",
+      "hint": "Use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

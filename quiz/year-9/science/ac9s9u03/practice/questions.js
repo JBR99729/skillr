@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "use earth as a system describing earth s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, In 20 seconds, explain how atmosphere helps make sense of earth as a system, describing earth’s spheres and discussing",
-    "audioPrompt": "During a guided example, In 20 seconds, explain how atmosphere helps make sense of earth as a system, describing earth’s spheres and discussing",
+    "question": "Which statement correctly describes use earth as a system, describing earth’s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use earth as a system, describing earth’s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Carbon exists in major stores across four Earth spheres.",
+      "identifying Earth as a system, describing Earth’s spheres and discussing examples of interactions between different spheres",
       "Carbon is created by combustion",
-      "Track existing carbon atoms from fuel to carbon dioxide",
-      "A response that mentions use earth as a system, describing earth’s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Carbon exists in major stores across four Earth spheres.\nHint: Track existing carbon atoms from fuel to carbon dioxide.",
+    "explanation": "identifying Earth as a system, describing Earth’s spheres and discussing examples of interactions between different spheres\nHint: Use Earth as a system, describing Earth’s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Carbon exists in major stores across four Earth spheres.",
-      "hint": "Track existing carbon atoms from fuel to carbon dioxide."
+      "summary": "identifying Earth as a system, describing Earth’s spheres and discussing examples of interactions between different spheres",
+      "hint": "Use Earth as a system, describing Earth’s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the carbon cycle using diagrams animations or simulations to make the role of biosphere visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, In 20 seconds, explain how biosphere helps make sense of the carbon cycle using diagrams, animations or simulations",
-    "audioPrompt": "During a comparison task, In 20 seconds, explain how biosphere helps make sense of the carbon cycle using diagrams, animations or simulations",
+    "question": "Which statement correctly describes use the carbon cycle using diagrams, animations or simulations to make the role of biosphere visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the carbon cycle using diagrams, animations or simulations to make the role of biosphere visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The carbon cycle is one simple circle",
-      "The response should use the displayed example and connect it to this idea: Photosynthesis, respiration, decomposition, dissolution and combustion transfer carbon.",
-      "Use a network with multiple stores and pathways operating at different rates",
-      "A response that mentions use the carbon cycle using diagrams, animations or simulations to make the role of biosphere visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "examining the carbon cycle using diagrams, animations or simulations and explaining the role of photosynthesis and respiration in that cycle",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Photosynthesis, respiration, decomposition, dissolution and combustion transfer carbon.\nHint: Use a network with multiple stores and pathways operating at different rates.",
+    "explanation": "examining the carbon cycle using diagrams, animations or simulations and explaining the role of photosynthesis and respiration in that cycle\nHint: Use the carbon cycle using diagrams, animations or simulations to make the role of biosphere visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Photosynthesis, respiration, decomposition, dissolution and combustion transfer carbon.",
-      "hint": "Use a network with multiple stores and pathways operating at different rates."
+      "summary": "examining the carbon cycle using diagrams, animations or simulations and explaining the role of photosynthesis and respiration in that cycle",
+      "hint": "Use the carbon cycle using diagrams, animations or simulations to make the role of biosphere visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, In 20 seconds, explain how hydrosphere helps make sense of the impact of combustion reactions as a result",
-    "audioPrompt": "During an error analysis, In 20 seconds, explain how hydrosphere helps make sense of the impact of combustion reactions as a result",
+    "question": "Which statement correctly describes use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Carbon is created by combustion",
-      "Track existing carbon atoms from fuel to carbon dioxide",
-      "The response should use the displayed example and connect it to this idea: Changing one transfer rate can alter multiple stores.",
-      "A response that mentions use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "identifying the impact of combustion reactions as a result of human activity on the carbon cycle",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Changing one transfer rate can alter multiple stores.\nHint: Track existing carbon atoms from fuel to carbon dioxide.",
+    "explanation": "identifying the impact of combustion reactions as a result of human activity on the carbon cycle\nHint: Use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Changing one transfer rate can alter multiple stores.",
-      "hint": "Track existing carbon atoms from fuel to carbon dioxide."
+      "summary": "identifying the impact of combustion reactions as a result of human activity on the carbon cycle",
+      "hint": "Use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, In 20 seconds, explain how geosphere helps make sense of the greenhouse effect and relating it to the role",
-    "audioPrompt": "During a model interpretation, In 20 seconds, explain how geosphere helps make sense of the greenhouse effect and relating it to the role",
+    "question": "Which statement correctly describes use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,15 +104,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The carbon cycle is one simple circle",
-      "Use a network with multiple stores and pathways operating at different rates",
-      "A response that mentions use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Carbon exists in major stores across four Earth spheres."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating the greenhouse effect and relating it to the role carbon dioxide plays in maintaining temperatures that support life on Earth"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Carbon exists in major stores across four Earth spheres.\nHint: Use a network with multiple stores and pathways operating at different rates.",
+    "explanation": "investigating the greenhouse effect and relating it to the role carbon dioxide plays in maintaining temperatures that support life on Earth\nHint: Use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Carbon exists in major stores across four Earth spheres.",
-      "hint": "Use a network with multiple stores and pathways operating at different rates."
+      "summary": "investigating the greenhouse effect and relating it to the role carbon dioxide plays in maintaining temperatures that support life on Earth",
+      "hint": "Use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "use a field investigation to evaluate carbon sequestration to make the role of photosynthesis respiration and combustion visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, In 20 seconds, explain how photosynthesis, respiration and combustion helps make sense of a field investigation to evaluate carbon sequestration",
-    "audioPrompt": "During an evidence check, In 20 seconds, explain how photosynthesis, respiration and combustion helps make sense of a field investigation to evaluate carbon sequestration",
+    "question": "Which statement correctly describes use a field investigation to evaluate carbon sequestration to make the role of photosynthesis, respiration and combustion visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use a field investigation to evaluate carbon sequestration to make the role of photosynthesis, respiration and combustion visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Photosynthesis, respiration, decomposition, dissolution and combustion transfer carbon.",
+      "conducting a field investigation to evaluate carbon sequestration in an ecosystem, such as measuring tree biomass, deadwood, leaf litter and soil depth, and using formulas to calculate approximate carbon storage",
       "Carbon is created by combustion",
-      "Track existing carbon atoms from fuel to carbon dioxide",
-      "A response that mentions use a field investigation to evaluate carbon sequestration to make the role of photosynthesis, respiration and combustion visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Photosynthesis, respiration, decomposition, dissolution and combustion transfer carbon.\nHint: Track existing carbon atoms from fuel to carbon dioxide.",
+    "explanation": "conducting a field investigation to evaluate carbon sequestration in an ecosystem, such as measuring tree biomass, deadwood, leaf litter and soil depth, and using formulas to calculate approximate carbon storage\nHint: Use a field investigation to evaluate carbon sequestration to make the role of photosynthesis, respiration and combustion visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Photosynthesis, respiration, decomposition, dissolution and combustion transfer carbon.",
-      "hint": "Track existing carbon atoms from fuel to carbon dioxide."
+      "summary": "conducting a field investigation to evaluate carbon sequestration in an ecosystem, such as measuring tree biomass, deadwood, leaf litter and soil depth, and using formulas to calculate approximate carbon storage",
+      "hint": "Use a field investigation to evaluate carbon sequestration to make the role of photosynthesis, respiration and combustion visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how first nations australians use fire mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, In 20 seconds, explain how atmosphere helps make sense of how first nations australians use fire-mediated chemical reactions",
-    "audioPrompt": "During a transfer problem, In 20 seconds, explain how atmosphere helps make sense of how first nations australians use fire-mediated chemical reactions",
+    "question": "Which statement correctly describes use how first nations australians use fire-mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how first nations australians use fire-mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The carbon cycle is one simple circle",
-      "The response should use the displayed example and connect it to this idea: Changing one transfer rate can alter multiple stores.",
-      "Use a network with multiple stores and pathways operating at different rates",
-      "A response that mentions use how first nations australians use fire-mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "investigating how First Nations Australians use fire-mediated chemical reactions to facilitate energy and nutrient transfer through the practice of firestick farming",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Changing one transfer rate can alter multiple stores.\nHint: Use a network with multiple stores and pathways operating at different rates.",
+    "explanation": "investigating how First Nations Australians use fire-mediated chemical reactions to facilitate energy and nutrient transfer through the practice of firestick farming\nHint: Use how First Nations Australians use fire-mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Changing one transfer rate can alter multiple stores.",
-      "hint": "Use a network with multiple stores and pathways operating at different rates."
+      "summary": "investigating how First Nations Australians use fire-mediated chemical reactions to facilitate energy and nutrient transfer through the practice of firestick farming",
+      "hint": "Use how First Nations Australians use fire-mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how first nations australians are reducing australia s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, In 20 seconds, explain how biosphere helps make sense of how first nations australians are reducing australia’s greenhouse gas",
-    "audioPrompt": "During a peer explanation, In 20 seconds, explain how biosphere helps make sense of how first nations australians are reducing australia’s greenhouse gas",
+    "question": "Which statement correctly describes use how first nations australians are reducing australia’s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how first nations australians are reducing australia’s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Carbon is created by combustion",
-      "Track existing carbon atoms from fuel to carbon dioxide",
-      "The response should use the displayed example and connect it to this idea: Carbon exists in major stores across four Earth spheres.",
-      "A response that mentions use how first nations australians are reducing australia’s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "investigating how First Nations Australians are reducing Australia’s greenhouse gas emissions through the reinstatement of traditional fire management regimes",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Carbon exists in major stores across four Earth spheres.\nHint: Track existing carbon atoms from fuel to carbon dioxide.",
+    "explanation": "investigating how First Nations Australians are reducing Australia’s greenhouse gas emissions through the reinstatement of traditional fire management regimes\nHint: Use how First Nations Australians are reducing Australia’s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Carbon exists in major stores across four Earth spheres.",
-      "hint": "Track existing carbon atoms from fuel to carbon dioxide."
+      "summary": "investigating how First Nations Australians are reducing Australia’s greenhouse gas emissions through the reinstatement of traditional fire management regimes",
+      "hint": "Use how First Nations Australians are reducing Australia’s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, In 20 seconds, explain how hydrosphere helps make sense of how carbon dioxide is captured and stored naturally",
-    "audioPrompt": "During an independent review, In 20 seconds, explain how hydrosphere helps make sense of how carbon dioxide is captured and stored naturally",
+    "question": "Which statement correctly describes use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which statement correctly describes use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The carbon cycle is one simple circle",
-      "Use a network with multiple stores and pathways operating at different rates",
-      "A response that mentions use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Photosynthesis, respiration, decomposition, dissolution and combustion transfer carbon."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "identifying how carbon dioxide is captured and stored naturally or through the use of technologies"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Photosynthesis, respiration, decomposition, dissolution and combustion transfer carbon.\nHint: Use a network with multiple stores and pathways operating at different rates.",
+    "explanation": "identifying how carbon dioxide is captured and stored naturally or through the use of technologies\nHint: Use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Photosynthesis, respiration, decomposition, dissolution and combustion transfer carbon.",
-      "hint": "Use a network with multiple stores and pathways operating at different rates."
+      "summary": "identifying how carbon dioxide is captured and stored naturally or through the use of technologies",
+      "hint": "Use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "apply_the_graphing_zoom_functionality_of_digital_tools_and_systematically_refining_intervals_to_identify_approximate_location_of_points_of_intersection_of_the_graphs_of_2_functions",
-    "question": "During a guided example, For zoom in on function intersections, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During a guided example, For zoom in on function intersections, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions?",
+    "audio_prompt": "Which statement correctly describes apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Find an interval where two graphs swap vertical order, zoom in, then refine the interval around their intersection. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions, such as x^2=2^x",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Find an interval where two graphs swap vertical order, zoom in, then refine the interval around their intersection. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Find an interval where two graphs swap vertical order, zoom in, then refine the interval around their intersection.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions, such as x^2=2^x",
+      "hint": "Apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "apply_a_bisection_algorithm_to_determine_the_approximate_location_of_the_horizontal_axis_intercepts_of_the_graph_of_a_quadratic_function_such_as_f_x_2x_3x_7",
-    "question": "During a comparison task, For bisect to locate a quadratic root, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During a comparison task, For bisect to locate a quadratic root, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7?",
+    "audio_prompt": "Which statement correctly describes apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The experimenting with functions model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: For f(x) = 2x² − 3x − 7, opposite signs at two endpoints trap a root; repeatedly halve that interval. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x^2-3x-7",
         "is_correct": true
       },
       {
-        "text": "A response that mentions apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7 but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: For f(x) = 2x² − 3x − 7, opposite signs at two endpoints trap a root; repeatedly halve that interval. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘For f(x) = 2x² − 3x − 7, opposite signs at two endpoints trap a root; repeatedly halve that interval.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x^2-3x-7",
+      "hint": "Apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "apply_transformations_to_the_graph_of_x_y_1",
-    "question": "During an error analysis, For transform the unit circle, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During an error analysis, For transform the unit circle, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes apply transformations to the graph of x²+y²=1?",
+    "audio_prompt": "Which statement correctly describes apply transformations to the graph of x²+y²=1?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions apply transformations to the graph of x²+y²=1 but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Apply transformations to the graph of x²+y²=1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying transformations to the graph of x^2+y^2=1",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Apply transformations to the graph of x²+y²=1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply transformations to the graph of x²+y²=1.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying transformations to the graph of x^2+y^2=1",
+      "hint": "Apply transformations to the graph of x²+y²=1."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "identify_the_coordinates_of_any_points_of_intersection_of_the_graph_of_a_linear_function_with_the_graph_of_a_quadratic_function_or_a_circle",
-    "question": "During a model interpretation, For find line–curve intersections, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During a model interpretation, For find line–curve intersections, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle?",
+    "audio_prompt": "Which statement correctly describes identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "identifying the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle",
+      "hint": "Identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "identify_intervals_on_the_real_number_line_over_which_a_given_quadratic_function_is_positive_or_negative",
-    "question": "During an evidence check, For locate where a quadratic is positive, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During an evidence check, For locate where a quadratic is positive, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes identify intervals on the real number line over which a given quadratic function is positive or negative?",
+    "audio_prompt": "Which statement correctly describes identify intervals on the real number line over which a given quadratic function is positive or negative?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Identify intervals on the real number line over which a given quadratic function is positive or negative. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "identifying intervals on the real number line over which a given quadratic function is positive or negative",
         "is_correct": true
       },
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The experimenting with functions model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions identify intervals on the real number line over which a given quadratic function is positive or negative but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Identify intervals on the real number line over which a given quadratic function is positive or negative. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify intervals on the real number line over which a given quadratic function is positive or negative.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying intervals on the real number line over which a given quadratic function is positive or negative",
+      "hint": "Identify intervals on the real number line over which a given quadratic function is positive or negative."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_a_table_of_values_to_determine_when_an_exponential_growth_or_decay_function_exceeds_or_falls_below_a_given_value",
-    "question": "During a transfer problem, For find when an exponential crosses a threshold, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During a transfer problem, For find when an exponential crosses a threshold, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes use a table of values to determine when an exponential growth or decay function exceeds or falls below a given value?",
+    "audio_prompt": "Which statement correctly describes use a table of values to determine when an exponential growth or decay function exceeds or falls below a given value?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Monitoring the trend in value of a share price in a context of exponential growth or decay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using a table of values to determine when an exponential growth or decay function exceeds or falls below a given value, such as monitoring the trend in value of a share price in a context of exponential growth or decay",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use a table of values to determine when an exponential growth or decay function exceeds or falls below a given value but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Monitoring the trend in value of a share price in a context of exponential growth or decay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Monitoring the trend in value of a share price in a context of exponential growth or decay.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a table of values to determine when an exponential growth or decay function exceeds or falls below a given value, such as monitoring the trend in value of a share price in a context of exponential growth or decay",
+      "hint": "Use a table of values to determine when an exponential growth or decay function exceeds or falls below a given value."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_functions_and_relations_serve_as_the_mathematical_underpinnings_of_machine_learning_allowing_data_to_be_transformed_models_to_be_defined_and_optimisation_to_occur",
-    "question": "During a peer explanation, For connect functions to machine learning, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During a peer explanation, For connect functions to machine learning, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement correctly describes explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur?",
+    "audio_prompt": "Which statement correctly describes explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur",
+      "hint": "Explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "apply_the_graphing_zoom_functionality_of_digital_tools_and_systematically_refining_intervals_to_identify_approximate_location_of_points_of_intersection_of_the_graphs_of_2_functions",
-    "question": "During an independent review, For zoom in on function intersections, which graph feature is direct evidence for the conclusion",
-    "audio_prompt": "During an independent review, For zoom in on function intersections, which graph feature is direct evidence for the conclusion",
+    "question": "Which statement gives a valid example of apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions?",
+    "audio_prompt": "Which statement gives a valid example of apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The experimenting with functions model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Find an interval where two graphs swap vertical order, zoom in, then refine the interval around their intersection. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions, such as x^2=2^x",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Find an interval where two graphs swap vertical order, zoom in, then refine the interval around their intersection. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Find an interval where two graphs swap vertical order, zoom in, then refine the interval around their intersection.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions, such as x^2=2^x",
+      "hint": "Apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "apply_a_bisection_algorithm_to_determine_the_approximate_location_of_the_horizontal_axis_intercepts_of_the_graph_of_a_quadratic_function_such_as_f_x_2x_3x_7",
-    "question": "During a fresh case study, For bisect to locate a quadratic root, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For bisect to locate a quadratic root, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7?",
+    "audio_prompt": "Which description correctly applies apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: For f(x) = 2x² − 3x − 7, opposite signs at two endpoints trap a root; repeatedly halve that interval. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x^2-3x-7",
         "is_correct": true
       },
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7 but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: For f(x) = 2x² − 3x − 7, opposite signs at two endpoints trap a root; repeatedly halve that interval. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘For f(x) = 2x² − 3x − 7, opposite signs at two endpoints trap a root; repeatedly halve that interval.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x^2-3x-7",
+      "hint": "Apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "apply_transformations_to_the_graph_of_x_y_1",
-    "question": "During an unfamiliar representation, For transform the unit circle, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For transform the unit circle, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies apply transformations to the graph of x²+y²=1?",
+    "audio_prompt": "Which description correctly applies apply transformations to the graph of x²+y²=1?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Apply transformations to the graph of x²+y²=1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying transformations to the graph of x^2+y^2=1",
         "is_correct": true
       },
       {
-        "text": "A response that mentions apply transformations to the graph of x²+y²=1 but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Apply transformations to the graph of x²+y²=1. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply transformations to the graph of x²+y²=1.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying transformations to the graph of x^2+y^2=1",
+      "hint": "Apply transformations to the graph of x²+y²=1."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "identify_the_coordinates_of_any_points_of_intersection_of_the_graph_of_a_linear_function_with_the_graph_of_a_quadratic_function_or_a_circle",
-    "question": "During a critical response, For find line–curve intersections, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For find line–curve intersections, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle?",
+    "audio_prompt": "Which description correctly applies identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The experimenting with functions model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "identifying the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle",
+      "hint": "Identify the coordinates of any points of intersection of the graph of a linear function with the graph of a quadratic function or a circle."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "identify_intervals_on_the_real_number_line_over_which_a_given_quadratic_function_is_positive_or_negative",
-    "question": "During a worked solution audit, For locate where a quadratic is positive, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For locate where a quadratic is positive, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies identify intervals on the real number line over which a given quadratic function is positive or negative?",
+    "audio_prompt": "Which description correctly applies identify intervals on the real number line over which a given quadratic function is positive or negative?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions identify intervals on the real number line over which a given quadratic function is positive or negative but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Identify intervals on the real number line over which a given quadratic function is positive or negative. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "identifying intervals on the real number line over which a given quadratic function is positive or negative",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Identify intervals on the real number line over which a given quadratic function is positive or negative. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Identify intervals on the real number line over which a given quadratic function is positive or negative.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "identifying intervals on the real number line over which a given quadratic function is positive or negative",
+      "hint": "Identify intervals on the real number line over which a given quadratic function is positive or negative."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_a_table_of_values_to_determine_when_an_exponential_growth_or_decay_function_exceeds_or_falls_below_a_given_value",
-    "question": "During a source evaluation, For find when an exponential crosses a threshold, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For find when an exponential crosses a threshold, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use a table of values to determine when an exponential growth or decay function exceeds or falls below a given value?",
+    "audio_prompt": "Which description correctly applies use a table of values to determine when an exponential growth or decay function exceeds or falls below a given value?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Monitoring the trend in value of a share price in a context of exponential growth or decay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using a table of values to determine when an exponential growth or decay function exceeds or falls below a given value, such as monitoring the trend in value of a share price in a context of exponential growth or decay",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a table of values to determine when an exponential growth or decay function exceeds or falls below a given value but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Monitoring the trend in value of a share price in a context of exponential growth or decay. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Monitoring the trend in value of a share price in a context of exponential growth or decay.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using a table of values to determine when an exponential growth or decay function exceeds or falls below a given value, such as monitoring the trend in value of a share price in a context of exponential growth or decay",
+      "hint": "Use a table of values to determine when an exponential growth or decay function exceeds or falls below a given value."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_functions_and_relations_serve_as_the_mathematical_underpinnings_of_machine_learning_allowing_data_to_be_transformed_models_to_be_defined_and_optimisation_to_occur",
-    "question": "During a multi-step application, For connect functions to machine learning, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For connect functions to machine learning, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur?",
+    "audio_prompt": "Which description correctly applies explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The experimenting with functions model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur",
+      "hint": "Explore how functions and relations serve as the mathematical underpinnings of machine learning, allowing data to be transformed, models to be defined and optimisation to occur."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "apply_the_graphing_zoom_functionality_of_digital_tools_and_systematically_refining_intervals_to_identify_approximate_location_of_points_of_intersection_of_the_graphs_of_2_functions",
-    "question": "During a justification task, For zoom in on function intersections, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For zoom in on function intersections, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions?",
+    "audio_prompt": "Which response correctly uses apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A rule is applied without preserving equivalence or its conditions",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Find an interval where two graphs swap vertical order, zoom in, then refine the interval around their intersection. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions, such as x^2=2^x",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Find an interval where two graphs swap vertical order, zoom in, then refine the interval around their intersection. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Find an interval where two graphs swap vertical order, zoom in, then refine the interval around their intersection.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions, such as x^2=2^x",
+      "hint": "Apply the graphing zoom functionality of digital tools and systematically refining intervals to identify approximate location of points of intersection of the graphs of 2 functions."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "apply_a_bisection_algorithm_to_determine_the_approximate_location_of_the_horizontal_axis_intercepts_of_the_graph_of_a_quadratic_function_such_as_f_x_2x_3x_7",
-    "question": "During a final synthesis, For bisect to locate a quadratic root, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For bisect to locate a quadratic root, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7?",
+    "audio_prompt": "Which response correctly uses apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7 but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: For f(x) = 2x² − 3x − 7, opposite signs at two endpoints trap a root; repeatedly halve that interval. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x^2-3x-7",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: For f(x) = 2x² − 3x − 7, opposite signs at two endpoints trap a root; repeatedly halve that interval. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘For f(x) = 2x² − 3x − 7, opposite signs at two endpoints trap a root; repeatedly halve that interval.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x^2-3x-7",
+      "hint": "Apply a bisection algorithm to determine the approximate location of the horizontal axis intercepts of the graph of a quadratic function such as f(x)=2x²-3x-7."
     }
   }
 ]

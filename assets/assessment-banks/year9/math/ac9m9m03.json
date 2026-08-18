@@ -6,15 +6,15 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_the_applications_of_pythagoras_theorem_in_authentic_problems_including_applying_pythagoras_theorem_and_trigonometry_to_problems_in_surveying_and_design",
-    "question": "During a guided example, For combine pythagoras and trigonometry, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During a guided example, For combine pythagoras and trigonometry, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design?",
+    "audio_prompt": "Which statement correctly describes explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
+      "hint": "Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design."
     }
   },
   {
@@ -43,34 +43,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "apply_the_formula_for_calculation_of_distances_between_points_on_the_cartesian_plane_from_their_coordinates_emphasising_the_connection_to_vertical_and_horizontal_displacements_between_the_points",
-    "question": "During a comparison task, For connect coordinate distance to displacement, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During a comparison task, For connect coordinate distance to displacement, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points?",
+    "audio_prompt": "Which statement correctly describes apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The spatial problem solving model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points",
         "is_correct": true
       },
       {
-        "text": "A response that mentions apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points",
+      "hint": "Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points."
     }
   },
   {
@@ -80,34 +80,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "understand_the_relationship_between_the_corresponding_sides_of_similar_right_angled_triangles_and_establishing_the_relationship_between_areas_of_similar_figures",
-    "question": "During an error analysis, For scale lengths and areas in similar figures, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During an error analysis, For scale lengths and areas in similar figures, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures?",
+    "audio_prompt": "Which statement correctly describes understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures and the ratio of corresponding sides, the scale factor",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures and the ratio of corresponding sides, the scale factor",
+      "hint": "Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_images_of_proportional_relationships_to_estimate_actual_measurements",
-    "question": "During a model interpretation, For estimate height from a scaled image, which units, bounds or accuracy statement belong in the result",
-    "audio_prompt": "During a model interpretation, For estimate height from a scaled image, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes use images of proportional relationships to estimate actual measurements?",
+    "audio_prompt": "Which statement correctly describes use images of proportional relationships to estimate actual measurements?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use images of proportional relationships to estimate actual measurements but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use images of proportional relationships to estimate actual measurements. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using images of proportional relationships to estimate actual measurements; for example, taking a photograph of a person standing in front of a tree and using the image and scale to estimate the height of the tree, discussing the findings and ways to improve the estimates",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Use images of proportional relationships to estimate actual measurements. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use images of proportional relationships to estimate actual measurements.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using images of proportional relationships to estimate actual measurements; for example, taking a photograph of a person standing in front of a tree and using the image and scale to estimate the height of the tree, discussing the findings and ways to improve the estimates",
+      "hint": "Use images of proportional relationships to estimate actual measurements."
     }
   },
   {
@@ -154,34 +154,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_theorems_and_conjectures_involving_triangles",
-    "question": "During an evidence check, For test triangle conjectures, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During an evidence check, For test triangle conjectures, which labelled relationship justifies the conclusion",
+    "question": "Which statement correctly describes explore theorems and conjectures involving triangles?",
+    "audio_prompt": "Which statement correctly describes explore theorems and conjectures involving triangles?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: The triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating theorems and conjectures involving triangles; for example, the triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles; determining the minimal sets of information for a triangle from which other measures can all be determined",
         "is_correct": true
       },
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The spatial problem solving model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore theorems and conjectures involving triangles but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: The triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating theorems and conjectures involving triangles; for example, the triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles; determining the minimal sets of information for a triangle from which other measures can all be determined",
+      "hint": "Explore theorems and conjectures involving triangles."
     }
   },
   {
@@ -191,34 +191,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_knowledge_of_similar_triangles_pythagoras_theorem_rates_and_algebra_to_design_and_construct_a_biltmore_stick_used_to_measure_the_diameter_and_height_of_a_tree",
-    "question": "During a transfer problem, For design a tree-measuring instrument, which units, bounds or accuracy statement belong in the result",
-    "audio_prompt": "During a transfer problem, For design a tree-measuring instrument, which units, bounds or accuracy statement belong in the result",
+    "question": "Which statement correctly describes use knowledge of similar triangles, pythagoras’ theorem, rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree?",
+    "audio_prompt": "Which statement correctly describes use knowledge of similar triangles, pythagoras’ theorem, rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree, and calculating the density and dry mass to predict how much paper could be manufactured from the tree",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use knowledge of similar triangles, pythagoras’ theorem, rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree, and calculating the density and dry mass to predict how much paper could be manufactured from the tree",
+      "hint": "Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_autonomous_vehicles_solve_spatial_problems_using_algorithms_based_on_geometric_properties_relating_to_angles_distances_and_scale",
-    "question": "During a peer explanation, For model spatial navigation algorithms, which test case could expose an error in the steps",
-    "audio_prompt": "During a peer explanation, For model spatial navigation algorithms, which test case could expose an error in the steps",
+    "question": "Which statement correctly describes explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale?",
+    "audio_prompt": "Which statement correctly describes explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale",
+      "hint": "Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale."
     }
   },
   {
@@ -265,34 +265,34 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_the_applications_of_pythagoras_theorem_in_authentic_problems_including_applying_pythagoras_theorem_and_trigonometry_to_problems_in_surveying_and_design",
-    "question": "During an independent review, For combine pythagoras and trigonometry, which labelled relationship justifies the conclusion",
-    "audio_prompt": "During an independent review, For combine pythagoras and trigonometry, which labelled relationship justifies the conclusion",
+    "question": "Which statement gives a valid example of explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design?",
+    "audio_prompt": "Which statement gives a valid example of explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The spatial problem solving model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
+      "hint": "Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design."
     }
   },
   {
@@ -302,34 +302,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "apply_the_formula_for_calculation_of_distances_between_points_on_the_cartesian_plane_from_their_coordinates_emphasising_the_connection_to_vertical_and_horizontal_displacements_between_the_points",
-    "question": "During a fresh case study, For connect coordinate distance to displacement, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, For connect coordinate distance to displacement, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points?",
+    "audio_prompt": "Which description correctly applies apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points",
         "is_correct": true
       },
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points",
+      "hint": "Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points."
     }
   },
   {
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "understand_the_relationship_between_the_corresponding_sides_of_similar_right_angled_triangles_and_establishing_the_relationship_between_areas_of_similar_figures",
-    "question": "During an unfamiliar representation, For scale lengths and areas in similar figures, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, For scale lengths and areas in similar figures, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures?",
+    "audio_prompt": "Which description correctly applies understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -351,22 +351,22 @@
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "understanding the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures and the ratio of corresponding sides, the scale factor",
         "is_correct": true
       },
       {
-        "text": "A response that mentions understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "understanding the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures and the ratio of corresponding sides, the scale factor",
+      "hint": "Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_images_of_proportional_relationships_to_estimate_actual_measurements",
-    "question": "During a critical response, For estimate height from a scaled image, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, For estimate height from a scaled image, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use images of proportional relationships to estimate actual measurements?",
+    "audio_prompt": "Which description correctly applies use images of proportional relationships to estimate actual measurements?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The spatial problem solving model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use images of proportional relationships to estimate actual measurements but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Use images of proportional relationships to estimate actual measurements. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using images of proportional relationships to estimate actual measurements; for example, taking a photograph of a person standing in front of a tree and using the image and scale to estimate the height of the tree, discussing the findings and ways to improve the estimates",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Use images of proportional relationships to estimate actual measurements. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use images of proportional relationships to estimate actual measurements.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using images of proportional relationships to estimate actual measurements; for example, taking a photograph of a person standing in front of a tree and using the image and scale to estimate the height of the tree, discussing the findings and ways to improve the estimates",
+      "hint": "Use images of proportional relationships to estimate actual measurements."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_theorems_and_conjectures_involving_triangles",
-    "question": "During a worked solution audit, For test triangle conjectures, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, For test triangle conjectures, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore theorems and conjectures involving triangles?",
+    "audio_prompt": "Which description correctly applies explore theorems and conjectures involving triangles?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore theorems and conjectures involving triangles but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: The triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating theorems and conjectures involving triangles; for example, the triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles; determining the minimal sets of information for a triangle from which other measures can all be determined",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: The triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘The triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating theorems and conjectures involving triangles; for example, the triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles; determining the minimal sets of information for a triangle from which other measures can all be determined",
+      "hint": "Explore theorems and conjectures involving triangles."
     }
   },
   {
@@ -450,15 +450,15 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_knowledge_of_similar_triangles_pythagoras_theorem_rates_and_algebra_to_design_and_construct_a_biltmore_stick_used_to_measure_the_diameter_and_height_of_a_tree",
-    "question": "During a source evaluation, For design a tree-measuring instrument, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, For design a tree-measuring instrument, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use knowledge of similar triangles, pythagoras’ theorem, rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree?",
+    "audio_prompt": "Which description correctly applies use knowledge of similar triangles, pythagoras’ theorem, rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use the model evidence: Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "using knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree, and calculating the density and dry mass to predict how much paper could be manufactured from the tree",
         "is_correct": true
       },
       {
@@ -466,18 +466,18 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions use knowledge of similar triangles, pythagoras’ theorem, rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the model evidence: Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree, and calculating the density and dry mass to predict how much paper could be manufactured from the tree",
+      "hint": "Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_autonomous_vehicles_solve_spatial_problems_using_algorithms_based_on_geometric_properties_relating_to_angles_distances_and_scale",
-    "question": "During a multi-step application, For model spatial navigation algorithms, which test case could expose an error in the steps Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, For model spatial navigation algorithms, which test case could expose an error in the steps Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale?",
+    "audio_prompt": "Which description correctly applies explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The spatial problem solving model is copied without interpretation",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale",
         "is_correct": true
       },
       {
-        "text": "A response that mentions explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use the model evidence: Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale",
+      "hint": "Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_the_applications_of_pythagoras_theorem_in_authentic_problems_including_applying_pythagoras_theorem_and_trigonometry_to_problems_in_surveying_and_design",
-    "question": "During a justification task, For combine pythagoras and trigonometry, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, For combine pythagoras and trigonometry, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design?",
+    "audio_prompt": "Which response correctly uses explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dimensions, units or accuracy are mixed",
+        "text": "The result is not verified",
         "is_correct": false
       },
       {
-        "text": "A response that mentions explore the applications of pythagoras’ theorem in authentic problems, including applying pythagoras’ theorem and trigonometry to problems in surveying and design but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
         "is_correct": true
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the model evidence: Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
+      "hint": "Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design."
     }
   },
   {
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "apply_the_formula_for_calculation_of_distances_between_points_on_the_cartesian_plane_from_their_coordinates_emphasising_the_connection_to_vertical_and_horizontal_displacements_between_the_points",
-    "question": "During a final synthesis, For connect coordinate distance to displacement, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, For connect coordinate distance to displacement, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points?",
+    "audio_prompt": "Which response correctly uses apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -573,22 +573,22 @@
         "is_correct": false
       },
       {
-        "text": "A response that mentions apply the formula for calculation of distances between points on the cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points but does not justify the relationship",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The evidence is unnecessary because the claim sounds plausible",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "Use the model evidence: Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+        "text": "applying the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use the model evidence: Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "applying the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points",
+      "hint": "Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points."
     }
   }
 ]

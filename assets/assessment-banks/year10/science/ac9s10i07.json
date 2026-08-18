@@ -6,15 +6,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_a_scientific_argument_showing_how_a_range_of_evidence_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a guided example, In 20 seconds, explain how claim helps make sense of a scientific argument showing how a range of evidence",
-    "audio_prompt": "During a guided example, In 20 seconds, explain how claim helps make sense of a scientific argument showing how a range of evidence",
+    "question": "Which statement correctly describes use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe",
         "is_correct": true
       },
       {
@@ -22,18 +22,18 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe",
+      "hint": "Use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_in_evidence_based_debates_about_the_role_of_human_activity_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a comparison task, In 20 seconds, explain how evidence set helps make sense of in evidence-based debates about the role of human activity",
-    "audio_prompt": "During a comparison task, In 20 seconds, explain how evidence set helps make sense of in evidence-based debates about the role of human activity",
+    "question": "Which statement correctly describes use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -55,22 +55,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "text": "engaging in evidence-based debates about the role of human activity in global climate change",
         "is_correct": true
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "engaging in evidence-based debates about the role of human activity in global climate change",
+      "hint": "Use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_from_a_range_of_evidence_to_support_or_rebut_to_make_the_role_of_source_credibility_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an error analysis, In 20 seconds, explain how source credibility helps make sense of from a range of evidence to support or rebut",
-    "audio_prompt": "During an error analysis, In 20 seconds, explain how source credibility helps make sense of from a range of evidence to support or rebut",
+    "question": "Which statement correctly describes use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -92,22 +92,22 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research",
+      "hint": "Use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_secondary_data_to_determine_the_credibility_of_the_source_to_make_the_role_of_reasoning_and_rebuttal_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a model interpretation, In 20 seconds, explain how reasoning and rebuttal helps make sense of secondary data to determine the credibility of the source",
-    "audio_prompt": "During a model interpretation, In 20 seconds, explain how reasoning and rebuttal helps make sense of secondary data to determine the credibility of the source",
+    "question": "Which statement correctly describes use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -129,22 +129,22 @@
         "is_correct": false
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources",
+      "hint": "Use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -154,15 +154,15 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_the_need_to_critically_analyse_scientific_literature_for_potential_to_make_the_role_of_ethical_use_and_boundary_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an evidence check, In 20 seconds, explain how ethical use and boundary helps make sense of the need to critically analyse scientific literature for potential",
-    "audio_prompt": "During an evidence check, In 20 seconds, explain how ethical use and boundary helps make sense of the need to critically analyse scientific literature for potential",
+    "question": "Which statement correctly describes use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "text": "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians",
         "is_correct": true
       },
       {
@@ -170,18 +170,18 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians",
+      "hint": "Use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -191,8 +191,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_the_ethical_issues_of_non_therapeutic_genetic_testing_performed_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a transfer problem, In 20 seconds, explain how claim helps make sense of the ethical issues of non-therapeutic genetic testing performed",
-    "audio_prompt": "During a transfer problem, In 20 seconds, explain how claim helps make sense of the ethical issues of non-therapeutic genetic testing performed",
+    "question": "Which statement correctly describes use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -203,22 +203,22 @@
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies",
         "is_correct": true
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies",
+      "hint": "Use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -228,8 +228,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_primary_or_secondary_scientific_evidence_to_support_or_oppose_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a peer explanation, In 20 seconds, explain how evidence set helps make sense of primary or secondary scientific evidence to support or oppose",
-    "audio_prompt": "During a peer explanation, In 20 seconds, explain how evidence set helps make sense of primary or secondary scientific evidence to support or oppose",
+    "question": "Which statement correctly describes use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -240,22 +240,22 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change",
         "is_correct": true
       },
       {
-        "text": "A response that mentions use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change",
+      "hint": "Use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_an_argument_for_increased_funding_for_a_particular_scientific_to_make_the_role_of_source_credibility_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an independent review, In 20 seconds, explain how source credibility helps make sense of an argument for increased funding for a particular scientific",
-    "audio_prompt": "During an independent review, In 20 seconds, explain how source credibility helps make sense of an argument for increased funding for a particular scientific",
+    "question": "Which statement correctly describes use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which statement correctly describes use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -277,22 +277,22 @@
         "is_correct": false
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "text": "preparing an argument for increased funding for a particular scientific research focus",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "preparing an argument for increased funding for a particular scientific research focus",
+      "hint": "Use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -302,15 +302,15 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_a_scientific_argument_showing_how_a_range_of_evidence_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a fresh case study, Use the central model to explain argue from multiple lines of evidence in three linked sentences Which response provides the strongest evidence?",
-    "audio_prompt": "During a fresh case study, Use the central model to explain argue from multiple lines of evidence in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Arguments synthesise multiple credible evidence lines. Reasoning addresses alternatives and limitations. Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe",
         "is_correct": true
       },
       {
@@ -318,18 +318,18 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "A response that mentions use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Arguments synthesise multiple credible evidence lines. Reasoning addresses alternatives and limitations. Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe",
+      "hint": "Use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -339,34 +339,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_in_evidence_based_debates_about_the_role_of_human_activity_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how claim helps make sense of a scientific argument showing how a range of evidence Which response provides the strongest evidence?",
-    "audio_prompt": "During an unfamiliar representation, In 20 seconds, explain how claim helps make sense of a scientific argument showing how a range of evidence Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A persuasive tone strengthens scientific evidence",
-        "is_correct": false
-      },
-      {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-        "is_correct": true
-      },
-      {
         "text": "Acknowledging uncertainty weakens an argument",
         "is_correct": false
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "engaging in evidence-based debates about the role of human activity in global climate change",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "engaging in evidence-based debates about the role of human activity in global climate change",
+      "hint": "Use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -376,34 +376,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_from_a_range_of_evidence_to_support_or_rebut_to_make_the_role_of_source_credibility_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a critical response, In 20 seconds, explain how evidence set helps make sense of in evidence-based debates about the role of human activity Which response provides the strongest evidence?",
-    "audio_prompt": "During a critical response, In 20 seconds, explain how evidence set helps make sense of in evidence-based debates about the role of human activity Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Acknowledging uncertainty weakens an argument",
-        "is_correct": false
-      },
-      {
         "text": "A persuasive tone strengthens scientific evidence",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research",
         "is_correct": true
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research",
+      "hint": "Use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -413,34 +413,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_secondary_data_to_determine_the_credibility_of_the_source_to_make_the_role_of_reasoning_and_rebuttal_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a worked solution audit, In 20 seconds, explain how source credibility helps make sense of from a range of evidence to support or rebut Which response provides the strongest evidence?",
-    "audio_prompt": "During a worked solution audit, In 20 seconds, explain how source credibility helps make sense of from a range of evidence to support or rebut Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A persuasive tone strengthens scientific evidence",
-        "is_correct": false
-      },
-      {
         "text": "Acknowledging uncertainty weakens an argument",
         "is_correct": false
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources",
+      "hint": "Use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -450,34 +450,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_the_need_to_critically_analyse_scientific_literature_for_potential_to_make_the_role_of_ethical_use_and_boundary_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a source evaluation, In 20 seconds, explain how reasoning and rebuttal helps make sense of secondary data to determine the credibility of the source Which response provides the strongest evidence?",
-    "audio_prompt": "During a source evaluation, In 20 seconds, explain how reasoning and rebuttal helps make sense of secondary data to determine the credibility of the source Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians",
         "is_correct": true
-      },
-      {
-        "text": "Acknowledging uncertainty weakens an argument",
-        "is_correct": false
       },
       {
         "text": "A persuasive tone strengthens scientific evidence",
         "is_correct": false
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians",
+      "hint": "Use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -487,34 +487,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_the_ethical_issues_of_non_therapeutic_genetic_testing_performed_to_make_the_role_of_claim_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a multi-step application, In 20 seconds, explain how ethical use and boundary helps make sense of the need to critically analyse scientific literature for potential Which response provides the strongest evidence?",
-    "audio_prompt": "During a multi-step application, In 20 seconds, explain how ethical use and boundary helps make sense of the need to critically analyse scientific literature for potential Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A persuasive tone strengthens scientific evidence",
-        "is_correct": false
-      },
-      {
-        "text": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-        "is_correct": true
-      },
-      {
         "text": "Acknowledging uncertainty weakens an argument",
         "is_correct": false
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Reasoning addresses alternatives and limitations.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies",
+      "hint": "Use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -524,34 +524,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_primary_or_secondary_scientific_evidence_to_support_or_oppose_to_make_the_role_of_evidence_set_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a justification task, In 20 seconds, explain how claim helps make sense of the ethical issues of non-therapeutic genetic testing performed Which response provides the strongest evidence?",
-    "audio_prompt": "During a justification task, In 20 seconds, explain how claim helps make sense of the ethical issues of non-therapeutic genetic testing performed Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Acknowledging uncertainty weakens an argument",
-        "is_correct": false
-      },
-      {
         "text": "A persuasive tone strengthens scientific evidence",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change",
         "is_correct": true
       },
       {
-        "text": "Evaluate data quality and reasoning before rhetoric",
+        "text": "The same rule and result apply to every situation without testing",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Secondary evidence is accessed and cited ethically, including cultural protocols.",
-      "hint": "Use uncertainty to set an honest conclusion boundary."
+      "summary": "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change",
+      "hint": "Use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
     }
   },
   {
@@ -561,34 +561,34 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_an_argument_for_increased_funding_for_a_particular_scientific_to_make_the_role_of_source_credibility_visible_and_connect_the_evidence_to_the_unit_s_central_explanation",
-    "question": "During a final synthesis, In 20 seconds, explain how evidence set helps make sense of primary or secondary scientific evidence to support or oppose Which response provides the strongest evidence?",
-    "audio_prompt": "During a final synthesis, In 20 seconds, explain how evidence set helps make sense of primary or secondary scientific evidence to support or oppose Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
+    "audio_prompt": "Which description correctly applies use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A persuasive tone strengthens scientific evidence",
-        "is_correct": false
-      },
-      {
         "text": "Acknowledging uncertainty weakens an argument",
         "is_correct": false
       },
       {
-        "text": "Use uncertainty to set an honest conclusion boundary",
+        "text": "The method can be chosen without checking the values or conditions",
         "is_correct": false
       },
       {
-        "text": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "preparing an argument for increased funding for a particular scientific research focus",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Arguments synthesise multiple credible evidence lines.",
-      "hint": "Evaluate data quality and reasoning before rhetoric."
+      "summary": "preparing an argument for increased funding for a particular scientific research focus",
+      "hint": "Use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
     }
   }
 ]

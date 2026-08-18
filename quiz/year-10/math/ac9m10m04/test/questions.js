@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explore the impact of measurement errors in the perception and control systems of autonomous vehicles such as measurement errors due to sensor limitations",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For model sensor uncertainty, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For model sensor uncertainty, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations?",
+    "audioPrompt": "Which description correctly applies explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Measurement errors due to sensor limitations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Measurement errors due to sensor limitations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Measurement errors due to sensor limitations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations\nHint: Explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Measurement errors due to sensor limitations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Measurement errors due to sensor limitations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations",
+      "hint": "Explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore scientific measuring techniques including dating methods and genetic sequencing applied to first peoples of australia and their artefacts and the social impact of measurement errors",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For consider social impacts of measurement error, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For consider social impacts of measurement error, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which description correctly applies explore scientific measuring techniques, including dating methods and genetic sequencing, applied to first peoples of australia and their artefacts, and the social impact of measurement errors?",
+    "audioPrompt": "Which description correctly applies explore scientific measuring techniques, including dating methods and genetic sequencing, applied to first peoples of australia and their artefacts, and the social impact of measurement errors?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore scientific measuring techniques, including dating methods and genetic sequencing, applied to first peoples of australia and their artefacts, and the social impact of measurement errors but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors\nHint: Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors",
+      "hint": "Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For see how error can bias findings, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For see how error can bias findings, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings?",
+    "audioPrompt": "Which response correctly uses describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings but does not justify the relationship",
-      "Use the model evidence: Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The measurement error and accuracy model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings\nHint: Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
+      "hint": "Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "analyse instruments and methods for measuring in investigations and modelling activities",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For evaluate measuring instruments, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For evaluate measuring instruments, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses analyse instruments and methods for measuring in investigations and modelling activities?",
+    "audioPrompt": "Which response correctly uses analyse instruments and methods for measuring in investigations and modelling activities?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions analyse instruments and methods for measuring in investigations and modelling activities but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Analyse instruments and methods for measuring in investigations and modelling activities. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "analysing instruments and methods for measuring in investigations and modelling activities"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Analyse instruments and methods for measuring in investigations and modelling activities. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Analyse instruments and methods for measuring in investigations and modelling activities.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "analysing instruments and methods for measuring in investigations and modelling activities\nHint: Analyse instruments and methods for measuring in investigations and modelling activities.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Analyse instruments and methods for measuring in investigations and modelling activities. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Analyse instruments and methods for measuring in investigations and modelling activities.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "analysing instruments and methods for measuring in investigations and modelling activities",
+      "hint": "Analyse instruments and methods for measuring in investigations and modelling activities."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "determine the impact that compounding errors have on financial calculations",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For track compounding financial error, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For track compounding financial error, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses determine the impact that compounding errors have on financial calculations?",
+    "audioPrompt": "Which response correctly uses determine the impact that compounding errors have on financial calculations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Considering the effect of truncation on money amounts for large scale customer populations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations",
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions determine the impact that compounding errors have on financial calculations but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Considering the effect of truncation on money amounts for large scale customer populations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Considering the effect of truncation on money amounts for large scale customer populations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations\nHint: Determine the impact that compounding errors have on financial calculations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Considering the effect of truncation on money amounts for large scale customer populations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Considering the effect of truncation on money amounts for large scale customer populations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations",
+      "hint": "Determine the impact that compounding errors have on financial calculations."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "explore the impact of measurement errors in the perception and control systems of autonomous vehicles such as measurement errors due to sensor limitations",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For model sensor uncertainty, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For model sensor uncertainty, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations?",
+    "audioPrompt": "Which response correctly uses explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "Use the model evidence: Measurement errors due to sensor limitations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The measurement error and accuracy model is copied without interpretation",
+      "investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Measurement errors due to sensor limitations. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Measurement errors due to sensor limitations.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations\nHint: Explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Measurement errors due to sensor limitations. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Measurement errors due to sensor limitations.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations",
+      "hint": "Explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "explore scientific measuring techniques including dating methods and genetic sequencing applied to first peoples of australia and their artefacts and the social impact of measurement errors",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For consider social impacts of measurement error, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For consider social impacts of measurement error, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore scientific measuring techniques, including dating methods and genetic sequencing, applied to first peoples of australia and their artefacts, and the social impact of measurement errors?",
+    "audioPrompt": "Which response correctly uses explore scientific measuring techniques, including dating methods and genetic sequencing, applied to first peoples of australia and their artefacts, and the social impact of measurement errors?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "A response that mentions explore scientific measuring techniques, including dating methods and genetic sequencing, applied to first peoples of australia and their artefacts, and the social impact of measurement errors but does not justify the relationship",
-      "Use the model evidence: Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors\nHint: Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors",
+      "hint": "Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For see how error can bias findings, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For see how error can bias findings, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings?",
+    "audioPrompt": "Which interpretation is accurate for describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dimensions, units or accuracy are mixed",
-      "A response that mentions describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings\nHint: Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
+      "hint": "Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings."
     },
     "qualitySchema": "production-v1"
   }

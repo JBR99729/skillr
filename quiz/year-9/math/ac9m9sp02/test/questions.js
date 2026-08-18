@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explore and generalising patterns in length angle area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For predict how length, area and volume scale, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For predict how length, area and volume scale, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which response correctly uses explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers?",
+    "audioPrompt": "Which response correctly uses explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume\nHint: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume",
+      "hint": "Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "compare the ratio of lengths of corresponding sides of similar triangles and angles",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For compare corresponding sides and angles, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For compare corresponding sides and angles, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for compare the ratio of lengths of corresponding sides of similar triangles and angles?",
+    "audioPrompt": "Which interpretation is accurate for compare the ratio of lengths of corresponding sides of similar triangles and angles?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Compare the ratio of lengths of corresponding sides of similar triangles and angles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions compare the ratio of lengths of corresponding sides of similar triangles and angles but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "comparing the ratio of lengths of corresponding sides of similar triangles and angles",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Compare the ratio of lengths of corresponding sides of similar triangles and angles. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare the ratio of lengths of corresponding sides of similar triangles and angles.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing the ratio of lengths of corresponding sides of similar triangles and angles\nHint: Compare the ratio of lengths of corresponding sides of similar triangles and angles.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare the ratio of lengths of corresponding sides of similar triangles and angles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare the ratio of lengths of corresponding sides of similar triangles and angles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing the ratio of lengths of corresponding sides of similar triangles and angles",
+      "hint": "Compare the ratio of lengths of corresponding sides of similar triangles and angles."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use the properties of similarity to solve problems involving enlargement",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For solve an enlargement problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For solve an enlargement problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use the properties of similarity to solve problems involving enlargement?",
+    "audioPrompt": "Which interpretation is accurate for use the properties of similarity to solve problems involving enlargement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions use the properties of similarity to solve problems involving enlargement but does not justify the relationship",
-      "Use the model evidence: Use the properties of similarity to solve problems involving enlargement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The enlargement and scale factors model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "using the properties of similarity to solve problems involving enlargement",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Use the properties of similarity to solve problems involving enlargement. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use the properties of similarity to solve problems involving enlargement.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the properties of similarity to solve problems involving enlargement\nHint: Use the properties of similarity to solve problems involving enlargement.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use the properties of similarity to solve problems involving enlargement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use the properties of similarity to solve problems involving enlargement.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the properties of similarity to solve problems involving enlargement",
+      "hint": "Use the properties of similarity to solve problems involving enlargement."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore and generalising patterns in length angle area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For predict how length, area and volume scale, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For predict how length, area and volume scale, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers?",
+    "audioPrompt": "Which interpretation is accurate for explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume\nHint: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume",
+      "hint": "Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "compare the ratio of lengths of corresponding sides of similar triangles and angles",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For compare corresponding sides and angles, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For compare corresponding sides and angles, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "When would you use compare the ratio of lengths of corresponding sides of similar triangles and angles?",
+    "audioPrompt": "When would you use compare the ratio of lengths of corresponding sides of similar triangles and angles?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Compare the ratio of lengths of corresponding sides of similar triangles and angles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "comparing the ratio of lengths of corresponding sides of similar triangles and angles",
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions compare the ratio of lengths of corresponding sides of similar triangles and angles but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Compare the ratio of lengths of corresponding sides of similar triangles and angles. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare the ratio of lengths of corresponding sides of similar triangles and angles.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing the ratio of lengths of corresponding sides of similar triangles and angles\nHint: Compare the ratio of lengths of corresponding sides of similar triangles and angles.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare the ratio of lengths of corresponding sides of similar triangles and angles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare the ratio of lengths of corresponding sides of similar triangles and angles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing the ratio of lengths of corresponding sides of similar triangles and angles",
+      "hint": "Compare the ratio of lengths of corresponding sides of similar triangles and angles."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use the properties of similarity to solve problems involving enlargement",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For solve an enlargement problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For solve an enlargement problem, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "When would you use use the properties of similarity to solve problems involving enlargement?",
+    "audioPrompt": "When would you use use the properties of similarity to solve problems involving enlargement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "Use the model evidence: Use the properties of similarity to solve problems involving enlargement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions use the properties of similarity to solve problems involving enlargement but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The enlargement and scale factors model is copied without interpretation",
+      "using the properties of similarity to solve problems involving enlargement",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Use the properties of similarity to solve problems involving enlargement. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Use the properties of similarity to solve problems involving enlargement.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "using the properties of similarity to solve problems involving enlargement\nHint: Use the properties of similarity to solve problems involving enlargement.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Use the properties of similarity to solve problems involving enlargement. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Use the properties of similarity to solve problems involving enlargement.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "using the properties of similarity to solve problems involving enlargement",
+      "hint": "Use the properties of similarity to solve problems involving enlargement."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "explore and generalising patterns in length angle area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For predict how length, area and volume scale, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For predict how length, area and volume scale, which units, bounds or accuracy statement belong in the result Which response provides the strongest evidence?",
+    "question": "When would you use explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers?",
+    "audioPrompt": "When would you use explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers but does not justify the relationship",
-      "Use the model evidence: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume\nHint: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume",
+      "hint": "Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "compare the ratio of lengths of corresponding sides of similar triangles and angles",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For compare corresponding sides and angles, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For compare corresponding sides and angles, which labelled relationship justifies the conclusion Which response provides the strongest evidence?",
+    "question": "Which choice demonstrates compare the ratio of lengths of corresponding sides of similar triangles and angles?",
+    "audioPrompt": "Which choice demonstrates compare the ratio of lengths of corresponding sides of similar triangles and angles?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A diagram is trusted by appearance instead of stated conditions",
-      "A response that mentions compare the ratio of lengths of corresponding sides of similar triangles and angles but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Compare the ratio of lengths of corresponding sides of similar triangles and angles. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "comparing the ratio of lengths of corresponding sides of similar triangles and angles"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Compare the ratio of lengths of corresponding sides of similar triangles and angles. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Compare the ratio of lengths of corresponding sides of similar triangles and angles.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "comparing the ratio of lengths of corresponding sides of similar triangles and angles\nHint: Compare the ratio of lengths of corresponding sides of similar triangles and angles.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Compare the ratio of lengths of corresponding sides of similar triangles and angles. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Compare the ratio of lengths of corresponding sides of similar triangles and angles.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "comparing the ratio of lengths of corresponding sides of similar triangles and angles",
+      "hint": "Compare the ratio of lengths of corresponding sides of similar triangles and angles."
     },
     "qualitySchema": "production-v1"
   }

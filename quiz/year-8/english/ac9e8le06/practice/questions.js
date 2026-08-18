@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "creating short stories focusing on characters and dialogue",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "creating short stories focusing on characters and dialogue\nHint: A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "creating short stories focusing on characters and dialogue",
+      "hint": "A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "combining literary devices to evoke a reader response",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "combining literary devices to evoke a reader response\nHint: A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "combining literary devices to evoke a reader response",
+      "hint": "A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use text choice to shape collaborating with a peer which may include using online spaces to write a short script with 2 characters focusing on dialogue choices for each character and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character\nHint: A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character",
+      "hint": "A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a model interpretation, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "A precise response names reader response and explains how it shapes meaning, audience, relationship, purpose or reader effect in context."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes"
     ],
     "correct": 3,
-    "explanation": "A precise response names reader response and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes\nHint: A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names reader response and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes",
+      "hint": "A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, Explain how one deliberate choice shapes meaning in create and edit literary texts that experiment with language features and literary devices for particular purposes and effects",
-    "audioPrompt": "During an evidence check, Explain how one deliberate choice shapes meaning in create and edit literary texts that experiment with language features and literary devices for particular purposes and effects",
+    "question": "Which statement gives a valid example of a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "The student retells content or names a technique without explaining why it matters",
+      "creating short stories focusing on characters and dialogue",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "creating short stories focusing on characters and dialogue\nHint: A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "creating short stories focusing on characters and dialogue",
+      "hint": "A writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a transfer problem, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "combining literary devices to evoke a reader response",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "combining literary devices to evoke a reader response\nHint: A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "combining literary devices to evoke a reader response",
+      "hint": "A writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use text choice to shape collaborating with a peer which may include using online spaces to write a short script with 2 characters focusing on dialogue choices for each character and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character\nHint: A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character",
+      "hint": "A writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During an independent review, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes"
     ],
     "correct": 3,
-    "explanation": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes\nHint: A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes",
+      "hint": "A writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   }

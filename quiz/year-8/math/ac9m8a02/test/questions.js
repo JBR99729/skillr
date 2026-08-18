@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "completing a table of values plotting the resulting points on the cartesian plane and determining whether the relationship is linear",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, For decide whether a relation is linear, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, For decide whether a relation is linear, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies completing a table of values, plotting the resulting points on the cartesian plane and determining whether the relationship is linear?",
+    "audioPrompt": "Which description correctly applies completing a table of values, plotting the resulting points on the cartesian plane and determining whether the relationship is linear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions completing a table of values, plotting the resulting points on the cartesian plane and determining whether the relationship is linear but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear",
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear\nHint: completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear",
+      "hint": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "graphing the linear relationship ax b c for given values of a b and c and identifying from the graph where ax b c",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, For read an equation from a graph, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, For read an equation from a graph, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c?",
+    "audioPrompt": "Which description correctly applies graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: Graph y = ax + b and y = c; the x-coordinate of their intersection solves ax + b = c. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: Graph y = ax + b and y = c; the x-coordinate of their intersection solves ax + b = c. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Graph y = ax + b and y = c; the x-coordinate of their intersection solves ax + b = c.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c\nHint: graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Graph y = ax + b and y = c; the x-coordinate of their intersection solves ax + b = c. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Graph y = ax + b and y = c; the x-coordinate of their intersection solves ax + b = c.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c",
+      "hint": "graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "solve linear equations of the form ax b c and one variable inequalities of the form ax b c where a 0 using inverse operations and digital tools and checking solutions",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, For solve and check an inequality, which bound or interval is justified by the model Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, For solve and check an inequality, which bound or interval is justified by the model Which response provides the strongest evidence?",
+    "question": "Which description correctly applies solve linear equations of the form ax+b = c and one-variable inequalities of the form ax+b c where a>0 using inverse operations and digital tools, and checking solutions?",
+    "audioPrompt": "Which description correctly applies solve linear equations of the form ax+b = c and one-variable inequalities of the form ax+b c where a>0 using inverse operations and digital tools, and checking solutions?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions solve linear equations of the form ax+b = c and one-variable inequalities of the form ax+b c where a>0 using inverse operations and digital tools, and checking solutions but does not justify the relationship",
-      "Use the model evidence: Solve ax + b 0, then test a value from the solution interval. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The linear relations, equations and inequalities model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "solving linear equations of the form ax+b\\;=\\;c and one-variable inequalities of the form ax+b\\; \\;c where a>0 using inverse operations and digital tools, and checking solutions by substitution",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Solve ax + b 0, then test a value from the solution interval. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Solve ax + b 0, then test a value from the solution interval.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "solving linear equations of the form ax+b\\;=\\;c and one-variable inequalities of the form ax+b\\; \\;c where a>0 using inverse operations and digital tools, and checking solutions by substitution\nHint: Solve linear equations of the form ax+b = c and one-variable inequalities of the form ax+b c where a>0 using inverse operations and digital tools, and checking solutions.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Solve ax + b 0, then test a value from the solution interval. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Solve ax + b 0, then test a value from the solution interval.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "solving linear equations of the form ax+b\\;=\\;c and one-variable inequalities of the form ax+b\\; \\;c where a>0 using inverse operations and digital tools, and checking solutions by substitution",
+      "hint": "Solve linear equations of the form ax+b = c and one-variable inequalities of the form ax+b c where a>0 using inverse operations and digital tools, and checking solutions."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "solve linear equations such as 3x 7 6x 9 representing these graphically and verifying solutions by substitution",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, For connect two-sided equations to intersections, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, For connect two-sided equations to intersections, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which description correctly applies solve linear equations such as 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution?",
+    "audioPrompt": "Which description correctly applies solve linear equations such as 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions solve linear equations such as 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "solving linear equations such as 3x+7\\;=\\;6x-9, representing these graphically, and verifying solutions by substitution"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "solving linear equations such as 3x+7\\;=\\;6x-9, representing these graphically, and verifying solutions by substitution\nHint: Solve linear equations such as 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "solving linear equations such as 3x+7\\;=\\;6x-9, representing these graphically, and verifying solutions by substitution",
+      "hint": "Solve linear equations such as 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "recognise that in a table of values if the first difference between consecutive values of the dependent variable is constant then it is a linear relation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, For spot constant first differences, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, For spot constant first differences, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation?",
+    "audioPrompt": "Which response correctly uses recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the model evidence: Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
+      "recognising that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation",
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "Use the model evidence: Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "recognising that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation\nHint: Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "recognising that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation",
+      "hint": "Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "graphing linear functions and relations of the form x a y a x a x a y a",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, For graph horizontal and vertical boundaries, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, For graph horizontal and vertical boundaries, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a?",
+    "audioPrompt": "Which response correctly uses graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "Use the model evidence: x = a is a vertical boundary and y = a is horizontal; use a solid line for ≤ or ≥ and shade the solution side. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "A response that mentions graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The linear relations, equations and inequalities model is copied without interpretation",
+      "graphing linear functions and relations of the form x\\;=\\;a,\\;y\\;=\\;a,\\;x\\;\\leq\\;a,\\;x\\;>\\;a,\\;y\\leq\\;a,\\;y>\\;a on the Cartesian plane for known values of a",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "Use the model evidence: x = a is a vertical boundary and y = a is horizontal; use a solid line for ≤ or ≥ and shade the solution side. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘x = a is a vertical boundary and y = a is horizontal; use a solid line for ≤ or ≥ and shade the solution side.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "graphing linear functions and relations of the form x\\;=\\;a,\\;y\\;=\\;a,\\;x\\;\\leq\\;a,\\;x\\;>\\;a,\\;y\\leq\\;a,\\;y>\\;a on the Cartesian plane for known values of a\nHint: graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: x = a is a vertical boundary and y = a is horizontal; use a solid line for ≤ or ≥ and shade the solution side. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘x = a is a vertical boundary and y = a is horizontal; use a solid line for ≤ or ≥ and shade the solution side.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "graphing linear functions and relations of the form x\\;=\\;a,\\;y\\;=\\;a,\\;x\\;\\leq\\;a,\\;x\\;>\\;a,\\;y\\leq\\;a,\\;y>\\;a on the Cartesian plane for known values of a",
+      "hint": "graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "completing a table of values plotting the resulting points on the cartesian plane and determining whether the relationship is linear",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, For decide whether a relation is linear, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, For decide whether a relation is linear, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses completing a table of values, plotting the resulting points on the cartesian plane and determining whether the relationship is linear?",
+    "audioPrompt": "Which response correctly uses completing a table of values, plotting the resulting points on the cartesian plane and determining whether the relationship is linear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions completing a table of values, plotting the resulting points on the cartesian plane and determining whether the relationship is linear but does not justify the relationship",
-      "Use the model evidence: Completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "The evidence is unnecessary because the claim sounds plausible"
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "Use the model evidence: Completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear\nHint: completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear",
+      "hint": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "graphing the linear relationship ax b c for given values of a b and c and identifying from the graph where ax b c",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, For read an equation from a graph, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, For read an equation from a graph, which graph feature is direct evidence for the conclusion Which response provides the strongest evidence?",
+    "question": "Which response correctly uses graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c?",
+    "audioPrompt": "Which response correctly uses graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A rule is applied without preserving equivalence or its conditions",
-      "A response that mentions graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c but does not justify the relationship",
-      "The evidence is unnecessary because the claim sounds plausible",
-      "Use the model evidence: Graph y = ax + b and y = c; the x-coordinate of their intersection solves ax + b = c. Then name the deciding relationship or limitation in a complete mathematical sentence."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c"
     ],
     "correct": 3,
-    "explanation": "Use the model evidence: Graph y = ax + b and y = c; the x-coordinate of their intersection solves ax + b = c. Then name the deciding relationship or limitation in a complete mathematical sentence.\nHint: Return to the labelled model ‘Graph y = ax + b and y = c; the x-coordinate of their intersection solves ax + b = c.’ and identify the quantity, condition or comparison that decides the result.",
+    "explanation": "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c\nHint: graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c.",
     "structuredExplanation": {
-      "summary": "Use the model evidence: Graph y = ax + b and y = c; the x-coordinate of their intersection solves ax + b = c. Then name the deciding relationship or limitation in a complete mathematical sentence.",
-      "hint": "Return to the labelled model ‘Graph y = ax + b and y = c; the x-coordinate of their intersection solves ax + b = c.’ and identify the quantity, condition or comparison that decides the result."
+      "summary": "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c",
+      "hint": "graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c."
     },
     "qualitySchema": "production-v1"
   }

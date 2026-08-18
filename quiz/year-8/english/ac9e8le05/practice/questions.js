@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "recognising that tone is influenced when an author uses active or passive voice",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "recognising that tone is influenced when an author uses active or passive voice\nHint: A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "recognising that tone is influenced when an author uses active or passive voice",
+      "hint": "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax and how these influence meaning and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning\nHint: A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning",
+      "hint": "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "recognising that First Nations Australian authors use words and language to set tone when writing or speaking about specific themes; for example, words used to set the tone when writing or speaking about Country/Place",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "recognising that First Nations Australian authors use words and language to set tone when writing or speaking about specific themes; for example, words used to set the tone when writing or speaking about Country/Place\nHint: A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "recognising that First Nations Australian authors use words and language to set tone when writing or speaking about specific themes; for example, words used to set the tone when writing or speaking about Country/Place",
+      "hint": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, Explain how one deliberate choice shapes meaning in analyse how language features such as sentence patterns create tone, and literary devices such as imagery create meaning and effect",
-    "audioPrompt": "During a model interpretation, Explain how one deliberate choice shapes meaning in analyse how language features such as sentence patterns create tone, and literary devices such as imagery create meaning and effect",
+    "question": "Which statement gives a valid example of a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "recognising that tone is influenced when an author uses active or passive voice"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "recognising that tone is influenced when an author uses active or passive voice\nHint: A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "recognising that tone is influenced when an author uses active or passive voice",
+      "hint": "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax and how these influence meaning and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning\nHint: A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names voice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning",
+      "hint": "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a transfer problem, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "recognising that First Nations Australian authors use words and language to set tone when writing or speaking about specific themes; for example, words used to set the tone when writing or speaking about Country/Place",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "recognising that First Nations Australian authors use words and language to set tone when writing or speaking about specific themes; for example, words used to set the tone when writing or speaking about Country/Place\nHint: A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names representation and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "recognising that First Nations Australian authors use words and language to set tone when writing or speaking about specific themes; for example, words used to set the tone when writing or speaking about Country/Place",
+      "hint": "A writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
+    "question": "What should you check when using a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text?",
+    "audioPrompt": "What should you check when using a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "recognising that tone is influenced when an author uses active or passive voice",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "recognising that tone is influenced when an author uses active or passive voice\nHint: A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names text choice and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "recognising that tone is influenced when an author uses active or passive voice",
+      "hint": "A writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax and how these influence meaning and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, Explain how one deliberate choice shapes meaning in analyse how language features such as sentence patterns create tone, and literary devices such as imagery create meaning and effect",
-    "audioPrompt": "During an independent review, Explain how one deliberate choice shapes meaning in analyse how language features such as sentence patterns create tone, and literary devices such as imagery create meaning and effect",
+    "question": "What should you check when using a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text?",
+    "audioPrompt": "What should you check when using a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning\nHint: A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning",
+      "hint": "A writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   }

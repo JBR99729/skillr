@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a fresh case study, In 20 seconds, explain how shared pattern helps make sense of relationships between variables using spreadsheets, databases, tables, charts, graphs Which response provides the strongest evidence?",
-    "audioPrompt": "During a fresh case study, In 20 seconds, explain how shared pattern helps make sense of relationships between variables using spreadsheets, databases, tables, charts, graphs Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
+      "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships",
       "Different sources can be averaged immediately",
-      "Check units, definitions, sampling and comparability first",
-      "A response that mentions use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.\nHint: Check units, definitions, sampling and comparability first.",
+    "explanation": "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships\nHint: Use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
-      "hint": "Check units, definitions, sampling and comparability first."
+      "summary": "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships",
+      "hint": "Use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use how different interpretations can be made from data that to make the role of model based explanation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During an unfamiliar representation, In 20 seconds, explain how anomaly helps make sense of representing speed and acceleration data from investigations or simulations Which response provides the strongest evidence?",
-    "audioPrompt": "During an unfamiliar representation, In 20 seconds, explain how anomaly helps make sense of representing speed and acceleration data from investigations or simulations Which response provides the strongest evidence?",
+    "question": "Which description correctly applies use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which description correctly applies use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -46,15 +46,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "An anomaly invalidates the whole data set",
-      "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
-      "Test its cause and influence on the relationship",
-      "A response that mentions use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.\nHint: Test its cause and influence on the relationship.",
+    "explanation": "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis\nHint: Use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
-      "hint": "Test its cause and influence on the relationship."
+      "summary": "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis",
+      "hint": "Use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a critical response, In 20 seconds, explain how model-based explanation helps make sense of how different interpretations can be made from data that Which response provides the strongest evidence?",
-    "audioPrompt": "During a critical response, In 20 seconds, explain how model-based explanation helps make sense of how different interpretations can be made from data that Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,15 +75,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Different sources can be averaged immediately",
-      "Check units, definitions, sampling and comparability first",
-      "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
-      "A response that mentions use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.\nHint: Check units, definitions, sampling and comparability first.",
+    "explanation": "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence\nHint: Use similar trends and patterns in data from different sources to make the role of source A visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
-      "hint": "Check units, definitions, sampling and comparability first."
+      "summary": "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence",
+      "hint": "Use similar trends and patterns in data from different sources to make the role of source A visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use data regarding the distribution of species in time to make the role of source b visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a worked solution audit, Use the central model to explain connect evidence across data sets in three linked sentences Which response provides the strongest evidence?",
-    "audioPrompt": "During a worked solution audit, Use the central model to explain connect evidence across data sets in three linked sentences Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use data regarding the distribution of species in time to make the role of source b visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use data regarding the distribution of species in time to make the role of source b visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Different sources can be averaged immediately",
       "An anomaly invalidates the whole data set",
-      "Test its cause and influence on the relationship",
-      "Comparable data can reveal converging patterns or conflicts. Anomalies and uncertainty affect interpretation. Explanations connect data patterns to scientific mechanisms or models."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms"
     ],
     "correct": 3,
-    "explanation": "Comparable data can reveal converging patterns or conflicts. Anomalies and uncertainty affect interpretation. Explanations connect data patterns to scientific mechanisms or models.\nHint: Check units, definitions, sampling and comparability first.",
+    "explanation": "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms\nHint: Use data regarding the distribution of species in time to make the role of source B visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "Comparable data can reveal converging patterns or conflicts. Anomalies and uncertainty affect interpretation. Explanations connect data patterns to scientific mechanisms or models.",
-      "hint": "Check units, definitions, sampling and comparability first."
+      "summary": "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms",
+      "hint": "Use data regarding the distribution of species in time to make the role of source B visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use relationships between variables using spreadsheets databases tables charts graphs to make the role of shared pattern visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a source evaluation, In 20 seconds, explain how source A helps make sense of similar trends and patterns in data from different sources Which response provides the strongest evidence?",
-    "audioPrompt": "During a source evaluation, In 20 seconds, explain how source A helps make sense of similar trends and patterns in data from different sources Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use relationships between variables using spreadsheets, databases, tables, charts, graphs to make the role of shared pattern visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use relationships between variables using spreadsheets, databases, tables, charts, graphs to make the role of shared pattern visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
+      "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change",
       "Different sources can be averaged immediately",
-      "Check units, definitions, sampling and comparability first",
-      "A response that mentions use relationships between variables using spreadsheets, databases, tables, charts, graphs to make the role of shared pattern visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.\nHint: Check units, definitions, sampling and comparability first.",
+    "explanation": "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change\nHint: Use relationships between variables using spreadsheets, databases, tables, charts, graphs to make the role of shared pattern visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
-      "hint": "Check units, definitions, sampling and comparability first."
+      "summary": "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change",
+      "hint": "Use relationships between variables using spreadsheets, databases, tables, charts, graphs to make the role of shared pattern visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a multi-step application, In 20 seconds, explain how source B helps make sense of data regarding the distribution of species in time Which response provides the strongest evidence?",
-    "audioPrompt": "During a multi-step application, In 20 seconds, explain how source B helps make sense of data regarding the distribution of species in time Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,15 +162,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "An anomaly invalidates the whole data set",
-      "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
-      "Test its cause and influence on the relationship",
-      "A response that mentions use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.\nHint: Test its cause and influence on the relationship.",
+    "explanation": "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships\nHint: Use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Anomalies and uncertainty affect interpretation.",
-      "hint": "Test its cause and influence on the relationship."
+      "summary": "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships",
+      "hint": "Use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use how different interpretations can be made from data that to make the role of model based explanation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a justification task, In 20 seconds, explain how shared pattern helps make sense of relationships between variables using spreadsheets, databases, tables, charts, graphs Which response provides the strongest evidence?",
-    "audioPrompt": "During a justification task, In 20 seconds, explain how shared pattern helps make sense of relationships between variables using spreadsheets, databases, tables, charts, graphs Which response provides the strongest evidence?",
+    "question": "Which response correctly uses use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which response correctly uses use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -191,15 +191,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Different sources can be averaged immediately",
-      "Check units, definitions, sampling and comparability first",
-      "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
-      "A response that mentions use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation but does not justify the relationship"
+      "The method can be chosen without checking the values or conditions",
+      "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.\nHint: Check units, definitions, sampling and comparability first.",
+    "explanation": "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis\nHint: Use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Explanations connect data patterns to scientific mechanisms or models.",
-      "hint": "Check units, definitions, sampling and comparability first."
+      "summary": "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis",
+      "hint": "Use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "During a final synthesis, In 20 seconds, explain how anomaly helps make sense of representing speed and acceleration data from investigations or simulations Which response provides the strongest evidence?",
-    "audioPrompt": "During a final synthesis, In 20 seconds, explain how anomaly helps make sense of representing speed and acceleration data from investigations or simulations Which response provides the strongest evidence?",
+    "question": "Which interpretation is accurate for use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit’s central explanation?",
+    "audioPrompt": "Which interpretation is accurate for use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit’s central explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -220,15 +220,15 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "An anomaly invalidates the whole data set",
-      "Test its cause and influence on the relationship",
-      "A response that mentions use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit’s central explanation but does not justify the relationship",
-      "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence"
     ],
     "correct": 3,
-    "explanation": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.\nHint: Test its cause and influence on the relationship.",
+    "explanation": "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence\nHint: Use similar trends and patterns in data from different sources to make the role of source A visible and connect the evidence to the unit’s central explanation.",
     "structuredExplanation": {
-      "summary": "The response should use the displayed example and connect it to this idea: Comparable data can reveal converging patterns or conflicts.",
-      "hint": "Test its cause and influence on the relationship."
+      "summary": "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence",
+      "hint": "Use similar trends and patterns in data from different sources to make the role of source A visible and connect the evidence to the unit’s central explanation."
     },
     "qualitySchema": "production-v1"
   }

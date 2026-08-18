@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use purpose to shape participating in pair group class school and community speaking and listening situations and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a guided example, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +16,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations\nHint: A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations",
+      "hint": "A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use structure to shape listening to a conversation or speech identifying the point being made and explaining the tone and manner of presentation and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a comparison task, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +45,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation\nHint: A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation",
+      "hint": "A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During an error analysis, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement correctly describes a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text?",
+    "audioPrompt": "Which statement correctly describes a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +74,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "using effective strategies for dialogue and discussion in range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, asking questions about stated and implied ideas, and restating and summarising main ideas",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "using effective strategies for dialogue and discussion in range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, asking questions about stated and implied ideas, and restating and summarising main ideas\nHint: A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "using effective strategies for dialogue and discussion in range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, asking questions about stated and implied ideas, and restating and summarising main ideas",
+      "hint": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use purpose to shape participating in pair group class school and community speaking and listening situations and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a model interpretation, Explain how one deliberate choice shapes meaning in use interaction skills for identified purposes and situations, including when supporting or challenging the stated or implied meanings of spoken texts in presentations or discussion",
-    "audioPrompt": "During a model interpretation, Explain how one deliberate choice shapes meaning in use interaction skills for identified purposes and situations, including when supporting or challenging the stated or implied meanings of spoken texts in presentations or discussion",
+    "question": "Which statement gives a valid example of a writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +103,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations\nHint: A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations",
+      "hint": "A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,8 +123,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use structure to shape listening to a conversation or speech identifying the point being made and explaining the tone and manner of presentation and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During an evidence check, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +132,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "The student labels a feature but does not explain its effect or context",
+      "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation",
       "A feature name is enough to prove an interpretation",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 0,
-    "explanation": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation\nHint: A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names purpose and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation",
+      "hint": "A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,8 +152,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a transfer problem, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a transfer problem, Which choice is evidence, and what effect does it create for the audience",
+    "question": "Which statement gives a valid example of a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text?",
+    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +161,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
-      "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure"
+      "using effective strategies for dialogue and discussion in range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, asking questions about stated and implied ideas, and restating and summarising main ideas",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 1,
-    "explanation": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "using effective strategies for dialogue and discussion in range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, asking questions about stated and implied ideas, and restating and summarising main ideas\nHint: A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names structure and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "using effective strategies for dialogue and discussion in range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, asking questions about stated and implied ideas, and restating and summarising main ideas",
+      "hint": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,8 +181,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use purpose to shape participating in pair group class school and community speaking and listening situations and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
-    "audioPrompt": "During a peer explanation, Which choice is evidence, and what effect does it create for the audience",
+    "question": "What should you check when using a writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text?",
+    "audioPrompt": "What should you check when using a writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +190,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student labels a feature but does not explain its effect or context",
       "A feature name is enough to prove an interpretation",
-      "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "The method can be chosen without checking the values or conditions",
+      "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations",
+      "The same rule and result apply to every situation without testing"
     ],
     "correct": 2,
-    "explanation": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.\nHint: Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect.",
+    "explanation": "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations\nHint: A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "A precise response names evidence and explains how it shapes meaning, audience, relationship, purpose or reader effect in context.",
-      "hint": "Return to the highlighted phrase. Ask what it makes the audience notice, feel or expect."
+      "summary": "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations",
+      "hint": "A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,8 +210,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use structure to shape listening to a conversation or speech identifying the point being made and explaining the tone and manner of presentation and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "During an independent review, Explain how one deliberate choice shapes meaning in use interaction skills for identified purposes and situations, including when supporting or challenging the stated or implied meanings of spoken texts in presentations or discussion",
-    "audioPrompt": "During an independent review, Explain how one deliberate choice shapes meaning in use interaction skills for identified purposes and situations, including when supporting or challenging the stated or implied meanings of spoken texts in presentations or discussion",
+    "question": "What should you check when using a writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text?",
+    "audioPrompt": "What should you check when using a writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +219,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The student retells content or names a technique without explaining why it matters",
       "Effect means whether the student personally likes the text",
-      "Replace preference with an audience effect supported by the exact wording or structure",
-      "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response."
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation"
     ],
     "correct": 3,
-    "explanation": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.\nHint: Use the frame: ‘The choice ___ suggests/positions ___ because ___.’",
+    "explanation": "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation\nHint: A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text.",
     "structuredExplanation": {
-      "summary": "The response identifies a precise language or text choice, places it in context and explains its effect on audience, relationship, purpose or reader response.",
-      "hint": "Use the frame: ‘The choice ___ suggests/positions ___ because ___.’"
+      "summary": "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation",
+      "hint": "A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text."
     },
     "qualitySchema": "production-v1"
   }
