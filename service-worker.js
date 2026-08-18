@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v17";
-const STATIC_CACHE_NAME = "skillrhub-static-v15";
+const CACHE_NAME = "skillrhub-pwa-v18";
+const STATIC_CACHE_NAME = "skillrhub-static-v16";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -68,13 +68,33 @@ self.addEventListener("fetch", (event) => {
     "/year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/"
   ];
 
-  // Rebuilt curriculum and teacher decks are live resources: never serve a stale page shell.
+  const isTeacherDeckPath =
+    url.origin === self.location.origin &&
+    (url.pathname.includes("/teacher-slides/") || url.pathname.includes("/teacher-deck/"));
+
+  // Teacher deck pages are live resources: always prefer the network so content edits appear immediately.
   if (
     request.mode === "navigate" &&
     url.origin === self.location.origin &&
-    (url.pathname.includes("/teacher-slides/") || url.pathname.includes("/teacher-deck/") || rebuiltCurriculumRoutes.includes(url.pathname))
+    (isTeacherDeckPath || rebuiltCurriculumRoutes.includes(url.pathname))
   ) {
     event.respondWith(fetch(request, { cache: "no-store" }).catch(() => caches.match("/offline.html")));
+    return;
+  }
+
+  // Teacher deck assets (SVG/PNG/CSS/JS) must not be cache-first. Otherwise an updated
+  // page shell can continue displaying old slide artwork inside the installed PWA.
+  if (isTeacherDeckPath && ["style", "script", "image", "font"].includes(request.destination)) {
+    event.respondWith(
+      fetch(request, { cache: "no-store" })
+        .then((response) => {
+          if (response && response.ok) {
+            caches.open(STATIC_CACHE_NAME).then((cache) => cache.put(request, response.clone()));
+          }
+          return response;
+        })
+        .catch(() => caches.match(request))
+    );
     return;
   }
 
