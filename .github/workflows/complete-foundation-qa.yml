@@ -1,0 +1,53 @@
+name: Complete Foundation QA
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/complete_foundation_qa.mjs'
+      - '.github/workflows/complete-foundation-qa.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  complete-foundation:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install PDF renderer
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Complete Foundation generators and generated output
+        run: node scripts/complete_foundation_qa.mjs
+      - name: Verify Foundation subset with corrected repository audit
+        shell: bash
+        run: |
+          set +e
+          node scripts/run-corrected-curriculum-audit.js > /tmp/audit.log 2>&1
+          status=$?
+          set -e
+          cat /tmp/audit.log
+          if grep -E '^AC9(EF|MF|SF)' /tmp/audit.log | grep -v ' | PASS | PASS | PASS | PASS | PASS | PASS | PASS | PASS | PASS$'; then
+            echo 'Foundation still has QA failures.'
+            exit 1
+          fi
+          echo "Repository-wide audit exit was $status; Foundation subset is fully PASS."
+      - name: Commit Foundation completion
+        shell: bash
+        run: |
+          if git diff --quiet -- scripts/migrate_foundation_english_static.mjs scripts/migrate_foundation_maths_static.mjs scripts/migrate_foundation_science_fixed_slides.py foundation/english foundation/maths foundation/science foundation/curriculum/science/index.html; then
+            echo 'Foundation output is already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add scripts/migrate_foundation_english_static.mjs scripts/migrate_foundation_maths_static.mjs scripts/migrate_foundation_science_fixed_slides.py foundation/english foundation/maths foundation/science foundation/curriculum/science/index.html
+          git commit -m 'Complete Foundation curriculum QA'
+          git push origin HEAD:${GITHUB_HEAD_REF}
