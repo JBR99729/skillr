@@ -1,236 +1,52 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m10st02-p-001",
-    "curriculumCode": "AC9M10ST02",
-    "bank": "practice",
-    "skill": "construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets",
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets\nHint: Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data.",
-    "structuredExplanation": {
-      "summary": "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets",
-      "hint": "Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st02-p-002",
-    "curriculumCode": "AC9M10ST02",
-    "bank": "practice",
-    "skill": "compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The continuous distributions and boxplots model is copied without interpretation",
-      "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality\nHint: Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality.",
-    "structuredExplanation": {
-      "summary": "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality",
-      "hint": "Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st02-p-003",
-    "curriculumCode": "AC9M10ST02",
-    "bank": "practice",
-    "skill": "use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "using digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed and the effectiveness of the display in helping to answer the question",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed and the effectiveness of the display in helping to answer the question\nHint: Use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed.",
-    "structuredExplanation": {
-      "summary": "using digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed and the effectiveness of the display in helping to answer the question",
-      "hint": "Use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st02-p-004",
-    "curriculumCode": "AC9M10ST02",
-    "bank": "practice",
-    "skill": "find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "finding the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically and visually comparing the centre and spread of data sets"
-    ],
-    "correct": 3,
-    "explanation": "finding the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically and visually comparing the centre and spread of data sets\nHint: Find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically.",
-    "structuredExplanation": {
-      "summary": "finding the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically and visually comparing the centre and spread of data sets",
-      "hint": "Find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st02-p-005",
-    "curriculumCode": "AC9M10ST02",
-    "bank": "practice",
-    "skill": "compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "comparing the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways, including histograms, dot plots, box plots and cumulative frequency graphs",
-      "The continuous distributions and boxplots model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "comparing the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways, including histograms, dot plots, box plots and cumulative frequency graphs\nHint: Compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways.",
-    "structuredExplanation": {
-      "summary": "comparing the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways, including histograms, dot plots, box plots and cumulative frequency graphs",
-      "hint": "Compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st02-p-006",
-    "curriculumCode": "AC9M10ST02",
-    "bank": "practice",
-    "skill": "explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "exploring how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "exploring how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model\nHint: Explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model.",
-    "structuredExplanation": {
-      "summary": "exploring how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model",
-      "hint": "Explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st02-p-007",
-    "curriculumCode": "AC9M10ST02",
-    "bank": "practice",
-    "skill": "construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets\nHint: Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data.",
-    "structuredExplanation": {
-      "summary": "constructing and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data and can facilitate comparisons between data sets",
-      "hint": "Construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st02-p-008",
-    "curriculumCode": "AC9M10ST02",
-    "bank": "practice",
-    "skill": "compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The continuous distributions and boxplots model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality"
-    ],
-    "correct": 3,
-    "explanation": "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality\nHint: Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality.",
-    "structuredExplanation": {
-      "summary": "comparing shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality",
-      "hint": "Compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality."
-    },
-    "qualitySchema": "production-v1"
-  }
-];
-window.quizQuestions = window.skillrPracticeQuestions;
+const Q=(id,n,q,a,c,e)=>({id,curriculumCode:"AC9M10ST02",bank:"practice",section:"Boxplots and distributions",sourceNumber:n,skill:"compare centre, spread, shape and outliers",printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:"Use the five-number summary, IQR, range and overall boxplot shape."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q("ac9m10st02-p-001",1,"A dataset has minimum 10 and maximum 30. What is the range?",["10","20","30","40"],1,"Range = 30-10 = 20."),
+Q("ac9m10st02-p-002",2,"A boxplot has Q1=15 and Q3=25. What is the IQR?",["5","10","15","20"],1,"IQR = 25-15 = 10."),
+Q("ac9m10st02-p-003",3,"A dataset has median 40. Which statement is true?",["At least half the data are at or below 40 and at least half are at or above 40","The mean must be 40","The range is 40","Q3 must be 40"],0,"The median divides the ordered data into lower and upper halves."),
+Q("ac9m10st02-p-004",4,"A distribution has mean 50 and median 40. Which shape is most consistent with this?",["Symmetric","Right-skewed","Left-skewed","Uniform"],1,"A high right tail often pulls the mean above the median."),
+Q("ac9m10st02-p-005",5,"A boxplot marks 90 as an outlier. What does that indicate?",["90 lies unusually far from the main body of data","90 is the median","90 is Q1","90 is Q3"],0,"An outlier is unusually distant from the rest of the distribution."),
+Q("ac9m10st02-p-006",6,"For 20, 25, 30, 35, 40, what is the median?",["25","30","35","40"],1,"The middle value is 30."),
+Q("ac9m10st02-p-007",7,"A five-number summary is 5, 10, 15, 20, 25. What is the IQR?",["5","10","15","20"],1,"IQR = 20-10 = 10."),
+Q("ac9m10st02-p-008",8,"If IQR=12 and range=40, which is larger?",["IQR","Range","They are equal","Cannot tell"],1,"40 is larger than 12."),
+Q("ac9m10st02-p-009",9,"For a perfectly symmetric unimodal distribution, which statement is typically true?",["Mean = median","Mean > median","Mean < median","There is no centre"],0,"For a symmetric distribution, mean and median coincide."),
+Q("ac9m10st02-p-010",10,"A right-skewed distribution has:",["A longer tail to the right","A longer tail to the left","No tail","Perfect symmetry"],0,"Right skew means the tail extends toward larger values."),
+Q("ac9m10st02-p-011",11,"For 10, 12, 14, 16, 100, which value is the obvious high outlier?",["10","12","16","100"],3,"100 is far separated from the other values."),
+Q("ac9m10st02-p-012",12,"A boxplot has the median close to Q1 and the upper half of the box much wider than the lower half. What does this suggest?",["Right skew","Left skew","Symmetry","No spread"],0,"More spread above the median suggests a right-skew tendency."),
+Q("ac9m10st02-p-013",13,"If Q1=30 and Q3=50, the middle 50% of values lies between:",["20 and 40","30 and 50","40 and 60","50 and 70"],1,"The box from Q1 to Q3 contains the middle 50%."),
+Q("ac9m10st02-p-014",14,"A dataset has minimum 0 and maximum 100. What is the range?",["50","75","100","200"],2,"100-0=100."),
+Q("ac9m10st02-p-015",15,"In a standard modified boxplot with no plotted outliers, which statement is true?",["All observations lie within the whisker limits","There is no median","There are no quartiles","There is no spread"],0,"With no outliers shown, all data are represented within the whiskers."),
+Q("ac9m10st02-p-016",16,"Dataset A has IQR 20 and Dataset B has IQR 5. Which has greater middle-50% spread?",["A","B","Equal","Cannot tell"],0,"A has the larger IQR."),
+Q("ac9m10st02-p-017",17,"For 10, 20, 30, 40, 50, 60, what is the median?",["25","30","35","40"],2,"Median = (30+40)/2 = 35."),
+Q("ac9m10st02-p-018",18,"A boxplot has Q1=40, median=45 and Q3=70, with whiskers of similar length. What does the box shape suggest?",["Right skew","Left skew","Symmetry","Uniformity"],0,"The median is much closer to Q1 than Q3, suggesting more spread on the upper side."),
+Q("ac9m10st02-p-019",19,"A five-number summary is 5, 10, 20, 40, 100. What shape is most strongly suggested?",["Right skew","Left skew","Symmetric","No skew"],0,"The upper half and upper whisker are much more spread out."),
+Q("ac9m10st02-p-020",20,"Two distributions have the same median but different IQRs. Which feature differs for sure?",["Centre","Spread","Shape only","Outliers only"],1,"Different IQRs mean different middle-50% spread."),
+Q("ac9m10st02-p-021",21,"Dataset A has mean=60, median=60. Dataset B has mean=60, median=40. Which is more clearly skewed?",["A","B","Both equally","Neither"],1,"The separation between mean and median in B suggests skew."),
+Q("ac9m10st02-p-022",22,"For 10, 12, 14, 16, 18, 20, 200, which shape is most consistent with the data?",["Right-skewed","Left-skewed","Symmetric","Uniform"],0,"The large high value creates a long right tail."),
+Q("ac9m10st02-p-023",23,"A boxplot has lower whisker at 10 and upper whisker at 90, with no outliers. What is the range?",["40","60","80","100"],2,"90-10=80."),
+Q("ac9m10st02-p-024",24,"If Q1=25 and Q3=55, what is the IQR?",["20","25","30","35"],2,"55-25=30."),
+Q("ac9m10st02-p-025",25,"Dataset A has range 100 and Dataset B has range 40. Which has greater total range?",["A","B","Equal","Cannot tell"],0,"A has the larger range."),
+Q("ac9m10st02-p-026",26,"A boxplot has equal whiskers and its median exactly centred between Q1 and Q3. What does this suggest?",["Symmetry","Right skew","Left skew","Uniformity only"],0,"A balanced box and whiskers suggest a symmetric distribution."),
+Q("ac9m10st02-p-027",27,"For 5, 10, 15, 20, 25, 30, 35, what is the median?",["15","20","25","30"],1,"The fourth value is 20."),
+Q("ac9m10st02-p-028",28,"A five-number summary is 2, 4, 6, 20, 22. What does the box shape suggest?",["Right skew","Left skew","Symmetry","Uniformity"],0,"The upper half of the box is much wider than the lower half."),
+Q("ac9m10st02-p-029",29,"Boxplot A has IQR 10 and B has IQR 30. Which has more middle-50% spread?",["A","B","Equal","Cannot tell"],1,"B has the larger IQR."),
+Q("ac9m10st02-p-030",30,"For 100, 102, 104, 106, 108, 110, which description best fits the distribution?",["Symmetric","Right-skewed","Left-skewed","Irregular"],0,"The values are evenly spaced around 105."),
+Q("ac9m10st02-p-031",31,"For 10, 12, 14, 16, 18, 100, what is the median?",["14","15","16","18"],1,"Median = (14+16)/2 = 15."),
+Q("ac9m10st02-p-032",32,"If Q1=12 and Q3=18, what is the IQR?",["4","6","8","10"],1,"18-12=6."),
+Q("ac9m10st02-p-033",33,"A five-number summary is 20, 30, 32, 34, 100. Which description is most appropriate?",["Strong right skew","Strong left skew","Symmetric","No spread"],0,"The upper whisker is dramatically longer than the lower whisker."),
+Q("ac9m10st02-p-034",34,"Dataset A has mean 50, median 48. Dataset B has mean 50, median 52. Which is more consistent with right skew?",["A","B","Both","Neither"],0,"Mean greater than median is consistent with right skew."),
+Q("ac9m10st02-p-035",35,"For 5, 6, 7, 8, 9, 100, which statement is true?",["A high outlier is present","No outlier is present","The data are symmetric","The data are left-skewed"],0,"100 is far beyond the cluster of other values."),
+Q("ac9m10st02-p-036",36,"A has median 40, IQR 10. B has median 40, IQR 40. Which has more middle-50% variability?",["A","B","Equal","Cannot tell"],1,"B has the larger IQR."),
+Q("ac9m10st02-p-037",37,"A five-number summary is 10, 20, 25, 70, 75. What does the box shape suggest?",["Right skew","Left skew","Symmetry","Uniformity"],0,"The distance from median to Q3 is much larger than from Q1 to median."),
+Q("ac9m10st02-p-038",38,"For 100, 101, 102, 103, 104, 300, the mean exceeds the median. Which shape is most plausible?",["Right-skewed","Left-skewed","Symmetric","Uniform"],0,"The large high value pulls the mean upward."),
+Q("ac9m10st02-p-039",39,"If Q1=40, median=42 and Q3=44, what can be concluded about the middle 50%?",["It has a small spread of 4","It has a very large spread","There must be an outlier","The data must be right-skewed"],0,"IQR=44-40=4."),
+Q("ac9m10st02-p-040",40,"Boxplot A has min=10, max=90. B has min=30, max=40. Which has larger range?",["A","B","Equal","Cannot tell"],0,"A has range 80; B has range 10."),
+Q("ac9m10st02-p-041",41,"A boxplot has Q1=10, median=20, Q3=30. What is the IQR?",["10","20","30","40"],1,"30-10=20."),
+Q("ac9m10st02-p-042",42,"A dataset has minimum 5 and maximum 25. What is the range?",["10","15","20","25"],2,"25-5=20."),
+Q("ac9m10st02-p-043",43,"Group A has median 40 and Group B median 50. Which has the higher centre?",["A","B","Equal","Cannot tell"],1,"B has the larger median."),
+Q("ac9m10st02-p-044",44,"A boxplot has a much longer upper whisker than lower whisker. What does this suggest?",["Right skew","Left skew","Symmetry","No spread"],0,"A longer upper tail suggests right skew."),
+Q("ac9m10st02-p-045",45,"For 12, 14, 15, 16, 17, what is the median?",["14","15","16","17"],1,"The middle value is 15."),
+Q("ac9m10st02-p-046",46,"A boxplot shows an outlier at 90 while most values lie between 20 and 40. The outlier is:",["Low","High","The median","Q1"],1,"90 is a high outlier."),
+Q("ac9m10st02-p-047",47,"If Q1=25 and Q3=45, what is the IQR?",["15","20","25","30"],1,"45-25=20."),
+Q("ac9m10st02-p-048",48,"A boxplot has equal whiskers and the median centred in the box. What does this suggest?",["Symmetry","Right skew","Left skew","No whiskers"],0,"Balanced box and whiskers suggest symmetry.")];
+window.quizQuestions=window.skillrPracticeQuestions;
