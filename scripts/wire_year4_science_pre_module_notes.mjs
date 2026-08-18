@@ -60,12 +60,12 @@ for (const code of codes) {
     if (!html.includes(noteAsset)) {
       html = html.replace(
         /<script src="\/quiz\/assets\/script\.js\?v=\d+"><\/script>/,
-        `${noteAsset}<script src="/quiz/assets/script.js?v=114"></script>`
+        `${noteAsset}<script src="/quiz/assets/script.js?v=115"></script>`
       );
     }
     html = html
-      .replace(/\/quiz\/assets\/style\.css\?v=\d+/, "/quiz/assets/style.css?v=114")
-      .replace(/\/quiz\/assets\/script\.js\?v=\d+/, "/quiz/assets/script.js?v=114");
+      .replace(/\/quiz\/assets\/style\.css\?v=\d+/, "/quiz/assets/style.css?v=115")
+      .replace(/\/quiz\/assets\/script\.js\?v=\d+/, "/quiz/assets/script.js?v=115");
     const finalConfig = parseConfig(html, relativePath);
     assertProtectedConfig(finalConfig, code, mode, relativePath);
     if (

@@ -158,8 +158,8 @@ def update_quiz_page(path: Path, code: str, title: str, bank_name: str, guide: d
             source,
             count=1,
         )
-    source = re.sub(r'/quiz/assets/style\.css\?v=\d+', '/quiz/assets/style.css?v=114', source)
-    source = re.sub(r'/quiz/assets/script\.js\?v=\d+', '/quiz/assets/script.js?v=114', source)
+    source = re.sub(r'/quiz/assets/style\.css\?v=\d+', '/quiz/assets/style.css?v=115', source)
+    source = re.sub(r'/quiz/assets/script\.js\?v=\d+', '/quiz/assets/script.js?v=115', source)
     path.write_text(source, encoding="utf-8")
 
 

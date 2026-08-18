@@ -145,8 +145,8 @@ for (const code of codes) {
     assert(config.maxQuestions === expectedQuestionCount, `${code} ${mode}: expected ${expectedQuestionCount}-question live launch`);
     assert(config.questionCycle === true && config.shuffleQuestions === true, `${code} ${mode}: existing bank selection behaviour changed`);
     assert((html.match(/foundation-maths-pre-module-notes\.js\?v=20260814-1/g) || []).length === 1, `${code} ${mode}: shared note source must be loaded exactly once`);
-    assert(html.includes("/quiz/assets/script.js?v=114"), `${code} ${mode}: shared gate renderer version missing`);
-    assert(html.includes("/quiz/assets/style.css?v=114"), `${code} ${mode}: responsive gate style version missing`);
+    assert(html.includes("/quiz/assets/script.js?v=115"), `${code} ${mode}: shared gate renderer version missing`);
+    assert(html.includes("/quiz/assets/style.css?v=115"), `${code} ${mode}: responsive gate style version missing`);
 
     const questionFile = `quiz/grade-k/math/${code.toLowerCase()}/${mode}/questions.js`;
     const questionWindow = { location: { pathname: `/${route.replace(/index\.html$/, "")}` } };

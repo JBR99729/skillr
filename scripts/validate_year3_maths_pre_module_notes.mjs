@@ -116,8 +116,8 @@ for (const code of codes) {
     assert(config.requireStudentName === !isPractice, `${code} ${mode}: student-name flow changed`);
     assert(config.certificateOnPass === !isPractice, `${code} ${mode}: certificate flow changed`);
     assert((html.match(/year3-maths-pre-module-notes\.js\?v=20260814-1/g) || []).length === 1, `${code} ${mode}: shared note source must load exactly once`);
-    assert(html.indexOf("year3-maths-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=114"), `${code} ${mode}: note source must load before the shared engine`);
-    assert(html.includes("/quiz/assets/style.css?v=114"), `${code} ${mode}: shared responsive style version missing`);
+    assert(html.indexOf("year3-maths-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=115"), `${code} ${mode}: note source must load before the shared engine`);
+    assert(html.includes("/quiz/assets/style.css?v=115"), `${code} ${mode}: shared responsive style version missing`);
     assert(html.includes("/quiz/assets/production-question-ui.js?v=1"), `${code} ${mode}: existing production question UI missing`);
     assert(html.includes("pre-read-notes"), `${code} ${mode}: existing Quick Read landing content was removed`);
 

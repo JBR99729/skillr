@@ -90,8 +90,8 @@ for (const code of codes) {
     assert(config.shuffleQuestions === true && config.shuffleAnswers === true && config.questionCycle === true, `${code} ${mode}: bank selection changed`);
     assert(config.requireStudentName === !isPractice && config.certificateOnPass === !isPractice, `${code} ${mode}: name/certificate flow changed`);
     assert((html.match(/year4-science-pre-module-notes\.js\?v=20260814-1/g) || []).length === 1, `${code} ${mode}: shared source must load exactly once`);
-    assert(html.indexOf("year4-science-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=114"), `${code} ${mode}: note source must load before engine`);
-    assert(html.includes("/quiz/assets/style.css?v=114"), `${code} ${mode}: responsive style version missing`);
+    assert(html.indexOf("year4-science-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=115"), `${code} ${mode}: note source must load before engine`);
+    assert(html.includes("/quiz/assets/style.css?v=115"), `${code} ${mode}: responsive style version missing`);
     assert(html.includes("pre-read-notes"), `${code} ${mode}: existing Quick Read landing was removed`);
 
     const questionFile = `quiz/year-4/science/${code.toLowerCase()}/${mode}/questions.js`;
