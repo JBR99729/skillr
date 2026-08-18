@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m10m02-p-001",
-    "curriculumCode": "AC9M10M02",
-    "bank": "practice",
-    "skill": "understand that the logarithmic scale is calibrated in terms of order of magnitude",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving understand that the logarithmic scale is calibrated in terms of order of magnitude. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving understand that the logarithmic scale is calibrated in terms of order of magnitude. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10\nHint: Understand that the logarithmic scale is calibrated in terms of order of magnitude.",
-    "structuredExplanation": {
-      "summary": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
-      "hint": "Understand that the logarithmic scale is calibrated in terms of order of magnitude."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m02-p-002",
-    "curriculumCode": "AC9M10M02",
-    "bank": "practice",
-    "skill": "identify and interpreting data representations charts and graphs that use logarithmic scales and discussing when it is appropriate to use this type of scale",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving identify and interpreting data representations charts and graphs that use logarithmic scales and discussing when it is appropriate to use this type of scale. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving identify and interpreting data representations charts and graphs that use logarithmic scales and discussing when it is appropriate to use this type of scale. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The logarithmic scales model is copied without interpretation",
-      "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth\nHint: Identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale.",
-    "structuredExplanation": {
-      "summary": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
-      "hint": "Identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m02-p-003",
-    "curriculumCode": "AC9M10M02",
-    "bank": "practice",
-    "skill": "explore and interpreting logarithmic scales used in real world contexts",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore and interpreting logarithmic scales used in real world contexts. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore and interpreting logarithmic scales used in real world contexts. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale\nHint: Explore and interpreting logarithmic scales used in real-world contexts.",
-    "structuredExplanation": {
-      "summary": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
-      "hint": "Explore and interpreting logarithmic scales used in real-world contexts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m02-p-004",
-    "curriculumCode": "AC9M10M02",
-    "bank": "practice",
-    "skill": "explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values"
-    ],
-    "correct": 3,
-    "explanation": "investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values\nHint: Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones.",
-    "structuredExplanation": {
-      "summary": "investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values",
-      "hint": "Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m02-p-005",
-    "curriculumCode": "AC9M10M02",
-    "bank": "practice",
-    "skill": "explore dating methods of geological sites to provide evidence of first peoples of australia s human presence in australia including the madjedbebe dig in the northern territory",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore dating methods of geological sites to provide evidence of first peoples of australia s human presence in australia including the madjedbebe dig in the northern territory. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore dating methods of geological sites to provide evidence of first peoples of australia s human presence in australia including the madjedbebe dig in the northern territory. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating",
-      "The logarithmic scales model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating\nHint: Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory.",
-    "structuredExplanation": {
-      "summary": "investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating",
-      "hint": "Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m02-p-006",
-    "curriculumCode": "AC9M10M02",
-    "bank": "practice",
-    "skill": "understand that the logarithmic scale is calibrated in terms of order of magnitude",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving understand that the logarithmic scale is calibrated in terms of order of magnitude. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving understand that the logarithmic scale is calibrated in terms of order of magnitude. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10\nHint: Understand that the logarithmic scale is calibrated in terms of order of magnitude.",
-    "structuredExplanation": {
-      "summary": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
-      "hint": "Understand that the logarithmic scale is calibrated in terms of order of magnitude."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m02-p-007",
-    "curriculumCode": "AC9M10M02",
-    "bank": "practice",
-    "skill": "identify and interpreting data representations charts and graphs that use logarithmic scales and discussing when it is appropriate to use this type of scale",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving identify and interpreting data representations charts and graphs that use logarithmic scales and discussing when it is appropriate to use this type of scale. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving identify and interpreting data representations charts and graphs that use logarithmic scales and discussing when it is appropriate to use this type of scale. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth\nHint: Identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale.",
-    "structuredExplanation": {
-      "summary": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
-      "hint": "Identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10m02-p-008",
-    "curriculumCode": "AC9M10M02",
-    "bank": "practice",
-    "skill": "explore and interpreting logarithmic scales used in real world contexts",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore and interpreting logarithmic scales used in real world contexts. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore and interpreting logarithmic scales used in real world contexts. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The logarithmic scales model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale"
-    ],
-    "correct": 3,
-    "explanation": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale\nHint: Explore and interpreting logarithmic scales used in real-world contexts.",
-    "structuredExplanation": {
-      "summary": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
-      "hint": "Explore and interpreting logarithmic scales used in real-world contexts."
-    },
-    "qualitySchema": "production-v1"
-  }
-];
-window.quizQuestions = window.skillrPracticeQuestions;
+const Q=(id,n,s,q,a,c,e)=>({id,curriculumCode:"AC9M10M02",bank:"practice",section:s,sourceNumber:n,skill:s,printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:"Think in powers of 10 and compare multiplicative change, not additive change."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q("ac9m10m02-p-001",1,"Logarithmic scale basics","A logarithmic scale increases by:",["Equal steps in value","Equal multiplicative factors","Equal additive factors","Equal percentages only"],1,"Equal spacing on a logarithmic scale corresponds to equal multiplicative ratios."),
+Q("ac9m10m02-p-002",2,"Logarithmic scale basics","On a base-10 logarithmic scale, an increase of 1 unit represents:",["×2","×5","×10","×100"],2,"A change of 1 in log10 corresponds to multiplying the original quantity by 10."),
+Q("ac9m10m02-p-003",3,"Logarithmic scale basics","Evaluate log10(1000).",["1","2","3","4"],2,"1000=10^3, so log10(1000)=3."),
+Q("ac9m10m02-p-004",4,"Logarithmic scale basics","Evaluate log10(1).",["-1","0","1","10"],1,"1=10^0, so log10(1)=0."),
+Q("ac9m10m02-p-005",5,"Logarithmic scale basics","Evaluate log10(0.1).",["-1","0","1","2"],0,"0.1=10^-1, so log10(0.1)=-1."),
+Q("ac9m10m02-p-006",6,"Logarithmic scale basics","A logarithmic scale is especially useful when values:",["Change slowly","Span extremely large or small magnitudes","Are always positive integers","Are always whole numbers"],1,"Logarithmic scales compress quantities that span many orders of magnitude."),
+Q("ac9m10m02-p-007",7,"Logarithmic scale basics","On a logarithmic scale, equal spacing represents:",["Equal differences","Equal ratios","Equal sums","Equal absolute changes"],1,"Equal distances correspond to equal multiplicative ratios."),
+Q("ac9m10m02-p-008",8,"Real-world logarithmic scales","The Richter magnitude scale is:",["Linear","Quadratic","Logarithmic","Exponential"],2,"Earthquake magnitude is represented on a logarithmic scale."),
+Q("ac9m10m02-p-009",9,"Real-world logarithmic scales","Sound level measured in decibels uses a:",["Linear scale","Logarithmic scale","Quadratic scale","Exponential scale"],1,"Decibels are based on a logarithm of an intensity ratio."),
+Q("ac9m10m02-p-010",10,"Real-world logarithmic scales","The pH scale is:",["Linear","Logarithmic","Quadratic","Exponential"],1,"pH is defined using a base-10 logarithm of hydrogen ion concentration."),
+Q("ac9m10m02-p-011",11,"Interpreting logarithmic scales","A magnitude 6 earthquake has how many times the ground-motion amplitude of a magnitude 5 earthquake?",["2 times","5 times","10 times","100 times"],2,"A one-unit increase in earthquake magnitude corresponds to a tenfold increase in measured amplitude."),
+Q("ac9m10m02-p-012",12,"Interpreting logarithmic scales","A sound level increases from 40 dB to 50 dB. By what factor does intensity increase?",["×2","×5","×10","×100"],2,"A 10 dB increase corresponds to a tenfold increase in intensity."),
+Q("ac9m10m02-p-013",13,"Interpreting logarithmic scales","pH decreases from 7 to 6. The hydrogen ion concentration:",["Halves","Doubles","Increases by a factor of 10","Increases by a factor of 100"],2,"A decrease of 1 pH unit means hydrogen ion concentration increases tenfold."),
+Q("ac9m10m02-p-014",14,"Interpreting logarithmic scales","On a base-10 logarithmic scale, moving right by one log unit means the represented quantity is:",["Increased by 10","Multiplied by 10","Divided by 10","Decreased by 10"],1,"A one-unit increase in log10 means a factor of 10 increase in the original quantity."),
+Q("ac9m10m02-p-015",15,"Interpreting logarithmic scales","log10(50) lies between:",["0 and 1","1 and 2","2 and 3","3 and 4"],1,"Since 10<50<100, its base-10 logarithm lies between 1 and 2."),
+Q("ac9m10m02-p-016",16,"Interpreting logarithmic scales","Evaluate log10(0.01).",["-1","-2","1","2"],1,"0.01=10^-2, so log10(0.01)=-2."),
+Q("ac9m10m02-p-017",17,"Interpreting logarithmic scales","A quantity increases from 10 to 1000. How much does its base-10 logarithm increase?",["1 unit","2 units","3 units","4 units"],1,"log10(10)=1 and log10(1000)=3, so the increase is 3-1=2 units."),
+Q("ac9m10m02-p-018",18,"Orders of magnitude","A bacteria count increases from 10^4 to 10^6. By what factor has it increased?",["×10","×100","×1000","×10,000"],1,"10^6/10^4=10^2=100."),
+Q("ac9m10m02-p-019",19,"Orders of magnitude","A quantity changes from 10^-3 to 10^-1. By what factor has it increased?",["×10","×100","×1000","×0.1"],1,"10^-1/10^-3=10^2=100."),
+Q("ac9m10m02-p-020",20,"Interpreting logarithmic scales","On a logarithmic scale, equal distances represent:",["Equal absolute change","Equal multiplicative change","Equal additive change","Equal linear change"],1,"Logarithmic spacing is based on ratios rather than differences."),
+Q("ac9m10m02-p-021",21,"Applying logarithmic scales","A sound level increases from 60 dB to 80 dB. By what factor does intensity increase?",["×2","×10","×100","×1000"],2,"A 20 dB increase corresponds to 10^(20/10)=100 times the intensity."),
+Q("ac9m10m02-p-022",22,"Applying logarithmic scales","A pH change from 8 to 5 means hydrogen ion concentration increases by:",["×3","×10","×100","×1000"],3,"A decrease of 3 pH units corresponds to a 10^3=1000-fold increase in hydrogen ion concentration."),
+Q("ac9m10m02-p-023",23,"Applying logarithmic scales","Which is the best approximation to log10(5000)?",["3.30","3.70","4.00","5.00"],1,"log10(5000)=log10(5)+3≈0.699+3=3.699≈3.70."),
+Q("ac9m10m02-p-024",24,"Applying logarithmic scales","log10(2) is approximately:",["0.1","0.2","0.3","0.5"],2,"log10(2)≈0.301.")];
+window.quizQuestions=window.skillrPracticeQuestions;
