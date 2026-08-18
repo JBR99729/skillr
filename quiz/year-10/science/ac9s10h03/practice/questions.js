@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10h03-p-001",
-    "curriculumCode": "AC9S10H03",
-    "bank": "practice",
-    "skill": "use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
-      "Strong evidence guarantees rapid adoption",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops\nHint: Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
-      "hint": "Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h03-p-002",
-    "curriculumCode": "AC9S10H03",
-    "bank": "practice",
-    "skill": "use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Low adoption proves the science is weak",
-      "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements\nHint: Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
-      "hint": "Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h03-p-003",
-    "curriculumCode": "AC9S10H03",
-    "bank": "practice",
-    "skill": "use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Strong evidence guarantees rapid adoption",
-      "The method can be chosen without checking the values or conditions",
-      "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society\nHint: Use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
-      "hint": "Use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h03-p-004",
-    "curriculumCode": "AC9S10H03",
-    "bank": "practice",
-    "skill": "use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Low adoption proves the science is weak",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining why climate change models used by scientists are contested by some people in society"
-    ],
-    "correct": 3,
-    "explanation": "examining why climate change models used by scientists are contested by some people in society\nHint: Use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining why climate change models used by scientists are contested by some people in society",
-      "hint": "Use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h03-p-005",
-    "curriculumCode": "AC9S10H03",
-    "bank": "practice",
-    "skill": "use citizen science projects to make the role of values and policy visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use citizen science projects to make the role of values and policy visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use citizen science projects to make the role of values and policy visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
-      "Strong evidence guarantees rapid adoption",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved\nHint: Use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
-      "hint": "Use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h03-p-006",
-    "curriculumCode": "AC9S10H03",
-    "bank": "practice",
-    "skill": "use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Low adoption proves the science is weak",
-      "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives\nHint: Use how the traditional ecological knowledges of First Nations Australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
-      "hint": "Use how the traditional ecological knowledges of First Nations Australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h03-p-007",
-    "curriculumCode": "AC9S10H03",
-    "bank": "practice",
-    "skill": "use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Strong evidence guarantees rapid adoption",
-      "The method can be chosen without checking the values or conditions",
-      "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops\nHint: Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
-      "hint": "Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h03-p-008",
-    "curriculumCode": "AC9S10H03",
-    "bank": "practice",
-    "skill": "use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Low adoption proves the science is weak",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements"
-    ],
-    "correct": 3,
-    "explanation": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements\nHint: Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
-      "hint": "Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const skillrRawQuestions = [
+["GE crops","Why might farmers adopt genetically engineered crops?",["They always cost less to buy","They can reduce pest damage and improve harvest reliability","They never need water","They remove the need for regulation"],1,"Adoption can increase when a technology offers clear benefits such as reduced crop loss or more reliable yields.","Look for a practical benefit supported by evidence."],
+["GE crops","Bt cotton is engineered mainly to:",["produce a protein toxic to certain insect pests","grow without sunlight","remove all weeds","increase soil salinity"],0,"Bt cotton contains a gene that enables the plant to produce a protein toxic to particular insect pests.","Think pest resistance."],
+["GE crops","Herbicide-tolerant crops can allow farmers to:",["spray certain herbicides to control weeds without killing the crop","avoid all chemical use","grow crops underwater","eliminate fertiliser use"],0,"The crop tolerates a specified herbicide, so weeds can be controlled without killing the crop.","Tolerance means the crop survives the treatment."],
+["GE crops","Which is a reasonable concern to investigate before widespread adoption of a GE crop?",["Whether it may affect biodiversity or gene flow","Whether it changes the weather","Whether it stops evolution","Whether it removes all pests forever"],0,"Potential ecological effects such as gene flow, resistance and biodiversity impacts should be evaluated alongside benefits.","Good decisions consider risks as well as benefits."],
+["GE crops","Which statement best links evidence to adoption of a new crop variety?",["One successful farm proves it should be used everywhere","Repeated field trials showing benefit under local conditions can support adoption","Popularity alone proves effectiveness","Low adoption proves the crop does not work"],1,"Repeated evidence from relevant conditions is stronger than anecdotes or popularity.","Adoption should be informed by relevant evidence."],
+["helmets","A study finds lower rates of serious head injury among helmeted riders. What is the strongest conclusion?",["Helmets prevent every crash","Helmet use is associated with lower serious head-injury risk","Helmets guarantee no injury","Riders without helmets always crash"],1,"The data supports risk reduction, not absolute prevention.","Avoid absolute claims."],
+["helmets","If 70% of severe head injuries in a dataset occurred among riders not wearing helmets, what else is needed before comparing risk fairly?",["The number of helmeted and unhelmeted riders exposed to riding","The colour of each helmet","The riders' favourite transport mode","The weather on one day only"],0,"Raw injury counts should be interpreted relative to how many people were exposed in each group.","Compare rates, not just counts."],
+["helmets","Why can large injury datasets provide stronger evidence than a few anecdotes?",["They automatically remove every bias","They can reduce the influence of random variation","They guarantee causation","They make confounding impossible"],1,"Larger datasets can reduce random variation, although bias and confounding still need consideration.","Large samples help, but do not solve every problem."],
+["helmets","A helmet reduces head-injury risk mainly by:",["preventing all collisions","absorbing and redistributing some impact energy","making riders travel faster","increasing body mass"],1,"Helmet materials can absorb and spread impact energy, reducing forces on the head.","Think impact forces."],
+["helmets","Why might injury statistics influence helmet-wearing requirements?",["Policy can use evidence about benefits and risks","Statistics make helmets fashionable","Scientific evidence automatically creates a law","Policies never consider costs or values"],0,"Evidence about injury reduction can inform policy, alongside feasibility, costs and social values.","Evidence informs policy; it does not determine it alone."],
+["genetic screening","Genetic screening is used mainly to:",["identify variants associated with inherited conditions or risk","predict favourite foods","change a person's DNA automatically","guarantee future health"],0,"Screening can identify particular genetic variants or chromosome changes linked with inherited conditions or risk.","Screening identifies information; it does not alter DNA."],
+["genetic screening","Carrier screening can determine whether a person:",["carries a recessive disease-associated allele","has an infectious disease","will definitely develop every condition tested","has a particular personality"],0,"Carrier screening can identify people who carry a recessive allele that may be passed to children.","Think recessive inheritance."],
+["genetic screening","Why might some communities have higher uptake of screening for a particular inherited condition?",["The condition may be more common in that population and screening may offer useful information","Screening predicts intelligence","Screening is always compulsory","All genetic conditions occur equally in every population"],0,"Uptake may be influenced by prevalence, perceived benefit, access, cost and trust.","Consider both scientific and social factors."],
+["genetic screening","Which concern can reduce willingness to adopt genetic screening?",["Privacy and possible misuse of sensitive genetic information","Screening always changes chromosomes","Genetic tests cause inherited disease","Doctors are unnecessary after screening"],0,"Privacy, consent and possible discrimination are legitimate concerns that can affect trust and adoption.","Sensitive information creates ethical and social issues."],
+["genetic screening","A more accurate and affordable screening test is introduced. Which adoption factor has improved most directly?",["Access and cost","The mutation rate","The number of chromosomes","The laws of inheritance"],0,"Lower cost and improved accuracy can make a practice more accessible and attractive.","Think barriers to adoption."],
+["climate models","Why can climate models be scientifically useful even though they include uncertainty ranges?",["They represent possible outcomes under stated assumptions and evidence","Uncertainty means the models contain no evidence","A useful model must give one exact future value","Models replace observations"],0,"Scientific models can provide informative ranges while explicitly representing uncertainty.","Uncertainty does not mean useless."],
+["climate models","Climate models are built using:",["physical principles and large observational datasets","random guesses","public opinion alone","one weather station only"],0,"Climate models combine physical relationships with observations from many sources.","Think physics plus evidence."],
+["climate models","Why might different people respond differently to the same climate-model evidence?",["Adoption and acceptance can also depend on trust, values, costs and perceived impacts","Scientific evidence has no role","Everyone interprets evidence identically","Models have no data"],0,"Evidence is essential, but social factors also influence acceptance and action.","The curriculum focus is science plus social factors."],
+["climate models","Which statement about scientific uncertainty is most accurate?",["Uncertainty should be quantified and communicated where possible","Any uncertainty means the science is wrong","Uncertainty should be hidden from the public","All models have identical uncertainty"],0,"Quantifying uncertainty helps users interpret what a model can and cannot support.","Good science communicates limits."],
+["citizen science","Citizen science usually involves:",["members of the public contributing to scientific activities such as data collection","only professional scientists","public voting instead of evidence","research without protocols"],0,"Citizen-science projects involve public participation in genuine scientific work.","Think public participation in research."],
+["citizen science","Why might people choose to participate in a project such as GLOBE?",["To contribute to real research and learn about their environment","Because participation proves every hypothesis","Because no training is needed","Because citizen data is always more accurate than professional data"],0,"Motivation can include contribution, learning, community benefit and connection to local issues.","Participation can have scientific and social value."],
+["citizen science","What best improves the scientific value of citizen-science data?",["Standardised methods and clear data-quality checks","Letting every participant use a different method","Removing metadata","Using only the most dramatic observations"],0,"Consistent protocols and quality control make observations more comparable and useful.","Reliable data needs consistent methods."],
+["First Nations knowledge","Traditional ecological knowledge can contribute to contemporary science because it:",["can contain long-term, place-based observations and tested practices","is automatically identical across all Country","never changes over time","must be replaced by laboratory science"],0,"Long-term place-based knowledge can provide valuable evidence and management insight when engaged with respectfully.","Think long-term, local observation."],
+["First Nations knowledge","Why are Traditional Owner-led carbon farming practices a useful AC9S10H03 example?",["They show how established ecological knowledge and modern measurement can inform adopted land-management practices","They prove all land-management methods are identical","They remove the need for evidence","They depend only on public opinion"],0,"They illustrate how knowledge, evidence, cultural authority, policy and practical benefits can interact in adoption.","Connect evidence with social and cultural factors."]
 ];
+window.skillrPracticeQuestions = skillrRawQuestions.map((q,i)=>({id:`ac9s10h03-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10H03",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:`${q[4]}\nHint: ${q[5]}`,structuredExplanation:{summary:q[4],hint:q[5]},qualitySchema:"production-v1"}));
 window.quizQuestions = window.skillrPracticeQuestions;
