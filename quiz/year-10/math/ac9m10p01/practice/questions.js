@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m10p01-p-001",
-    "curriculumCode": "AC9M10P01",
-    "bank": "practice",
-    "skill": "use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language",
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language\nHint: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”.",
-    "structuredExplanation": {
-      "summary": "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language",
-      "hint": "Use two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p01-p-002",
-    "curriculumCode": "AC9M10P01",
-    "bank": "practice",
-    "skill": "use arrays and tree diagrams to represent interpret and compare probabilities of dependent and independent events",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use arrays and tree diagrams to represent interpret and compare probabilities of dependent and independent events. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use arrays and tree diagrams to represent interpret and compare probabilities of dependent and independent events. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The conditional probability language model is copied without interpretation",
-      "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events\nHint: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events.",
-    "structuredExplanation": {
-      "summary": "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events",
-      "hint": "Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p01-p-003",
-    "curriculumCode": "AC9M10P01",
-    "bank": "practice",
-    "skill": "explore how conditional probability is used in natural language processing tasks like text or image generation language translation data augmentation and recommendation systems",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore how conditional probability is used in natural language processing tasks like text or image generation language translation data augmentation and recommendation systems. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore how conditional probability is used in natural language processing tasks like text or image generation language translation data augmentation and recommendation systems. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "investigating how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems\nHint: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems.",
-    "structuredExplanation": {
-      "summary": "investigating how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems",
-      "hint": "Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p01-p-004",
-    "curriculumCode": "AC9M10P01",
-    "bank": "practice",
-    "skill": "use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language"
-    ],
-    "correct": 3,
-    "explanation": "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language\nHint: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”.",
-    "structuredExplanation": {
-      "summary": "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language",
-      "hint": "Use two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p01-p-005",
-    "curriculumCode": "AC9M10P01",
-    "bank": "practice",
-    "skill": "use arrays and tree diagrams to represent interpret and compare probabilities of dependent and independent events",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use arrays and tree diagrams to represent interpret and compare probabilities of dependent and independent events. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use arrays and tree diagrams to represent interpret and compare probabilities of dependent and independent events. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events",
-      "The conditional probability language model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events\nHint: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events.",
-    "structuredExplanation": {
-      "summary": "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events",
-      "hint": "Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p01-p-006",
-    "curriculumCode": "AC9M10P01",
-    "bank": "practice",
-    "skill": "explore how conditional probability is used in natural language processing tasks like text or image generation language translation data augmentation and recommendation systems",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore how conditional probability is used in natural language processing tasks like text or image generation language translation data augmentation and recommendation systems. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore how conditional probability is used in natural language processing tasks like text or image generation language translation data augmentation and recommendation systems. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "investigating how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems\nHint: Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems.",
-    "structuredExplanation": {
-      "summary": "investigating how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems",
-      "hint": "Explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p01-p-007",
-    "curriculumCode": "AC9M10P01",
-    "bank": "practice",
-    "skill": "use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”?",
-    "audioPrompt": "What should you check when using use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language\nHint: Use two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”.",
-    "structuredExplanation": {
-      "summary": "using two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that” and identifying common mistakes in interpreting such language",
-      "hint": "Use two-way tables and Venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10p01-p-008",
-    "curriculumCode": "AC9M10P01",
-    "bank": "practice",
-    "skill": "use arrays and tree diagrams to represent interpret and compare probabilities of dependent and independent events",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events?",
-    "audioPrompt": "What should you check when using use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The conditional probability language model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events"
-    ],
-    "correct": 3,
-    "explanation": "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events\nHint: Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events.",
-    "structuredExplanation": {
-      "summary": "using arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events",
-      "hint": "Use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events."
-    },
-    "qualitySchema": "production-v1"
-  }
-];
-window.quizQuestions = window.skillrPracticeQuestions;
+const Q=(id,n,s,q,a,c,e)=>({id,curriculumCode:"AC9M10P01",bank:"practice",section:s,sourceNumber:n,skill:s,printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:"Identify the condition first: it becomes the new sample space."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q("ac9m10p01-p-001",1,"Basic conditional probability","30 of 100 students play sport. What is the probability that a randomly chosen student plays sport?",["0.10","0.20","0.30","0.40"],2,"30/100=0.30."),
+Q("ac9m10p01-p-002",2,"Given language","Of 50 pet owners, 40 own dogs. What is P(dog | pet owner)?",["0.40","0.60","0.80","1.00"],2,"The condition restricts the sample space to the 50 pet owners:40/50=0.80."),
+Q("ac9m10p01-p-003",3,"Sample space","20 of 80 students wear glasses. What is P(glasses | student)?",["0.10","0.20","0.25","0.30"],2,"20/80=0.25."),
+Q("ac9m10p01-p-004",4,"Given language","Among 100 adults, 70 prefer coffee. Knowing the person is an adult, P(coffee | adult)=",["0.50","0.60","0.70","0.80"],2,"70/100=0.70."),
+Q("ac9m10p01-p-005",5,"Complements","10 of 40 cars are electric. What is P(not electric | car)?",["0.25","0.50","0.75","0.90"],2,"30 of 40 are not electric:30/40=0.75."),
+Q("ac9m10p01-p-006",6,"Nested groups","60 students study maths and 30 of them also study science. What is P(science | maths)?",["0.30","0.40","0.50","0.60"],2,"Condition on maths students only:30/60=0.50."),
+Q("ac9m10p01-p-007",7,"Notation","Which expression means 'the probability of rain given that it is cloudy'?",["P(cloudy | rain)","P(rain and cloudy)","P(rain | cloudy)","P(rain)/P(cloudy)"],2,"The event after the vertical bar is the condition."),
+Q("ac9m10p01-p-008",8,"Given language","80 customers bought a drink; 50 chose coffee. What is P(coffee | bought a drink)?",["0.50","0.60","0.625","0.75"],2,"50/80=0.625."),
+Q("ac9m10p01-p-009",9,"Two-way tables","A gym has 25 morning and 25 evening attendees among 50 members. What is P(morning | member)?",["0.25","0.50","0.75","1.00"],1,"25/50=0.50."),
+Q("ac9m10p01-p-010",10,"Reverse conditioning","Of 100 car owners, 20 own hybrids. Which denominator is used to calculate P(hybrid | car owner)?",["20","80","100","120"],2,"The condition is car owner, so the denominator is all 100 car owners."),
+Q("ac9m10p01-p-011",11,"Two-way tables","Year 10: 40 like maths, 60 do not. What is P(likes maths | Year 10)?",["0.20","0.30","0.40","0.50"],2,"40/100=0.40."),
+Q("ac9m10p01-p-012",12,"Two-way tables","Morning café orders:80 coffee,20 tea. What is P(tea | morning)?",["0.10","0.20","0.30","0.40"],1,"20/100=0.20."),
+Q("ac9m10p01-p-013",13,"Comparing conditionals","Men:60 strength,40 cardio. Women:30 strength,70 cardio. Which is larger?",["P(strength | men)","P(strength | women)","They are equal","Cannot tell"],0,"60% versus 30%."),
+Q("ac9m10p01-p-014",14,"Two-way tables","Adults:120 online,80 in-store. What is P(online | adult)?",["0.40","0.50","0.60","0.70"],2,"120/200=0.60."),
+Q("ac9m10p01-p-015",15,"Independence idea","If P(A)=0.4 and P(A|B)=0.4, what does this suggest?",["A and B may be independent","A causes B","A and B are mutually exclusive","B is impossible"],0,"If conditioning on B does not change the probability of A, independence is suggested."),
+Q("ac9m10p01-p-016",16,"Tree diagrams","A bag has 3 red and 2 blue counters. One counter is removed without replacement. If the first was red, what is P(red on second draw)?",["1/2","2/5","1/4","2/3"],0,"After a red is removed, 2 red and 2 blue remain:2/4=1/2."),
+Q("ac9m10p01-p-017",17,"Replacement vs no replacement","A card is drawn, replaced, then another is drawn. How does replacement affect the second draw?",["It keeps the original probabilities unchanged","It makes all outcomes equally likely","It guarantees the same card","It makes events mutually exclusive"],0,"Replacing restores the original sample space, so the second-draw probabilities are unchanged."),
+Q("ac9m10p01-p-018",18,"Venn diagrams","In a class, 30 study French, 20 study Japanese and 8 study both. What is P(Japanese | French)?",["8/20","8/30","20/30","8/42"],1,"Condition on French:8 of 30 French students also study Japanese."),
+Q("ac9m10p01-p-019",19,"Conditional complements","P(pass | tutoring)=0.8. What is P(fail | tutoring)?",["0.1","0.2","0.8","1.8"],1,"Conditional complements still sum to 1:1-0.8=0.2."),
+Q("ac9m10p01-p-020",20,"Language interpretation","'Knowing that the customer bought online, what is the chance they returned the item?' corresponds to:",["P(online | return)","P(return | online)","P(return and online)","P(return)"],1,"The known information goes after the vertical bar."),
+Q("ac9m10p01-p-021",21,"Two-stage probability","A student passes with probability 0.7 if they attend tutoring and 0.4 if they do not. Which quantity is P(pass | tutoring)?",["0.4","0.7","1.1","0.28"],1,"It is stated directly as 0.7."),
+Q("ac9m10p01-p-022",22,"Sample-space change","Why is P(A|B) often different from P(A)?",["Because conditioning restricts the sample space to outcomes in B","Because probabilities can exceed 1","Because A and B must overlap completely","Because conditional probabilities ignore counts"],0,"Conditioning changes the relevant denominator to the outcomes satisfying B."),
+Q("ac9m10p01-p-023",23,"Natural-language errors","Which statement confuses P(A|B) with P(B|A)?",["Among athletes, 60% are students; therefore among students, 60% are athletes","Among athletes, 60% are students","P(student|athlete)=0.6","The denominator for P(student|athlete) is all athletes"],0,"Reversing the condition is a common error; the two probabilities need not be equal."),
+Q("ac9m10p01-p-024",24,"Applied conditional probability","A recommendation system shows 200 users a movie; 80 click it. Of the 80 clickers, 50 watch to the end. What is P(watch to end | clicked)?",["0.25","0.40","0.625","0.80"],2,"50/80=0.625.")];
+window.quizQuestions=window.skillrPracticeQuestions;
