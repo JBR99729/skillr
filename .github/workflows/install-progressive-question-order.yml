@@ -1,6 +1,9 @@
 name: Audit progressive question ordering
 
 on:
+  push:
+    branches:
+      - agent/fix-questions-not-loaded
   workflow_dispatch:
 
 permissions:
@@ -16,7 +19,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Audit confidence-tier question quality
+      - name: Audit question-bank size and confidence quality
         run: node scripts/assign_confidence_question_tiers.mjs --check || true
       - name: Verify progressive ordering patch is already present
         shell: bash
