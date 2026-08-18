@@ -311,7 +311,7 @@ for (const marker of ["foundation-english-topic-module-la-v2.js", "foundation-en
   check(slideHost.includes(marker), `Teacher-slide host missing ${marker}`);
 }
 const renderer = read("quiz/assets/foundation-maths-authored-worksheet.js");
-for (const marker of ["isFoundationEnglishSplit", "SkillrFoundationTopicPracticeRender", "Topic Practice 1", "Topic Practice 2", "Preview answer key", "/icons/skillrhub-mark.svg"]) {
+for (const marker of ["isFoundationEnglishSplit", "SkillrFoundationTopicPracticeRender", "Topic Practice 1", "Topic Practice 2", "Print worksheet + answer key", "/icons/skillrhub-mark.svg"]) {
   check(renderer.includes(marker), `Shared topic-practice renderer missing ${marker}`);
 }
 check(renderer.includes('role="img"') && renderer.includes("question.visualAlt || question.visual"), "Shared renderer must expose accessible text-diagram alt descriptions");

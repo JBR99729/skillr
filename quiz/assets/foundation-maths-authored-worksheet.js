@@ -123,26 +123,18 @@
   function ensureButtons() {
     const firstButton = document.getElementById("previewPdfButton") || document.getElementById("downloadPdfButton");
     if (!firstButton) return {};
-    firstButton.id = "previewStudentPdfButton";
-    firstButton.textContent = "Preview practice sheet";
-    let answerButton = document.getElementById("previewAnswerPdfButton");
-    if (!answerButton) {
-      answerButton = document.createElement("button");
-      answerButton.className = firstButton.className || "primary";
-      answerButton.id = "previewAnswerPdfButton";
-      answerButton.type = "button";
-      answerButton.textContent = "Preview answer key";
-      firstButton.insertAdjacentElement("afterend", answerButton);
-    }
+    firstButton.id = "printWorksheetButton";
+    firstButton.textContent = "Print worksheet + answer key";
+    document.getElementById("previewAnswerPdfButton")?.remove();
     const meta = document.querySelector(".worksheet-meta");
     if (meta && !meta.dataset.skillrSplitWorksheet) {
       meta.innerHTML = `<span>${sheetQuestions.length} questions on this sheet</span><span>9 across Topic Practice 1 + 2</span><span>Sheet-only answer key</span><span>US Letter portrait</span>`;
       meta.dataset.skillrSplitWorksheet = "true";
     }
     document.querySelectorAll(".worksheet-print-tip").forEach((tip) => {
-      tip.textContent = "Print the practice sheet for students. Keep the answer key as the teacher copy.";
+      tip.textContent = "Print one combined file: the student practice sheet first, followed by the teacher answer key.";
     });
-    return { studentButton: firstButton, answerButton };
+    return firstButton;
   }
 
   function wrap(doc, text, width) {
@@ -268,11 +260,10 @@
     doc.setDrawColor(219, 228, 239); doc.setLineWidth(.2); doc.line(x, y + height, x + width, y + height);
   }
 
-  async function previewPdf(mode) {
+  async function printWorksheet() {
     if (!window.jspdf?.jsPDF) return;
-    const activeButton = mode === "answers" ? buttons.answerButton : buttons.studentButton;
-    const original = activeButton?.textContent;
-    if (activeButton) { activeButton.disabled = true; activeButton.textContent = "Preparing preview..."; }
+    const original = printButton?.textContent;
+    if (printButton) { printButton.disabled = true; printButton.textContent = "Preparing print file..."; }
     try {
       await loadPdfLogo();
       const { jsPDF } = window.jspdf;
@@ -280,32 +271,33 @@
       const pageW = doc.internal.pageSize.getWidth(), pageH = doc.internal.pageSize.getHeight(), m = 10, width = pageW - m * 2;
       const list = sheetQuestions;
       const pages = paginate(doc, list, width, pageH - 54);
-      pages.forEach((items, pageIndex) => {
-        if (pageIndex > 0) doc.addPage("letter", "portrait");
-        drawWatermark(doc, pageW, pageH);
-        doc.setDrawColor(36, 87, 214); doc.setLineWidth(.55); doc.rect(5, 5, pageW - 10, pageH - 10);
-        let y = drawHeader(doc, pageW, pageIndex + 1, pages.length, mode);
-        if (mode === "answers") {
-          items.forEach((item) => {
-            const answerLines = wrap(doc, `${item.number}. ${item.question.answer}\nSummary: ${item.question.summary}\nHint: ${item.question.hint}`, width - 8);
-            doc.setFont("helvetica", "normal"); doc.setFontSize(9.2); doc.setTextColor(32, 48, 71); doc.text(answerLines, m + 4, y + 4);
-            y += Math.max(18, answerLines.length * 4 + 5);
-          });
-        } else {
-          items.forEach((item) => { drawQuestion(doc, item, m, y, width); y += item.height + 2.4; });
-        }
-        drawFooter(doc, pageW, pageH, pageIndex + 1, pages.length, mode);
+      ["student", "answers"].forEach((mode, modeIndex) => {
+        pages.forEach((items, pageIndex) => {
+          if (modeIndex > 0 || pageIndex > 0) doc.addPage("letter", "portrait");
+          drawWatermark(doc, pageW, pageH);
+          doc.setDrawColor(36, 87, 214); doc.setLineWidth(.55); doc.rect(5, 5, pageW - 10, pageH - 10);
+          let y = drawHeader(doc, pageW, pageIndex + 1, pages.length, mode);
+          if (mode === "answers") {
+            items.forEach((item) => {
+              const answerLines = wrap(doc, `${item.number}. ${item.question.answer}\nSummary: ${item.question.summary}\nHint: ${item.question.hint}`, width - 8);
+              doc.setFont("helvetica", "normal"); doc.setFontSize(9.2); doc.setTextColor(32, 48, 71); doc.text(answerLines, m + 4, y + 4);
+              y += Math.max(18, answerLines.length * 4 + 5);
+            });
+          } else {
+            items.forEach((item) => { drawQuestion(doc, item, m, y, width); y += item.height + 2.4; });
+          }
+          drawFooter(doc, pageW, pageH, pageIndex + 1, pages.length, mode);
+        });
       });
       const blob = doc.output("blob"), url = URL.createObjectURL(blob), link = document.createElement("a");
       link.href = url; link.target = "_blank"; link.rel = "noopener"; document.body.appendChild(link); link.click(); link.remove(); setTimeout(() => URL.revokeObjectURL(url), 120000);
     } finally {
-      if (activeButton) { activeButton.disabled = false; activeButton.textContent = original || (mode === "answers" ? "Preview answer key" : "Preview practice sheet"); }
+      if (printButton) { printButton.disabled = false; printButton.textContent = original || "Print worksheet + answer key"; }
     }
   }
 
-  const buttons = ensureButtons();
-  buttons.studentButton?.addEventListener("click", () => previewPdf("student"));
-  buttons.answerButton?.addEventListener("click", () => previewPdf("answers"));
+  const printButton = ensureButtons();
+  printButton?.addEventListener("click", printWorksheet);
   }
 
   window.SkillrFoundationTopicPracticeRender = renderTopicPractice;

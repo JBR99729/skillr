@@ -25,6 +25,76 @@
       model_html:"<div class=\"model\">Plant: roots • stem • leaves<br>Bird: feathers • wings • beak • legs<br>Fish: scales • fins • tail • eyes</div>",
       apply_title:"Group by an observable rule",
       apply_html:"<div class=\"model\">body covering → feathers / fur / scales<br>movement feature → wings / fins / legs<br>plant feature → flowers / no flowers</div><p>More than one sensible grouping rule can be correct if the rule uses visible evidence.</p>",
+      vocabulary:[
+        {term:"external feature",definition:"A part or characteristic visible on the outside of a plant or animal."},
+        {term:"observe",definition:"Look closely and describe what can actually be seen."},
+        {term:"compare",definition:"Notice how visible features are the same or different."},
+        {term:"group",definition:"Put living things together because they share an observable feature."},
+        {term:"grouping rule",definition:"The visible feature used to decide what belongs in a group."},
+        {term:"evidence",definition:"The feature you can point to that supports an observation or grouping."}
+      ],
+      elaborations:[
+        {
+          label:"E1",title:"Identify fruits and vegetables as plant parts",
+          idea:"A fruit or vegetable can be identified by the plant part it comes from, using visible features rather than where it is sold or how it is eaten.",
+          teach:"Observe fruits and vegetables and identify visible plant parts",
+          steps:["Display a whole carrot with leaves, a lettuce leaf and a tomato attached to a stem or clear photographs of them.","Point to the visible evidence and label carrot as a root, lettuce as a leaf and tomato as a fruit."],
+          say:"Which plant part is this? What visible evidence supports your answer?",
+          check:"The learner identifies a root, leaf, flower or fruit and points to a relevant visible feature.",
+          fix:"Return to a whole plant diagram or specimen and trace the item back to its position on the plant.",
+          worked:"Carrot has fine side roots and grows below the stem, so we identify it as a root. Lettuce is a broad flat leaf.",
+          mistake:"Classifying only by food group, taste or supermarket category.",
+          visual:"<div class=\"model\">carrot → root<br>lettuce → leaf<br>tomato → fruit<br>broccoli → flower buds</div>"
+        },
+        {
+          label:"E2",title:"Compare humans with other animals",
+          idea:"Humans are animals. Human external features can be compared with those of other animals by naming visible similarities and differences.",
+          teach:"Recognise humans as animals and compare external features",
+          steps:["Place a photograph or outline of a person beside a familiar animal.","Name only visible features, then record one similarity and one difference."],
+          say:"What external feature do both have? What visible feature is different?",
+          check:"The learner states that humans are animals and gives an observable similarity and difference.",
+          fix:"Use a two-column Same/Different chart and ask the learner to point before explaining.",
+          worked:"A person and a dog both have eyes and legs. The person has skin with some hair; the dog has fur over most of its body.",
+          mistake:"Treating humans as separate from animals or comparing behaviour instead of external features.",
+          visual:"<div class=\"model\">person + dog<br>SAME → eyes • legs<br>DIFFERENT → skin / fur • 2 legs / 4 legs</div>"
+        },
+        {
+          label:"E3",title:"Use tools to observe more detail",
+          idea:"A magnifying glass or digital camera can reveal small external features while the observation remains based on visible evidence.",
+          teach:"Use a simple tool to identify external features",
+          steps:["Observe a leaf or safe animal photograph first without a tool.","Observe again with a magnifying glass or zoomed photograph and add one newly visible detail."],
+          say:"What could you see before? What extra external feature or detail can you see now?",
+          check:"The learner names a specific new visible detail revealed by the tool.",
+          fix:"Focus the tool on one small area and offer precise choices such as veins, hairs, edges or scales.",
+          worked:"Without the magnifier I saw a green leaf. With it I can see branching veins and tiny hairs along the edge.",
+          mistake:"Naming what the tool is rather than reporting the detail it reveals.",
+          visual:"<div class=\"model\">eyes only → leaf shape<br>magnifying glass → veins • tiny hairs • edge detail<br>camera zoom → close evidence to compare</div>"
+        },
+        {
+          label:"E4",title:"Sort animals using different visible rules",
+          idea:"The same collection of animals can be grouped in more than one correct way when each grouping uses a clear observable rule.",
+          teach:"Sort model animals and explain the grouping strategy",
+          steps:["Sort bird, fish, dog and person cards first by body covering.","Resort the same cards by movement features or number of visible legs and state the new rule."],
+          say:"What is your grouping rule? Where does each animal belong, and what feature proves it?",
+          check:"Every animal is placed consistently and the learner states one visible rule that explains all placements.",
+          fix:"Complete the sentence ‘I grouped them by…’ before moving any cards, then check each card against that rule.",
+          worked:"By body covering: bird has feathers, fish has scales, dog has fur and person has mostly visible skin. A different valid sort can use wings, fins or legs.",
+          mistake:"Changing the rule between animals or grouping by preference.",
+          visual:"<div class=\"model\">RULE 1: body covering → feathers / scales / fur / skin<br>RULE 2: movement feature → wings / fins / legs<br>same animals • different valid rules</div>"
+        },
+        {
+          label:"E5-E6",title:"Learn from local First Nations classifications",
+          idea:"First Nations Australians hold detailed, place-based knowledge of living things. Local names and groupings should be taught through an appropriate local source rather than invented or generalised.",
+          teach:"Connect observable features with a locally authorised First Nations classification",
+          steps:["Use a local Aboriginal or Torres Strait Islander community-approved resource about familiar living things.","Identify the observable features used in the named or grouping system and acknowledge the source and Country or Place."],
+          say:"Which visible features are important in this local classification? Who is the source of this knowledge?",
+          check:"The learner links a visible feature to the supplied local classification without claiming one system represents all First Nations groups.",
+          fix:"Return to the authorised local source, name the specific community or Country, and avoid substituting a generic example.",
+          worked:"Use the exact example and terminology supplied by the local community-approved resource, then point to the external features it identifies.",
+          mistake:"Presenting a generic or invented ‘First Nations’ grouping as universal.",
+          visual:"<div class=\"model\">local approved source → observe named features → record the local grouping → acknowledge community and Country or Place</div>"
+        }
+      ],
       visuals:[
         {...IMG.plant,title:"Plant features",body:"Look for roots, stems and leaves. Flowers, fruits and seeds may also be visible."},
         {...IMG.bird,title:"Bird features",body:"Feathers, wings, beak, eyes and legs are external features."},

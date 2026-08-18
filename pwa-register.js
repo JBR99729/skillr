@@ -142,6 +142,7 @@
   ];
 
   const routes = [
+    [/^\/foundation\/science\/ac9sfu01-observe-external-features-of-plants-and-animals-and-describe\/?$/i, []],
     [/^\/quiz\/grade-k\/math\/ac9mf[a-z0-9]+\/(practice|test)\/?$/i, [...foundationMathsData, "/assets/foundation-maths-practice-quick-read.js?v=7"]],
     [/^\/quiz\/grade-k\/math\/ac9mf[a-z0-9]+\/worksheet\/?$/i, foundationMathsData],
     [/^\/quiz\/grade-k\/science\/ac9s[a-z0-9]+\/(practice|test)\/?$/i, [...foundationScienceData, "/assets/foundation-science-practice-quick-read.js?v=5"]],
