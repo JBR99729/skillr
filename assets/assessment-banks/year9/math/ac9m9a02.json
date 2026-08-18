@@ -5,38 +5,15 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
-    "question": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-        "is_correct": true
-      },
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
+    "skill": "quadratic_expansion",
+    "question": "Expand (x + 3)(x + 2).",
+    "audio_prompt": "Expand (x + 3)(x + 2).",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "x² + 5x + 6", "is_correct": true}, {"text": "x² + 6x + 5", "is_correct": false}, {"text": "x² + x + 6", "is_correct": false}, {"text": "x² + 5", "is_correct": false}],
     "correct_index": 0,
-    "explanation": {
-      "summary": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-      "hint": "expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "explanation": {"summary": "Multiply each term: x² + 2x + 3x + 6 = x² + 5x + 6.", "hint": "Multiply each term and collect like terms."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a02-p-002",
@@ -44,38 +21,15 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_manipulatives_such_as_algebra_tiles_or_area_models_to_expand_or_factorise_algebraic_expressions_with_readily_identifiable_binomial_factors",
-    "question": "A Year 9 student is solving a problem involving use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The quadratic expressions model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
-      "hint": "Use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "skill": "quadratic_expansion",
+    "question": "Expand (x + 5)(x - 2).",
+    "audio_prompt": "Expand (x + 5)(x - 2).",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "x² + 3x - 10", "is_correct": true}, {"text": "x² - 3x - 10", "is_correct": false}, {"text": "x² + 7x - 10", "is_correct": false}, {"text": "x² + 3x + 10", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "x² - 2x + 5x - 10 = x² + 3x - 10.", "hint": "Expand both brackets and combine like terms."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a02-p-003",
@@ -83,38 +37,15 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "recognise_the_relationship_between_expansion_and_factorisation_and_using_digital_tools_to_systematically_explore_the_factorisation_of_x_mx_n_where_m_and_n_are_integers",
-    "question": "A Year 9 student is solving a problem involving recognise the relationship between expansion and factorisation and using digital tools to systematically explore the factorisation of x mx n where m and n are integers. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving recognise the relationship between expansion and factorisation and using digital tools to systematically explore the factorisation of x mx n where m and n are integers. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
-      "hint": "Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "skill": "factorisation",
+    "question": "Factorise x² + 7x + 12.",
+    "audio_prompt": "Factorise x² + 7x + 12.",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "(x + 3)(x + 4)", "is_correct": true}, {"text": "(x + 2)(x + 6)", "is_correct": false}, {"text": "(x - 3)(x - 4)", "is_correct": false}, {"text": "(x + 1)(x + 12)", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "Find two numbers that multiply to 12 and add to 7: 3 and 4.", "hint": "Look for factors of 12 with sum 7."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a02-p-004",
@@ -122,38 +53,15 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
-    "question": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-      "hint": "expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "skill": "factorisation",
+    "question": "Factorise x² - x - 12.",
+    "audio_prompt": "Factorise x² - x - 12.",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "(x - 4)(x + 3)", "is_correct": true}, {"text": "(x + 4)(x - 3)", "is_correct": false}, {"text": "(x - 6)(x + 2)", "is_correct": false}, {"text": "(x - 12)(x + 1)", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "The numbers -4 and 3 multiply to -12 and add to -1.", "hint": "Find factors of -12 with sum -1."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a02-p-005",
@@ -161,38 +69,15 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_manipulatives_such_as_algebra_tiles_or_area_models_to_expand_or_factorise_algebraic_expressions_with_readily_identifiable_binomial_factors",
-    "question": "A Year 9 student is solving a problem involving use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
-        "is_correct": true
-      },
-      {
-        "text": "The quadratic expressions model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
+    "skill": "perfect_square",
+    "question": "Expand (x + 4)².",
+    "audio_prompt": "Expand (x + 4)².",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "x² + 8x + 16", "is_correct": true}, {"text": "x² + 16", "is_correct": false}, {"text": "x² + 4x + 16", "is_correct": false}, {"text": "x² + 8x + 8", "is_correct": false}],
     "correct_index": 0,
-    "explanation": {
-      "summary": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
-      "hint": "Use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "explanation": {"summary": "(x+4)² = x² + 8x + 16.", "hint": "Use (a+b)² = a² + 2ab + b²."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a02-p-006",
@@ -200,38 +85,15 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "recognise_the_relationship_between_expansion_and_factorisation_and_using_digital_tools_to_systematically_explore_the_factorisation_of_x_mx_n_where_m_and_n_are_integers",
-    "question": "A Year 9 student is solving a problem involving recognise the relationship between expansion and factorisation and using digital tools to systematically explore the factorisation of x mx n where m and n are integers. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving recognise the relationship between expansion and factorisation and using digital tools to systematically explore the factorisation of x mx n where m and n are integers. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
-      "hint": "Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "skill": "difference_of_squares",
+    "question": "Factorise x² - 25.",
+    "audio_prompt": "Factorise x² - 25.",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "(x - 5)(x + 5)", "is_correct": true}, {"text": "(x - 25)(x + 1)", "is_correct": false}, {"text": "(x - 5)²", "is_correct": false}, {"text": "(x + 5)²", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "x² - 25 = x² - 5² = (x-5)(x+5).", "hint": "Use the difference of two squares."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a02-p-007",
@@ -239,38 +101,15 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
-    "question": "What should you check when using expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers?",
-    "audio_prompt": "What should you check when using expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-      "hint": "expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "skill": "quadratic_expansion",
+    "question": "Expand (2x + 3)(x + 4).",
+    "audio_prompt": "Expand (2x + 3)(x + 4).",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "2x² + 11x + 12", "is_correct": true}, {"text": "2x² + 8x + 12", "is_correct": false}, {"text": "2x² + 7x + 12", "is_correct": false}, {"text": "2x² + 11x + 7", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "2x² + 8x + 3x + 12 = 2x² + 11x + 12.", "hint": "Expand each product and combine like terms."},
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "ac9m9a02-p-008",
@@ -278,333 +117,142 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_manipulatives_such_as_algebra_tiles_or_area_models_to_expand_or_factorise_algebraic_expressions_with_readily_identifiable_binomial_factors",
-    "question": "What should you check when using use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors?",
-    "audio_prompt": "What should you check when using use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The quadratic expressions model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
-      "hint": "Use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors."
-    },
+    "skill": "factorisation",
+    "question": "Factorise x² + 2x - 15.",
+    "audio_prompt": "Factorise x² + 2x - 15.",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "(x + 5)(x - 3)", "is_correct": true}, {"text": "(x + 3)(x - 5)", "is_correct": false}, {"text": "(x + 15)(x - 1)", "is_correct": false}, {"text": "(x - 5)(x - 3)", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "5 and -3 multiply to -15 and add to 2.", "hint": "Find factors of -15 with sum 2."},
+    "difficulty": 1,
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9m9a02-t-009",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "quadratic_expansion",
+    "question": "Expand (3x - 2)(x + 5).",
+    "audio_prompt": "Expand (3x - 2)(x + 5).",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "3x² + 13x - 10", "is_correct": true}, {"text": "3x² + 17x - 10", "is_correct": false}, {"text": "3x² - 13x - 10", "is_correct": false}, {"text": "3x² + 13x + 10", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "3x² + 15x - 2x - 10 = 3x² + 13x - 10.", "hint": "Expand and collect like terms."},
     "difficulty": 2,
     "sequence_priority": 2
   },
   {
-    "id": "ac9m9a02-t-001",
+    "id": "ac9m9a02-t-010",
     "curriculum_code": "AC9M9A02",
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "recognise_the_relationship_between_expansion_and_factorisation_and_using_digital_tools_to_systematically_explore_the_factorisation_of_x_mx_n_where_m_and_n_are_integers",
-    "question": "Which response correctly uses recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers?",
-    "audio_prompt": "Which response correctly uses recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
-        "is_correct": true
-      },
-      {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
+    "skill": "factorisation",
+    "question": "Factorise 2x² + 7x + 3.",
+    "audio_prompt": "Factorise 2x² + 7x + 3.",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "(2x + 1)(x + 3)", "is_correct": true}, {"text": "(2x + 3)(x + 1)", "is_correct": false}, {"text": "(x + 1)(x + 3)", "is_correct": false}, {"text": "(2x - 1)(x - 3)", "is_correct": false}],
     "correct_index": 0,
-    "explanation": {
-      "summary": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
-      "hint": "Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers."
-    }
+    "explanation": {"summary": "(2x+1)(x+3)=2x²+7x+3.", "hint": "Check the middle term after expansion."},
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
-    "id": "ac9m9a02-t-002",
+    "id": "ac9m9a02-t-011",
     "curriculum_code": "AC9M9A02",
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
-    "question": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-      "hint": "expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers."
-    }
-  },
-  {
-    "id": "ac9m9a02-t-003",
-    "curriculum_code": "AC9M9A02",
-    "year_level": "Year 9",
-    "subject": "math",
-    "bank": "test",
-    "skill": "use_manipulatives_such_as_algebra_tiles_or_area_models_to_expand_or_factorise_algebraic_expressions_with_readily_identifiable_binomial_factors",
-    "question": "A Year 9 student is solving a problem involving use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The quadratic expressions model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
-      "hint": "Use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors."
-    }
-  },
-  {
-    "id": "ac9m9a02-t-004",
-    "curriculum_code": "AC9M9A02",
-    "year_level": "Year 9",
-    "subject": "math",
-    "bank": "test",
-    "skill": "recognise_the_relationship_between_expansion_and_factorisation_and_using_digital_tools_to_systematically_explore_the_factorisation_of_x_mx_n_where_m_and_n_are_integers",
-    "question": "A Year 9 student is solving a problem involving recognise the relationship between expansion and factorisation and using digital tools to systematically explore the factorisation of x mx n where m and n are integers. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving recognise the relationship between expansion and factorisation and using digital tools to systematically explore the factorisation of x mx n where m and n are integers. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
-      "hint": "Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers."
-    }
-  },
-  {
-    "id": "ac9m9a02-t-005",
-    "curriculum_code": "AC9M9A02",
-    "year_level": "Year 9",
-    "subject": "math",
-    "bank": "test",
-    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
-    "question": "When would you use expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers?",
-    "audio_prompt": "When would you use expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-        "is_correct": true
-      },
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
+    "skill": "perfect_square",
+    "question": "Which expression is equal to x² - 10x + 25?",
+    "audio_prompt": "Which expression is equal to x² - 10x + 25?",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "(x - 5)²", "is_correct": true}, {"text": "(x + 5)²", "is_correct": false}, {"text": "(x - 25)(x + 1)", "is_correct": false}, {"text": "(x - 10)²", "is_correct": false}],
     "correct_index": 0,
-    "explanation": {
-      "summary": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-      "hint": "expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers."
-    }
+    "explanation": {"summary": "x² - 10x + 25 is the perfect square (x-5)².", "hint": "Compare with (x-a)² = x² - 2ax + a²."},
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
-    "id": "ac9m9a02-t-006",
+    "id": "ac9m9a02-t-012",
     "curriculum_code": "AC9M9A02",
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "use_manipulatives_such_as_algebra_tiles_or_area_models_to_expand_or_factorise_algebraic_expressions_with_readily_identifiable_binomial_factors",
-    "question": "When would you use use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors?",
-    "audio_prompt": "When would you use use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The quadratic expressions model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
-        "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "using manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors; for example, (x+1)(x+3)\\;=\\;x^2+4x+3,\\;(x-5)^2\\;=\\;x^2-10x+25 or (x-3)^2+4\\;=\\;x^2-6x+9+4\\;=\\;x^2-6x+13",
-      "hint": "Use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors."
-    }
+    "skill": "factorisation",
+    "question": "Factorise 4x² - 9.",
+    "audio_prompt": "Factorise 4x² - 9.",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "(2x - 3)(2x + 3)", "is_correct": true}, {"text": "(4x - 3)(x + 3)", "is_correct": false}, {"text": "(2x - 9)(2x + 1)", "is_correct": false}, {"text": "(4x - 9)(x + 1)", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "4x² - 9 = (2x)² - 3².", "hint": "Use a²-b²=(a-b)(a+b)."},
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
-    "id": "ac9m9a02-t-007",
+    "id": "ac9m9a02-t-013",
     "curriculum_code": "AC9M9A02",
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "recognise_the_relationship_between_expansion_and_factorisation_and_using_digital_tools_to_systematically_explore_the_factorisation_of_x_mx_n_where_m_and_n_are_integers",
-    "question": "When would you use recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers?",
-    "audio_prompt": "When would you use recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
-        "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "recognising the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x^2+mx+n where m and n are integers",
-      "hint": "Recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers."
-    }
+    "skill": "quadratic_expansion",
+    "question": "Expand and simplify (x + 2)(x - 3) + 4x.",
+    "audio_prompt": "Expand and simplify (x + 2)(x - 3) + 4x.",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "x² + 3x - 6", "is_correct": true}, {"text": "x² - 5x - 6", "is_correct": false}, {"text": "x² + x - 6", "is_correct": false}, {"text": "x² + 3x + 6", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "First expand to x² - x - 6, then add 4x.", "hint": "Expand the brackets before adding 4x."},
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
-    "id": "ac9m9a02-t-008",
+    "id": "ac9m9a02-t-014",
     "curriculum_code": "AC9M9A02",
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "expanding_combinations_of_binomials_such_as_x_7_x_8_x_7_x_8_x_7_x_8_x_7_x_8_to_identify_expansion_and_factorisation_patterns_related_to_x_a_x_b_x_a_b_x_ab_where_a_and_b_are_integers",
-    "question": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
-    "audio_prompt": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A rule is applied without preserving equivalence or its conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "expanding combinations of binomials such as (x+7)(x+8),\\;(x+7)(x-8),\\;(x-7)(x+8),\\;(x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b)\\;=\\;x^2+(a+b)x+ab, where a and b are integers",
-      "hint": "expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers."
-    }
+    "skill": "factorisation",
+    "question": "Factorise 3x² - 12x.",
+    "audio_prompt": "Factorise 3x² - 12x.",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "3x(x - 4)", "is_correct": true}, {"text": "3x(x + 4)", "is_correct": false}, {"text": "x(3x - 4)", "is_correct": false}, {"text": "3(x² - 4)", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "Take out the common factor 3x.", "hint": "Find the greatest common factor."},
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9a02-t-015",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "factorisation",
+    "question": "Factorise 2x² - x - 6.",
+    "audio_prompt": "Factorise 2x² - x - 6.",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "(2x + 3)(x - 2)", "is_correct": true}, {"text": "(2x - 3)(x + 2)", "is_correct": false}, {"text": "(x - 3)(2x + 2)", "is_correct": false}, {"text": "(2x + 1)(x - 6)", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "(2x+3)(x-2)=2x²-x-6.", "hint": "Check by expanding each option."},
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9a02-t-016",
+    "curriculum_code": "AC9M9A02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "quadratic_expansion",
+    "question": "If (x + a)(x + 4) = x² + 9x + 20, find a.",
+    "audio_prompt": "If (x + a)(x + 4) = x² + 9x + 20, find a.",
+    "visual": {"type": "none", "alt_text": ""},
+    "answers": [{"text": "5", "is_correct": true}, {"text": "4", "is_correct": false}, {"text": "9", "is_correct": false}, {"text": "20", "is_correct": false}],
+    "correct_index": 0,
+    "explanation": {"summary": "The constant term is 4a=20, so a=5; this also gives 5+4=9.", "hint": "Compare the constant and middle terms."},
+    "difficulty": 4,
+    "sequence_priority": 2
   }
 ]
