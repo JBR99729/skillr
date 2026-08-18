@@ -239,6 +239,8 @@ def worksheet_url(unit: dict[str, Any]) -> str:
 
 
 def teacher_slide_url(unit: dict[str, Any]) -> str:
+    if unit["yearFolder"] == "foundation":
+        return f"/worksheets/foundation/{unit['subjectSlug']}/teacher-slides/live.html?code={unit['code']}"
     return f"/worksheets/{unit['yearFolder']}/{unit['subjectSlug']}/teacher-slides/{unit['code'].lower()}-teacher-slide.pdf"
 
 

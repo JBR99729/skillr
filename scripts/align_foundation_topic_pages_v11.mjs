@@ -48,6 +48,18 @@ function removeOldScripts(html) {
     .replace(/\s*<script>document\.body\.dataset\.skillrPreserveTopic="true";<\/script>/g, "");
 }
 
+function liveSlideUrl(subject, code) {
+  return `/worksheets/foundation/${subject}/teacher-slides/live.html?code=${code}`;
+}
+
+const manifestPath = path.join(root, "data", "curriculum-units.json");
+const manifest = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
+for (const unit of manifest.units) {
+  if (unit.yearNumber !== 0) continue;
+  unit.teacherSlideUrl = liveSlideUrl(unit.subjectSlug, unit.code);
+}
+fs.writeFileSync(manifestPath, `${JSON.stringify(manifest, null, 2)}\n`, "utf8");
+
 let updated = 0;
 for (const [subject, config] of Object.entries(subjects)) {
   const subjectDir = path.join(root, "foundation", subject);
@@ -57,7 +69,12 @@ for (const [subject, config] of Object.entries(subjects)) {
     if (!fs.existsSync(filePath)) continue;
     let html = fs.readFileSync(filePath, "utf8");
     const code = codeFromHtml(html);
+    if (!code) throw new Error(`Missing curriculum code in ${filePath}`);
     html = removeOldScripts(html);
+    html = html
+      .replace(new RegExp(`/worksheets/foundation/${subject}/teacher-slides/${code.toLowerCase()}-teacher-slide\\.pdf`, "g"), liveSlideUrl(subject, code))
+      .replace(/Use this one-page PDF to introduce the key idea, vocabulary and teaching sequence before students begin the activities\./g, "Open the live classroom sequence to teach the key idea, vocabulary and worked examples before students begin the activities.")
+      .replace(/Open teacher slide \(PDF\)/g, "Open teacher slides");
     const preserve = config.preserve.has(code)
       ? '<script>document.body.dataset.skillrPreserveTopic="true";</script>'
       : "";
