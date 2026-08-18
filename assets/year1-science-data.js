@@ -211,4 +211,10 @@
       questions: unit.worksheet
     }])
   );
+
+  if (location.pathname.includes("/worksheets/year1/science/teacher-slides/")) {
+    const slides = document.createElement("script");
+    slides.src = "/assets/year1-slides-v11.js?v=1";
+    document.head.appendChild(slides);
+  }
 })();

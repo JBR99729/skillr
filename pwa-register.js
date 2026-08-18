@@ -88,8 +88,9 @@
   ];
 
   const year1MathsData = ["/assets/year1-maths-data.js?v=2"];
-  const year1ScienceData = ["/assets/year1-science-data.js?v=2"];
+  const year1ScienceData = ["/assets/year1-science-data.js?v=3"];
   const year1EnglishData = ["/assets/year1-english-data.js?v=2"];
+  const year1Slides = ["/assets/year1-slides-v11.js?v=1"];
 
   const year2MathsData = ["/assets/year2-maths-data.js?v=3", "/assets/year2-maths-data-extra.js?v=2"];
   const year2ScienceData = ["/assets/year2-science-data.js?v=2"];
@@ -153,12 +154,15 @@
     [/^\/foundation\/english\/ac9ef/i, [...foundationEnglishData, ...foundationEnglishTopicModules, "/assets/foundation-english-render.js?v=20260814-foundation-english-topic2"]],
 
     [/^\/year1\/maths\/ac9m1/i, [...year1MathsData, "/assets/year1-maths-render.js?v=2"]],
+    [/^\/worksheets\/year1\/maths\/teacher-slides\/live\.html$/i, year1Slides],
     [/^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/(practice|test)\/?$/i, [...year1MathsData, "/assets/year1-maths-practice-quick-read.js?v=3"]],
     [/^\/quiz\/year-1\/math\/ac9m1[a-z0-9]+\/worksheet\/?$/i, [...year1MathsData, "/assets/year1-maths-worksheet-page.js?v=3"]],
     [/^\/year1\/science\/ac9s1/i, [...year1ScienceData, "/assets/year1-science-render.js?v=2"]],
+    [/^\/worksheets\/year1\/science\/teacher-slides\/live\.html$/i, year1Slides],
     [/^\/quiz\/year-1\/science\/ac9s1[a-z0-9]+\/(practice|test)\/?$/i, [...year1ScienceData, "/assets/year1-science-practice-quick-read.js?v=2"]],
     [/^\/quiz\/year-1\/science\/ac9s1[a-z0-9]+\/worksheet\/?$/i, [...year1ScienceData, "/assets/year1-science-worksheet-page.js?v=2"]],
     [/^\/year1\/english\/ac9e1/i, [...year1EnglishData, "/assets/year1-english-render.js?v=2"]],
+    [/^\/worksheets\/year1\/english\/teacher-slides\/live\.html$/i, year1Slides],
     [/^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/(practice|test)\/?$/i, [...year1EnglishData, "/assets/year1-english-practice-quick-read.js?v=2"]],
     [/^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/worksheet\/?$/i, [...year1EnglishData, "/assets/year1-english-worksheet-page.js?v=2"]],
 
