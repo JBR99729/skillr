@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10h04-p-001",
-    "curriculumCode": "AC9S10H04",
-    "bank": "practice",
-    "skill": "use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
-      "Scientists freely choose research without constraints",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities\nHint: Use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
-      "hint": "Use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h04-p-002",
-    "curriculumCode": "AC9S10H04",
-    "bank": "practice",
-    "skill": "use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Funded research is automatically biased or invalid",
-      "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians\nHint: Use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
-      "hint": "Use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h04-p-003",
-    "curriculumCode": "AC9S10H04",
-    "bank": "practice",
-    "skill": "use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Scientists freely choose research without constraints",
-      "The method can be chosen without checking the values or conditions",
-      "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out\nHint: Use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
-      "hint": "Use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h04-p-004",
-    "curriculumCode": "AC9S10H04",
-    "bank": "practice",
-    "skill": "use the link between scientific research and real world applications to make the role of research question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the link between scientific research and real world applications to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the link between scientific research and real world applications to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Funded research is automatically biased or invalid",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining the link between scientific research and real-world applications such as space research and new material development"
-    ],
-    "correct": 3,
-    "explanation": "examining the link between scientific research and real-world applications such as space research and new material development\nHint: Use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the link between scientific research and real-world applications such as space research and new material development",
-      "hint": "Use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h04-p-005",
-    "curriculumCode": "AC9S10H04",
-    "bank": "practice",
-    "skill": "use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
-      "Scientists freely choose research without constraints",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities\nHint: Use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
-      "hint": "Use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h04-p-006",
-    "curriculumCode": "AC9S10H04",
-    "bank": "practice",
-    "skill": "use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Funded research is automatically biased or invalid",
-      "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians\nHint: Use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
-      "hint": "Use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h04-p-007",
-    "curriculumCode": "AC9S10H04",
-    "bank": "practice",
-    "skill": "use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Scientists freely choose research without constraints",
-      "The method can be chosen without checking the values or conditions",
-      "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out\nHint: Use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
-      "hint": "Use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10h04-p-008",
-    "curriculumCode": "AC9S10H04",
-    "bank": "practice",
-    "skill": "use the link between scientific research and real world applications to make the role of research question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the link between scientific research and real world applications to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the link between scientific research and real world applications to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Funded research is automatically biased or invalid",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining the link between scientific research and real-world applications such as space research and new material development"
-    ],
-    "correct": 3,
-    "explanation": "examining the link between scientific research and real-world applications such as space research and new material development\nHint: Use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the link between scientific research and real-world applications such as space research and new material development",
-      "hint": "Use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const skillrRawQuestions = [
+["genetic testing","A couple learn they are both carriers for cystic fibrosis. What is the main purpose of genetic counselling?",["To choose a baby's appearance","To explain inheritance risks and reproductive options","To remove the faulty allele from both parents","To guarantee an unaffected child"],1,"Genetic counselling supports informed decisions by explaining inheritance risks, test results and available options.","Counselling informs decisions; it does not guarantee outcomes."],
+["genetic testing","Carrier testing is most useful for identifying whether a person:",["Has an infectious disease","Carries a recessive disease allele without necessarily being affected","Will definitely develop a genetic disorder","Has a chromosomal abnormality visible in a karyotype"],1,"Carrier testing can identify people who carry one recessive disease allele and may pass it to children.","Think recessive inheritance."],
+["genetic testing","A family uses IVF with embryo testing to reduce the chance of a severe inherited disorder. Which societal value most directly supports this use?",["Reducing serious disease risk","Selecting fashionable traits","Avoiding all medical uncertainty","Replacing genetic counselling"],0,"The practice reflects a value placed on reducing the risk of serious inherited disease while still involving ethical choices.","Focus on the health-related purpose."],
+["genetic ethics","An organisation asks applicants to provide genetic test results before offering a service. What is the strongest ethical concern?",["Genetic data may be used for discrimination","DNA cannot be stored securely","Genetic tests always give false results","Genetic information has no health relevance"],0,"Genetic information is sensitive and can create privacy and discrimination concerns when used by organisations.","Think privacy, consent and fair treatment."],
+["genetic testing","Which statement best describes a limitation of personal genetic risk tests?",["A risk result is not a certain prediction of disease","They directly change a person's DNA","They detect every possible health condition","They replace medical diagnosis"],0,"Many tests estimate risk rather than certainty because disease can depend on multiple genes and environmental factors.","Risk is not the same as diagnosis."],
+["genetic testing","A hospital uses a genetic test to guide treatment for an inherited condition. This best illustrates how societal need can influence science by:",["Creating demand for clinically useful genetic research","Proving all genetic tests are accurate","Removing ethical requirements","Making research independent of funding"],0,"Health needs can direct research and technology toward tests and treatments with practical clinical value.","Connect medical need to research focus."],
+["history and society","Historical scientific misconceptions about heredity were used in Australia to support discriminatory policies toward First Nations Australians. What does this show?",["Scientific claims can be shaped or misused within prevailing social values","Scientific evidence is never useful in policy","Modern genetics supports those historical ideas","Social values cannot influence science"],0,"Scientific ideas can be interpreted or misused through social values and power structures, with serious consequences.","The issue is the interaction between science, values and policy."],
+["history and society","Which response best avoids repeating historical misuse of science?",["Evaluate evidence critically and consider ethical and social consequences","Assume published claims are automatically neutral","Use scientific labels to rank groups of people","Ignore affected communities when developing policy"],0,"Critical evidence evaluation, ethics and attention to affected communities help prevent harmful misuse.","Good science includes evidence and ethical responsibility."],
+["history and society","Why is it inaccurate to say historical discriminatory policies were simply 'caused by science'?",["Social values and power shaped how flawed scientific ideas were interpreted and applied","Scientists had no influence on society","Heredity was completely understood at the time","Policies were based only on modern genetics"],0,"The harm arose from the interaction of flawed science, social values, institutions and power—not science acting alone.","Separate evidence from how society applies it."],
+["funding","Why can funding influence the direction of scientific research?",["Projects need resources, equipment and skilled people to proceed","Funding guarantees correct conclusions","Only commercial research requires money","Scientists cannot propose their own questions"],0,"Research requires resources, so funding decisions can enable some questions while constraining others.","Think capacity, not guaranteed success."],
+["funding","A government increases funding for bushfire prediction after severe fire seasons. What most directly explains the change?",["A heightened societal need changed research priorities","Bushfires became scientifically simpler","Funding removed uncertainty from prediction","All other research became unimportant"],0,"Societal needs can redirect public funding toward urgent risks and practical solutions.","Link need to priority."],
+["funding","A company funds research into longer-lasting batteries. Which factor most likely shapes its priority?",["Potential commercial and technological benefit","A requirement that research have no application","A guarantee the project will succeed","A wish to reduce product performance"],0,"Commercial organisations often fund research that may lead to useful products, competitive advantage or new markets.","Commercial value can shape research focus."],
+["funding","Which statement about commercially funded research is most scientifically defensible?",["Funding source can create interests that should be disclosed and managed, but does not automatically invalidate findings","Commercial funding makes results false","Government funding removes all bias","Funding has no possible influence on research priorities"],0,"Funding interests should be transparent and managed, while evidence and methods still determine scientific quality.","Avoid assuming funded research is automatically invalid."],
+["funding","A promising project cannot continue because specialist equipment is unaffordable. This best demonstrates:",["A capacity constraint on what research can be carried out","That the hypothesis must be wrong","That society has rejected the science","That unfunded research is always low quality"],0,"Infrastructure and financial capacity can limit whether scientifically worthwhile questions are investigated.","Resources can constrain research."],
+["funding","Two equally strong proposals compete for one grant. Choosing the project with the larger expected public-health benefit illustrates:",["An opportunity-cost decision about research priorities","Proof that the other project is invalid","Removal of ethical considerations","A guarantee of successful results"],0,"Limited funding means prioritising one project can delay another; this is an opportunity cost.","Limited resources require choices."],
+["research applications","Why is the link between scientific research and real-world applications often two-way?",["Research can create technologies, while practical problems can generate new research questions","Applications always come before science","Science never changes after a technology is built","Engineering and science are unrelated"],0,"Scientific knowledge enables applications, and application challenges can reveal new questions for further research.","Think feedback loop."],
+["space research","Which is the strongest reason society may fund space research?",["It can produce scientific knowledge and technologies with broader applications","Every space mission directly produces GPS","It eliminates risk from natural disasters","It has no opportunity cost"],0,"Space research can expand knowledge and contribute technologies or methods with uses beyond the original mission.","Avoid claiming every project has the same benefit."],
+["materials science","Engineers request a lighter material that remains strong at high temperature. How can this societal or technological need influence science?",["It can direct materials research toward relevant structures and properties","It proves an existing material is unsafe","It removes the need for testing","It guarantees a new alloy will be discovered"],0,"Engineering needs can focus scientific investigation on material properties that solve practical problems.","A practical need can become a research question."],
+["materials science","Why are thin films scientifically important in technologies such as solar cells and electronics?",["Their properties can be engineered at very small thicknesses for specific functions","They always conduct better than bulk materials","They make devices heavier","They eliminate manufacturing trade-offs"],0,"Thin-film thickness, composition and structure can be controlled to provide useful optical or electrical properties.","Focus on tunable material properties."],
+["science and society","Which example best shows societal values influencing research, rather than only scientific curiosity?",["Funding research into low-emission technologies because reducing climate risk is a public priority","Measuring an unknown constant with no stated application","Repeating an experiment solely to practise a technique","Naming a newly discovered mineral"],0,"Values and perceived needs can direct resources toward particular scientific questions.","Look for a social priority driving the question."],
+["science and society","Why should scientists distinguish between a societal priority and scientific evidence?",["A topic can be socially important without that importance determining what the evidence shows","Social priorities make experiments unnecessary","Evidence is determined by public opinion","Only unpopular topics can be objective"],0,"Society can choose what to investigate, but evidence must still be evaluated using scientific methods.","Priority affects focus, not what results are true."],
+["ethics","Why can ethical concerns change a research program even when the scientific question is valuable?",["Research methods must also protect participants and affected groups","Ethics makes scientific evidence irrelevant","Ethical review guarantees positive results","Useful questions never involve ethical trade-offs"],0,"Scientific value does not remove responsibilities such as consent, privacy, safety and fair treatment.","Good research must be both scientifically and ethically defensible."],
+["research priorities","What is the best evidence that society has influenced a research priority?",["Funding and infrastructure shift toward a problem identified as socially important","A scientist personally finds a topic interesting","One experiment produces an unexpected result","A textbook adds a new diagram"],0,"Changes in funding, infrastructure or policy toward a societal need are direct indicators of changed research priorities.","Look for resources following a social need."],
+["research priorities","Which statement best summarises AC9S10H04?",["Societal needs, values, ethics, funding and capacity can shape which scientific questions receive attention","Society determines whether scientific results are true","Scientists choose research without constraints","Only governments influence research"],0,"The code focuses on how societal factors shape research focus without replacing scientific standards of evidence.","Society shapes priorities, not truth." ]
 ];
+window.skillrPracticeQuestions = skillrRawQuestions.map((q,i)=>({id:`ac9s10h04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10H04",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:`${q[4]}\nHint: ${q[5]}`,structuredExplanation:{summary:q[4],hint:q[5]},qualitySchema:"production-v1"}));
 window.quizQuestions = window.skillrPracticeQuestions;
