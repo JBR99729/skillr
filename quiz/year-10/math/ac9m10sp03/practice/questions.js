@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m10sp03-p-001",
-    "curriculumCode": "AC9M10SP03",
-    "bank": "practice",
-    "skill": "design and making scale models of three dimensional objects using digital tools",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations\nHint: Design and making scale models of three-dimensional objects using digital tools.",
-    "structuredExplanation": {
-      "summary": "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations",
-      "hint": "Design and making scale models of three-dimensional objects using digital tools."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp03-p-002",
-    "curriculumCode": "AC9M10SP03",
-    "bank": "practice",
-    "skill": "apply a computational thinking approach to solving problems involving networks",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving apply a computational thinking approach to solving problems involving networks. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving apply a computational thinking approach to solving problems involving networks. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The spatial algorithms and design model is copied without interpretation",
-      "applying a computational thinking approach to solving problems involving networks; for example, connectedness, coverage and weighted measures; taking different routes and choosing the most efficient route to take when travelling by car using virtual map software",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "applying a computational thinking approach to solving problems involving networks; for example, connectedness, coverage and weighted measures; taking different routes and choosing the most efficient route to take when travelling by car using virtual map software\nHint: Apply a computational thinking approach to solving problems involving networks.",
-    "structuredExplanation": {
-      "summary": "applying a computational thinking approach to solving problems involving networks; for example, connectedness, coverage and weighted measures; taking different routes and choosing the most efficient route to take when travelling by car using virtual map software",
-      "hint": "Apply a computational thinking approach to solving problems involving networks."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp03-p-003",
-    "curriculumCode": "AC9M10SP03",
-    "bank": "practice",
-    "skill": "defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem; for example, designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem; for example, designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items\nHint: defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem.",
-    "structuredExplanation": {
-      "summary": "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem; for example, designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items",
-      "hint": "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp03-p-004",
-    "curriculumCode": "AC9M10SP03",
-    "bank": "practice",
-    "skill": "designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output"
-    ],
-    "correct": 3,
-    "explanation": "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output\nHint: designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output.",
-    "structuredExplanation": {
-      "summary": "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output",
-      "hint": "designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp03-p-005",
-    "curriculumCode": "AC9M10SP03",
-    "bank": "practice",
-    "skill": "explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "exploring geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation",
-      "The spatial algorithms and design model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "exploring geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation\nHint: Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation.",
-    "structuredExplanation": {
-      "summary": "exploring geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation",
-      "hint": "Explore geospatial technologies used by First Nations Australians’ communities to consider spatial problems including position and transformation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp03-p-006",
-    "curriculumCode": "AC9M10SP03",
-    "bank": "practice",
-    "skill": "design and making scale models of three dimensional objects using digital tools",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations\nHint: Design and making scale models of three-dimensional objects using digital tools.",
-    "structuredExplanation": {
-      "summary": "designing and making scale models of three-dimensional objects using digital tools; for example, making components of a puzzle using a three-dimensional printer, planning and designing the puzzle using principles of tessellations",
-      "hint": "Design and making scale models of three-dimensional objects using digital tools."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp03-p-007",
-    "curriculumCode": "AC9M10SP03",
-    "bank": "practice",
-    "skill": "apply a computational thinking approach to solving problems involving networks",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving apply a computational thinking approach to solving problems involving networks. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving apply a computational thinking approach to solving problems involving networks. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "applying a computational thinking approach to solving problems involving networks; for example, connectedness, coverage and weighted measures; taking different routes and choosing the most efficient route to take when travelling by car using virtual map software",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "applying a computational thinking approach to solving problems involving networks; for example, connectedness, coverage and weighted measures; taking different routes and choosing the most efficient route to take when travelling by car using virtual map software\nHint: Apply a computational thinking approach to solving problems involving networks.",
-    "structuredExplanation": {
-      "summary": "applying a computational thinking approach to solving problems involving networks; for example, connectedness, coverage and weighted measures; taking different routes and choosing the most efficient route to take when travelling by car using virtual map software",
-      "hint": "Apply a computational thinking approach to solving problems involving networks."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp03-p-008",
-    "curriculumCode": "AC9M10SP03",
-    "bank": "practice",
-    "skill": "defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The spatial algorithms and design model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem; for example, designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items"
-    ],
-    "correct": 3,
-    "explanation": "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem; for example, designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items\nHint: defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem.",
-    "structuredExplanation": {
-      "summary": "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem; for example, designing a floor plan for a department store that limits congestion at key areas such as checkouts, changing rooms and popular sale items",
-      "hint": "defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem."
-    },
-    "qualitySchema": "production-v1"
-  }
-];
-window.quizQuestions = window.skillrPracticeQuestions;
+const NOTE="Draw/sketch the diagram in your notes, then answer. ";
+const Q=(id,n,s,q,a,c,e)=>({id,curriculumCode:"AC9M10SP03",bank:"practice",section:s,sourceNumber:n,skill:s,printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:"Construct or imagine the diagram, then apply the spatial rule or algorithm."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q("ac9m10sp03-p-001",1,"Transformations",NOTE+"Draw an L-shape and a vertical mirror line. Reflect the L-shape across the line. Which transformation occurred?",["Translation","Rotation","Reflection","Enlargement"],2,"A mirror image across a line is a reflection."),
+Q("ac9m10sp03-p-002",2,"Algorithms",NOTE+"Sketch this flowchart: Start → move one step → 'Target reached?' → No loops back to move; Yes goes to Stop. What process is shown?",["Check congruence once","Repeat until a condition is met","Measure one angle","Draw a perpendicular bisector"],1,"The move repeats until the target condition is satisfied."),
+Q("ac9m10sp03-p-003",3,"Transformations",NOTE+"Plot A(2,3) and A′(2,-3). Which transformation maps A to A′?",["Reflection in the x-axis","Reflection in the y-axis","Rotation 180° about the origin","Translation 6 units down"],0,"Reflection in the x-axis maps (x,y) to (x,-y)."),
+Q("ac9m10sp03-p-004",4,"Pathfinding",NOTE+"Sketch a 5×5 grid with a start cell, a goal cell and several blocked cells. Which algorithm is designed to find a shortest route when moves have non-negative costs?",["Random walk","Dijkstra's algorithm","Colour fill","Sorting algorithm"],1,"Dijkstra's algorithm finds minimum-cost paths with non-negative weights."),
+Q("ac9m10sp03-p-005",5,"3D transformations",NOTE+"Sketch a simple 3D staircase of cubes. Imagine rotating it 90° about a vertical axis. Which property changes?",["Orientation in space","Size","Edge lengths","Angle measures"],0,"A rigid rotation changes orientation but preserves lengths, angles and size."),
+Q("ac9m10sp03-p-006",6,"Transformations",NOTE+"Draw any triangle and move every vertex 4 units right. Which translation vector describes the movement?",["(4,0)","(0,4)","(-4,0)","(0,-4)"],0,"Moving right 4 units adds 4 to x and 0 to y."),
+Q("ac9m10sp03-p-007",7,"Design cycle",NOTE+"Draw a cycle with Design → Test → ? → Refine → back to Design. Which step belongs in the gap?",["Guess","Evaluate","Delete","Colour"],1,"Testing should be followed by evaluation before refinement."),
+Q("ac9m10sp03-p-008",8,"Spatial algorithms",NOTE+"Sketch a rectangular region and a point P. An algorithm checks whether P satisfies all four boundary inequalities. What property is being tested?",["Area","Connectedness","Inclusion","Congruence"],2,"It is testing whether the point lies inside the region."),
+Q("ac9m10sp03-p-009",9,"Movement algorithms",NOTE+"On grid paper mark a start point. Move 3 squares right, then 2 squares up. Where are you relative to the start?",["3 right, 2 up","2 right, 3 up","3 left, 2 down","2 left, 3 down"],0,"The displacement is (+3,+2)."),
+Q("ac9m10sp03-p-010",10,"Digital tools","Which digital tool is most suitable for constructing a triangle and interactively testing rotations, translations and reflections?",["Spreadsheet","Dynamic geometry software","Text editor","Basic calculator"],1,"Dynamic geometry software is designed for interactive constructions and transformations."),
+Q("ac9m10sp03-p-011",11,"Transformations",NOTE+"Draw an arrow pointing east, then rotate it 180° about its centre. Which property is preserved?",["Direction","Area","Position","Coordinates"],1,"Rotations preserve area, lengths and angles."),
+Q("ac9m10sp03-p-012",12,"Pathfinding",NOTE+"Draw four locations joined by roads with travel times written on the roads, and mark one road closed. Which algorithm can find the least-time route?",["Straight-line rule","Dijkstra's algorithm","Random choice","Alphabetical sorting"],1,"Dijkstra's algorithm minimises the total route weight."),
+Q("ac9m10sp03-p-013",13,"Symmetry",NOTE+"Sketch each candidate shape mentally. Which always has two lines of reflection symmetry?",["Scalene triangle","Rectangle","Irregular pentagon","General parallelogram"],1,"Every rectangle has two reflection axes."),
+Q("ac9m10sp03-p-014",14,"Transformations",NOTE+"Plot P(4,2), then reflect it in the y-axis. What are the image coordinates?",["(-4,2)","(4,-2)","(-4,-2)","(2,4)"],0,"Reflection in the y-axis maps (x,y) to (-x,y)."),
+Q("ac9m10sp03-p-015",15,"Scaling",NOTE+"Sketch a square of side 2 cm and enlarge it by scale factor 2. Which property changes?",["Shape","Proportions","Size","Angle measures"],2,"An enlargement changes size while preserving shape and angles."),
+Q("ac9m10sp03-p-016",16,"Pathfinding",NOTE+"Draw two routes from S to G. Route A totals 14 km; Route B totals 11 km but has more turns. Which is the shortest path?",["Route A because it has fewer turns","Route B because it has smaller total distance","Neither","The route with more diagonal segments"],1,"Shortest means minimum total distance or weight."),
+Q("ac9m10sp03-p-017",17,"Algorithms",NOTE+"Sketch a loop: perform move → test condition → if false, repeat. What does the loop do?",["Repeats until the condition becomes true","Stops immediately","Deletes moves","Chooses random rotations"],0,"The loop repeats until the stopping condition is satisfied."),
+Q("ac9m10sp03-p-018",18,"Transformations",NOTE+"Plot any point (x,y) in quadrant I and rotate it 90° anticlockwise about the origin. Which mapping gives the image?",["(x,y)→(y,-x)","(x,y)→(-y,x)","(x,y)→(-x,-y)","(x,y)→(x,y)"],1,"A 90° anticlockwise rotation maps (x,y) to (-y,x)."),
+Q("ac9m10sp03-p-019",19,"Robot navigation",NOTE+"Draw a warehouse grid with shelves as blocked cells. A robot must reach the opposite corner. Which capability is essential?",["Collision detection","Colour matching","Reflection","Scaling"],0,"The robot must detect blocked cells before moving."),
+Q("ac9m10sp03-p-020",20,"Transformations",NOTE+"Plot a point above the x-axis and reflect it across the x-axis. Which mapping applies?",["(x,y)→(x,-y)","(x,y)→(-x,y)","(x,y)→(-x,-y)","(x,y)→(y,x)"],0,"Reflection in the x-axis changes only the sign of y."),
+Q("ac9m10sp03-p-021",21,"Spatial algorithms",NOTE+"Draw a circle centred at the origin with radius r and a point (x,y). Which test determines whether the point lies strictly inside the circle?",["x²+y²<r²","x+y<r","x²-y²=r","xy=r"],0,"Inside the circle means the distance from the origin is less than r."),
+Q("ac9m10sp03-p-022",22,"Movement algorithms",NOTE+"Draw a robot start point and a sequence of arrows → → ↑ ←. What does each arrow represent in the algorithm?",["A movement instruction","A reflection line","A scale factor","An angle bisector"],0,"Each arrow encodes one movement direction."),
+Q("ac9m10sp03-p-023",23,"Transformations",NOTE+"Draw a point and translate it by vector (-3,4). Which movement does this represent?",["Left 3, up 4","Right 3, up 4","Left 4, up 3","Right 4, down 3"],0,"The x-change is -3 and the y-change is +4."),
+Q("ac9m10sp03-p-024",24,"3D transformations",NOTE+"Sketch a cylinder tilted in space. Imagine rotating it about a horizontal axis. Which property changes?",["Orientation","Surface area","Angle measures","Proportions"],0,"A rigid rotation changes orientation but preserves size and shape.")];
+window.quizQuestions=window.skillrPracticeQuestions;
