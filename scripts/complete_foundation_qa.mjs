@@ -31,7 +31,10 @@ const run = (cmd, args) => {
   s = s.replace('<p class="curriculum-eyebrow">${esc(code)} • Foundation Maths</p>', '<p class="curriculum-eyebrow">SkillrHub • ${esc(code)} • Foundation Maths</p>');
   s = s.replace('</div></header><main class="curriculum-layout">', '</div><button class="report-issue-button" type="button" data-report-issue>Report Issue</button></header><main class="curriculum-layout">');
   s = s.replace('</div></div></details></div><aside class="curriculum-sidebar">', '</div></div></details>${standingHtml(code,u)}</div><aside class="curriculum-sidebar">');
-  if (!s.includes('function standingHtml(code,u)') || !s.includes('data-report-issue>Report Issue')) throw new Error('Could not complete Foundation Maths static generator QA sections.');
+  if (!s.includes('function standingHtml(code,u)')) throw new Error('Could not add Foundation Maths standing sections.');
+  if (!s.includes('SkillrHub • ${esc(code)} • Foundation Maths')) throw new Error('Could not add Foundation Maths branding.');
+  if (!s.includes('data-report-issue')) throw new Error('Could not add Foundation Maths Report Issue control.');
+  if (!s.includes('${standingHtml(code,u)}')) throw new Error('Could not insert Foundation Maths standing sections into topic pages.');
   write(p, s);
 }
 
