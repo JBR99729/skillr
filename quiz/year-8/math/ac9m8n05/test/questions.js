@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers?",
-    "audioPrompt": "Which interpretation is accurate for model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers?",
+    "question": "A Year 8 student is solving a problem involving model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "model situations that involve percentage increases or decreases and explaining why it is an increase or decrease such as mark ups discounts goods and services tax",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax?",
-    "audioPrompt": "Which interpretation is accurate for model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, goods and services tax?",
+    "question": "A Year 8 student is solving a problem involving model situations that involve percentage increases or decreases and explaining why it is an increase or decrease such as mark ups discounts goods and services tax. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model situations that involve percentage increases or decreases and explaining why it is an increase or decrease such as mark ups discounts goods and services tax. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "model situations involving personal income tax interpreting tax tables to determine income tax at various levels of income including overall percentage of income allocated to tax",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax?",
-    "audioPrompt": "Which interpretation is accurate for model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax?",
+    "question": "A Year 8 student is solving a problem involving model situations involving personal income tax interpreting tax tables to determine income tax at various levels of income including overall percentage of income allocated to tax. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model situations involving personal income tax interpreting tax tables to determine income tax at various levels of income including overall percentage of income allocated to tax. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "model situations involving percentage increase or decrease such as market trends effects on population or effects on the environment over extended time periods",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods?",
-    "audioPrompt": "Which interpretation is accurate for model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods?",
+    "question": "A Year 8 student is solving a problem involving model situations involving percentage increase or decrease such as market trends effects on population or effects on the environment over extended time periods. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model situations involving percentage increase or decrease such as market trends effects on population or effects on the environment over extended time periods. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

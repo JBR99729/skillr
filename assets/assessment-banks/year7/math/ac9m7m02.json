@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_a_rectangular_prism_volume",
-    "question": "Which statement correctly explains right prism in volume of right prisms?",
-    "audio_prompt": "Which statement correctly explains right prism in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_a_triangular_prism_volume",
-    "question": "Which description is accurate for cross-section in volume of right prisms?",
-    "audio_prompt": "Which description is accurate for cross-section in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving find a triangular prism volume. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find a triangular prism volume. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "convert_cm_to_ml",
-    "question": "Which statement gives an example of volume in volume of right prisms?",
-    "audio_prompt": "Which statement gives an example of volume in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving convert cm to ml. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving convert cm to ml. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_missing_length",
-    "question": "What is important when using right prism in volume of right prisms?",
-    "audio_prompt": "What is important when using right prism in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving find missing length. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find missing length. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "convert_cm_to_ml",
-    "question": "Which statement is true about cross-section in volume of right prisms?",
-    "audio_prompt": "Which statement is true about cross-section in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving convert cm to ml. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving convert cm to ml. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_missing_length",
-    "question": "Which response correctly applies find missing length in volume of right prisms?",
-    "audio_prompt": "Which response correctly applies find missing length in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving find missing length. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find missing length. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "check_dimensions_and_units",
-    "question": "Which response shows correct use of check dimensions and units in volume of right prisms?",
-    "audio_prompt": "Which response shows correct use of check dimensions and units in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving check dimensions and units. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving check dimensions and units. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_a_rectangular_prism_volume",
-    "question": "Which interpretation is accurate for find a rectangular-prism volume in volume of right prisms?",
-    "audio_prompt": "Which interpretation is accurate for find a rectangular-prism volume in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_a_triangular_prism_volume",
-    "question": "Which choice demonstrates find a triangular-prism volume in volume of right prisms?",
-    "audio_prompt": "Which choice demonstrates find a triangular-prism volume in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving find a triangular prism volume. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find a triangular prism volume. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "check_dimensions_and_units",
-    "question": "Which claim is accurate about check dimensions and units in volume of right prisms?",
-    "audio_prompt": "Which claim is accurate about check dimensions and units in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving check dimensions and units. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving check dimensions and units. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_a_rectangular_prism_volume",
-    "question": "What is required to apply find a rectangular-prism volume in volume of right prisms?",
-    "audio_prompt": "What is required to apply find a rectangular-prism volume in volume of right prisms?",
+    "question": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

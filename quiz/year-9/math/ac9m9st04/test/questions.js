@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "compare and interpreting stacked bar charts area charts and line graphs discussing how they represent larger categories that can be subdivided into smaller categories",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories?",
-    "audioPrompt": "Which description correctly applies compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories?",
+    "question": "A Year 9 student is solving a problem involving compare and interpreting stacked bar charts area charts and line graphs discussing how they represent larger categories that can be subdivided into smaller categories. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving compare and interpreting stacked bar charts area charts and line graphs discussing how they represent larger categories that can be subdivided into smaller categories. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools including generative artificial intelligence to generate different data displays and visualisations using existing data sets",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets?",
-    "audioPrompt": "Which description correctly applies use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets?",
+    "question": "A Year 9 student is solving a problem involving use digital tools including generative artificial intelligence to generate different data displays and visualisations using existing data sets. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving use digital tools including generative artificial intelligence to generate different data displays and visualisations using existing data sets. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots?",
-    "audioPrompt": "Which interpretation is accurate for compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots?",
+    "question": "A Year 9 student is solving a problem involving compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers?",
-    "audioPrompt": "Which interpretation is accurate for expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers?",
+    "question": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors?",
-    "audioPrompt": "Which interpretation is accurate for use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors?",
+    "question": "A Year 9 student is solving a problem involving use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving use manipulatives such as algebra tiles or area models to expand or factorise algebraic expressions with readily identifiable binomial factors. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "recognise the relationship between expansion and factorisation and using digital tools to systematically explore the factorisation of x mx n where m and n are integers",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers?",
-    "audioPrompt": "Which interpretation is accurate for recognise the relationship between expansion and factorisation, and using digital tools to systematically explore the factorisation of x²+mx+n where m and n are integers?",
+    "question": "A Year 9 student is solving a problem involving recognise the relationship between expansion and factorisation and using digital tools to systematically explore the factorisation of x mx n where m and n are integers. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving recognise the relationship between expansion and factorisation and using digital tools to systematically explore the factorisation of x mx n where m and n are integers. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers?",
-    "audioPrompt": "Which choice demonstrates expanding combinations of binomials such as (x+7)(x+8), (x+7)(x-8), (x-7)(x+8), (x-7)(x-8) to identify expansion and factorisation patterns related to (x+a)(x+b) = x²+(a+b)x+ab, where a and b are integers?",
+    "question": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving expanding combinations of binomials such as x 7 x 8 x 7 x 8 x 7 x 8 x 7 x 8 to identify expansion and factorisation patterns related to x a x b x a b x ab where a and b are integers. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

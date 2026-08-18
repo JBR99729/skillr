@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape editing for accuracy of grammar spelling and punctuation and for meaning by experimenting with different order of ideas a range of sentence structures literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape editing for accuracy of grammar spelling and punctuation and for meaning by experimenting with different order of ideas a range of sentence structures literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape editing for accuracy of grammar spelling and punctuation and for meaning by experimenting with different order of ideas a range of sentence structures literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

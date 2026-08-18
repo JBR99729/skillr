@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "graphing regions corresponding to inequalities in the cartesian plane",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies graphing regions corresponding to inequalities in the cartesian plane?",
-    "audioPrompt": "Which description correctly applies graphing regions corresponding to inequalities in the cartesian plane?",
+    "question": "A Year 10 student is solving a problem involving graphing regions corresponding to inequalities in the cartesian plane. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving graphing regions corresponding to inequalities in the cartesian plane. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "identify all the combinations of trips to the movies each costing 12 and ice skating sessions each costing 21",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21?",
-    "audioPrompt": "Which description correctly applies identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21?",
+    "question": "A Year 10 student is solving a problem involving identify all the combinations of trips to the movies each costing 12 and ice skating sessions each costing 21. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving identify all the combinations of trips to the movies each costing 12 and ice skating sessions each costing 21. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "test when a circle of a specified radius has a corresponding area greater than a given value or whether a point satisfies an inequality",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies test when a circle of a specified radius has a corresponding area greater than a given value, or whether a point satisfies an inequality?",
-    "audioPrompt": "Which description correctly applies test when a circle of a specified radius has a corresponding area greater than a given value, or whether a point satisfies an inequality?",
+    "question": "A Year 10 student is solving a problem involving test when a circle of a specified radius has a corresponding area greater than a given value or whether a point satisfies an inequality. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving test when a circle of a specified radius has a corresponding area greater than a given value or whether a point satisfies an inequality. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore the strategies inherent in first nations australian children s instructive games",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore the strategies inherent in first nations australian children’s instructive games?",
-    "audioPrompt": "Which description correctly applies explore the strategies inherent in first nations australian children’s instructive games?",
+    "question": "A Year 10 student is solving a problem involving explore the strategies inherent in first nations australian children s instructive games. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore the strategies inherent in first nations australian children s instructive games. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

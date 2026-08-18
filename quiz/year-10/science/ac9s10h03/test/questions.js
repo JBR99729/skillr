@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use citizen science projects to make the role of values and policy visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use citizen science projects to make the role of values and policy visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use citizen science projects to make the role of values and policy visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how the traditional ecological knowledges of first nations australians to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

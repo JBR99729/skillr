@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "analyse_modality",
-    "question": "Which statement correctly explains audience positioning in language features, meaning and audience positioning?",
-    "audio_prompt": "Which statement correctly explains audience positioning in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "trace_pronouns",
-    "question": "Which description is accurate for modality in language features, meaning and audience positioning?",
-    "audio_prompt": "Which description is accurate for modality in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use trace pronouns. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use trace pronouns. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "explain_nominalisation",
-    "question": "Which statement gives an example of rhetorical choice in language features, meaning and audience positioning?",
-    "audio_prompt": "Which statement gives an example of rhetorical choice in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use explain nominalisation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain nominalisation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "compare_audiences",
-    "question": "What is important when using audience positioning in language features, meaning and audience positioning?",
-    "audio_prompt": "What is important when using audience positioning in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use compare audiences. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare audiences. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "explain_nominalisation",
-    "question": "Which statement is true about modality in language features, meaning and audience positioning?",
-    "audio_prompt": "Which statement is true about modality in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use explain nominalisation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain nominalisation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "compare_audiences",
-    "question": "Which response correctly applies compare audiences in language features, meaning and audience positioning?",
-    "audio_prompt": "Which response correctly applies compare audiences in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use compare audiences. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare audiences. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "connect_visual_language_modes",
-    "question": "Which response shows correct use of connect visual/language modes in language features, meaning and audience positioning?",
-    "audio_prompt": "Which response shows correct use of connect visual/language modes in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use connect visual language modes. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use connect visual language modes. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "analyse_modality",
-    "question": "Which interpretation is accurate for analyse modality in language features, meaning and audience positioning?",
-    "audio_prompt": "Which interpretation is accurate for analyse modality in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "trace_pronouns",
-    "question": "Which choice demonstrates trace pronouns in language features, meaning and audience positioning?",
-    "audio_prompt": "Which choice demonstrates trace pronouns in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use trace pronouns. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use trace pronouns. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "connect_visual_language_modes",
-    "question": "Which claim is accurate about connect visual/language modes in language features, meaning and audience positioning?",
-    "audio_prompt": "Which claim is accurate about connect visual/language modes in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use connect visual language modes. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use connect visual language modes. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "analyse_modality",
-    "question": "What is required to apply analyse modality in language features, meaning and audience positioning?",
-    "audio_prompt": "What is required to apply analyse modality in language features, meaning and audience positioning?",
+    "question": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

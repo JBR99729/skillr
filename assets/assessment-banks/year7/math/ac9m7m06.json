@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "formulate_a_site_model",
-    "question": "Which statement correctly explains scale drawing in measurement and geometry modelling?",
-    "audio_prompt": "Which statement correctly explains scale drawing in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "choose_formulas_and_units",
-    "question": "Which description is accurate for allowance in measurement and geometry modelling?",
-    "audio_prompt": "Which description is accurate for allowance in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "add_a_material_allowance",
-    "question": "Which statement gives an example of geometric constraint in measurement and geometry modelling?",
-    "audio_prompt": "Which statement gives an example of geometric constraint in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "check_scale_and_constraints",
-    "question": "What is important when using scale drawing in measurement and geometry modelling?",
-    "audio_prompt": "What is important when using scale drawing in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "add_a_material_allowance",
-    "question": "Which statement is true about allowance in measurement and geometry modelling?",
-    "audio_prompt": "Which statement is true about allowance in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "check_scale_and_constraints",
-    "question": "Which response correctly applies check scale and constraints in measurement and geometry modelling?",
-    "audio_prompt": "Which response correctly applies check scale and constraints in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "justify_an_alternative",
-    "question": "Which response shows correct use of justify an alternative in measurement and geometry modelling?",
-    "audio_prompt": "Which response shows correct use of justify an alternative in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "formulate_a_site_model",
-    "question": "Which interpretation is accurate for formulate a site model in measurement and geometry modelling?",
-    "audio_prompt": "Which interpretation is accurate for formulate a site model in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "choose_formulas_and_units",
-    "question": "Which choice demonstrates choose formulas and units in measurement and geometry modelling?",
-    "audio_prompt": "Which choice demonstrates choose formulas and units in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "justify_an_alternative",
-    "question": "Which claim is accurate about justify an alternative in measurement and geometry modelling?",
-    "audio_prompt": "Which claim is accurate about justify an alternative in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "formulate_a_site_model",
-    "question": "What is required to apply formulate a site model in measurement and geometry modelling?",
-    "audio_prompt": "What is required to apply formulate a site model in measurement and geometry modelling?",
+    "question": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

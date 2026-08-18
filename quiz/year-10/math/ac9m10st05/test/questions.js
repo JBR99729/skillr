@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "design statistical investigations that collect bivariate data over time through observation experiment or measurement graphing interpreting and analysing data",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data?",
-    "audioPrompt": "Which interpretation is accurate for design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data?",
+    "question": "A Year 10 student is solving a problem involving design statistical investigations that collect bivariate data over time through observation experiment or measurement graphing interpreting and analysing data. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving design statistical investigations that collect bivariate data over time through observation experiment or measurement graphing interpreting and analysing data. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "explore anecdotal claims including those concerning climate housing affordability and natural resources with consideration of data validity and limitations of interpolation or extrapolation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation?",
-    "audioPrompt": "Which interpretation is accurate for explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation?",
+    "question": "A Year 10 student is solving a problem involving explore anecdotal claims including those concerning climate housing affordability and natural resources with consideration of data validity and limitations of interpolation or extrapolation. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore anecdotal claims including those concerning climate housing affordability and natural resources with consideration of data validity and limitations of interpolation or extrapolation. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use a statistical investigation to address the question is there a relationship between vaccines and immunity from a virus",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use a statistical investigation to address the question, “is there a relationship between vaccines and immunity from a virus”?",
-    "audioPrompt": "Which interpretation is accurate for use a statistical investigation to address the question, “is there a relationship between vaccines and immunity from a virus”?",
+    "question": "A Year 10 student is solving a problem involving use a statistical investigation to address the question is there a relationship between vaccines and immunity from a virus. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use a statistical investigation to address the question is there a relationship between vaccines and immunity from a virus. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data discussing and reporting on associations",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations?",
-    "audioPrompt": "Which interpretation is accurate for explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations?",
+    "question": "A Year 10 student is solving a problem involving explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data discussing and reporting on associations. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore biodiversity changes in australia before and after colonisation by comparing related bivariate numerical data discussing and reporting on associations. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

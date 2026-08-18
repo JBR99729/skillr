@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax and how these influence meaning and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax, and how these influence meaning and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax and how these influence meaning and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape examining how writers use terse and relatively simple language choices or more elaborate and complex syntax and how these influence meaning and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use text choice to shape recognising that first nations australian authors use words and language to set tone when writing or speaking about specific themes and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape recognising that tone is influenced when an author uses active or passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

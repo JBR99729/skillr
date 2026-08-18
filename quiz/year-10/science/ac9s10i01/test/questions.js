@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use how changing the surface area concentration and temperature affects to make the role of model based prediction visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how changing the surface area concentration and temperature affects to make the role of model based prediction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how changing the surface area concentration and temperature affects to make the role of model based prediction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

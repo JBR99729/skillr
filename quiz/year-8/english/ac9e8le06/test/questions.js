@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape creating short stories focusing on characters and dialogue and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape combining literary devices to evoke a reader response and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape collaborating with a peer which may include using online spaces to write a short script with 2 characters focusing on dialogue choices for each character and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use text choice to shape collaborating with a peer, which may include using online spaces, to write a short script with 2 characters, focusing on dialogue choices for each character and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use text choice to shape collaborating with a peer which may include using online spaces to write a short script with 2 characters focusing on dialogue choices for each character and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use text choice to shape collaborating with a peer which may include using online spaces to write a short script with 2 characters focusing on dialogue choices for each character and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use reader response to shape editing the imagery and word choices when creating a literary text and reflecting on the effect of those changes and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

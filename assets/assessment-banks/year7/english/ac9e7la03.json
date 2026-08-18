@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "identify_stages",
-    "question": "Which statement correctly explains stage in text structure, purpose and context?",
-    "audio_prompt": "Which statement correctly explains stage in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "break_a_stage_into_phases",
-    "question": "Which description is accurate for phase in text structure, purpose and context?",
-    "audio_prompt": "Which description is accurate for phase in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use break a stage into phases. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use break a stage into phases. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "compare_modes",
-    "question": "Which statement gives an example of text structure in text structure, purpose and context?",
-    "audio_prompt": "Which statement gives an example of text structure in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use compare modes. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare modes. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "analyse_navigation",
-    "question": "What is important when using stage in text structure, purpose and context?",
-    "audio_prompt": "What is important when using stage in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use analyse navigation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse navigation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "compare_modes",
-    "question": "Which statement is true about phase in text structure, purpose and context?",
-    "audio_prompt": "Which statement is true about phase in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use compare modes. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare modes. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "analyse_navigation",
-    "question": "Which response correctly applies analyse navigation in text structure, purpose and context?",
-    "audio_prompt": "Which response correctly applies analyse navigation in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use analyse navigation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse navigation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "explain_hybrid_structure",
-    "question": "Which response shows correct use of explain hybrid structure in text structure, purpose and context?",
-    "audio_prompt": "Which response shows correct use of explain hybrid structure in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use explain hybrid structure. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain hybrid structure. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "identify_stages",
-    "question": "Which interpretation is accurate for identify stages in text structure, purpose and context?",
-    "audio_prompt": "Which interpretation is accurate for identify stages in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "break_a_stage_into_phases",
-    "question": "Which choice demonstrates break a stage into phases in text structure, purpose and context?",
-    "audio_prompt": "Which choice demonstrates break a stage into phases in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use break a stage into phases. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use break a stage into phases. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "explain_hybrid_structure",
-    "question": "Which claim is accurate about explain hybrid structure in text structure, purpose and context?",
-    "audio_prompt": "Which claim is accurate about explain hybrid structure in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use explain hybrid structure. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain hybrid structure. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "identify_stages",
-    "question": "What is required to apply identify stages in text structure, purpose and context?",
-    "audio_prompt": "What is required to apply identify stages in text structure, purpose and context?",
+    "question": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

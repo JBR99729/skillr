@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained making some information more explicit than other information and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained making some information more explicit than other information and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained making some information more explicit than other information and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause result manner concession condition and so on and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause, result, manner, concession, condition, and so on and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause result manner concession condition and so on and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape analysing how logical relations between ideas are built up by combining independent with dependent clauses indicating cause result manner concession condition and so on and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape considering how abstraction in a noun group allows for greater generalisation of complex ideas in a sentence and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained making some information more explicit than other information and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained, making some information more explicit than other information and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained making some information more explicit than other information and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape considering how nominalisation affects the way in which events are constructed and explained making some information more explicit than other information and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

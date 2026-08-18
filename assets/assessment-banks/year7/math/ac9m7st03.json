@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "write_a_statistical_question",
-    "question": "Which statement correctly explains population in statistical investigations and sampling?",
-    "audio_prompt": "Which statement correctly explains population in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "define_population_sample",
-    "question": "Which description is accurate for sample in statistical investigations and sampling?",
-    "audio_prompt": "Which description is accurate for sample in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving define population sample. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving define population sample. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_sampling_methods",
-    "question": "Which statement gives an example of sampling bias in statistical investigations and sampling?",
-    "audio_prompt": "Which statement gives an example of sampling bias in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "analyse_distribution",
-    "question": "What is important when using population in statistical investigations and sampling?",
-    "audio_prompt": "What is important when using population in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving analyse distribution. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving analyse distribution. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_sampling_methods",
-    "question": "Which statement is true about sample in statistical investigations and sampling?",
-    "audio_prompt": "Which statement is true about sample in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "analyse_distribution",
-    "question": "Which response correctly applies analyse distribution in statistical investigations and sampling?",
-    "audio_prompt": "Which response correctly applies analyse distribution in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving analyse distribution. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving analyse distribution. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_limited_conclusion",
-    "question": "Which response shows correct use of write a limited conclusion in statistical investigations and sampling?",
-    "audio_prompt": "Which response shows correct use of write a limited conclusion in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving write a limited conclusion. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a limited conclusion. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_statistical_question",
-    "question": "Which interpretation is accurate for write a statistical question in statistical investigations and sampling?",
-    "audio_prompt": "Which interpretation is accurate for write a statistical question in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "define_population_sample",
-    "question": "Which choice demonstrates define population/sample in statistical investigations and sampling?",
-    "audio_prompt": "Which choice demonstrates define population/sample in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving define population sample. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving define population sample. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_limited_conclusion",
-    "question": "Which claim is accurate about write a limited conclusion in statistical investigations and sampling?",
-    "audio_prompt": "Which claim is accurate about write a limited conclusion in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving write a limited conclusion. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a limited conclusion. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_statistical_question",
-    "question": "What is required to apply write a statistical question in statistical investigations and sampling?",
-    "audio_prompt": "What is required to apply write a statistical question in statistical investigations and sampling?",
+    "question": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

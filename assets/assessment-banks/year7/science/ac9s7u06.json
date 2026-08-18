@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "classify_particle_diagrams",
-    "question": "Which statement correctly explains pure substance in pure substances, mixtures and separation?",
-    "audio_prompt": "Which statement correctly explains pure substance in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating classify particle diagrams. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating classify particle diagrams. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "choose_filtration",
-    "question": "Which description is accurate for mixture in pure substances, mixtures and separation?",
-    "audio_prompt": "Which description is accurate for mixture in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating choose filtration. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose filtration. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "explain_distillation",
-    "question": "Which statement gives an example of separation technique in pure substances, mixtures and separation?",
-    "audio_prompt": "Which statement gives an example of separation technique in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating explain distillation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain distillation. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "design_a_separation_sequence",
-    "question": "What is important when using pure substance in pure substances, mixtures and separation?",
-    "audio_prompt": "What is important when using pure substance in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating design a separation sequence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating design a separation sequence. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "explain_distillation",
-    "question": "Which statement is true about mixture in pure substances, mixtures and separation?",
-    "audio_prompt": "Which statement is true about mixture in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating explain distillation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain distillation. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "design_a_separation_sequence",
-    "question": "Which response correctly applies design a separation sequence in pure substances, mixtures and separation?",
-    "audio_prompt": "Which response correctly applies design a separation sequence in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating design a separation sequence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating design a separation sequence. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "state_exploited_properties",
-    "question": "Which response shows correct use of state exploited properties in pure substances, mixtures and separation?",
-    "audio_prompt": "Which response shows correct use of state exploited properties in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating state exploited properties. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating state exploited properties. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "classify_particle_diagrams",
-    "question": "Which interpretation is accurate for classify particle diagrams in pure substances, mixtures and separation?",
-    "audio_prompt": "Which interpretation is accurate for classify particle diagrams in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating classify particle diagrams. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating classify particle diagrams. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_filtration",
-    "question": "Which choice demonstrates choose filtration in pure substances, mixtures and separation?",
-    "audio_prompt": "Which choice demonstrates choose filtration in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating choose filtration. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose filtration. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "state_exploited_properties",
-    "question": "Which claim is accurate about state exploited properties in pure substances, mixtures and separation?",
-    "audio_prompt": "Which claim is accurate about state exploited properties in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating state exploited properties. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating state exploited properties. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "classify_particle_diagrams",
-    "question": "What is required to apply classify particle diagrams in pure substances, mixtures and separation?",
-    "audio_prompt": "What is required to apply classify particle diagrams in pure substances, mixtures and separation?",
+    "question": "A Year 7 student is investigating classify particle diagrams. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating classify particle diagrams. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

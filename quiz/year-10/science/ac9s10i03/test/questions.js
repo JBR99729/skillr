@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

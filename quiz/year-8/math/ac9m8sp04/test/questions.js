@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for listing the properties or criteria necessary to determine if shapes are similar or congruent?",
-    "audioPrompt": "Which interpretation is accurate for listing the properties or criteria necessary to determine if shapes are similar or congruent?",
+    "question": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
-    "audioPrompt": "Which interpretation is accurate for use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
+    "question": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
-    "audioPrompt": "Which interpretation is accurate for evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles?",
+    "question": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates listing the properties or criteria necessary to determine if shapes are similar or congruent?",
-    "audioPrompt": "Which choice demonstrates listing the properties or criteria necessary to determine if shapes are similar or congruent?",
+    "question": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

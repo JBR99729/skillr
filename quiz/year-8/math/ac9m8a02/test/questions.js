@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "completing a table of values plotting the resulting points on the cartesian plane and determining whether the relationship is linear",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies completing a table of values, plotting the resulting points on the cartesian plane and determining whether the relationship is linear?",
-    "audioPrompt": "Which description correctly applies completing a table of values, plotting the resulting points on the cartesian plane and determining whether the relationship is linear?",
+    "question": "A Year 8 student is solving a problem involving completing a table of values plotting the resulting points on the cartesian plane and determining whether the relationship is linear. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving completing a table of values plotting the resulting points on the cartesian plane and determining whether the relationship is linear. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "graphing the linear relationship ax b c for given values of a b and c and identifying from the graph where ax b c",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c?",
-    "audioPrompt": "Which description correctly applies graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c?",
+    "question": "A Year 8 student is solving a problem involving graphing the linear relationship ax b c for given values of a b and c and identifying from the graph where ax b c. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving graphing the linear relationship ax b c for given values of a b and c and identifying from the graph where ax b c. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "solve linear equations of the form ax b c and one variable inequalities of the form ax b c where a 0 using inverse operations and digital tools and checking solutions",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies solve linear equations of the form ax+b = c and one-variable inequalities of the form ax+b c where a>0 using inverse operations and digital tools, and checking solutions?",
-    "audioPrompt": "Which description correctly applies solve linear equations of the form ax+b = c and one-variable inequalities of the form ax+b c where a>0 using inverse operations and digital tools, and checking solutions?",
+    "question": "A Year 8 student is solving a problem involving solve linear equations of the form ax b c and one variable inequalities of the form ax b c where a 0 using inverse operations and digital tools and checking solutions. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving solve linear equations of the form ax b c and one variable inequalities of the form ax b c where a 0 using inverse operations and digital tools and checking solutions. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "solve linear equations such as 3x 7 6x 9 representing these graphically and verifying solutions by substitution",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies solve linear equations such as 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution?",
-    "audioPrompt": "Which description correctly applies solve linear equations such as 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution?",
+    "question": "A Year 8 student is solving a problem involving solve linear equations such as 3x 7 6x 9 representing these graphically and verifying solutions by substitution. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving solve linear equations such as 3x 7 6x 9 representing these graphically and verifying solutions by substitution. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

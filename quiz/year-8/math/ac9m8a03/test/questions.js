@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "model situations involving linear functions including practical contexts such as taxi fares involving flag fall fees motion in a straight line at a constant speed",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed?",
-    "audioPrompt": "Which interpretation is accurate for model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed?",
+    "question": "A Year 8 student is solving a problem involving model situations involving linear functions including practical contexts such as taxi fares involving flag fall fees motion in a straight line at a constant speed. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model situations involving linear functions including practical contexts such as taxi fares involving flag fall fees motion in a straight line at a constant speed. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "model problems in practical situations and interpreting solutions within the context of the problem including giving attention to all units of measure and whether results are suitable",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable?",
-    "audioPrompt": "Which interpretation is accurate for model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable?",
+    "question": "A Year 8 student is solving a problem involving model problems in practical situations and interpreting solutions within the context of the problem including giving attention to all units of measure and whether results are suitable. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model problems in practical situations and interpreting solutions within the context of the problem including giving attention to all units of measure and whether results are suitable. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "model financial problems involving pay rates using a table of values to represent the pay amounts and hours worked using an hourly rate of pay",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay?",
-    "audioPrompt": "Which interpretation is accurate for model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay?",
+    "question": "A Year 8 student is solving a problem involving model financial problems involving pay rates using a table of values to represent the pay amounts and hours worked using an hourly rate of pay. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model financial problems involving pay rates using a table of values to represent the pay amounts and hours worked using an hourly rate of pay. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "model patterns on country place and exploring their connections and meaning to linear equations using the model as a predictive tool and critiquing results by connecting back to country place",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for model patterns on country/place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to country/place?",
-    "audioPrompt": "Which interpretation is accurate for model patterns on country/place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to country/place?",
+    "question": "A Year 8 student is solving a problem involving model patterns on country place and exploring their connections and meaning to linear equations using the model as a predictive tool and critiquing results by connecting back to country place. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving model patterns on country place and exploring their connections and meaning to linear equations using the model as a predictive tool and critiquing results by connecting back to country place. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

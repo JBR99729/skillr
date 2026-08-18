@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”?",
-    "audioPrompt": "Which interpretation is accurate for use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”?",
+    "question": "A Year 10 student is solving a problem involving use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use arrays and tree diagrams to represent interpret and compare probabilities of dependent and independent events",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events?",
-    "audioPrompt": "Which interpretation is accurate for use arrays and tree diagrams to represent, interpret and compare probabilities of dependent and independent events?",
+    "question": "A Year 10 student is solving a problem involving use arrays and tree diagrams to represent interpret and compare probabilities of dependent and independent events. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use arrays and tree diagrams to represent interpret and compare probabilities of dependent and independent events. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore how conditional probability is used in natural language processing tasks like text or image generation language translation data augmentation and recommendation systems",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems?",
-    "audioPrompt": "Which interpretation is accurate for explore how conditional probability is used in natural language processing tasks like text or image generation, language translation, data augmentation and recommendation systems?",
+    "question": "A Year 10 student is solving a problem involving explore how conditional probability is used in natural language processing tasks like text or image generation language translation data augmentation and recommendation systems. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore how conditional probability is used in natural language processing tasks like text or image generation language translation data augmentation and recommendation systems. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”?",
-    "audioPrompt": "Which choice demonstrates use two-way tables and venn diagrams to understand conditional statements using the language of “if the omitted idea then the omitted idea”, “given”, “of”, “knowing that”?",
+    "question": "A Year 10 student is solving a problem involving use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use two way tables and venn diagrams to understand conditional statements using the language of if the omitted idea then the omitted idea given of knowing that. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "identify_specialist_term",
-    "question": "Which statement correctly explains specialist vocabulary in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which statement correctly explains specialist vocabulary in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "unpack_morphology",
-    "question": "Which description is accurate for nominalisation in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which description is accurate for nominalisation in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use unpack morphology. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use unpack morphology. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "turn_process_into_nominalisation",
-    "question": "Which statement gives an example of abstract noun in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which statement gives an example of abstract noun in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use turn process into nominalisation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use turn process into nominalisation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "restore_agency",
-    "question": "What is important when using specialist vocabulary in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "What is important when using specialist vocabulary in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use restore agency. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use restore agency. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "turn_process_into_nominalisation",
-    "question": "Which statement is true about nominalisation in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which statement is true about nominalisation in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use turn process into nominalisation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use turn process into nominalisation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "restore_agency",
-    "question": "Which response correctly applies restore agency in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which response correctly applies restore agency in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use restore agency. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use restore agency. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "use_term_in_context",
-    "question": "Which response shows correct use of use term in context in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which response shows correct use of use term in context in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use use term in context. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use use term in context. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "identify_specialist_term",
-    "question": "Which interpretation is accurate for identify specialist term in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which interpretation is accurate for identify specialist term in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "unpack_morphology",
-    "question": "Which choice demonstrates unpack morphology in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which choice demonstrates unpack morphology in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use unpack morphology. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use unpack morphology. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "use_term_in_context",
-    "question": "Which claim is accurate about use term in context in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which claim is accurate about use term in context in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use use term in context. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use use term in context. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "identify_specialist_term",
-    "question": "What is required to apply identify specialist term in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "What is required to apply identify specialist term in specialist, technical and abstract vocabulary?",
+    "question": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

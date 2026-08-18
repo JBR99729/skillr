@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use representation to shape analysing how stories written by first nations australian authors contemporise or modernise traditional stories and evaluating the responses of contemporary audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use text choice to shape analysing how humour is used to represent the underdog in australian texts and evaluating how the underdog reflects the context and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use voice to shape analysing the ways in which cultural stories may be retold and adapted across a range of contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

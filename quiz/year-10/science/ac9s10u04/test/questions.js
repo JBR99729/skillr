@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use changes in global climate over time exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use changes in global climate over time, exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use changes in global climate over time, exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use changes in global climate over time exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use changes in global climate over time exploring visualisations to make the role of infrared emission visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use greenhouse effect in context to make the role of greenhouse effect visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how quantum computers enhance modelling of complex weather to make the role of climate evidence and response visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use changes to the earth system and identifying strategies designed to make the role of incoming solar radiation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

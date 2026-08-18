@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explore the impact of measurement errors in the perception and control systems of autonomous vehicles such as measurement errors due to sensor limitations",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations?",
-    "audioPrompt": "Which description correctly applies explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations?",
+    "question": "A Year 10 student is solving a problem involving explore the impact of measurement errors in the perception and control systems of autonomous vehicles such as measurement errors due to sensor limitations. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore the impact of measurement errors in the perception and control systems of autonomous vehicles such as measurement errors due to sensor limitations. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore scientific measuring techniques including dating methods and genetic sequencing applied to first peoples of australia and their artefacts and the social impact of measurement errors",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore scientific measuring techniques, including dating methods and genetic sequencing, applied to first peoples of australia and their artefacts, and the social impact of measurement errors?",
-    "audioPrompt": "Which description correctly applies explore scientific measuring techniques, including dating methods and genetic sequencing, applied to first peoples of australia and their artefacts, and the social impact of measurement errors?",
+    "question": "A Year 10 student is solving a problem involving explore scientific measuring techniques including dating methods and genetic sequencing applied to first peoples of australia and their artefacts and the social impact of measurement errors. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore scientific measuring techniques including dating methods and genetic sequencing applied to first peoples of australia and their artefacts and the social impact of measurement errors. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings?",
-    "audioPrompt": "Which interpretation is accurate for describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings?",
+    "question": "A Year 10 student is solving a problem involving describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "define_aesthetic_value",
-    "question": "Which statement correctly explains aesthetic value in aesthetic and social value of literature?",
-    "audio_prompt": "Which statement correctly explains aesthetic value in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use define aesthetic value. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use define aesthetic value. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "define_social_value",
-    "question": "Which description is accurate for social value in aesthetic and social value of literature?",
-    "audio_prompt": "Which description is accurate for social value in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use define social value. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use define social value. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "use_metalanguage",
-    "question": "Which statement gives an example of literary metalanguage in aesthetic and social value of literature?",
-    "audio_prompt": "Which statement gives an example of literary metalanguage in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use use metalanguage. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use use metalanguage. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "cite_craft_evidence",
-    "question": "What is important when using aesthetic value in aesthetic and social value of literature?",
-    "audio_prompt": "What is important when using aesthetic value in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use cite craft evidence. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use cite craft evidence. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "use_metalanguage",
-    "question": "Which statement is true about social value in aesthetic and social value of literature?",
-    "audio_prompt": "Which statement is true about social value in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use use metalanguage. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use use metalanguage. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "cite_craft_evidence",
-    "question": "Which response correctly applies cite craft evidence in aesthetic and social value of literature?",
-    "audio_prompt": "Which response correctly applies cite craft evidence in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use cite craft evidence. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use cite craft evidence. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "qualify_a_cultural_claim",
-    "question": "Which response shows correct use of qualify a cultural claim in aesthetic and social value of literature?",
-    "audio_prompt": "Which response shows correct use of qualify a cultural claim in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use qualify a cultural claim. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use qualify a cultural claim. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "define_aesthetic_value",
-    "question": "Which interpretation is accurate for define aesthetic value in aesthetic and social value of literature?",
-    "audio_prompt": "Which interpretation is accurate for define aesthetic value in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use define aesthetic value. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use define aesthetic value. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "define_social_value",
-    "question": "Which choice demonstrates define social value in aesthetic and social value of literature?",
-    "audio_prompt": "Which choice demonstrates define social value in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use define social value. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use define social value. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "qualify_a_cultural_claim",
-    "question": "Which claim is accurate about qualify a cultural claim in aesthetic and social value of literature?",
-    "audio_prompt": "Which claim is accurate about qualify a cultural claim in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use qualify a cultural claim. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use qualify a cultural claim. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "define_aesthetic_value",
-    "question": "What is required to apply define aesthetic value in aesthetic and social value of literature?",
-    "audio_prompt": "What is required to apply define aesthetic value in aesthetic and social value of literature?",
+    "question": "A Year 7 student is working with a text and needs to use define aesthetic value. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use define aesthetic value. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

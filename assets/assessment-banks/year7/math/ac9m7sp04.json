@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "write_a_translation_algorithm",
-    "question": "Which statement correctly explains algorithm in spatial algorithms and decision processes?",
-    "audio_prompt": "Which statement correctly explains algorithm in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "add_a_decision_branch",
-    "question": "Which description is accurate for iteration in spatial algorithms and decision processes?",
-    "audio_prompt": "Which description is accurate for iteration in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "set_a_stopping_condition",
-    "question": "Which statement gives an example of decision branch in spatial algorithms and decision processes?",
-    "audio_prompt": "Which statement gives an example of decision branch in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving set a stopping condition. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving set a stopping condition. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "trace_an_iteration",
-    "question": "What is important when using algorithm in spatial algorithms and decision processes?",
-    "audio_prompt": "What is important when using algorithm in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "set_a_stopping_condition",
-    "question": "Which statement is true about iteration in spatial algorithms and decision processes?",
-    "audio_prompt": "Which statement is true about iteration in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving set a stopping condition. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving set a stopping condition. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "trace_an_iteration",
-    "question": "Which response correctly applies trace an iteration in spatial algorithms and decision processes?",
-    "audio_prompt": "Which response correctly applies trace an iteration in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "debug_ambiguous_wording",
-    "question": "Which response shows correct use of debug ambiguous wording in spatial algorithms and decision processes?",
-    "audio_prompt": "Which response shows correct use of debug ambiguous wording in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_translation_algorithm",
-    "question": "Which interpretation is accurate for write a translation algorithm in spatial algorithms and decision processes?",
-    "audio_prompt": "Which interpretation is accurate for write a translation algorithm in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "add_a_decision_branch",
-    "question": "Which choice demonstrates add a decision branch in spatial algorithms and decision processes?",
-    "audio_prompt": "Which choice demonstrates add a decision branch in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "debug_ambiguous_wording",
-    "question": "Which claim is accurate about debug ambiguous wording in spatial algorithms and decision processes?",
-    "audio_prompt": "Which claim is accurate about debug ambiguous wording in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_translation_algorithm",
-    "question": "What is required to apply write a translation algorithm in spatial algorithms and decision processes?",
-    "audio_prompt": "What is required to apply write a translation algorithm in spatial algorithms and decision processes?",
+    "question": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

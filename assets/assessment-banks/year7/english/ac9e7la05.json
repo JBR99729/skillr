@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "identify_main_clauses",
-    "question": "Which statement correctly explains main clause in complex and compound-complex sentences?",
-    "audio_prompt": "Which statement correctly explains main clause in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "identify_dependent_clauses",
-    "question": "Which description is accurate for dependent clause in complex and compound-complex sentences?",
-    "audio_prompt": "Which description is accurate for dependent clause in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use identify dependent clauses. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify dependent clauses. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "repair_comma_splice",
-    "question": "Which statement gives an example of compound-complex sentence in complex and compound-complex sentences?",
-    "audio_prompt": "Which statement gives an example of compound-complex sentence in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use repair comma splice. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use repair comma splice. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "combine_ideas_purposefully",
-    "question": "What is important when using main clause in complex and compound-complex sentences?",
-    "audio_prompt": "What is important when using main clause in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use combine ideas purposefully. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use combine ideas purposefully. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "repair_comma_splice",
-    "question": "Which statement is true about dependent clause in complex and compound-complex sentences?",
-    "audio_prompt": "Which statement is true about dependent clause in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use repair comma splice. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use repair comma splice. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "combine_ideas_purposefully",
-    "question": "Which response correctly applies combine ideas purposefully in complex and compound-complex sentences?",
-    "audio_prompt": "Which response correctly applies combine ideas purposefully in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use combine ideas purposefully. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use combine ideas purposefully. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "explain_punctuation",
-    "question": "Which response shows correct use of explain punctuation in complex and compound-complex sentences?",
-    "audio_prompt": "Which response shows correct use of explain punctuation in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use explain punctuation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain punctuation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "identify_main_clauses",
-    "question": "Which interpretation is accurate for identify main clauses in complex and compound-complex sentences?",
-    "audio_prompt": "Which interpretation is accurate for identify main clauses in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "identify_dependent_clauses",
-    "question": "Which choice demonstrates identify dependent clauses in complex and compound-complex sentences?",
-    "audio_prompt": "Which choice demonstrates identify dependent clauses in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use identify dependent clauses. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify dependent clauses. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "explain_punctuation",
-    "question": "Which claim is accurate about explain punctuation in complex and compound-complex sentences?",
-    "audio_prompt": "Which claim is accurate about explain punctuation in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use explain punctuation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain punctuation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "identify_main_clauses",
-    "question": "What is required to apply identify main clauses in complex and compound-complex sentences?",
-    "audio_prompt": "What is required to apply identify main clauses in complex and compound-complex sentences?",
+    "question": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

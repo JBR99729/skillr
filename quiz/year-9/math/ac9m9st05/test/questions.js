@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics?",
-    "audioPrompt": "Which interpretation is accurate for plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics?",
+    "question": "A Year 9 student is solving a problem involving plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing?",
-    "audioPrompt": "Which interpretation is accurate for plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing?",
+    "question": "A Year 9 student is solving a problem involving plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "explore where would be the best location for a tropical fruit plantation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore where would be the best location for a tropical fruit plantation?",
-    "audioPrompt": "Which interpretation is accurate for explore where would be the best location for a tropical fruit plantation?",
+    "question": "A Year 9 student is solving a problem involving explore where would be the best location for a tropical fruit plantation. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore where would be the best location for a tropical fruit plantation. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables?",
-    "audioPrompt": "Which interpretation is accurate for posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables?",
+    "question": "A Year 9 student is solving a problem involving posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

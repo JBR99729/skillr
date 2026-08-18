@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text?",
+    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

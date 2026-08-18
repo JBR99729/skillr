@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use the work of professor barry marshall and dr robin to make the role of publication visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the work of professor barry marshall and dr robin to make the role of publication visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the work of professor barry marshall and dr robin to make the role of publication visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the work of professor barry marshall and dr robin to make the role of publication visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the work of professor barry marshall and dr robin to make the role of publication visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use how jj thomson s discovery of the electron robert millikan s to make the role of replication and refinement visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how jj thomson’s discovery of the electron, robert millikan’s to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how jj thomson’s discovery of the electron, robert millikan’s to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use how jj thomson s discovery of the electron robert millikan s to make the role of replication and refinement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use how jj thomson s discovery of the electron robert millikan s to make the role of replication and refinement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how marie and pierre curie s discovery of new elements to make the role of research question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how marie and pierre curie’s discovery of new elements to make the role of research question visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how marie and pierre curie’s discovery of new elements to make the role of research question visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use how marie and pierre curie s discovery of new elements to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use how marie and pierre curie s discovery of new elements to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

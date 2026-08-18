@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "apply an understanding of relationships to deduce properties of geometric figures",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies apply an understanding of relationships to deduce properties of geometric figures?",
-    "audioPrompt": "Which description correctly applies apply an understanding of relationships to deduce properties of geometric figures?",
+    "question": "A Year 10 student is solving a problem involving apply an understanding of relationships to deduce properties of geometric figures. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving apply an understanding of relationships to deduce properties of geometric figures. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore proofs of geometric theorems and using them to solve spatial problems",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore proofs of geometric theorems and using them to solve spatial problems?",
-    "audioPrompt": "Which description correctly applies explore proofs of geometric theorems and using them to solve spatial problems?",
+    "question": "A Year 10 student is solving a problem involving explore proofs of geometric theorems and using them to solve spatial problems. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore proofs of geometric theorems and using them to solve spatial problems. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle starting and finishing at the same point",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle, starting and finishing at the same point?",
-    "audioPrompt": "Which description correctly applies use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle, starting and finishing at the same point?",
+    "question": "A Year 10 student is solving a problem involving use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle starting and finishing at the same point. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle starting and finishing at the same point. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore how automated theorem provers atp and interactive proof assistants ipa allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how automated theorem provers (atp) and interactive proof assistants (ipa) allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs?",
-    "audioPrompt": "Which description correctly applies explore how automated theorem provers (atp) and interactive proof assistants (ipa) allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs?",
+    "question": "A Year 10 student is solving a problem involving explore how automated theorem provers atp and interactive proof assistants ipa allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore how automated theorem provers atp and interactive proof assistants ipa allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

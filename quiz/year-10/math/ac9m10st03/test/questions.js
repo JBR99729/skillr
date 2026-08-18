@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "informally using a line of good fit by eye to discuss reliability of any predictions",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies informally using a line of good fit by eye to discuss reliability of any predictions?",
-    "audioPrompt": "Which description correctly applies informally using a line of good fit by eye to discuss reliability of any predictions?",
+    "question": "A Year 10 student is solving a problem involving informally using a line of good fit by eye to discuss reliability of any predictions. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving informally using a line of good fit by eye to discuss reliability of any predictions. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "explore how scatter plots and association help data scientists gain insights into the data identify relationships",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how scatter plots and association help data scientists gain insights into the data, identify relationships?",
-    "audioPrompt": "Which description correctly applies explore how scatter plots and association help data scientists gain insights into the data, identify relationships?",
+    "question": "A Year 10 student is solving a problem involving explore how scatter plots and association help data scientists gain insights into the data identify relationships. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore how scatter plots and association help data scientists gain insights into the data identify relationships. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations?",
-    "audioPrompt": "Which description correctly applies explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations?",
+    "question": "A Year 10 student is solving a problem involving explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots make comparisons and draw conclusions",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots, make comparisons and draw conclusions?",
-    "audioPrompt": "Which description correctly applies explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots, make comparisons and draw conclusions?",
+    "question": "A Year 10 student is solving a problem involving explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots make comparisons and draw conclusions. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore the relationship between 2 variables of spear throwers used by first peoples of australia by using data to construct scatterplots make comparisons and draw conclusions. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

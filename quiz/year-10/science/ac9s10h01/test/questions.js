@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use how astronomer vera rubin s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how astronomer vera rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how astronomer vera rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how astronomer vera rubin s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how astronomer vera rubin s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use how the discovery of gravity waves validated einstein s theory to make the role of replication and refinement visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how the discovery of gravity waves validated einstein’s theory to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how the discovery of gravity waves validated einstein’s theory to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how the discovery of gravity waves validated einstein s theory to make the role of replication and refinement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how the discovery of gravity waves validated einstein s theory to make the role of replication and refinement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "determine the volumes and surface areas of composite solids formed from a range of right prisms and cylinders by considering the individual solids from which they are constructed",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed?",
-    "audioPrompt": "Which interpretation is accurate for determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed?",
+    "question": "A Year 10 student is solving a problem involving determine the volumes and surface areas of composite solids formed from a range of right prisms and cylinders by considering the individual solids from which they are constructed. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving determine the volumes and surface areas of composite solids formed from a range of right prisms and cylinders by considering the individual solids from which they are constructed. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "estimate the surface area and volume of composite objects in practical contexts",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for estimate the surface area and volume of composite objects in practical contexts?",
-    "audioPrompt": "Which interpretation is accurate for estimate the surface area and volume of composite objects in practical contexts?",
+    "question": "A Year 10 student is solving a problem involving estimate the surface area and volume of composite objects in practical contexts. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving estimate the surface area and volume of composite objects in practical contexts. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use mathematical modelling to provide solutions to problems involving surface area and volume",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use mathematical modelling to provide solutions to problems involving surface area and volume?",
-    "audioPrompt": "Which interpretation is accurate for use mathematical modelling to provide solutions to problems involving surface area and volume?",
+    "question": "A Year 10 student is solving a problem involving use mathematical modelling to provide solutions to problems involving surface area and volume. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use mathematical modelling to provide solutions to problems involving surface area and volume. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "determine the volumes and surface areas of composite solids formed from a range of right prisms and cylinders by considering the individual solids from which they are constructed",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed?",
-    "audioPrompt": "Which choice demonstrates determine the volumes and surface areas of composite solids, formed from a range of right prisms and cylinders, by considering the individual solids from which they are constructed?",
+    "question": "A Year 10 student is solving a problem involving determine the volumes and surface areas of composite solids formed from a range of right prisms and cylinders by considering the individual solids from which they are constructed. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving determine the volumes and surface areas of composite solids formed from a range of right prisms and cylinders by considering the individual solids from which they are constructed. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

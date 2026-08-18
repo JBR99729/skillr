@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "describe events using language of at least exclusive or a or b but not both inclusive or a or b or both and and",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
-    "audioPrompt": "Which interpretation is accurate for describe events using language of “at least”, exclusive “or” (a or b but not both), inclusive “or” (a or b or both) and “and”?",
+    "question": "A Year 8 student is solving a problem involving describe events using language of at least exclusive or a or b but not both inclusive or a or b or both and and. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving describe events using language of at least exclusive or a or b but not both inclusive or a or b or both and and. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use the relation pr a and b pr a and not b pr not a and b pr not a and not b 1 to calculate probabilities including the special case of mutually exclusive events where pr a",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
-    "audioPrompt": "Which interpretation is accurate for use the relation pr(a and b)+pr(a and not b)+pr(not a and b)+pr(not a and not b)= 1 to calculate probabilities, including the special case of mutually exclusive events where pr(a?",
+    "question": "A Year 8 student is solving a problem involving use the relation pr a and b pr a and not b pr not a and b pr not a and not b 1 to calculate probabilities including the special case of mutually exclusive events where pr a. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use the relation pr a and b pr a and not b pr not a and b pr not a and not b 1 to calculate probabilities including the special case of mutually exclusive events where pr a. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use venn diagrams or two way tables to demonstrate the difference between events that are mutually exclusive such as whether a coin toss will land on a head or a tail",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
-    "audioPrompt": "Which interpretation is accurate for use venn diagrams or two-way tables to demonstrate the difference between events that are mutually exclusive, such as whether a coin toss will land on a head or a tail?",
+    "question": "A Year 8 student is solving a problem involving use venn diagrams or two way tables to demonstrate the difference between events that are mutually exclusive such as whether a coin toss will land on a head or a tail. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use venn diagrams or two way tables to demonstrate the difference between events that are mutually exclusive such as whether a coin toss will land on a head or a tail. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore first nations australian children s instructive games",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore first nations australian children’s instructive games?",
-    "audioPrompt": "Which interpretation is accurate for explore first nations australian children’s instructive games?",
+    "question": "A Year 8 student is solving a problem involving explore first nations australian children s instructive games. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore first nations australian children s instructive games. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

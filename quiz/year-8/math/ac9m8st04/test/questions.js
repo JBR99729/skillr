@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
-    "audioPrompt": "Which interpretation is accurate for use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
+    "question": "A Year 8 student is solving a problem involving use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data?",
-    "audioPrompt": "Which interpretation is accurate for identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data?",
+    "question": "A Year 8 student is solving a problem involving identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore progress in reconciliation between first nations australians and non-indigenous australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress?",
-    "audioPrompt": "Which interpretation is accurate for explore progress in reconciliation between first nations australians and non-indigenous australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress?",
+    "question": "A Year 8 student is solving a problem involving explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
-    "audioPrompt": "Which choice demonstrates use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
+    "question": "A Year 8 student is solving a problem involving use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

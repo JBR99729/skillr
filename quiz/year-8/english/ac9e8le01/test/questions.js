@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use representation to shape explaining attitudes and ideas about the natural world in literary texts drawn from contexts different to their own and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being knowing thinking and doing and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being, knowing, thinking and doing and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being knowing thinking and doing and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use text choice to shape explaining the ways texts by first nations australian authors represent unique ways of being knowing thinking and doing and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use voice to shape discussing representations of characters from historical contexts in literary texts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

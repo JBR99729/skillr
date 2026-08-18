@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "audit_a_headline",
-    "question": "Which statement correctly explains science communication in science communication and decision-making?",
-    "audio_prompt": "Which statement correctly explains science communication in science communication and decision-making?",
+    "question": "A Year 7 student is investigating audit a headline. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating audit a headline. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "read_uncertainty",
-    "question": "Which description is accurate for uncertainty in science communication and decision-making?",
-    "audio_prompt": "Which description is accurate for uncertainty in science communication and decision-making?",
+    "question": "A Year 7 student is investigating read uncertainty. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating read uncertainty. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "check_graph_scale",
-    "question": "Which statement gives an example of source transparency in science communication and decision-making?",
-    "audio_prompt": "Which statement gives an example of source transparency in science communication and decision-making?",
+    "question": "A Year 7 student is investigating check graph scale. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating check graph scale. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "separate_finding_recommendation",
-    "question": "What is important when using science communication in science communication and decision-making?",
-    "audio_prompt": "What is important when using science communication in science communication and decision-making?",
+    "question": "A Year 7 student is investigating separate finding recommendation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating separate finding recommendation. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "check_graph_scale",
-    "question": "Which statement is true about uncertainty in science communication and decision-making?",
-    "audio_prompt": "Which statement is true about uncertainty in science communication and decision-making?",
+    "question": "A Year 7 student is investigating check graph scale. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating check graph scale. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "separate_finding_recommendation",
-    "question": "Which response correctly applies separate finding/recommendation in science communication and decision-making?",
-    "audio_prompt": "Which response correctly applies separate finding/recommendation in science communication and decision-making?",
+    "question": "A Year 7 student is investigating separate finding recommendation. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating separate finding recommendation. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "improve_accessibility",
-    "question": "Which response shows correct use of improve accessibility in science communication and decision-making?",
-    "audio_prompt": "Which response shows correct use of improve accessibility in science communication and decision-making?",
+    "question": "A Year 7 student is investigating improve accessibility. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating improve accessibility. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "audit_a_headline",
-    "question": "Which interpretation is accurate for audit a headline in science communication and decision-making?",
-    "audio_prompt": "Which interpretation is accurate for audit a headline in science communication and decision-making?",
+    "question": "A Year 7 student is investigating audit a headline. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating audit a headline. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "read_uncertainty",
-    "question": "Which choice demonstrates read uncertainty in science communication and decision-making?",
-    "audio_prompt": "Which choice demonstrates read uncertainty in science communication and decision-making?",
+    "question": "A Year 7 student is investigating read uncertainty. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating read uncertainty. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "improve_accessibility",
-    "question": "Which claim is accurate about improve accessibility in science communication and decision-making?",
-    "audio_prompt": "Which claim is accurate about improve accessibility in science communication and decision-making?",
+    "question": "A Year 7 student is investigating improve accessibility. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating improve accessibility. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "audit_a_headline",
-    "question": "What is required to apply audit a headline in science communication and decision-making?",
-    "audio_prompt": "What is required to apply audit a headline in science communication and decision-making?",
+    "question": "A Year 7 student is investigating audit a headline. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating audit a headline. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

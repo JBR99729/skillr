@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "compare_print_digital",
-    "question": "Which statement correctly explains affordance in technology, reading and text creation?",
-    "audio_prompt": "Which statement correctly explains affordance in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "analyse_interface_pathway",
-    "question": "Which description is accurate for interface in technology, reading and text creation?",
-    "audio_prompt": "Which description is accurate for interface in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use analyse interface pathway. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse interface pathway. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "identify_accessibility_issue",
-    "question": "Which statement gives an example of algorithmic selection in technology, reading and text creation?",
-    "audio_prompt": "Which statement gives an example of algorithmic selection in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use identify accessibility issue. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify accessibility issue. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "explain_algorithmic_selection",
-    "question": "What is important when using affordance in technology, reading and text creation?",
-    "audio_prompt": "What is important when using affordance in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use explain algorithmic selection. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain algorithmic selection. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "identify_accessibility_issue",
-    "question": "Which statement is true about interface in technology, reading and text creation?",
-    "audio_prompt": "Which statement is true about interface in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use identify accessibility issue. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify accessibility issue. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "explain_algorithmic_selection",
-    "question": "Which response correctly applies explain algorithmic selection in technology, reading and text creation?",
-    "audio_prompt": "Which response correctly applies explain algorithmic selection in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use explain algorithmic selection. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain algorithmic selection. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "evaluate_collaborative_authorship",
-    "question": "Which response shows correct use of evaluate collaborative authorship in technology, reading and text creation?",
-    "audio_prompt": "Which response shows correct use of evaluate collaborative authorship in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use evaluate collaborative authorship. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use evaluate collaborative authorship. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "compare_print_digital",
-    "question": "Which interpretation is accurate for compare print/digital in technology, reading and text creation?",
-    "audio_prompt": "Which interpretation is accurate for compare print/digital in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "analyse_interface_pathway",
-    "question": "Which choice demonstrates analyse interface pathway in technology, reading and text creation?",
-    "audio_prompt": "Which choice demonstrates analyse interface pathway in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use analyse interface pathway. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse interface pathway. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "evaluate_collaborative_authorship",
-    "question": "Which claim is accurate about evaluate collaborative authorship in technology, reading and text creation?",
-    "audio_prompt": "Which claim is accurate about evaluate collaborative authorship in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use evaluate collaborative authorship. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use evaluate collaborative authorship. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "compare_print_digital",
-    "question": "What is required to apply compare print/digital in technology, reading and text creation?",
-    "audio_prompt": "What is required to apply compare print/digital in technology, reading and text creation?",
+    "question": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

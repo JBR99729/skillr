@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "classify_a_square_fully",
-    "question": "Which statement correctly explains defining property in classifying polygons by properties?",
-    "audio_prompt": "Which statement correctly explains defining property in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_kite_rhombus",
-    "question": "Which description is accurate for inclusive definition in classifying polygons by properties?",
-    "audio_prompt": "Which description is accurate for inclusive definition in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving compare kite rhombus. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving compare kite rhombus. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "classify_a_right_isosceles_triangle",
-    "question": "Which statement gives an example of regular polygon in classifying polygons by properties?",
-    "audio_prompt": "Which statement gives an example of regular polygon in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving classify a right isosceles triangle. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving classify a right isosceles triangle. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "define_regular_polygon",
-    "question": "What is important when using defining property in classifying polygons by properties?",
-    "audio_prompt": "What is important when using defining property in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving define regular polygon. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving define regular polygon. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "classify_a_right_isosceles_triangle",
-    "question": "Which statement is true about inclusive definition in classifying polygons by properties?",
-    "audio_prompt": "Which statement is true about inclusive definition in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving classify a right isosceles triangle. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving classify a right isosceles triangle. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "define_regular_polygon",
-    "question": "Which response correctly applies define regular polygon in classifying polygons by properties?",
-    "audio_prompt": "Which response correctly applies define regular polygon in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving define regular polygon. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving define regular polygon. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_a_counterexample",
-    "question": "Which response shows correct use of use a counterexample in classifying polygons by properties?",
-    "audio_prompt": "Which response shows correct use of use a counterexample in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "classify_a_square_fully",
-    "question": "Which interpretation is accurate for classify a square fully in classifying polygons by properties?",
-    "audio_prompt": "Which interpretation is accurate for classify a square fully in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "compare_kite_rhombus",
-    "question": "Which choice demonstrates compare kite/rhombus in classifying polygons by properties?",
-    "audio_prompt": "Which choice demonstrates compare kite/rhombus in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving compare kite rhombus. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving compare kite rhombus. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_a_counterexample",
-    "question": "Which claim is accurate about use a counterexample in classifying polygons by properties?",
-    "audio_prompt": "Which claim is accurate about use a counterexample in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "classify_a_square_fully",
-    "question": "What is required to apply classify a square fully in classifying polygons by properties?",
-    "audio_prompt": "What is required to apply classify a square fully in classifying polygons by properties?",
+    "question": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

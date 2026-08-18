@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates and the number of cases per head of population",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population?",
-    "audioPrompt": "Which description correctly applies explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population?",
+    "question": "A Year 10 student is solving a problem involving explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates and the number of cases per head of population. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates and the number of cases per head of population. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication?",
-    "audioPrompt": "Which description correctly applies use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication?",
+    "question": "A Year 10 student is solving a problem involving use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness accuracy",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy?",
-    "audioPrompt": "Which description correctly applies recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy?",
+    "question": "A Year 10 student is solving a problem involving recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness accuracy. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness accuracy. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use the concept of indigenous data sovereignty to critique and evaluate the australian government s closing the gap report",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the concept of indigenous data sovereignty to critique and evaluate the australian government’s “closing the gap” report?",
-    "audioPrompt": "Which description correctly applies use the concept of indigenous data sovereignty to critique and evaluate the australian government’s “closing the gap” report?",
+    "question": "A Year 10 student is solving a problem involving use the concept of indigenous data sovereignty to critique and evaluate the australian government s closing the gap report. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use the concept of indigenous data sovereignty to critique and evaluate the australian government s closing the gap report. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

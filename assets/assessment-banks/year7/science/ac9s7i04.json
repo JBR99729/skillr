@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "choose_a_graph",
-    "question": "Which statement correctly explains representation in scientific representations and models?",
-    "audio_prompt": "Which statement correctly explains representation in scientific representations and models?",
+    "question": "A Year 7 student is investigating choose a graph. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a graph. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "label_axes",
-    "question": "Which description is accurate for scale in scientific representations and models?",
-    "audio_prompt": "Which description is accurate for scale in scientific representations and models?",
+    "question": "A Year 7 student is investigating label axes. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating label axes. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "audit_scale",
-    "question": "Which statement gives an example of model limitation in scientific representations and models?",
-    "audio_prompt": "Which statement gives an example of model limitation in scientific representations and models?",
+    "question": "A Year 7 student is investigating audit scale. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating audit scale. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "explain_model_limit",
-    "question": "What is important when using representation in scientific representations and models?",
-    "audio_prompt": "What is important when using representation in scientific representations and models?",
+    "question": "A Year 7 student is investigating explain model limit. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain model limit. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "audit_scale",
-    "question": "Which statement is true about scale in scientific representations and models?",
-    "audio_prompt": "Which statement is true about scale in scientific representations and models?",
+    "question": "A Year 7 student is investigating audit scale. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating audit scale. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "explain_model_limit",
-    "question": "Which response correctly applies explain model limit in scientific representations and models?",
-    "audio_prompt": "Which response correctly applies explain model limit in scientific representations and models?",
+    "question": "A Year 7 student is investigating explain model limit. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain model limit. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "link_pattern_to_evidence",
-    "question": "Which response shows correct use of link pattern to evidence in scientific representations and models?",
-    "audio_prompt": "Which response shows correct use of link pattern to evidence in scientific representations and models?",
+    "question": "A Year 7 student is investigating link pattern to evidence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating link pattern to evidence. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_a_graph",
-    "question": "Which interpretation is accurate for choose a graph in scientific representations and models?",
-    "audio_prompt": "Which interpretation is accurate for choose a graph in scientific representations and models?",
+    "question": "A Year 7 student is investigating choose a graph. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a graph. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "label_axes",
-    "question": "Which choice demonstrates label axes in scientific representations and models?",
-    "audio_prompt": "Which choice demonstrates label axes in scientific representations and models?",
+    "question": "A Year 7 student is investigating label axes. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating label axes. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "link_pattern_to_evidence",
-    "question": "Which claim is accurate about link pattern to evidence in scientific representations and models?",
-    "audio_prompt": "Which claim is accurate about link pattern to evidence in scientific representations and models?",
+    "question": "A Year 7 student is investigating link pattern to evidence. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating link pattern to evidence. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_a_graph",
-    "question": "What is required to apply choose a graph in scientific representations and models?",
-    "audio_prompt": "What is required to apply choose a graph in scientific representations and models?",
+    "question": "A Year 7 student is investigating choose a graph. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a graph. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "design_and_making_scale_models_of_three_dimensional_objects_using_digital_tools",
-    "question": "Which statement correctly describes design and making scale models of three-dimensional objects using digital tools?",
-    "audio_prompt": "Which statement correctly describes design and making scale models of three-dimensional objects using digital tools?",
+    "question": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "apply_a_computational_thinking_approach_to_solving_problems_involving_networks",
-    "question": "Which statement correctly describes apply a computational thinking approach to solving problems involving networks?",
-    "audio_prompt": "Which statement correctly describes apply a computational thinking approach to solving problems involving networks?",
+    "question": "A Year 10 student is solving a problem involving apply a computational thinking approach to solving problems involving networks. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving apply a computational thinking approach to solving problems involving networks. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "defining_and_decomposing_spatial_problems_creating_and_applying_algorithms_to_generate_solutions_evaluating_and_communicating_solutions_in_terms_of_the_problem",
-    "question": "Which statement correctly describes defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem?",
-    "audio_prompt": "Which statement correctly describes defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem?",
+    "question": "A Year 10 student is solving a problem involving defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "designing_creating_and_testing_algorithms_using_pseudocode_or_flow_charts_for_producing_self_similar_patterns_validating_algorithms_using_a_range_of_test_cases_to_compare_their_output",
-    "question": "Which statement correctly describes designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output?",
-    "audio_prompt": "Which statement correctly describes designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output?",
+    "question": "A Year 10 student is solving a problem involving designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_geospatial_technologies_used_by_first_nations_australians_communities_to_consider_spatial_problems_including_position_and_transformation",
-    "question": "Which statement correctly describes explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation?",
-    "audio_prompt": "Which statement correctly describes explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation?",
+    "question": "A Year 10 student is solving a problem involving explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "design_and_making_scale_models_of_three_dimensional_objects_using_digital_tools",
-    "question": "Which statement gives a valid example of design and making scale models of three-dimensional objects using digital tools?",
-    "audio_prompt": "Which statement gives a valid example of design and making scale models of three-dimensional objects using digital tools?",
+    "question": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "apply_a_computational_thinking_approach_to_solving_problems_involving_networks",
-    "question": "Which statement gives a valid example of apply a computational thinking approach to solving problems involving networks?",
-    "audio_prompt": "Which statement gives a valid example of apply a computational thinking approach to solving problems involving networks?",
+    "question": "A Year 10 student is solving a problem involving apply a computational thinking approach to solving problems involving networks. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving apply a computational thinking approach to solving problems involving networks. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "defining_and_decomposing_spatial_problems_creating_and_applying_algorithms_to_generate_solutions_evaluating_and_communicating_solutions_in_terms_of_the_problem",
-    "question": "Which statement gives a valid example of defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem?",
-    "audio_prompt": "Which statement gives a valid example of defining and decomposing spatial problems, creating and applying algorithms to generate solutions, evaluating and communicating solutions in terms of the problem?",
+    "question": "A Year 10 student is solving a problem involving defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving defining and decomposing spatial problems creating and applying algorithms to generate solutions evaluating and communicating solutions in terms of the problem. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "designing_creating_and_testing_algorithms_using_pseudocode_or_flow_charts_for_producing_self_similar_patterns_validating_algorithms_using_a_range_of_test_cases_to_compare_their_output",
-    "question": "Which description correctly applies designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output?",
-    "audio_prompt": "Which description correctly applies designing, creating and testing algorithms using pseudocode or flow charts for producing self-similar patterns; validating algorithms using a range of test cases to compare their output?",
+    "question": "A Year 10 student is solving a problem involving designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving designing creating and testing algorithms using pseudocode or flow charts for producing self similar patterns validating algorithms using a range of test cases to compare their output. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_geospatial_technologies_used_by_first_nations_australians_communities_to_consider_spatial_problems_including_position_and_transformation",
-    "question": "Which description correctly applies explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation?",
-    "audio_prompt": "Which description correctly applies explore geospatial technologies used by first nations australians’ communities to consider spatial problems including position and transformation?",
+    "question": "A Year 10 student is solving a problem involving explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore geospatial technologies used by first nations australians communities to consider spatial problems including position and transformation. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "design_and_making_scale_models_of_three_dimensional_objects_using_digital_tools",
-    "question": "Which interpretation is accurate for design and making scale models of three-dimensional objects using digital tools?",
-    "audio_prompt": "Which interpretation is accurate for design and making scale models of three-dimensional objects using digital tools?",
+    "question": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving design and making scale models of three dimensional objects using digital tools. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

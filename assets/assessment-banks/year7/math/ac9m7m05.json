@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "demonstrate_180",
-    "question": "Which statement correctly explains interior angle in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which statement correctly explains interior angle in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_a_missing_angle",
-    "question": "Which description is accurate for exterior angle in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which description is accurate for exterior angle in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_isosceles_property",
-    "question": "Which statement gives an example of Euclidean geometry in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which statement gives an example of Euclidean geometry in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_exterior_angle_theorem",
-    "question": "What is important when using interior angle in triangle angle sum and unknown angles?",
-    "audio_prompt": "What is important when using interior angle in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_isosceles_property",
-    "question": "Which statement is true about exterior angle in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which statement is true about exterior angle in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_exterior_angle_theorem",
-    "question": "Which response correctly applies use exterior-angle theorem in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which response correctly applies use exterior-angle theorem in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_deductive_reason",
-    "question": "Which response shows correct use of write a deductive reason in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which response shows correct use of write a deductive reason in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving write a deductive reason. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a deductive reason. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "demonstrate_180",
-    "question": "Which interpretation is accurate for demonstrate 180° in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which interpretation is accurate for demonstrate 180° in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_a_missing_angle",
-    "question": "Which choice demonstrates find a missing angle in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which choice demonstrates find a missing angle in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_deductive_reason",
-    "question": "Which claim is accurate about write a deductive reason in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which claim is accurate about write a deductive reason in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving write a deductive reason. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a deductive reason. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "demonstrate_180",
-    "question": "What is required to apply demonstrate 180° in triangle angle sum and unknown angles?",
-    "audio_prompt": "What is required to apply demonstrate 180° in triangle angle sum and unknown angles?",
+    "question": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

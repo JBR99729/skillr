@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use first nations australians heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use first nations australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use first nations australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use first nations australians heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use first nations australians heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

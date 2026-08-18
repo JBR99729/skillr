@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "calculate_a_mean",
-    "question": "Which statement correctly explains trend in analysing patterns, trends and relationships?",
-    "audio_prompt": "Which statement correctly explains trend in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating calculate a mean. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating calculate a mean. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "describe_a_trend",
-    "question": "Which description is accurate for anomaly in analysing patterns, trends and relationships?",
-    "audio_prompt": "Which description is accurate for anomaly in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating describe a trend. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating describe a trend. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "investigate_anomaly",
-    "question": "Which statement gives an example of data processing in analysing patterns, trends and relationships?",
-    "audio_prompt": "Which statement gives an example of data processing in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating investigate anomaly. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating investigate anomaly. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "quantify_relationship",
-    "question": "What is important when using trend in analysing patterns, trends and relationships?",
-    "audio_prompt": "What is important when using trend in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating quantify relationship. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating quantify relationship. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "investigate_anomaly",
-    "question": "Which statement is true about anomaly in analysing patterns, trends and relationships?",
-    "audio_prompt": "Which statement is true about anomaly in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating investigate anomaly. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating investigate anomaly. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "quantify_relationship",
-    "question": "Which response correctly applies quantify relationship in analysing patterns, trends and relationships?",
-    "audio_prompt": "Which response correctly applies quantify relationship in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating quantify relationship. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating quantify relationship. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "write_a_limited_conclusion",
-    "question": "Which response shows correct use of write a limited conclusion in analysing patterns, trends and relationships?",
-    "audio_prompt": "Which response shows correct use of write a limited conclusion in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating write a limited conclusion. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating write a limited conclusion. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "calculate_a_mean",
-    "question": "Which interpretation is accurate for calculate a mean in analysing patterns, trends and relationships?",
-    "audio_prompt": "Which interpretation is accurate for calculate a mean in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating calculate a mean. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating calculate a mean. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "describe_a_trend",
-    "question": "Which choice demonstrates describe a trend in analysing patterns, trends and relationships?",
-    "audio_prompt": "Which choice demonstrates describe a trend in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating describe a trend. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating describe a trend. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "write_a_limited_conclusion",
-    "question": "Which claim is accurate about write a limited conclusion in analysing patterns, trends and relationships?",
-    "audio_prompt": "Which claim is accurate about write a limited conclusion in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating write a limited conclusion. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating write a limited conclusion. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "calculate_a_mean",
-    "question": "What is required to apply calculate a mean in analysing patterns, trends and relationships?",
-    "audio_prompt": "What is required to apply calculate a mean in analysing patterns, trends and relationships?",
+    "question": "A Year 7 student is investigating calculate a mean. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating calculate a mean. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

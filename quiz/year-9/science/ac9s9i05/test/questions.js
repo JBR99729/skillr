@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use tables graphs and digital simulations of radioactive decay half life to make the role of model based explanation visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use tables graphs and digital simulations of radioactive decay half life to make the role of model based explanation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use tables graphs and digital simulations of radioactive decay half life to make the role of model based explanation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which interpretation is accurate for use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

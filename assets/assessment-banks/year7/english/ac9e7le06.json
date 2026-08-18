@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "state_literal_layer",
-    "question": "Which statement correctly explains layered meaning in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which statement correctly explains layered meaning in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "develop_figurative_layer",
-    "question": "Which description is accurate for ambiguity in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which description is accurate for ambiguity in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use develop figurative layer. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use develop figurative layer. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "trace_motif",
-    "question": "Which statement gives an example of symbolism in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which statement gives an example of symbolism in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "use_context_cautiously",
-    "question": "What is important when using layered meaning in layers of meaning in poetry and literature?",
-    "audio_prompt": "What is important when using layered meaning in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use use context cautiously. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use use context cautiously. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "trace_motif",
-    "question": "Which statement is true about ambiguity in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which statement is true about ambiguity in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "use_context_cautiously",
-    "question": "Which response correctly applies use context cautiously in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which response correctly applies use context cautiously in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use use context cautiously. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use use context cautiously. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "compare_interpretations",
-    "question": "Which response shows correct use of compare interpretations in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which response shows correct use of compare interpretations in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "state_literal_layer",
-    "question": "Which interpretation is accurate for state literal layer in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which interpretation is accurate for state literal layer in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "develop_figurative_layer",
-    "question": "Which choice demonstrates develop figurative layer in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which choice demonstrates develop figurative layer in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use develop figurative layer. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use develop figurative layer. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "compare_interpretations",
-    "question": "Which claim is accurate about compare interpretations in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which claim is accurate about compare interpretations in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "state_literal_layer",
-    "question": "What is required to apply state literal layer in layers of meaning in poetry and literature?",
-    "audio_prompt": "What is required to apply state literal layer in layers of meaning in poetry and literature?",
+    "question": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

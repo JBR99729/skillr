@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "choose_a_useful_feature",
-    "question": "Which statement correctly explains classification in biological classification and dichotomous keys?",
-    "audio_prompt": "Which statement correctly explains classification in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "follow_a_key",
-    "question": "Which description is accurate for dichotomous key in biological classification and dichotomous keys?",
-    "audio_prompt": "Which description is accurate for dichotomous key in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating follow a key. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating follow a key. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "find_an_ambiguous_split",
-    "question": "Which statement gives an example of taxon in biological classification and dichotomous keys?",
-    "audio_prompt": "Which statement gives an example of taxon in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "create_paired_statements",
-    "question": "What is important when using classification in biological classification and dichotomous keys?",
-    "audio_prompt": "What is important when using classification in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating create paired statements. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating create paired statements. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "find_an_ambiguous_split",
-    "question": "Which statement is true about dichotomous key in biological classification and dichotomous keys?",
-    "audio_prompt": "Which statement is true about dichotomous key in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "create_paired_statements",
-    "question": "Which response correctly applies create paired statements in biological classification and dichotomous keys?",
-    "audio_prompt": "Which response correctly applies create paired statements in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating create paired statements. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating create paired statements. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "explain_why_classification_may_change",
-    "question": "Which response shows correct use of explain why classification may change in biological classification and dichotomous keys?",
-    "audio_prompt": "Which response shows correct use of explain why classification may change in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating explain why classification may change. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain why classification may change. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_a_useful_feature",
-    "question": "Which interpretation is accurate for choose a useful feature in biological classification and dichotomous keys?",
-    "audio_prompt": "Which interpretation is accurate for choose a useful feature in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "follow_a_key",
-    "question": "Which choice demonstrates follow a key in biological classification and dichotomous keys?",
-    "audio_prompt": "Which choice demonstrates follow a key in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating follow a key. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating follow a key. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "explain_why_classification_may_change",
-    "question": "Which claim is accurate about explain why classification may change in biological classification and dichotomous keys?",
-    "audio_prompt": "Which claim is accurate about explain why classification may change in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating explain why classification may change. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain why classification may change. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_a_useful_feature",
-    "question": "What is required to apply choose a useful feature in biological classification and dichotomous keys?",
-    "audio_prompt": "What is required to apply choose a useful feature in biological classification and dichotomous keys?",
+    "question": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views?",
-    "audioPrompt": "Which description correctly applies compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views?",
+    "question": "A Year 8 student is solving a problem involving compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system?",
-    "audioPrompt": "Which description correctly applies use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system?",
+    "question": "A Year 8 student is solving a problem involving use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional noughts and crosses (tic-tac-toe)?",
-    "audioPrompt": "Which description correctly applies interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional noughts and crosses (tic-tac-toe)?",
+    "question": "A Year 8 student is solving a problem involving interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore position and transformation through geospatial technologies used by first nations australians communities",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore position and transformation through geospatial technologies used by first nations australians’ communities?",
-    "audioPrompt": "Which description correctly applies explore position and transformation through geospatial technologies used by first nations australians’ communities?",
+    "question": "A Year 8 student is solving a problem involving explore position and transformation through geospatial technologies used by first nations australians communities. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore position and transformation through geospatial technologies used by first nations australians communities. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

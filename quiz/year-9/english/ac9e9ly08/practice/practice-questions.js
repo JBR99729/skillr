@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use purpose to shape exploring the spelling of neologisms and their effect in media texts such as online posts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a writer or speaker can use purpose to shape exploring the spelling of neologisms and their effect in media texts such as online posts and influence how an audience understands the text?",
-    "audioPrompt": "Which statement correctly describes a writer or speaker can use purpose to shape exploring the spelling of neologisms and their effect in media texts such as online posts and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape exploring the spelling of neologisms and their effect in media texts such as online posts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape exploring the spelling of neologisms and their effect in media texts such as online posts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use structure to shape analysing how spelling is used to represent the distinctive speech of a character by noting where authors have dropped letters from words to emulate the sound of spoken words and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a writer or speaker can use structure to shape analysing how spelling is used to represent the distinctive speech of a character by noting where authors have dropped letters from words to emulate the sound of spoken words and influence how an audience understands the text?",
-    "audioPrompt": "Which statement correctly describes a writer or speaker can use structure to shape analysing how spelling is used to represent the distinctive speech of a character by noting where authors have dropped letters from words to emulate the sound of spoken words and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape analysing how spelling is used to represent the distinctive speech of a character by noting where authors have dropped letters from words to emulate the sound of spoken words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape analysing how spelling is used to represent the distinctive speech of a character by noting where authors have dropped letters from words to emulate the sound of spoken words and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use purpose to shape exploring the spelling of neologisms and their effect in media texts such as online posts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a writer or speaker can use purpose to shape exploring the spelling of neologisms and their effect in media texts such as online posts and influence how an audience understands the text?",
-    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use purpose to shape exploring the spelling of neologisms and their effect in media texts such as online posts and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape exploring the spelling of neologisms and their effect in media texts such as online posts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape exploring the spelling of neologisms and their effect in media texts such as online posts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use structure to shape analysing how spelling is used to represent the distinctive speech of a character by noting where authors have dropped letters from words to emulate the sound of spoken words and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a writer or speaker can use structure to shape analysing how spelling is used to represent the distinctive speech of a character by noting where authors have dropped letters from words to emulate the sound of spoken words and influence how an audience understands the text?",
-    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use structure to shape analysing how spelling is used to represent the distinctive speech of a character by noting where authors have dropped letters from words to emulate the sound of spoken words and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape analysing how spelling is used to represent the distinctive speech of a character by noting where authors have dropped letters from words to emulate the sound of spoken words and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape analysing how spelling is used to represent the distinctive speech of a character by noting where authors have dropped letters from words to emulate the sound of spoken words and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

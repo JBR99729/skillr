@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "identify_motivation",
-    "question": "Which statement correctly explains character motivation in character, setting and event systems?",
-    "audio_prompt": "Which statement correctly explains character motivation in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "explain_setting_constraint",
-    "question": "Which description is accurate for setting constraint in character, setting and event systems?",
-    "audio_prompt": "Which description is accurate for setting constraint in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use explain setting constraint. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain setting constraint. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "trace_causal_chain",
-    "question": "Which statement gives an example of causal chain in character, setting and event systems?",
-    "audio_prompt": "Which statement gives an example of causal chain in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use trace causal chain. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use trace causal chain. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "map_tension",
-    "question": "What is important when using character motivation in character, setting and event systems?",
-    "audio_prompt": "What is important when using character motivation in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use map tension. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use map tension. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "trace_causal_chain",
-    "question": "Which statement is true about setting constraint in character, setting and event systems?",
-    "audio_prompt": "Which statement is true about setting constraint in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use trace causal chain. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use trace causal chain. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "map_tension",
-    "question": "Which response correctly applies map tension in character, setting and event systems?",
-    "audio_prompt": "Which response correctly applies map tension in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use map tension. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use map tension. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "state_thematic_meaning",
-    "question": "Which response shows correct use of state thematic meaning in character, setting and event systems?",
-    "audio_prompt": "Which response shows correct use of state thematic meaning in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use state thematic meaning. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use state thematic meaning. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "identify_motivation",
-    "question": "Which interpretation is accurate for identify motivation in character, setting and event systems?",
-    "audio_prompt": "Which interpretation is accurate for identify motivation in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "explain_setting_constraint",
-    "question": "Which choice demonstrates explain setting constraint in character, setting and event systems?",
-    "audio_prompt": "Which choice demonstrates explain setting constraint in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use explain setting constraint. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use explain setting constraint. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "state_thematic_meaning",
-    "question": "Which claim is accurate about state thematic meaning in character, setting and event systems?",
-    "audio_prompt": "Which claim is accurate about state thematic meaning in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use state thematic meaning. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use state thematic meaning. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "identify_motivation",
-    "question": "What is required to apply identify motivation in character, setting and event systems?",
-    "audio_prompt": "What is required to apply identify motivation in character, setting and event systems?",
+    "question": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

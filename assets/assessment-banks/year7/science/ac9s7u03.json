@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "explain_a_crescent_phase",
-    "question": "Which statement correctly explains lunar phase in earth–sun–moon cycles?",
-    "audio_prompt": "Which statement correctly explains lunar phase in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "distinguish_eclipse_types",
-    "question": "Which description is accurate for eclipse in earth–sun–moon cycles?",
-    "audio_prompt": "Which description is accurate for eclipse in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating distinguish eclipse types. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating distinguish eclipse types. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "explain_seasons_with_tilt",
-    "question": "Which statement gives an example of axial tilt in earth–sun–moon cycles?",
-    "audio_prompt": "Which statement gives an example of axial tilt in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating explain seasons with tilt. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain seasons with tilt. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "use_relative_positions",
-    "question": "What is important when using lunar phase in earth–sun–moon cycles?",
-    "audio_prompt": "What is important when using lunar phase in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating use relative positions. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating use relative positions. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "explain_seasons_with_tilt",
-    "question": "Which statement is true about eclipse in earth–sun–moon cycles?",
-    "audio_prompt": "Which statement is true about eclipse in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating explain seasons with tilt. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain seasons with tilt. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "use_relative_positions",
-    "question": "Which response correctly applies use relative positions in earth–sun–moon cycles?",
-    "audio_prompt": "Which response correctly applies use relative positions in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating use relative positions. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating use relative positions. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "state_model_limitations",
-    "question": "Which response shows correct use of state model limitations in earth–sun–moon cycles?",
-    "audio_prompt": "Which response shows correct use of state model limitations in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "explain_a_crescent_phase",
-    "question": "Which interpretation is accurate for explain a crescent phase in earth–sun–moon cycles?",
-    "audio_prompt": "Which interpretation is accurate for explain a crescent phase in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "distinguish_eclipse_types",
-    "question": "Which choice demonstrates distinguish eclipse types in earth–sun–moon cycles?",
-    "audio_prompt": "Which choice demonstrates distinguish eclipse types in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating distinguish eclipse types. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating distinguish eclipse types. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "state_model_limitations",
-    "question": "Which claim is accurate about state model limitations in earth–sun–moon cycles?",
-    "audio_prompt": "Which claim is accurate about state model limitations in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "explain_a_crescent_phase",
-    "question": "What is required to apply explain a crescent phase in earth–sun–moon cycles?",
-    "audio_prompt": "What is required to apply explain a crescent phase in earth–sun–moon cycles?",
+    "question": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

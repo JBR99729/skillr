@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use the replicability of data collected using different instruments to make the role of sample size visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the replicability of data collected using different instruments to make the role of sample size visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the replicability of data collected using different instruments to make the role of sample size visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use an appropriate sample size for the investigation and how to make the role of calibration visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use an appropriate sample size for the investigation, and how to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use an appropriate sample size for the investigation, and how to make the role of calibration visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use an appropriate sample size for the investigation and how to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use an appropriate sample size for the investigation and how to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

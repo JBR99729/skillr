@@ -239,8 +239,8 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly12 05 answer",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly explains this rule?",
-    "audioPrompt": "Which statement correctly explains this rule?",
+    "question": "A Year 1 student is working with a text and needs to use ac9e1ly12 05 answer. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly12 05 answer. Which option best demonstrates the skill?",
     "visual": "📖 Rule; 🔎 word part; ✅ choose with evidence",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 word part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-009\"></use></svg>",
     "visualMeta": {
@@ -297,8 +297,8 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly12 06 answer",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly explains this worked example?",
-    "audioPrompt": "Which statement correctly explains this worked example?",
+    "question": "A Year 1 student is working with a text and needs to use ac9e1ly12 06 answer. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly12 06 answer. Which option best demonstrates the skill?",
     "visual": "📖 Worked example; 🔎 letter sound; ✅ choose with evidence",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-011\"></use></svg>",
     "visualMeta": {
@@ -355,8 +355,8 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly12 07 answer",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly explains this word strategy?",
-    "audioPrompt": "Which statement correctly explains this word strategy?",
+    "question": "A Year 1 student is working with a text and needs to use ac9e1ly12 07 answer. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly12 07 answer. Which option best demonstrates the skill?",
     "visual": "📖 Word strategy; 🔎 vowel sound; ✅ choose with evidence",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Word strategy; 🔎 vowel sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-013\"></use></svg>",
     "visualMeta": {
@@ -413,8 +413,8 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly12 08 answer",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly explains this common trap?",
-    "audioPrompt": "Which statement correctly explains this common trap?",
+    "question": "A Year 1 student is working with a text and needs to use ac9e1ly12 08 answer. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly12 08 answer. Which option best demonstrates the skill?",
     "visual": "📖 Common trap; 🔎 syllable; ✅ choose with evidence",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-015\"></use></svg>",
     "visualMeta": {

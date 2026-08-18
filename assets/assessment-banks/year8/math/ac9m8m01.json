@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "determine_the_area_of_composite_shapes_by_composing_or_decomposing_shapes",
-    "question": "Which statement correctly describes determine the area of composite shapes by composing or decomposing shapes?",
-    "audio_prompt": "Which statement correctly describes determine the area of composite shapes by composing or decomposing shapes?",
+    "question": "A Year 8 student is solving a problem involving determine the area of composite shapes by composing or decomposing shapes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving determine the area of composite shapes by composing or decomposing shapes. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_the_labelled_model_to_investigate_compare_perimeter_and_area",
-    "question": "Which statement correctly describes use the labelled model to investigate compare perimeter and area?",
-    "audio_prompt": "Which statement correctly describes use the labelled model to investigate compare perimeter and area?",
+    "question": "A Year 8 student is solving a problem involving use the labelled model to investigate compare perimeter and area. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the labelled model to investigate compare perimeter and area. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "determine_the_perimeter_and_area_of_irregular_shapes_by_sums_of_increasingly_accurate_covering_measurements_such_as_line_segments_and_grids",
-    "question": "Which statement correctly describes determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids?",
-    "audio_prompt": "Which statement correctly describes determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids?",
+    "question": "A Year 8 student is solving a problem involving determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements such as line segments and grids. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements such as line segments and grids. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "determine_the_area_of_composite_shapes_by_composing_or_decomposing_shapes",
-    "question": "Which statement gives a valid example of determine the area of composite shapes by composing or decomposing shapes?",
-    "audio_prompt": "Which statement gives a valid example of determine the area of composite shapes by composing or decomposing shapes?",
+    "question": "A Year 8 student is solving a problem involving determine the area of composite shapes by composing or decomposing shapes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving determine the area of composite shapes by composing or decomposing shapes. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_the_labelled_model_to_investigate_compare_perimeter_and_area",
-    "question": "Which statement gives a valid example of use the labelled model to investigate compare perimeter and area?",
-    "audio_prompt": "Which statement gives a valid example of use the labelled model to investigate compare perimeter and area?",
+    "question": "A Year 8 student is solving a problem involving use the labelled model to investigate compare perimeter and area. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the labelled model to investigate compare perimeter and area. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "determine_the_perimeter_and_area_of_irregular_shapes_by_sums_of_increasingly_accurate_covering_measurements_such_as_line_segments_and_grids",
-    "question": "Which statement gives a valid example of determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids?",
-    "audio_prompt": "Which statement gives a valid example of determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids?",
+    "question": "A Year 8 student is solving a problem involving determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements such as line segments and grids. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements such as line segments and grids. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "determine_the_area_of_composite_shapes_by_composing_or_decomposing_shapes",
-    "question": "Which interpretation is accurate for determine the area of composite shapes by composing or decomposing shapes?",
-    "audio_prompt": "Which interpretation is accurate for determine the area of composite shapes by composing or decomposing shapes?",
+    "question": "A Year 8 student is solving a problem involving determine the area of composite shapes by composing or decomposing shapes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving determine the area of composite shapes by composing or decomposing shapes. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_the_labelled_model_to_investigate_compare_perimeter_and_area",
-    "question": "Which interpretation is accurate for use the labelled model to investigate compare perimeter and area?",
-    "audio_prompt": "Which interpretation is accurate for use the labelled model to investigate compare perimeter and area?",
+    "question": "A Year 8 student is solving a problem involving use the labelled model to investigate compare perimeter and area. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the labelled model to investigate compare perimeter and area. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "determine_the_perimeter_and_area_of_irregular_shapes_by_sums_of_increasingly_accurate_covering_measurements_such_as_line_segments_and_grids",
-    "question": "Which interpretation is accurate for determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids?",
-    "audio_prompt": "Which interpretation is accurate for determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids?",
+    "question": "A Year 8 student is solving a problem involving determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements such as line segments and grids. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements such as line segments and grids. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "determine_the_area_of_composite_shapes_by_composing_or_decomposing_shapes",
-    "question": "Which choice demonstrates determine the area of composite shapes by composing or decomposing shapes?",
-    "audio_prompt": "Which choice demonstrates determine the area of composite shapes by composing or decomposing shapes?",
+    "question": "A Year 8 student is solving a problem involving determine the area of composite shapes by composing or decomposing shapes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving determine the area of composite shapes by composing or decomposing shapes. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

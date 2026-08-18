@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "understand that knowing the probability of an event allows the probability of its complement to be found including for those events that are not equally likely",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely?",
-    "audioPrompt": "Which interpretation is accurate for understand that knowing the probability of an event allows the probability of its complement to be found, including for those events that are not equally likely?",
+    "question": "A Year 8 student is solving a problem involving understand that knowing the probability of an event allows the probability of its complement to be found including for those events that are not equally likely. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving understand that knowing the probability of an event allows the probability of its complement to be found including for those events that are not equally likely. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "use the relationship that for a single event a pr a pr not a 1",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use the relationship that for a single event a, pr(a)+pr( not a) = 1?",
-    "audioPrompt": "Which interpretation is accurate for use the relationship that for a single event a, pr(a)+pr( not a) = 1?",
+    "question": "A Year 8 student is solving a problem involving use the relationship that for a single event a pr a pr not a 1. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use the relationship that for a single event a pr a pr not a 1. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "use the sum of probabilities to solve problems such as the probability of starting a game by throwing a 5 or 6 on a dice is 1 3",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3?",
-    "audioPrompt": "Which interpretation is accurate for use the sum of probabilities to solve problems, such as the probability of starting a game by throwing a 5 or 6 on a dice is 1/3?",
+    "question": "A Year 8 student is solving a problem involving use the sum of probabilities to solve problems such as the probability of starting a game by throwing a 5 or 6 on a dice is 1 3. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use the sum of probabilities to solve problems such as the probability of starting a game by throwing a 5 or 6 on a dice is 1 3. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes?",
-    "audioPrompt": "Which interpretation is accurate for explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes?",
+    "question": "A Year 8 student is solving a problem involving explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving explore how various applications of artificial intelligence use the probability of complementary events when assessing the likelihood of favourable and unfavourable outcomes. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

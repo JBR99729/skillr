@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use voice to shape examining how different authors make use of devices such as imagery and explaining the effect of these choices on audiences and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a writer or speaker can use voice to shape examining how different authors make use of devices such as imagery, and explaining the effect of these choices on audiences and influence how an audience understands the text?",
-    "audioPrompt": "Which statement correctly describes a writer or speaker can use voice to shape examining how different authors make use of devices such as imagery, and explaining the effect of these choices on audiences and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape examining how different authors make use of devices such as imagery and explaining the effect of these choices on audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape examining how different authors make use of devices such as imagery and explaining the effect of these choices on audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use representation to shape identifying examples of literary devices in a range of poems and considering how they contribute to meaning and influence the emotional responses of the audience and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a writer or speaker can use representation to shape identifying examples of literary devices in a range of poems and considering how they contribute to meaning and influence the emotional responses of the audience and influence how an audience understands the text?",
-    "audioPrompt": "Which statement correctly describes a writer or speaker can use representation to shape identifying examples of literary devices in a range of poems and considering how they contribute to meaning and influence the emotional responses of the audience and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape identifying examples of literary devices in a range of poems and considering how they contribute to meaning and influence the emotional responses of the audience and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape identifying examples of literary devices in a range of poems and considering how they contribute to meaning and influence the emotional responses of the audience and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use voice to shape examining how different authors make use of devices such as imagery and explaining the effect of these choices on audiences and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a writer or speaker can use voice to shape examining how different authors make use of devices such as imagery, and explaining the effect of these choices on audiences and influence how an audience understands the text?",
-    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use voice to shape examining how different authors make use of devices such as imagery, and explaining the effect of these choices on audiences and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape examining how different authors make use of devices such as imagery and explaining the effect of these choices on audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use voice to shape examining how different authors make use of devices such as imagery and explaining the effect of these choices on audiences and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use representation to shape identifying examples of literary devices in a range of poems and considering how they contribute to meaning and influence the emotional responses of the audience and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a writer or speaker can use representation to shape identifying examples of literary devices in a range of poems and considering how they contribute to meaning and influence the emotional responses of the audience and influence how an audience understands the text?",
-    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use representation to shape identifying examples of literary devices in a range of poems and considering how they contribute to meaning and influence the emotional responses of the audience and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape identifying examples of literary devices in a range of poems and considering how they contribute to meaning and influence the emotional responses of the audience and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use representation to shape identifying examples of literary devices in a range of poems and considering how they contribute to meaning and influence the emotional responses of the audience and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

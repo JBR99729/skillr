@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "distinguish_between_a_practical_demonstration_and_a_proof",
-    "question": "Which statement correctly describes distinguish between a practical demonstration and a proof?",
-    "audio_prompt": "Which statement correctly describes distinguish between a practical demonstration and a proof?",
+    "question": "A Year 10 student is solving a problem involving distinguish between a practical demonstration and a proof. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving distinguish between a practical demonstration and a proof. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "develop_proofs_involving_congruent_triangles_and_angle_properties_communicating_the_proof_using_a_sequence_of_logically_connected_statements",
-    "question": "Which statement correctly describes develop proofs involving congruent triangles and angle properties, communicating the proof using a sequence of logically connected statements?",
-    "audio_prompt": "Which statement correctly describes develop proofs involving congruent triangles and angle properties, communicating the proof using a sequence of logically connected statements?",
+    "question": "A Year 10 student is solving a problem involving develop proofs involving congruent triangles and angle properties communicating the proof using a sequence of logically connected statements. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving develop proofs involving congruent triangles and angle properties communicating the proof using a sequence of logically connected statements. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "apply_an_understanding_of_relationships_to_deduce_properties_of_geometric_figures",
-    "question": "Which statement correctly describes apply an understanding of relationships to deduce properties of geometric figures?",
-    "audio_prompt": "Which statement correctly describes apply an understanding of relationships to deduce properties of geometric figures?",
+    "question": "A Year 10 student is solving a problem involving apply an understanding of relationships to deduce properties of geometric figures. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving apply an understanding of relationships to deduce properties of geometric figures. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_proofs_of_geometric_theorems_and_using_them_to_solve_spatial_problems",
-    "question": "Which statement correctly describes explore proofs of geometric theorems and using them to solve spatial problems?",
-    "audio_prompt": "Which statement correctly describes explore proofs of geometric theorems and using them to solve spatial problems?",
+    "question": "A Year 10 student is solving a problem involving explore proofs of geometric theorems and using them to solve spatial problems. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore proofs of geometric theorems and using them to solve spatial problems. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_dynamic_geometric_software_to_investigate_the_shortest_path_that_touches_3_sides_of_a_rectangle_starting_and_finishing_at_the_same_point",
-    "question": "Which statement correctly describes use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle, starting and finishing at the same point?",
-    "audio_prompt": "Which statement correctly describes use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle, starting and finishing at the same point?",
+    "question": "A Year 10 student is solving a problem involving use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle starting and finishing at the same point. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle starting and finishing at the same point. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_automated_theorem_provers_atp_and_interactive_proof_assistants_ipa_allow_mathematicians_and_artificial_intelligence_systems_to_work_collaboratively_to_construct_or_test_formal_proofs",
-    "question": "Which statement correctly describes explore how automated theorem provers (atp) and interactive proof assistants (ipa) allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs?",
-    "audio_prompt": "Which statement correctly describes explore how automated theorem provers (atp) and interactive proof assistants (ipa) allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs?",
+    "question": "A Year 10 student is solving a problem involving explore how automated theorem provers atp and interactive proof assistants ipa allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore how automated theorem provers atp and interactive proof assistants ipa allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "distinguish_between_a_practical_demonstration_and_a_proof",
-    "question": "Which statement gives a valid example of distinguish between a practical demonstration and a proof?",
-    "audio_prompt": "Which statement gives a valid example of distinguish between a practical demonstration and a proof?",
+    "question": "A Year 10 student is solving a problem involving distinguish between a practical demonstration and a proof. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving distinguish between a practical demonstration and a proof. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "develop_proofs_involving_congruent_triangles_and_angle_properties_communicating_the_proof_using_a_sequence_of_logically_connected_statements",
-    "question": "Which statement gives a valid example of develop proofs involving congruent triangles and angle properties, communicating the proof using a sequence of logically connected statements?",
-    "audio_prompt": "Which statement gives a valid example of develop proofs involving congruent triangles and angle properties, communicating the proof using a sequence of logically connected statements?",
+    "question": "A Year 10 student is solving a problem involving develop proofs involving congruent triangles and angle properties communicating the proof using a sequence of logically connected statements. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving develop proofs involving congruent triangles and angle properties communicating the proof using a sequence of logically connected statements. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "apply_an_understanding_of_relationships_to_deduce_properties_of_geometric_figures",
-    "question": "Which description correctly applies apply an understanding of relationships to deduce properties of geometric figures?",
-    "audio_prompt": "Which description correctly applies apply an understanding of relationships to deduce properties of geometric figures?",
+    "question": "A Year 10 student is solving a problem involving apply an understanding of relationships to deduce properties of geometric figures. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving apply an understanding of relationships to deduce properties of geometric figures. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_proofs_of_geometric_theorems_and_using_them_to_solve_spatial_problems",
-    "question": "Which description correctly applies explore proofs of geometric theorems and using them to solve spatial problems?",
-    "audio_prompt": "Which description correctly applies explore proofs of geometric theorems and using them to solve spatial problems?",
+    "question": "A Year 10 student is solving a problem involving explore proofs of geometric theorems and using them to solve spatial problems. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore proofs of geometric theorems and using them to solve spatial problems. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_dynamic_geometric_software_to_investigate_the_shortest_path_that_touches_3_sides_of_a_rectangle_starting_and_finishing_at_the_same_point",
-    "question": "Which description correctly applies use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle, starting and finishing at the same point?",
-    "audio_prompt": "Which description correctly applies use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle, starting and finishing at the same point?",
+    "question": "A Year 10 student is solving a problem involving use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle starting and finishing at the same point. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving use dynamic geometric software to investigate the shortest path that touches 3 sides of a rectangle starting and finishing at the same point. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_automated_theorem_provers_atp_and_interactive_proof_assistants_ipa_allow_mathematicians_and_artificial_intelligence_systems_to_work_collaboratively_to_construct_or_test_formal_proofs",
-    "question": "Which description correctly applies explore how automated theorem provers (atp) and interactive proof assistants (ipa) allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs?",
-    "audio_prompt": "Which description correctly applies explore how automated theorem provers (atp) and interactive proof assistants (ipa) allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs?",
+    "question": "A Year 10 student is solving a problem involving explore how automated theorem provers atp and interactive proof assistants ipa allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore how automated theorem provers atp and interactive proof assistants ipa allow mathematicians and artificial intelligence systems to work collaboratively to construct or test formal proofs. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

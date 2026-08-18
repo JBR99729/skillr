@@ -6,8 +6,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "state_criterion",
-    "question": "Which statement correctly explains literary opinion in forming evidence-based literary opinions?",
-    "audio_prompt": "Which statement correctly explains literary opinion in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use state criterion. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use state criterion. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "use_concise_evidence",
-    "question": "Which description is accurate for criterion in forming evidence-based literary opinions?",
-    "audio_prompt": "Which description is accurate for criterion in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use use concise evidence. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use use concise evidence. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "qualify_a_judgement",
-    "question": "Which statement gives an example of alternative interpretation in forming evidence-based literary opinions?",
-    "audio_prompt": "Which statement gives an example of alternative interpretation in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use qualify a judgement. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use qualify a judgement. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "compare_interpretations",
-    "question": "What is important when using literary opinion in forming evidence-based literary opinions?",
-    "audio_prompt": "What is important when using literary opinion in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "english",
     "bank": "practice",
     "skill": "qualify_a_judgement",
-    "question": "Which statement is true about criterion in forming evidence-based literary opinions?",
-    "audio_prompt": "Which statement is true about criterion in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use qualify a judgement. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use qualify a judgement. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "compare_interpretations",
-    "question": "Which response correctly applies compare interpretations in forming evidence-based literary opinions?",
-    "audio_prompt": "Which response correctly applies compare interpretations in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "revise_after_counterevidence",
-    "question": "Which response shows correct use of revise after counterevidence in forming evidence-based literary opinions?",
-    "audio_prompt": "Which response shows correct use of revise after counterevidence in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use revise after counterevidence. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use revise after counterevidence. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "state_criterion",
-    "question": "Which interpretation is accurate for state criterion in forming evidence-based literary opinions?",
-    "audio_prompt": "Which interpretation is accurate for state criterion in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use state criterion. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use state criterion. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "use_concise_evidence",
-    "question": "Which choice demonstrates use concise evidence in forming evidence-based literary opinions?",
-    "audio_prompt": "Which choice demonstrates use concise evidence in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use use concise evidence. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use use concise evidence. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "revise_after_counterevidence",
-    "question": "Which claim is accurate about revise after counterevidence in forming evidence-based literary opinions?",
-    "audio_prompt": "Which claim is accurate about revise after counterevidence in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use revise after counterevidence. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use revise after counterevidence. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "english",
     "bank": "test",
     "skill": "state_criterion",
-    "question": "What is required to apply state criterion in forming evidence-based literary opinions?",
-    "audio_prompt": "What is required to apply state criterion in forming evidence-based literary opinions?",
+    "question": "A Year 7 student is working with a text and needs to use state criterion. Which option best demonstrates the skill?",
+    "audio_prompt": "A Year 7 student is working with a text and needs to use state criterion. Which option best demonstrates the skill?",
     "visual": {
       "type": "none",
       "alt_text": ""

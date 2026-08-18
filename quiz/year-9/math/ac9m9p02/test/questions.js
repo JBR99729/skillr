@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
-    "audioPrompt": "Which interpretation is accurate for understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "question": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use venn diagrams or two way tables to estimate frequencies of events involving and or questions",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
-    "audioPrompt": "Which interpretation is accurate for use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
+    "question": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
-    "audioPrompt": "Which interpretation is accurate for designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
+    "question": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
-    "audioPrompt": "Which choice demonstrates understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "question": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

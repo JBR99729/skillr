@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "irrational_numbers_have_exact_positions_even_though_their_decimals_never_end_or_repeat",
-    "question": "Which statement correctly describes irrational numbers have exact positions even though their decimals never end or repeat?",
-    "audio_prompt": "Which statement correctly describes irrational numbers have exact positions even though their decimals never end or repeat?",
+    "question": "A Year 8 student is solving a problem involving irrational numbers have exact positions even though their decimals never end or repeat. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving irrational numbers have exact positions even though their decimals never end or repeat. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "a_one_unit_square_creates_2_on_its_diagonal_and_a_series_paper_preserves_a_1_2_side_ratio_when_folded",
-    "question": "Which statement correctly describes a one-unit square creates √2 on its diagonal, and a-series paper preserves a 1:√2 side ratio when folded?",
-    "audio_prompt": "Which statement correctly describes a one-unit square creates √2 on its diagonal, and a-series paper preserves a 1:√2 side ratio when folded?",
+    "question": "A Year 8 student is solving a problem involving a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "the_golden_ratio_appears_in_design_while_societies_have_developed_useful_approximations_for_throughout_history",
-    "question": "Which statement correctly describes the golden ratio appears in design, while societies have developed useful approximations for π throughout history?",
-    "audio_prompt": "Which statement correctly describes the golden ratio appears in design, while societies have developed useful approximations for π throughout history?",
+    "question": "A Year 8 student is solving a problem involving the golden ratio appears in design while societies have developed useful approximations for throughout history. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving the golden ratio appears in design while societies have developed useful approximations for throughout history. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "for_every_circle_circumference_divided_by_diameter_gives_the_same_irrational_ratio",
-    "question": "Which statement correctly describes for every circle, circumference divided by diameter gives the same irrational ratio: π?",
-    "audio_prompt": "Which statement correctly describes for every circle, circumference divided by diameter gives the same irrational ratio: π?",
+    "question": "A Year 8 student is solving a problem involving for every circle circumference divided by diameter gives the same irrational ratio. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving for every circle circumference divided by diameter gives the same irrational ratio. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "irrational_numbers_have_exact_positions_even_though_their_decimals_never_end_or_repeat",
-    "question": "Which statement gives a valid example of irrational numbers have exact positions even though their decimals never end or repeat?",
-    "audio_prompt": "Which statement gives a valid example of irrational numbers have exact positions even though their decimals never end or repeat?",
+    "question": "A Year 8 student is solving a problem involving irrational numbers have exact positions even though their decimals never end or repeat. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving irrational numbers have exact positions even though their decimals never end or repeat. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "a_one_unit_square_creates_2_on_its_diagonal_and_a_series_paper_preserves_a_1_2_side_ratio_when_folded",
-    "question": "Which statement gives a valid example of a one-unit square creates √2 on its diagonal, and a-series paper preserves a 1:√2 side ratio when folded?",
-    "audio_prompt": "Which statement gives a valid example of a one-unit square creates √2 on its diagonal, and a-series paper preserves a 1:√2 side ratio when folded?",
+    "question": "A Year 8 student is solving a problem involving a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "the_golden_ratio_appears_in_design_while_societies_have_developed_useful_approximations_for_throughout_history",
-    "question": "Which statement gives a valid example of the golden ratio appears in design, while societies have developed useful approximations for π throughout history?",
-    "audio_prompt": "Which statement gives a valid example of the golden ratio appears in design, while societies have developed useful approximations for π throughout history?",
+    "question": "A Year 8 student is solving a problem involving the golden ratio appears in design while societies have developed useful approximations for throughout history. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving the golden ratio appears in design while societies have developed useful approximations for throughout history. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "for_every_circle_circumference_divided_by_diameter_gives_the_same_irrational_ratio",
-    "question": "Which statement gives a valid example of for every circle, circumference divided by diameter gives the same irrational ratio: π?",
-    "audio_prompt": "Which statement gives a valid example of for every circle, circumference divided by diameter gives the same irrational ratio: π?",
+    "question": "A Year 8 student is solving a problem involving for every circle circumference divided by diameter gives the same irrational ratio. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving for every circle circumference divided by diameter gives the same irrational ratio. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -450,8 +450,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "irrational_numbers_have_exact_positions_even_though_their_decimals_never_end_or_repeat",
-    "question": "Which interpretation is accurate for irrational numbers have exact positions even though their decimals never end or repeat?",
-    "audio_prompt": "Which interpretation is accurate for irrational numbers have exact positions even though their decimals never end or repeat?",
+    "question": "A Year 8 student is solving a problem involving irrational numbers have exact positions even though their decimals never end or repeat. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving irrational numbers have exact positions even though their decimals never end or repeat. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -487,8 +487,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "a_one_unit_square_creates_2_on_its_diagonal_and_a_series_paper_preserves_a_1_2_side_ratio_when_folded",
-    "question": "Which interpretation is accurate for a one-unit square creates √2 on its diagonal, and a-series paper preserves a 1:√2 side ratio when folded?",
-    "audio_prompt": "Which interpretation is accurate for a one-unit square creates √2 on its diagonal, and a-series paper preserves a 1:√2 side ratio when folded?",
+    "question": "A Year 8 student is solving a problem involving a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "the_golden_ratio_appears_in_design_while_societies_have_developed_useful_approximations_for_throughout_history",
-    "question": "Which interpretation is accurate for the golden ratio appears in design, while societies have developed useful approximations for π throughout history?",
-    "audio_prompt": "Which interpretation is accurate for the golden ratio appears in design, while societies have developed useful approximations for π throughout history?",
+    "question": "A Year 8 student is solving a problem involving the golden ratio appears in design while societies have developed useful approximations for throughout history. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving the golden ratio appears in design while societies have developed useful approximations for throughout history. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "for_every_circle_circumference_divided_by_diameter_gives_the_same_irrational_ratio",
-    "question": "Which interpretation is accurate for for every circle, circumference divided by diameter gives the same irrational ratio: π?",
-    "audio_prompt": "Which interpretation is accurate for for every circle, circumference divided by diameter gives the same irrational ratio: π?",
+    "question": "A Year 8 student is solving a problem involving for every circle circumference divided by diameter gives the same irrational ratio. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving for every circle circumference divided by diameter gives the same irrational ratio. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

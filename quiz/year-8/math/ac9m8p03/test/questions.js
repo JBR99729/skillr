@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools including generative artificial intelligence to conduct probability simulations involving compound events",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
-    "audioPrompt": "Which interpretation is accurate for use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "question": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
-    "audioPrompt": "Which interpretation is accurate for use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
+    "question": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use online simulation software to conduct probability simulations to determine in the long run if events are complementary",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
-    "audioPrompt": "Which interpretation is accurate for use online simulation software to conduct probability simulations to determine in the long run if events are complementary?",
+    "question": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools including generative artificial intelligence to conduct probability simulations involving compound events",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
-    "audioPrompt": "Which choice demonstrates use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
+    "question": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

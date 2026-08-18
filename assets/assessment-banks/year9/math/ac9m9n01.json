@@ -5,35 +5,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "explore_the_real_number_system_by_representing_the_relationships_between_irrationals_rationals_integers_and_natural_numbers_and_discussing_the_difference_between_exact_representations",
-    "question": "Which statement correctly describes explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
-    "audio_prompt": "Which statement correctly describes explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "Which of the following numbers is an example of an irrational number?",
+    "audio_prompt": "Which of the following numbers is an example of an irrational number?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
+        "text": "0.75",
+        "is_correct": false
+      },
+      {
+        "text": "√16",
+        "is_correct": false
+      },
+      {
+        "text": "√5",
         "is_correct": true
       },
       {
-        "text": "Exact and approximate values are treated as interchangeable",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "-3/4",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
-      "hint": "Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations."
+      "summary": "√5 cannot be expressed as a fraction of two integers; its decimal expansion is non-terminating and non-repeating.",
+      "hint": "Classify each option as rational or irrational."
     }
   },
   {
@@ -42,35 +42,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_a_real_number_line_to_indicate_the_solution_interval_for_inequalities_of_the_form_ax_b_c",
-    "question": "Which statement correctly describes use a real number line to indicate the solution interval for inequalities of the form ax+b c?",
-    "audio_prompt": "Which statement correctly describes use a real number line to indicate the solution interval for inequalities of the form ax+b c?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "Which set of numbers includes all the others?",
+    "audio_prompt": "Which set of numbers includes all the others?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The real numbers and exact values model is copied without interpretation",
+        "text": "Integers",
         "is_correct": false
       },
       {
-        "text": "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8",
+        "text": "Rational numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Real numbers",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Natural numbers",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8",
-      "hint": "Use a real number line to indicate the solution interval for inequalities of the form ax+b c."
+      "summary": "The real numbers include both rational and irrational numbers, so they also contain integers and natural numbers.",
+      "hint": "Think about the largest number set listed."
     }
   },
   {
@@ -79,35 +79,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_positive_and_negative_rational_numbers_to_solve_problems",
-    "question": "Which statement correctly describes use positive and negative rational numbers to solve problems?",
-    "audio_prompt": "Which statement correctly describes use positive and negative rational numbers to solve problems?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "What is the exact area of a circle with a radius of 3 cm?",
+    "audio_prompt": "What is the exact area of a circle with a radius of 3 cm?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The result is not verified",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting",
+        "text": "9π cm²",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "28.27 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "6π cm²",
+        "is_correct": false
+      },
+      {
+        "text": "18.85 cm²",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting",
-      "hint": "Use positive and negative rational numbers to solve problems."
+      "summary": "A = πr² = π(3)² = 9π cm². The form 9π is exact.",
+      "hint": "Use A = πr² and keep π in the answer."
     }
   },
   {
@@ -116,35 +116,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "solve_problems_involving_the_substitution_of_real_numbers_into_formulas_understanding_that_solutions_can_be_represented_in_exact_form_or_as_a_decimal_approximation",
-    "question": "Which statement correctly describes solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation?",
-    "audio_prompt": "Which statement correctly describes solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "When constructing √2 on a number line using a geometric construction, what shape's diagonal can be used as the arc's radius?",
+    "audio_prompt": "When constructing √2 on a number line using a geometric construction, what shape's diagonal can be used as the arc's radius?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Exact and approximate values are treated as interchangeable",
+        "text": "A rectangle with sides 1 and 2",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "solving problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation, such as calculating the area of a circle using the formula A=\\mathrm{π}r^2 and specifying the answer in terms of π as an exact real number; for example, the circumference of a circle with diameter 5 units is 5\\mathrm\\pi units, and the exact area is \\mathrm\\pi(\\frac52)^2=\\frac{25}4\\mathrm\\pi square units which rounds to 19.63 square units, correct to 2 decimal places",
+        "text": "A square with side length 1",
         "is_correct": true
+      },
+      {
+        "text": "An equilateral triangle with side length 1",
+        "is_correct": false
+      },
+      {
+        "text": "A square with side length 2",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "solving problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation, such as calculating the area of a circle using the formula A=\\mathrm{π}r^2 and specifying the answer in terms of π as an exact real number; for example, the circumference of a circle with diameter 5 units is 5\\mathrm\\pi units, and the exact area is \\mathrm\\pi(\\frac52)^2=\\frac{25}4\\mathrm\\pi square units which rounds to 19.63 square units, correct to 2 decimal places",
-      "hint": "Solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation."
+      "summary": "The diagonal of a unit square has length √(1²+1²)=√2.",
+      "hint": "Use Pythagoras on a 1 by 1 square."
     }
   },
   {
@@ -153,35 +153,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "explore_the_position_of_rational_and_irrational_numbers_on_the_real_number_line_using_geometric_constructions_to_locate_rational_numbers_and_square_roots_on_a_number_line",
-    "question": "Which statement correctly describes explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line?",
-    "audio_prompt": "Which statement correctly describes explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "Which inequality is represented on a number line by an open circle at 4 with an arrow pointing to the right?",
+    "audio_prompt": "Which inequality is represented on a number line by an open circle at 4 with an arrow pointing to the right?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "investigating the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line; for example, \\sqrt2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square",
+        "text": "x ≥ 4",
+        "is_correct": false
+      },
+      {
+        "text": "x < 4",
+        "is_correct": false
+      },
+      {
+        "text": "x > 4",
         "is_correct": true
       },
       {
-        "text": "The real numbers and exact values model is copied without interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "x ≤ 4",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "investigating the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line; for example, \\sqrt2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square",
-      "hint": "Explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line."
+      "summary": "An open circle excludes 4, and an arrow to the right represents values greater than 4, so x > 4.",
+      "hint": "Open means not included; right means greater."
     }
   },
   {
@@ -190,35 +190,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "explore_the_real_number_system_by_representing_the_relationships_between_irrationals_rationals_integers_and_natural_numbers_and_discussing_the_difference_between_exact_representations",
-    "question": "Which statement gives a valid example of explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
-    "audio_prompt": "Which statement gives a valid example of explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "Solving the inequality 2x - 3 > 7 gives which solution interval?",
+    "audio_prompt": "Solving the inequality 2x - 3 > 7 gives which solution interval?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The result is not verified",
+        "text": "x > 2",
         "is_correct": false
       },
       {
-        "text": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
+        "text": "x > 5",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "x < 5",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "x ≥ 5",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
-      "hint": "Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations."
+      "summary": "2x - 3 > 7 gives 2x > 10, so x > 5.",
+      "hint": "Isolate x using inverse operations."
     }
   },
   {
@@ -227,35 +227,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_a_real_number_line_to_indicate_the_solution_interval_for_inequalities_of_the_form_ax_b_c",
-    "question": "Which statement gives a valid example of use a real number line to indicate the solution interval for inequalities of the form ax+b c?",
-    "audio_prompt": "Which statement gives a valid example of use a real number line to indicate the solution interval for inequalities of the form ax+b c?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "Which of the following numbers can be written as a repeating decimal, proving it is rational?",
+    "audio_prompt": "Which of the following numbers can be written as a repeating decimal, proving it is rational?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Exact and approximate values are treated as interchangeable",
+        "text": "π",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "√3",
         "is_correct": false
       },
       {
-        "text": "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8",
+        "text": "1/3",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "√7",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8",
-      "hint": "Use a real number line to indicate the solution interval for inequalities of the form ax+b c."
+      "summary": "1/3 = 0.333… is a repeating decimal, so it is rational.",
+      "hint": "A rational number can be written as a fraction of integers."
     }
   },
   {
@@ -264,35 +264,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "practice",
-    "skill": "use_positive_and_negative_rational_numbers_to_solve_problems",
-    "question": "Which statement gives a valid example of use positive and negative rational numbers to solve problems?",
-    "audio_prompt": "Which statement gives a valid example of use positive and negative rational numbers to solve problems?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "A bank account records a balance change of -$45.50. What does this rational number represent in a budget?",
+    "audio_prompt": "A bank account records a balance change of -$45.50. What does this rational number represent in a budget?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The real numbers and exact values model is copied without interpretation",
+        "text": "A deposit or profit of $45.50",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting",
+        "text": "A withdrawal or expense of $45.50",
         "is_correct": true
+      },
+      {
+        "text": "An exact multiplier for interest",
+        "is_correct": false
+      },
+      {
+        "text": "An irrational transaction fee",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting",
-      "hint": "Use positive and negative rational numbers to solve problems."
+      "summary": "A negative amount represents money leaving the account, such as a withdrawal or expense.",
+      "hint": "Interpret the sign in the financial context."
     }
   },
   {
@@ -301,35 +301,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "solve_problems_involving_the_substitution_of_real_numbers_into_formulas_understanding_that_solutions_can_be_represented_in_exact_form_or_as_a_decimal_approximation",
-    "question": "Which description correctly applies solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation?",
-    "audio_prompt": "Which description correctly applies solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "What is the exact circumference of a circle with a diameter of 7 units?",
+    "audio_prompt": "What is the exact circumference of a circle with a diameter of 7 units?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "solving problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation, such as calculating the area of a circle using the formula A=\\mathrm{π}r^2 and specifying the answer in terms of π as an exact real number; for example, the circumference of a circle with diameter 5 units is 5\\mathrm\\pi units, and the exact area is \\mathrm\\pi(\\frac52)^2=\\frac{25}4\\mathrm\\pi square units which rounds to 19.63 square units, correct to 2 decimal places",
+        "text": "3.5π units",
+        "is_correct": false
+      },
+      {
+        "text": "7π units",
         "is_correct": true
       },
       {
-        "text": "The result is not verified",
+        "text": "21.99 units",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "14π units",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "solving problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation, such as calculating the area of a circle using the formula A=\\mathrm{π}r^2 and specifying the answer in terms of π as an exact real number; for example, the circumference of a circle with diameter 5 units is 5\\mathrm\\pi units, and the exact area is \\mathrm\\pi(\\frac52)^2=\\frac{25}4\\mathrm\\pi square units which rounds to 19.63 square units, correct to 2 decimal places",
-      "hint": "Solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation."
+      "summary": "C = πd = 7π units, which is the exact value.",
+      "hint": "Use C = πd and keep π exact."
     }
   },
   {
@@ -338,35 +338,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "explore_the_position_of_rational_and_irrational_numbers_on_the_real_number_line_using_geometric_constructions_to_locate_rational_numbers_and_square_roots_on_a_number_line",
-    "question": "Which description correctly applies explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line?",
-    "audio_prompt": "Which description correctly applies explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "Which option correctly describes the decimal expansion of an irrational number?",
+    "audio_prompt": "Which option correctly describes the decimal expansion of an irrational number?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Exact and approximate values are treated as interchangeable",
+        "text": "It terminates after a fixed number of decimal places.",
         "is_correct": false
       },
       {
-        "text": "investigating the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line; for example, \\sqrt2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square",
+        "text": "It repeats a non-zero block of digits indefinitely.",
+        "is_correct": false
+      },
+      {
+        "text": "It is non-terminating and non-repeating.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It can always be simplified to a whole number.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "investigating the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line; for example, \\sqrt2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square",
-      "hint": "Explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line."
+      "summary": "An irrational number has a decimal expansion that neither terminates nor repeats.",
+      "hint": "Recall the defining decimal property of irrational numbers."
     }
   },
   {
@@ -375,35 +375,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "explore_the_real_number_system_by_representing_the_relationships_between_irrationals_rationals_integers_and_natural_numbers_and_discussing_the_difference_between_exact_representations",
-    "question": "Which response correctly uses explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
-    "audio_prompt": "Which response correctly uses explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "Why do we leave answers in terms of π or surds such as √3 in geometry problems?",
+    "audio_prompt": "Why do we leave answers in terms of π or surds such as √3 in geometry problems?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The real numbers and exact values model is copied without interpretation",
+        "text": "Because rounded decimals are difficult to graph on a line.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
+        "text": "To preserve the exact mathematical value without rounding error.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Because irrational numbers cannot be calculated on digital tools.",
+        "is_correct": false
+      },
+      {
+        "text": "To avoid using negative rational numbers.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
-      "hint": "Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations."
+      "summary": "Exact forms such as π and surds preserve the true value, while decimal forms may introduce rounding error.",
+      "hint": "Compare exact and approximate representations."
     }
   },
   {
@@ -412,35 +412,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "use_a_real_number_line_to_indicate_the_solution_interval_for_inequalities_of_the_form_ax_b_c",
-    "question": "Which response correctly uses use a real number line to indicate the solution interval for inequalities of the form ax+b c?",
-    "audio_prompt": "Which response correctly uses use a real number line to indicate the solution interval for inequalities of the form ax+b c?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "Which point on the number line lies between 3 and 4?",
+    "audio_prompt": "Which point on the number line lies between 3 and 4?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The result is not verified",
+        "text": "√5",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "√8",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8",
+        "text": "√10",
         "is_correct": true
+      },
+      {
+        "text": "√17",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "using a real number line to indicate the solution interval for inequalities of the form ax+b c; for example, 1.2x-5.4>10.8",
-      "hint": "Use a real number line to indicate the solution interval for inequalities of the form ax+b c."
+      "summary": "Because 9 < 10 < 16, taking square roots gives 3 < √10 < 4.",
+      "hint": "Compare each radicand with nearby perfect squares."
     }
   },
   {
@@ -449,35 +449,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "use_positive_and_negative_rational_numbers_to_solve_problems",
-    "question": "Which response correctly uses use positive and negative rational numbers to solve problems?",
-    "audio_prompt": "Which response correctly uses use positive and negative rational numbers to solve problems?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "A student solves 1.2x - 5.4 > 10.8. What is the correct solution?",
+    "audio_prompt": "A student solves 1.2x - 5.4 > 10.8. What is the correct solution?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting",
+        "text": "x > 13.5",
         "is_correct": true
       },
       {
-        "text": "Exact and approximate values are treated as interchangeable",
+        "text": "x < 13.5",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "x > 4.5",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "x > 12.0",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "using positive and negative rational numbers to solve problems; for example, for financial planning such as budgeting",
-      "hint": "Use positive and negative rational numbers to solve problems."
+      "summary": "1.2x > 16.2, so x > 13.5.",
+      "hint": "Add 5.4, then divide by positive 1.2."
     }
   },
   {
@@ -486,35 +486,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "solve_problems_involving_the_substitution_of_real_numbers_into_formulas_understanding_that_solutions_can_be_represented_in_exact_form_or_as_a_decimal_approximation",
-    "question": "Which response correctly uses solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation?",
-    "audio_prompt": "Which response correctly uses solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "Which of the following represents an integer that is not a natural number?",
+    "audio_prompt": "Which of the following represents an integer that is not a natural number?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The real numbers and exact values model is copied without interpretation",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "solving problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation, such as calculating the area of a circle using the formula A=\\mathrm{π}r^2 and specifying the answer in terms of π as an exact real number; for example, the circumference of a circle with diameter 5 units is 5\\mathrm\\pi units, and the exact area is \\mathrm\\pi(\\frac52)^2=\\frac{25}4\\mathrm\\pi square units which rounds to 19.63 square units, correct to 2 decimal places",
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "1/2",
+        "is_correct": false
+      },
+      {
+        "text": "-4",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "solving problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation, such as calculating the area of a circle using the formula A=\\mathrm{π}r^2 and specifying the answer in terms of π as an exact real number; for example, the circumference of a circle with diameter 5 units is 5\\mathrm\\pi units, and the exact area is \\mathrm\\pi(\\frac52)^2=\\frac{25}4\\mathrm\\pi square units which rounds to 19.63 square units, correct to 2 decimal places",
-      "hint": "Solve problems involving the substitution of real numbers into formulas, understanding that solutions can be represented in exact form or as a decimal approximation."
+      "summary": "-4 is an integer but is not a natural counting number.",
+      "hint": "Look for a negative whole number."
     }
   },
   {
@@ -523,35 +523,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "explore_the_position_of_rational_and_irrational_numbers_on_the_real_number_line_using_geometric_constructions_to_locate_rational_numbers_and_square_roots_on_a_number_line",
-    "question": "Which response correctly uses explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line?",
-    "audio_prompt": "Which response correctly uses explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "If a = √2 and b = √2, what type of number is the product a × b?",
+    "audio_prompt": "If a = √2 and b = √2, what type of number is the product a × b?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The result is not verified",
+        "text": "An irrational number",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "investigating the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line; for example, \\sqrt2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square",
+        "text": "A rational number",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A non-real number",
+        "is_correct": false
+      },
+      {
+        "text": "An indefinite decimal",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "investigating the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line; for example, \\sqrt2 is located at the intersection of an arc and the number line, where the radius of the arc is the length of the diagonal of a one-unit square",
-      "hint": "Explore the position of rational and irrational numbers on the real number line, using geometric constructions to locate rational numbers and square roots on a number line."
+      "summary": "√2 × √2 = 2, which is an integer and therefore rational.",
+      "hint": "Multiply the two surds before classifying the result."
     }
   },
   {
@@ -560,35 +560,35 @@
     "year_level": "Year 9",
     "subject": "math",
     "bank": "test",
-    "skill": "explore_the_real_number_system_by_representing_the_relationships_between_irrationals_rationals_integers_and_natural_numbers_and_discussing_the_difference_between_exact_representations",
-    "question": "Which interpretation is accurate for explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
-    "audio_prompt": "Which interpretation is accurate for explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations?",
+    "skill": "real_numbers_and_exact_values",
+    "question": "Which value is the decimal approximation, rounded to 2 decimal places, of the exact value (25/4)π?",
+    "audio_prompt": "Which value is the decimal approximation, rounded to 2 decimal places, of the exact value (25/4)π?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Exact and approximate values are treated as interchangeable",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
+        "text": "19.63",
         "is_correct": true
+      },
+      {
+        "text": "19.64",
+        "is_correct": false
+      },
+      {
+        "text": "6.25",
+        "is_correct": false
+      },
+      {
+        "text": "19.60",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "investigating the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations and approximate decimal representations of irrational numbers",
-      "hint": "Explore the real number system by representing the relationships between irrationals, rationals, integers and natural numbers and discussing the difference between exact representations."
+      "summary": "(25/4)π ≈ 19.63495, which rounds to 19.63 to 2 decimal places.",
+      "hint": "Evaluate the exact expression, then round only at the end."
     }
   }
 ]

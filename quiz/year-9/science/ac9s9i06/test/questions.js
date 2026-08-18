@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 9 student is investigating use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 9 student is investigating use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

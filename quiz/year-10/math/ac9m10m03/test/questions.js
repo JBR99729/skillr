@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use a clinometer to measure angles of inclination and applying trigonometry and proportional reasoning to determine the height of buildings in practical contexts",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts?",
-    "audioPrompt": "Which description correctly applies use a clinometer to measure angles of inclination, and applying trigonometry, and proportional reasoning to determine the height of buildings in practical contexts?",
+    "question": "A Year 10 student is solving a problem involving use a clinometer to measure angles of inclination and applying trigonometry and proportional reasoning to determine the height of buildings in practical contexts. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use a clinometer to measure angles of inclination and applying trigonometry and proportional reasoning to determine the height of buildings in practical contexts. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "apply pythagoras theorem and trigonometry and using dynamic geometric software to design three dimensional models of practical situations involving angles of elevation and depression",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies apply pythagoras’ theorem and trigonometry, and using dynamic geometric software, to design three-dimensional models of practical situations involving angles of elevation and depression?",
-    "audioPrompt": "Which description correctly applies apply pythagoras’ theorem and trigonometry, and using dynamic geometric software, to design three-dimensional models of practical situations involving angles of elevation and depression?",
+    "question": "A Year 10 student is solving a problem involving apply pythagoras theorem and trigonometry and using dynamic geometric software to design three dimensional models of practical situations involving angles of elevation and depression. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving apply pythagoras theorem and trigonometry and using dynamic geometric software to design three dimensional models of practical situations involving angles of elevation and depression. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "explore how autonomous vehicles use algorithms that use pythagoras theorem and trigonometry to calculate distance and navigate spaces",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how autonomous vehicles use algorithms that use pythagoras' theorem and trigonometry to calculate distance and navigate spaces?",
-    "audioPrompt": "Which description correctly applies explore how autonomous vehicles use algorithms that use pythagoras' theorem and trigonometry to calculate distance and navigate spaces?",
+    "question": "A Year 10 student is solving a problem involving explore how autonomous vehicles use algorithms that use pythagoras theorem and trigonometry to calculate distance and navigate spaces. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore how autonomous vehicles use algorithms that use pythagoras theorem and trigonometry to calculate distance and navigate spaces. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore navigation design of technologies or surveying by first nations australians investigating geometric and spatial reasoning and how these connect to trigonometry",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore navigation, design of technologies or surveying by first nations australians, investigating geometric and spatial reasoning, and how these connect to trigonometry?",
-    "audioPrompt": "Which description correctly applies explore navigation, design of technologies or surveying by first nations australians, investigating geometric and spatial reasoning, and how these connect to trigonometry?",
+    "question": "A Year 10 student is solving a problem involving explore navigation design of technologies or surveying by first nations australians investigating geometric and spatial reasoning and how these connect to trigonometry. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore navigation design of technologies or surveying by first nations australians investigating geometric and spatial reasoning and how these connect to trigonometry. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed?",
-    "audioPrompt": "Which description correctly applies use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed?",
+    "question": "A Year 10 student is solving a problem involving use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically?",
-    "audioPrompt": "Which description correctly applies find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically?",
+    "question": "A Year 10 student is solving a problem involving find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways?",
-    "audioPrompt": "Which description correctly applies compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways?",
+    "question": "A Year 10 student is solving a problem involving compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model?",
-    "audioPrompt": "Which description correctly applies explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model?",
+    "question": "A Year 10 student is solving a problem involving explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

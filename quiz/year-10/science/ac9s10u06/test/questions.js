@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "use the bohr model of the atom to describe to make the role of valence electrons visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use the bohr model of the atom to describe to make the role of valence electrons visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use the bohr model of the atom to describe to make the role of valence electrons visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use the bohr model of the atom to describe to make the role of valence electrons visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use the bohr model of the atom to describe to make the role of valence electrons visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use repeating patterns of the periodic table reflect patterns to make the role of groups and periods visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use repeating patterns of the periodic table reflect patterns to make the role of groups and periods visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use repeating patterns of the periodic table reflect patterns to make the role of groups and periods visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use repeating patterns of the periodic table reflect patterns to make the role of groups and periods visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use repeating patterns of the periodic table reflect patterns to make the role of groups and periods visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use flame tests for a selection of elements and examining to make the role of property pattern visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use flame tests for a selection of elements and examining to make the role of property pattern visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use flame tests for a selection of elements and examining to make the role of property pattern visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use flame tests for a selection of elements and examining to make the role of property pattern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use flame tests for a selection of elements and examining to make the role of property pattern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "use how the development of the spectroscope led to further to make the role of proton number visible and connect the evidence to the unit s central explanation",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies use how the development of the spectroscope led to further to make the role of proton number visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "Which description correctly applies use how the development of the spectroscope led to further to make the role of proton number visible and connect the evidence to the unit’s central explanation?",
+    "question": "A Year 10 student is investigating use how the development of the spectroscope led to further to make the role of proton number visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
+    "audioPrompt": "A Year 10 student is investigating use how the development of the spectroscope led to further to make the role of proton number visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

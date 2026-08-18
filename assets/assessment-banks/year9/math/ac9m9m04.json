@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_error_as_a_percentage_of_the_exact_value",
-    "question": "Which statement correctly describes explore error as a percentage of the exact value?",
-    "audio_prompt": "Which statement correctly describes explore error as a percentage of the exact value?",
+    "question": "A Year 9 student is solving a problem involving explore error as a percentage of the exact value. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore error as a percentage of the exact value. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_absolute_value_in_a_percentage_error_formula_considering_when_they_would_use_the_absolute_value_and_when_they_would_not_depending_upon_the_context",
-    "question": "Which statement correctly describes use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context?",
-    "audio_prompt": "Which statement correctly describes use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context?",
+    "question": "A Year 9 student is solving a problem involving use absolute value in a percentage error formula considering when they would use the absolute value and when they would not depending upon the context. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use absolute value in a percentage error formula considering when they would use the absolute value and when they would not depending upon the context. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "calculate_the_percentage_errors_in_expected_budgets_to_actual_expenditure",
-    "question": "Which statement correctly describes calculate the percentage errors in expected budgets to actual expenditure?",
-    "audio_prompt": "Which statement correctly describes calculate the percentage errors in expected budgets to actual expenditure?",
+    "question": "A Year 9 student is solving a problem involving calculate the percentage errors in expected budgets to actual expenditure. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving calculate the percentage errors in expected budgets to actual expenditure. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "estimate_the_accuracy_of_measurements_in_practical_contexts_and_giving_suitable_lower_and_upper_bounds_for_measurement_values",
-    "question": "Which statement correctly describes estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values?",
-    "audio_prompt": "Which statement correctly describes estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values?",
+    "question": "A Year 9 student is solving a problem involving estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_calculating_and_interpreting_absolute_relative_and_percentage_errors_in_measurements_relates_to_artificial_intelligence_systems_such_as_regression_models_estimating_uncertainty_and_recommendation_systems",
-    "question": "Which statement correctly describes explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems?",
-    "audio_prompt": "Which statement correctly describes explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems?",
+    "question": "A Year 9 student is solving a problem involving explore how calculating and interpreting absolute relative and percentage errors in measurements relates to artificial intelligence systems such as regression models estimating uncertainty and recommendation systems. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore how calculating and interpreting absolute relative and percentage errors in measurements relates to artificial intelligence systems such as regression models estimating uncertainty and recommendation systems. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_error_as_a_percentage_of_the_exact_value",
-    "question": "Which statement gives a valid example of explore error as a percentage of the exact value?",
-    "audio_prompt": "Which statement gives a valid example of explore error as a percentage of the exact value?",
+    "question": "A Year 9 student is solving a problem involving explore error as a percentage of the exact value. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore error as a percentage of the exact value. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_absolute_value_in_a_percentage_error_formula_considering_when_they_would_use_the_absolute_value_and_when_they_would_not_depending_upon_the_context",
-    "question": "Which statement gives a valid example of use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context?",
-    "audio_prompt": "Which statement gives a valid example of use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context?",
+    "question": "A Year 9 student is solving a problem involving use absolute value in a percentage error formula considering when they would use the absolute value and when they would not depending upon the context. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use absolute value in a percentage error formula considering when they would use the absolute value and when they would not depending upon the context. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "calculate_the_percentage_errors_in_expected_budgets_to_actual_expenditure",
-    "question": "Which statement gives a valid example of calculate the percentage errors in expected budgets to actual expenditure?",
-    "audio_prompt": "Which statement gives a valid example of calculate the percentage errors in expected budgets to actual expenditure?",
+    "question": "A Year 9 student is solving a problem involving calculate the percentage errors in expected budgets to actual expenditure. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving calculate the percentage errors in expected budgets to actual expenditure. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "estimate_the_accuracy_of_measurements_in_practical_contexts_and_giving_suitable_lower_and_upper_bounds_for_measurement_values",
-    "question": "Which description correctly applies estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values?",
-    "audio_prompt": "Which description correctly applies estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values?",
+    "question": "A Year 9 student is solving a problem involving estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_calculating_and_interpreting_absolute_relative_and_percentage_errors_in_measurements_relates_to_artificial_intelligence_systems_such_as_regression_models_estimating_uncertainty_and_recommendation_systems",
-    "question": "Which description correctly applies explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems?",
-    "audio_prompt": "Which description correctly applies explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems?",
+    "question": "A Year 9 student is solving a problem involving explore how calculating and interpreting absolute relative and percentage errors in measurements relates to artificial intelligence systems such as regression models estimating uncertainty and recommendation systems. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore how calculating and interpreting absolute relative and percentage errors in measurements relates to artificial intelligence systems such as regression models estimating uncertainty and recommendation systems. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_error_as_a_percentage_of_the_exact_value",
-    "question": "Which interpretation is accurate for explore error as a percentage of the exact value?",
-    "audio_prompt": "Which interpretation is accurate for explore error as a percentage of the exact value?",
+    "question": "A Year 9 student is solving a problem involving explore error as a percentage of the exact value. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore error as a percentage of the exact value. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

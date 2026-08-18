@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "construct_and_interpreting_box_plots_and_using_them_to_compare_data_sets_understanding_that_box_plots_are_an_efficient_and_common_way_of_representing_and_summarising_data",
-    "question": "Which statement correctly describes construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data?",
-    "audio_prompt": "Which statement correctly describes construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data?",
+    "question": "A Year 10 student is solving a problem involving construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_shapes_of_distributions_using_box_plots_histograms_cumulative_frequency_graphs_and_dot_plots_discussing_symmetry_skew_and_modality",
-    "question": "Which statement correctly describes compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality?",
-    "audio_prompt": "Which statement correctly describes compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality?",
+    "question": "A Year 10 student is solving a problem involving compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_digital_tools_to_compare_boxplots_and_histograms_as_displays_of_the_same_data_in_the_light_of_the_statistical_questions_being_addressed",
-    "question": "Which statement correctly describes use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed?",
-    "audio_prompt": "Which statement correctly describes use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed?",
+    "question": "A Year 10 student is solving a problem involving use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_the_five_number_summary_minimum_and_maximum_values_median_and_upper_and_lower_quartiles_and_using_its_graphical_representation_the_box_plot_as_tools_for_both_numerically",
-    "question": "Which statement correctly describes find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically?",
-    "audio_prompt": "Which statement correctly describes find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically?",
+    "question": "A Year 10 student is solving a problem involving find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -154,8 +154,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_the_information_that_can_be_extracted_and_the_stories_that_can_be_told_about_continuous_and_discrete_numerical_data_sets_that_have_been_displayed_in_different_ways",
-    "question": "Which statement correctly describes compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways?",
-    "audio_prompt": "Which statement correctly describes compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways?",
+    "question": "A Year 10 student is solving a problem involving compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -191,8 +191,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "explore_how_the_identification_and_appropriate_handling_of_outliers_is_an_important_step_in_machine_learning_to_ensure_that_they_don_t_unduly_influence_the_model",
-    "question": "Which statement correctly describes explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model?",
-    "audio_prompt": "Which statement correctly describes explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model?",
+    "question": "A Year 10 student is solving a problem involving explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -228,8 +228,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "construct_and_interpreting_box_plots_and_using_them_to_compare_data_sets_understanding_that_box_plots_are_an_efficient_and_common_way_of_representing_and_summarising_data",
-    "question": "Which statement gives a valid example of construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data?",
-    "audio_prompt": "Which statement gives a valid example of construct and interpreting box plots and using them to compare data sets, understanding that box plots are an efficient and common way of representing and summarising data?",
+    "question": "A Year 10 student is solving a problem involving construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving construct and interpreting box plots and using them to compare data sets understanding that box plots are an efficient and common way of representing and summarising data. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "compare_shapes_of_distributions_using_box_plots_histograms_cumulative_frequency_graphs_and_dot_plots_discussing_symmetry_skew_and_modality",
-    "question": "Which statement gives a valid example of compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality?",
-    "audio_prompt": "Which statement gives a valid example of compare shapes of distributions using box plots, histograms, cumulative frequency graphs and dot plots, discussing symmetry, skew and modality?",
+    "question": "A Year 10 student is solving a problem involving compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving compare shapes of distributions using box plots histograms cumulative frequency graphs and dot plots discussing symmetry skew and modality. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_digital_tools_to_compare_boxplots_and_histograms_as_displays_of_the_same_data_in_the_light_of_the_statistical_questions_being_addressed",
-    "question": "Which description correctly applies use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed?",
-    "audio_prompt": "Which description correctly applies use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed?",
+    "question": "A Year 10 student is solving a problem involving use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving use digital tools to compare boxplots and histograms as displays of the same data in the light of the statistical questions being addressed. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "find_the_five_number_summary_minimum_and_maximum_values_median_and_upper_and_lower_quartiles_and_using_its_graphical_representation_the_box_plot_as_tools_for_both_numerically",
-    "question": "Which description correctly applies find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically?",
-    "audio_prompt": "Which description correctly applies find the five-number summary (minimum and maximum values, median, and upper and lower quartiles) and using its graphical representation, the box plot, as tools for both numerically?",
+    "question": "A Year 10 student is solving a problem involving find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving find the five number summary minimum and maximum values median and upper and lower quartiles and using its graphical representation the box plot as tools for both numerically. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "compare_the_information_that_can_be_extracted_and_the_stories_that_can_be_told_about_continuous_and_discrete_numerical_data_sets_that_have_been_displayed_in_different_ways",
-    "question": "Which description correctly applies compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways?",
-    "audio_prompt": "Which description correctly applies compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways?",
+    "question": "A Year 10 student is solving a problem involving compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving compare the information that can be extracted and the stories that can be told about continuous and discrete numerical data sets that have been displayed in different ways. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "explore_how_the_identification_and_appropriate_handling_of_outliers_is_an_important_step_in_machine_learning_to_ensure_that_they_don_t_unduly_influence_the_model",
-    "question": "Which description correctly applies explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model?",
-    "audio_prompt": "Which description correctly applies explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don't unduly influence the model?",
+    "question": "A Year 10 student is solving a problem involving explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model. Which option is mathematically valid?",
+    "audio_prompt": "A Year 10 student is solving a problem involving explore how the identification and appropriate handling of outliers is an important step in machine learning to ensure that they don t unduly influence the model. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

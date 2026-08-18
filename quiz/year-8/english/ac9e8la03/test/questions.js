@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non linear way and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non linear way and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non linear way and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives literary recounts memoirs drama scripts types of poems formal speeches comparisons and creative responses discussions and debates and explaining how these structures and language features support their purpose and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives literary recounts memoirs drama scripts types of poems formal speeches comparisons and creative responses discussions and debates and explaining how these structures and language features support their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives literary recounts memoirs drama scripts types of poems formal speeches comparisons and creative responses discussions and debates and explaining how these structures and language features support their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how texts such as critical responses to texts expositions text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

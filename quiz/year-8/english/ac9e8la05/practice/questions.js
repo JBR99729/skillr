@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use word choice to shape evaluating how speechmakers influence audiences though embedded clauses to add information and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a writer or speaker can use word choice to shape evaluating how speechmakers influence audiences though embedded clauses to add information and influence how an audience understands the text?",
-    "audioPrompt": "Which statement correctly describes a writer or speaker can use word choice to shape evaluating how speechmakers influence audiences though embedded clauses to add information and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape evaluating how speechmakers influence audiences though embedded clauses to add information and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape evaluating how speechmakers influence audiences though embedded clauses to add information and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use audience to shape exploring how clauses and embedded clauses can be used to express ideas more succinctly and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a writer or speaker can use audience to shape exploring how clauses and embedded clauses can be used to express ideas more succinctly and influence how an audience understands the text?",
-    "audioPrompt": "Which statement correctly describes a writer or speaker can use audience to shape exploring how clauses and embedded clauses can be used to express ideas more succinctly and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape exploring how clauses and embedded clauses can be used to express ideas more succinctly and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape exploring how clauses and embedded clauses can be used to express ideas more succinctly and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use word choice to shape evaluating how speechmakers influence audiences though embedded clauses to add information and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a writer or speaker can use word choice to shape evaluating how speechmakers influence audiences though embedded clauses to add information and influence how an audience understands the text?",
-    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use word choice to shape evaluating how speechmakers influence audiences though embedded clauses to add information and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape evaluating how speechmakers influence audiences though embedded clauses to add information and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use word choice to shape evaluating how speechmakers influence audiences though embedded clauses to add information and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use audience to shape exploring how clauses and embedded clauses can be used to express ideas more succinctly and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a writer or speaker can use audience to shape exploring how clauses and embedded clauses can be used to express ideas more succinctly and influence how an audience understands the text?",
-    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use audience to shape exploring how clauses and embedded clauses can be used to express ideas more succinctly and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape exploring how clauses and embedded clauses can be used to express ideas more succinctly and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape exploring how clauses and embedded clauses can be used to express ideas more succinctly and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

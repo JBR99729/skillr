@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "understanding outcomes with and without replacement",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for understanding outcomes with and without replacement?",
-    "audioPrompt": "Which interpretation is accurate for understanding outcomes with and without replacement?",
+    "question": "A Year 9 student is solving a problem involving understanding outcomes with and without replacement. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving understanding outcomes with and without replacement. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "a systematic list or two way array organises two stage outcomes so none are missed or counted twice",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a systematic list or two-way array organises two-stage outcomes so none are missed or counted twice?",
-    "audioPrompt": "Which interpretation is accurate for a systematic list or two-way array organises two-stage outcomes so none are missed or counted twice?",
+    "question": "A Year 9 student is solving a problem involving a systematic list or two way array organises two stage outcomes so none are missed or counted twice. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving a systematic list or two way array organises two stage outcomes so none are missed or counted twice. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "a tree branches at each stage multiply probabilities along a path and add probabilities across disjoint successful paths",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths?",
-    "audioPrompt": "Which interpretation is accurate for a tree branches at each stage: multiply probabilities along a path and add probabilities across disjoint successful paths?",
+    "question": "A Year 9 student is solving a problem involving a tree branches at each stage multiply probabilities along a path and add probabilities across disjoint successful paths. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving a tree branches at each stage multiply probabilities along a path and add probabilities across disjoint successful paths. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "randomly selecting distinct people uses without replacement probabilities because one person cannot be selected twice",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice?",
-    "audioPrompt": "Which interpretation is accurate for randomly selecting distinct people uses without-replacement probabilities because one person cannot be selected twice?",
+    "question": "A Year 9 student is solving a problem involving randomly selecting distinct people uses without replacement probabilities because one person cannot be selected twice. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving randomly selecting distinct people uses without replacement probabilities because one person cannot be selected twice. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -6,8 +6,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "choose_a_structure",
-    "question": "Which statement correctly explains audience in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "Which statement correctly explains audience in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating choose a structure. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a structure. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "write_a_caption",
-    "question": "Which description is accurate for purpose in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "Which description is accurate for purpose in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating write a caption. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating write a caption. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "define_a_term",
-    "question": "Which statement gives an example of scientific representation in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "Which statement gives an example of scientific representation in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating define a term. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating define a term. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "adapt_for_audience",
-    "question": "What is important when using audience in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "What is important when using audience in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating adapt for audience. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating adapt for audience. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "science",
     "bank": "practice",
     "skill": "define_a_term",
-    "question": "Which statement is true about purpose in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "Which statement is true about purpose in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating define a term. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating define a term. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "adapt_for_audience",
-    "question": "Which response correctly applies adapt for audience in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "Which response correctly applies adapt for audience in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating adapt for audience. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating adapt for audience. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "attribute_a_source",
-    "question": "Which response shows correct use of attribute a source in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "Which response shows correct use of attribute a source in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating attribute a source. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating attribute a source. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_a_structure",
-    "question": "Which interpretation is accurate for choose a structure in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "Which interpretation is accurate for choose a structure in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating choose a structure. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a structure. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "write_a_caption",
-    "question": "Which choice demonstrates write a caption in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "Which choice demonstrates write a caption in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating write a caption. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating write a caption. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "attribute_a_source",
-    "question": "Which claim is accurate about attribute a source in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "Which claim is accurate about attribute a source in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating attribute a source. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating attribute a source. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "science",
     "bank": "test",
     "skill": "choose_a_structure",
-    "question": "What is required to apply choose a structure in communicating scientific ideas, findings and arguments?",
-    "audio_prompt": "What is required to apply choose a structure in communicating scientific ideas, findings and arguments?",
+    "question": "A Year 7 student is investigating choose a structure. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a structure. Which option is scientifically valid and best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""

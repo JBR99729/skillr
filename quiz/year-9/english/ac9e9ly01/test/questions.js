@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape identifying and analysing how news is conveyed in texts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text?",
-    "audioPrompt": "Which interpretation is accurate for a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing texts from different time periods and analysing the language features used to represent individuals or groups and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text?",
-    "audioPrompt": "Which choice demonstrates a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text?",
+    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape examining the representation of public figures in media and recognising how these vary in different contexts and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

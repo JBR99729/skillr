@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use digital tools to investigate time zones around the world and convert from one zone to another, such as time in perth?",
-    "audioPrompt": "Which interpretation is accurate for use digital tools to investigate time zones around the world and convert from one zone to another, such as time in perth?",
+    "question": "A Year 8 student is solving a problem involving use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories?",
-    "audioPrompt": "Which interpretation is accurate for recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories?",
+    "question": "A Year 8 student is solving a problem involving recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "plan an international travel itinerary that covers destinations in different time zones across asia",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for plan an international travel itinerary that covers destinations in different time zones across asia?",
-    "audioPrompt": "Which interpretation is accurate for plan an international travel itinerary that covers destinations in different time zones across asia?",
+    "question": "A Year 8 student is solving a problem involving plan an international travel itinerary that covers destinations in different time zones across asia. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving plan an international travel itinerary that covers destinations in different time zones across asia. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates use digital tools to investigate time zones around the world and convert from one zone to another, such as time in perth?",
-    "audioPrompt": "Which choice demonstrates use digital tools to investigate time zones around the world and convert from one zone to another, such as time in perth?",
+    "question": "A Year 8 student is solving a problem involving use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth. Which option is mathematically valid?",
+    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

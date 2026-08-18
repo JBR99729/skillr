@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text?",
-    "audioPrompt": "Which statement correctly describes a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text?",
-    "audioPrompt": "Which statement correctly describes a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text?",
-    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrPracticeQuestions = [
     "skill": "a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text",
     "printable": true,
     "type": "single",
-    "question": "Which statement gives a valid example of a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text?",
-    "audioPrompt": "Which statement gives a valid example of a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text?",
+    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

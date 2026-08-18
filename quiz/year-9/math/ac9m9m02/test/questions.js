@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "represent very large and small real numbers in scientific notation converting real numbers expressed in scientific notation into decimal form",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form?",
-    "audioPrompt": "Which interpretation is accurate for represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form?",
+    "question": "A Year 9 student is solving a problem involving represent very large and small real numbers in scientific notation converting real numbers expressed in scientific notation into decimal form. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving represent very large and small real numbers in scientific notation converting real numbers expressed in scientific notation into decimal form. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -65,8 +65,8 @@ window.skillrTestQuestions = [
     "skill": "use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts?",
-    "audioPrompt": "Which interpretation is accurate for use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts?",
+    "question": "A Year 9 student is solving a problem involving use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving use knowledge of place value and applying exponent laws to operate with numbers expressed in scientific notation in applied contexts. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -94,8 +94,8 @@ window.skillrTestQuestions = [
     "skill": "examine the degree of accuracy that different measurement instruments provide in a science laboratory such as a measuring cylinder compared with a pipette",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette?",
-    "audioPrompt": "Which interpretation is accurate for examine the degree of accuracy that different measurement instruments provide in a science laboratory, such as a measuring cylinder compared with a pipette?",
+    "question": "A Year 9 student is solving a problem involving examine the degree of accuracy that different measurement instruments provide in a science laboratory such as a measuring cylinder compared with a pipette. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving examine the degree of accuracy that different measurement instruments provide in a science laboratory such as a measuring cylinder compared with a pipette. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "represent very large and small real numbers in scientific notation converting real numbers expressed in scientific notation into decimal form",
     "printable": true,
     "type": "single",
-    "question": "Which choice demonstrates represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form?",
-    "audioPrompt": "Which choice demonstrates represent very large and small real numbers in scientific notation, converting real numbers expressed in scientific notation into decimal form?",
+    "question": "A Year 9 student is solving a problem involving represent very large and small real numbers in scientific notation converting real numbers expressed in scientific notation into decimal form. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving represent very large and small real numbers in scientific notation converting real numbers expressed in scientific notation into decimal form. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -6,8 +6,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "name_corresponding_pair",
-    "question": "Which statement correctly explains transversal in angles in parallel lines?",
-    "audio_prompt": "Which statement correctly explains transversal in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving name corresponding pair. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving name corresponding pair. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -43,8 +43,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "use_alternate_equality",
-    "question": "Which description is accurate for alternate angles in angles in parallel lines?",
-    "audio_prompt": "Which description is accurate for alternate angles in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving use alternate equality. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving use alternate equality. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -80,8 +80,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_co_interior_supplement",
-    "question": "Which statement gives an example of co-interior angles in angles in parallel lines?",
-    "audio_prompt": "Which statement gives an example of co-interior angles in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving find co interior supplement. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find co interior supplement. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -117,8 +117,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "add_vertical_opposite_step",
-    "question": "What is important when using transversal in angles in parallel lines?",
-    "audio_prompt": "What is important when using transversal in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving add vertical opposite step. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving add vertical opposite step. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -265,8 +265,8 @@
     "subject": "math",
     "bank": "practice",
     "skill": "find_co_interior_supplement",
-    "question": "Which statement is true about alternate angles in angles in parallel lines?",
-    "audio_prompt": "Which statement is true about alternate angles in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving find co interior supplement. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving find co interior supplement. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -302,8 +302,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "add_vertical_opposite_step",
-    "question": "Which response correctly applies add vertical-opposite step in angles in parallel lines?",
-    "audio_prompt": "Which response correctly applies add vertical-opposite step in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving add vertical opposite step. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving add vertical opposite step. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -339,8 +339,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_reasoned_solution",
-    "question": "Which response shows correct use of write a reasoned solution in angles in parallel lines?",
-    "audio_prompt": "Which response shows correct use of write a reasoned solution in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving write a reasoned solution. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a reasoned solution. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -376,8 +376,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "name_corresponding_pair",
-    "question": "Which interpretation is accurate for name corresponding pair in angles in parallel lines?",
-    "audio_prompt": "Which interpretation is accurate for name corresponding pair in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving name corresponding pair. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving name corresponding pair. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -413,8 +413,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "use_alternate_equality",
-    "question": "Which choice demonstrates use alternate equality in angles in parallel lines?",
-    "audio_prompt": "Which choice demonstrates use alternate equality in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving use alternate equality. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving use alternate equality. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -524,8 +524,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "write_a_reasoned_solution",
-    "question": "Which claim is accurate about write a reasoned solution in angles in parallel lines?",
-    "audio_prompt": "Which claim is accurate about write a reasoned solution in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving write a reasoned solution. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving write a reasoned solution. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -561,8 +561,8 @@
     "subject": "math",
     "bank": "test",
     "skill": "name_corresponding_pair",
-    "question": "What is required to apply name corresponding pair in angles in parallel lines?",
-    "audio_prompt": "What is required to apply name corresponding pair in angles in parallel lines?",
+    "question": "A Year 7 student is solving a problem involving name corresponding pair. Which option is mathematically valid?",
+    "audio_prompt": "A Year 7 student is solving a problem involving name corresponding pair. Which option is mathematically valid?",
     "visual": {
       "type": "none",
       "alt_text": ""

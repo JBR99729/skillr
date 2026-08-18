@@ -123,8 +123,8 @@ window.skillrTestQuestions = [
     "skill": "explore transformations of the graph of y x to the graph of y ax b by systematic variation of a and b",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b?",
-    "audioPrompt": "Which interpretation is accurate for explore transformations of the graph of y=x to the graph of y=ax+b by systematic variation of a and b?",
+    "question": "A Year 9 student is solving a problem involving explore transformations of the graph of y x to the graph of y ax b by systematic variation of a and b. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore transformations of the graph of y x to the graph of y ax b by systematic variation of a and b. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -152,8 +152,8 @@ window.skillrTestQuestions = [
     "skill": "explore transformations of the parabola y x in the cartesian plane using digital tools to determine the relationship between graphical",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore transformations of the parabola y=x² in the cartesian plane using digital tools to determine the relationship between graphical?",
-    "audioPrompt": "Which interpretation is accurate for explore transformations of the parabola y=x² in the cartesian plane using digital tools to determine the relationship between graphical?",
+    "question": "A Year 9 student is solving a problem involving explore transformations of the parabola y x in the cartesian plane using digital tools to determine the relationship between graphical. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore transformations of the parabola y x in the cartesian plane using digital tools to determine the relationship between graphical. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,8 +181,8 @@ window.skillrTestQuestions = [
     "skill": "experiment with with digital tools by applying transformations to the graphs of functions such as reciprocal y 1 x square root y x cube y x and exponential functions y 2 x",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for experiment with with digital tools by applying transformations to the graphs of functions, such as reciprocal y=1/x, square root y=√x, cube y=x³ and exponential functions, y=2^x?",
-    "audioPrompt": "Which interpretation is accurate for experiment with with digital tools by applying transformations to the graphs of functions, such as reciprocal y=1/x, square root y=√x, cube y=x³ and exponential functions, y=2^x?",
+    "question": "A Year 9 student is solving a problem involving experiment with with digital tools by applying transformations to the graphs of functions such as reciprocal y 1 x square root y x cube y x and exponential functions y 2 x. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving experiment with with digital tools by applying transformations to the graphs of functions such as reciprocal y 1 x square root y x cube y x and exponential functions y 2 x. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models?",
-    "audioPrompt": "Which interpretation is accurate for explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models?",
+    "question": "A Year 9 student is solving a problem involving explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore how experimenting with the effects of the variation of parameters of related functions can provide artificial intelligence researchers insights into the predictive behaviour of artificial intelligence models. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "explore a range of data and its sources",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies explore a range of data and its sources?",
-    "audioPrompt": "Which description correctly applies explore a range of data and its sources?",
+    "question": "A Year 9 student is solving a problem involving explore a range of data and its sources. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore a range of data and its sources. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -36,8 +36,8 @@ window.skillrTestQuestions = [
     "skill": "analyse reports of public opinion surveys on environmental issues such as land clearing wind farms or single use plastics discussing methods of data collection",
     "printable": true,
     "type": "single",
-    "question": "Which description correctly applies analyse reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection?",
-    "audioPrompt": "Which description correctly applies analyse reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection?",
+    "question": "A Year 9 student is solving a problem involving analyse reports of public opinion surveys on environmental issues such as land clearing wind farms or single use plastics discussing methods of data collection. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving analyse reports of public opinion surveys on environmental issues such as land clearing wind farms or single use plastics discussing methods of data collection. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -210,8 +210,8 @@ window.skillrTestQuestions = [
     "skill": "explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation is accurate for explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data?",
-    "audioPrompt": "Which interpretation is accurate for explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data?",
+    "question": "A Year 9 student is solving a problem involving explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data. Which option is mathematically valid?",
+    "audioPrompt": "A Year 9 student is solving a problem involving explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data. Which option is mathematically valid?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

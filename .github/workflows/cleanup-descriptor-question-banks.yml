@@ -1,0 +1,49 @@
+name: Cleanup descriptor-style question banks
+
+on:
+  push:
+    branches:
+      - agent/upgrade-upper-question-banks
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: agent/upgrade-upper-question-banks
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Replace descriptor-style questions and republish banks
+        run: node scripts/clean_descriptor_question_prompts.mjs
+
+      - name: Fail if bad prompt phrases remain in production banks
+        shell: bash
+        run: |
+          if grep -RInE '"question": "(Which statement correctly describes|Which statement gives a valid example of|Which description correctly applies|Which statement correctly explains|Which description is accurate for|Which statement gives an example of|Which statement shows correct use of|Which statement accurately identifies|What is important when using|Which statement is true about|Which response correctly applies|Which response shows correct use of|Which interpretation is accurate for|Which choice demonstrates|What does correct application require for|Which claim is accurate about|What is required to apply)' assets/assessment-banks; then
+            echo 'Low-quality descriptor-style prompt detected.'
+            exit 1
+          fi
+
+      - name: Commit generated cleanup
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo 'No cleanup changes required.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/assessment-banks quiz
+          git commit -m 'replace descriptor-style question banks'
+          git push origin HEAD:agent/upgrade-upper-question-banks
