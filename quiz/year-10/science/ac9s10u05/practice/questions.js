@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10u05-p-001",
-    "curriculumCode": "AC9S10U05",
-    "bank": "practice",
-    "skill": "use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating a moving object to analyse and propose relationships between distance and time, speed, force and acceleration",
-      "A moving object needs a forward net force to keep moving",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating a moving object to analyse and propose relationships between distance and time, speed, force and acceleration\nHint: Use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating a moving object to analyse and propose relationships between distance and time, speed, force and acceleration",
-      "hint": "Use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u05-p-002",
-    "curriculumCode": "AC9S10U05",
-    "bank": "practice",
-    "skill": "use mathematical representations to make the role of net force visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use mathematical representations to make the role of net force visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use mathematical representations to make the role of net force visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Action and reaction forces cancel",
-      "using mathematical representations including graphs and algebraic formulas to quantitatively relate force, speed, acceleration and mass",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using mathematical representations including graphs and algebraic formulas to quantitatively relate force, speed, acceleration and mass\nHint: Use mathematical representations to make the role of net force visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using mathematical representations including graphs and algebraic formulas to quantitatively relate force, speed, acceleration and mass",
-      "hint": "Use mathematical representations to make the role of net force visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u05-p-003",
-    "curriculumCode": "AC9S10U05",
-    "bank": "practice",
-    "skill": "use how first nations australians achieve an increase in speed to make the role of action reaction pair visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how first nations australians achieve an increase in speed to make the role of action reaction pair visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how first nations australians achieve an increase in speed to make the role of action reaction pair visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A moving object needs a forward net force to keep moving",
-      "The method can be chosen without checking the values or conditions",
-      "investigating how First Nations Australians achieve an increase in speed and subsequent impact force through the use of spearthrowers and bows",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating how First Nations Australians achieve an increase in speed and subsequent impact force through the use of spearthrowers and bows\nHint: Use how First Nations Australians achieve an increase in speed to make the role of action–reaction pair visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how First Nations Australians achieve an increase in speed and subsequent impact force through the use of spearthrowers and bows",
-      "hint": "Use how First Nations Australians achieve an increase in speed to make the role of action–reaction pair visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u05-p-004",
-    "curriculumCode": "AC9S10U05",
-    "bank": "practice",
-    "skill": "use how a change in net force acting to make the role of f ma visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how a change in net force acting to make the role of f ma visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how a change in net force acting to make the role of f ma visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Action and reaction forces cancel",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "modelling how a change in net force acting on an object affects its motion and relating to the purpose of safety features such as seatbelts, airbags and crumple zones in vehicles"
-    ],
-    "correct": 3,
-    "explanation": "modelling how a change in net force acting on an object affects its motion and relating to the purpose of safety features such as seatbelts, airbags and crumple zones in vehicles\nHint: Use how a change in net force acting to make the role of F = ma visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "modelling how a change in net force acting on an object affects its motion and relating to the purpose of safety features such as seatbelts, airbags and crumple zones in vehicles",
-      "hint": "Use how a change in net force acting to make the role of F = ma visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u05-p-005",
-    "curriculumCode": "AC9S10U05",
-    "bank": "practice",
-    "skill": "use the application of newton s laws in sport and how to make the role of motion graph and safety visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the application of newton s laws in sport and how to make the role of motion graph and safety visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the application of newton s laws in sport and how to make the role of motion graph and safety visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating the application of Newton’s laws in sport and how these are applied to improve an athlete’s performance or safety",
-      "A moving object needs a forward net force to keep moving",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating the application of Newton’s laws in sport and how these are applied to improve an athlete’s performance or safety\nHint: Use the application of Newton’s laws in sport and how to make the role of motion graph and safety visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating the application of Newton’s laws in sport and how these are applied to improve an athlete’s performance or safety",
-      "hint": "Use the application of Newton’s laws in sport and how to make the role of motion graph and safety visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u05-p-006",
-    "curriculumCode": "AC9S10U05",
-    "bank": "practice",
-    "skill": "use an argument supported by data to support lower speed to make the role of inertia visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use an argument supported by data to support lower speed to make the role of inertia visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use an argument supported by data to support lower speed to make the role of inertia visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Action and reaction forces cancel",
-      "constructing an argument, supported by data, to support lower speed limits near schools or for trucks in urban environments",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "constructing an argument, supported by data, to support lower speed limits near schools or for trucks in urban environments\nHint: Use an argument, supported by data, to support lower speed to make the role of inertia visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "constructing an argument, supported by data, to support lower speed limits near schools or for trucks in urban environments",
-      "hint": "Use an argument, supported by data, to support lower speed to make the role of inertia visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u05-p-007",
-    "curriculumCode": "AC9S10U05",
-    "bank": "practice",
-    "skill": "use how driverless vehicles apply newton s laws of motion to make the role of net force visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how driverless vehicles apply newton s laws of motion to make the role of net force visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how driverless vehicles apply newton s laws of motion to make the role of net force visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A moving object needs a forward net force to keep moving",
-      "The method can be chosen without checking the values or conditions",
-      "investigating how driverless vehicles apply Newton’s laws of motion to brake in time",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating how driverless vehicles apply Newton’s laws of motion to brake in time\nHint: Use how driverless vehicles apply Newton’s laws of motion to make the role of net force visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how driverless vehicles apply Newton’s laws of motion to brake in time",
-      "hint": "Use how driverless vehicles apply Newton’s laws of motion to make the role of net force visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u05-p-008",
-    "curriculumCode": "AC9S10U05",
-    "bank": "practice",
-    "skill": "use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Action and reaction forces cancel",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating a moving object to analyse and propose relationships between distance and time, speed, force and acceleration"
-    ],
-    "correct": 3,
-    "explanation": "investigating a moving object to analyse and propose relationships between distance and time, speed, force and acceleration\nHint: Use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating a moving object to analyse and propose relationships between distance and time, speed, force and acceleration",
-      "hint": "Use a moving object to analyse and propose relationships between to make the role of inertia visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=(id,n,s,q,a,c,e,h)=>({id:`ac9s10u05-p-${String(id).padStart(3,"0")}`,curriculumCode:"AC9S10U05",bank:"practice",section:s,sourceNumber:n,skill:s,printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:h},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q(1,1,"Newton's laws","A skateboarder pushes backward on the ground and accelerates forward. Which law most directly explains the paired forces between skateboarder and ground?",["Newton's first law","Newton's second law","Newton's third law","Universal gravitation"],2,"Newton's third law: the skateboarder pushes the ground backward and the ground pushes the skateboarder forward with an equal-magnitude opposite-direction force.","Identify the two interacting objects."),
+Q(2,2,"Inertia","Which statement is Newton's first law?",["Any moving object must have a forward net force","An object remains at rest or constant velocity unless a non-zero net force acts","Force always equals weight","Every force makes an object speed up"],1,"With zero net force, velocity does not change; the object may remain at rest or move at constant velocity.","Zero net force means zero acceleration, not necessarily zero velocity."),
+Q(3,3,"Force and acceleration","A 10 kg trolley experiences a net force of 50 N. What is its acceleration?",["5 m/s²","0.2 m/s²","40 m/s²","500 m/s²"],0,"Using F_net = ma, a = 50/10 = 5 m/s².","Rearrange F = ma for acceleration."),
+Q(4,4,"Forces and friction","A ball rolls across grass and slows. Which explanation is best?",["Its mass decreases as it moves","Gravity acts horizontally opposite its motion","Its forward force is used up","Resistive forces such as friction produce a net force opposite its motion"],3,"Friction and other resistive forces create a net force opposite the ball's velocity, so it decelerates.","Ask what horizontal force changes the velocity."),
+Q(5,5,"Force and mass","Two trolleys experience the same net force. Trolley X has twice the mass of trolley Y. How does X's acceleration compare with Y's?",["Twice as large","Half as large","The same","Four times as large"],1,"From a = F_net/m, doubling mass while keeping net force fixed halves acceleration.","Acceleration is inversely proportional to mass for fixed net force."),
+Q(6,6,"Newton's third law","A swimmer pushes water backward. What accelerates the swimmer forward?",["The swimmer's inertia","The swimmer's weight","The water exerts a forward force on the swimmer","The swimmer's backward force acts on the swimmer"],2,"The swimmer pushes water backward; the water exerts an equal-magnitude forward force on the swimmer.","Third-law forces act on different objects."),
+Q(7,7,"Definitions","Which definition of inertia is most accurate?",["The tendency of an object to resist changes in its velocity","The force that keeps an object moving","The energy an object has because it moves","A force that always opposes gravity"],0,"Inertia is resistance to a change in velocity and depends on mass.","Inertia is a property, not a force."),
+Q(8,8,"Inertia","A bus accelerates suddenly forward and a standing passenger appears to move backward relative to the bus. Why?",["A backward force suddenly acts on the passenger","The passenger's body tends to maintain its previous velocity","Gravity pulls the passenger backward","The passenger's mass temporarily increases"],1,"Because of inertia, the passenger tends to maintain the previous velocity while the bus accelerates forward beneath them.","Describe motion relative to the accelerating bus."),
+Q(9,9,"Balanced forces","A puck moves in a straight line at constant velocity on a horizontal surface. What must be true of the net force?",["It points forward","It points backward","It is zero","It equals the puck's weight"],2,"Constant velocity means zero acceleration, so F_net = ma = 0.","Constant velocity includes constant speed and direction."),
+Q(10,10,"Net force","A 10 kg trolley is pushed 60 N to the right while friction is 20 N to the left. What is its acceleration?",["2 m/s² right","6 m/s² right","8 m/s² right","4 m/s² right"],3,"The net force is 60 - 20 = 40 N right, so a = 40/10 = 4 m/s² right.","Calculate net force before using F = ma."),
+Q(11,11,"Newton's third law","Which statement correctly describes a rocket accelerating upward in space?",["The rocket pushes exhaust gases downward and the gases push the rocket upward","The rocket needs air to push against","Gravity must disappear before the rocket can accelerate","The exhaust and rocket forces cancel because they are equal"],0,"Rocket and exhaust gases exert equal and opposite forces on each other; these forces act on different objects.","A rocket can accelerate in a vacuum."),
+Q(12,12,"Force and acceleration","For the same trolley, the net force increases from 30 N to 60 N. If mass is unchanged, what happens to acceleration?",["It halves","It doubles","It stays unchanged","It becomes four times as large"],1,"From a = F_net/m, doubling net force at constant mass doubles acceleration.","Hold mass constant in F = ma."),
+Q(13,13,"Balanced forces","A book is at rest on a horizontal table. Which pair of forces balances on the book?",["Weight downward and normal force upward","Weight and Earth's gravitational reaction on the book","Normal force and the book's force on the table","Only friction and weight"],0,"For a resting book, the upward normal force balances its downward weight.","Choose forces that both act on the book."),
+Q(14,14,"Net force","A trolley has 35 N forward thrust and 15 N backward resistance. Which statement is correct?",["The forces are balanced","The trolley has a 20 N forward net force","The net force is 50 N forward","The trolley must move at constant speed"],1,"Net force = 35 - 15 = 20 N forward, so the trolley accelerates forward.","Opposing forces subtract."),
+Q(15,15,"Terminal velocity","A falling skydiver reaches terminal velocity. What is true at that instant?",["Air resistance is zero","Weight is zero","Air resistance equals weight, so net force is zero","Acceleration is greatest"],2,"At terminal velocity, upward drag balances downward weight; net force and acceleration are zero while velocity remains non-zero.","Balanced forces do not mean stopped motion."),
+Q(16,16,"Newton's third law","A cricket bat exerts a 900 N force on a ball. Ignoring other forces during contact, what force does the ball exert on the bat?",["0 N","Less than 900 N","More than 900 N","900 N in the opposite direction"],3,"By Newton's third law, the ball exerts an equal-magnitude force of 900 N on the bat in the opposite direction.","Interaction forces have equal magnitude even if accelerations differ."),
+Q(17,17,"Definitions","Which statement correctly distinguishes mass and weight?",["Mass is amount of matter/inertia; weight is the gravitational force on that mass","Mass and weight are identical quantities measured in newtons","Mass depends on local gravity but weight does not","Weight is measured in kilograms"],0,"Mass measures inertia and is measured in kilograms; weight is a force, W = mg, measured in newtons.","One is a property of matter; the other is a force."),
+Q(18,18,"Force and acceleration","A 12 kg object accelerates at 4 m/s². What is the net force?",["3 N","48 N","16 N","8 N"],1,"F_net = ma = 12 × 4 = 48 N.","Multiply mass by acceleration."),
+Q(19,19,"Projectile motion","A ball is thrown horizontally. Ignoring air resistance, why does it keep moving forward while falling?",["A forward force continues to act after release","Gravity has a forward component","Its horizontal velocity persists by inertia while gravity accelerates it downward","Its mass decreases during flight"],2,"With no horizontal net force, horizontal velocity remains constant; gravity changes the vertical velocity.","Treat horizontal and vertical motion separately."),
+Q(20,20,"Constant velocity","A car travels straight at constant speed while its engine provides 800 N forward. Which conclusion is best?",["The net force is 800 N forward","There are no resistive forces","Its acceleration is 800 m/s²","Resistive forces total about 800 N backward"],3,"Constant velocity means zero net force, so backward resistance must balance the 800 N driving force.","Constant speed in a straight line means forces balance."),
+Q(21,21,"Definitions","What is net force?",["The vector sum of all forces acting on an object","Only the largest force on an object","The force in the direction of motion","The object's mass multiplied by its speed"],0,"Net force is the vector sum of all external forces acting on an object.","Direction matters when combining forces."),
+Q(22,22,"Acceleration","Which situation definitely involves acceleration?",["A car moving straight at constant 20 m/s","A car travelling around a bend at constant speed","A parked car","A train moving straight at constant velocity"],1,"Acceleration is a change in velocity, so changing direction while speed is constant is still acceleration.","Velocity includes direction."),
+Q(23,23,"Newton's third law","Which is a true Newton's third-law pair for a book resting on a table?",["The book's weight and the table's normal force on the book","The Earth's gravity on the book and the table's normal force","The table pushes up on the book and the book pushes down on the table","The book's mass and its weight"],2,"The table's force on the book and the book's force on the table are equal and opposite forces on different objects.","Third-law pairs are the same interaction viewed from both objects."),
+Q(24,24,"Technology and motion","A spearthrower extends the effective length of a person's throwing arm. Why can this increase the spear's launch speed?",["It removes the spear's mass","It eliminates gravity","It makes the spear experience no forces","It allows the hand/spear tip to move through a greater distance and reach a higher speed during the throw"],3,"Extending the lever can increase the distance and speed through which force is applied, increasing launch speed.","Think about the motion of the end of a longer rotating lever.")
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
