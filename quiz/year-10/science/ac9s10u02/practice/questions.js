@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10u02-p-001",
-    "curriculumCode": "AC9S10U02",
-    "bank": "practice",
-    "skill": "use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "outlining processes involved in natural selection including variation, isolation and selection",
-      "Individuals evolve because they need to",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "outlining processes involved in natural selection including variation, isolation and selection\nHint: Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "outlining processes involved in natural selection including variation, isolation and selection",
-      "hint": "Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u02-p-002",
-    "curriculumCode": "AC9S10U02",
-    "bank": "practice",
-    "skill": "use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Natural selection is random",
-      "examining biodiversity as a function of evolution",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "examining biodiversity as a function of evolution\nHint: Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining biodiversity as a function of evolution",
-      "hint": "Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u02-p-003",
-    "curriculumCode": "AC9S10U02",
-    "bank": "practice",
-    "skill": "use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Individuals evolve because they need to",
-      "The method can be chosen without checking the values or conditions",
-      "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species\nHint: Use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
-      "hint": "Use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u02-p-004",
-    "curriculumCode": "AC9S10U02",
-    "bank": "practice",
-    "skill": "use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Natural selection is random",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics"
-    ],
-    "correct": 3,
-    "explanation": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics\nHint: Use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
-      "hint": "Use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u02-p-005",
-    "curriculumCode": "AC9S10U02",
-    "bank": "practice",
-    "skill": "use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "relating genetic characteristics to survival and reproductive rates",
-      "Individuals evolve because they need to",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "relating genetic characteristics to survival and reproductive rates\nHint: Use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "relating genetic characteristics to survival and reproductive rates",
-      "hint": "Use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u02-p-006",
-    "curriculumCode": "AC9S10U02",
-    "bank": "practice",
-    "skill": "use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use some of the structural and physiological adaptations of first to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Natural selection is random",
-      "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment\nHint: Use some of the structural and physiological adaptations of First to make the role of heritable variation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
-      "hint": "Use some of the structural and physiological adaptations of First to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u02-p-007",
-    "curriculumCode": "AC9S10U02",
-    "bank": "practice",
-    "skill": "use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Individuals evolve because they need to",
-      "The method can be chosen without checking the values or conditions",
-      "outlining processes involved in natural selection including variation, isolation and selection",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "outlining processes involved in natural selection including variation, isolation and selection\nHint: Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "outlining processes involved in natural selection including variation, isolation and selection",
-      "hint": "Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u02-p-008",
-    "curriculumCode": "AC9S10U02",
-    "bank": "practice",
-    "skill": "use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Natural selection is random",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining biodiversity as a function of evolution"
-    ],
-    "correct": 3,
-    "explanation": "examining biodiversity as a function of evolution\nHint: Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining biodiversity as a function of evolution",
-      "hint": "Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=(id,n,section,question,answers,correct,explanation,hint)=>({id:`ac9s10u02-p-${String(id).padStart(3,'0')}`,curriculumCode:'AC9S10U02',bank:'practice',section,sourceNumber:n,skill:section,printable:true,type:'single',question,answers,correct,explanation,structuredExplanation:{summary:explanation,hint},qualitySchema:'production-v1'});
+window.skillrPracticeQuestions=[
+Q(1,1,'Natural selection','In a beetle population, some individuals inherit a colour that makes them harder for birds to see. Over many generations, that colour becomes more common. Which process best explains the change?',['Genetic drift only','Natural selection','Acquired inheritance','Artificial selection'],1,'Individuals with the heritable colour leave more offspring, so alleles associated with that colour can increase in frequency.','Look for heritable variation linked to differential reproductive success.'),
+Q(2,2,'Population change','Which observation is direct evidence that a population has evolved?',['Every individual becomes larger','The habitat changes','An allele rises from 20% to 55% over generations','One organism develops a new skill'],2,'Evolution involves changes in allele frequencies in a population across generations.','Evolution is measured at population level, not by lifetime changes in one organism.'),
+Q(3,3,'Darwinian reasoning','Which sequence best captures Darwinian natural selection?',['Heritable variation → competition/selection pressure → differential reproduction → population change','Need → useful mutation → identical offspring → adaptation','Environmental change → every individual changes → inheritance','Mutation stops → strongest individuals survive → no allele change'],0,'Natural selection requires heritable variation and unequal reproductive success, causing population-level change over generations.','Start with variation that already exists or arises genetically.'),
+Q(4,4,'Evidence for evolution','A fossil species has limb bones intermediate between an older land-dwelling group and a later aquatic group. Why is this useful evolutionary evidence?',['It proves every species changes at the same rate','It shows fossils are always complete','It proves the two groups lived together','It provides transitional features consistent with descent with modification'],3,'Transitional fossils can show combinations of ancestral and derived features expected during evolutionary change.','Think about intermediate anatomical features.'),
+Q(5,5,'Selection pressures','Which is the best example of a selective pressure on a rabbit population?',['A prolonged drought that changes available food','A neutral mutation with no effect on survival or reproduction','The chromosome number of the species','The age of a fossil'],0,'Environmental factors such as drought can alter which phenotypes survive and reproduce most successfully.','A selective pressure changes relative reproductive success.'),
+Q(6,6,'Artificial selection','Why is selective breeding of dogs classified as artificial rather than natural selection?',['It prevents inheritance','Humans choose which individuals reproduce for desired traits','It removes all genetic variation','It occurs without reproduction'],1,'Artificial selection occurs when humans preferentially breed individuals with chosen heritable characteristics.','Ask who is imposing the selection criterion.'),
+Q(7,7,'Fossil evidence','Why does the fossil record contain gaps?',['Fossils can form only from plants','All fossils have already been discovered','Fossilisation requires unusual conditions and many remains are destroyed','Evolution occurs only when fossils form'],2,'Fossilisation is relatively rare, and geological processes can destroy or hide fossils.','Preservation is not equally likely for every organism or environment.'),
+Q(8,8,'Comparative anatomy','The forelimbs of whales, bats and humans contain the same basic bone pattern but perform different functions. This most strongly supports:',['Convergent evolution only','Identical lifestyles','No evolutionary relationship','Common ancestry through homologous structures'],3,'Shared underlying anatomy with different functions is characteristic of homologous structures inherited from common ancestors.','Same structural plan, different function.'),
+Q(9,9,'Convergent evolution','Sharks and dolphins both have streamlined bodies, but their closest ancestors were very different. Their similar body shape is best described as:',['Convergent evolution producing analogous features','Divergent evolution from a recent common ancestor','Artificial selection','Genetic drift'],0,'Similar selective pressures can independently favour similar functional traits in unrelated lineages.','Similar function does not always mean recent common ancestry.'),
+Q(10,10,'Genetic variation','Which pair creates new genetic variation that natural selection can act on?',['Identical cloning and stable environments','Mutation and recombination during sexual reproduction','Natural selection and fossilisation','Competition and extinction only'],1,'Mutation creates new alleles, while sexual reproduction reshuffles existing alleles into new combinations.','Separate sources of variation from processes that sort variation.'),
+Q(11,11,'Fitness and mutations','A mutation improves survival in a cold environment but reduces survival in a hot environment. What does this show?',['Beneficial mutations are always beneficial everywhere','Mutations occur because organisms need them','The fitness effect of a mutation can depend on the environment','Natural selection makes mutations appear'],2,'Whether an allele is advantageous depends on the environmental context and its effect on reproductive success.','Fitness is environment-dependent.'),
+Q(12,12,'Species and speciation','Under the biological species concept, two populations are considered the same species when they can:',['Occupy the same habitat','Look almost identical','Share one gene','Interbreed and produce fertile offspring under natural conditions'],3,'The biological species concept focuses on reproductive compatibility and fertile offspring.','Appearance alone does not define a species.'),
+Q(13,13,'Genetic drift','A storm randomly kills most individuals in a small island lizard population, regardless of colour. Allele frequencies change sharply among survivors. This is best explained by:',['Genetic drift','Directional natural selection','Artificial selection','Sexual selection'],0,'Chance survival in a small population can alter allele frequencies independently of adaptive value.','Was survival related to a heritable advantage or mostly chance?'),
+Q(14,14,'Founder effect','Five birds from a mainland population colonise a remote island. Their allele frequencies differ from the mainland population simply because the founders were a small sample. This is the:',['Bottleneck effect','Founder effect','Gene mutation rate','Fossil effect'],1,'A new population founded by a few individuals may carry an unrepresentative sample of the original gene pool.','A small group starts a new population.'),
+Q(15,15,'Bottleneck effect','A wildfire reduces a population of 10,000 animals to 80 survivors. The survivors reproduce and the population recovers, but genetic diversity is much lower. Which process best explains this?',['Convergent evolution','Artificial selection','Bottleneck effect','Independent assortment'],2,'A severe reduction in population size can randomly remove alleles and reduce genetic diversity.','Think about a sudden population crash.'),
+Q(16,16,'Speciation','Two populations of the same species become separated by a mountain range. After many generations they can no longer interbreed successfully. What has most likely occurred?',['Only individual adaptation','A temporary phenotype change','No evolutionary change','Speciation following reproductive isolation'],3,'Long-term isolation can allow populations to diverge until reproductive isolation develops.','Speciation requires barriers to gene flow and divergence.'),
+Q(17,17,'Geographic isolation','Why can geographic isolation promote evolutionary divergence?',['It reduces gene flow between populations','It makes mutations stop','It forces identical selection pressures','It guarantees both populations become extinct'],0,'Reduced gene flow allows mutation, drift and different selection pressures to change populations independently.','Consider what happens when alleles no longer move freely between populations.'),
+Q(18,18,'Natural selection','Which statement most accurately describes what natural selection acts on?',['Entire ecosystems simultaneously','Differences in phenotypes of individuals that affect reproductive success','Future needs of a species','Allele frequencies directly without organisms'],1,'Selection occurs because individuals with different heritable phenotypes differ in survival or reproduction; population allele frequencies then change.','Distinguish the level at which selection occurs from the level at which evolution is measured.'),
+Q(19,19,'Population evolution','Why do biologists say populations evolve rather than individual organisms?',['Individuals never have mutations','Individuals cannot reproduce','Evolution is a generational change in inherited allele frequencies','Only ecosystems contain genes'],2,'An individual can develop or acclimatise, but evolutionary change is defined across generations in a population gene pool.','Focus on inherited changes across generations.'),
+Q(20,20,'Molecular evidence','Two species have highly similar DNA sequences in many conserved genes. What is the strongest evolutionary inference?',['They must live in the same habitat','They must have identical phenotypes','They cannot have evolved','They probably share a relatively recent common ancestor'],3,'Greater molecular similarity generally supports closer evolutionary relatedness, especially across conserved genes.','DNA similarity is evidence of shared ancestry.'),
+Q(21,21,'Vestigial structures','Which observation best fits the idea of a vestigial structure?',['A reduced pelvic bone in a whale inherited from ancestors with functional hind limbs','A bird wing used efficiently for flight','A newly formed mutation in one cell','A structure found only in fossils'],0,'Vestigial structures are reduced remnants of features that were more functional in ancestors.','Look for an inherited reduced remnant.'),
+Q(22,22,'Natural selection in action','During industrial pollution, dark peppered moths became more common where dark tree bark made them less visible to predators. Which explanation is best?',['Dark moths deliberately changed colour','Predation created differential survival and reproduction among heritable colour variants','Pollution directly converted light alleles into dark alleles','Every moth had the same reproductive success'],1,'Camouflage affected predation, so heritable colour variants had different reproductive success.','The environment selects among existing heritable variants.'),
+Q(23,23,'Evolutionary fitness','In evolutionary biology, an organism with high fitness is one that:',['Is physically strongest','Lives the longest regardless of reproduction','Contributes relatively more surviving offspring to the next generation','Has the most mutations'],2,'Fitness refers to relative reproductive success, not simply strength, speed or lifespan.','Count successful genetic contribution to future generations.'),
+Q(24,24,'Antibiotic resistance','A bacterial population contains a few resistant cells before an antibiotic is used. After treatment, resistant bacteria dominate. Which explanation is most accurate?',['The antibiotic teaches bacteria to resist it','Every bacterium mutates in the same way during treatment','Resistance appears because bacteria need it','The antibiotic selects for pre-existing heritable resistance, increasing its frequency'],3,'The antibiotic is a selection pressure: susceptible bacteria die more often, while resistant bacteria survive and reproduce.','Selection changes the frequency of existing heritable variants.' )
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
