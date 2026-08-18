@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10u07-p-001",
-    "curriculumCode": "AC9S10U07",
-    "bank": "practice",
-    "skill": "use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
-      "A catalyst increases the amount of product",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations\nHint: Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
-      "hint": "Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u07-p-002",
-    "curriculumCode": "AC9S10U07",
-    "bank": "practice",
-    "skill": "use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hotter particles become larger",
-      "identifying reaction type and predicting the products",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying reaction type and predicting the products\nHint: Use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying reaction type and predicting the products",
-      "hint": "Use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u07-p-003",
-    "curriculumCode": "AC9S10U07",
-    "bank": "practice",
-    "skill": "use synthesis reactions to make the role of displacement visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use synthesis reactions to make the role of displacement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use synthesis reactions to make the role of displacement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A catalyst increases the amount of product",
-      "The method can be chosen without checking the values or conditions",
-      "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation\nHint: Use synthesis reactions to make the role of displacement visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
-      "hint": "Use synthesis reactions to make the role of displacement visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u07-p-004",
-    "curriculumCode": "AC9S10U07",
-    "bank": "practice",
-    "skill": "use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hotter particles become larger",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions"
-    ],
-    "correct": 3,
-    "explanation": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions\nHint: Use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions",
-      "hint": "Use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u07-p-005",
-    "curriculumCode": "AC9S10U07",
-    "bank": "practice",
-    "skill": "use chemical reactions employed by first nations australians to make the role of temperature concentration surface area and catalyst visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use chemical reactions employed by first nations australians to make the role of temperature concentration surface area and catalyst visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use chemical reactions employed by first nations australians to make the role of temperature concentration surface area and catalyst visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
-      "A catalyst increases the amount of product",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol\nHint: Use chemical reactions employed by First Nations Australians to make the role of temperature, concentration, surface area and catalyst visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
-      "hint": "Use chemical reactions employed by First Nations Australians to make the role of temperature, concentration, surface area and catalyst visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u07-p-006",
-    "curriculumCode": "AC9S10U07",
-    "bank": "practice",
-    "skill": "use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hotter particles become larger",
-      "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products\nHint: Use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
-      "hint": "Use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u07-p-007",
-    "curriculumCode": "AC9S10U07",
-    "bank": "practice",
-    "skill": "use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A catalyst increases the amount of product",
-      "The method can be chosen without checking the values or conditions",
-      "examining reactions that are used to produce a range of useful products",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining reactions that are used to produce a range of useful products\nHint: Use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining reactions that are used to produce a range of useful products",
-      "hint": "Use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10u07-p-008",
-    "curriculumCode": "AC9S10U07",
-    "bank": "practice",
-    "skill": "use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use representing synthesis decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hotter particles become larger",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations"
-    ],
-    "correct": 3,
-    "explanation": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations\nHint: Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
-      "hint": "Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const skillrRawQuestions = [
+["reaction types","Which equation represents a synthesis reaction?",["2Mg + O₂ → 2MgO","CaCO₃ → CaO + CO₂","Zn + CuSO₄ → ZnSO₄ + Cu","AgNO₃ + NaCl → AgCl + NaNO₃"],0,"Two reactants combine to form a single compound, so this is a synthesis reaction.","Look for several reactants forming one product."],
+["reaction types","Which equation represents a decomposition reaction?",["2Na + Cl₂ → 2NaCl","CuCO₃ → CuO + CO₂","Mg + 2HCl → MgCl₂ + H₂","HCl + NaOH → NaCl + H₂O"],1,"A single compound breaks into two simpler products, which is the pattern of decomposition.","Look for one reactant forming multiple products."],
+["reaction types","Which equation shows a single-displacement reaction?",["Zn + CuSO₄ → ZnSO₄ + Cu","2H₂ + O₂ → 2H₂O","CaCO₃ → CaO + CO₂","AgNO₃ + NaCl → AgCl + NaNO₃"],0,"Zinc replaces copper in copper sulfate, so one element displaces another from a compound.","Look for an element replacing another element in a compound."],
+["reaction types","Which general pattern represents a decomposition reaction?",["A + B → AB","AB → A + B","A + BC → AC + B","AB + CD → AD + CB"],1,"Decomposition begins with one compound and forms two or more simpler substances.","One reactant breaks apart."],
+["reaction types","Which general pattern best represents a single-displacement reaction?",["A + B → AB","AB → A + B","A + BC → AC + B","AB + CD → AD + CB"],2,"In single displacement, a free element replaces an element in a compound.","One element replaces another."],
+["product prediction","Complete the reaction: Mg + 2HCl → ?",["MgO + H₂","MgCl₂ + H₂","MgH₂ + Cl₂","MgCl + HCl"],1,"A reactive metal with hydrochloric acid forms the metal chloride and hydrogen gas.","Metal + acid → salt + hydrogen."],
+["product prediction","Complete the balanced synthesis reaction: 2H₂ + O₂ → ?",["H₂O₂","2H₂O","H₂O","2HO"],1,"Hydrogen and oxygen combine to form water; two water molecules balance the atoms.","Check atom counts on both sides."],
+["product prediction","On heating, calcium carbonate decomposes. Which products form?",["CaO + CO₂","Ca + CO₃","CaCO₂ + O","CaO₂ + C"],0,"Calcium carbonate decomposes to calcium oxide and carbon dioxide.","Carbonate decomposition gives oxide + CO₂."],
+["product prediction","Which products correctly complete BaCl₂ + Na₂SO₄ → ?",["BaSO₄(s) + 2NaCl","Ba₂SO₄ + NaCl","BaCl₂SO₄","BaSO₄(aq)"],0,"Barium sulfate is insoluble and precipitates; sodium chloride remains in solution.","Use solubility rules and balance the equation."],
+["product prediction","Which products correctly complete H₂SO₄ + 2NaOH → ?",["Na₂SO₄ + 2H₂O","NaSO₄ + H₂O","Na₂O + H₂SO₄","NaOH₂ + SO₄"],0,"Neutralisation between sulfuric acid and sodium hydroxide forms sodium sulfate and water.","Acid + base → salt + water."],
+["rates","Increasing temperature usually increases reaction rate because particles:",["move more slowly and collide less often","have more kinetic energy, causing more frequent and more energetic collisions","become larger","require more activation energy"],1,"Higher temperature raises particle kinetic energy, increasing collision frequency and the fraction of collisions energetic enough to react.","Think collision theory, not particle size."],
+["rates","Why can a more concentrated solution react faster than a dilute one?",["It contains fewer reacting particles per unit volume","It contains more reacting particles per unit volume, increasing collision frequency","Its particles always have more kinetic energy","Its activation energy is lower"],1,"Higher concentration means more reactant particles in a given volume, so collisions occur more frequently.","Concentration changes particle number per volume."],
+["rates","Why does powdered calcium carbonate react faster with acid than the same mass in large chips?",["The powder has greater surface area exposed to the acid","The powder has a larger mass","The powder has fewer particles","The powder lowers activation energy"],0,"Powder exposes more surface for collisions between reactant particles.","Same mass, different exposed surface area."],
+["rates","What is the main effect of a catalyst on a chemical reaction?",["It increases the activation energy","It provides an alternative pathway with lower activation energy","It changes the final products","It is permanently consumed"],1,"A catalyst speeds a reaction by providing a lower-activation-energy pathway and is regenerated overall.","Catalysts change the pathway, not the products."],
+["rates","According to collision theory, which collisions can produce a reaction?",["All collisions","Only collisions with sufficient energy and suitable orientation","Only collisions at low temperature","Only collisions involving a catalyst"],1,"Reacting particles must collide with enough energy to overcome the activation barrier and with an effective orientation.","Not every collision is successful."],
+["rates","Which conditions should give the fastest reaction between the same mass of calcium carbonate and hydrochloric acid?",["Large chips in cold, dilute acid","Powder in hot, concentrated acid","Large chips in hot, dilute acid","Powder in cold, dilute acid"],1,"Higher temperature, higher concentration and greater surface area all increase the frequency of successful collisions.","Combine all three rate factors."],
+["rates","A catalyst speeds a reaction but does not increase the amount of product obtainable from fixed reactant amounts because it:",["changes the chemical formula of the products","lowers the activation energy for the reaction pathway","adds more reactant particles","raises the reaction enthalpy"],1,"A catalyst changes reaction rate by lowering activation energy; it does not add reactants or change stoichiometric amounts.","Rate and amount of product are different ideas."],
+["rates","Which change would decrease the rate of a reaction between a solid and a solution?",["Increasing temperature","Increasing solution concentration","Crushing the solid into smaller pieces","Using larger pieces of the solid"],3,"Larger pieces have less total surface area exposed than the same mass of smaller pieces, reducing collision frequency at the surface.","Less exposed surface means fewer collisions."],
+["first nations chemistry","Which statement best describes the scientific basis of traditional fermentation processes used to produce substances such as ethanol?",["Microorganisms convert sugars into new substances through chemical reactions","Plant sugars are converted to metals","Heating alone always produces ethanol","Fermentation is a physical change only"],0,"Fermentation involves biochemical reactions in which microorganisms convert sugars into products such as ethanol.","Fermentation is chemical, not merely physical."],
+["first nations chemistry","Why can controlled soaking, leaching, heating or fermentation make some traditionally processed plant foods safer?",["These processes can remove or chemically break down harmful substances","They always add useful metals","They increase the atomic number of toxins","They prevent all chemical reactions"],0,"Controlled processing can remove soluble harmful compounds or promote chemical changes that reduce toxicity.","Think removal or chemical breakdown of harmful compounds."],
+["applications","Which reaction is a precipitation reaction?",["Mg + 2HCl → MgCl₂ + H₂","AgNO₃ + NaCl → AgCl(s) + NaNO₃","CaCO₃ → CaO + CO₂","2Na + Cl₂ → 2NaCl"],1,"Silver chloride is an insoluble solid formed when two aqueous ionic solutions react.","Look for an insoluble solid forming from solutions."],
+["applications","Which equation shows iron displacing copper from a compound?",["Fe + CuSO₄ → FeSO₄ + Cu","Fe + O₂ → FeO","FeCO₃ → FeO + CO₂","FeCl₂ + 2NaOH → Fe(OH)₂ + 2NaCl"],0,"Iron is more reactive than copper and can replace copper ions in copper sulfate solution.","Use the reactivity series."],
+["applications","Why are precipitation reactions useful in separation or water-treatment processes?",["They convert selected dissolved ions into an insoluble solid that can be removed","They always produce a gas","They turn all ions into metals","They prevent conservation of mass"],0,"A precipitate can be filtered or settled, allowing selected dissolved species to be removed from solution.","An insoluble solid is easier to separate."],
+["applications","Which statement about reaction classification is most accurate?",["Every chemical reaction fits only one simple pattern with no overlap","Reaction patterns are models that help organise and predict reactions, but some reactions can be described in more than one way","Neutralisation is always synthesis","Precipitation is always decomposition"],1,"Classification schemes are useful models, but some reactions can be described in more than one category depending on the scheme used.","Avoid treating categories as absolute."]
 ];
+window.skillrPracticeQuestions = skillrRawQuestions.map((item,index)=>({id:`ac9s10u07-p-${String(index+1).padStart(3,"0")}`,curriculumCode:"AC9S10U07",bank:"practice",skill:item[0],printable:true,type:"single",question:item[1],audioPrompt:item[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:item[2],correct:item[3],explanation:`${item[4]}\nHint: ${item[5]}`,structuredExplanation:{summary:item[4],hint:item[5]},qualitySchema:"production-v1"}));
 window.quizQuestions = window.skillrPracticeQuestions;
