@@ -7,6 +7,49 @@ if (!input) throw new Error("Usage: node scripts/publish_production_question_ban
 const items = JSON.parse(fs.readFileSync(path.resolve(ROOT, input), "utf8"));
 if (!Array.isArray(items) || !items.length) throw new Error("Expected a non-empty production bank");
 
+const BANNED_QUESTION_PATTERNS = [
+  /^A (?:Foundation|Year \d+) student is solving a problem involving\b/i,
+  /Which option is (?:mathematically|scientifically|linguistically) valid\?/i,
+  /^What should you check when using\b/i,
+  /^What is important when using\b/i,
+  /^Which statement correctly describes\b/i,
+  /^Which statement gives (?:a )?valid example of\b/i,
+  /^Which statement gives an example of\b/i,
+  /^Which description correctly applies\b/i,
+  /^Which response correctly applies\b/i,
+  /^Which response correctly uses\b/i,
+  /^Which statement correctly explains\b/i,
+  /^Which description is accurate for\b/i,
+  /^Which statement correctly identifies\b/i,
+  /^Which choice best describes\b/i,
+  /^What does correct use require for\b/i,
+  /^Which statement is true about\b/i,
+  /^What is the correct way to apply\b/i,
+  /^What does correct application require for\b/i,
+  /^Which claim is accurate about\b/i,
+  /^When would you use\b/i,
+  /^Which choice demonstrates\b/i,
+  /^What should be checked when applying\b/i,
+  /^What is required to apply\b/i,
+];
+
+function bannedReason(question) {
+  const text = String(question || "").trim();
+  const pattern = BANNED_QUESTION_PATTERNS.find((candidate) => candidate.test(text));
+  return pattern ? pattern.toString() : null;
+}
+
+const blocked = items
+  .map((item) => ({ id: item.id, question: item.question, reason: bannedReason(item.question) }))
+  .filter((item) => item.reason);
+
+if (blocked.length) {
+  console.error("Refusing to publish low-quality templated assessment questions.");
+  for (const item of blocked) console.error(`- ${item.id}: ${item.question}`);
+  console.error("Author genuine grade-appropriate, curriculum-aligned questions instead of paraphrasing the curriculum descriptor.");
+  process.exit(1);
+}
+
 const first = items[0];
 const yearNumber = String(first.year_level).match(/\d+/)?.[0];
 if (!yearNumber) throw new Error(`Unsupported year level: ${first.year_level}`);
