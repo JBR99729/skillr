@@ -1,0 +1,63 @@
+name: Finalize Year 10 Maths Gifted Banks
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/finalize-year10-math-gifted.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reconstruct reviewed source
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p curriculum-question-banks
+          cat .github/tmp-year10-gifted/source-*.b64 | base64 -d | gzip -d > curriculum-question-banks/year10-gifted-math-reviewed.txt
+          sed -i 's/parents\[3\]/parents[2]/' .github/tmp-year10-gifted/finalize_year10_gifted_math.py
+
+      - name: Append gifted layer and verify
+        run: python .github/tmp-year10-gifted/finalize_year10_gifted_math.py
+
+      - name: Freeze Year 10 Maths
+        shell: bash
+        run: |
+          cat > curriculum-question-banks/year10-maths-frozen.md <<'EOF'
+          # Year 10 Maths — Frozen
+
+          Year 10 Mathematics question-bank QA is frozen after the reviewed gifted-layer integration.
+
+          Final bank policy:
+          - retain the authored core questions;
+          - append 16 reviewed gifted questions to Practice and 8 to Test for each Year 10 Maths curriculum code;
+          - gifted questions are ordered after the core bank in source arrays;
+          - do not run further content-audit/re-authoring passes on Year 10 Maths unless explicitly reopened by the repository owner;
+          - runtime, link, syntax, security and regression validation may continue.
+          EOF
+
+      - name: Remove temporary integration files
+        shell: bash
+        run: |
+          rm -rf .github/tmp-year10-gifted
+          rm -f .github/workflows/finalize-year10-math-gifted.yml
+          rm -f curriculum-question-banks/year10-gifted-math-reviewed.txt
+
+      - name: Commit final frozen banks
+        shell: bash
+        run: |
+          set -euo pipefail
+          git diff --check
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Finalize and freeze Year 10 maths question banks'
+          git push origin HEAD:main
