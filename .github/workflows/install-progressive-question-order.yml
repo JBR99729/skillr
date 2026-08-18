@@ -3,6 +3,7 @@ name: Install progressive question ordering
 on:
   push:
     branches:
+      - main
       - agent/progressive-question-difficulty
   workflow_dispatch:
 
@@ -15,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: agent/progressive-question-difficulty
+          ref: ${{ github.ref_name }}
           fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
@@ -35,4 +36,4 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add quiz/assets/script.js assets/assessment-banks
           git commit -m 'apply progressive easy-to-hard question ordering'
-          git push origin HEAD:agent/progressive-question-difficulty
+          git push origin HEAD:${GITHUB_REF_NAME}
