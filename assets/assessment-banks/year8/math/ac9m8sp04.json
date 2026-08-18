@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
       "hint": "listing the properties or criteria necessary to determine if shapes are similar or congruent."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
       "hint": "Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
       "hint": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
       "hint": "listing the properties or criteria necessary to determine if shapes are similar or congruent."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
       "hint": "Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
       "hint": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
       "hint": "listing the properties or criteria necessary to determine if shapes are similar or congruent."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
       "hint": "Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp04-t-001",

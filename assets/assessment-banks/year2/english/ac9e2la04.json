@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "His shows ownership, He points to Luca and it points to the lunch.",
       "hint": "Choose a possessive word for the lunch, a personal pronoun for Luca and a pronoun for the thing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Choose a possessive word for the lunch, a personal pronoun for Luca and a pronoun for the thing. His shows ownership, He points to Luca and it points to the lunch.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Her shows that the raincoat belongs to Ava, and she points back to Ava.",
       "hint": "Choose a possessive word before raincoat and a personal pronoun before went."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Choose a possessive word before raincoat and a personal pronoun before went. Her shows that the raincoat belongs to Ava, and she points back to Ava.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "The ball is the thing that can roll after the puppy nudges it.",
       "hint": "Look for the named thing that makes sense with the action rolled."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA04-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for the named thing that makes sense with the action rolled. The ball is the thing that can roll after the puppy nudges it.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA04-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Cup can be left out after blue because the first noun makes the missing meaning clear.",
       "hint": "Put the earlier noun after blue and check that the sentence makes sense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA04-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Put the earlier noun after blue and check that the sentence makes sense. Cup can be left out after blue because the first noun makes the missing meaning clear.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA04-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "The noun Tess comes first, so her and she are clear; it points to the bike.",
       "hint": "Keep the first name or noun, then replace only the repetition that stays clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Keep the first name or noun, then replace only the repetition that stays clear. The noun Tess comes first, so her and she are clear; it points to the bike.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Repeating Kai removes the unclear pronoun and keeps the intended meaning.",
       "hint": "When two people could match he, repeat the correct name."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "When two people could match he, repeat the correct name. Repeating Kai removes the unclear pronoun and keeps the intended meaning.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Her, she and it point clearly to Ruby and the scarf without awkward repetition.",
       "hint": "Match each pronoun to the person or thing it replaces, and keep Ruby named at the start."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Match each pronoun to the person or thing it replaces, and keep Ruby named at the start. Her, she and it point clearly to Ruby and the scarf without awkward repetition.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Her and she point to Sasha, while its points to the cat.",
       "hint": "Name the owner and pet first, then replace only the repetitions that stay clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Name the owner and pet first, then replace only the repetitions that stay clear. Her and she point to Sasha, while its points to the cat.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Shells is understood because it was named earlier and small describes the second group.",
       "hint": "Put the earlier noun after small and read the sentence again."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Put the earlier noun after small and read the sentence again. Shells is understood because it was named earlier and small describes the second group.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Repeating the zebras removes doubt about which animals ran.",
       "hint": "When they could mean either group, repeat the intended group name."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "When they could mean either group, repeat the intended group name. Repeating the zebras removes doubt about which animals ran.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "She and her point to Nora, while it points to the named gate.",
       "hint": "Keep Nora named before using she or her, then replace clear repetitions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Keep Nora named before using she or her, then replace clear repetitions. She and her point to Nora, while it points to the named gate.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Repeating kite prevents it from seeming to point to the tree.",
       "hint": "If it could mean two things, name the intended thing again."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "If it could mean two things, name the intended thing again. Repeating kite prevents it from seeming to point to the tree.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA04-T-001",

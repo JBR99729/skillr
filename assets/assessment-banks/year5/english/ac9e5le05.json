@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses begin with the empty display case, then then reveal yesterday's careless handover, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le05-p-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses open at the helicopter arrival, then return to the first warning signs, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le05-p-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses alternate each friend's account, then show one misunderstood message, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le05-p-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses frame the story with an unopened letter, then tell the grandparent's memory inside, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le05-p-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses present events chronologically, then show training causing improvement, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le05-p-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses begin with the climax at a fallen bridge, then reveal ignored clues gradually, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le05-p-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses alternate backstage and audience scenes, then create dramatic irony about a missing prop, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le05-p-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses end with two supported possibilities, then plant evidence for both, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le05-p-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses open with a confident present-day narrator, then flash back to an anxious first day, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses parallel two teams' preparation, then bring plots together at judging, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses tell the event through diary entries, then let later entries revise early assumptions, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses shift from passenger to lighthouse keeper, then show each missing the other's knowledge, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses start at discovery, then move backwards through three clues, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses slow one decisive second, then insert brief memories between actions, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses frame past scenes around present cooking, then connect generations through repeated words, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses use a circular structure, then end with the same candle image changed, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses alternate child and ranger viewpoints, then create different priorities, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses begin after an unexplained alarm, then reconstruct events from objects, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses use two parallel possible paths, then show consequences of each, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses delay the sender's identity, then place fair clues in each section, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses use scene-like sections, then jump between performance and preparation, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses adult narrator interrupts childhood scenes, then correct earlier misunderstanding, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses present three witness accounts, then allow contradictions to remain visible, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-p-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The structure is purposeful because it uses count backwards to departure, then compress paragraphs near zero, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le05-t-001",

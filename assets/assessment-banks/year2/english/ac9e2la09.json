@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Crept precisely describes slow, quiet movement.",
       "hint": "Choose the verb that matches both the speed and quiet movement."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA09-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Choose the verb that matches both the speed and quiet movement. Crept precisely describes slow, quiet movement.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA09-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Sprinted precisely describes running at top speed.",
       "hint": "Match the verb to the speed and purpose of the movement."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA09-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Match the verb to the speed and purpose of the movement. Sprinted precisely describes running at top speed.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA09-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Whispered tells exactly how quietly Dad spoke.",
       "hint": "Choose a speaking verb that matches the volume clue."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA09-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Choose a speaking verb that matches the volume clue. Whispered tells exactly how quietly Dad spoke.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA09-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Melted is the accurate topic word for solid ice changing into liquid water.",
       "hint": "Use the science word for the change you can observe."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA09-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Use the science word for the change you can observe. Melted is the accurate topic word for solid ice changing into liquid water.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA09-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Burrow precisely names an underground home or tunnel made by an animal.",
       "hint": "Choose the topic word that matches the kind and location of the home."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Choose the topic word that matches the kind and location of the home. Burrow precisely names an underground home or tunnel made by an animal.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Glared is a precise verb for looking in an angry way.",
       "hint": "Use the anger clue to choose more exactly than looked or stared."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Use the anger clue to choose more exactly than looked or stared. Glared is a precise verb for looking in an angry way.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Crashed combines the falling action with the sudden loud sound.",
       "hint": "Choose a verb that communicates the loud impact, not only the fall."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Choose a verb that communicates the loud impact, not only the fall. Crashed combines the falling action with the sudden loud sound.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Sapling precisely names a young tree.",
       "hint": "Choose the topic word that gives the tree's age as well as its kind."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Choose the topic word that gives the tree's age as well as its kind. Sapling precisely names a young tree.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Peered describes looking carefully when something is hard to see.",
       "hint": "Use the clues closely and small gap to choose the exact looking verb."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Use the clues closely and small gap to choose the exact looking verb. Peered describes looking carefully when something is hard to see.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Rustled names the soft brushing sound of moving leaves.",
       "hint": "Match the sound word to leaves brushing together in wind."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Match the sound word to leaves brushing together in wind. Rustled names the soft brushing sound of moving leaves.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A 90-degree right turn is a quarter turn clockwise.",
       "hint": "Check both the amount of the turn and its direction."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Check both the amount of the turn and its direction. A 90-degree right turn is a quarter turn clockwise.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Fragrant precisely describes something with a pleasant noticeable smell.",
       "hint": "Choose the word that names smell rather than a general opinion or taste."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Choose the word that names smell rather than a general opinion or taste. Fragrant precisely describes something with a pleasant noticeable smell.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA09-T-001",

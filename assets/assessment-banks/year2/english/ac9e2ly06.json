@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Grouped factual sections and a labelled image suit an information report.",
       "hint": "Match the structure to a purpose of explaining facts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY06-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Match the structure to a purpose of explaining facts. Grouped factual sections and a labelled image suit an information report.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY06-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Characters, setting, problem and events provide a clear story structure.",
       "hint": "Choose notes that can shape an imaginative sequence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY06-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Choose notes that can shape an imaginative sequence. Characters, setting, problem and events provide a clear story structure.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY06-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "A persuasive letter needs a position, supporting reasons and a requested action.",
       "hint": "Plan how to influence the intended reader."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY06-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "Plan how to influence the intended reader. A persuasive letter needs a position, supporting reasons and a requested action.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "Both parts are complete ideas, and so shows a result.",
       "hint": "Check that each side can make sense and the joining word fits."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY06-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Check that each side can make sense and the joining word fits. Both parts are complete ideas, and so shows a result.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "The number and adjectives help the reader picture the shells precisely.",
       "hint": "Choose words that identify and describe the noun."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY06-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Choose words that identify and describe the noun. The number and adjectives help the reader picture the shells precisely.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Germinate is a precise topic word for a seed beginning to grow.",
       "hint": "Use vocabulary that names the process accurately."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "Use vocabulary that names the process accurately. Germinate is a precise topic word for a seed beginning to grow.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "The edit explains how recycling helps by adding important meaning.",
       "hint": "Improve the idea before checking surface details."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "Improve the idea before checking surface details. The edit explains how recycling helps by adding important meaning.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "So joins two complete ideas and shows that the bell led to lining up.",
       "hint": "Keep both complete ideas and choose a conjunction that shows their link."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Keep both complete ideas and choose a conjunction that shows their link. So joins two complete ideas and shows that the bell led to lining up.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-017",
@@ -575,7 +614,10 @@
     "explanation": {
       "summary": "Is calling is a verb group showing the action in progress.",
       "hint": "Find the group of words carrying the action and time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY06-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Find the group of words carrying the action and time. Is calling is a verb group showing the action in progress.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Because is the conventional spelling needed in the edited sentence.",
       "hint": "Recall the familiar whole word and check every letter group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Recall the familiar whole word and check every letter group. Because is the conventional spelling needed in the edited sentence.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The caption identifies the joey and explains the pictured relationship.",
       "hint": "Choose a factual caption that helps readers interpret the image."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Choose a factual caption that helps readers interpret the image. The caption identifies the joey and explains the pictured relationship.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The polite request and specific reason suit communication with the principal.",
       "hint": "Keep the purpose but adjust tone and detail for the audience."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Keep the purpose but adjust tone and detail for the audience. The polite request and specific reason suit communication with the principal.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY06-T-001",

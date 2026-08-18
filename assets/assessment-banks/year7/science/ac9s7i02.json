@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
       "hint": "Specify setup and use."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
       "hint": "Repeat to assess variation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
       "hint": "Name hazard and control."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
       "hint": "Document and evaluate deviations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i02-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
       "hint": "Specify setup and use."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i02-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
       "hint": "Repeat to assess variation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i02-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
       "hint": "Name hazard and control."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i02-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
       "hint": "Document and evaluate deviations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i02-t-001",

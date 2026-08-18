@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A fair test deliberately changes one tested factor.",
       "hint": "Identify the factor named after \"does\" in the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The measured variable provides the result used to answer the question.",
       "hint": "Choose the outcome, including its unit when appropriate."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Relevant controls make the comparison fair.",
       "hint": "Keep conditions that could otherwise affect the outcome."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Safe investigations identify hazards and controls before work begins.",
       "hint": "Choose the action that reduces a real risk."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Repeated trials help identify variation and improve confidence.",
       "hint": "Compare all trials rather than choosing one."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I02-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "A fair-test plan states the change, measurement and controls.",
       "hint": "Check that only one tested factor changes."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I02-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Safety is planned before starting and monitored during work.",
       "hint": "Think about preventing harm, not reacting after it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I02-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Repeats help determine whether an unusual result is part of variation or an error.",
       "hint": "Keep the method consistent before comparing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I02-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "A fair test deliberately changes one tested factor.",
       "hint": "Identify the factor named after \"does\" in the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The measured variable provides the result used to answer the question.",
       "hint": "Choose the outcome, including its unit when appropriate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Relevant controls make the comparison fair.",
       "hint": "Keep conditions that could otherwise affect the outcome."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Safe investigations identify hazards and controls before work begins.",
       "hint": "Choose the action that reduces a real risk."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Repeated trials help identify variation and improve confidence.",
       "hint": "Compare all trials rather than choosing one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A fair-test plan states the change, measurement and controls.",
       "hint": "Check that only one tested factor changes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Safety is planned before starting and monitored during work.",
       "hint": "Think about preventing harm, not reacting after it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Repeats help determine whether an unusual result is part of variation or an error.",
       "hint": "Keep the method consistent before comparing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A fair test deliberately changes one tested factor.",
       "hint": "Identify the factor named after \"does\" in the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The measured variable provides the result used to answer the question.",
       "hint": "Choose the outcome, including its unit when appropriate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Relevant controls make the comparison fair.",
       "hint": "Keep conditions that could otherwise affect the outcome."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Safe investigations identify hazards and controls before work begins.",
       "hint": "Choose the action that reduces a real risk."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Repeated trials help identify variation and improve confidence.",
       "hint": "Compare all trials rather than choosing one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A fair-test plan states the change, measurement and controls.",
       "hint": "Check that only one tested factor changes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Safety is planned before starting and monitored during work.",
       "hint": "Think about preventing harm, not reacting after it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Repeats help determine whether an unusual result is part of variation or an error.",
       "hint": "Keep the method consistent before comparing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I02-T-001",

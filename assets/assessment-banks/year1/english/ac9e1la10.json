@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Question mark: Where is my hat? This matches the task.",
       "hint": "If it asks, use a question mark."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA10-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "If it asks, use a question mark.",
       "hint": "If it asks, use a question mark."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA10-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Statement ↔ full stop; question ↔ question mark; urgent Stop ↔ exclamation mark This matches the task.",
       "hint": "Use capitals for sentence starts and proper nouns."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA10-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read.",
       "hint": "Use capitals for sentence starts and proper nouns."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA10-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Three distinct purposes with suitable intonation and complete wording This matches the task.",
       "hint": "Use exclamation marks for strong feeling or emphasis."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA10-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for exclamation mark and check the whole example.",
       "hint": "Use exclamation marks for strong feeling or emphasis."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA10-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "'On Monday, Leo visits Perth.' This matches the task.",
       "hint": "If it asks, use a question mark."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Check that you can capitalise proper nouns.",
       "hint": "If it asks, use a question mark."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA10-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Read purpose → check first letter/names → add or verify ending mark This matches the task.",
       "hint": "Use capitals for sentence starts and proper nouns."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA10-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing a basic punctuation edit.",
       "hint": "Use capitals for sentence starts and proper nouns."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "One complete direct question with ? and one appropriate warning/exclamation with ! This matches the task.",
       "hint": "Use exclamation marks for strong feeling or emphasis."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Use exclamation marks for strong feeling or emphasis.",
       "hint": "Use exclamation marks for strong feeling or emphasis."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Friday is the proper name of a day This matches the task.",
       "hint": "If it asks, use a question mark."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read.",
       "hint": "If it asks, use a question mark."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "'Dear Sam, can you come on Tuesday?'; accepts age-appropriate line break/comma handling This matches the task.",
       "hint": "Use capitals for sentence starts and proper nouns."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for capital letter and check the whole example.",
       "hint": "Use capitals for sentence starts and proper nouns."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "'The library closes at three.' This matches the task.",
       "hint": "Use exclamation marks for strong feeling or emphasis."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can capitalise proper nouns.",
       "hint": "Use exclamation marks for strong feeling or emphasis."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "All three common/proper pairs correctly matched and proper names capitalised This matches the task.",
       "hint": "If it asks, use a question mark."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Distinguishing common nouns from familiar proper nouns.",
       "hint": "If it asks, use a question mark."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Will it rain tomorrow? This matches the task.",
       "hint": "Use capitals for sentence starts and proper nouns."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Use capitals for sentence starts and proper nouns.",
       "hint": "Use capitals for sentence starts and proper nouns."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Exclamation mark; surprise/excitement/alarm depending on reading This matches the task.",
       "hint": "Use exclamation marks for strong feeling or emphasis."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Read sentence → Check start/name → Choose end mark → Re-read.",
       "hint": "Use exclamation marks for strong feeling or emphasis."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA10-T-001",

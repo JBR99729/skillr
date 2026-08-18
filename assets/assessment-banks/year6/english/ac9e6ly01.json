@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "This choice best demonstrates compare headlines in the stated context.",
       "hint": "Both texts may use true details while creating different representations through selection and framing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6ly01-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "representation means constructed version of an idea, person or event.",
       "hint": "Match the definition to the most precise term used in Representation and Influence in Media Texts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6ly01-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "This answer applies the relevant language feature accurately.",
       "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6ly01-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "Analyse construction choices",
       "hint": "Check the concept boundary, not just whether the wording sounds confident."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6ly01-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
       "hint": "Both texts may use true details while creating different representations through selection and framing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6ly01-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "Both texts may use true details while creating different representations through selection and framing",
       "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6ly01-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
       "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6ly01-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
       "hint": "Look for application and explanation rather than a feature name alone."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6ly01-t-001",

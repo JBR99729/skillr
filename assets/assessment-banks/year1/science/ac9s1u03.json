@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Push the wagon away applies a force away from the person or into the object.",
       "hint": "A push moves something away or presses on it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Pull the wagon towards you applies a pulling force.",
       "hint": "A pull brings something closer or stretches it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Moves a short distance is a possible effect of a gentle force.",
       "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Usually moves farther on the same surface is a careful comparison under the same conditions.",
       "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Does not usually change shape from a gentle push describes an effect a force can have.",
       "hint": "A force can start, stop, speed up, slow down, turn or change shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U03-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "Using the same object and surface makes the push strength easier to compare.",
       "hint": "Change the force, but keep other important conditions the same."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "A force is a push or a pull that can affect motion or shape.",
       "hint": "Think about what your hands apply when moving an object."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U03-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
       "hint": "Record what changed after the force."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Push the drawer closed applies a force away from the person or into the object.",
       "hint": "A push moves something away or presses on it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U03-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Pull the drawer open applies a pulling force.",
       "hint": "A pull brings something closer or stretches it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S1U03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Moves slowly is a possible effect of a gentle force.",
       "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Usually moves faster if the drawer is free to move is a careful comparison under the same conditions.",
       "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Keeps its shape while moving describes an effect a force can have.",
       "hint": "A force can start, stop, speed up, slow down, turn or change shape."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Using the same object and surface makes the push strength easier to compare.",
       "hint": "Change the force, but keep other important conditions the same."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "A force is a push or a pull that can affect motion or shape.",
       "hint": "Think about what your hands apply when moving an object."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
       "hint": "Record what changed after the force."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Push or kick the ball away applies a force away from the person or into the object.",
       "hint": "A push moves something away or presses on it."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Pull the ball back in a net applies a pulling force.",
       "hint": "A pull brings something closer or stretches it."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Rolls slowly is a possible effect of a gentle force.",
       "hint": "Compare gentle and stronger forces while keeping the object and surface the same."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Usually rolls faster or farther on the same surface is a careful comparison under the same conditions.",
       "hint": "Use “usually” or “may”; a stronger force can change motion or shape."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "May squash slightly when squeezed describes an effect a force can have.",
       "hint": "A force can start, stop, speed up, slow down, turn or change shape."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Using the same object and surface makes the push strength easier to compare.",
       "hint": "Change the force, but keep other important conditions the same."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A force is a push or a pull that can affect motion or shape.",
       "hint": "Think about what your hands apply when moving an object."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A useful record tells how far, how fast, which direction or how the shape changed.",
       "hint": "Record what changed after the force."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S1U03-T-001",

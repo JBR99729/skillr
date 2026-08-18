@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Cat begins /k/; city begins /s/ This matches the task.",
       "hint": "Some letters represent different sounds in different words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY12-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Some letters represent different sounds in different words.",
       "hint": "Some letters represent different sounds in different words."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "Cat ↔ 1; sunset ↔ 2; banana ↔ 3 This matches the task.",
       "hint": "Listen for vowel sounds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY12-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.",
       "hint": "Listen for vowel sounds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY12-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Ro/bot, 2 syllables; long /o/ in ro and short /o/ in bot This matches the task.",
       "hint": "Every syllable needs a vowel sound."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY12-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Look for syllable and check the whole example.",
       "hint": "Every syllable needs a vowel sound."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY12-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "Sat has /s/; the s in rose commonly represents /z/ This matches the task.",
       "hint": "Some letters represent different sounds in different words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY12-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Check that you can check syllables.",
       "hint": "Some letters represent different sounds in different words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY12-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Say → tap → identify vowel sound per beat → check This matches the task.",
       "hint": "Listen for vowel sounds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY12-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing a syllable-analysis routine.",
       "hint": "Listen for vowel sounds."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Pic/nic with two arcs; i in each syllable circled This matches the task.",
       "hint": "Every syllable needs a vowel sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Every syllable needs a vowel sound.",
       "hint": "Every syllable needs a vowel sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Oa works together to represent one vowel sound in one spoken beat This matches the task.",
       "hint": "Some letters represent different sounds in different words."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.",
       "hint": "Some letters represent different sounds in different words."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Cat has short /a/; apron begins long /ā/ in standard pronunciation; whole-word pattern/context selects sound This matches the task.",
       "hint": "Listen for vowel sounds."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for syllable and check the whole example.",
       "hint": "Listen for vowel sounds."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "One syllable containing short /i/ This matches the task.",
       "hint": "Every syllable needs a vowel sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can check syllables.",
       "hint": "Every syllable needs a vowel sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Goat g ↔ /g/; giant g ↔ /j/; happy y ↔ /ee/ This matches the task.",
       "hint": "Some letters represent different sounds in different words."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Connecting letters with context-dependent sounds.",
       "hint": "Some letters represent different sounds in different words."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Bas/ket; short /a/ then short /e/ This matches the task.",
       "hint": "Listen for vowel sounds."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Listen for vowel sounds.",
       "hint": "Listen for vowel sounds."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Stop has one syllable with short /o/ between the consonants This matches the task.",
       "hint": "Every syllable needs a vowel sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Read letter/word → Hear vowel sound → Clap syllable → Check sound.",
       "hint": "Every syllable needs a vowel sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY12-T-001",

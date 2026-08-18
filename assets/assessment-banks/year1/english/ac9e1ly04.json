@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Map This matches the task.",
       "hint": "Look at the letters and sounds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Look at the letters and sounds.",
       "hint": "Look at the letters and sounds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Comma ↔ short pause; full stop ↔ stop; question mark ↔ questioning intonation This matches the task.",
       "hint": "After decoding, check the sentence makes sense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
       "hint": "After decoding, check the sentence makes sense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY04-P-005",
@@ -167,7 +179,9 @@
     "explanation": {
       "summary": "Groups words meaningfully and links pause to comma/phrase meaning This matches the task.",
       "hint": "Practise phrase groups, not one word at a time forever."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Look for fluency and check the whole example.",
       "hint": "Practise phrase groups, not one word at a time forever."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY04-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "Check all letters/sounds and whether sentence meaning/grammar fits; reread exact text rather than guess This matches the task.",
       "hint": "Look at the letters and sounds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY04-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Check that you can monitor meaning.",
       "hint": "Look at the letters and sounds."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY04-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Look through word → blend sounds → check meaning → reread smoothly This matches the task.",
       "hint": "After decoding, check the sentence makes sense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing a word-solving routine.",
       "hint": "After decoding, check the sentence makes sense."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Correct two phrase groups marked without splitting determiners from nouns This matches the task.",
       "hint": "Practise phrase groups, not one word at a time forever."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Practise phrase groups, not one word at a time forever.",
       "hint": "Practise phrase groups, not one word at a time forever."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "'The birds fly'; plural birds agrees with fly in standard sentence pattern This matches the task.",
       "hint": "Look at the letters and sounds."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
       "hint": "Look at the letters and sounds."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Planning fluency improvement through rereading This matches the task.",
       "hint": "After decoding, check the sentence makes sense."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for fluency and check the whole example.",
       "hint": "After decoding, check the sentence makes sense."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Frog This matches the task.",
       "hint": "Practise phrase groups, not one word at a time forever."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can monitor meaning.",
       "hint": "Practise phrase groups, not one word at a time forever."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "All three sources matched correctly This matches the task.",
       "hint": "Look at the letters and sounds."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Recognising complementary reading cues.",
       "hint": "Look at the letters and sounds."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Read/solve words → group phrase → use question intonation → check meaning This matches the task.",
       "hint": "After decoding, check the sentence makes sense."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "After decoding, check the sentence makes sense.",
       "hint": "After decoding, check the sentence makes sense."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Meaning is related but letters encode kitten; reader must attend to full word and say kitten This matches the task.",
       "hint": "Practise phrase groups, not one word at a time forever."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Look at letters → Blend/recognise → Read phrase → Check meaning → Re-read.",
       "hint": "Practise phrase groups, not one word at a time forever."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY04-T-001",

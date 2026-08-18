@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Beside the sink This matches the task.",
       "hint": "Use a clue from the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Use a clue from the text.",
       "hint": "Use a clue from the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Each strategy matched correctly This matches the task.",
       "hint": "Say the main idea, not every small event."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
       "hint": "Say the main idea, not every small event."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY05-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Includes boat size, water description and moon/night detail This matches the task.",
       "hint": "Combine clue plus thinking."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY05-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for connect and check the whole example.",
       "hint": "Combine clue plus thinking."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY05-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "Plausible next action involving light/search, supported by torch or darkness This matches the task.",
       "hint": "Use a clue from the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Check that you can question.",
       "hint": "Use a clue from the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Plant seed → water → sprout → leaves grow This matches the task.",
       "hint": "Say the main idea, not every small event."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY05-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Sequencing events for summary.",
       "hint": "Say the main idea, not every small event."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Stated clue accurate; plausible inference such as someone entered from rain, clearly labelled as inference This matches the task.",
       "hint": "Combine clue plus thinking."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Combine clue plus thinking.",
       "hint": "Combine clue plus thinking."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Relevant question about route, goal, safety or next action This matches the task.",
       "hint": "Use a clue from the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
       "hint": "Use a clue from the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Connection concerns a new/performance situation and explains nerves, courage or preparation This matches the task.",
       "hint": "Say the main idea, not every small event."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for connect and check the whole example.",
       "hint": "Say the main idea, not every small event."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Sad/disappointed/worried, supported by broken model and dropped shoulders This matches the task.",
       "hint": "Combine clue plus thinking."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can question.",
       "hint": "Combine clue plus thinking."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each clue matched to plausible inference with may/might understood This matches the task.",
       "hint": "Use a clue from the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Connecting evidence with inferred meaning.",
       "hint": "Use a clue from the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Predict → read clue → compare → revise/confirm This matches the task.",
       "hint": "Say the main idea, not every small event."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Say the main idea, not every small event.",
       "hint": "Say the main idea, not every small event."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Noor chases and catches her windblown hat; retains main character/problem/result This matches the task.",
       "hint": "Combine clue plus thinking."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Preview → Predict → Read/listen → Connect → Question → Summarise.",
       "hint": "Combine clue plus thinking."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY05-T-001",

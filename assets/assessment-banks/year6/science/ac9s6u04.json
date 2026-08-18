@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "reversible change means change where original material can be recovered.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "irreversible change means change not practically reversed to original materials.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U04-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "dissolving means solute particles disperse among solvent particles.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Particles remain and can often be recovered.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Boiling and trapped air can produce bubbles.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "Melting and freezing exchange energy.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "At this level, focus on practical recovery under ordinary conditions.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-008",
@@ -269,7 +285,10 @@
     "explanation": {
       "summary": "The organiser links ice melts with same water particles, arrangement changes; freeze.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U04-P-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "The organiser links salt dissolves with particles disperse in water; evaporate water / crystallise.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-010",
@@ -337,7 +358,10 @@
     "explanation": {
       "summary": "The organiser links wax solidifies with state change; melt again.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U04-P-011",
@@ -371,7 +395,10 @@
     "explanation": {
       "summary": "The organiser links steel rusts with new substances form; not easily reversed.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U04-P-012",
@@ -405,7 +432,9 @@
     "explanation": {
       "summary": "The organiser links vinegar + bicarbonate with gas and new products form; not reversed by simple separation.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-013",
@@ -439,7 +468,10 @@
     "explanation": {
       "summary": "The organiser links colour change with may support new substance, but mixing colours is physical.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U04-P-014",
@@ -473,7 +505,10 @@
     "explanation": {
       "summary": "The organiser links temperature change with may indicate energy change, but heating source matters.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U04-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "The organiser links new properties with strong evidence when combined with controlled observations.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "The organiser links separation with filtration/evaporation can recover components of some mixtures.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-017",
@@ -575,7 +614,10 @@
     "explanation": {
       "summary": "salt dissolving in water is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "bubbles is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "reversible change means change where original material can be recovered.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "irreversible change means change not practically reversed to original materials.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "dissolving means solute particles disperse among solvent particles.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Particles remain and can often be recovered.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Boiling and trapped air can produce bubbles.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Melting and freezing exchange energy.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U04-T-001",

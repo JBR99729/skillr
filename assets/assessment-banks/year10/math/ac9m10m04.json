@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
       "hint": "Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "analysing instruments and methods for measuring in investigations and modelling activities",
       "hint": "Analyse instruments and methods for measuring in investigations and modelling activities."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations",
       "hint": "Determine the impact that compounding errors have on financial calculations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations",
       "hint": "Explore the impact of measurement errors in the perception and control systems of autonomous vehicles, such as measurement errors due to sensor limitations."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors",
       "hint": "Explore scientific measuring techniques, including dating methods and genetic sequencing, applied to First Peoples of Australia and their artefacts, and the social impact of measurement errors."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "describing settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings",
       "hint": "Describe settings where measurement errors may impact research results and how measurement data impacted by error can result in biased findings."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "analysing instruments and methods for measuring in investigations and modelling activities",
       "hint": "Analyse instruments and methods for measuring in investigations and modelling activities."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "determining the impact that compounding errors have on financial calculations; for example, considering the effect of truncation on money amounts for large scale customer populations",
       "hint": "Determine the impact that compounding errors have on financial calculations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m04-t-001",

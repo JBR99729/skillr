@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "How does applied force affect acceleration when mass is controlled?",
       "hint": "Use neutral wording."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
       "hint": "Make a falsifiable relationship."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
       "hint": "Define procedure and unit."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
       "hint": "Record it before testing."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i01-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "How does applied force affect acceleration when mass is controlled?",
       "hint": "Use neutral wording."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i01-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
       "hint": "Make a falsifiable relationship."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i01-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
       "hint": "Define procedure and unit."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i01-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
       "hint": "Record it before testing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i01-t-001",

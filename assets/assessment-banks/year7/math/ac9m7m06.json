@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
       "hint": "Label every used dimension."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m06-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
       "hint": "Match attribute and formula."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m06-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
       "hint": "Apply it to the relevant quantity."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m06-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
       "hint": "Compare at least one feasible option."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m06-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
       "hint": "Label every used dimension."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m06-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
       "hint": "Match attribute and formula."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m06-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
       "hint": "Apply it to the relevant quantity."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m06-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
       "hint": "Compare at least one feasible option."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m06-t-001",

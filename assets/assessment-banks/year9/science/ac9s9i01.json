@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "discussing what is needed for a question to be investigable or a prediction to be reasoned",
       "hint": "Use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’",
       "hint": "Use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’",
       "hint": "Use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence",
       "hint": "Use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’",
       "hint": "Use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "discussing what is needed for a question to be investigable or a prediction to be reasoned",
       "hint": "Use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’",
       "hint": "Use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’",
       "hint": "Use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i01-t-001",

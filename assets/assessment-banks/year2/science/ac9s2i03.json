@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Colour, shape and number are directly observable.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Equal blocks can compare length without standard units.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I03-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "Counts make an observation precise.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Labels connect words to visible evidence.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Dates allow observations over time to be ordered.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "A consistent viewpoint reduces confusing differences.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "A thermometer measures temperature.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-008",
@@ -269,7 +285,9 @@
     "explanation": {
       "summary": "A photo preserves visible evidence for comparison.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-009",
@@ -303,7 +321,9 @@
     "explanation": {
       "summary": "A recording lets sounds be replayed and compared.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-010",
@@ -337,7 +357,9 @@
     "explanation": {
       "summary": "The value belongs beside the item measured.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-011",
@@ -371,7 +393,9 @@
     "explanation": {
       "summary": "Back-and-forth movement can be seen.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-012",
@@ -405,7 +429,9 @@
     "explanation": {
       "summary": "Two timed measurements show change.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-013",
@@ -439,7 +465,10 @@
     "explanation": {
       "summary": "Dated photos preserve visible stages.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I03-P-014",
@@ -473,7 +502,9 @@
     "explanation": {
       "summary": "A measurement needs its unit.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-015",
@@ -507,7 +538,10 @@
     "explanation": {
       "summary": "The record describes visible colour without opinion.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I03-P-016",
@@ -541,7 +575,10 @@
     "explanation": {
       "summary": "Crescent describes an observed outline.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I03-P-017",
@@ -575,7 +612,9 @@
     "explanation": {
       "summary": "Texture words describe a surface observation.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-018",
@@ -609,7 +648,10 @@
     "explanation": {
       "summary": "Two stages reveal what changed.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I03-P-019",
@@ -643,7 +685,10 @@
     "explanation": {
       "summary": "Zoom can enlarge recorded visible details.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I03-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "Digital audio can preserve a clear description.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "Science records evidence honestly.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-022",
@@ -745,7 +794,9 @@
     "explanation": {
       "summary": "Equal informal units make measurements comparable.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-P-023",
@@ -779,7 +830,10 @@
     "explanation": {
       "summary": "Specific time and size detail improve the record.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "An inference explains evidence; it is not directly seen.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I03-T-001",

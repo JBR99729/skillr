@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Melting changes state but does not form a new substance.",
       "hint": "Ask whether the particles' chemical identity changed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U07-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Formation of a gas with new properties is evidence that new substances formed.",
       "hint": "Use the gas test, not bubbles alone."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U07-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "A new precipitate is evidence of a chemical reaction in solution.",
       "hint": "Name the new observable material."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U07-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "The product includes oxygen from the surroundings, so its mass can exceed the starting iron mass.",
       "hint": "Treat the air as part of the reacting system."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U07-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Recovery of unchanged sugar supports dissolution as a physical change.",
       "hint": "Visibility is not the same as existence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U07-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "A combination of energy change and changed substances supports chemical reaction.",
       "hint": "Combine more than one observation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "An indicator can classify acidity without uniquely identifying a substance.",
       "hint": "Separate what the test detects from a specific identity claim."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U07-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "One event changes state, while the other rearranges atoms into new substances.",
       "hint": "Classify the two processes separately."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U07-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "A temperature decrease in an insulated reaction can indicate an endothermic energy transfer.",
       "hint": "Trace the direction of thermal energy transfer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U07-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Colour change can be ambiguous, so multiple lines of evidence strengthen a reaction claim.",
       "hint": "Consider a non-reaction explanation for the colour."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "A physical change alters size, not substance.",
       "hint": "For case 1, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "A physical shape change occurs.",
       "hint": "For case 2, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "State changes but water remains water.",
       "hint": "For case 3, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A physical state change occurs.",
       "hint": "For case 4, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Only particle-piece size changes.",
       "hint": "For case 5, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Iron reacts with oxygen and water to form new substances.",
       "hint": "For case 6, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A new oxide forms with energy release.",
       "hint": "For case 7, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Proteins undergo chemical changes that are difficult to reverse.",
       "hint": "For case 8, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Heating causes reactions that form new substances.",
       "hint": "For case 9, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A reaction produces gas.",
       "hint": "For case 10, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Microbial reactions form acidic substances.",
       "hint": "For case 11, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Silver reacts with substances in air.",
       "hint": "For case 12, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Atoms rearrange into a new compound.",
       "hint": "For case 13, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A further chemical reaction may form soluble products.",
       "hint": "For case 14, decide whether substance identity changed and use specific evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U07-T-001",

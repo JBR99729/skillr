@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Gently; it suggests care This matches the task.",
       "hint": "Point to words or image clues."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Point to words or image clues.",
       "hint": "Point to words or image clues."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Each visual choice matches its likely literary effect This matches the task.",
       "hint": "Use both language and image where available."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
       "hint": "Use both language and image where available."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE01-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Uses clearly different voice and explains confidence versus uncertainty This matches the task.",
       "hint": "Setting is where/when; event is what happens."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE01-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for event and check the whole example.",
       "hint": "Setting is where/when; event is what happens."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE01-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "A plausible lonely/eerie/windy feeling, supported by whistled and empty This matches the task.",
       "hint": "Point to words or image clues."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE01-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Check that you can use word evidence.",
       "hint": "Point to words or image clues."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE01-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "A logical narrative order beginning with rain/footprints and ending with puppy found This matches the task.",
       "hint": "Use both language and image where available."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing events from causal clues.",
       "hint": "Use both language and image where available."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Uses two relevant choices such as dark waves, tilted boat or looming rocks and labels their effect This matches the task.",
       "hint": "Setting is where/when; event is what happens."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Setting is where/when; event is what happens.",
       "hint": "Setting is where/when; event is what happens."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Something may have happened before the quiet moment; cites disorder as evidence and keeps inference tentative This matches the task.",
       "hint": "Point to words or image clues."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
       "hint": "Point to words or image clues."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "First seems energetic/impulsive; second careful/thoughtful, supported by exact actions This matches the task.",
       "hint": "Use both language and image where available."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for event and check the whole example.",
       "hint": "Use both language and image where available."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The staircase/challenge feels large and the child may feel small, uncertain or overwhelmed This matches the task.",
       "hint": "Setting is where/when; event is what happens."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can use word evidence.",
       "hint": "Setting is where/when; event is what happens."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "All three language choices matched to supported effects This matches the task.",
       "hint": "Point to words or image clues."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Interpreting verbs and phrases in literature.",
       "hint": "Point to words or image clues."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Empty/start → twig carried → half-built → completed with eggs This matches the task.",
       "hint": "Use both language and image where available."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Use both language and image where available.",
       "hint": "Use both language and image where available."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Signals a shift from worry/sadness to relief/happiness and highlights the event's emotional change This matches the task.",
       "hint": "Setting is where/when; event is what happens."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
       "hint": "Setting is where/when; event is what happens."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE01-T-001",

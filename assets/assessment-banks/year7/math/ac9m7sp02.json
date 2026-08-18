@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Every square is a rectangle, but not every rectangle is a square",
       "hint": "A square satisfies the rectangle definition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
       "hint": "Rotation does not change side or angle relationships."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
       "hint": "Inclusive isosceles definitions include equilateral triangles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
       "hint": "Use markings or measurement."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp02-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Every square is a rectangle, but not every rectangle is a square",
       "hint": "A square satisfies the rectangle definition."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp02-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
       "hint": "Rotation does not change side or angle relationships."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp02-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
       "hint": "Inclusive isosceles definitions include equilateral triangles."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp02-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
       "hint": "Use markings or measurement."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp02-t-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Tables organise exact values so readers can find them.",
       "hint": "Choose the representation that preserves every recorded number."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I04-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Column heights make comparisons visible when they match a consistent scale.",
       "hint": "Look for labels, units and heights based on the data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "The greatest value is shown by the tallest accurate column or largest table entry.",
       "hint": "Compare the three numbers, not the label positions."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I04-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "A graph must accurately represent its source data.",
       "hint": "Match each label and value one at a time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I04-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "A consistent scale supports accurate visual comparison.",
       "hint": "Check that equal spaces have equal numerical value."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I04-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "A pattern statement is based on relationships visible in the data.",
       "hint": "Compare the entries and describe only what they show."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I04-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "Models simplify selected features to help explain a relationship.",
       "hint": "Ask what the model leaves out as well as what it shows."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I04-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Representations must remain faithful to the source data.",
       "hint": "Treat the recorded observations as the source."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I04-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Tables organise exact values so readers can find them.",
       "hint": "Choose the representation that preserves every recorded number."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3I04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Column heights make comparisons visible when they match a consistent scale.",
       "hint": "Look for labels, units and heights based on the data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The greatest value is shown by the tallest accurate column or largest table entry.",
       "hint": "Compare the three numbers, not the label positions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "A graph must accurately represent its source data.",
       "hint": "Match each label and value one at a time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "A consistent scale supports accurate visual comparison.",
       "hint": "Check that equal spaces have equal numerical value."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A pattern statement is based on relationships visible in the data.",
       "hint": "Compare the entries and describe only what they show."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Models simplify selected features to help explain a relationship.",
       "hint": "Ask what the model leaves out as well as what it shows."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Representations must remain faithful to the source data.",
       "hint": "Treat the recorded observations as the source."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Tables organise exact values so readers can find them.",
       "hint": "Choose the representation that preserves every recorded number."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Column heights make comparisons visible when they match a consistent scale.",
       "hint": "Look for labels, units and heights based on the data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The greatest value is shown by the tallest accurate column or largest table entry.",
       "hint": "Compare the three numbers, not the label positions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A graph must accurately represent its source data.",
       "hint": "Match each label and value one at a time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A consistent scale supports accurate visual comparison.",
       "hint": "Check that equal spaces have equal numerical value."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A pattern statement is based on relationships visible in the data.",
       "hint": "Compare the entries and describe only what they show."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Models simplify selected features to help explain a relationship.",
       "hint": "Ask what the model leaves out as well as what it shows."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Representations must remain faithful to the source data.",
       "hint": "Treat the recorded observations as the source."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3I04-T-001",

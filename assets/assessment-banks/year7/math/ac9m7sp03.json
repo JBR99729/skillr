@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
       "hint": "Apply the rule to every point."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
       "hint": "Both determine the image."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
       "hint": "Match the stated axis or line."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
       "hint": "These rules are rigid, but other transformations may not be."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp03-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
       "hint": "Apply the rule to every point."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp03-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
       "hint": "Both determine the image."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp03-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
       "hint": "Match the stated axis or line."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp03-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
       "hint": "These rules are rigid, but other transformations may not be."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp03-t-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
       "hint": "Plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
       "hint": "Plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
       "hint": "Explore where would be the best location for a tropical fruit plantation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
       "hint": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st05-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
       "hint": "Plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st05-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
       "hint": "Plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st05-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
       "hint": "Explore where would be the best location for a tropical fruit plantation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st05-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
       "hint": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st05-t-001",

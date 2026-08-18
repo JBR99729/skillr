@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "outlining processes involved in natural selection including variation, isolation and selection",
       "hint": "Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "examining biodiversity as a function of evolution",
       "hint": "Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "analysing evidence for the theory of evolution by natural selection including the fossil record, chemical and anatomical similarities, and geographical distribution of species",
       "hint": "Use evidence for the theory of evolution by natural selection to make the role of survival and reproduction visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating changes caused by natural selection in a particular population as a result of a specified selection pressure such as artificial selection in breeding for desired characteristics",
       "hint": "Use changes caused by natural selection in a particular population to make the role of population change visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "relating genetic characteristics to survival and reproductive rates",
       "hint": "Use genetic characteristics to survival and reproductive rates to make the role of multiple evidence lines visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating some of the structural and physiological adaptations of First Nations Australians to the Australian environment",
       "hint": "Use some of the structural and physiological adaptations of First to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "outlining processes involved in natural selection including variation, isolation and selection",
       "hint": "Use processes involved in natural selection to make the role of heritable variation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "examining biodiversity as a function of evolution",
       "hint": "Use biodiversity as a function of evolution to make the role of selection pressure visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u02-t-001",

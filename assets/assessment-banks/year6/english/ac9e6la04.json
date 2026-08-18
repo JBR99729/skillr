@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "This choice best demonstrates trace reference chain in the stated context.",
       "hint": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la04-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "reference means language pointing to another element.",
       "hint": "Match the definition to the most precise term used in Cohesion through Reference and Lexical Chains."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la04-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "This answer applies the relevant language feature accurately.",
       "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la04-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "Key terms may need repeating",
       "hint": "Check the concept boundary, not just whether the wording sounds confident."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la04-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
       "hint": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la04-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to",
       "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la04-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
       "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la04-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
       "hint": "Look for application and explanation rather than a feature name alone."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la04-t-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Informative This matches the task.",
       "hint": "Some texts inform or persuade instead."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Some texts inform or persuade instead.",
       "hint": "Some texts inform or persuade instead."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Each type matched correctly This matches the task.",
       "hint": "Opinion can be agreed or disagreed with."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
       "hint": "Opinion can be agreed or disagreed with."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Story ↔ imaginative; facts ↔ informative; recommendation/reason ↔ persuasive This matches the task.",
       "hint": "Use same, different, both, but."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY03-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for persuasive and check the whole example.",
       "hint": "Use same, different, both, but."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY03-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Any valid shared feature such as title, images, words, pages, headings in some cases or topic vocabulary This matches the task.",
       "hint": "Some texts inform or persuade instead."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY03-P-008",
@@ -269,7 +290,9 @@
     "explanation": {
       "summary": "Check that you can compare differences.",
       "hint": "Some texts inform or persuade instead."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-009",
@@ -303,7 +326,9 @@
     "explanation": {
       "summary": "Name/identify types and purpose → note similarity → cite difference This matches the task.",
       "hint": "Opinion can be agreed or disagreed with."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Sequencing text comparison.",
       "hint": "Opinion can be agreed or disagreed with."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Three distinct purpose clues: story character/event, factual heading/diagram and recommended action/reason This matches the task.",
       "hint": "Use same, different, both, but."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "Use same, different, both, but.",
       "hint": "Use same, different, both, but."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "It calls for a behaviour/choice and uses the fact as a reason This matches the task.",
       "hint": "Some texts inform or persuade instead."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
       "hint": "Some texts inform or persuade instead."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "Imaginative opening creates character/event/mood This matches the task.",
       "hint": "Opinion can be agreed or disagreed with."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Look for persuasive and check the whole example.",
       "hint": "Opinion can be agreed or disagreed with."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "'Choose' states desired action and 'because it is cooler' gives a reason This matches the task.",
       "hint": "Use same, different, both, but."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-018",
@@ -609,7 +650,10 @@
     "explanation": {
       "summary": "Check that you can compare differences.",
       "hint": "Use same, different, both, but."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "All three matched correctly This matches the task.",
       "hint": "Some texts inform or persuade instead."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Separating shared from type-specific features.",
       "hint": "Some texts inform or persuade instead."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Read → notice clues → decide purpose → name type/evidence This matches the task.",
       "hint": "Opinion can be agreed or disagreed with."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Opinion can be agreed or disagreed with.",
       "hint": "Opinion can be agreed or disagreed with."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Story image develops character/event/mood; report image shows accurate features/labels This matches the task.",
       "hint": "Use same, different, both, but."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Name text type → Find features → Compare purpose → Explain.",
       "hint": "Use same, different, both, but."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY03-T-001",

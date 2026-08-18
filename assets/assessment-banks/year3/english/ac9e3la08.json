@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Past-tense verbs locate a process before now.",
       "hint": "Match the verb form to the past-time clue."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA08-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Present tense can describe what happens now or regularly.",
       "hint": "Use the time clue to select the present form."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA08-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Future tense locates a process after now.",
       "hint": "Look for the verb phrase beginning with will."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA08-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "Consistent tense helps readers follow time.",
       "hint": "Keep the next verb in the same time as the first."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Both events with the same past-time frame need past forms.",
       "hint": "Use the opening time phrase as your guide."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA08-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "A time phrase and verb form can both anchor an event in time.",
       "hint": "Find the pair that points after now."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA08-P-007",
@@ -235,7 +252,9 @@
     "explanation": {
       "summary": "Present tense suits current and habitual actions.",
       "hint": "Connect the tense to the time clue."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "Verb tense can organise events along a timeline.",
       "hint": "Match each form to before now, now, and after now."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-009",
@@ -303,7 +324,10 @@
     "explanation": {
       "summary": "Past-tense verbs locate a process before now.",
       "hint": "Match the verb form to the past-time clue."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA08-P-010",
@@ -337,7 +361,10 @@
     "explanation": {
       "summary": "Present tense can describe what happens now or regularly.",
       "hint": "Use the time clue to select the present form."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA08-P-011",
@@ -371,7 +398,10 @@
     "explanation": {
       "summary": "Future tense locates a process after now.",
       "hint": "Look for the verb phrase beginning with will."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA08-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Consistent tense helps readers follow time.",
       "hint": "Keep the next verb in the same time as the first."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Both events with the same past-time frame need past forms.",
       "hint": "Use the opening time phrase as your guide."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A time phrase and verb form can both anchor an event in time.",
       "hint": "Find the pair that points after now."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Present tense suits current and habitual actions.",
       "hint": "Connect the tense to the time clue."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Verb tense can organise events along a timeline.",
       "hint": "Match each form to before now, now, and after now."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Past-tense verbs locate a process before now.",
       "hint": "Match the verb form to the past-time clue."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Present tense can describe what happens now or regularly.",
       "hint": "Use the time clue to select the present form."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Future tense locates a process after now.",
       "hint": "Look for the verb phrase beginning with will."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Consistent tense helps readers follow time.",
       "hint": "Keep the next verb in the same time as the first."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Both events with the same past-time frame need past forms.",
       "hint": "Use the opening time phrase as your guide."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A time phrase and verb form can both anchor an event in time.",
       "hint": "Find the pair that points after now."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Present tense suits current and habitual actions.",
       "hint": "Connect the tense to the time clue."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Verb tense can organise events along a timeline.",
       "hint": "Match each form to before now, now, and after now."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA08-T-001",

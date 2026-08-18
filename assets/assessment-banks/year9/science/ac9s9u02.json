@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "examining how the male and female reproductive organ structures work collectively as a system",
       "hint": "Use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "explaining how the forms of male and female gametes relate to their specific function",
       "hint": "Use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "identifying and comparing sexual and asexual reproductive strategies in plants",
       "hint": "Use comparing sexual and asexual reproductive strategies in plants to make the role of sexual reproduction visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "exploring how sexual reproduction creates a greater rate of variation among offspring compared with asexual reproduction",
       "hint": "Use how sexual reproduction creates a greater rate of variation to make the role of asexual reproduction visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "examining how the reproductive strategies of multicellular animals are related to their environment and the complexity of the organism",
       "hint": "Use how the reproductive strategies of multicellular animals are related to make the role of variation and survival visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "examining how the number of offspring produced by animals is related to the amount of parental care",
       "hint": "Use how the number of offspring produced by animals is to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "examining how the male and female reproductive organ structures work collectively as a system",
       "hint": "Use how the male and female reproductive organ structures work to make the role of gametes and organs visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "explaining how the forms of male and female gametes relate to their specific function",
       "hint": "Use how the forms of male and female gametes relate to make the role of fertilisation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u02-t-001",

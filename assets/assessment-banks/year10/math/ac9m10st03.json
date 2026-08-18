@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control",
       "hint": "Discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media",
       "hint": "Use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "informally using a line of good fit by eye to discuss reliability of any predictions",
       "hint": "informally using a line of good fit by eye to discuss reliability of any predictions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "exploring how scatter plots and association help data scientists gain insights into the data, identify relationships, and can be applied to machine learning to make informed decisions about feature engineering and assess model performance",
       "hint": "Explore how scatter plots and association help data scientists gain insights into the data, identify relationships."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations; for example, the artificial intelligence may not capture the causality between variables or account for the contextual or ethical implications",
       "hint": "Explore artificial intelligence systems that analyse bivariate data to forecast or make predictions based on association using correlation analysis and discussing limitations."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions",
       "hint": "Explore the relationship between 2 variables of spear throwers used by First Peoples of Australia by using data to construct scatterplots, make comparisons and draw conclusions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "discussing the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control",
       "hint": "Discuss the difference between association and cause and effect, and relating this to situations such as health, diversity of species and climate control."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media",
       "hint": "Use statistical evidence to make, justify and critique claims about association between variables, such as in contexts of climate change, migration, online shopping and social media."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st03-t-001",

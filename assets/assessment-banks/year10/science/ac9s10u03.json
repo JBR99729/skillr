@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years",
       "hint": "Use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "constructing a timeline to show major changes in the universe which are thought to have occurred from the Big Bang until the formation of the major components such as stars and galaxies",
       "hint": "Use a timeline to show major changes in the universe to make the role of expansion visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "examining how stars’ light spectra and brightness is used to identify compositional elements of stars, their movements and their distances from Earth",
       "hint": "Use how stars’ light spectra and brightness is used to make the role of galaxy and star formation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "explaining how each different type of evidence, such as cosmic microwave background radiation, red or blue shift of galaxies, Edwin Hubble’s observations and proportion of matter in the universe, provides support for the acceptance of the big bang theory",
       "hint": "Use how each different type of evidence to make the role of redshift visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "researching First Nations Australians’ knowledges of celestial bodies and explanations of the origin of the universe",
       "hint": "Use First Nations Australians’ knowledges of celestial bodies and explanations to make the role of cosmic microwave background visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "identifying the different technologies used to collect astronomical data and the types of data collected",
       "hint": "Use the different technologies used to collect astronomical data to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "exploring recent advances in astronomy, including the Australian Square Kilometre Array Pathfinder, and astrophysics, such as the discovery of gravitational waves, dark matter and dark energy; and identifying new knowledge which has emerged",
       "hint": "Use recent advances in astronomy, to make the role of expansion visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "describing the major components of the universe using appropriate scientific terminology and units including astronomical units, scientific notation and light-years",
       "hint": "Use the major components of the universe using appropriate scientific to make the role of early hot dense universe visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u03-t-001",

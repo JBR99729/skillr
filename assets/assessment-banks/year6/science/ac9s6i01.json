@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "investigable question means question answerable through planned evidence.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "variable means factor changed, measured or controlled.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "reasoned prediction means expected pattern with scientific justification.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I01-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "Define a measurable relationship.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "State increase, decrease or difference.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "Focus or use a design that can separate them.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "Keep stages distinct.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-008",
@@ -269,7 +286,10 @@
     "explanation": {
       "summary": "The organiser links Changed variable with distance from lamp.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I01-P-009",
@@ -303,7 +323,9 @@
     "explanation": {
       "summary": "The organiser links Measured variable with temperature increase after 10 min.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-010",
@@ -337,7 +359,10 @@
     "explanation": {
       "summary": "The organiser links Question with How does distance affect temperature increase?.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I01-P-011",
@@ -371,7 +396,9 @@
     "explanation": {
       "summary": "The organiser links Prediction with Closer samples will warm more because light intensity is greater.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-012",
@@ -405,7 +432,9 @@
     "explanation": {
       "summary": "The organiser links Which circuit is best? with How does lamp arrangement affect brightness with the same cells?.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-013",
@@ -439,7 +468,10 @@
     "explanation": {
       "summary": "The organiser links Do plants like shade? with How does light level affect growth rate?.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I01-P-014",
@@ -473,7 +505,10 @@
     "explanation": {
       "summary": "The organiser links Does everything dissolve? with How does water temperature affect dissolving time for equal samples?.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I01-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "How does lamp distance affect temperature increase after 10 minutes? is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "The closer sample will warm more because it receives more intense light is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "investigable question means question answerable through planned evidence.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "variable means factor changed, measured or controlled.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "reasoned prediction means expected pattern with scientific justification.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "Define a measurable relationship.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "State increase, decrease or difference.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-022",
@@ -745,7 +794,9 @@
     "explanation": {
       "summary": "Focus or use a design that can separate them.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-023",
@@ -779,7 +830,9 @@
     "explanation": {
       "summary": "Keep stages distinct.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I01-P-024",
@@ -813,7 +866,10 @@
     "explanation": {
       "summary": "The organiser links Changed variable with distance from lamp.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I01-T-001",

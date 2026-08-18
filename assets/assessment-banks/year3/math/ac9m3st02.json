@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Category bananas has the tallest bar and the greatest count, 8.",
       "hint": "Compare the top of each bar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Category apples has the shortest bar and the smallest count, 2.",
       "hint": "Find the bar that reaches the lowest number."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Find the difference: 8 − 2 = 6.",
       "hint": "Start at apples's height and count up to bananas's height."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "A new display must represent the same data values.",
       "hint": "Check every graph bar against its table count."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Labels connect each bar or picture to its category.",
       "hint": "Without labels, you cannot tell what is being counted."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "A labelled bar graph places the category amounts side by side.",
       "hint": "Choose a display where the heights and labels can be compared."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "When one picture equals one vote, 5 stars represent 5 votes.",
       "hint": "Check the key before counting the pictures."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "The graph must show 2 for apples, the same as the source table.",
       "hint": "Compare one category at a time across both displays."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Category dogs has the tallest bar and the greatest count, 9.",
       "hint": "Compare the top of each bar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Category cats has the shortest bar and the smallest count, 3.",
       "hint": "Find the bar that reaches the lowest number."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Find the difference: 9 − 3 = 6.",
       "hint": "Start at cats's height and count up to dogs's height."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "A new display must represent the same data values.",
       "hint": "Check every graph bar against its table count."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Labels connect each bar or picture to its category.",
       "hint": "Without labels, you cannot tell what is being counted."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A labelled bar graph places the category amounts side by side.",
       "hint": "Choose a display where the heights and labels can be compared."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "When one picture equals one vote, 6 stars represent 6 votes.",
       "hint": "Check the key before counting the pictures."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The graph must show 3 for cats, the same as the source table.",
       "hint": "Compare one category at a time across both displays."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Category swings has the tallest bar and the greatest count, 10.",
       "hint": "Compare the top of each bar."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Category chase has the shortest bar and the smallest count, 4.",
       "hint": "Find the bar that reaches the lowest number."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Find the difference: 10 − 4 = 6.",
       "hint": "Start at chase's height and count up to swings's height."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A new display must represent the same data values.",
       "hint": "Check every graph bar against its table count."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Labels connect each bar or picture to its category.",
       "hint": "Without labels, you cannot tell what is being counted."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A labelled bar graph places the category amounts side by side.",
       "hint": "Choose a display where the heights and labels can be compared."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "When one picture equals one vote, 7 stars represent 7 votes.",
       "hint": "Check the key before counting the pictures."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The graph must show 4 for chase, the same as the source table.",
       "hint": "Compare one category at a time across both displays."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3ST02-T-001",

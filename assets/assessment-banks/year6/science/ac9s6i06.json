@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "scientific communication means evidence-based message about ideas or findings.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I06-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "caption means text interpreting or explaining a representation.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "audience adaptation means changes to form and support for intended users.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "State the pattern and relevance.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-005",
@@ -167,7 +176,9 @@
     "explanation": {
       "summary": "Use actual evidence.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-006",
@@ -201,7 +212,9 @@
     "explanation": {
       "summary": "Preserve accuracy.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-007",
@@ -235,7 +248,9 @@
     "explanation": {
       "summary": "Attribute external material.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-008",
@@ -269,7 +284,9 @@
     "explanation": {
       "summary": "Use models and concise cues.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-009",
@@ -303,7 +320,9 @@
     "explanation": {
       "summary": "The organiser links Question/prediction with focus.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-010",
@@ -337,7 +356,10 @@
     "explanation": {
       "summary": "The organiser links Method with repeatable summary and variables.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I06-P-011",
@@ -371,7 +393,10 @@
     "explanation": {
       "summary": "The organiser links Results with table/graph/model with units.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I06-P-012",
@@ -405,7 +430,9 @@
     "explanation": {
       "summary": "The organiser links Finding with pattern stated with data.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-013",
@@ -439,7 +466,10 @@
     "explanation": {
       "summary": "The organiser links Conclusion with claim + reasoning.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I06-P-014",
@@ -473,7 +503,10 @@
     "explanation": {
       "summary": "The organiser links Limit/next question with scope and improvement.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I06-P-015",
@@ -507,7 +540,9 @@
     "explanation": {
       "summary": "The organiser links formal report with method detail, raw/processed data, limitations.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-016",
@@ -541,7 +576,10 @@
     "explanation": {
       "summary": "The organiser links class poster with large model, concise findings, readable captions.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I06-P-017",
@@ -575,7 +613,10 @@
     "explanation": {
       "summary": "The organiser links oral presentation with signposting, limited slide text, spoken reasoning.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I06-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "The organiser links younger audience with defined terms and concrete comparison.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "The organiser links digital page with navigation, source attribution and accessible labels.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-020",
@@ -677,7 +722,10 @@
     "explanation": {
       "summary": "A labelled graph plus a numerical evidence statement is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I06-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The evidence and scientific relationship is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "scientific communication means evidence-based message about ideas or findings.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "caption means text interpreting or explaining a representation.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "audience adaptation means changes to form and support for intended users.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I06-T-001",

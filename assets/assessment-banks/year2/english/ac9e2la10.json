@@ -36,7 +36,10 @@
     "explanation": {
       "summary": "The important words Lost and Puppy begin with capitals, as does the first word The.",
       "hint": "In this title style, capitalise the first and important words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA10-P-002",
@@ -70,7 +73,9 @@
     "explanation": {
       "summary": "In this title style, capitalise the first and important words. The important words Lost and Puppy begin with capitals, as does the first word The.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-003",
@@ -109,7 +114,10 @@
     "explanation": {
       "summary": "Commas separate apples and pears from the next list item; and introduces the final item.",
       "hint": "Find the three things being listed and place commas between them."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA10-P-004",
@@ -143,7 +151,9 @@
     "explanation": {
       "summary": "Find the three things being listed and place commas between them. Commas separate apples and pears from the next list item; and introduces the final item.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-005",
@@ -182,7 +192,10 @@
     "explanation": {
       "summary": "A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
       "hint": "Capitalise the first and important title words, not every small joining word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA10-P-006",
@@ -216,7 +229,9 @@
     "explanation": {
       "summary": "Capitalise the first and important title words, not every small joining word. A, Trip and Moon are capitalised; the small joining words to and the stay lower-case in this style.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-007",
@@ -255,7 +270,10 @@
     "explanation": {
       "summary": "The commas show where hats, water and snacks end before the final item towels.",
       "hint": "Say each item separately and put commas between the listed items."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA10-P-008",
@@ -289,7 +307,9 @@
     "explanation": {
       "summary": "Say each item separately and put commas between the listed items. The commas show where hats, water and snacks end before the final item towels.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-009",
@@ -328,7 +348,10 @@
     "explanation": {
       "summary": "The title's important words use capitals, and commas separate the animal items.",
       "hint": "Check title capitals first, then check only the list for commas."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA10-P-010",
@@ -362,7 +385,9 @@
     "explanation": {
       "summary": "Check title capitals first, then check only the list for commas. The title's important words use capitals, and commas separate the animal items.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-011",
@@ -401,7 +426,10 @@
     "explanation": {
       "summary": "The comma separates pencils from rulers; and introduces the last item glue.",
       "hint": "Do not place commas after ordinary sentence words—use them between list items."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA10-P-012",
@@ -435,7 +463,9 @@
     "explanation": {
       "summary": "Do not place commas after ordinary sentence words—use them between list items. The comma separates pencils from rulers; and introduces the last item glue.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-013",
@@ -474,7 +504,9 @@
     "explanation": {
       "summary": "Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
       "hint": "Look for the first word and the main topic word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-014",
@@ -508,7 +540,9 @@
     "explanation": {
       "summary": "Look for the first word and the main topic word. Life and Reef are important title words and begin with capitals; on and the remain lower-case.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-015",
@@ -547,7 +581,10 @@
     "explanation": {
       "summary": "Commas separate Ava, Ben and Kai before the final name Mia.",
       "hint": "Treat each name as one item in the list."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA10-P-016",
@@ -581,7 +618,9 @@
     "explanation": {
       "summary": "Treat each name as one item in the list. Commas separate Ava, Ben and Kai before the final name Mia.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-017",
@@ -620,7 +659,10 @@
     "explanation": {
       "summary": "The first word and the important words Night and Train begin with capitals.",
       "hint": "Capitalise the first word and the main meaning words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA10-P-018",
@@ -654,7 +696,9 @@
     "explanation": {
       "summary": "Capitalise the first word and the main meaning words. The first word and the important words Night and Train begin with capitals.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-019",
@@ -693,7 +737,9 @@
     "explanation": {
       "summary": "The comma separates the first full activity from the second, and and introduces the last.",
       "hint": "Keep each action and its object together as one list item."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-020",
@@ -727,7 +773,9 @@
     "explanation": {
       "summary": "Keep each action and its object together as one list item. The comma separates the first full activity from the second, and and introduces the last.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-021",
@@ -766,7 +814,9 @@
     "explanation": {
       "summary": "Sam, Sea and Dragon are important title words; and and the stay lower-case.",
       "hint": "Keep small joining words lower-case unless they begin the title."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-022",
@@ -800,7 +850,9 @@
     "explanation": {
       "summary": "Keep small joining words lower-case unless they begin the title. Sam, Sea and Dragon are important title words; and and the stay lower-case.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-023",
@@ -839,7 +891,9 @@
     "explanation": {
       "summary": "Commas separate the first four supply items before and introduces string.",
       "hint": "Count the five separate things and mark the gaps between them."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-P-024",
@@ -873,7 +927,9 @@
     "explanation": {
       "summary": "Count the five separate things and mark the gaps between them. Commas separate the first four supply items before and introduces string.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA10-T-001",

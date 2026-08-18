@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE03-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE03-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE03-P-008",
@@ -269,7 +290,9 @@
     "explanation": {
       "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE03-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE03-T-001",

@@ -26,7 +26,9 @@
     "explanation": {
       "summary": "The reply restates the meaning and checks it without assuming agreement.",
       "hint": "Begin with the speaker’s main claim, then check your understanding."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-002",
@@ -55,7 +57,9 @@
     "explanation": {
       "summary": "A probing question asks for evidence, conditions or reasoning.",
       "hint": "Choose the question that respectfully tests the claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-003",
@@ -84,7 +88,10 @@
     "explanation": {
       "summary": "A useful connection is brief and clearly linked to the claim.",
       "hint": "Select experience that helps explain or test the idea."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly02-p-004",
@@ -113,7 +120,10 @@
     "explanation": {
       "summary": "Productive discussion combines accurate listening with a purposeful question.",
       "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly02-p-005",
@@ -142,7 +152,9 @@
     "explanation": {
       "summary": "The reply restates the meaning and checks it without assuming agreement.",
       "hint": "Begin with the speaker’s main claim, then check your understanding."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-006",
@@ -171,7 +183,9 @@
     "explanation": {
       "summary": "A probing question asks for evidence, conditions or reasoning.",
       "hint": "Choose the question that respectfully tests the claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-007",
@@ -200,7 +214,10 @@
     "explanation": {
       "summary": "A useful connection is brief and clearly linked to the claim.",
       "hint": "Select experience that helps explain or test the idea."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly02-p-008",
@@ -229,7 +246,10 @@
     "explanation": {
       "summary": "Productive discussion combines accurate listening with a purposeful question.",
       "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly02-p-009",
@@ -258,7 +278,9 @@
     "explanation": {
       "summary": "The reply restates the meaning and checks it without assuming agreement.",
       "hint": "Begin with the speaker’s main claim, then check your understanding."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-010",
@@ -287,7 +309,9 @@
     "explanation": {
       "summary": "A probing question asks for evidence, conditions or reasoning.",
       "hint": "Choose the question that respectfully tests the claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-011",
@@ -316,7 +340,10 @@
     "explanation": {
       "summary": "A useful connection is brief and clearly linked to the claim.",
       "hint": "Select experience that helps explain or test the idea."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly02-p-012",
@@ -345,7 +372,10 @@
     "explanation": {
       "summary": "Productive discussion combines accurate listening with a purposeful question.",
       "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly02-p-013",
@@ -374,7 +404,9 @@
     "explanation": {
       "summary": "The reply restates the meaning and checks it without assuming agreement.",
       "hint": "Begin with the speaker’s main claim, then check your understanding."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-014",
@@ -403,7 +435,9 @@
     "explanation": {
       "summary": "A probing question asks for evidence, conditions or reasoning.",
       "hint": "Choose the question that respectfully tests the claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-015",
@@ -432,7 +466,10 @@
     "explanation": {
       "summary": "A useful connection is brief and clearly linked to the claim.",
       "hint": "Select experience that helps explain or test the idea."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly02-p-016",
@@ -461,7 +498,10 @@
     "explanation": {
       "summary": "Productive discussion combines accurate listening with a purposeful question.",
       "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly02-p-017",
@@ -490,7 +530,9 @@
     "explanation": {
       "summary": "The reply restates the meaning and checks it without assuming agreement.",
       "hint": "Begin with the speaker’s main claim, then check your understanding."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-018",
@@ -519,7 +561,9 @@
     "explanation": {
       "summary": "A probing question asks for evidence, conditions or reasoning.",
       "hint": "Choose the question that respectfully tests the claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-019",
@@ -548,7 +592,9 @@
     "explanation": {
       "summary": "A useful connection is brief and clearly linked to the claim.",
       "hint": "Select experience that helps explain or test the idea."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-020",
@@ -577,7 +623,9 @@
     "explanation": {
       "summary": "Productive discussion combines accurate listening with a purposeful question.",
       "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-021",
@@ -606,7 +654,9 @@
     "explanation": {
       "summary": "The reply restates the meaning and checks it without assuming agreement.",
       "hint": "Begin with the speaker’s main claim, then check your understanding."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-022",
@@ -635,7 +685,9 @@
     "explanation": {
       "summary": "A probing question asks for evidence, conditions or reasoning.",
       "hint": "Choose the question that respectfully tests the claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-023",
@@ -664,7 +716,9 @@
     "explanation": {
       "summary": "A useful connection is brief and clearly linked to the claim.",
       "hint": "Select experience that helps explain or test the idea."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-p-024",
@@ -693,7 +747,9 @@
     "explanation": {
       "summary": "Productive discussion combines accurate listening with a purposeful question.",
       "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly02-t-001",

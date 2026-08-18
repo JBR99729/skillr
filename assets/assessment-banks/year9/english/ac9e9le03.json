@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "reflecting on and discussing responses to literature including characterisation, setting details, plot events, themes and literary devices used to achieve particular effects, and collaboratively formulating a list of factors that distinguish value",
       "hint": "A writer or speaker can use voice to shape reflecting on and discussing responses to literature and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le03-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "reflecting on and discussing responses to literature including characterisation, setting details, plot events, themes and literary devices used to achieve particular effects, and collaboratively formulating a list of factors that distinguish value",
       "hint": "A writer or speaker can use voice to shape reflecting on and discussing responses to literature and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le03-p-003",
@@ -108,7 +114,9 @@
     "explanation": {
       "summary": "reflecting on and discussing responses to literature including characterisation, setting details, plot events, themes and literary devices used to achieve particular effects, and collaboratively formulating a list of factors that distinguish value",
       "hint": "A writer or speaker can use voice to shape reflecting on and discussing responses to literature and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e9le03-p-004",
@@ -145,7 +153,10 @@
     "explanation": {
       "summary": "reflecting on and discussing responses to literature including characterisation, setting details, plot events, themes and literary devices used to achieve particular effects, and collaboratively formulating a list of factors that distinguish value",
       "hint": "A writer or speaker can use voice to shape reflecting on and discussing responses to literature and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le03-p-005",
@@ -182,7 +193,10 @@
     "explanation": {
       "summary": "reflecting on and discussing responses to literature including characterisation, setting details, plot events, themes and literary devices used to achieve particular effects, and collaboratively formulating a list of factors that distinguish value",
       "hint": "A writer or speaker can use voice to shape reflecting on and discussing responses to literature and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le03-p-006",
@@ -219,7 +233,10 @@
     "explanation": {
       "summary": "reflecting on and discussing responses to literature including characterisation, setting details, plot events, themes and literary devices used to achieve particular effects, and collaboratively formulating a list of factors that distinguish value",
       "hint": "A writer or speaker can use voice to shape reflecting on and discussing responses to literature and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le03-p-007",
@@ -256,7 +273,10 @@
     "explanation": {
       "summary": "reflecting on and discussing responses to literature including characterisation, setting details, plot events, themes and literary devices used to achieve particular effects, and collaboratively formulating a list of factors that distinguish value",
       "hint": "A writer or speaker can use voice to shape reflecting on and discussing responses to literature and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le03-p-008",
@@ -293,7 +313,10 @@
     "explanation": {
       "summary": "reflecting on and discussing responses to literature including characterisation, setting details, plot events, themes and literary devices used to achieve particular effects, and collaboratively formulating a list of factors that distinguish value",
       "hint": "A writer or speaker can use voice to shape reflecting on and discussing responses to literature and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9le03-t-001",

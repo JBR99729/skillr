@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "To instruct/show how to make something This matches the task.",
       "hint": "Use features as evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Use features as evidence.",
       "hint": "Use features as evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Story features ↔ entertain; labelled facts ↔ inform; event details ↔ invite This matches the task.",
       "hint": "Check more than one clue if possible."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Look at text → Notice feature → Infer purpose → Explain.",
       "hint": "Check more than one clue if possible."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY01-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Words give safe action; image quickly shows hazard; both warn/instruct This matches the task.",
       "hint": "Name the purpose clearly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY01-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for story and check the whole example.",
       "hint": "Name the purpose clearly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY01-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "It recommends a choice and gives a supporting reason This matches the task.",
       "hint": "Use features as evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Check that you can compare texts.",
       "hint": "Use features as evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-009",
@@ -303,7 +325,9 @@
     "explanation": {
       "summary": "Greeting/event name → event details → closing; accepts event name before greeting if clear This matches the task.",
       "hint": "Check more than one clue if possible."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-010",
@@ -337,7 +361,9 @@
     "explanation": {
       "summary": "Sequencing features of an invitation.",
       "hint": "Check more than one clue if possible."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-011",
@@ -371,7 +397,9 @@
     "explanation": {
       "summary": "All three features present and suited to informing readers This matches the task.",
       "hint": "Name the purpose clearly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-012",
@@ -405,7 +433,9 @@
     "explanation": {
       "summary": "Name the purpose clearly.",
       "hint": "Name the purpose clearly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "Recipe uses ingredients/steps to instruct; advertisement uses praise/reasons/call to choose to persuade This matches the task.",
       "hint": "Use features as evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "Use this routine: Look at text → Notice feature → Infer purpose → Explain.",
       "hint": "Use features as evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-015",
@@ -507,7 +541,9 @@
     "explanation": {
       "summary": "Instructional purpose with any two named features as evidence This matches the task.",
       "hint": "Check more than one clue if possible."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-016",
@@ -541,7 +577,9 @@
     "explanation": {
       "summary": "Look for story and check the whole example.",
       "hint": "Check more than one clue if possible."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-017",
@@ -575,7 +613,10 @@
     "explanation": {
       "summary": "To entertain/tell an imaginative story; impossible/fantastical characters and plot events This matches the task.",
       "hint": "Name the purpose clearly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY01-P-018",
@@ -609,7 +650,10 @@
     "explanation": {
       "summary": "Check that you can compare texts.",
       "hint": "Name the purpose clearly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each opening matched correctly This matches the task.",
       "hint": "Use features as evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Using opening language as a purpose clue.",
       "hint": "Use features as evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Title → materials → numbered actions → result This matches the task.",
       "hint": "Check more than one clue if possible."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Check more than one clue if possible.",
       "hint": "Check more than one clue if possible."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Readers cannot know when/where to attend; date/time/place must be added This matches the task.",
       "hint": "Name the purpose clearly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Look at text → Notice feature → Infer purpose → Explain.",
       "hint": "Name the purpose clearly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY01-T-001",

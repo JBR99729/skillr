@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A narrative introduces a situation, develops a problem and shows how it is resolved.",
       "hint": "Look for a plan that organises characters and events into a story."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Look for a plan that organises characters and events into a story. A narrative introduces a situation, develops a problem and shows how it is resolved.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "A procedure lists what is needed and puts the actions in a usable order.",
       "hint": "The reader needs to know what to use and what to do first, next and last."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA03-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "The reader needs to know what to use and what to do first, next and last. A procedure lists what is needed and puts the actions in a usable order.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Headings and diagrams group related facts so readers can find and understand them.",
       "hint": "Choose features that organise factual information by subtopic."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA03-P-006",
@@ -201,7 +215,9 @@
     "explanation": {
       "summary": "Choose features that organise factual information by subtopic. Headings and diagrams group related facts so readers can find and understand them.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "The sentence uses past tense and begins the real events in time order.",
       "hint": "A recount tells what happened, usually from earlier to later."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA03-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "A recount tells what happened, usually from earlier to later. The sentence uses past tense and begins the real events in time order.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-009",
@@ -303,7 +324,9 @@
     "explanation": {
       "summary": "The seed must be placed and covered before the planted soil is watered.",
       "hint": "Think about which action must happen first for the next step to work."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-010",
@@ -337,7 +360,9 @@
     "explanation": {
       "summary": "Think about which action must happen first for the next step to work. The seed must be placed and covered before the planted soil is watered.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-011",
@@ -371,7 +396,9 @@
     "explanation": {
       "summary": "A burrow is where a wombat lives, so the fact belongs with habitat information.",
       "hint": "Match the fact to the heading that names its subtopic."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-012",
@@ -405,7 +432,9 @@
     "explanation": {
       "summary": "Match the fact to the heading that names its subtopic. A burrow is where a wombat lives, so the fact belongs with habitat information.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-013",
@@ -439,7 +468,9 @@
     "explanation": {
       "summary": "Texts on the same topic are organised differently when they have different purposes.",
       "hint": "Compare the job of each text, not just its topic."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-014",
@@ -473,7 +504,9 @@
     "explanation": {
       "summary": "Compare the job of each text, not just its topic. Texts on the same topic are organised differently when they have different purposes.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-015",
@@ -507,7 +540,10 @@
     "explanation": {
       "summary": "A persuasive poster presents a position, supports it and encourages action.",
       "hint": "Choose a structure that helps convince the audience to do something."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA03-P-016",
@@ -541,7 +577,9 @@
     "explanation": {
       "summary": "Choose a structure that helps convince the audience to do something. A persuasive poster presents a position, supports it and encourages action.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-017",
@@ -575,7 +613,9 @@
     "explanation": {
       "summary": "The results section records the observations or measurements from the investigation.",
       "hint": "Look for evidence collected during the test."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-018",
@@ -609,7 +649,9 @@
     "explanation": {
       "summary": "Look for evidence collected during the test. The results section records the observations or measurements from the investigation.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-019",
@@ -643,7 +685,10 @@
     "explanation": {
       "summary": "A friendly email greets the reader, shares its message and ends appropriately.",
       "hint": "Think about what helps the named reader follow a personal message."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA03-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "Think about what helps the named reader follow a personal message. A friendly email greets the reader, shares its message and ends appropriately.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-021",
@@ -711,7 +758,10 @@
     "explanation": {
       "summary": "The command and sequence word tell the reader what action comes next.",
       "hint": "A recipe step should direct an action in a clear order."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A recipe step should direct an action in a clear order. The command and sequence word tell the reader what action comes next.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A timeline helps readers follow real events and achievements in chronological order.",
       "hint": "Think about how dates help organise information about a person's life."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Think about how dates help organise information about a person's life. A timeline helps readers follow real events and achievements in chronological order.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA03-T-001",

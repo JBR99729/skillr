@@ -35,7 +35,10 @@
     "explanation": {
       "summary": "Liquids flow and take the shape of the part of a container they occupy.",
       "hint": "Focus on observable shape and flow."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U04-P-002",
@@ -73,7 +76,10 @@
     "explanation": {
       "summary": "A solid keeps its own shape under ordinary conditions, even when it is soft.",
       "hint": "Ask what happens when only the container changes."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U04-P-003",
@@ -111,7 +117,10 @@
     "explanation": {
       "summary": "Melting is the change from solid to liquid caused by adding heat energy.",
       "hint": "Follow the solid-to-liquid arrow."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U04-P-004",
@@ -149,7 +158,10 @@
     "explanation": {
       "summary": "Freezing is the change from liquid to solid as heat energy is removed.",
       "hint": "Follow the liquid-to-solid arrow."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U04-P-005",
@@ -187,7 +199,10 @@
     "explanation": {
       "summary": "Melting and freezing can reverse the state while the material remains the same.",
       "hint": "Look for opposite changes controlled by adding and removing heat."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U04-P-006",
@@ -225,7 +240,10 @@
     "explanation": {
       "summary": "A state change alters state and observable properties, not the material's identity.",
       "hint": "Track the material inside the sealed boundary."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U04-P-007",
@@ -263,7 +281,10 @@
     "explanation": {
       "summary": "Melting is observed when a solid becomes a flowing liquid.",
       "hint": "Choose evidence of a state change, not a size or location change."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U04-P-008",
@@ -301,7 +322,9 @@
     "explanation": {
       "summary": "A warmer surrounding can transfer heat energy to the sample more quickly.",
       "hint": "Compare the direction and likely rate of heat transfer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-009",
@@ -339,7 +362,10 @@
     "explanation": {
       "summary": "Timed observations provide evidence about when and how the state changes.",
       "hint": "Choose information another observer could check."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U04-P-010",
@@ -377,7 +403,9 @@
     "explanation": {
       "summary": "Keeping sample size the same makes the comparison fairer.",
       "hint": "Identify what should change and what should stay the same."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-011",
@@ -415,7 +443,9 @@
     "explanation": {
       "summary": "Hardness is not the defining property; solids keep their own shape.",
       "hint": "Use shape and flow rather than hard and soft."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-012",
@@ -453,7 +483,9 @@
     "explanation": {
       "summary": "A liquid can flow slowly; speed and stickiness do not change its state classification.",
       "hint": "Ask whether it flows, not whether it flows quickly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-013",
@@ -491,7 +523,9 @@
     "explanation": {
       "summary": "Controlled heating and cooling can allow suitable materials to be reshaped and solidified.",
       "hint": "Sequence heat, shape and cool."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-014",
@@ -529,7 +563,9 @@
     "explanation": {
       "summary": "Freezing occurs as heat energy transfers away from a liquid.",
       "hint": "Describe the direction of heat transfer, not cold as a substance."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-015",
@@ -567,7 +603,9 @@
     "explanation": {
       "summary": "Liquids flow and take the shape of the part of a container they occupy.",
       "hint": "Focus on observable shape and flow."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-016",
@@ -605,7 +643,9 @@
     "explanation": {
       "summary": "A solid keeps its own shape under ordinary conditions, even when it is soft.",
       "hint": "Ask what happens when only the container changes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-017",
@@ -643,7 +683,9 @@
     "explanation": {
       "summary": "Melting is the change from solid to liquid caused by adding heat energy.",
       "hint": "Follow the solid-to-liquid arrow."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-018",
@@ -681,7 +723,9 @@
     "explanation": {
       "summary": "Freezing is the change from liquid to solid as heat energy is removed.",
       "hint": "Follow the liquid-to-solid arrow."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-019",
@@ -719,7 +763,9 @@
     "explanation": {
       "summary": "Melting and freezing can reverse the state while the material remains the same.",
       "hint": "Look for opposite changes controlled by adding and removing heat."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-020",
@@ -757,7 +803,9 @@
     "explanation": {
       "summary": "A state change alters state and observable properties, not the material's identity.",
       "hint": "Track the material inside the sealed boundary."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-021",
@@ -795,7 +843,9 @@
     "explanation": {
       "summary": "Melting is observed when a solid becomes a flowing liquid.",
       "hint": "Choose evidence of a state change, not a size or location change."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-022",
@@ -833,7 +883,9 @@
     "explanation": {
       "summary": "A warmer surrounding can transfer heat energy to the sample more quickly.",
       "hint": "Compare the direction and likely rate of heat transfer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-023",
@@ -871,7 +923,9 @@
     "explanation": {
       "summary": "Timed observations provide evidence about when and how the state changes.",
       "hint": "Choose information another observer could check."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-024",
@@ -909,7 +963,9 @@
     "explanation": {
       "summary": "Keeping sample size the same makes the comparison fairer.",
       "hint": "Identify what should change and what should stay the same."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-025",
@@ -947,7 +1003,9 @@
     "explanation": {
       "summary": "Hardness is not the defining property; solids keep their own shape.",
       "hint": "Use shape and flow rather than hard and soft."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-026",
@@ -985,7 +1043,9 @@
     "explanation": {
       "summary": "A liquid can flow slowly; speed and stickiness do not change its state classification.",
       "hint": "Ask whether it flows, not whether it flows quickly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-027",
@@ -1023,7 +1083,9 @@
     "explanation": {
       "summary": "Controlled heating and cooling can allow suitable materials to be reshaped and solidified.",
       "hint": "Sequence heat, shape and cool."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-P-028",
@@ -1061,7 +1123,9 @@
     "explanation": {
       "summary": "Freezing occurs as heat energy transfers away from a liquid.",
       "hint": "Describe the direction of heat transfer, not cold as a substance."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U04-T-001",

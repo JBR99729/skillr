@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "One half is one of 2 equal parts of the whole pizza.",
       "hint": "Check that there are exactly 2 equal parts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "One of 4 equal parts is called one quarter.",
       "hint": "Use the number of equal parts to name the fraction."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Halving each half makes 4 equal quarters.",
       "hint": "Start with 2 parts, then split both parts equally."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Halving each of 4 quarters makes 8 equal eighths.",
       "hint": "Doubling the number of equal parts makes smaller pieces."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
       "hint": "Fewer equal parts means each part is larger."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N03-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Four pieces are quarters only when all 4 parts are equal.",
       "hint": "Counting pieces is not enough; compare their sizes."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N03-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Two quarters join to make one half of the same whole.",
       "hint": "Look at 4 equal parts and shade 2 of them."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N03-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Two eighths join to make one quarter of the same whole.",
       "hint": "Each quarter is split into 2 eighths."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N03-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "One half is one of 2 equal parts of the whole wrap.",
       "hint": "Check that there are exactly 2 equal parts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "One of 4 equal parts is called one quarter.",
       "hint": "Use the number of equal parts to name the fraction."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Halving each half makes 4 equal quarters.",
       "hint": "Start with 2 parts, then split both parts equally."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Halving each of 4 quarters makes 8 equal eighths.",
       "hint": "Doubling the number of equal parts makes smaller pieces."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
       "hint": "Fewer equal parts means each part is larger."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Four pieces are quarters only when all 4 parts are equal.",
       "hint": "Counting pieces is not enough; compare their sizes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Two quarters join to make one half of the same whole.",
       "hint": "Look at 4 equal parts and shade 2 of them."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Two eighths join to make one quarter of the same whole.",
       "hint": "Each quarter is split into 2 eighths."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "One half is one of 2 equal parts of the whole melon.",
       "hint": "Check that there are exactly 2 equal parts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "One of 4 equal parts is called one quarter.",
       "hint": "Use the number of equal parts to name the fraction."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Halving each half makes 4 equal quarters.",
       "hint": "Start with 2 parts, then split both parts equally."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Halving each of 4 quarters makes 8 equal eighths.",
       "hint": "Doubling the number of equal parts makes smaller pieces."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A half is one of 2 equal parts; an eighth is one of 8 smaller equal parts.",
       "hint": "Fewer equal parts means each part is larger."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Four pieces are quarters only when all 4 parts are equal.",
       "hint": "Counting pieces is not enough; compare their sizes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Two quarters join to make one half of the same whole.",
       "hint": "Look at 4 equal parts and shade 2 of them."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Two eighths join to make one quarter of the same whole.",
       "hint": "Each quarter is split into 2 eighths."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N03-T-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
       "hint": "A large biased sample remains biased."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
       "hint": "The sample provides evidence about the population."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
       "hint": "Missing responses may differ systematically."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
       "hint": "Limit to association unless design supports cause."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st03-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
       "hint": "A large biased sample remains biased."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7st03-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
       "hint": "The sample provides evidence about the population."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7st03-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
       "hint": "Missing responses may differ systematically."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7st03-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
       "hint": "Limit to association unless design supports cause."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7st03-t-001",

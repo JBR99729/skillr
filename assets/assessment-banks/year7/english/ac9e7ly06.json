@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "A graph should be cited, labelled and interpreted in the surrounding argument",
       "hint": "Use feedback and revision."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7ly06-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
       "hint": "Give them a meaning role."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7ly06-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "Templates can support organisation but should not dictate content or hide missing reasoning.",
       "hint": "Track evidence from research onward."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7ly06-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
       "hint": "Review context, homophones, claims and layout."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7ly06-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "A graph should be cited, labelled and interpreted in the surrounding argument",
       "hint": "Use feedback and revision."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7ly06-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
       "hint": "Give them a meaning role."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7ly06-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "Templates can support organisation but should not dictate content or hide missing reasoning.",
       "hint": "Track evidence from research onward."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7ly06-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
       "hint": "Review context, homophones, claims and layout."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e7ly06-t-001",

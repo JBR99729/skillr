@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "using models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres, recognising that one millilitre is equivalent to one cm^3",
       "hint": "Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "solving practical problems involving volume and capacity; for example, optimal packaging and production",
       "hint": "Solve practical problems involving volume and capacity."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "choosing which measurements are useful to consider when solving practical problems in context; for example, when purchasing a new washing machine, the dimensions are useful when determining whether it will fit in the available space in the laundry and its capacity is useful when considering the maximum washing load it can carry",
       "hint": "Choose which measurements are useful to consider when solving practical problems in context."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects; for example, given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity",
       "hint": "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "using models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres, recognising that one millilitre is equivalent to one cm^3",
       "hint": "Use models to demonstrate the number of cubic centimetres in a cubic metre and relating this to capacities of millilitres and litres."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "solving practical problems involving volume and capacity; for example, optimal packaging and production",
       "hint": "Solve practical problems involving volume and capacity."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "choosing which measurements are useful to consider when solving practical problems in context; for example, when purchasing a new washing machine, the dimensions are useful when determining whether it will fit in the available space in the laundry and its capacity is useful when considering the maximum washing load it can carry",
       "hint": "Choose which measurements are useful to consider when solving practical problems in context."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects; for example, given the dimensions of a pool and the rate of flow from a tap, determining how long it will take to fill the pool to its normal capacity",
       "hint": "investigating, reasoning and finding solutions to measurement problems involving dimensions, rates, volume and capacity of objects."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m02-t-001",

@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "Respectful collaboration can connect long-term place-based knowledge with scientific investigation.",
       "hint": "Consider who holds relevant knowledge of that Country."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "Ethical collaboration respects Indigenous Cultural and Intellectual Property and community authority.",
       "hint": "Consent covers how knowledge is used, not only how it is collected."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H02-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "Established practice can guide scientific questions while testing examines mechanisms and limits.",
       "hint": "Value both the knowledge source and the evidence from testing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H02-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Who is included in research affects how confidently findings apply to different people.",
       "hint": "Compare the sample with the population affected."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H02-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "World views can shape research priorities while evidence remains necessary to answer questions.",
       "hint": "Distinguish choosing a question from testing an answer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H02-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Accurate accounts recognise distinct contributions and do not erase the cultural source.",
       "hint": "Ask whose knowledge made the investigation possible."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H02-P-007",
@@ -235,7 +252,9 @@
     "explanation": {
       "summary": "Early, continuing participation supports relevant questions, ethical methods and shared interpretation.",
       "hint": "Meaningful collaboration begins before conclusions are written."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "Knowledge practices can complement each other when their evidence, scale and limitations are examined.",
       "hint": "Compare rather than automatically ranking or equating."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-009",
@@ -303,7 +324,10 @@
     "explanation": {
       "summary": "Decisions about data and design can embed social assumptions in scientific technologies.",
       "hint": "Trace the error pattern back to the training sample."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H02-P-010",
@@ -337,7 +361,10 @@
     "explanation": {
       "summary": "Cross-knowledge collaboration requires careful translation, attribution and acknowledgement of limits.",
       "hint": "A shared label should not erase the original meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H02-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Use holders' guidance with permission to choose sites and interpret linked indicators",
       "hint": "Consider expertise, permission and scale."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-012",
@@ -405,7 +434,10 @@
     "explanation": {
       "summary": "Ecological distinctions encoded in local classification",
       "hint": "Ask what information the categories preserve."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Economic and institutional values influenced which problem received resources",
       "hint": "Separate priority-setting from evidence testing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Dose and side-effect knowledge may not apply reliably to women",
       "hint": "Compare participants with intended users."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Observations may overrepresent people and places with device access",
       "hint": "Identify who is able to contribute."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Locally observed indicators may better guide timing for that Country",
       "hint": "Relate categories to place-based evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Agree authorship roles and attribution through transparent collaboration",
       "hint": "Match credit to intellectual contribution."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "That ecological health always requires excluding human stewardship",
       "hint": "Question the human-nature separation in the plan."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "They privilege one form of recording without evaluating the knowledge's methods and evidence",
       "hint": "Evaluate reliability, not format alone."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The chosen norm may miss different symptom patterns or expressions",
       "hint": "Check who established the diagnostic norm."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Investigate relationships between both indicator sets and their purposes",
       "hint": "Compare what each measure reveals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Traditional Owner permission, cultural restrictions and alternative methods",
       "hint": "Technical capability does not replace cultural authority."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "They can identify observable distinctions useful for monitoring change",
       "hint": "Treat fine categories as testable observational knowledge."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "It may misclassify people whose expressions follow different conventions",
       "hint": "Examine whose norms define the labels."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H02-T-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
       "hint": "Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u07-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "identifying reaction type and predicting the products",
       "hint": "Use reaction type and predicting the products to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u07-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating synthesis reactions such as reaction of metals with oxygen, formation of water and sodium chloride; decomposition reactions such as those used to extract metals; and displacement reactions such as metal and acid, neutralisation and precipitation",
       "hint": "Use synthesis reactions to make the role of displacement visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u07-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating the effect of a range of factors, such as temperature, concentration, surface area and catalysts, on the rate of chemical reactions",
       "hint": "Use the effect of a range of factors to make the role of collision model visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u07-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating chemical reactions employed by First Nations Australians in the production of substances such as acids and ethanol",
       "hint": "Use chemical reactions employed by First Nations Australians to make the role of temperature, concentration, surface area and catalyst visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u07-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating some of the chemical reactions and methods employed by First Nations Australians to convert toxic plants into edible food products",
       "hint": "Use some of the chemical reactions and methods employed to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u07-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "examining reactions that are used to produce a range of useful products",
       "hint": "Use reactions that are used to produce a range to make the role of decomposition visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u07-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "defining and representing synthesis, decomposition and displacement reactions using a variety of formats such as molecular models, diagrams, and word and balanced symbolic equations",
       "hint": "Use representing synthesis, decomposition and displacement reactions using a variety to make the role of synthesis visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10u07-t-001",

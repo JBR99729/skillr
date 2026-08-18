@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Cat This matches the task.",
       "hint": "Say the sounds aloud."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY10-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Say the sounds aloud.",
       "hint": "Say the sounds aloud."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY10-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Stop minus /s/ ↔ top; map /m/→/t/ ↔ tap; /s/+pin ↔ spin This matches the task.",
       "hint": "Change only the sound named."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY10-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
       "hint": "Change only the sound named."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY10-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Cot; /k/ /o/ /t/ This matches the task.",
       "hint": "Practise start, middle and end positions."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY10-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for substitute and check the whole example.",
       "hint": "Practise start, middle and end positions."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY10-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Mat This matches the task.",
       "hint": "Say the sounds aloud."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY10-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Check that you can change initial sounds.",
       "hint": "Say the sounds aloud."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY10-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Say stop → identify/remove /s/ → blend /t o p/ → top This matches the task.",
       "hint": "Change only the sound named."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing initial-phoneme deletion.",
       "hint": "Change only the sound named."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Shows /p/ /i/ /n/ changing only middle to /a/; pan This matches the task.",
       "hint": "Practise start, middle and end positions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Practise start, middle and end positions.",
       "hint": "Practise start, middle and end positions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Final position; /n/ changed to /m/ This matches the task.",
       "hint": "Say the sounds aloud."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
       "hint": "Say the sounds aloud."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Three valid examples such as can, pin and pat, with only named position changed each time This matches the task.",
       "hint": "Change only the sound named."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for substitute and check the whole example.",
       "hint": "Change only the sound named."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Far This matches the task.",
       "hint": "Practise start, middle and end positions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can change initial sounds.",
       "hint": "Practise start, middle and end positions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "/e/ ↔ pen; /a/ ↔ pan; /o/ ↔ pon; pen and pan are familiar words This matches the task.",
       "hint": "Say the sounds aloud."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Exploring medial phoneme changes including a possible nonword.",
       "hint": "Say the sounds aloud."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Say lant → add/identify initial /p/ → blend plant This matches the task.",
       "hint": "Change only the sound named."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Change only the sound named.",
       "hint": "Change only the sound named."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Skip, using /s/ /k/ /i/ /p/ This matches the task.",
       "hint": "Practise start, middle and end positions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
       "hint": "Practise start, middle and end positions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY10-T-001",

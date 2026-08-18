@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
       "hint": "Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
       "hint": "Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "discussing examples of the application of genetic screening and reasons for the adoption of the practice by groups in society",
       "hint": "Use examples of the application of genetic screening and reasons to make the role of trust visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "examining why climate change models used by scientists are contested by some people in society",
       "hint": "Use climate change models used by scientists are contested to make the role of access and cost visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "discussing citizen science projects such as the GLOBE Project or others of local relevance and examining why people would choose to be involved",
       "hint": "Use citizen science projects to make the role of values and policy visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "considering how the traditional ecological knowledges of First Nations Australians are being reaffirmed by modern science and how these practices are being used by Traditional Owners in carbon farming initiatives",
       "hint": "Use how the traditional ecological knowledges of First Nations Australians to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "investigating why agricultural practices have changed to include widespread use of genetically engineered crops",
       "hint": "Use agricultural practices have changed to include widespread use to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "examining statistics to compare bicycle or electric scooter injuries sustained by riders with and without helmets and relating these to helmet wearing requirements",
       "hint": "Use statistics to compare bicycle or electric scooter injuries sustained to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h03-t-001",

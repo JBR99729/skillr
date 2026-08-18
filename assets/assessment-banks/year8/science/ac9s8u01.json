@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "It is a plant cell because all three structures are characteristic of plant cells",
       "hint": "Use structures that distinguish common plant and animal cells."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The structures are consistent with an animal cell",
       "hint": "Identify which structures are shared and plant-specific."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The cell membrane that controls exchange",
       "hint": "Identify the boundary regulating exchange."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U01-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "Chloroplasts, where photosynthesis captures light energy",
       "hint": "Link the failed process to its organelle."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "The 4 cm image has twice the magnification",
       "hint": "Separate image size from actual size."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U01-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Its colours, spacing and relative sizes may not match a living cell",
       "hint": "Consider changes made for visibility."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U01-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "Gene-directed activities and normal division cannot be maintained",
       "hint": "Connect the nucleus to genetic information."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U01-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "The vacuole stores water while the wall resists expansion and supports the cell",
       "hint": "Think about pressure and support."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U01-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "About 0.2 mm",
       "hint": "Divide field width by cells across."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8U01-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The nucleus regulates many activities; the wall mainly supports plant cells",
       "hint": "Distinguish control from support."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "0.1 mm",
       "hint": "Actual size equals image size divided by magnification."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "500 times",
       "hint": "Divide image width by actual width."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "60 micrometres",
       "hint": "Compare cell length with the scale bar."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "The bar no longer represents the same image-to-actual-size ratio",
       "hint": "Scale bars must enlarge with images."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Each cell appears larger and fewer cells usually fit in the field",
       "hint": "Distinguish viewing field from specimen size."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The nucleus may be unstained or out of focus, so absence is not established",
       "hint": "Consider limits of preparation and imaging."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "It increases contrast between structures",
       "hint": "Staining affects contrast, not size."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Plant cells vary in shape according to location and function",
       "hint": "Avoid generalising one tissue sample."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "It formed from a nucleated cell and remains a specialised cell",
       "hint": "Cell theory does not require every mature cell to retain every structure."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Its genetic material is present without being enclosed in a nucleus",
       "hint": "Separate genetic material from a membrane-bound nucleus."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Many mitochondria support high rates of energy release for contraction",
       "hint": "Link energy demand with cellular respiration."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Mitochondria release energy used for tail movement",
       "hint": "Connect movement with energy supply."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The projection increases absorption area and underground cells receive little light",
       "hint": "Use location and function together."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Palisade cells receive light and carry out much photosynthesis",
       "hint": "Link organelle abundance to specialised function."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8U01-T-001",

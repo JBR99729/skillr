@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Heat energy transfers from the warmer object to the cooler object.",
       "hint": "Compare the starting temperatures and point from warmer to cooler."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Opposite temperature changes show energy moving between the objects.",
       "hint": "Compare each later reading with its starting reading."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The warmer object supplies transferred heat energy.",
       "hint": "Identify the object at the higher temperature."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "A thermometer measures temperature on a scale.",
       "hint": "Match the instrument to temperature."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Controls allow the material to be the one tested difference.",
       "hint": "Keep water amount, container and starting temperature the same."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U03-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "Temperature describes hotness; heat energy transfers because of a temperature difference.",
       "hint": "Separate what is measured from what transfers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "The driving temperature difference decreases as temperatures approach each other.",
       "hint": "Look at how the temperature difference changes."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U03-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Energy transfer causes the warmer object to cool and cooler object to warm.",
       "hint": "Use the warm-to-cool direction to predict both changes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Heat energy transfers from the warmer object to the cooler object.",
       "hint": "Compare the starting temperatures and point from warmer to cooler."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U03-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Opposite temperature changes show energy moving between the objects.",
       "hint": "Compare each later reading with its starting reading."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3U03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The warmer object supplies transferred heat energy.",
       "hint": "Identify the object at the higher temperature."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "A thermometer measures temperature on a scale.",
       "hint": "Match the instrument to temperature."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Controls allow the material to be the one tested difference.",
       "hint": "Keep water amount, container and starting temperature the same."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Temperature describes hotness; heat energy transfers because of a temperature difference.",
       "hint": "Separate what is measured from what transfers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The driving temperature difference decreases as temperatures approach each other.",
       "hint": "Look at how the temperature difference changes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Energy transfer causes the warmer object to cool and cooler object to warm.",
       "hint": "Use the warm-to-cool direction to predict both changes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Heat energy transfers from the warmer object to the cooler object.",
       "hint": "Compare the starting temperatures and point from warmer to cooler."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Opposite temperature changes show energy moving between the objects.",
       "hint": "Compare each later reading with its starting reading."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The warmer object supplies transferred heat energy.",
       "hint": "Identify the object at the higher temperature."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A thermometer measures temperature on a scale.",
       "hint": "Match the instrument to temperature."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Controls allow the material to be the one tested difference.",
       "hint": "Keep water amount, container and starting temperature the same."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Temperature describes hotness; heat energy transfers because of a temperature difference.",
       "hint": "Separate what is measured from what transfers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The driving temperature difference decreases as temperatures approach each other.",
       "hint": "Look at how the temperature difference changes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Energy transfer causes the warmer object to cool and cooler object to warm.",
       "hint": "Use the warm-to-cool direction to predict both changes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3U03-T-001",

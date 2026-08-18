@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "A cube has 6 square faces.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "Turning a shape does not change its sides or corners.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1SP01-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "Mathematical sorting uses observable shape features.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "Squares and rectangles each have 4 straight sides.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-005",
@@ -167,7 +176,9 @@
     "explanation": {
       "summary": "A square is 2D and a cube is 3D.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-006",
@@ -201,7 +212,9 @@
     "explanation": {
       "summary": "A circle has one continuous curved boundary.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-007",
@@ -235,7 +248,9 @@
     "explanation": {
       "summary": "A triangle needs 3 joined straight sides.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-008",
@@ -269,7 +284,9 @@
     "explanation": {
       "summary": "Squares and rectangles are four-sided flat shapes.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-009",
@@ -303,7 +320,9 @@
     "explanation": {
       "summary": "A triangle has 3 straight sides.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-010",
@@ -337,7 +356,10 @@
     "explanation": {
       "summary": "Sides, corners and curves are mathematical features.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1SP01-P-011",
@@ -371,7 +393,9 @@
     "explanation": {
       "summary": "A sphere has a curved surface in every direction.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-012",
@@ -405,7 +429,10 @@
     "explanation": {
       "summary": "The selected shape has a different key feature.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1SP01-P-013",
@@ -439,7 +466,10 @@
     "explanation": {
       "summary": "A rectangle has 4 corners.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1SP01-P-014",
@@ -473,7 +503,10 @@
     "explanation": {
       "summary": "A ball is shaped like a sphere.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1SP01-P-015",
@@ -507,7 +540,10 @@
     "explanation": {
       "summary": "A dice has the familiar form of a cube.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1SP01-P-016",
@@ -541,7 +577,10 @@
     "explanation": {
       "summary": "The symbol is a square.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1SP01-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "A cube has 6 square faces.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Mathematical sorting uses observable shape features.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "Turning a shape does not change its sides or corners.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "A cube has 6 square faces.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "A circle has one continuous curved boundary.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-022",
@@ -745,7 +794,9 @@
     "explanation": {
       "summary": "Sides, corners and curves are mathematical features.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-023",
@@ -779,7 +830,9 @@
     "explanation": {
       "summary": "A square is 2D and a cube is 3D.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-024",
@@ -813,7 +866,9 @@
     "explanation": {
       "summary": "A circle has one continuous curved boundary.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-025",
@@ -847,7 +902,9 @@
     "explanation": {
       "summary": "Squares and rectangles each have 4 straight sides.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-026",
@@ -881,7 +938,9 @@
     "explanation": {
       "summary": "Mathematical sorting uses observable shape features.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-P-027",
@@ -915,7 +974,10 @@
     "explanation": {
       "summary": "A rectangle has 4 straight sides.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1SP01-P-028",
@@ -949,7 +1011,9 @@
     "explanation": {
       "summary": "A sphere has a curved surface in every direction.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1SP01-T-001",

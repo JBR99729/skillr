@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A design process begins with a clearly described need or problem.",
       "hint": "State what people require, not what the object should look like."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Science informs a solution when explanations guide a testable design.",
       "hint": "Connect a scientific property or process to the need."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "A measurable criterion allows evidence-based evaluation.",
       "hint": "Choose the condition that can be measured with a number or clear check."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Testing provides evidence for judging and improving a solution.",
       "hint": "Compare test results with the agreed criteria."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Several criteria can be weighed when evaluating solutions.",
       "hint": "Use the results table for every important criterion."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H02-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Test data tied to the need are stronger than claims or preferences.",
       "hint": "Look for measured performance under fair conditions."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H02-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Evidence can identify a specific part of a solution to improve.",
       "hint": "Use the failed criterion to guide the change."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H02-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Solutions can meet criteria to different degrees.",
       "hint": "Compare strengths and limits across several criteria."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S3H02-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "A design process begins with a clearly described need or problem.",
       "hint": "State what people require, not what the object should look like."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Science informs a solution when explanations guide a testable design.",
       "hint": "Connect a scientific property or process to the need."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "A measurable criterion allows evidence-based evaluation.",
       "hint": "Choose the condition that can be measured with a number or clear check."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Testing provides evidence for judging and improving a solution.",
       "hint": "Compare test results with the agreed criteria."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Several criteria can be weighed when evaluating solutions.",
       "hint": "Use the results table for every important criterion."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Test data tied to the need are stronger than claims or preferences.",
       "hint": "Look for measured performance under fair conditions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Evidence can identify a specific part of a solution to improve.",
       "hint": "Use the failed criterion to guide the change."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Solutions can meet criteria to different degrees.",
       "hint": "Compare strengths and limits across several criteria."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A design process begins with a clearly described need or problem.",
       "hint": "State what people require, not what the object should look like."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Science informs a solution when explanations guide a testable design.",
       "hint": "Connect a scientific property or process to the need."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "A measurable criterion allows evidence-based evaluation.",
       "hint": "Choose the condition that can be measured with a number or clear check."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Testing provides evidence for judging and improving a solution.",
       "hint": "Compare test results with the agreed criteria."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Several criteria can be weighed when evaluating solutions.",
       "hint": "Use the results table for every important criterion."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Test data tied to the need are stronger than claims or preferences.",
       "hint": "Look for measured performance under fair conditions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Evidence can identify a specific part of a solution to improve.",
       "hint": "Use the failed criterion to guide the change."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Solutions can meet criteria to different degrees.",
       "hint": "Compare strengths and limits across several criteria."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S3H02-T-001",

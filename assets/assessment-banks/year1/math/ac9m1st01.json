@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "Dog appears 3 times, more than cat or bird.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "Fruit names are useful answer categories; heavy is a measurement description.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-003",
@@ -99,7 +103,10 @@
     "explanation": {
       "summary": "The tally count is 7.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1ST01-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "A clear categorical question leads to named answer groups.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-005",
@@ -167,7 +176,10 @@
     "explanation": {
       "summary": "A crossed group represents 5, then count any extra marks.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1ST01-P-006",
@@ -201,7 +213,10 @@
     "explanation": {
       "summary": "The tally records 6 responses.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1ST01-P-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "Tallies organise and count responses as they are collected.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-008",
@@ -269,7 +286,9 @@
     "explanation": {
       "summary": "A digital form or table can store each response by category.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "Categories should help each answer fit clearly.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-010",
@@ -337,7 +358,9 @@
     "explanation": {
       "summary": "Frequency is the count for a category.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-011",
@@ -371,7 +394,9 @@
     "explanation": {
       "summary": "Favourite fruit answers belong to named categories.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-012",
@@ -405,7 +430,9 @@
     "explanation": {
       "summary": "Every valid response needs an appropriate category.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-013",
@@ -439,7 +466,10 @@
     "explanation": {
       "summary": "Recording once prevents double counting.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1ST01-P-014",
@@ -473,7 +503,9 @@
     "explanation": {
       "summary": "One object can record one response.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-015",
@@ -507,7 +539,10 @@
     "explanation": {
       "summary": "The categories are possible types of answers to the question.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1ST01-P-016",
@@ -541,7 +576,9 @@
     "explanation": {
       "summary": "The recording system should include every genuine response clearly.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-017",
@@ -575,7 +612,10 @@
     "explanation": {
       "summary": "Dog appears 3 times, more than cat or bird.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1ST01-P-018",
@@ -609,7 +649,9 @@
     "explanation": {
       "summary": "Fruit names are useful answer categories; heavy is a measurement description.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-019",
@@ -643,7 +685,9 @@
     "explanation": {
       "summary": "Tallies organise and count responses as they are collected.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-020",
@@ -677,7 +721,9 @@
     "explanation": {
       "summary": "Fruit names are useful answer categories; heavy is a measurement description.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-021",
@@ -711,7 +757,9 @@
     "explanation": {
       "summary": "Categories should help each answer fit clearly.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-022",
@@ -745,7 +793,9 @@
     "explanation": {
       "summary": "Recording once prevents double counting.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-023",
@@ -779,7 +829,9 @@
     "explanation": {
       "summary": "Recording once prevents double counting.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-024",
@@ -813,7 +865,10 @@
     "explanation": {
       "summary": "Tallies organise and count responses as they are collected.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1ST01-P-025",
@@ -847,7 +902,9 @@
     "explanation": {
       "summary": "The categories are possible types of answers to the question.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-026",
@@ -881,7 +938,9 @@
     "explanation": {
       "summary": "The categories are possible types of answers to the question.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-P-027",
@@ -915,7 +974,10 @@
     "explanation": {
       "summary": "The categories are possible types of answers to the question.",
       "hint": "Read the labels first, then count or compare the marks in the matching category."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1ST01-P-028",
@@ -949,7 +1011,9 @@
     "explanation": {
       "summary": "The recording system should include every genuine response clearly.",
       "hint": "Count the sides, corners or faces, then match those features to the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1ST01-T-001",

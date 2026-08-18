@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The opening names the topic and tells the audience what will be explained.",
       "hint": "Choose an opening that prepares listeners for the main idea."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY07-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Choose an opening that prepares listeners for the main idea. The opening names the topic and tells the audience what will be explained.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY07-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "An ordered life-cycle diagram makes the changing stages easier to follow.",
       "hint": "Choose a visual that adds structure or information to the talk."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Choose a visual that adds structure or information to the talk. An ordered life-cycle diagram makes the changing stages easier to follow.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-005",
@@ -167,7 +177,10 @@
     "explanation": {
       "summary": "Rain gauge and millimetres are precise words for reporting rainfall.",
       "hint": "Choose topic words that name the tool and measurement accurately."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY07-P-006",
@@ -201,7 +214,10 @@
     "explanation": {
       "summary": "Choose topic words that name the tool and measurement accurately. Rain gauge and millimetres are precise words for reporting rainfall.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY07-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "A suitable volume reaches the whole audience without becoming an uncomfortable shout.",
       "hint": "Match volume to the size and distance of the audience."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY07-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "Match volume to the size and distance of the audience. A suitable volume reaches the whole audience without becoming an uncomfortable shout.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-009",
@@ -303,7 +324,9 @@
     "explanation": {
       "summary": "A slower pace and purposeful pause draw attention to the key rule.",
       "hint": "Use pace and pauses to make important meaning clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-010",
@@ -337,7 +360,9 @@
     "explanation": {
       "summary": "Use pace and pauses to make important meaning clear. A slower pace and purposeful pause draw attention to the key rule.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-011",
@@ -371,7 +396,10 @@
     "explanation": {
       "summary": "A warm, friendly tone supports the purpose of making newcomers feel welcome.",
       "hint": "Match the feeling in the voice to the message and audience."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY07-P-012",
@@ -405,7 +433,9 @@
     "explanation": {
       "summary": "Match the feeling in the voice to the message and audience. A warm, friendly tone supports the purpose of making newcomers feel welcome.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "The presenter can keep the strength and practise the delivery point that needs work.",
       "hint": "Use feedback to make one clear, testable improvement."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "Use feedback to make one clear, testable improvement. The presenter can keep the strength and practise the delivery point that needs work.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-015",
@@ -507,7 +541,10 @@
     "explanation": {
       "summary": "The greeting welcomes the audience and clearly introduces the topic.",
       "hint": "Choose an opening with a suitable tone and useful topic information."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY07-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Choose an opening with a suitable tone and useful topic information. The greeting welcomes the audience and clearly introduces the topic.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "Related care points follow a clear sequence before the closing reminder.",
       "hint": "Put the main information between an understood topic and the conclusion."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Put the main information between an understood topic and the conclusion. Related care points follow a clear sequence before the closing reminder.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-019",
@@ -643,7 +686,10 @@
     "explanation": {
       "summary": "Short key phrases remind the speaker of ideas while allowing eye contact.",
       "hint": "A prompt should cue ideas rather than replace the presentation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY07-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A prompt should cue ideas rather than replace the presentation. Short key phrases remind the speaker of ideas while allowing eye contact.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Pointing to the matching label connects the spoken explanation with the visual.",
       "hint": "Make movement direct attention to the exact idea being discussed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Make movement direct attention to the exact idea being discussed. Pointing to the matching label connects the spoken explanation with the visual.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Focused word practice supports accurate topic vocabulary in the complete talk.",
       "hint": "Repair the difficult part before rehearsing it in context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Repair the difficult part before rehearsing it in context. Focused word practice supports accurate topic vocabulary in the complete talk.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY07-T-001",

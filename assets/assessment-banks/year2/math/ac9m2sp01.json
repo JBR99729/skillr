@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A triangle has 3 straight sides.",
       "hint": "Trace the boundary and count each straight side once."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2SP01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "A circle has one curved boundary and no straight sides.",
       "hint": "Trace around each shape and feel for straight edges."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2SP01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Turning a shape does not change its sides or corners, so it is still a triangle.",
       "hint": "Count the features instead of judging the direction it points."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2SP01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Parallel lines remain the same distance apart and do not meet.",
       "hint": "Think of straight train tracks."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2SP01-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Opposite sides are across from each other and do not share a corner.",
       "hint": "Point to one side, then look directly across the shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2SP01-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "A rectangle has 4 straight sides and 4 corners.",
       "hint": "Count the sides instead of using the shape's size or position."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2SP01-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Both a square and a rectangle have 4 straight sides.",
       "hint": "Choose one feature and check it on both shapes."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2SP01-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "A circle has a curved boundary, unlike polygons with straight sides.",
       "hint": "Use a visible feature, not colour, size or direction."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2SP01-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "A rectangle has 4 straight sides.",
       "hint": "Trace the boundary and count each straight side once."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "A circle has one curved boundary and no straight sides.",
       "hint": "Trace around each shape and feel for straight edges."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Turning a shape does not change its sides or corners, so it is still a rectangle.",
       "hint": "Count the features instead of judging the direction it points."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Parallel lines remain the same distance apart and do not meet.",
       "hint": "Think of straight train tracks."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Opposite sides are across from each other and do not share a corner.",
       "hint": "Point to one side, then look directly across the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A rectangle has 4 straight sides and 4 corners.",
       "hint": "Count the sides instead of using the shape's size or position."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Both a square and a rectangle have 4 straight sides.",
       "hint": "Choose one feature and check it on both shapes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "A circle has a curved boundary, unlike polygons with straight sides.",
       "hint": "Use a visible feature, not colour, size or direction."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A hexagon has 6 straight sides.",
       "hint": "Trace the boundary and count each straight side once."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A circle has one curved boundary and no straight sides.",
       "hint": "Trace around each shape and feel for straight edges."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Turning a shape does not change its sides or corners, so it is still a hexagon.",
       "hint": "Count the features instead of judging the direction it points."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Parallel lines remain the same distance apart and do not meet.",
       "hint": "Think of straight train tracks."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Opposite sides are across from each other and do not share a corner.",
       "hint": "Point to one side, then look directly across the shape."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A rectangle has 4 straight sides and 4 corners.",
       "hint": "Count the sides instead of using the shape's size or position."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Both a square and a rectangle have 4 straight sides.",
       "hint": "Choose one feature and check it on both shapes."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A circle has a curved boundary, unlike polygons with straight sides.",
       "hint": "Use a visible feature, not colour, size or direction."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2SP01-T-001",

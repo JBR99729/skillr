@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Night This matches the task.",
       "hint": "Rhyme usually matches the ending sound."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Rhyme usually matches the ending sound.",
       "hint": "Rhyme usually matches the ending sound."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Go phrase ↔ repetition; cat/hat ↔ rhyme; claps ↔ rhythm This matches the task.",
       "hint": "Clap or tap the beat first."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.",
       "hint": "Clap or tap the beat first."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Maintains a steady beat and repeats the full line accurately This matches the task.",
       "hint": "Listen for words or lines that come back."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA04-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for rhythm and check the whole example.",
       "hint": "Listen for words or lines that come back."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA04-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "bog This matches the task.",
       "hint": "Rhyme usually matches the ending sound."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Check that you can perform pattern.",
       "hint": "Rhyme usually matches the ending sound."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA04-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Stomp-clap-clap repeated twice This matches the task.",
       "hint": "Clap or tap the beat first."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing a repeated rhythmic unit.",
       "hint": "Clap or tap the beat first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Shows a plausible steady four-beat grouping aligned to the spoken line This matches the task.",
       "hint": "Listen for words or lines that come back."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Listen for words or lines that come back.",
       "hint": "Listen for words or lines that come back."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "It creates a repeated anchor/refrain that links verses and helps listeners remember the idea This matches the task.",
       "hint": "Rhyme usually matches the ending sound."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.",
       "hint": "Rhyme usually matches the ending sound."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Contains clear repetition, a defensible end rhyme and connected meaning This matches the task.",
       "hint": "Clap or tap the beat first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for rhythm and check the whole example.",
       "hint": "Clap or tap the beat first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Yes; both end with the /ay/ sound This matches the task.",
       "hint": "Listen for words or lines that come back."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can perform pattern.",
       "hint": "Listen for words or lines that come back."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each example matches its sound device This matches the task.",
       "hint": "Rhyme usually matches the ending sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Classifying sound patterns in short texts.",
       "hint": "Rhyme usually matches the ending sound."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Ding-dong-dong / ding-dong-dong This matches the task.",
       "hint": "Clap or tap the beat first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Clap or tap the beat first.",
       "hint": "Clap or tap the beat first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "house This matches the task.",
       "hint": "Listen for words or lines that come back."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.",
       "hint": "Listen for words or lines that come back."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA04-T-001",

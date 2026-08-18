@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "experimenting with and editing text structures and language features; for example, paragraph order and content, and language choices to refine and clarify ideas",
       "hint": "A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly06-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "selecting vocabulary to position and persuade the reader; for example, adjusting language to show or acknowledge power",
       "hint": "A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly06-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate",
       "hint": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly06-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text",
       "hint": "A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly06-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "experimenting with and editing text structures and language features; for example, paragraph order and content, and language choices to refine and clarify ideas",
       "hint": "A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly06-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "selecting vocabulary to position and persuade the reader; for example, adjusting language to show or acknowledge power",
       "hint": "A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly06-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate",
       "hint": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly06-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text",
       "hint": "A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly06-t-001",

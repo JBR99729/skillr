@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
       "hint": "Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples",
       "hint": "Use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "using relative frequencies from historical data to predict proportions and the likely number of outcomes in situations such as weather forecasting or the countries of origin of visitors to tourist attractions",
       "hint": "Use relative frequencies from historical data to predict proportions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating the effect that adding or removing data from a data set has on measures of central tendency and spread",
       "hint": "Explore the effect that adding or removing data from a data set has on measures of central tendency and spread."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species",
       "hint": "Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "exploring how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems",
       "hint": "Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
       "hint": "Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples",
       "hint": "Use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8st03-t-001",

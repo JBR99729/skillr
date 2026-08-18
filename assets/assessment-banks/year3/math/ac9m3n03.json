@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "236+47=283.",
       "hint": "Partition 47 into tens and ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "236−47=189.",
       "hint": "Subtract tens, then ones, regrouping if needed."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Splitting 47 into tens and ones preserves its value.",
       "hint": "Check that the parts recombine to 47."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Addition reverses subtraction, so 189+47=236.",
       "hint": "Use the answer and the amount subtracted."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
       "hint": "Round each number before adding."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N03-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "99 is 1 less than 100, so compensate after adding 100.",
       "hint": "Use the friendly number 100."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N03-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Receiving more books means add: 236+47=283.",
       "hint": "Decide whether the amount grows or decreases."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N03-P-008",
@@ -269,7 +290,9 @@
     "explanation": {
       "summary": "236−47 must be less than 236; the correct result is 189.",
       "hint": "Compare the result with the starting number."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "307+60=367.",
       "hint": "Partition 60 into tens and ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N03-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "307−60=247.",
       "hint": "Subtract tens, then ones, regrouping if needed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Splitting 60 into tens and ones preserves its value.",
       "hint": "Check that the parts recombine to 60."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Addition reverses subtraction, so 247+60=307.",
       "hint": "Use the answer and the amount subtracted."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
       "hint": "Round each number before adding."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "99 is 1 less than 100, so compensate after adding 100.",
       "hint": "Use the friendly number 100."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Receiving more books means add: 307+60=367.",
       "hint": "Decide whether the amount grows or decreases."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "307−60 must be less than 307; the correct result is 247.",
       "hint": "Compare the result with the starting number."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "378+73=451.",
       "hint": "Partition 73 into tens and ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "378−73=305.",
       "hint": "Subtract tens, then ones, regrouping if needed."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Splitting 73 into tens and ones preserves its value.",
       "hint": "Check that the parts recombine to 73."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Addition reverses subtraction, so 305+73=378.",
       "hint": "Use the answer and the amount subtracted."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Rounding both numbers to nearby tens gives a sensible estimate.",
       "hint": "Round each number before adding."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "99 is 1 less than 100, so compensate after adding 100.",
       "hint": "Use the friendly number 100."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Receiving more books means add: 378+73=451.",
       "hint": "Decide whether the amount grows or decreases."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "378−73 must be less than 378; the correct result is 305.",
       "hint": "Compare the result with the starting number."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N03-T-001",

@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "identifying the structure of ideas in a range of texts",
       "hint": "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly04-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness",
       "hint": "A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly04-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "exploring texts that attempt to solve problems in a particular way; for example, organising information by considering strengths as well as problems that arise from an approach",
       "hint": "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly04-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "analysing how the organisation of a webpage shapes its meaning",
       "hint": "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly04-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "identifying the structure of ideas in a range of texts",
       "hint": "A writer or speaker can use purpose to shape identifying the structure of ideas in a range of texts and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly04-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness",
       "hint": "A writer or speaker can use structure to shape examining texts that structure ideas according to proposition and support, cause and effect, and compare and contrast, and determine their effectiveness and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly04-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "exploring texts that attempt to solve problems in a particular way; for example, organising information by considering strengths as well as problems that arise from an approach",
       "hint": "A writer or speaker can use evidence to shape exploring texts that attempt to solve problems in a particular way and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly04-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "analysing how the organisation of a webpage shapes its meaning",
       "hint": "A writer or speaker can use audience to shape analysing how the organisation of a webpage shapes its meaning and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly04-t-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Acceleration increased by about 0.5 m/s² per newton under the controlled conditions",
       "hint": "Investigate and document."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "The 2.30 result may reflect error or real variation. Investigate method and instrument before excluding it; report any decision.",
       "hint": "Quantify rate or difference where possible."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Use measures and graph features rather than vague language. Association does not by itself prove mechanism or causation.",
       "hint": "Clean first."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Analysis transforms observations into defensible patterns by using transparent calculations, comparisons, uncertainty and attention to anomalous values.",
       "hint": "State scope."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i05-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Acceleration increased by about 0.5 m/s² per newton under the controlled conditions",
       "hint": "Investigate and document."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i05-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "The 2.30 result may reflect error or real variation. Investigate method and instrument before excluding it; report any decision.",
       "hint": "Quantify rate or difference where possible."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i05-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Use measures and graph features rather than vague language. Association does not by itself prove mechanism or causation.",
       "hint": "Clean first."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i05-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Analysis transforms observations into defensible patterns by using transparent calculations, comparisons, uncertainty and attention to anomalous values.",
       "hint": "State scope."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i05-t-001",

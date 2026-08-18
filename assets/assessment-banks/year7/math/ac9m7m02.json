@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
       "hint": "Find triangular area first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
       "hint": "Use cubic units."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
       "hint": "Label each perpendicular dimension."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
       "hint": "Use 1 cm³=1 mL and 1 000 cm³=1 L."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m02-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
       "hint": "Find triangular area first."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m02-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
       "hint": "Use cubic units."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m02-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
       "hint": "Label each perpendicular dimension."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m02-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
       "hint": "Use 1 cm³=1 mL and 1 000 cm³=1 L."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m02-t-001",

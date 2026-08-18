@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE05-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE05-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE05-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE05-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-017",
@@ -575,7 +614,10 @@
     "explanation": {
       "summary": "Introduce the situation, create a problem, attempt a solution, show the result This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LE05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A goal and a fear that affect choices This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Salt wind rattled the lighthouse windows This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The only map blows into the river This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Reuse a structure but create new characters, events and language This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Show how the character's final choice resolves or changes the problem This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "To reveal speech, relationships or character reactions This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Add precise setting clues and make the character's decision matter This choice best fits the language, text or literacy evidence.",
       "hint": "Use the story details and reader effect before choosing."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LE05-T-001",

@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "presenting a structured argument by providing a statement of the major arguments or concerns relating to an issue, previewing the structure of arguments, structuring the text to provide a major point for each paragraph with succinct elaboration, and concluding with a summary of the main issues or recommendations in an argument",
       "hint": "A writer or speaker can use purpose to shape presenting a structured argument by providing a statement of the major arguments or concerns relating to an issue, previewing the structure of arguments, structuring the text to provide a major point for each paragraph with succinct elaboration, and concluding with a summary of the main issues or recommendations in an argument and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly06-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "creating written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied",
       "hint": "A writer or speaker can use structure to shape creating written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly06-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "designing a webpage that combines navigation, text, sound, and moving and still images for a specific audience",
       "hint": "A writer or speaker can use evidence to shape designing a webpage that combines navigation, text, sound, and moving and still images for a specific audience and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly06-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "reviewing, editing and refining their own and others’ texts for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences through control and organisation of content, sentence structures, vocabulary choices and visual features",
       "hint": "A writer or speaker can use audience to shape reviewing, editing and refining their own and others’ texts for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences through control and organisation of content, sentence structures, vocabulary choices and visual features and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly06-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "reflecting on the effect of choices made in a written or multimodal text and how these choices may be changed or developed in future texts",
       "hint": "A writer or speaker can use purpose to shape reflecting on the effect of choices made in a written or multimodal text and how these choices may be changed or developed in future texts and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly06-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "presenting a structured argument by providing a statement of the major arguments or concerns relating to an issue, previewing the structure of arguments, structuring the text to provide a major point for each paragraph with succinct elaboration, and concluding with a summary of the main issues or recommendations in an argument",
       "hint": "A writer or speaker can use purpose to shape presenting a structured argument by providing a statement of the major arguments or concerns relating to an issue, previewing the structure of arguments, structuring the text to provide a major point for each paragraph with succinct elaboration, and concluding with a summary of the main issues or recommendations in an argument and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly06-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "creating written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied",
       "hint": "A writer or speaker can use structure to shape creating written and multimodal texts that compel readers to empathise with the ideas and emotions expressed or implied and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly06-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "designing a webpage that combines navigation, text, sound, and moving and still images for a specific audience",
       "hint": "A writer or speaker can use evidence to shape designing a webpage that combines navigation, text, sound, and moving and still images for a specific audience and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly06-t-001",

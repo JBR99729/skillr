@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Use a scatter plot for paired numerical variables and retain the original data table",
       "hint": "Match variables and purpose."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Graphs need titles, variables, units, consistent scales and transparent processing. Models need stated assumptions and limitations.",
       "hint": "Readers cannot interpret magnitude."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "A graph can reveal association; a model proposes or illustrates explanation. Do not let a smooth line hide sparse or variable data.",
       "hint": "Retain traceability."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A representation is appropriate when it preserves relevant evidence, uses correct conventions and makes the question's relationship easier to inspect.",
       "hint": "State simplifications."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i04-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Use a scatter plot for paired numerical variables and retain the original data table",
       "hint": "Match variables and purpose."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i04-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Graphs need titles, variables, units, consistent scales and transparent processing. Models need stated assumptions and limitations.",
       "hint": "Readers cannot interpret magnitude."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i04-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "A graph can reveal association; a model proposes or illustrates explanation. Do not let a smooth line hide sparse or variable data.",
       "hint": "Retain traceability."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i04-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A representation is appropriate when it preserves relevant evidence, uses correct conventions and makes the question's relationship easier to inspect.",
       "hint": "State simplifications."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i04-t-001",

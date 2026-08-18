@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The new character, object and setting adapt the familiar quest structure.",
       "hint": "Keep a recognisable structure but create meaningful new content."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Keep a recognisable structure but create meaningful new content. The new character, object and setting adapt the familiar quest structure.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The three-visit pattern remains while characters and places become new.",
       "hint": "Identify what can stay as a pattern and what can change."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Identify what can stay as a pattern and what can change. The three-visit pattern remains while characters and places become new.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE05-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "The solution needs to happen before the character celebrates it.",
       "hint": "Check whether events happen in a logical order."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE05-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Check whether events happen in a logical order. The solution needs to happen before the character celebrates it.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE05-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "The new line uses an adjective-noun pattern and rhyme without copying the content.",
       "hint": "Reuse the kind of language pattern, not the exact line."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE05-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Reuse the kind of language pattern, not the exact line. The new line uses an adjective-noun pattern and rhyme without copying the content.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE05-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Dialogue should fit the character or show a believable reason for change.",
       "hint": "Check whether the language matches the character built in the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Check whether the language matches the character built in the text. Dialogue should fit the character or show a believable reason for change.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Coral buildings and swimming figures visually establish the new underwater setting.",
       "hint": "Add several image details that make the changed setting clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Add several image details that make the changed setting clear. Coral buildings and swimming figures visually establish the new underwater setting.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "A slow creak adds suspense and matches the door-opening event.",
       "hint": "Choose a sound whose mood and timing strengthen the moment."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Choose a sound whose mood and timing strengthen the moment. A slow creak adds suspense and matches the door-opening event.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "A new narrator changes how familiar events are understood.",
       "hint": "Think about who tells the story and what they might notice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Think about who tells the story and what they might notice. A new narrator changes how familiar events are understood.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Repeating names at confusing points makes references clear.",
       "hint": "A reader should know which character performs each action."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "A reader should know which character performs each action. Repeating names at confusing points makes references clear.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The problem stays recognisable, but the character solves it in a new way.",
       "hint": "Change how the problem is resolved, not just a surface detail."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Change how the problem is resolved, not just a surface detail. The problem stays recognisable, but the character solves it in a new way.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A clear entrance and delivery cues make the event understandable in performance.",
       "hint": "Edit what the audience sees and hears at the moment of entry."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Edit what the audience sees and hears at the moment of entry. A clear entrance and delivery cues make the event understandable in performance.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The visual setting should support the written midnight detail.",
       "hint": "Check that words, images and sounds tell the same story."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Check that words, images and sounds tell the same story. The visual setting should support the written midnight detail.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE05-T-001",

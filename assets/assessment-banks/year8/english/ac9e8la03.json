@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
       "hint": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la03-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
       "hint": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la03-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
       "hint": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la03-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
       "hint": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la03-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
       "hint": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la03-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose",
       "hint": "A writer or speaker can use relationship to shape explaining the structure and language features of texts such as narratives, literary recounts, memoirs, drama scripts, types of poems, formal speeches, comparisons and creative responses, discussions and debates, and explaining how these structures and language features support their purpose and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la03-p-007",
@@ -256,7 +274,9 @@
     "explanation": {
       "summary": "recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose",
       "hint": "A writer or speaker can use word choice to shape recognising how texts such as critical responses to texts, expositions, text interpretations and discussions are typically structured to achieve their purpose and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e8la03-p-008",
@@ -293,7 +313,9 @@
     "explanation": {
       "summary": "discussing how the placement of images and written text in a linear or non-linear way, such as online texts, is used differently in a variety of texts for a purpose",
       "hint": "A writer or speaker can use audience to shape discussing how the placement of images and written text in a linear or non-linear way and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e8la03-t-001",

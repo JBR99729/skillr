@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Learning a new skill, practising, falling safely or receiving help; connection relates to the event This matches the task.",
       "hint": "Add your thought, feeling or connection."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Add your thought, feeling or connection.",
       "hint": "Add your thought, feeling or connection."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Each story event matches its relevant experience category This matches the task.",
       "hint": "Name the part of the text that made the connection."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
       "hint": "Name the part of the text that made the connection."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Names feeling, gives appropriate connection and explains the link This matches the task.",
       "hint": "Listen first, then respond."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE02-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for thought and check the whole example.",
       "hint": "Listen first, then respond."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE02-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "A coherent event and reason connected to rain/indoor activity or feeling This matches the task.",
       "hint": "Add your thought, feeling or connection."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE02-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Check that you can use text evidence.",
       "hint": "Add your thought, feeling or connection."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE02-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Text event → experience → compare → insight about character This matches the task.",
       "hint": "Name the part of the text that made the connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing an evidence-connected literary response.",
       "hint": "Name the part of the text that made the connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Both panels are clear and one meaningful similarity is labelled This matches the task.",
       "hint": "Listen first, then respond."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Listen first, then respond.",
       "hint": "Listen first, then respond."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Connect to sharing, hunger, friendship or a comparable choice and explain how it helps understand the story This matches the task.",
       "hint": "Add your thought, feeling or connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
       "hint": "Add your thought, feeling or connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Experiences and feelings differ; each response is useful if connected to text evidence and shared respectfully This matches the task.",
       "hint": "Name the part of the text that made the connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for thought and check the whole example.",
       "hint": "Name the part of the text that made the connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "It can explain effort, nerves, improvement or pride, linked to repeated practice This matches the task.",
       "hint": "Listen first, then respond."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can use text evidence.",
       "hint": "Listen first, then respond."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Both ↔ similarity; Unlike ↔ difference; helps understand ↔ insight This matches the task.",
       "hint": "Add your thought, feeling or connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Using comparative language in literary discussion.",
       "hint": "Add your thought, feeling or connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Listen → refer/acknowledge → note difference respectfully → add idea This matches the task.",
       "hint": "Name the part of the text that made the connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Name the part of the text that made the connection.",
       "hint": "Name the part of the text that made the connection."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "May notice the character's feelings/need for inclusion and interpret actions with empathy This matches the task.",
       "hint": "Listen first, then respond."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
       "hint": "Listen first, then respond."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE02-T-001",

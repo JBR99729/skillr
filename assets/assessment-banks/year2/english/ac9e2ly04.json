@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A brief pause after the opening time phrase keeps the rest of the idea together.",
       "hint": "Keep words together when they tell who acted and what they did."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Keep words together when they tell who acted and what they did. A brief pause after the opening time phrase keeps the rest of the idea together.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "A comma often guides a brief pause between meaningful parts.",
       "hint": "Use punctuation to shape phrasing without breaking the meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use punctuation to shape phrasing without breaking the meaning. A comma often guides a brief pause between meaningful parts.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Rereading and checking print plus meaning helps repair the misread word.",
       "hint": "A correction must fit both the letters and the sentence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY04-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "A correction must fit both the letters and the sentence. Rereading and checking print plus meaning helps repair the misread word.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "The letters oa and the sentence meaning work together to confirm boat.",
       "hint": "Check the whole grapheme pattern as well as meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY04-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Check the whole grapheme pattern as well as meaning. The letters oa and the sentence meaning work together to confirm boat.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY04-P-009",
@@ -303,7 +326,9 @@
     "explanation": {
       "summary": "Fluent reading combines accurate words, meaningful phrasing and understanding.",
       "hint": "Fast reading is not useful when words or meaning are lost."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Fast reading is not useful when words or meaning are lost. Fluent reading combines accurate words, meaningful phrasing and understanding.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-011",
@@ -371,7 +398,10 @@
     "explanation": {
       "summary": "An urgent tone and emphasis communicate the character's call.",
       "hint": "Let the words and punctuation guide the voice."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Let the words and punctuation guide the voice. An urgent tone and emphasis communicate the character's call.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Returning to the print and repairing the error shows self-correction.",
       "hint": "Strong readers respond when what they say does not make sense."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Strong readers respond when what they say does not make sense. Returning to the print and repairing the error shows self-correction.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The full stop marks the end of one complete idea before the next begins.",
       "hint": "Let sentence-ending punctuation guide a natural pause."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Let sentence-ending punctuation guide a natural pause. The full stop marks the end of one complete idea before the next begins.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Recognising the base and suffix reduces the longer word into useful parts.",
       "hint": "Look for a familiar word inside the longer form."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Look for a familiar word inside the longer form. Recognising the base and suffix reduces the longer word into useful parts.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The verb whispered guides a quiet but understandable delivery.",
       "hint": "Use the dialogue tag to choose tone and volume."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Use the dialogue tag to choose tone and volume. The verb whispered guides a quiet but understandable delivery.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The final letter plus sentence meaning distinguish trail from train.",
       "hint": "Use complete print information and context together."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Use complete print information and context together. The final letter plus sentence meaning distinguish trail from train.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Natural brief pauses help listeners hear the separate items.",
       "hint": "Use list punctuation to group rather than chop the sentence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use list punctuation to group rather than chop the sentence. Natural brief pauses help listeners hear the separate items.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY04-T-001",

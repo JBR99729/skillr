@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "The unit is 1 2 3.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "Each selected sequence contains a unit that repeats.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-003",
@@ -99,7 +103,10 @@
     "explanation": {
       "summary": "The unit ▲ ○ □ appears 3 times.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1A02-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "The selected sequence already shows a complete unit repeating.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-005",
@@ -167,7 +176,9 @@
     "explanation": {
       "summary": "Repeating patterns keep the same unit and order.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-006",
@@ -201,7 +212,9 @@
     "explanation": {
       "summary": "Both patterns repeat two items in the same order.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-007",
@@ -235,7 +248,10 @@
     "explanation": {
       "summary": "A repeating unit occurs again in the same order.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1A02-P-008",
@@ -269,7 +285,10 @@
     "explanation": {
       "summary": "□ should be ○.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1A02-P-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "Follow the repeating unit to find ▲.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-010",
@@ -337,7 +358,9 @@
     "explanation": {
       "summary": "After two full 🔴 🔵 🟡 units, the pattern starts again with 🔴.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-011",
@@ -371,7 +394,10 @@
     "explanation": {
       "summary": "The smallest complete part that repeats is clap, stamp.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1A02-P-012",
@@ -405,7 +431,10 @@
     "explanation": {
       "summary": "The unit is ● ● ○; the next item is the second ●.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1A02-P-013",
@@ -439,7 +468,10 @@
     "explanation": {
       "summary": "The repeating unit is ▲ ○.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1A02-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "The shortest complete part that repeats is 1 2 2.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-015",
@@ -507,7 +541,10 @@
     "explanation": {
       "summary": "A shorter unit, 1 2 2, repeats to make the sequence.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1A02-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "The repeating unit is 1 2 2.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "The unit is ▲ ○ □.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "The unit is A B C.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-019",
@@ -643,7 +686,10 @@
     "explanation": {
       "summary": "The selected sequence already shows a complete unit repeating.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1A02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "C should be B.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "3 should be 2.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Both patterns repeat two items in the same order.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Both patterns repeat two items in the same order.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "A repeating unit occurs again in the same order.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-025",
@@ -847,7 +903,9 @@
     "explanation": {
       "summary": "Both patterns repeat two items in the same order.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-026",
@@ -881,7 +939,9 @@
     "explanation": {
       "summary": "Repeating patterns keep the same unit and order.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-027",
@@ -915,7 +975,9 @@
     "explanation": {
       "summary": "Each selected sequence contains a unit that repeats.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-P-028",
@@ -949,7 +1011,9 @@
     "explanation": {
       "summary": "The smallest complete part that repeats is triangle, circle, square.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1A02-T-001",

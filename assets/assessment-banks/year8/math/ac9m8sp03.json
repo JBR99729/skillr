@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
       "hint": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
       "hint": "Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
       "hint": "Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system",
       "hint": "Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)",
       "hint": "Interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities",
       "hint": "Explore position and transformation through geospatial technologies used by First Nations Australians’ communities."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
       "hint": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
       "hint": "Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp03-t-001",

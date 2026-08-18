@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "11 is 1 group of ten and 1 one.",
       "hint": "Count the tens first, then count the ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "20+7=27.",
       "hint": "The tens digit tells how many tens. The ones digit tells how many ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N02-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "The tens and ones combine to make 30.",
       "hint": "Count the tens rods and ones dots, then write the numeral."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "47 needs 4 tens and 7 ones.",
       "hint": "Match the tens digit to the number of tens and the ones digit to the number of ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N02-P-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "One ten becomes 10 ones, so 3 tens and 18 ones still total 48.",
       "hint": "Trade one ten for 10 ones. The total must stay unchanged."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "10+15=25.",
       "hint": "Work out the value of the tens, then add all the ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-007",
@@ -235,7 +250,10 @@
     "explanation": {
       "summary": "The first three all recombine to 26; the last is one too many.",
       "hint": "Check each partition by adding its tens and ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N02-P-008",
@@ -269,7 +287,10 @@
     "explanation": {
       "summary": "Both partitions total 46.",
       "hint": "One ten has the same value as 10 ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N02-P-009",
@@ -303,7 +324,9 @@
     "explanation": {
       "summary": "7 and 3 make 10.",
       "hint": "Count on from the first part until you reach 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-010",
@@ -337,7 +360,9 @@
     "explanation": {
       "summary": "The tens part is 40; 1 more ones make 41.",
       "hint": "Ask what must be added to the tens number to make the whole."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-011",
@@ -371,7 +396,9 @@
     "explanation": {
       "summary": "The whole is 6+9=15.",
       "hint": "Add the two parts to find the whole."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-012",
@@ -405,7 +432,9 @@
     "explanation": {
       "summary": "50+12=62.",
       "hint": "Find the value of the tens and ones before checking the claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-013",
@@ -439,7 +468,10 @@
     "explanation": {
       "summary": "Begin with the standard partition, exchange one ten, then check the total.",
       "hint": "Start with the standard partition, exchange one ten, then check the total."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N02-P-014",
@@ -473,7 +505,10 @@
     "explanation": {
       "summary": "20+10=30, so it is not equal to 31.",
       "hint": "Calculate each option. Look for the one with a different total."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N02-P-015",
@@ -507,7 +542,10 @@
     "explanation": {
       "summary": "70 is made of 7 full tens and no extra ones.",
       "hint": "A number ending in zero has zero ones in its standard partition."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Exchanging changes the representation, not the total.",
       "hint": "An exchange changes the parts, not the whole."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "4 tens are 40; with 1 one the numeral is 41.",
       "hint": "Read the tens rods first. Do not reverse the two digits."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Exchanging one ten gives 5 tens and 19 ones.",
       "hint": "Take away one ten and add 10 ones to make an equivalent model."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "88 is 8 groups of ten and 8 ones.",
       "hint": "Count the tens first, then count the ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "60+4=64.",
       "hint": "The tens digit tells how many tens. The ones digit tells how many ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The tens and ones combine to make 37.",
       "hint": "Count the tens rods and ones dots, then write the numeral."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "18 needs 1 ten and 8 ones.",
       "hint": "Match the tens digit to the number of tens and the ones digit to the number of ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "One ten becomes 10 ones, so 2 tens and 15 ones still total 35.",
       "hint": "Trade one ten for 10 ones. The total must stay unchanged."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "50+10=60.",
       "hint": "Work out the value of the tens, then add all the ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-025",
@@ -847,7 +903,9 @@
     "explanation": {
       "summary": "The first three all recombine to 45; the last is one too many.",
       "hint": "Check each partition by adding its tens and ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-026",
@@ -881,7 +939,9 @@
     "explanation": {
       "summary": "Both partitions total 80.",
       "hint": "One ten has the same value as 10 ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-027",
@@ -915,7 +975,9 @@
     "explanation": {
       "summary": "8 and 2 make 10.",
       "hint": "Count on from the first part until you reach 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-028",
@@ -949,7 +1011,9 @@
     "explanation": {
       "summary": "The tens part is 20; 2 more ones make 22.",
       "hint": "Ask what must be added to the tens number to make the whole."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-029",
@@ -983,7 +1047,9 @@
     "explanation": {
       "summary": "The whole is 34+38=72.",
       "hint": "Add the two parts to find the whole."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-030",
@@ -1017,7 +1083,9 @@
     "explanation": {
       "summary": "30+15=45.",
       "hint": "Find the value of the tens and ones before checking the claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-031",
@@ -1051,7 +1119,9 @@
     "explanation": {
       "summary": "Begin with the standard partition, exchange one ten, then check the total.",
       "hint": "Start with the standard partition, exchange one ten, then check the total."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-032",
@@ -1085,7 +1155,9 @@
     "explanation": {
       "summary": "40+17=57, so it is not equal to 58.",
       "hint": "Calculate each option. Look for the one with a different total."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-033",
@@ -1119,7 +1191,9 @@
     "explanation": {
       "summary": "20 is made of 2 full tens and no extra ones.",
       "hint": "A number ending in zero has zero ones in its standard partition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-034",
@@ -1153,7 +1227,9 @@
     "explanation": {
       "summary": "Exchanging changes the representation, not the total.",
       "hint": "An exchange changes the parts, not the whole."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-035",
@@ -1187,7 +1263,9 @@
     "explanation": {
       "summary": "2 tens are 20; with 8 ones the numeral is 28.",
       "hint": "Read the tens rods first. Do not reverse the two digits."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-036",
@@ -1221,7 +1299,9 @@
     "explanation": {
       "summary": "Exchanging one ten gives 6 tens and 16 ones.",
       "hint": "Take away one ten and add 10 ones to make an equivalent model."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-037",
@@ -1255,7 +1335,9 @@
     "explanation": {
       "summary": "86 is 8 groups of ten and 6 ones.",
       "hint": "Count the tens first, then count the ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-038",
@@ -1289,7 +1371,9 @@
     "explanation": {
       "summary": "10+1=11.",
       "hint": "The tens digit tells how many tens. The ones digit tells how many ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-039",
@@ -1323,7 +1407,9 @@
     "explanation": {
       "summary": "The tens and ones combine to make 44.",
       "hint": "Count the tens rods and ones dots, then write the numeral."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-040",
@@ -1357,7 +1443,9 @@
     "explanation": {
       "summary": "65 needs 6 tens and 5 ones.",
       "hint": "Match the tens digit to the number of tens and the ones digit to the number of ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-041",
@@ -1391,7 +1479,9 @@
     "explanation": {
       "summary": "One ten becomes 10 ones, so 1 ten and 12 ones still total 22.",
       "hint": "Trade one ten for 10 ones. The total must stay unchanged."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-042",
@@ -1425,7 +1515,9 @@
     "explanation": {
       "summary": "40+15=55.",
       "hint": "Work out the value of the tens, then add all the ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-043",
@@ -1459,7 +1551,9 @@
     "explanation": {
       "summary": "The first three all recombine to 64; the last is one too many.",
       "hint": "Check each partition by adding its tens and ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-044",
@@ -1493,7 +1587,9 @@
     "explanation": {
       "summary": "Both partitions total 47.",
       "hint": "One ten has the same value as 10 ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-045",
@@ -1527,7 +1623,9 @@
     "explanation": {
       "summary": "9 and 1 make 10.",
       "hint": "Count on from the first part until you reach 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-046",
@@ -1561,7 +1659,9 @@
     "explanation": {
       "summary": "The tens part is 70; 3 more ones make 73.",
       "hint": "Ask what must be added to the tens number to make the whole."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-047",
@@ -1595,7 +1695,9 @@
     "explanation": {
       "summary": "The whole is 53+6=59.",
       "hint": "Add the two parts to find the whole."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-048",
@@ -1629,7 +1731,9 @@
     "explanation": {
       "summary": "10+18=28.",
       "hint": "Find the value of the tens and ones before checking the claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-049",
@@ -1663,7 +1767,9 @@
     "explanation": {
       "summary": "Begin with the standard partition, exchange one ten, then check the total.",
       "hint": "Start with the standard partition, exchange one ten, then check the total."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-050",
@@ -1697,7 +1803,9 @@
     "explanation": {
       "summary": "70+14=84, so it is not equal to 85.",
       "hint": "Calculate each option. Look for the one with a different total."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-051",
@@ -1731,7 +1839,9 @@
     "explanation": {
       "summary": "50 is made of 5 full tens and no extra ones.",
       "hint": "A number ending in zero has zero ones in its standard partition."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-052",
@@ -1765,7 +1875,9 @@
     "explanation": {
       "summary": "Exchanging changes the representation, not the total.",
       "hint": "An exchange changes the parts, not the whole."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-053",
@@ -1799,7 +1911,9 @@
     "explanation": {
       "summary": "7 tens are 70; with 7 ones the numeral is 77.",
       "hint": "Read the tens rods first. Do not reverse the two digits."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-054",
@@ -1833,7 +1947,9 @@
     "explanation": {
       "summary": "Exchanging one ten gives 7 tens and 13 ones.",
       "hint": "Take away one ten and add 10 ones to make an equivalent model."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-055",
@@ -1867,7 +1983,9 @@
     "explanation": {
       "summary": "84 is 8 groups of ten and 4 ones.",
       "hint": "Count the tens first, then count the ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-P-056",
@@ -1901,7 +2019,9 @@
     "explanation": {
       "summary": "40+8=48.",
       "hint": "The tens digit tells how many tens. The ones digit tells how many ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N02-T-001",

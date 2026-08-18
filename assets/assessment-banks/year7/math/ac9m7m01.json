@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "For b=12 cm and h=7 cm, triangle area=42 cm²",
       "hint": "Locate or construct the perpendicular distance."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
       "hint": "Two congruent triangles form a parallelogram."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
       "hint": "Convert first."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
       "hint": "Identify whether boundary or surface is required."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m01-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "For b=12 cm and h=7 cm, triangle area=42 cm²",
       "hint": "Locate or construct the perpendicular distance."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m01-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
       "hint": "Two congruent triangles form a parallelogram."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m01-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
       "hint": "Convert first."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7m01-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
       "hint": "Identify whether boundary or surface is required."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7m01-t-001",

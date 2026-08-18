@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "'because it is sweet' This matches the task.",
       "hint": "Add because and a real reason."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "Add because and a real reason.",
       "hint": "Add because and a real reason."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-003",
@@ -99,7 +103,9 @@
     "explanation": {
       "summary": "Each preference matches its relevant reason This matches the task.",
       "hint": "Use like, dislike, prefer and reason language."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-004",
@@ -133,7 +139,9 @@
     "explanation": {
       "summary": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
       "hint": "Use like, dislike, prefer and reason language."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-005",
@@ -167,7 +175,10 @@
     "explanation": {
       "summary": "States one choice and a relevant reason in a complete sentence This matches the task.",
       "hint": "Check the reason explains the choice."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA02-P-006",
@@ -201,7 +212,10 @@
     "explanation": {
       "summary": "Look for prefer and check the whole example.",
       "hint": "Check the reason explains the choice."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA02-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "'I prefer apples because they are crisp and easy to pack' This matches the task.",
       "hint": "Add because and a real reason."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-008",
@@ -269,7 +285,9 @@
     "explanation": {
       "summary": "Check that you can listen to others.",
       "hint": "Add because and a real reason."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-009",
@@ -303,7 +321,9 @@
     "explanation": {
       "summary": "Name choice → add because → give reason → optional comparison This matches the task.",
       "hint": "Use like, dislike, prefer and reason language."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-010",
@@ -337,7 +357,9 @@
     "explanation": {
       "summary": "Sequencing a preference-and-reason structure.",
       "hint": "Use like, dislike, prefer and reason language."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-011",
@@ -371,7 +393,10 @@
     "explanation": {
       "summary": "Picture shows both options and sentence chooses shade for a relevant heat/sun reason This matches the task.",
       "hint": "Check the reason explains the choice."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA02-P-012",
@@ -405,7 +430,10 @@
     "explanation": {
       "summary": "Check the reason explains the choice.",
       "hint": "Check the reason explains the choice."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA02-P-013",
@@ -439,7 +467,10 @@
     "explanation": {
       "summary": "Two pockets is a checkable fact; liking it best is a personal preference This matches the task.",
       "hint": "Add because and a real reason."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA02-P-014",
@@ -473,7 +504,10 @@
     "explanation": {
       "summary": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
       "hint": "Add because and a real reason."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA02-P-015",
@@ -507,7 +541,10 @@
     "explanation": {
       "summary": "Uses respectful wording, names an alternative and gives a connected reason This matches the task.",
       "hint": "Use like, dislike, prefer and reason language."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA02-P-016",
@@ -541,7 +578,10 @@
     "explanation": {
       "summary": "Look for prefer and check the whole example.",
       "hint": "Use like, dislike, prefer and reason language."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "'because it holds more water for the long walk' This matches the task.",
       "hint": "Check the reason explains the choice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can listen to others.",
       "hint": "Check the reason explains the choice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each option matches its relevant practical reason This matches the task.",
       "hint": "Add because and a real reason."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Selecting reasons that support choices.",
       "hint": "Add because and a real reason."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Ana preference → Ben listens → Ben reasoned preference → Ana acknowledges This matches the task.",
       "hint": "Use like, dislike, prefer and reason language."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Use like, dislike, prefer and reason language.",
       "hint": "Use like, dislike, prefer and reason language."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Second; it names a specific feature and response rather than using vague praise This matches the task.",
       "hint": "Check the reason explains the choice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: State preference → Give reason → Use evidence → Listen/respond.",
       "hint": "Check the reason explains the choice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA02-T-001",

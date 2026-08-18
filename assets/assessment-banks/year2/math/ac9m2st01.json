@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The question asks every person for one category about favourite fruit.",
       "hint": "Choose a question whose answers can be sorted into named groups."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2ST01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The answers belong to named groups, so they are categories.",
       "hint": "Ask whether the answers are names or measurements."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2ST01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Counting each response once keeps the category totals correct.",
       "hint": "Imagine what happens if one answer is marked twice."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2ST01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Each category is matched to its correct count.",
       "hint": "Read across one row at a time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2ST01-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "The bananas category has the largest count.",
       "hint": "Compare the heights or the count numbers."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2ST01-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
       "hint": "Avoid categories where one answer could fit more than one group."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2ST01-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Observation and tally marks record each bird that visits.",
       "hint": "Choose a method that directly watches the thing being counted."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2ST01-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Add the two category counts: 2 + 6 = 8.",
       "hint": "Altogether means combine both counts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2ST01-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "The question asks every person for one category about way to travel to school.",
       "hint": "Choose a question whose answers can be sorted into named groups."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The answers belong to named groups, so they are categories.",
       "hint": "Ask whether the answers are names or measurements."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Counting each response once keeps the category totals correct.",
       "hint": "Imagine what happens if one answer is marked twice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Each category is matched to its correct count.",
       "hint": "Read across one row at a time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The car category has the largest count.",
       "hint": "Compare the heights or the count numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
       "hint": "Avoid categories where one answer could fit more than one group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Observation and tally marks record each bird that visits.",
       "hint": "Choose a method that directly watches the thing being counted."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Add the two category counts: 3 + 7 = 10.",
       "hint": "Altogether means combine both counts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The question asks every person for one category about favourite playground game.",
       "hint": "Choose a question whose answers can be sorted into named groups."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The answers belong to named groups, so they are categories.",
       "hint": "Ask whether the answers are names or measurements."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Counting each response once keeps the category totals correct.",
       "hint": "Imagine what happens if one answer is marked twice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Each category is matched to its correct count.",
       "hint": "Read across one row at a time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The swings category has the largest count.",
       "hint": "Compare the heights or the count numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
       "hint": "Avoid categories where one answer could fit more than one group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Observation and tally marks record each bird that visits.",
       "hint": "Choose a method that directly watches the thing being counted."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Add the two category counts: 4 + 8 = 12.",
       "hint": "Altogether means combine both counts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2ST01-T-001",

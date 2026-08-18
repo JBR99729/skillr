@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "comparing the ratio of lengths of corresponding sides of similar triangles and angles",
       "hint": "Compare the ratio of lengths of corresponding sides of similar triangles and angles."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using the properties of similarity to solve problems involving enlargement",
       "hint": "Use the properties of similarity to solve problems involving enlargement."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume",
       "hint": "Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "comparing the ratio of lengths of corresponding sides of similar triangles and angles",
       "hint": "Compare the ratio of lengths of corresponding sides of similar triangles and angles."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "using the properties of similarity to solve problems involving enlargement",
       "hint": "Use the properties of similarity to solve problems involving enlargement."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers; for example, comparing an enlargement of a square and a cube of side length 2 units by a factor of 3 increases the area of the square, 2^2, to (3\\times2)^2 = 9\\times 2^2=9 times the original area and the volume of the cube, 2^3, to (3\\times2)^3=27\\times 2^3=27 times the volume",
       "hint": "Explore and generalising patterns in length, angle, area and volume when side lengths of shapes and objects are enlarged or dilated by whole and rational numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "comparing the ratio of lengths of corresponding sides of similar triangles and angles",
       "hint": "Compare the ratio of lengths of corresponding sides of similar triangles and angles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using the properties of similarity to solve problems involving enlargement",
       "hint": "Use the properties of similarity to solve problems involving enlargement."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp02-t-001",

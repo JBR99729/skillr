@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "Each addend is 10 times as large, so the sum is 130.",
       "hint": "Keep the basic fact and scale each value by 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "The related tens fact is 130−60=70.",
       "hint": "Use the same fact-family relationship in tens."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-003",
@@ -99,7 +103,10 @@
     "explanation": {
       "summary": "Use 8+7=15, then combine with 60.",
       "hint": "Work with the ones fact, then restore the tens."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A02-P-004",
@@ -133,7 +140,10 @@
     "explanation": {
       "summary": "Since 13−7=6, the tens stay and the ones become 6.",
       "hint": "Use the known subtraction fact in the ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A02-P-005",
@@ -167,7 +177,10 @@
     "explanation": {
       "summary": "Bridging to a multiple of 10 reduces the calculation to known facts.",
       "hint": "Ask how much 69 needs to reach 70."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A02-P-006",
@@ -201,7 +214,10 @@
     "explanation": {
       "summary": "6+7=13, so 6 hundreds + 7 hundreds = 13 hundreds.",
       "hint": "Treat hundreds as equal units."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A02-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "The digits follow the known fact, but the values are tens, giving 130.",
       "hint": "Name the unit being counted."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A02-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "Adding a positive one-digit number increases 68 beyond the next ten.",
       "hint": "Use nearby tens to judge reasonableness."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A02-P-009",
@@ -303,7 +325,9 @@
     "explanation": {
       "summary": "Each addend is 10 times as large, so the sum is 150.",
       "hint": "Keep the basic fact and scale each value by 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-010",
@@ -337,7 +361,9 @@
     "explanation": {
       "summary": "The related tens fact is 150−70=80.",
       "hint": "Use the same fact-family relationship in tens."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-011",
@@ -371,7 +397,10 @@
     "explanation": {
       "summary": "Use 8+8=16, then combine with 70.",
       "hint": "Work with the ones fact, then restore the tens."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A02-P-012",
@@ -405,7 +434,10 @@
     "explanation": {
       "summary": "Since 15−8=7, the tens stay and the ones become 7.",
       "hint": "Use the known subtraction fact in the ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3A02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Bridging to a multiple of 10 reduces the calculation to known facts.",
       "hint": "Ask how much 79 needs to reach 80."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "7+8=15, so 7 hundreds + 8 hundreds = 15 hundreds.",
       "hint": "Treat hundreds as equal units."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The digits follow the known fact, but the values are tens, giving 150.",
       "hint": "Name the unit being counted."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Adding a positive one-digit number increases 78 beyond the next ten.",
       "hint": "Use nearby tens to judge reasonableness."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Each addend is 10 times as large, so the sum is 170.",
       "hint": "Keep the basic fact and scale each value by 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The related tens fact is 170−80=90.",
       "hint": "Use the same fact-family relationship in tens."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Use 8+9=17, then combine with 80.",
       "hint": "Work with the ones fact, then restore the tens."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Since 17−9=8, the tens stay and the ones become 8.",
       "hint": "Use the known subtraction fact in the ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Bridging to a multiple of 10 reduces the calculation to known facts.",
       "hint": "Ask how much 89 needs to reach 90."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "8+9=17, so 8 hundreds + 9 hundreds = 17 hundreds.",
       "hint": "Treat hundreds as equal units."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The digits follow the known fact, but the values are tens, giving 170.",
       "hint": "Name the unit being counted."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Adding a positive one-digit number increases 88 beyond the next ten.",
       "hint": "Use nearby tens to judge reasonableness."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3A02-T-001",

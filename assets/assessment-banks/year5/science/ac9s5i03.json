@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "fine brown particles settled at the tray's lower end is a qualitative observation tied to location.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s5i03-p-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s5i03-p-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "the surface became dull and rough is a qualitative observation without an unsupported cause.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s5i03-p-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s5i03-p-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "45.0 s is a quantitative observation with value and unit.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s5i03-p-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s5i03-p-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "27.5 °C is a quantitative observation with value and unit.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s5i03-p-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s5i03-p-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "the balloon's circumference increased by 4 cm is a quantitative observation of change.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "32 mL is a quantitative observation with value and unit.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "45.0 s is a quantitative observation with value and unit.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "fine brown particles settled at the tray's lower end is a qualitative observation tied to location.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "the surface became dull and rough is a qualitative observation without an unsupported cause.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "32 mL is a quantitative observation with value and unit.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "27.5 °C is a quantitative observation with value and unit.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "the balloon's circumference increased by 4 cm is a quantitative observation of change.",
       "hint": "Record what was observed, with units and suitable precision where measured."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-p-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
       "hint": "Separate data integrity from later decisions about explaining an outlier."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s5i03-t-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
       "hint": "Dissolved substances may be invisible."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u06-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
       "hint": "Dissolved particles pass ordinary filter paper."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u06-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
       "hint": "Distillation collects the vaporised component after condensation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u06-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
       "hint": "Identify relevant property differences."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u06-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
       "hint": "Dissolved substances may be invisible."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u06-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
       "hint": "Dissolved particles pass ordinary filter paper."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u06-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
       "hint": "Distillation collects the vaporised component after condensation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u06-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
       "hint": "Identify relevant property differences."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u06-t-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The pattern adds 2 each time, so the next number is 9.",
       "hint": "Check the jump between each pair of numbers."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Every number increases by 2. The missing number is 5.",
       "hint": "Start at 3 and add 2."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A01-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "Each term is 2 more than the one before it.",
       "hint": "Work out one jump, then check the other jumps."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "The pattern takes away 2 each time, so 26 comes next.",
       "hint": "Check how much each number decreases."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A01-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Only 3, 5, 7 has the same +2 jump each time.",
       "hint": "Check both jumps in every choice."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A01-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "The terms are 4, 6, 8.",
       "hint": "The starting number is the first term. Add 2 twice."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A01-P-007",
@@ -235,7 +252,9 @@
     "explanation": {
       "summary": "8 breaks the add-2 rule. It should be 7.",
       "hint": "Predict each term using the rule."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "The number of dots grows by 2, so 8 dots come next.",
       "hint": "Count how many new dots are added each time."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A01-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "The pattern adds 3 each time, so the next number is 16.",
       "hint": "Check the jump between each pair of numbers."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A01-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Every number increases by 3. The missing number is 10.",
       "hint": "Start at 7 and add 3."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2A01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Each term is 3 more than the one before it.",
       "hint": "Work out one jump, then check the other jumps."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The pattern takes away 3 each time, so 28 comes next.",
       "hint": "Check how much each number decreases."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Only 7, 10, 13 has the same +3 jump each time.",
       "hint": "Check both jumps in every choice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "The terms are 8, 11, 14.",
       "hint": "The starting number is the first term. Add 3 twice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "14 breaks the add-3 rule. It should be 13.",
       "hint": "Predict each term using the rule."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The number of dots grows by 2, so 9 dots come next.",
       "hint": "Count how many new dots are added each time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The pattern adds 4 each time, so the next number is 23.",
       "hint": "Check the jump between each pair of numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Every number increases by 4. The missing number is 15.",
       "hint": "Start at 11 and add 4."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each term is 4 more than the one before it.",
       "hint": "Work out one jump, then check the other jumps."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The pattern takes away 4 each time, so 30 comes next.",
       "hint": "Check how much each number decreases."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Only 11, 15, 19 has the same +4 jump each time.",
       "hint": "Check both jumps in every choice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "The terms are 12, 16, 20.",
       "hint": "The starting number is the first term. Add 4 twice."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "20 breaks the add-4 rule. It should be 19.",
       "hint": "Predict each term using the rule."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The number of dots grows by 2, so 10 dots come next.",
       "hint": "Count how many new dots are added each time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2A01-T-001",

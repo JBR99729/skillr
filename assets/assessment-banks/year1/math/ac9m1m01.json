@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "Using equal blocks, fewer blocks means shorter and more blocks means longer.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "Aligned starts and equal units make comparisons fair.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M01-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "Use a balance or heft carefully supports a fair mass comparison.",
       "hint": "Think about which object would make a balance pan go down."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-004",
@@ -133,7 +140,10 @@
     "explanation": {
       "summary": "A level balance shows equal mass.",
       "hint": "Think about which object would make a balance pan go down."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M01-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "If A is longer than B and B is longer than C, A is longest.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "The heavier side of a balance moves down.",
       "hint": "Think about which object would make a balance pan go down."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "A fair direct length comparison uses the same starting point.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-008",
@@ -269,7 +285,9 @@
     "explanation": {
       "summary": "Line B extends farther from the same starting point.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-009",
@@ -303,7 +321,9 @@
     "explanation": {
       "summary": "Container shape can be misleading; use a fair capacity comparison.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-010",
@@ -337,7 +357,9 @@
     "explanation": {
       "summary": "Longer and shorter compare length.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-011",
@@ -371,7 +393,9 @@
     "explanation": {
       "summary": "Length comparisons need a common starting point.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-012",
@@ -405,7 +429,10 @@
     "explanation": {
       "summary": "23 seconds is longer than 16 seconds.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M01-P-013",
@@ -439,7 +466,10 @@
     "explanation": {
       "summary": "Length is the relevant attribute.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M01-P-014",
@@ -473,7 +503,10 @@
     "explanation": {
       "summary": "“heavier” is precise language for mass.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M01-P-015",
@@ -507,7 +540,9 @@
     "explanation": {
       "summary": "Cup B holds more of the same-sized scoop.",
       "hint": "Compare how much each container can hold, not only how tall it looks."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-016",
@@ -541,7 +576,9 @@
     "explanation": {
       "summary": "Using equal blocks, fewer blocks means shorter and more blocks means longer.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-017",
@@ -575,7 +612,9 @@
     "explanation": {
       "summary": "Using equal blocks, fewer blocks means shorter and more blocks means longer.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-018",
@@ -609,7 +648,10 @@
     "explanation": {
       "summary": "Aligned starts and equal units make comparisons fair.",
       "hint": "Use the picture or numbers to test each answer, then choose the one that matches exactly."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M01-P-019",
@@ -643,7 +685,10 @@
     "explanation": {
       "summary": "A level balance shows equal mass.",
       "hint": "Think about which object would make a balance pan go down."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M01-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "If A is longer than B and B is longer than C, A is longest.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "Use the same scoop or pour supports a fair capacity comparison.",
       "hint": "Compare how much each container can hold, not only how tall it looks."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-022",
@@ -745,7 +794,9 @@
     "explanation": {
       "summary": "A fair direct length comparison uses the same starting point.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-023",
@@ -779,7 +830,9 @@
     "explanation": {
       "summary": "The heavier side of a balance moves down.",
       "hint": "Think about which object would make a balance pan go down."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-024",
@@ -813,7 +866,9 @@
     "explanation": {
       "summary": "The heavier side of a balance moves down.",
       "hint": "Think about which object would make a balance pan go down."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-025",
@@ -847,7 +902,10 @@
     "explanation": {
       "summary": "A level balance shows equal mass.",
       "hint": "Think about which object would make a balance pan go down."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1M01-P-026",
@@ -881,7 +939,9 @@
     "explanation": {
       "summary": "A fair direct length comparison uses the same starting point.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-027",
@@ -915,7 +975,9 @@
     "explanation": {
       "summary": "The heavier side of a balance moves down.",
       "hint": "Think about which object would make a balance pan go down."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-P-028",
@@ -949,7 +1011,9 @@
     "explanation": {
       "summary": "A fair direct length comparison uses the same starting point.",
       "hint": "Line up the ends and compare how far each object reaches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1M01-T-001",

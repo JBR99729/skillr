@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations; for example, using manipulatives to demonstrate that 2x+4\\;=\\;2(x+2),\\;3(a-b)=3a -3b, or 5(m+2n)+3m-4n\\;=\\;5m+10n+3m-4n\\;=\\;8m+6n",
       "hint": "rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language",
       "hint": "demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "using the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model",
       "hint": "Use the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations; for example, using manipulatives to demonstrate that 2x+4\\;=\\;2(x+2),\\;3(a-b)=3a -3b, or 5(m+2n)+3m-4n\\;=\\;5m+10n+3m-4n\\;=\\;8m+6n",
       "hint": "rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language",
       "hint": "demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "using the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model",
       "hint": "Use the distributive, associative, commutative, identity and inverse properties to expand and factorise algebraic expressions using strategies such as the area model."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations; for example, using manipulatives to demonstrate that 2x+4\\;=\\;2(x+2),\\;3(a-b)=3a -3b, or 5(m+2n)+3m-4n\\;=\\;5m+10n+3m-4n\\;=\\;8m+6n",
       "hint": "rearranging and simplifying linear expressions involving variables with integer coefficients and constants; using manipulatives such as algebra tiles to support calculations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language",
       "hint": "demonstrating the relationship between factorising and expanding linear expressions using manipulatives, such as algebra tiles or area models, and describing with mathematical language."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8a01-t-001",

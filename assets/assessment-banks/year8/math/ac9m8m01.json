@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "determining the area of composite shapes by composing or decomposing shapes",
       "hint": "Determine the area of composite shapes by composing or decomposing shapes."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock",
       "hint": "Use the labelled model to investigate compare perimeter and area."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "determining the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids; for example, using millimetres or square millimetres as opposed to centimetres or square centimetres",
       "hint": "Determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "determining the area of composite shapes by composing or decomposing shapes",
       "hint": "Determine the area of composite shapes by composing or decomposing shapes."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock",
       "hint": "Use the labelled model to investigate compare perimeter and area."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "determining the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids; for example, using millimetres or square millimetres as opposed to centimetres or square centimetres",
       "hint": "Determine the perimeter and area of irregular shapes by sums of increasingly accurate covering measurements, such as line segments and grids."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "determining the area of composite shapes by composing or decomposing shapes",
       "hint": "Determine the area of composite shapes by composing or decomposing shapes."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using arrays and rectangles to approximate the area of irregular shapes in situations such as a council needing to work out how much mosquito spray to use for a swamp area or a farmer needing to work out how much seed, fertilizer and herbicide are required to cover a paddock",
       "hint": "Use the labelled model to investigate compare perimeter and area."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m01-t-001",

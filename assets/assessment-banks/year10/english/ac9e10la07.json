@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
       "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la07-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
       "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la07-p-003",
@@ -108,7 +114,9 @@
     "explanation": {
       "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
       "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e10la07-p-004",
@@ -145,7 +153,10 @@
     "explanation": {
       "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
       "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la07-p-005",
@@ -182,7 +193,10 @@
     "explanation": {
       "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
       "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la07-p-006",
@@ -219,7 +233,10 @@
     "explanation": {
       "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
       "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la07-p-007",
@@ -256,7 +273,10 @@
     "explanation": {
       "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
       "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la07-p-008",
@@ -293,7 +313,10 @@
     "explanation": {
       "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
       "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10la07-t-001",

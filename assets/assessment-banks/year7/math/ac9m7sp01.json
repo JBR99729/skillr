@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "A top and front view together communicate dimensions that either view alone hides",
       "hint": "Different objects can share a front view."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
       "hint": "Foreshortening may distort scale."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
       "hint": "Use conventions or another view."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
       "hint": "Evaluate fitness for purpose."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp01-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "A top and front view together communicate dimensions that either view alone hides",
       "hint": "Different objects can share a front view."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp01-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
       "hint": "Foreshortening may distort scale."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp01-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
       "hint": "Use conventions or another view."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m7sp01-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
       "hint": "Evaluate fitness for purpose."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m7sp01-t-001",

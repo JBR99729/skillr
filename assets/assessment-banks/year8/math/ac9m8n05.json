@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "modelling situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers; for example, involving average temperature increases and decreases",
       "hint": "Model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "modelling situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates",
       "hint": "Model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "modelling situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax",
       "hint": "Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "modelling situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods",
       "hint": "Model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n05-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "modelling situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers; for example, involving average temperature increases and decreases",
       "hint": "Model situations involving weather and environmental contexts including temperature or sea depths by applying operations to positive and negative rational numbers."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n05-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "modelling situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax, changes in populations or recycling rates",
       "hint": "Model situations that involve percentage increases or decreases and explaining why it is an increase or decrease, such as mark-ups, discounts, Goods and Services Tax."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n05-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "modelling situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax",
       "hint": "Model situations involving personal income tax, interpreting tax tables to determine income tax at various levels of income, including overall percentage of income allocated to tax."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n05-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "modelling situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods",
       "hint": "Model situations involving percentage increase or decrease such as market trends, effects on population, or effects on the environment over extended time periods."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n05-t-001",

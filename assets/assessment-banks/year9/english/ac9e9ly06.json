@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument",
       "hint": "A writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9ly06-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language",
       "hint": "A writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9ly06-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas",
       "hint": "A writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9ly06-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience",
       "hint": "A writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9ly06-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument",
       "hint": "A writer or speaker can use purpose to shape developing an argument that has a series of sequenced and linked paragraphs, beginning with a contention, followed by a series of supported points that develop a line of argument, and a conclusion that summarises the main line of argument and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9ly06-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language",
       "hint": "A writer or speaker can use structure to shape creating informative texts that explain and analyse complex phenomena using well-chosen facts and precise language and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9ly06-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas",
       "hint": "A writer or speaker can use evidence to shape reviewing and editing their own and others’ texts, which may involve using online applications, for accuracy of grammar, spelling and punctuation, and to achieve particular purposes and address specific audiences by improving clarity and control of content through organising, developing, extending and linking ideas and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9ly06-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience",
       "hint": "A writer or speaker can use audience to shape discussing choices of literary devices used in a literary text with a peer, and evaluating the potential effect of each choice on an audience and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e9ly06-t-001",

@@ -26,7 +26,9 @@
     "explanation": {
       "summary": "A specific diagnosis leads to an efficient practice target.",
       "hint": "Choose the feature that most affects readability, comfort or fluency."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-002",
@@ -55,7 +57,10 @@
     "explanation": {
       "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
       "hint": "Work accurately in a small dose before rebuilding normal pace."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly08-p-003",
@@ -84,7 +89,9 @@
     "explanation": {
       "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
       "hint": "Use more than one measure and test the skill in real writing."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-004",
@@ -113,7 +120,9 @@
     "explanation": {
       "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
       "hint": "Explain the connection between the observed issue, the practice and the goal."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-005",
@@ -142,7 +151,9 @@
     "explanation": {
       "summary": "A specific diagnosis leads to an efficient practice target.",
       "hint": "Choose the feature that most affects readability, comfort or fluency."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-006",
@@ -171,7 +182,10 @@
     "explanation": {
       "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
       "hint": "Work accurately in a small dose before rebuilding normal pace."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly08-p-007",
@@ -200,7 +214,9 @@
     "explanation": {
       "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
       "hint": "Use more than one measure and test the skill in real writing."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-008",
@@ -229,7 +245,9 @@
     "explanation": {
       "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
       "hint": "Explain the connection between the observed issue, the practice and the goal."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-009",
@@ -258,7 +276,10 @@
     "explanation": {
       "summary": "A specific diagnosis leads to an efficient practice target.",
       "hint": "Choose the feature that most affects readability, comfort or fluency."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly08-p-010",
@@ -287,7 +308,10 @@
     "explanation": {
       "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
       "hint": "Work accurately in a small dose before rebuilding normal pace."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly08-p-011",
@@ -316,7 +340,10 @@
     "explanation": {
       "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
       "hint": "Use more than one measure and test the skill in real writing."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly08-p-012",
@@ -345,7 +372,9 @@
     "explanation": {
       "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
       "hint": "Explain the connection between the observed issue, the practice and the goal."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-013",
@@ -374,7 +403,9 @@
     "explanation": {
       "summary": "A specific diagnosis leads to an efficient practice target.",
       "hint": "Choose the feature that most affects readability, comfort or fluency."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-014",
@@ -403,7 +434,10 @@
     "explanation": {
       "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
       "hint": "Work accurately in a small dose before rebuilding normal pace."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly08-p-015",
@@ -432,7 +466,9 @@
     "explanation": {
       "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
       "hint": "Use more than one measure and test the skill in real writing."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-016",
@@ -461,7 +497,9 @@
     "explanation": {
       "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
       "hint": "Explain the connection between the observed issue, the practice and the goal."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-017",
@@ -490,7 +528,9 @@
     "explanation": {
       "summary": "A specific diagnosis leads to an efficient practice target.",
       "hint": "Choose the feature that most affects readability, comfort or fluency."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-018",
@@ -519,7 +559,10 @@
     "explanation": {
       "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
       "hint": "Work accurately in a small dose before rebuilding normal pace."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly08-p-019",
@@ -548,7 +591,9 @@
     "explanation": {
       "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
       "hint": "Use more than one measure and test the skill in real writing."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-020",
@@ -577,7 +622,9 @@
     "explanation": {
       "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
       "hint": "Explain the connection between the observed issue, the practice and the goal."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-021",
@@ -606,7 +653,9 @@
     "explanation": {
       "summary": "A specific diagnosis leads to an efficient practice target.",
       "hint": "Choose the feature that most affects readability, comfort or fluency."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-022",
@@ -635,7 +684,10 @@
     "explanation": {
       "summary": "Effective practice isolates one movement and then transfers it to meaningful writing.",
       "hint": "Work accurately in a small dose before rebuilding normal pace."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5ly08-p-023",
@@ -664,7 +716,9 @@
     "explanation": {
       "summary": "Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
       "hint": "Use more than one measure and test the skill in real writing."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-p-024",
@@ -693,7 +747,9 @@
     "explanation": {
       "summary": "Targeted practice is linked to diagnosed evidence and authentic use.",
       "hint": "Explain the connection between the observed issue, the practice and the goal."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5ly08-t-001",

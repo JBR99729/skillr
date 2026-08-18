@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "understanding the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle",
       "hint": "Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "investigating patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides and identifying the constancy of ratios of corresponding sides for a given angle",
       "hint": "Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles",
       "hint": "Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line",
       "hint": "Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "understanding the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle",
       "hint": "Understand the terms “base”, “altitude”, “hypotenuse”, and “adjacent” and “opposite” sides to an angle, in a right-angled triangle, and identifying these for a given right-angled triangle."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides and identifying the constancy of ratios of corresponding sides for a given angle",
       "hint": "Explore patterns to reason about nested similar triangles that are aligned on a coordinate plane, connecting ideas of parallel sides."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "establishing an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit and similarly the cosine as the length of the base of the same triangle, and relating this to enlargement and similar triangles",
       "hint": "Establish an understanding that the sine of an angle can be considered as the length of the altitude of a right-angled triangle with a hypotenuse of length one unit."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "relating the tangent of an angle to the altitude and base of nested similar right-angled triangles, and connecting the tangent of the angle at which the graph of a straight line meets the positive direction of the horizontal coordinate axis to the gradient of the straight line",
       "hint": "Connect the tangent of an angle to the altitude and base of nested similar right-angled triangles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp01-t-001",

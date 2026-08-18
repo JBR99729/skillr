@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "purpose is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "audience is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I06-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "scientific vocabulary is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I06-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "caption is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-005",
@@ -167,7 +177,10 @@
     "explanation": {
       "summary": "citation or source is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I06-P-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "purpose is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-007",
@@ -235,7 +250,10 @@
     "explanation": {
       "summary": "audience is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I06-P-008",
@@ -269,7 +287,10 @@
     "explanation": {
       "summary": "scientific vocabulary is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I06-P-009",
@@ -303,7 +324,9 @@
     "explanation": {
       "summary": "caption is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-010",
@@ -337,7 +360,10 @@
     "explanation": {
       "summary": "citation or source is the precise term for this observation or relationship.",
       "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I06-P-011",
@@ -371,7 +397,10 @@
     "explanation": {
       "summary": "Select evidence and state the finding it supports.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I06-P-012",
@@ -405,7 +434,10 @@
     "explanation": {
       "summary": "Change explanation support and layout, not the evidence.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S4I06-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Use precise terms and define them for the audience.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use a readable visual and concise cues for spoken explanation.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Select evidence and state the finding it supports.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Change explanation support and layout, not the evidence.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Use precise terms and define them for the audience.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Use a readable visual and concise cues for spoken explanation.",
       "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The temperature increased from 22°C to 33°C in 4 minutes",
       "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "a labelled graph with units and a finding statement",
       "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Order mixed report sections and explain why each belongs where it does.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Rewrite one finding for a class poster, formal report and oral explanation while preserving the evidence.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Check a graph or diagram for title, labels, units, caption, legibility and connection to the spoken or written message.",
       "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "class poster is linked to large labelled visual, short evidence statements.",
       "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S4I06-T-001",

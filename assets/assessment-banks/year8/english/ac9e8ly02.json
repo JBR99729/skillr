@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations",
       "hint": "A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly02-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation",
       "hint": "A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly02-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "using effective strategies for dialogue and discussion in range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, asking questions about stated and implied ideas, and restating and summarising main ideas",
       "hint": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly02-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations",
       "hint": "A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly02-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation",
       "hint": "A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly02-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "using effective strategies for dialogue and discussion in range of formal and informal contexts, including speaking clearly and coherently and at appropriate length, asking questions about stated and implied ideas, and restating and summarising main ideas",
       "hint": "A writer or speaker can use evidence to shape using effective strategies for dialogue and discussion in range of formal and informal contexts, and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly02-p-007",
@@ -256,7 +274,9 @@
     "explanation": {
       "summary": "participating in pair, group, class, school and community speaking and listening situations, including informal conversations, discussions, debates and presentations",
       "hint": "A writer or speaker can use purpose to shape participating in pair, group, class, school and community speaking and listening situations, and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e8ly02-p-008",
@@ -293,7 +313,9 @@
     "explanation": {
       "summary": "listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation",
       "hint": "A writer or speaker can use structure to shape listening to a conversation or speech, identifying the point being made, and explaining the tone and manner of presentation and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e8ly02-t-001",

@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "The evidence creates uncertain then hopeful: selection follows the child's changing comfort.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "The evidence creates resilient and collective: actions emphasise cooperation rather than helplessness.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le03-p-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "The evidence creates knowledgeable place: personification connects place and memory.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le03-p-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "The evidence creates personally meaningful: viewpoint values persistence over winning.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le03-p-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "The evidence creates contested: contrasting sources reveal different experiences.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le03-p-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "The evidence creates layered habitat: visual angle reveals life people overlook.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le03-p-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "The evidence creates shared but varied: multiple viewpoints prevent one fixed memory.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le03-p-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "The evidence creates emotional: selected detail shows what feels valuable.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le03-p-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "The evidence creates analytical: distance helps the narrator notice relationships.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e5le03-p-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The evidence creates active and detailed: precise evidence avoids an empty backdrop.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The evidence creates uncertain: viewpoint shapes blame.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The evidence creates manageable: language reflects the narrator's coping response.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "The evidence creates contested memory: voices show place has multiple meanings.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "The evidence creates community work: selection values unseen contribution.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The evidence creates dramatic perspective: image gives readers broader knowledge.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The evidence creates dynamic setting: time comparison presents place as changing.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The evidence creates complex character: inside and outside views resist a simple label.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The evidence creates resourceful community: ordinary actions construct resilience.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The evidence creates questioned authority: viewpoint invites readers to reconsider ownership.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The evidence creates layered identity: sensory detail suggests connection indirectly.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The evidence creates multiple impact: parallel viewpoints show perspective depends on needs.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "The evidence creates incomplete: omitted causes make early judgement unreliable.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The evidence creates changing power: camera angle tracks vulnerability and support.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-p-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The evidence creates skilled community: specific portrayal avoids a faceless crowd.",
       "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e5le03-t-001",

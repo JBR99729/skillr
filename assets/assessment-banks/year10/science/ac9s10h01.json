@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick",
       "hint": "Use how the work of Rosalind Franklin was critical to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants",
       "hint": "Use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "examining why there are different climate change models used by scientists when there is a climate change consensus among scientists",
       "hint": "Use there are different climate change models used by scientists to make the role of publication visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "exploring how astronomer Vera Rubin’s discovery of the existence of dark matter was validated",
       "hint": "Use how astronomer Vera Rubin’s discovery of the existence to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "examining how the discovery of gravity waves validated Einstein’s theory of general relativity and why this discovery did not occur until 100 years after the theory was proposed",
       "hint": "Use how the discovery of gravity waves validated Einstein’s theory to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating how the development of the periodic table has been disputed and refined as science has progressed and new elements have been discovered",
       "hint": "Use how the development of the periodic table has been to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "examining how the work of Rosalind Franklin was critical to the discovery of the double helix structure of DNA and her publications validated the findings of James Watson and Francis Crick",
       "hint": "Use how the work of Rosalind Franklin was critical to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "exploring the role of large data sets and statistical analysis in validating scientific findings, such as Gregor Mendel’s experiments with pea plants",
       "hint": "Use large data sets and statistical analysis in validating scientific to make the role of method and data visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h01-t-001",

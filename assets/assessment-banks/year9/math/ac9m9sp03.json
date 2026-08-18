@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
       "hint": "Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
       "hint": "Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
       "hint": "Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
       "hint": "Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
       "hint": "Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
       "hint": "Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
       "hint": "Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
       "hint": "Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9sp03-t-001",

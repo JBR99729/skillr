@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "Modal and evaluative language can make a message gentler or stronger.",
       "hint": "Choose the least certain or least intense wording."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "Must expresses a stronger obligation than might or could.",
       "hint": "Place the modal verbs on a scale from possible to necessary."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-003",
@@ -99,7 +103,10 @@
     "explanation": {
       "summary": "Cautious evaluation matches a claim to limited evidence.",
       "hint": "Look for wording that leaves room for uncertainty."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA02-P-004",
@@ -133,7 +140,10 @@
     "explanation": {
       "summary": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
       "hint": "Compare the strength of the feeling words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA02-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Might signals possibility rather than certainty.",
       "hint": "Match the strength of the word to the strength of the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-006",
@@ -201,7 +213,10 @@
     "explanation": {
       "summary": "More forceful modal language increases certainty or obligation.",
       "hint": "Choose the change that strengthens the claim."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA02-P-007",
@@ -235,7 +250,10 @@
     "explanation": {
       "summary": "An evaluation judges quality or value.",
       "hint": "Find the sentence that includes a judgement."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA02-P-008",
@@ -269,7 +287,9 @@
     "explanation": {
       "summary": "Gentler modal language can signal uncertainty or politeness.",
       "hint": "Think about how certain the author sounds."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-009",
@@ -303,7 +323,9 @@
     "explanation": {
       "summary": "Modal and evaluative language can make a message gentler or stronger.",
       "hint": "Choose the least certain or least intense wording."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-010",
@@ -337,7 +359,9 @@
     "explanation": {
       "summary": "Must expresses a stronger obligation than might or could.",
       "hint": "Place the modal verbs on a scale from possible to necessary."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-011",
@@ -371,7 +395,10 @@
     "explanation": {
       "summary": "Cautious evaluation matches a claim to limited evidence.",
       "hint": "Look for wording that leaves room for uncertainty."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA02-P-012",
@@ -405,7 +432,10 @@
     "explanation": {
       "summary": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
       "hint": "Compare the strength of the feeling words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA02-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "Might signals possibility rather than certainty.",
       "hint": "Match the strength of the word to the strength of the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-014",
@@ -473,7 +505,10 @@
     "explanation": {
       "summary": "More forceful modal language increases certainty or obligation.",
       "hint": "Choose the change that strengthens the claim."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA02-P-015",
@@ -507,7 +542,10 @@
     "explanation": {
       "summary": "An evaluation judges quality or value.",
       "hint": "Find the sentence that includes a judgement."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Gentler modal language can signal uncertainty or politeness.",
       "hint": "Think about how certain the author sounds."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Modal and evaluative language can make a message gentler or stronger.",
       "hint": "Choose the least certain or least intense wording."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Must expresses a stronger obligation than might or could.",
       "hint": "Place the modal verbs on a scale from possible to necessary."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Cautious evaluation matches a claim to limited evidence.",
       "hint": "Look for wording that leaves room for uncertainty."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
       "hint": "Compare the strength of the feeling words."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Might signals possibility rather than certainty.",
       "hint": "Match the strength of the word to the strength of the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "More forceful modal language increases certainty or obligation.",
       "hint": "Choose the change that strengthens the claim."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "An evaluation judges quality or value.",
       "hint": "Find the sentence that includes a judgement."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Gentler modal language can signal uncertainty or politeness.",
       "hint": "Think about how certain the author sounds."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA02-T-001",

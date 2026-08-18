@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A clause usually contains a subject and an agreeing verb.",
       "hint": "Choose words that tell what the subject does or is."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA06-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "The subject is who or what the clause is about.",
       "hint": "Ask who or what performs the process."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "The verb expresses the process in the clause.",
       "hint": "Ask what happens or what the subject does."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-004",
@@ -133,7 +140,10 @@
     "explanation": {
       "summary": "The verb form must agree with its subject.",
       "hint": "Read the subject and verb together aloud."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA06-P-005",
@@ -167,7 +177,10 @@
     "explanation": {
       "summary": "A complete clause usually needs both a subject and a verb.",
       "hint": "Find the group that tells who or what and what happens."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA06-P-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "Singular and plural subjects can require different verb forms.",
       "hint": "Check whether the verb still sounds right with one subject."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-007",
@@ -235,7 +250,10 @@
     "explanation": {
       "summary": "Adding an agreeing verb can complete the clause.",
       "hint": "The clause needs a process word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA06-P-008",
@@ -269,7 +287,9 @@
     "explanation": {
       "summary": "Agreement connects the subject with an appropriate verb form.",
       "hint": "Decide whether the subject refers to one or more than one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-009",
@@ -303,7 +323,10 @@
     "explanation": {
       "summary": "A clause usually contains a subject and an agreeing verb.",
       "hint": "Choose words that tell what the subject does or is."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA06-P-010",
@@ -337,7 +360,9 @@
     "explanation": {
       "summary": "The subject is who or what the clause is about.",
       "hint": "Ask who or what performs the process."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-011",
@@ -371,7 +396,9 @@
     "explanation": {
       "summary": "The verb expresses the process in the clause.",
       "hint": "Ask what happens or what the subject does."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-012",
@@ -405,7 +432,10 @@
     "explanation": {
       "summary": "The verb form must agree with its subject.",
       "hint": "Read the subject and verb together aloud."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA06-P-013",
@@ -439,7 +469,10 @@
     "explanation": {
       "summary": "A complete clause usually needs both a subject and a verb.",
       "hint": "Find the group that tells who or what and what happens."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA06-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "Singular and plural subjects can require different verb forms.",
       "hint": "Check whether the verb still sounds right with one subject."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-015",
@@ -507,7 +542,10 @@
     "explanation": {
       "summary": "Adding an agreeing verb can complete the clause.",
       "hint": "The clause needs a process word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA06-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Agreement connects the subject with an appropriate verb form.",
       "hint": "Decide whether the subject refers to one or more than one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A clause usually contains a subject and an agreeing verb.",
       "hint": "Choose words that tell what the subject does or is."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The subject is who or what the clause is about.",
       "hint": "Ask who or what performs the process."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The verb expresses the process in the clause.",
       "hint": "Ask what happens or what the subject does."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The verb form must agree with its subject.",
       "hint": "Read the subject and verb together aloud."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A complete clause usually needs both a subject and a verb.",
       "hint": "Find the group that tells who or what and what happens."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Singular and plural subjects can require different verb forms.",
       "hint": "Check whether the verb still sounds right with one subject."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Adding an agreeing verb can complete the clause.",
       "hint": "The clause needs a process word."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Agreement connects the subject with an appropriate verb form.",
       "hint": "Decide whether the subject refers to one or more than one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA06-T-001",

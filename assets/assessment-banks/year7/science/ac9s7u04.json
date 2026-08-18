@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "75 N right and 45 N left give net 30 N right",
       "hint": "They mean no change in velocity."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "An object can move at constant velocity while forces are balanced. Motion does not prove a forward net force.",
       "hint": "They act on different objects."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Force arrows should begin on the object, point in force direction and use relative length to show magnitude. Name the interacting object where possible.",
       "hint": "Support balances weight; gravity remains."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Balanced forces produce zero net force and no acceleration; an unbalanced net force changes velocity by changing speed, direction or both.",
       "hint": "It shows force direction."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u04-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "75 N right and 45 N left give net 30 N right",
       "hint": "They mean no change in velocity."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u04-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "An object can move at constant velocity while forces are balanced. Motion does not prove a forward net force.",
       "hint": "They act on different objects."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u04-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Force arrows should begin on the object, point in force direction and use relative length to show magnitude. Name the interacting object where possible.",
       "hint": "Support balances weight; gravity remains."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u04-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Balanced forces produce zero net force and no acceleration; an unbalanced net force changes velocity by changing speed, direction or both.",
       "hint": "It shows force direction."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u04-t-001",

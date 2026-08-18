@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Using all four cue sounds in order makes frog.",
       "hint": "Keep the second sound, heard at the start of red."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY09-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Keep the second sound, heard at the start of red. Using all four cue sounds in order makes frog.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "Ship has three sounds: the start of shoe, the middle of sit and the end of cup.",
       "hint": "The sound at the start of shoe is one sound, even though two letters write it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY09-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "The sound at the start of shoe is one sound, even though two letters write it. Ship has three sounds: the start of shoe, the middle of sit and the end of cup.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY09-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Stop begins with the sound heard at the start of sun; removing it leaves top.",
       "hint": "After removing the first sound, blend from the sound at the start of top."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY09-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "After removing the first sound, blend from the sound at the start of top. Stop begins with the sound heard at the start of sun; removing it leaves top.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY09-P-007",
@@ -235,7 +252,9 @@
     "explanation": {
       "summary": "Replacing the start of map with the start of top while keeping the rest makes tap.",
       "hint": "Change only the first sound and keep the middle and final sounds steady."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-008",
@@ -269,7 +288,9 @@
     "explanation": {
       "summary": "Change only the first sound and keep the middle and final sounds steady. Replacing the start of map with the start of top while keeping the rest makes tap.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-009",
@@ -303,7 +324,10 @@
     "explanation": {
       "summary": "Frog has four sounds: the start of fish, the start of red, the middle of hot and the end of bag.",
       "hint": "Stretch the word and move one counter for each sound."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY09-P-010",
@@ -337,7 +361,9 @@
     "explanation": {
       "summary": "Stretch the word and move one counter for each sound. Frog has four sounds: the start of fish, the start of red, the middle of hot and the end of bag.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-011",
@@ -371,7 +397,9 @@
     "explanation": {
       "summary": "Changing the start of ship from the shoe sound to the chair sound while keeping the rest makes chip.",
       "hint": "Change the first sound only, then blend the whole word again."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-012",
@@ -405,7 +433,9 @@
     "explanation": {
       "summary": "Change the first sound only, then blend the whole word again. Changing the start of ship from the shoe sound to the chair sound while keeping the rest makes chip.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-013",
@@ -439,7 +469,10 @@
     "explanation": {
       "summary": "Map to tap changes the first sound; tap to tip changes the middle sound.",
       "hint": "Compare each neighbouring pair sound by sound."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY09-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "Compare each neighbouring pair sound by sound. Map to tap changes the first sound; tap to tip changes the middle sound.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "Cart ends with the sound heard at the start of top; removing it leaves car.",
       "hint": "Keep the starting sounds in order and take away only the last one."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Keep the starting sounds in order and take away only the last one. Cart ends with the sound heard at the start of top; removing it leaves car.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "Keeping the start and end of pin while using the middle sound in cat makes pan.",
       "hint": "Hold the first and last sounds steady while changing the middle."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Hold the first and last sounds steady while changing the middle. Keeping the start and end of pin while using the middle sound in cat makes pan.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-019",
@@ -643,7 +686,10 @@
     "explanation": {
       "summary": "Train has two separate starting sounds, followed by the long vowel in day and the final sound in sun.",
       "hint": "Listen for two separate sounds before the long vowel."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY09-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Listen for two separate sounds before the long vowel. Train has two separate starting sounds, followed by the long vowel in day and the final sound in sun.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Using all five cue sounds in order makes scrap.",
       "hint": "Keep all three starting sounds before the vowel sound."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Keep all three starting sounds before the vowel sound. Using all five cue sounds in order makes scrap.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Keeping the start and middle of cat while using the end of cup makes cap.",
       "hint": "Change only the last sound, then blend from the beginning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Change only the last sound, then blend from the beginning. Keeping the start and middle of cat while using the end of cup makes cap.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY09-T-001",

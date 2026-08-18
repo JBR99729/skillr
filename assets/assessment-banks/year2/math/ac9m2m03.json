@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "One week is 7 days, so 2 + 7 = 9.",
       "hint": "Move down one full week on the calendar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Count the jumps after the 2nd: there are 3 days to the 5th.",
       "hint": "Do not count the starting date as a jump."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Move forward 3 days from Monday.",
       "hint": "Use one jump for each day."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "A date gives a number and a month: 5th of May.",
       "hint": "A day name is not a full date."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Starting after the 2nd, count 3 jumps to reach the 5th.",
       "hint": "Put your finger on the start, then move once for each day."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M03-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Days between dates are counted as jumps after the starting date.",
       "hint": "Trace the spaces from one date to the next."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M03-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "One week before means move back 7 days, to the 2nd.",
       "hint": "Move up one row on the calendar."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M03-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "The day after Friday is Saturday.",
       "hint": "Move one day forward in the weekday order."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M03-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "One week is 7 days, so 4 + 7 = 11.",
       "hint": "Move down one full week on the calendar."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Count the jumps after the 4th: there are 4 days to the 8th.",
       "hint": "Do not count the starting date as a jump."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Move forward 4 days from Monday.",
       "hint": "Use one jump for each day."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "A date gives a number and a month: 8th of May.",
       "hint": "A day name is not a full date."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Starting after the 4th, count 4 jumps to reach the 8th.",
       "hint": "Put your finger on the start, then move once for each day."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Days between dates are counted as jumps after the starting date.",
       "hint": "Trace the spaces from one date to the next."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "One week before means move back 7 days, to the 4th.",
       "hint": "Move up one row on the calendar."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The day after Friday is Saturday.",
       "hint": "Move one day forward in the weekday order."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "One week is 7 days, so 6 + 7 = 13.",
       "hint": "Move down one full week on the calendar."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Count the jumps after the 6th: there are 5 days to the 11th.",
       "hint": "Do not count the starting date as a jump."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Move forward 5 days from Monday.",
       "hint": "Use one jump for each day."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A date gives a number and a month: 11th of May.",
       "hint": "A day name is not a full date."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Starting after the 6th, count 5 jumps to reach the 11th.",
       "hint": "Put your finger on the start, then move once for each day."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Days between dates are counted as jumps after the starting date.",
       "hint": "Trace the spaces from one date to the next."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "One week before means move back 7 days, to the 6th.",
       "hint": "Move up one row on the calendar."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The day after Friday is Saturday.",
       "hint": "Move one day forward in the weekday order."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M03-T-001",

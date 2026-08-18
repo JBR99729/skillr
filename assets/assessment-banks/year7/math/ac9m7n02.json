@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 24 = 2³ × 3.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 36 = 2² × 3².",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 48 = 2⁴ × 3.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 60 = 2² × 3 × 5.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 72 = 2³ × 3².",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N02-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 84 = 2² × 3 × 7.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N02-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 90 = 2 × 3² × 5.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N02-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 120 = 2³ × 3 × 5.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N02-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 180 = 2² × 3² × 5.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 252 = 2² × 3² × 7.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 360 = 2³ × 3² × 5.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 504 = 2³ × 3² × 7.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "2^5 means 2 × 2 × 2 × 2 × 2 = 32.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "2^7 means 2 × 2 × 2 × 2 × 2 × 2 × 2 = 128.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "2^9 means 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 512.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "3^3 means 3 × 3 × 3 = 27.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "3^4 means 3 × 3 × 3 × 3 = 81.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "3^6 means 3 × 3 × 3 × 3 × 3 × 3 = 729.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "5^3 means 5 × 5 × 5 = 125.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "5^4 means 5 × 5 × 5 × 5 = 625.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "7^2 means 7 × 7 = 49.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "11^2 means 11 × 11 = 121.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 6.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 12.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N02-T-001",

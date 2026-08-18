@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Page 8 This matches the task.",
       "hint": "Always say what the feature helps the reader do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Always say what the feature helps the reader do.",
       "hint": "Always say what the feature helps the reader do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Title ↔ whole text; heading ↔ section; Home ↔ main screen This matches the task.",
       "hint": "Title names the whole text; heading names a part."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Look at feature → Name it → Say its job → Use it.",
       "hint": "Title names the whole text; heading names a part."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA05-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Finds correct contents entry and turns/selects the matching page This matches the task.",
       "hint": "Buttons, links and swipes also organise texts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA05-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for contents and check the whole example.",
       "hint": "Buttons, links and swipes also organise texts."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA05-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Next button, right arrow, swipe as instructed or suitable voice command This matches the task.",
       "hint": "Always say what the feature helps the reader do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA05-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Check that you can navigate a text.",
       "hint": "Always say what the feature helps the reader do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA05-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Open book → scan contents → find topic → turn to listed page This matches the task.",
       "hint": "Title names the whole text; heading names a part."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing navigation in a print information text.",
       "hint": "Title names the whole text; heading names a part."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Includes all four features placed so their roles are clear This matches the task.",
       "hint": "Buttons, links and swipes also organise texts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Buttons, links and swipes also organise texts.",
       "hint": "Buttons, links and swipes also organise texts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "It names the section topic precisely, helping readers predict and locate information This matches the task.",
       "hint": "Always say what the feature helps the reader do."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Look at feature → Name it → Say its job → Use it.",
       "hint": "Always say what the feature helps the reader do."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Shared example title/image/heading; screen example button/link/swipe/voice command This matches the task.",
       "hint": "Title names the whole text; heading names a part."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for contents and check the whole example.",
       "hint": "Title names the whole text; heading names a part."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Habitat This matches the task.",
       "hint": "Buttons, links and swipes also organise texts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can navigate a text.",
       "hint": "Buttons, links and swipes also organise texts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each feature matches its navigation function This matches the task.",
       "hint": "Always say what the feature helps the reader do."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Interpreting multimodal navigation controls.",
       "hint": "Always say what the feature helps the reader do."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Open app → say command → hear/read response → check page This matches the task.",
       "hint": "Title names the whole text; heading names a part."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Title names the whole text; heading names a part.",
       "hint": "Title names the whole text; heading names a part."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Reader cannot match entries to pages; add clear page numbers consistently This matches the task.",
       "hint": "Buttons, links and swipes also organise texts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Look at feature → Name it → Say its job → Use it.",
       "hint": "Buttons, links and swipes also organise texts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA05-T-001",

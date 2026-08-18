@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "10 is a factor of 60, so the division has no remainder.",
       "hint": "Test each row size by multiplication or division."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m5n02-p-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "A common multiple appears in both multiplication sequences.",
       "hint": "List multiples of 4 and 6 until one matches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m5n02-p-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "24 ÷ 6 is a whole number.",
       "hint": "Check whether 6 multiplied by a whole number equals the total."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m5n02-p-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "6 is a factor of 30, so the division has no remainder.",
       "hint": "Test each row size by multiplication or division."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m5n02-p-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "A common multiple appears in both multiplication sequences.",
       "hint": "List multiples of 4 and 6 until one matches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m5n02-p-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "42 ÷ 6 is a whole number.",
       "hint": "Check whether 6 multiplied by a whole number equals the total."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m5n02-p-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "8 is a factor of 48, so the division has no remainder.",
       "hint": "Test each row size by multiplication or division."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m5n02-p-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "A common multiple appears in both multiplication sequences.",
       "hint": "List multiples of 4 and 6 until one matches."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9m5n02-p-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "60 ÷ 6 is a whole number.",
       "hint": "Check whether 6 multiplied by a whole number equals the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "6 is a factor of 18, so the division has no remainder.",
       "hint": "Test each row size by multiplication or division."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "A common multiple appears in both multiplication sequences.",
       "hint": "List multiples of 4 and 6 until one matches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "30 ÷ 6 is a whole number.",
       "hint": "Check whether 6 multiplied by a whole number equals the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "6 is a factor of 36, so the division has no remainder.",
       "hint": "Test each row size by multiplication or division."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A common multiple appears in both multiplication sequences.",
       "hint": "List multiples of 4 and 6 until one matches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "48 ÷ 6 is a whole number.",
       "hint": "Check whether 6 multiplied by a whole number equals the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "9 is a factor of 54, so the division has no remainder.",
       "hint": "Test each row size by multiplication or division."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A common multiple appears in both multiplication sequences.",
       "hint": "List multiples of 4 and 6 until one matches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "18 ÷ 6 is a whole number.",
       "hint": "Check whether 6 multiplied by a whole number equals the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "6 is a factor of 24, so the division has no remainder.",
       "hint": "Test each row size by multiplication or division."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A common multiple appears in both multiplication sequences.",
       "hint": "List multiples of 4 and 6 until one matches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "36 ÷ 6 is a whole number.",
       "hint": "Check whether 6 multiplied by a whole number equals the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "7 is a factor of 42, so the division has no remainder.",
       "hint": "Test each row size by multiplication or division."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A common multiple appears in both multiplication sequences.",
       "hint": "List multiples of 4 and 6 until one matches."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-p-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "54 ÷ 6 is a whole number.",
       "hint": "Check whether 6 multiplied by a whole number equals the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m5n02-t-001",

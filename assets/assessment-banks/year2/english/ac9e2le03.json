@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The forceful verb stomped suggests an angry or frustrated movement.",
       "hint": "Think about the feeling carried by the action word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Think about the feeling carried by the action word. The forceful verb stomped suggests an angry or frustrated movement.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Offering the seat presents Eli as considerate.",
       "hint": "Use what the character says to infer a quality."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE03-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use what the character says to infer a quality. Offering the seat presents Eli as considerate.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE03-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Narrow and echoing create a more frightening impression of the cave.",
       "hint": "Choose adjectives that build the target mood."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE03-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "Choose adjectives that build the target mood. Narrow and echoing create a more frightening impression of the cave.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "Bounded shows energetic, eager movement more clearly than went or crept.",
       "hint": "Choose the verb with the most precise movement."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE03-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Choose the verb with the most precise movement. Bounded shows energetic, eager movement more clearly than went or crept.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Tiny describes size and sunlit describes the room's light.",
       "hint": "Use both adjectives in the noun group."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE03-P-010",
@@ -337,7 +362,9 @@
     "explanation": {
       "summary": "Use both adjectives in the noun group. Tiny describes size and sunlit describes the room's light.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-011",
@@ -371,7 +398,9 @@
     "explanation": {
       "summary": "Crept suggests secret movement; marched suggests bold, firm movement.",
       "hint": "Compare the feeling in each verb, not just the general action."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-012",
@@ -405,7 +434,9 @@
     "explanation": {
       "summary": "Compare the feeling in each verb, not just the general action. Crept suggests secret movement; marched suggests bold, firm movement.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-013",
@@ -439,7 +470,9 @@
     "explanation": {
       "summary": "The body language adds a possible feeling that differs from the words.",
       "hint": "Compare what is said with face and posture; do not rely on one clue alone."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-014",
@@ -473,7 +506,9 @@
     "explanation": {
       "summary": "Compare what is said with face and posture; do not rely on one clue alone. The body language adds a possible feeling that differs from the words.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "Stung and thundered make the coastal setting feel wild and powerful.",
       "hint": "Notice the strong sensory verbs."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Notice the strong sensory verbs. Stung and thundered make the coastal setting feel wild and powerful.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "Jo's direct words and exclamation present confidence.",
       "hint": "Use the dialogue and punctuation together."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Use the dialogue and punctuation together. Jo's direct words and exclamation present confidence.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "The contrasting adjectives and sounds create different moods.",
       "hint": "Compare the impressions made by the descriptive words."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "Compare the impressions made by the descriptive words. The contrasting adjectives and sounds create different moods.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "The repeated caring actions present Asha as responsible.",
       "hint": "Use the pattern of actions as evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-022",
@@ -745,7 +794,9 @@
     "explanation": {
       "summary": "Use the pattern of actions as evidence. The repeated caring actions present Asha as responsible.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-P-023",
@@ -779,7 +830,10 @@
     "explanation": {
       "summary": "Hammered and whipped create strong sound and movement.",
       "hint": "Choose precise words that help you hear and picture the setting."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LE03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Choose precise words that help you hear and picture the setting. Hammered and whipped create strong sound and movement.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LE03-T-001",

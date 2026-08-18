@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Substituting n = 5 gives y = 2 × 5 + 3 = 13.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Substituting n = 5 gives y = 3 × 5 + 1 = 16.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A05-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "Substituting n = 5 gives y = 4 × 5 + 2 = 22.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Substituting n = 5 gives y = 5 × 5 + 4 = 29.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Substituting n = 5 gives y = 6 × 5 + 1 = 31.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "Substituting n = 5 gives y = 7 × 5 + 3 = 38.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-008",
@@ -269,7 +285,9 @@
     "explanation": {
       "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-009",
@@ -303,7 +321,9 @@
     "explanation": {
       "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-010",
@@ -337,7 +357,9 @@
     "explanation": {
       "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-011",
@@ -371,7 +393,9 @@
     "explanation": {
       "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-012",
@@ -405,7 +429,9 @@
     "explanation": {
       "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-013",
@@ -439,7 +465,10 @@
     "explanation": {
       "summary": "Substituting x = 4 into the rule gives y = 13.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A05-P-014",
@@ -473,7 +502,10 @@
     "explanation": {
       "summary": "Substituting x = 6 into the rule gives y = 16.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A05-P-015",
@@ -507,7 +539,10 @@
     "explanation": {
       "summary": "Substituting x = 5 into the rule gives y = 21.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A05-P-016",
@@ -541,7 +576,10 @@
     "explanation": {
       "summary": "Substituting x = 3 into the rule gives y = 12.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A05-P-017",
@@ -575,7 +613,10 @@
     "explanation": {
       "summary": "Substituting x = 2 into the rule gives y = 14.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A05-P-018",
@@ -609,7 +650,10 @@
     "explanation": {
       "summary": "Substituting x = 4 into the rule gives y = 24.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "For n = 4, the rule gives 9, not 10.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "For n = 5, the rule gives 17, not 16.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "For n = 3, the rule gives 15, not 16.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "For n = 6, the rule gives 31, not 32.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "For n = 4, the rule gives 26, not 27.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "For n = 2, the rule gives 18, not 19.",
       "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A05-T-001",

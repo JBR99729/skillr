@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "Layout and navigation features help readers locate information.",
       "hint": "Match the reader's need to the feature's purpose."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "Each navigation feature has a practical reading purpose.",
       "hint": "Explain what the feature lets a reader do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA05-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "Efficient readers select the most useful navigation path.",
       "hint": "Choose the tool designed for that search."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-004",
@@ -133,7 +140,10 @@
     "explanation": {
       "summary": "Clear navigation words predict where an action will lead.",
       "hint": "Choose the label whose destination is easy to understand."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA05-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Subheadings signal the topic of each smaller section.",
       "hint": "Think about how readers scan for a particular idea."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-006",
@@ -201,7 +213,10 @@
     "explanation": {
       "summary": "Captions connect images with relevant information.",
       "hint": "Choose the description that helps interpret the image."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA05-P-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "Navigation must take readers to the promised location.",
       "hint": "Check the connection between the label and destination."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-008",
@@ -269,7 +286,10 @@
     "explanation": {
       "summary": "Visible, specific features support navigation.",
       "hint": "Consider whether readers can find and understand the tool."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA05-P-009",
@@ -303,7 +323,9 @@
     "explanation": {
       "summary": "Layout and navigation features help readers locate information.",
       "hint": "Match the reader's need to the feature's purpose."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-010",
@@ -337,7 +359,10 @@
     "explanation": {
       "summary": "Each navigation feature has a practical reading purpose.",
       "hint": "Explain what the feature lets a reader do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA05-P-011",
@@ -371,7 +396,9 @@
     "explanation": {
       "summary": "Efficient readers select the most useful navigation path.",
       "hint": "Choose the tool designed for that search."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-012",
@@ -405,7 +432,10 @@
     "explanation": {
       "summary": "Clear navigation words predict where an action will lead.",
       "hint": "Choose the label whose destination is easy to understand."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA05-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "Subheadings signal the topic of each smaller section.",
       "hint": "Think about how readers scan for a particular idea."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-014",
@@ -473,7 +505,10 @@
     "explanation": {
       "summary": "Captions connect images with relevant information.",
       "hint": "Choose the description that helps interpret the image."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA05-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "Navigation must take readers to the promised location.",
       "hint": "Check the connection between the label and destination."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-016",
@@ -541,7 +578,10 @@
     "explanation": {
       "summary": "Visible, specific features support navigation.",
       "hint": "Consider whether readers can find and understand the tool."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E3LA05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Layout and navigation features help readers locate information.",
       "hint": "Match the reader's need to the feature's purpose."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Each navigation feature has a practical reading purpose.",
       "hint": "Explain what the feature lets a reader do."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Efficient readers select the most useful navigation path.",
       "hint": "Choose the tool designed for that search."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Clear navigation words predict where an action will lead.",
       "hint": "Choose the label whose destination is easy to understand."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Subheadings signal the topic of each smaller section.",
       "hint": "Think about how readers scan for a particular idea."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Captions connect images with relevant information.",
       "hint": "Choose the description that helps interpret the image."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Navigation must take readers to the promised location.",
       "hint": "Check the connection between the label and destination."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Visible, specific features support navigation.",
       "hint": "Consider whether readers can find and understand the tool."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E3LA05-T-001",

@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to 18 + 7h.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to 2x + 12.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-003",
@@ -99,7 +103,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to 3g − 2.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-004",
@@ -133,7 +139,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to 8n + 5.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-005",
@@ -167,7 +175,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to 4d + 3.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-006",
@@ -201,7 +211,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to 12t + 4.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-007",
@@ -235,7 +247,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to L ÷ 5.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-008",
@@ -269,7 +283,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to x − 9.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-009",
@@ -303,7 +319,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to s².",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-010",
@@ -337,7 +355,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to 3n + 3.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-011",
@@ -371,7 +391,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to 3g.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-012",
@@ -405,7 +427,9 @@
     "explanation": {
       "summary": "The fixed and variable quantities translate to v − 6m.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-013",
@@ -439,7 +463,10 @@
     "explanation": {
       "summary": "The coefficient 4 multiplies x, while 3 is a separate added constant.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A02-P-014",
@@ -473,7 +500,10 @@
     "explanation": {
       "summary": "The coefficient 7 multiplies x, while 5 is a separate added constant.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A02-P-015",
@@ -507,7 +537,10 @@
     "explanation": {
       "summary": "The coefficient 10 multiplies x, while 2 is a separate added constant.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A02-P-016",
@@ -541,7 +574,10 @@
     "explanation": {
       "summary": "The coefficient 12 multiplies x, while 6 is a separate added constant.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A02-P-017",
@@ -575,7 +611,10 @@
     "explanation": {
       "summary": "The coefficient 15 multiplies x, while 4 is a separate added constant.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A02-P-018",
@@ -609,7 +648,10 @@
     "explanation": {
       "summary": "The coefficient 18 multiplies x, while 7 is a separate added constant.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A02-P-019",
@@ -643,7 +685,10 @@
     "explanation": {
       "summary": "The brackets keep x + 7 together as one group repeated 2 times.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A02-P-020",
@@ -677,7 +722,10 @@
     "explanation": {
       "summary": "The brackets keep x + 5 together as one group repeated 3 times.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7A02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The brackets keep x + 9 together as one group repeated 4 times.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "The brackets keep x + 3 together as one group repeated 6 times.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The brackets keep x + 2 together as one group repeated 8 times.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The brackets keep x + 4 together as one group repeated 10 times.",
       "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7A02-T-001",

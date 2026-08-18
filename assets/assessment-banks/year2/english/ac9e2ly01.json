@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Both texts share the whale topic, but they present it through events and grouped facts.",
       "hint": "Compare how each text organises its information."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY01-P-002",
@@ -65,7 +68,9 @@
     "explanation": {
       "summary": "Compare how each text organises its information. Both texts share the whale topic, but they present it through events and grouped facts.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-003",
@@ -99,7 +104,10 @@
     "explanation": {
       "summary": "A safety poster uses brief directions to help people act safely.",
       "hint": "Think about what a safety poster asks its reader to do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY01-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Think about what a safety poster asks its reader to do. A safety poster uses brief directions to help people act safely.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-005",
@@ -167,7 +177,10 @@
     "explanation": {
       "summary": "The chart records daily temperatures, while the diary shares a personal experience.",
       "hint": "Look for information that can be read from rows or columns."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY01-P-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "Look for information that can be read from rows or columns. The chart records daily temperatures, while the diary shares a personal experience.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-007",
@@ -235,7 +250,10 @@
     "explanation": {
       "summary": "A letter can directly ask a particular reader to take action.",
       "hint": "Find the text written to one person with a request."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY01-P-008",
@@ -269,7 +287,9 @@
     "explanation": {
       "summary": "Find the text written to one person with a request. A letter can directly ask a particular reader to take action.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-009",
@@ -303,7 +323,10 @@
     "explanation": {
       "summary": "The tadpole-to-frog idea is shared information because it appears in both texts.",
       "hint": "Check whether the same idea is present in each text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY01-P-010",
@@ -337,7 +360,10 @@
     "explanation": {
       "summary": "Check whether the same idea is present in each text. The tadpole-to-frog idea is shared information because it appears in both texts.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY01-P-011",
@@ -371,7 +397,10 @@
     "explanation": {
       "summary": "Numbered steps help a reader complete a procedure in the correct order.",
       "hint": "Think about the job of numbers in an instruction text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY01-P-012",
@@ -405,7 +434,10 @@
     "explanation": {
       "summary": "Think about the job of numbers in an instruction text. Numbered steps help a reader complete a procedure in the correct order.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LY01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "A fact file is designed to provide specific, organised information.",
       "hint": "Match Kai's question with the purpose of each text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Match Kai's question with the purpose of each text. A fact file is designed to provide specific, organised information.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The chart presents the ladybird's stages in an ordered visual sequence.",
       "hint": "Separate the story event from information about change over time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Separate the story event from information about change over time. The chart presents the ladybird's stages in an ordered visual sequence.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Moving images can demonstrate actions that a printed procedure describes with words and still pictures.",
       "hint": "Compare what movement can show with what stays fixed on a page."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Compare what movement can show with what stays fixed on a page. Moving images can demonstrate actions that a printed procedure describes with words and still pictures.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Both texts can share route information even though one maps it and one describes it.",
       "hint": "Look for an idea each text type can communicate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Look for an idea each text type can communicate. Both texts can share route information even though one maps it and one describes it.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "A timeline arranges dated information across a long period.",
       "hint": "Choose the presentation designed to show when events or periods occurred."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Choose the presentation designed to show when events or periods occurred. A timeline arranges dated information across a long period.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "A numbered procedure is organised to guide a reader through a task.",
       "hint": "Match the information needed with the structure of each text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Match the information needed with the structure of each text. A numbered procedure is organised to guide a reader through a task.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LY01-T-001",

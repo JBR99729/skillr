@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
       "hint": "Understand that the logarithmic scale is calibrated in terms of order of magnitude."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
       "hint": "Identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
       "hint": "Explore and interpreting logarithmic scales used in real-world contexts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones, allowing the algorithms to efficiently work on problems with a wide range of values",
       "hint": "Explore how logarithmic scaling can be used in machine learning algorithms to compress large values while preserving small ones."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory, that use logarithmic scales (scientific notation) and measurement accuracy in the dating",
       "hint": "Explore dating methods of geological sites to provide evidence of First Peoples of Australia’s human presence in Australia, including the Madjedbebe dig in the Northern Territory."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "understanding that the logarithmic scale is calibrated in terms of order of magnitude; for example, doubling or powers of 10",
       "hint": "Understand that the logarithmic scale is calibrated in terms of order of magnitude."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "identifying and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale and when it is not appropriate; for example, graphs representing percentage change, a wide range of values or exponential growth",
       "hint": "Identify and interpreting data representations (charts and graphs) that use logarithmic scales and discussing when it is appropriate to use this type of scale."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating and interpreting logarithmic scales used in real-world contexts; for example, Richter, decibel and sensitivity scales or growth in investments, timescales and the spread of micro-organisms and disease and describing reasons for choosing to use a logarithmic scale rather than a linear scale",
       "hint": "Explore and interpreting logarithmic scales used in real-world contexts."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10m02-t-001",

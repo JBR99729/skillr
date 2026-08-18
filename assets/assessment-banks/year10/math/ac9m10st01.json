@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
       "hint": "Identify potentially misleading data representations in the media such as graphs with broken axes."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
       "hint": "Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population",
       "hint": "Explore population rates and discussing potential ethical considerations when presenting statistical data involving infection rates, and the number of cases per head of population."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "using secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication, discussing the ethical considerations of reporting of such data to the wider public, considering validity claims and samples sizes",
       "hint": "Use secondary data to predict the number of people likely to be infected with a strain of flu or experience side effects with a certain medication."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "recognising how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy and ethical implications of artificial intelligence systems",
       "hint": "Recognise how the identification of bias is a critical aspect of machine learning and deep learning because biases can significantly impact the fairness, accuracy."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "using the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report",
       "hint": "Use the concept of Indigenous data sovereignty to critique and evaluate the Australian Government’s “Closing the Gap” report."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "identifying potentially misleading data representations in the media such as graphs with broken axes and scales that do not start at zero or are nonlinear; recognising when data is not related to the claim, not representative of the population or is deliberately being used to mislead, or support a claim or biased point of view",
       "hint": "Identify potentially misleading data representations in the media such as graphs with broken axes."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population",
       "hint": "Explore the source and size of the sample from which the data was collected and deciding whether the sample is appropriately representative of the population."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st01-t-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "If volunteers differ from non-volunteers, the sample may bias a population claim",
       "hint": "Explain how direction or confidence may change."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i06-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Error is not the same as wrongdoing. Random uncertainty, systematic bias, design weakness and selective reporting have different effects.",
       "hint": "Check confounding and design."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i06-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Conflicting evidence may arise from different populations, conditions or methods. Compare compatibility before declaring one result false.",
       "hint": "Seek converging evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i06-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "A strong evaluation traces a claim back through data, processing and method, identifying assumptions and whether limitations could change the conclusion.",
       "hint": "Compare methods and relevance."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i06-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "If volunteers differ from non-volunteers, the sample may bias a population claim",
       "hint": "Explain how direction or confidence may change."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i06-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Error is not the same as wrongdoing. Random uncertainty, systematic bias, design weakness and selective reporting have different effects.",
       "hint": "Check confounding and design."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i06-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Conflicting evidence may arise from different populations, conditions or methods. Compare compatibility before declaring one result false.",
       "hint": "Seek converging evidence."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i06-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "A strong evaluation traces a claim back through data, processing and method, identifying assumptions and whether limitations could change the conclusion.",
       "hint": "Compare methods and relevance."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i06-t-001",

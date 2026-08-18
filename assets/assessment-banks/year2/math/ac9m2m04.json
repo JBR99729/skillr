@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The minute hand shows o'clock, so the time is 2 o'clock.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The minute hand shows quarter past, so the time is quarter past 2.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The minute hand shows half past, so the time is half past 2.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "The minute hand shows quarter to, so the time is quarter to 3.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "At half past, 30 minutes have passed, so the minute hand points to 6.",
       "hint": "Halfway around the clock face lands on 6."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M04-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "A quarter of the way around the clock is 15 minutes, at the 3.",
       "hint": "Start at 12 and move one quarter-turn clockwise."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M04-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "The 9 means quarter to the next hour, which is 3.",
       "hint": "When the minute hand is on 9, name the hour that is coming next."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M04-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "The long minute hand shows how far the hour has passed.",
       "hint": "Look for the hand that points to 12, 3, 6 or 9 for these times."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2M04-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "The minute hand shows o'clock, so the time is 3 o'clock.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The minute hand shows quarter past, so the time is quarter past 3.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The minute hand shows half past, so the time is half past 3.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The minute hand shows quarter to, so the time is quarter to 4.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "At half past, 30 minutes have passed, so the minute hand points to 6.",
       "hint": "Halfway around the clock face lands on 6."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A quarter of the way around the clock is 15 minutes, at the 3.",
       "hint": "Start at 12 and move one quarter-turn clockwise."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "The 9 means quarter to the next hour, which is 4.",
       "hint": "When the minute hand is on 9, name the hour that is coming next."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "The long minute hand shows how far the hour has passed.",
       "hint": "Look for the hand that points to 12, 3, 6 or 9 for these times."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "The minute hand shows o'clock, so the time is 4 o'clock.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The minute hand shows quarter past, so the time is quarter past 4.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "The minute hand shows half past, so the time is half past 4.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The minute hand shows quarter to, so the time is quarter to 5.",
       "hint": "Check the long minute hand first, then the short hour hand."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "At half past, 30 minutes have passed, so the minute hand points to 6.",
       "hint": "Halfway around the clock face lands on 6."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A quarter of the way around the clock is 15 minutes, at the 3.",
       "hint": "Start at 12 and move one quarter-turn clockwise."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The 9 means quarter to the next hour, which is 5.",
       "hint": "When the minute hand is on 9, name the hour that is coming next."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The long minute hand shows how far the hour has passed.",
       "hint": "Look for the hand that points to 12, 3, 6 or 9 for these times."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2M04-T-001",

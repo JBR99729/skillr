@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "At each step choose one of two mutually exclusive observable features",
       "hint": "Unrelated organisms can live in similar habitats."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
       "hint": "Use mutually exclusive alternatives."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
       "hint": "Every valid input needs a path."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
       "hint": "Systems are models revised with evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u01-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "At each step choose one of two mutually exclusive observable features",
       "hint": "Unrelated organisms can live in similar habitats."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u01-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
       "hint": "Use mutually exclusive alternatives."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u01-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
       "hint": "Every valid input needs a path."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u01-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
       "hint": "Systems are models revised with evidence."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u01-t-001",

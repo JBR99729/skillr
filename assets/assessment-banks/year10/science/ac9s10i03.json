@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
       "hint": "Use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
       "hint": "Use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "identifying how human error can affect replicability and reproducibility",
       "hint": "Use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "deciding how much data is needed to produce valid conclusions",
       "hint": "Use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
       "hint": "Use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
       "hint": "Use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "identifying how human error can affect replicability and reproducibility",
       "hint": "Use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "deciding how much data is needed to produce valid conclusions",
       "hint": "Use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i03-t-001",

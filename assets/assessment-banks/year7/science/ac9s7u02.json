@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "Fewer producers can reduce herbivore food and later reduce predator populations",
       "hint": "They show transfer from food to consumer."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Arrows point from the food source toward the consumer receiving matter and energy. Decomposers act on material from every trophic level.",
       "hint": "Energy dissipates as heat; matter cycles."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Predictions should trace pathways and acknowledge feedback, time delays and alternative food sources. A food web is a simplified model, not a complete ecosystem.",
       "hint": "Food webs contain indirect pathways and feedback."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Energy enters ecosystems mainly through producers and flows through feeding relationships, while matter is recycled among organisms and the environment.",
       "hint": "They process dead material from all levels."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u02-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "Fewer producers can reduce herbivore food and later reduce predator populations",
       "hint": "They show transfer from food to consumer."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u02-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Arrows point from the food source toward the consumer receiving matter and energy. Decomposers act on material from every trophic level.",
       "hint": "Energy dissipates as heat; matter cycles."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u02-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Predictions should trace pathways and acknowledge feedback, time delays and alternative food sources. A food web is a simplified model, not a complete ecosystem.",
       "hint": "Food webs contain indirect pathways and feedback."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7u02-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Energy enters ecosystems mainly through producers and flows through feeding relationships, while matter is recycled among organisms and the environment.",
       "hint": "They process dead material from all levels."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7u02-t-001",

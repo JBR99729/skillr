@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features",
       "hint": "Use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i08-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions",
       "hint": "Use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i08-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility",
       "hint": "Use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i08-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "developing an interactive presentation that shows feedback loops in human body systems",
       "hint": "Use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i08-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "planning a social media campaign to encourage young people to reduce their carbon footprint",
       "hint": "Use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i08-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "collaborating to prepare a written report for local government on estimated carbon storage across different local ecosystems and proposals to increase carbon storage across the area",
       "hint": "Use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i08-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features",
       "hint": "Use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i08-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions",
       "hint": "Use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9i08-t-001",

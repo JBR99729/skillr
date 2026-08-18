@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "'The bird landed. It drank water.' with capital and full stops This matches the task.",
       "hint": "Read the text aloud to catch missing words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY06-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Read the text aloud to catch missing words.",
       "hint": "Read the text aloud to catch missing words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY06-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Each purpose matched correctly This matches the task.",
       "hint": "Check sentence, punctuation and spelling separately."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY06-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
       "hint": "Check sentence, punctuation and spelling separately."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY06-P-005",
@@ -167,7 +179,9 @@
     "explanation": {
       "summary": "'My dog runs fast.' adds a suitable verb and complete idea This matches the task.",
       "hint": "Add one precise word from the topic."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Look for re-read and check the whole example.",
       "hint": "Add one precise word from the topic."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY06-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "'The hand applied a push that moved the toy car.' This matches the task.",
       "hint": "Read the text aloud to catch missing words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY06-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Check that you can edit punctuation.",
       "hint": "Read the text aloud to catch missing words."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY06-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Choose purpose/topic → draft → reread/edit → publish/share This matches the task.",
       "hint": "Check sentence, punctuation and spelling separately."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LY06-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing creation and editing.",
       "hint": "Check sentence, punctuation and spelling separately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Three logical events, complete sentences and appropriate time words/punctuation This matches the task.",
       "hint": "Add one precise word from the topic."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Add one precise word from the topic.",
       "hint": "Add one precise word from the topic."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "'I like the park because its shady trees keep the play area cool.' This matches the task.",
       "hint": "Read the text aloud to catch missing words."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
       "hint": "Read the text aloud to catch missing words."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "'A habitat is a place where living things live. It can provide water, food or shelter.' This matches the task.",
       "hint": "Check sentence, punctuation and spelling separately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for re-read and check the whole example.",
       "hint": "Check sentence, punctuation and spelling separately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Picnic spelled correctly in a complete punctuated sentence This matches the task.",
       "hint": "Add one precise word from the topic."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can edit punctuation.",
       "hint": "Add one precise word from the topic."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "All checks matched correctly This matches the task.",
       "hint": "Read the text aloud to catch missing words."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Recognising editing targets.",
       "hint": "Read the text aloud to catch missing words."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "First packed → next walked → finally arrived, in complete sentences or a coherent short recount This matches the task.",
       "hint": "Check sentence, punctuation and spelling separately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Check sentence, punctuation and spelling separately.",
       "hint": "Check sentence, punctuation and spelling separately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "'Roots absorb water from the soil.' with accurate meaning and punctuation This matches the task.",
       "hint": "Add one precise word from the topic."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
       "hint": "Add one precise word from the topic."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LY06-T-001",

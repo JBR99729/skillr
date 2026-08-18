@@ -319,6 +319,11 @@ document.addEventListener("DOMContentLoaded", () => {
       maximumQuestions > 0 &&
       questions.length > maximumQuestions;
   }
+  if (/\/daily-drills\//i.test(window.location.pathname)) {
+    config.shuffleQuestions = false;
+    config.questionCycle = false;
+  }
+
   if (isEmbedMode) {
     config.requireStudentName = false;
     config.certificateOnPass = false;
@@ -342,6 +347,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (isPracticePage) {
     config.preReadSeconds = 0;
+    config.shuffleQuestions = false;
+    config.questionCycle = false;
 
     const preparationNotes =
       document.querySelector(".pre-read-notes");
@@ -1266,9 +1273,90 @@ document.addEventListener("DOMContentLoaded", () => {
     renderCycleProgress();
   }
 
+  function difficultyNumber(value) {
+    if (typeof value === "number" && Number.isFinite(value)) {
+      return Math.max(1, Math.min(5, Math.round(value)));
+    }
+
+    const label = String(value || "").trim().toLowerCase();
+    if (["very easy", "beginner", "intro", "foundation"].includes(label)) return 1;
+    if (["easy", "basic", "recall"].includes(label)) return 2;
+    if (["medium", "standard", "core", "application"].includes(label)) return 3;
+    if (["hard", "challenging", "reasoning"].includes(label)) return 4;
+    if (["very hard", "advanced", "extension", "multi-step"].includes(label)) return 5;
+    return 0;
+  }
+
+  function inferQuestionDifficulty(question) {
+    const explicit = difficultyNumber(
+      question.difficulty ??
+      question.difficultyLevel ??
+      question.difficulty_level ??
+      question.level
+    );
+    if (explicit) return explicit;
+
+    const text = [
+      question.question,
+      question.skill,
+      question.explanation,
+      question.audioPrompt,
+      question.audio_prompt
+    ].filter(Boolean).join(" ").toLowerCase();
+
+    let score = 2;
+
+    if (/identify|name|recognise|recognize|select|match|which number|which word|what is|calculate|find the value/.test(text)) score -= 1;
+    if (/explain|compare|interpret|justify|reason|analyse|analyze|evaluate|predict/.test(text)) score += 1;
+    if (/multi[- ]?step|two[- ]?step|three[- ]?step|simultaneous|unfamiliar|investigate|prove|derive|optimise|optimize/.test(text)) score += 1;
+    if (/therefore|hence|best explains|most appropriate|which conclusion|which inference/.test(text)) score += 1;
+
+    const numberCount = (text.match(/\b\d+(?:\.\d+)?\b/g) || []).length;
+    if (numberCount >= 4) score += 1;
+
+    const questionLength = String(question.question || "").split(/\s+/).filter(Boolean).length;
+    if (questionLength > 45) score += 1;
+
+    if (question.visualMeta?.type && question.visualMeta.type !== "none") score += 0.5;
+
+    return Math.max(1, Math.min(5, Math.round(score)));
+  }
+
+  function shuffleDifficultyBucket(items) {
+    const copy = items.slice();
+    for (let i = copy.length - 1; i > 0; i -= 1) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [copy[i], copy[j]] = [copy[j], copy[i]];
+    }
+    return copy;
+  }
+
+  function orderQuestionsByProgressiveDifficulty(items) {
+    const buckets = new Map([[1, []], [2, []], [3, []], [4, []], [5, []]]);
+
+    items.forEach((question) => {
+      const difficulty = inferQuestionDifficulty(question);
+      question._skillrDifficulty = difficulty;
+      buckets.get(difficulty).push(question);
+    });
+
+    return [1, 2, 3, 4, 5].flatMap((difficulty) =>
+      shuffleDifficultyBucket(buckets.get(difficulty))
+    );
+  }
+
+  function shouldUseProgressiveDifficulty() {
+    const path = window.location.pathname;
+    return /\/practice\/(?:index\.html)?$/i.test(path) || /\/daily-drills\//i.test(path);
+  }
+
   function prepareQuestions() {
   let prepared = questions
     .map(cloneQuestion);
+
+  if (shouldUseProgressiveDifficulty()) {
+    prepared = orderQuestionsByProgressiveDifficulty(prepared);
+  }
 
 
   const maximumQuestions =

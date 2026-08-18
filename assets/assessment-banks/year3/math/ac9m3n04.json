@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "3×4=12.",
       "hint": "Count 3 equal groups of 4."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "12÷3=4.",
       "hint": "Use the related multiplication fact."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N04-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "3 groups of 4 make 12.",
       "hint": "Skip-count by 4 until 12."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N04-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "The number of groups multiplied by the amount in each group gives the total.",
       "hint": "Groups × each = total."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N04-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Division undoes multiplication.",
       "hint": "Start the division fact with the total."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N04-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Rows × columns gives 12.",
       "hint": "Count equal rows, then multiply."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N04-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "12÷4=3.",
       "hint": "Multiply the claimed share by the number of children."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N04-P-008",
@@ -269,7 +290,9 @@
     "explanation": {
       "summary": "Both arrays contain 12 objects; only their orientation changes.",
       "hint": "Imagine turning the array."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "4×5=20.",
       "hint": "Count 4 equal groups of 5."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "20÷4=5.",
       "hint": "Use the related multiplication fact."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "4 groups of 5 make 20.",
       "hint": "Skip-count by 5 until 20."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The number of groups multiplied by the amount in each group gives the total.",
       "hint": "Groups × each = total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Division undoes multiplication.",
       "hint": "Start the division fact with the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Rows × columns gives 20.",
       "hint": "Count equal rows, then multiply."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "20÷5=4.",
       "hint": "Multiply the claimed share by the number of children."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Both arrays contain 20 objects; only their orientation changes.",
       "hint": "Imagine turning the array."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "5×6=30.",
       "hint": "Count 5 equal groups of 6."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "30÷5=6.",
       "hint": "Use the related multiplication fact."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "5 groups of 6 make 30.",
       "hint": "Skip-count by 6 until 30."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The number of groups multiplied by the amount in each group gives the total.",
       "hint": "Groups × each = total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Division undoes multiplication.",
       "hint": "Start the division fact with the total."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Rows × columns gives 30.",
       "hint": "Count equal rows, then multiply."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "30÷6=5.",
       "hint": "Multiply the claimed share by the number of children."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Both arrays contain 30 objects; only their orientation changes.",
       "hint": "Imagine turning the array."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N04-T-001",

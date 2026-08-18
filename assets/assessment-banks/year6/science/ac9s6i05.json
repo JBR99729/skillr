@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "random error means unpredictable variation among measurements.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-002",
@@ -65,7 +67,10 @@
     "explanation": {
       "summary": "systematic error means consistent bias in one direction.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I05-P-003",
@@ -99,7 +104,9 @@
     "explanation": {
       "summary": "evidence-based conclusion means claim proportionate to data and method.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "Check method and variation.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-005",
@@ -167,7 +176,9 @@
     "explanation": {
       "summary": "Investigate first.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-006",
@@ -201,7 +212,9 @@
     "explanation": {
       "summary": "Systematic error remains.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-007",
@@ -235,7 +248,9 @@
     "explanation": {
       "summary": "State conditions and limitations.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-008",
@@ -269,7 +284,10 @@
     "explanation": {
       "summary": "The organiser links A with 8.2°C; lamp 20 cm; 3 trials.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I05-P-009",
@@ -303,7 +321,9 @@
     "explanation": {
       "summary": "The organiser links B with 8.5°C; lamp 20 cm; 3 trials.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-010",
@@ -337,7 +357,10 @@
     "explanation": {
       "summary": "The organiser links C with 12.9°C; lamp 10 cm; 1 trial.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I05-P-011",
@@ -371,7 +394,10 @@
     "explanation": {
       "summary": "The organiser links evaluation with A/B comparable; C method differs.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I05-P-012",
@@ -405,7 +431,9 @@
     "explanation": {
       "summary": "Different lamp distance and only one trial is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-013",
@@ -439,7 +467,10 @@
     "explanation": {
       "summary": "Check method, instrument and recording evidence is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I05-P-014",
@@ -473,7 +504,9 @@
     "explanation": {
       "summary": "random error means unpredictable variation among measurements.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-015",
@@ -507,7 +540,9 @@
     "explanation": {
       "summary": "systematic error means consistent bias in one direction.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-016",
@@ -541,7 +576,9 @@
     "explanation": {
       "summary": "evidence-based conclusion means claim proportionate to data and method.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-017",
@@ -575,7 +612,9 @@
     "explanation": {
       "summary": "Check method and variation.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-018",
@@ -609,7 +648,9 @@
     "explanation": {
       "summary": "Investigate first.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-019",
@@ -643,7 +684,9 @@
     "explanation": {
       "summary": "Systematic error remains.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-020",
@@ -677,7 +720,9 @@
     "explanation": {
       "summary": "State conditions and limitations.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-021",
@@ -711,7 +756,10 @@
     "explanation": {
       "summary": "The organiser links A with 8.2°C; lamp 20 cm; 3 trials.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I05-P-022",
@@ -745,7 +793,10 @@
     "explanation": {
       "summary": "The organiser links B with 8.5°C; lamp 20 cm; 3 trials.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I05-P-023",
@@ -779,7 +830,9 @@
     "explanation": {
       "summary": "The organiser links C with 12.9°C; lamp 10 cm; 1 trial.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6I05-P-024",
@@ -813,7 +866,10 @@
     "explanation": {
       "summary": "The organiser links evaluation with A/B comparable; C method differs.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6I05-T-001",

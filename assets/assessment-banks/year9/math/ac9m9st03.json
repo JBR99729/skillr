@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”",
       "hint": "Describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
       "hint": "Use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims",
       "hint": "Construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”",
       "hint": "Explore comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st03-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”",
       "hint": "Describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st03-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
       "hint": "Use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st03-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims",
       "hint": "Construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st03-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”",
       "hint": "Explore comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st03-t-001",

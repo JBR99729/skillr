@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
       "hint": "Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
       "hint": "Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold",
       "hint": "Use the labelled model to investigate investigate two categorical variables."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
       "hint": "Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
       "hint": "Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold",
       "hint": "Use the labelled model to investigate investigate two categorical variables."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
       "hint": "Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
       "hint": "Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st04-t-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots",
       "hint": "Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)",
       "hint": "Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest",
       "hint": "Use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison",
       "hint": "Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context",
       "hint": "Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots",
       "hint": "Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)",
       "hint": "Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest",
       "hint": "Use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9st04-t-001",

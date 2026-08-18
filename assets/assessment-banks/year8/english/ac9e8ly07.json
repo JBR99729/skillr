@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "integrating multimodal features in a spoken presentation to support the audience’s understanding",
       "hint": "A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s understanding and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly07-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs; for example, when debating a topic or creating a voiceover for a media presentation",
       "hint": "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly07-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented",
       "hint": "A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly07-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "collaborating with peers to develop a persuasive advertising campaign about a contemporary issue",
       "hint": "A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly07-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "integrating multimodal features in a spoken presentation to support the audience’s understanding",
       "hint": "A writer or speaker can use purpose to shape integrating multimodal features in a spoken presentation to support the audience’s understanding and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly07-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs; for example, when debating a topic or creating a voiceover for a media presentation",
       "hint": "A writer or speaker can use structure to shape choosing vocabulary and sentence structures, and using literary devices such as similes, metaphors and personification to meet perceived audience needs and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly07-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "selecting features of voice, such as tone, volume, pitch and pace, with particular attention to the effects these may have on audience reaction and acceptance of the ideas presented",
       "hint": "A writer or speaker can use evidence to shape selecting features of voice and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly07-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "collaborating with peers to develop a persuasive advertising campaign about a contemporary issue",
       "hint": "A writer or speaker can use audience to shape collaborating with peers to develop a persuasive advertising campaign about a contemporary issue and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8ly07-t-001",

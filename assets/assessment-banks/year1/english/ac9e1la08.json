@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "It may establish stormy setting, danger or worried mood, supported by visible details This matches the task.",
       "hint": "Explain how the image changes or supports meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA08-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Explain how the image changes or supports meaning.",
       "hint": "Explain how the image changes or supports meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA08-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Each image type matches its purpose-related contribution This matches the task.",
       "hint": "Read words and image together."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA08-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
       "hint": "Read words and image together."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA08-P-005",
@@ -167,7 +179,9 @@
     "explanation": {
       "summary": "Diagram gives factual parts/features; illustration develops character, setting or event This matches the task.",
       "hint": "Different images can support different meanings."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-006",
@@ -201,7 +215,9 @@
     "explanation": {
       "summary": "Look for meaning and check the whole example.",
       "hint": "Different images can support different meanings."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "It identifies time and stage, helping readers interpret the image as evidence of change This matches the task.",
       "hint": "Explain how the image changes or supports meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA08-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "Check that you can notice mood/detail.",
       "hint": "Explain how the image changes or supports meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA08-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Read title/caption and notice details → connect to text → decide contribution This matches the task.",
       "hint": "Read words and image together."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA08-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Sequencing multimodal interpretation.",
       "hint": "Read words and image together."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LA08-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Safety image highlights labelled equipment/action This matches the task.",
       "hint": "Different images can support different meanings."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Different images can support different meanings.",
       "hint": "Different images can support different meanings."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "No; it shows one pictured response and may be staged; it cannot prove a universal claim This matches the task.",
       "hint": "Explain how the image changes or supports meaning."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
       "hint": "Explain how the image changes or supports meaning."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Step pictures because they show action/order needed to complete the task This matches the task.",
       "hint": "Read words and image together."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for meaning and check the whole example.",
       "hint": "Read words and image together."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "A plausible feeling such as sad/disappointed with both visual details cited This matches the task.",
       "hint": "Different images can support different meanings."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can notice mood/detail.",
       "hint": "Different images can support different meanings."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words This matches the task.",
       "hint": "Explain how the image changes or supports meaning."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Recognising specialised visual-text features.",
       "hint": "Explain how the image changes or supports meaning."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Child kicks → window breaks → inspection This matches the task.",
       "hint": "Read words and image together."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Read words and image together.",
       "hint": "Read words and image together."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The apple/product; large size creates visual emphasis This matches the task.",
       "hint": "Different images can support different meanings."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
       "hint": "Different images can support different meanings."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LA08-T-001",

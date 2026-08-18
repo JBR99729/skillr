@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint",
       "hint": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la04-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint",
       "hint": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la04-p-003",
@@ -108,7 +114,9 @@
     "explanation": {
       "summary": "writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint",
       "hint": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9e8la04-p-004",
@@ -145,7 +153,10 @@
     "explanation": {
       "summary": "writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint",
       "hint": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la04-p-005",
@@ -182,7 +193,10 @@
     "explanation": {
       "summary": "writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint",
       "hint": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la04-p-006",
@@ -219,7 +233,10 @@
     "explanation": {
       "summary": "writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint",
       "hint": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la04-p-007",
@@ -256,7 +273,10 @@
     "explanation": {
       "summary": "writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint",
       "hint": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la04-p-008",
@@ -293,7 +313,10 @@
     "explanation": {
       "summary": "writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint",
       "hint": "A writer or speaker can use word choice to shape writing paragraphs of extended length that explain, substantiate and exemplify a particular viewpoint and influence how an audience understands the text."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e8la04-t-001",

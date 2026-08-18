@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
       "hint": "Use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
       "hint": "Use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
       "hint": "Use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "examining the link between scientific research and real-world applications such as space research and new material development",
       "hint": "Use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "considering the use of genetic testing for decisions such as genetic counselling, embryo selection, identification of carriers of genetic mutations and the use of this information for personal use or by organisations such as insurance companies or medical facilities",
       "hint": "Use the use of genetic testing for decisions to make the role of societal need visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "researching how the values of 19th and early 20th century Australian society, combined with scientific misconceptions about heredity and evolution, influenced policies and attitudes towards First Nations Australians",
       "hint": "Use how the values of 19th and early 20th century to make the role of value or concern visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "recognising that financial backing from governments or commercial organisations is needed for scientific developments and that this can determine what research is carried out",
       "hint": "Use financial backing from governments or commercial organisations is needed to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "examining the link between scientific research and real-world applications such as space research and new material development",
       "hint": "Use the link between scientific research and real-world applications to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10h04-t-001",

@@ -31,7 +31,9 @@
     "explanation": {
       "summary": "There are 2 groups of 2. Skip count by 2 to 4.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-002",
@@ -65,7 +67,9 @@
     "explanation": {
       "summary": "Add 5 each time, so the missing number is 20.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-003",
@@ -99,7 +103,10 @@
     "explanation": {
       "summary": "Skip count 2 a total of 5 times to reach 10.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N03-P-004",
@@ -133,7 +140,9 @@
     "explanation": {
       "summary": "5 full groups of 2 make 10; 1 more make 11.",
       "hint": "Start with the first amount and count on the second amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-005",
@@ -167,7 +176,9 @@
     "explanation": {
       "summary": "4×10=40, with 1 more.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-006",
@@ -201,7 +212,9 @@
     "explanation": {
       "summary": "Equal groups of 10 reduce the number of count steps and are easy to check.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-007",
@@ -235,7 +248,9 @@
     "explanation": {
       "summary": "9 tens make 90; 8 singles make the total 98.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-008",
@@ -269,7 +284,9 @@
     "explanation": {
       "summary": "Only equal full groups can be counted as 5 each.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-009",
@@ -303,7 +320,10 @@
     "explanation": {
       "summary": "Equal groups contain the same number in every group.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N03-P-010",
@@ -337,7 +357,10 @@
     "explanation": {
       "summary": "Each selected grouping has a total of 30.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N03-P-011",
@@ -371,7 +394,9 @@
     "explanation": {
       "summary": "Counting by 5s gives 5, 10, 15, 20, 25.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-012",
@@ -405,7 +430,10 @@
     "explanation": {
       "summary": "Add 10: 50+10=60.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N03-P-013",
@@ -439,7 +467,9 @@
     "explanation": {
       "summary": "B has one more full group: 6 compared with 4.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-014",
@@ -473,7 +503,9 @@
     "explanation": {
       "summary": "Skip counting once for every equal group confirms 20.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-015",
@@ -507,7 +539,9 @@
     "explanation": {
       "summary": "6 rows of 2 make 12.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-016",
@@ -541,7 +575,9 @@
     "explanation": {
       "summary": "Skip count the full equal groups, then add the leftovers.",
       "hint": "Show the starting amount, take away the given part, then count what remains."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-017",
@@ -575,7 +611,9 @@
     "explanation": {
       "summary": "Every bracket contains 5 objects.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-018",
@@ -609,7 +647,9 @@
     "explanation": {
       "summary": "There are 8 separate equal groups.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-019",
@@ -643,7 +683,9 @@
     "explanation": {
       "summary": "There are 9 groups of 5. Skip count by 5 to 45.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-020",
@@ -677,7 +719,9 @@
     "explanation": {
       "summary": "Add 10 each time, so the missing number is 30.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-021",
@@ -711,7 +755,10 @@
     "explanation": {
       "summary": "Skip count 5 a total of 3 times to reach 15.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N03-P-022",
@@ -745,7 +792,9 @@
     "explanation": {
       "summary": "3 full groups of 5 make 15; 4 more make 19.",
       "hint": "Start with the first amount and count on the second amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-023",
@@ -779,7 +828,9 @@
     "explanation": {
       "summary": "14×2=28, with 0 more.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-024",
@@ -813,7 +864,9 @@
     "explanation": {
       "summary": "Equal groups of 10 reduce the number of count steps and are easy to check.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-025",
@@ -847,7 +900,9 @@
     "explanation": {
       "summary": "3 tens make 30; 0 singles make the total 30.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-026",
@@ -881,7 +936,9 @@
     "explanation": {
       "summary": "Only equal full groups can be counted as 10 each.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-027",
@@ -915,7 +972,10 @@
     "explanation": {
       "summary": "Equal groups contain the same number in every group.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N03-P-028",
@@ -949,7 +1009,10 @@
     "explanation": {
       "summary": "Each selected grouping has a total of 60.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N03-P-029",
@@ -983,7 +1046,9 @@
     "explanation": {
       "summary": "Counting by 10s gives 10, 20, 30, 40, 50.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-030",
@@ -1017,7 +1082,10 @@
     "explanation": {
       "summary": "Add 2: 16+2=18.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M1N03-P-031",
@@ -1051,7 +1119,9 @@
     "explanation": {
       "summary": "B has one more full group: 20 compared with 15.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-032",
@@ -1085,7 +1155,9 @@
     "explanation": {
       "summary": "Skip counting once for every equal group confirms 50.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-033",
@@ -1119,7 +1191,9 @@
     "explanation": {
       "summary": "5 rows of 3 make 15.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-034",
@@ -1153,7 +1227,9 @@
     "explanation": {
       "summary": "Skip count the full equal groups, then add the leftovers.",
       "hint": "Show the starting amount, take away the given part, then count what remains."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-035",
@@ -1187,7 +1263,9 @@
     "explanation": {
       "summary": "Every bracket contains 10 objects.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-036",
@@ -1221,7 +1299,9 @@
     "explanation": {
       "summary": "There are 3 separate equal groups.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-037",
@@ -1255,7 +1335,9 @@
     "explanation": {
       "summary": "There are 8 groups of 10. Skip count by 10 to 80.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-038",
@@ -1289,7 +1371,9 @@
     "explanation": {
       "summary": "Add 2 each time, so the missing number is 12.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-039",
@@ -1323,7 +1407,9 @@
     "explanation": {
       "summary": "Skip count 10 a total of 8 times to reach 80.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-040",
@@ -1357,7 +1443,9 @@
     "explanation": {
       "summary": "8 full groups of 10 make 80; 9 more make 89.",
       "hint": "Start with the first amount and count on the second amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-041",
@@ -1391,7 +1479,9 @@
     "explanation": {
       "summary": "3×5=15, with 0 more.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-042",
@@ -1425,7 +1515,9 @@
     "explanation": {
       "summary": "Equal groups of 10 reduce the number of count steps and are easy to check.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-043",
@@ -1459,7 +1551,9 @@
     "explanation": {
       "summary": "6 tens make 60; 3 singles make the total 63.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-044",
@@ -1493,7 +1587,9 @@
     "explanation": {
       "summary": "Only equal full groups can be counted as 2 each.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-045",
@@ -1527,7 +1623,9 @@
     "explanation": {
       "summary": "Equal groups contain the same number in every group.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-046",
@@ -1561,7 +1659,9 @@
     "explanation": {
       "summary": "Each selected grouping has a total of 120.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-047",
@@ -1595,7 +1695,9 @@
     "explanation": {
       "summary": "Counting by 2s gives 2, 4, 6, 8, 10.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-048",
@@ -1629,7 +1731,9 @@
     "explanation": {
       "summary": "Add 5: 15+5=20.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-049",
@@ -1663,7 +1767,9 @@
     "explanation": {
       "summary": "B has one more full group: 50 compared with 40.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-050",
@@ -1697,7 +1803,9 @@
     "explanation": {
       "summary": "Skip counting once for every equal group confirms 12.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-051",
@@ -1731,7 +1839,9 @@
     "explanation": {
       "summary": "4 rows of 4 make 16.",
       "hint": "Count each amount carefully, then compare the two totals."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-052",
@@ -1765,7 +1875,9 @@
     "explanation": {
       "summary": "Skip count the full equal groups, then add the leftovers.",
       "hint": "Show the starting amount, take away the given part, then count what remains."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-053",
@@ -1799,7 +1911,9 @@
     "explanation": {
       "summary": "Every bracket contains 2 objects.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-054",
@@ -1833,7 +1947,9 @@
     "explanation": {
       "summary": "There are 5 separate equal groups.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-055",
@@ -1867,7 +1983,9 @@
     "explanation": {
       "summary": "There are 7 groups of 2. Skip count by 2 to 14.",
       "hint": "Make equal groups or equal parts, then check that each one has the same amount."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-P-056",
@@ -1901,7 +2019,9 @@
     "explanation": {
       "summary": "Add 5 each time, so the missing number is 25.",
       "hint": "Find what changes or repeats each time, then use the same rule once more."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M1N03-T-001",

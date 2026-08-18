@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "modelling and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions",
       "hint": "Model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m07-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "modelling problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel",
       "hint": "Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m07-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "modelling situations involving financial contexts; for example, income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay; comparing the benefits of different phone plans using different call rates and associated fees to determine the best plan",
       "hint": "Model situations involving financial contexts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m07-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "modelling situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms, to measure dates of First Peoples of Australia’s habitation on the Australian continent",
       "hint": "Model situations involving the use of ratios in radiocarbon dating methods, including the ratio of carbon-14 to carbon-12 isotopes in organisms."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m07-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "modelling situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope, the strength of the ply in proportion to a rope’s pulling force, and the proportion of fibre for the length of string required",
       "hint": "Model situations involving ratio and its application in the making of string and cordage by First Nations Australians, including the ratio of length to the mass of a rope."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m07-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "modelling and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios and proportions",
       "hint": "Model and solving problems related to situations such as scales on maps and plans, the mixing of chemicals or ingredients, or calculating magnification factors applying relevant ratios."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m07-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "modelling problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel",
       "hint": "Model problems involving converting money amounts using different exchange rates and applying them when planning and budgeting for overseas travel."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m07-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "modelling situations involving financial contexts; for example, income tax, using taxation rates on annual income, comparing different taxation brackets and rates of pay; comparing the benefits of different phone plans using different call rates and associated fees to determine the best plan",
       "hint": "Model situations involving financial contexts."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8m07-t-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "exploring the body’s observable responses to external stimuli (such as changes in light or temperature, or presence of danger or pathogens) or internal stimuli (such as dehydration or hunger)",
       "hint": "Use the body’s observable responses to external stimuli (such to make the role of stimulus visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using models, flow diagrams and virtual simulations to explore and represent the relationships between body systems that are necessary to coordinate a response to stimuli",
       "hint": "Use models, flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "comparing the role and function of electrical impulses and hormones in the body’s responses to external stimuli",
       "hint": "Use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "modelling how the process of regulation is monitored and adjusted by connections between the receptor, command centre and effector",
       "hint": "Use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "examining the effects of a disorder in a feedback system, such as diabetes-induced blindness or hypothermia",
       "hint": "Use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "considering how understanding of feedback mechanisms has enabled the development of pharmaceuticals and other products to address issues or enhance performance, such as insulin or electrolytes in sports drinks",
       "hint": "Use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "exploring the body’s observable responses to external stimuli (such as changes in light or temperature, or presence of danger or pathogens) or internal stimuli (such as dehydration or hunger)",
       "hint": "Use the body’s observable responses to external stimuli (such to make the role of stimulus visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using models, flow diagrams and virtual simulations to explore and represent the relationships between body systems that are necessary to coordinate a response to stimuli",
       "hint": "Use models, flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u01-t-001",

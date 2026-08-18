@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
       "hint": "They may be unsupported precision."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i03-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "Reporting more decimal places than the instrument supports creates false precision.",
       "hint": "Systematic error remains."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i03-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
       "hint": "Over-range readings may be invalid."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i03-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
       "hint": "Audit setup and calibration."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i03-p-005",
@@ -182,7 +190,10 @@
     "explanation": {
       "summary": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
       "hint": "They may be unsupported precision."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i03-p-006",
@@ -219,7 +230,10 @@
     "explanation": {
       "summary": "Reporting more decimal places than the instrument supports creates false precision.",
       "hint": "Systematic error remains."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i03-p-007",
@@ -256,7 +270,10 @@
     "explanation": {
       "summary": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
       "hint": "Over-range readings may be invalid."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9s7i03-p-008",
@@ -293,7 +310,9 @@
     "explanation": {
       "summary": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
       "hint": "Audit setup and calibration."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s7i03-t-001",

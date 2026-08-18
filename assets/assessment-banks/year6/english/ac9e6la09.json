@@ -34,7 +34,10 @@
     "explanation": {
       "summary": "This choice best demonstrates punctuate a list in the stated context.",
       "hint": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la09-p-002",
@@ -71,7 +74,10 @@
     "explanation": {
       "summary": "comma splice means incorrect joining of independent clauses by comma alone.",
       "hint": "Match the definition to the most precise term used in Commas for Lists, Clauses and Clarity."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la09-p-003",
@@ -108,7 +114,10 @@
     "explanation": {
       "summary": "This answer applies the relevant language feature accurately.",
       "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la09-p-004",
@@ -145,7 +154,10 @@
     "explanation": {
       "summary": "Use grammar and meaning",
       "hint": "Check the concept boundary, not just whether the wording sounds confident."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la09-p-005",
@@ -182,7 +194,10 @@
     "explanation": {
       "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
       "hint": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la09-p-006",
@@ -219,7 +234,10 @@
     "explanation": {
       "summary": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear",
       "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la09-p-007",
@@ -256,7 +274,10 @@
     "explanation": {
       "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
       "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la09-p-008",
@@ -293,7 +314,10 @@
     "explanation": {
       "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
       "hint": "Look for application and explanation rather than a feature name alone."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e6la09-t-001",

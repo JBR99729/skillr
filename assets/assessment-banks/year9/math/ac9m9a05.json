@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "modelling practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically",
       "hint": "Model practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "modelling measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w; for example, l=w,\\;l=w+5,\\;l=3w,\\;l=2w+7",
       "hint": "Model measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "modelling practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically, interpreting features of the graphs such as the turning point and intercepts in context; for example, area, paths of projectiles, parabolic mirrors, satellite dishes",
       "hint": "Model practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "modelling and solving problems involving financial contexts using linear functions; for example, combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees",
       "hint": "Model and solving problems involving financial contexts using linear functions."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a05-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "modelling situations involving change; for example, change in daily temperature during the ski season, fluctuation of speed above and below the speed limit, acceleration and deceleration of a car coming to and moving off from a set of traffic lights",
       "hint": "Model situations involving change."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a05-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "modelling the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey",
       "hint": "Model the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a05-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "modelling practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically",
       "hint": "Model practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a05-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "modelling measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w; for example, l=w,\\;l=w+5,\\;l=3w,\\;l=2w+7",
       "hint": "Model measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9a05-t-001",

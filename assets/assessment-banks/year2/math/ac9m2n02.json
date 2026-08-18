@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "235 has 2 hundreds, 3 tens and 5 ones.",
       "hint": "Read each digit by its place."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "One ten has the same value as 10 ones.",
       "hint": "Count the unit squares in a ten rod."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Regrouping 1 hundred as 10 tens keeps the total at 235.",
       "hint": "Take one hundred away and add ten tens."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "The zero sits in the tens place, so 205 has 0 tens.",
       "hint": "Name the columns from left to right: hundreds, tens, ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "One ten was traded for 10 ones, so the total value stays 235.",
       "hint": "Compare the parts after regrouping, not just the number of pieces."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N02-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "35 has 3 full tens and 5 ones.",
       "hint": "Group the amount into tens before counting leftover ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N02-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
       "hint": "Every trade must exchange equal value."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N02-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "35 ones regroup as 3 tens and 5 ones, making 235.",
       "hint": "Make groups of 10 from the ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M2N02-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "346 has 3 hundreds, 4 tens and 6 ones.",
       "hint": "Read each digit by its place."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "One ten has the same value as 10 ones.",
       "hint": "Count the unit squares in a ten rod."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Regrouping 1 hundred as 10 tens keeps the total at 346.",
       "hint": "Take one hundred away and add ten tens."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The zero sits in the tens place, so 306 has 0 tens.",
       "hint": "Name the columns from left to right: hundreds, tens, ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "One ten was traded for 10 ones, so the total value stays 346.",
       "hint": "Compare the parts after regrouping, not just the number of pieces."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "46 has 4 full tens and 6 ones.",
       "hint": "Group the amount into tens before counting leftover ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
       "hint": "Every trade must exchange equal value."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "46 ones regroup as 4 tens and 6 ones, making 346.",
       "hint": "Make groups of 10 from the ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "457 has 4 hundreds, 5 tens and 7 ones.",
       "hint": "Read each digit by its place."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "One ten has the same value as 10 ones.",
       "hint": "Count the unit squares in a ten rod."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Regrouping 1 hundred as 10 tens keeps the total at 457.",
       "hint": "Take one hundred away and add ten tens."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The zero sits in the tens place, so 407 has 0 tens.",
       "hint": "Name the columns from left to right: hundreds, tens, ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "One ten was traded for 10 ones, so the total value stays 457.",
       "hint": "Compare the parts after regrouping, not just the number of pieces."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "57 has 5 full tens and 7 ones.",
       "hint": "Group the amount into tens before counting leftover ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Taking away a ten without adding 10 ones makes the value 10 less.",
       "hint": "Every trade must exchange equal value."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "57 ones regroup as 5 tens and 7 ones, making 457.",
       "hint": "Make groups of 10 from the ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M2N02-T-001",

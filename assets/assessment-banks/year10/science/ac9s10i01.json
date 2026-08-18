@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
       "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i01-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
       "hint": "Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i01-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
       "hint": "Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i01-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
       "hint": "Use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i01-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
       "hint": "Use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i01-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
       "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i01-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
       "hint": "Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i01-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
       "hint": "Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s10i01-t-001",

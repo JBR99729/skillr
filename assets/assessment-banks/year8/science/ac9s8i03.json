@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The reading and digits should match the scale resolution and correct meniscus method.",
       "hint": "Estimate only one sensible digit beyond the graduations."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I03-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Instrument range and resolution must suit the size and required precision.",
       "hint": "Choose an instrument that spans the leaf and gives useful detail."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I03-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Resolution describes display detail; accuracy also depends on calibration and method.",
       "hint": "Do not confuse decimal places with closeness to the true value."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I03-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "Timing many cycles reduces the relative effect of start-stop reaction time.",
       "hint": "Make the measured interval much longer than the timing delay."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Measurements from one instrument should use consistent, justified precision and units.",
       "hint": "Check whether the number of digits matches the instrument."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I03-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "An instrument must safely include the expected measurement within its range.",
       "hint": "Compare 600 degrees with the instrument maximum."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I03-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "A perpendicular line of sight reduces apparent displacement against a scale.",
       "hint": "Align the eye directly above the reading."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I03-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Reported precision cannot exceed what the comparison scale can resolve.",
       "hint": "Use approximate language for a coarse colour match."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I03-P-009",
@@ -303,7 +326,9 @@
     "explanation": {
       "summary": "An unusual measurement is investigated transparently before treatment.",
       "hint": "Check for a recording, equipment or sample change."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Volumetric equipment gives suitable precision for a specified liquid volume.",
       "hint": "Choose the equipment designed to deliver that exact volume."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I03-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Useful dissolving time data require suitable range, resolution, technique, units and precision. This conclusion concerns water temperature and sugar dissolving time.",
       "hint": "Match the instrument to the size and detail required for dissolving time. Apply this to water temperature and sugar dissolving time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Useful travel time data require suitable range, resolution, technique, units and precision. This conclusion concerns ramp angle and toy-car travel time.",
       "hint": "Match the instrument to the size and detail required for travel time. Apply this to ramp angle and toy-car travel time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Useful bubbles per minute data require suitable range, resolution, technique, units and precision. This conclusion concerns light intensity and pondweed bubble rate.",
       "hint": "Match the instrument to the size and detail required for bubbles per minute. Apply this to light intensity and pondweed bubble rate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Useful height after 14 days data require suitable range, resolution, technique, units and precision. This conclusion concerns soil type and bean-seedling height.",
       "hint": "Match the instrument to the size and detail required for height after 14 days. Apply this to soil type and bean-seedling height."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Useful current data require suitable range, resolution, technique, units and precision. This conclusion concerns wire length and electrical current.",
       "hint": "Match the instrument to the size and detail required for current. Apply this to wire length and electrical current."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Useful recovery time data require suitable range, resolution, technique, units and precision. This conclusion concerns exercise duration and pulse recovery.",
       "hint": "Match the instrument to the size and detail required for recovery time. Apply this to exercise duration and pulse recovery."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Useful floating height data require suitable range, resolution, technique, units and precision. This conclusion concerns salt concentration and egg buoyancy.",
       "hint": "Match the instrument to the size and detail required for floating height. Apply this to salt concentration and egg buoyancy."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Useful temperature loss data require suitable range, resolution, technique, units and precision. This conclusion concerns insulation material and cooling.",
       "hint": "Match the instrument to the size and detail required for temperature loss. Apply this to insulation material and cooling."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Useful mass of water lost data require suitable range, resolution, technique, units and precision. This conclusion concerns surface area and evaporation.",
       "hint": "Match the instrument to the size and detail required for mass of water lost. Apply this to surface area and evaporation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Useful time to digest starch data require suitable range, resolution, technique, units and precision. This conclusion concerns pH and amylase activity.",
       "hint": "Match the instrument to the size and detail required for time to digest starch. Apply this to pH and amylase activity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Useful crater diameter data require suitable range, resolution, technique, units and precision. This conclusion concerns drop height and crater diameter.",
       "hint": "Match the instrument to the size and detail required for crater diameter. Apply this to drop height and crater diameter."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Useful change in frond number data require suitable range, resolution, technique, units and precision. This conclusion concerns fertiliser concentration and duckweed growth.",
       "hint": "Match the instrument to the size and detail required for change in frond number. Apply this to fertiliser concentration and duckweed growth."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Useful rotations per minute data require suitable range, resolution, technique, units and precision. This conclusion concerns blade length and paper-turbine rotation.",
       "hint": "Match the instrument to the size and detail required for rotations per minute. Apply this to blade length and paper-turbine rotation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Useful drops held on a coin data require suitable range, resolution, technique, units and precision. This conclusion concerns detergent concentration and surface tension.",
       "hint": "Match the instrument to the size and detail required for drops held on a coin. Apply this to detergent concentration and surface tension."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I03-T-001",

@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Emergency science communication must be credible, targeted and actionable.",
       "hint": "Consider what the audience must do immediately."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H04-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Popularity is not evidence; credible claims can be traced to transparent, relevant sources.",
       "hint": "Follow the claim back to how it was tested."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H04-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "Relative and absolute risk together give a clearer account of magnitude.",
       "hint": "A large percentage change can start from a very small baseline."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "Changing calibrated uncertainty into certainty misrepresents evidence and can alter responses.",
       "hint": "Compare 'likely' with 'guaranteed'."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H04-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Engagement can attract attention, but informed decisions also require accurate, checkable evidence.",
       "hint": "Ask what factual questions the audience still needs answered."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H04-P-006",
@@ -201,7 +215,10 @@
     "explanation": {
       "summary": "Accessible formats are necessary for scientific information to support community action.",
       "hint": "Communication succeeds only if its intended audience can use it."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H04-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "Selecting only summary evidence can conceal patterns important to particular groups.",
       "hint": "Ask what the average smooths out."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H04-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Axis choices shape visual emphasis without changing the underlying values.",
       "hint": "Read the axis numbers before judging the shape."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H04-P-009",
@@ -303,7 +326,10 @@
     "explanation": {
       "summary": "Audience adaptation can improve access while preserving links to evidence and detail.",
       "hint": "Simplify delivery without changing scientific meaning."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8H04-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Transparent revision shows how advice responds to evidence and its limitations.",
       "hint": "Trust can grow when the basis for change is visible."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Readers cannot reliably interpret colours or categories",
       "hint": "Identify information needed to decode the display."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The evidence's population and certainty",
       "hint": "Check sample and generalisation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Higher screen time was associated with less sleep in this sample",
       "hint": "Association is not automatic causation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "New data changed the probability, not that the earlier forecast was a lie",
       "hint": "Forecasts update with evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "People using screen readers may miss the scientific content",
       "hint": "Accessibility is part of communication."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Funding, methods, data and researcher conflicts",
       "hint": "Transparency enables scrutiny."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Whether the speaker has relevant expertise and supports claims with evidence",
       "hint": "Expertise is domain-specific."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Cases per population with testing context",
       "hint": "Use a fair denominator."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Information order and prominence can bias what audiences notice",
       "hint": "Presentation shapes attention."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "A bounded uncertainty was reframed as total ignorance",
       "hint": "Represent degree of confidence accurately."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Test culturally and linguistically clear translations with target users",
       "hint": "Meaning and action matter more than literal matching."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Whether the selected period represents the longer pattern",
       "hint": "Inspect selection and full context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The sizes and spacing are modelled, not literal scale",
       "hint": "Label model conventions."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The audience cannot judge where the finding applies",
       "hint": "Communicate scope with results."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8H04-T-001",

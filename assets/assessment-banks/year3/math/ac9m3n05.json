@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Round to nearby tens, then add.",
       "hint": "Choose nearby friendly numbers."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Estimate with equal groups: 6×9≈54.",
       "hint": "Multiply the approximate row count by the approximate amount per row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N05-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "650 is far larger than both addends combined.",
       "hint": "Compare the estimate with the size of the numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-004",
@@ -133,7 +141,10 @@
     "explanation": {
       "summary": "The ones digit decides whether the tens digit stays or increases.",
       "hint": "Locate 103 between two multiples of 10."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N05-P-005",
@@ -167,7 +178,10 @@
     "explanation": {
       "summary": "Using the visible groups gives evidence for the estimate.",
       "hint": "Use the repeated structure in the collection."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N05-P-006",
@@ -201,7 +215,9 @@
     "explanation": {
       "summary": "A useful estimate is close enough for the purpose.",
       "hint": "Find the difference between estimate and exact answer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-007",
@@ -235,7 +251,10 @@
     "explanation": {
       "summary": "An estimate helps detect an unreasonable exact calculation.",
       "hint": "Think of estimation as a reasonableness check."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N05-P-008",
@@ -269,7 +288,10 @@
     "explanation": {
       "summary": "Both addends are greater than 20, so their sum cannot be about 20.",
       "hint": "Use the size of each addend to reject impossible estimates."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N05-P-009",
@@ -303,7 +325,10 @@
     "explanation": {
       "summary": "Round to nearby tens, then add.",
       "hint": "Choose nearby friendly numbers."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N05-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Estimate with equal groups: 7×10≈70.",
       "hint": "Multiply the approximate row count by the approximate amount per row."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "750 is far larger than both addends combined.",
       "hint": "Compare the estimate with the size of the numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "The ones digit decides whether the tens digit stays or increases.",
       "hint": "Locate 152 between two multiples of 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Using the visible groups gives evidence for the estimate.",
       "hint": "Use the repeated structure in the collection."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "A useful estimate is close enough for the purpose.",
       "hint": "Find the difference between estimate and exact answer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "An estimate helps detect an unreasonable exact calculation.",
       "hint": "Think of estimation as a reasonableness check."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Both addends are greater than 20, so their sum cannot be about 20.",
       "hint": "Use the size of each addend to reject impossible estimates."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Round to nearby tens, then add.",
       "hint": "Choose nearby friendly numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Estimate with equal groups: 8×11≈88.",
       "hint": "Multiply the approximate row count by the approximate amount per row."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "850 is far larger than both addends combined.",
       "hint": "Compare the estimate with the size of the numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "The ones digit decides whether the tens digit stays or increases.",
       "hint": "Locate 201 between two multiples of 10."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Using the visible groups gives evidence for the estimate.",
       "hint": "Use the repeated structure in the collection."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A useful estimate is close enough for the purpose.",
       "hint": "Find the difference between estimate and exact answer."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "An estimate helps detect an unreasonable exact calculation.",
       "hint": "Think of estimation as a reasonableness check."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Both addends are greater than 20, so their sum cannot be about 20.",
       "hint": "Use the size of each addend to reject impossible estimates."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N05-T-001",

@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
       "hint": "Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp02-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
       "hint": "Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp02-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
       "hint": "Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp02-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
       "hint": "Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp02-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
       "hint": "Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp02-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
       "hint": "Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp02-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
       "hint": "Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp02-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
       "hint": "Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8sp02-t-001",

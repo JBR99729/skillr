@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Planning manages risks and keeps the test clear.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Unknown materials require cautious approved handling.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "A fair comparison changes one factor and keeps the others similar.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I02-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "A procedure follows a safe logical sequence.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I02-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Managing spills prevents slips and other hazards.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I02-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Protection matches the identified risk.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I02-P-007",
@@ -235,7 +253,9 @@
     "explanation": {
       "summary": "Careful handling reduces harm.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-008",
@@ -269,7 +289,9 @@
     "explanation": {
       "summary": "Clean-up is part of a safe procedure.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-009",
@@ -303,7 +325,9 @@
     "explanation": {
       "summary": "Similar containers improve fairness.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-010",
@@ -337,7 +361,9 @@
     "explanation": {
       "summary": "Equal amounts support a fair comparison.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-011",
@@ -371,7 +397,9 @@
     "explanation": {
       "summary": "Approved materials and actions reduce risk.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-012",
@@ -405,7 +433,9 @@
     "explanation": {
       "summary": "The result cannot be linked to one change.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-013",
@@ -439,7 +469,9 @@
     "explanation": {
       "summary": "Clear steps support safe repeatable action.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-014",
@@ -473,7 +505,10 @@
     "explanation": {
       "summary": "Safe procedures include proper clean-up.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I02-P-015",
@@ -507,7 +542,9 @@
     "explanation": {
       "summary": "The cracked edge is a risk because it could cause harm.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "Damaged equipment should be removed from use.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-017",
@@ -575,7 +614,10 @@
     "explanation": {
       "summary": "Temperature must be controlled for safety.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S2I02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Controlled gentle handling reduces injury risk.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Sound tests must not risk hearing.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Outdoor planning includes location and Sun safety.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Controlled conditions make the comparison fair.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Changing only ramp height isolates its effect.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The measurement answers the investigation question.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Consistent repetition strengthens evidence.",
       "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S2I02-T-001",

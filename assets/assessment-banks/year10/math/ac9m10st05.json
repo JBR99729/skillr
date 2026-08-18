@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "designing statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data; and reporting within the context of the statistical investigation question",
       "hint": "Design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st05-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "investigating anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation",
       "hint": "Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st05-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "using a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”",
       "hint": "Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st05-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "investigating biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations",
       "hint": "Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st05-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "designing statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data; and reporting within the context of the statistical investigation question",
       "hint": "Design statistical investigations that collect bivariate data over time through observation, experiment or measurement; graphing, interpreting and analysing data."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st05-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation",
       "hint": "Explore anecdotal claims including those concerning climate, housing affordability and natural resources, with consideration of data validity and limitations of interpolation or extrapolation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st05-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "using a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”",
       "hint": "Use a statistical investigation to address the question, “Is there a relationship between vaccines and immunity from a virus”."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st05-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "investigating biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations",
       "hint": "Explore biodiversity changes in Australia before and after colonisation by comparing related bivariate numerical data, discussing and reporting on associations."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m10st05-t-001",

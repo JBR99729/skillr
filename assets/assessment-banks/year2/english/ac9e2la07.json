@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "The article and adjectives add accurate details to the noun beetle.",
       "hint": "Choose words that name the thing and match both its size and pattern."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA07-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Choose words that name the thing and match both its size and pattern. The article and adjectives add accurate details to the noun beetle.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA07-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "The, two and muddy expand the noun boots with useful matching details.",
       "hint": "Check the number of boots and their condition."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA07-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Check the number of boots and their condition. The, two and muddy expand the noun boots with useful matching details.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA07-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Is hopping is a two-word verb group that tells what the frog is doing.",
       "hint": "Look for a helping word followed by an action word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA07-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for a helping word followed by an action word. Is hopping is a two-word verb group that tells what the frog is doing.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA07-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Will visit is a verb group that shows an action planned for the future.",
       "hint": "Choose two words that tell what the class plans to do."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA07-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Choose two words that tell what the class plans to do. Will visit is a verb group that shows an action planned for the future.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E2LA07-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "The noun group names and describes the birds; are flying shows the action.",
       "hint": "Find both a detailed naming group and a complete two-word action group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Find both a detailed naming group and a complete two-word action group. The noun group names and describes the birds; are flying shows the action.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "The three smooth stones work together to identify and describe what rolled.",
       "hint": "Start at the article and stop before the action word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Start at the article and stop before the action word. The three smooth stones work together to identify and describe what rolled.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Small and wet help readers picture the puppy and fit the observed scene.",
       "hint": "Use both size and condition clues from the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use both size and condition clues from the context. Small and wet help readers picture the puppy and fit the observed scene.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "A, fluffy and white expand rabbit with the visible details.",
       "hint": "Choose the group that matches both texture and colour."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Choose the group that matches both texture and colour. A, fluffy and white expand rabbit with the visible details.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Was shining works together to tell what the moon was doing.",
       "hint": "Find the helping word and action word, not a single verb or naming group."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Find the helping word and action word, not a single verb or naming group. Was shining works together to tell what the moon was doing.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Large and yellow distinguish the correct leaf from the close alternatives.",
       "hint": "Use every clue needed to choose the exact object."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Use every clue needed to choose the exact object. Large and yellow distinguish the correct leaf from the close alternatives.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "The noun group matches the train, and was moving forms the requested verb group.",
       "hint": "Check the visible details and look for a helping word with the action."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Check the visible details and look for a helping word with the action. The noun group matches the train, and was moving forms the requested verb group.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Will perform works together to show the future action.",
       "hint": "Look for the helping word and the action word beside it."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Look for the helping word and the action word beside it. Will perform works together to show the future action.",
       "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E2LA07-T-001",

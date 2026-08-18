@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "stakeholder means person, group or environment affected by a decision.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "risk means combination of likelihood and consequence.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H02-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "uncertainty means recognised limit in knowledge or prediction.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H02-P-004",
@@ -133,7 +142,9 @@
     "explanation": {
       "summary": "Criteria and values also shape decisions.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-005",
@@ -167,7 +178,9 @@
     "explanation": {
       "summary": "Popularity is not evidence of effectiveness.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-006",
@@ -201,7 +214,9 @@
     "explanation": {
       "summary": "Decisions can state uncertainty and monitor.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-007",
@@ -235,7 +250,9 @@
     "explanation": {
       "summary": "Include long-term and indirect consequences.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-008",
@@ -269,7 +286,10 @@
     "explanation": {
       "summary": "The organiser links problem with declining water quality and biodiversity.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H02-P-009",
@@ -303,7 +323,9 @@
     "explanation": {
       "summary": "The organiser links science evidence with nutrient levels, species surveys, flow data.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-010",
@@ -337,7 +359,10 @@
     "explanation": {
       "summary": "The organiser links options with wetland, source reduction, treatment.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H02-P-011",
@@ -371,7 +396,10 @@
     "explanation": {
       "summary": "The organiser links criteria with effectiveness, cost, equity, time, habitat impact.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H02-P-012",
@@ -405,7 +433,9 @@
     "explanation": {
       "summary": "The organiser links uncertainty with seasonal variation and incomplete monitoring.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-013",
@@ -439,7 +469,10 @@
     "explanation": {
       "summary": "The organiser links recommendation with combined action with review points.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H02-P-014",
@@ -473,7 +506,10 @@
     "explanation": {
       "summary": "Evidence about likely effects and uncertainty is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6H02-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "To check outcomes and detect unintended effects is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "stakeholder means person, group or environment affected by a decision.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "risk means combination of likelihood and consequence.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "uncertainty means recognised limit in knowledge or prediction.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Criteria and values also shape decisions.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Popularity is not evidence of effectiveness.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Decisions can state uncertainty and monitor.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Include long-term and indirect consequences.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The organiser links problem with declining water quality and biodiversity.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The organiser links science evidence with nutrient levels, species surveys, flow data.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6H02-T-001",

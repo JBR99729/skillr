@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "rotation means spinning about an axis.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U02-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "revolution means movement around another object.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U02-P-003",
@@ -99,7 +105,9 @@
     "explanation": {
       "summary": "orbit means repeated curved path under gravitational interaction.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-004",
@@ -133,7 +141,9 @@
     "explanation": {
       "summary": "Rotation is spin; revolution is orbit.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-005",
@@ -167,7 +177,9 @@
     "explanation": {
       "summary": "Axial tilt changes sunlight angle and duration.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-006",
@@ -201,7 +213,9 @@
     "explanation": {
       "summary": "State model limitations.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-007",
@@ -235,7 +249,9 @@
     "explanation": {
       "summary": "Earth’s rotation creates the apparent daily sky movement.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-008",
@@ -269,7 +285,10 @@
     "explanation": {
       "summary": "The organiser links Earth rotates on axis with about 24 h; day/night and apparent sky motion.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U02-P-009",
@@ -303,7 +322,9 @@
     "explanation": {
       "summary": "The organiser links Earth revolves around Sun with about 1 year; annual position and seasons with axial tilt.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-010",
@@ -337,7 +358,10 @@
     "explanation": {
       "summary": "The organiser links Moon revolves around Earth with about 1 month; changing relative positions and phases.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U02-P-011",
@@ -371,7 +395,10 @@
     "explanation": {
       "summary": "The organiser links other planets orbit Sun with different periods; different planetary years.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U02-P-012",
@@ -405,7 +432,9 @@
     "explanation": {
       "summary": "Earth’s rotation is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-013",
@@ -439,7 +468,10 @@
     "explanation": {
       "summary": "Earth’s axial tilt and revolution is supported by the scientific relationship in the question.",
       "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U02-P-014",
@@ -473,7 +505,9 @@
     "explanation": {
       "summary": "rotation means spinning about an axis.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-015",
@@ -507,7 +541,10 @@
     "explanation": {
       "summary": "revolution means movement around another object.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U02-P-016",
@@ -541,7 +578,9 @@
     "explanation": {
       "summary": "orbit means repeated curved path under gravitational interaction.",
       "hint": "Match every important part of the description to the term."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-017",
@@ -575,7 +614,9 @@
     "explanation": {
       "summary": "Rotation is spin; revolution is orbit.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-018",
@@ -609,7 +650,9 @@
     "explanation": {
       "summary": "Axial tilt changes sunlight angle and duration.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-019",
@@ -643,7 +686,9 @@
     "explanation": {
       "summary": "State model limitations.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-020",
@@ -677,7 +722,9 @@
     "explanation": {
       "summary": "Earth’s rotation creates the apparent daily sky movement.",
       "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-021",
@@ -711,7 +758,9 @@
     "explanation": {
       "summary": "The organiser links Earth rotates on axis with about 24 h; day/night and apparent sky motion.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-022",
@@ -745,7 +794,10 @@
     "explanation": {
       "summary": "The organiser links Earth revolves around Sun with about 1 year; annual position and seasons with axial tilt.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S6U02-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "The organiser links Moon revolves around Earth with about 1 month; changing relative positions and phases.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "The organiser links other planets orbit Sun with different periods; different planetary years.",
       "hint": "Use the role of the labelled part, not just a repeated word."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S6U02-T-001",

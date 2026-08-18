@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "using patterns to assist in establishing the rules for the multiplication and division of integers",
       "hint": "Use patterns to assist in establishing the rules for the multiplication and division of integers."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals",
       "hint": "Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "recognising the effect of sign in the multiplication of integers; for example, (-1)^4\\;=\\;1 and (-1)^5\\;= -1",
       "hint": "Recognise the effect of sign in the multiplication of integers."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "using patterns to assist in establishing the rules for the multiplication and division of integers",
       "hint": "Use patterns to assist in establishing the rules for the multiplication and division of integers."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals",
       "hint": "Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "recognising the effect of sign in the multiplication of integers; for example, (-1)^4\\;=\\;1 and (-1)^5\\;= -1",
       "hint": "Recognise the effect of sign in the multiplication of integers."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "using patterns to assist in establishing the rules for the multiplication and division of integers",
       "hint": "Use patterns to assist in establishing the rules for the multiplication and division of integers."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "applying and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning, multiplication or division facts to solve problems involving positive and negative integers, fractions and decimals",
       "hint": "Apply and explaining efficient strategies such as using the commutative or associative property for regrouping, partitioning, place value, patterning."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m8n04-t-001",

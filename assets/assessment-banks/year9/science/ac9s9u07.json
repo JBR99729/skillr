@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "identifying reactants and products in chemical reactions",
       "hint": "Use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u07-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using models and representations to show the rearrangement of atoms in chemical reactions",
       "hint": "Use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u07-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "investigating chemical reactions in closed and open systems and relating data obtained to the law of conservation of mass",
       "hint": "Use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u07-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "writing symbolic equations that are easy to balance and explaining, using the law of conservation of mass, and atoms, the rationale for balancing chemical equations",
       "hint": "Use symbolic equations that are easy to balance and explaining, to make the role of balanced equation visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u07-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating why most elements are not found in their elemental state and processes which are used to obtain the element",
       "hint": "Use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u07-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "predicting how ideas of green chemistry such as minimising the amount of unusable waste products, energy use and using more environmentally friendly chemical processes will affect the environment",
       "hint": "Use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u07-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "identifying reactants and products in chemical reactions",
       "hint": "Use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u07-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "using models and representations to show the rearrangement of atoms in chemical reactions",
       "hint": "Use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9s9u07-t-001",

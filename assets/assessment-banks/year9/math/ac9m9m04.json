@@ -34,7 +34,9 @@
     "explanation": {
       "summary": "investigating error as a percentage of the exact value; for example, comparing an estimation of the number of people expected to come to an event by subtracting the actual number that turned up to give an error, then converting this into a percentage error",
       "hint": "Explore error as a percentage of the exact value."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m04-p-002",
@@ -71,7 +73,9 @@
     "explanation": {
       "summary": "using absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context",
       "hint": "Use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m04-p-003",
@@ -108,7 +112,9 @@
     "explanation": {
       "summary": "calculating the percentage errors in expected budgets to actual expenditure",
       "hint": "Calculate the percentage errors in expected budgets to actual expenditure."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m04-p-004",
@@ -145,7 +151,9 @@
     "explanation": {
       "summary": "estimating the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values",
       "hint": "Estimate the accuracy of measurements in practical contexts and giving suitable lower and upper bounds for measurement values."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m04-p-005",
@@ -182,7 +190,9 @@
     "explanation": {
       "summary": "investigating how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems",
       "hint": "Explore how calculating and interpreting absolute, relative and percentage errors in measurements relates to artificial intelligence systems such as regression models, estimating uncertainty and recommendation systems."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m04-p-006",
@@ -219,7 +229,9 @@
     "explanation": {
       "summary": "investigating error as a percentage of the exact value; for example, comparing an estimation of the number of people expected to come to an event by subtracting the actual number that turned up to give an error, then converting this into a percentage error",
       "hint": "Explore error as a percentage of the exact value."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m04-p-007",
@@ -256,7 +268,9 @@
     "explanation": {
       "summary": "using absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context",
       "hint": "Use absolute value in a percentage error formula; considering when they would use the absolute value and when they would not, depending upon the context."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m04-p-008",
@@ -293,7 +307,9 @@
     "explanation": {
       "summary": "calculating the percentage errors in expected budgets to actual expenditure",
       "hint": "Calculate the percentage errors in expected budgets to actual expenditure."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "ac9m9m04-t-001",

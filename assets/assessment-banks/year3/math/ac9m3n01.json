@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "23,040 has the same digits and place values as 23040.",
       "hint": "Read from the highest place and keep every zero."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N01-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "The first digit is in the ten-thousands place, so its value is 20000.",
       "hint": "Name the place before finding the value."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N01-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Each digit contributes its place value.",
       "hint": "Match each digit to ten-thousands, thousands, hundreds, tens and ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N01-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "23347 is greater because the first different place has the larger digit.",
       "hint": "Compare from the left."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N01-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Compare the highest place first: 22540 < 23040 < 23347.",
       "hint": "Find the smallest first, then compare the two remaining numbers."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N01-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Adding 1 to 23049 gives 23050.",
       "hint": "Watch whether the ones digit causes a regrouping."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N01-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "230 hundreds make 23000; adding 40 ones gives 23040.",
       "hint": "Multiply the hundreds by 100, then add the ones."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N01-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Large numbers are compared from the highest place, not from the final digit.",
       "hint": "Start on the left and stop at the first different digit."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3N01-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "34,771 has the same digits and place values as 34771.",
       "hint": "Read from the highest place and keep every zero."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "The first digit is in the ten-thousands place, so its value is 30000.",
       "hint": "Name the place before finding the value."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Each digit contributes its place value.",
       "hint": "Match each digit to ten-thousands, thousands, hundreds, tens and ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "35119 is greater because the first different place has the larger digit.",
       "hint": "Compare from the left."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Compare the highest place first: 34271 < 34771 < 35119.",
       "hint": "Find the smallest first, then compare the two remaining numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Adding 1 to 34780 gives 34781.",
       "hint": "Watch whether the ones digit causes a regrouping."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "347 hundreds make 34700; adding 71 ones gives 34771.",
       "hint": "Multiply the hundreds by 100, then add the ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Large numbers are compared from the highest place, not from the final digit.",
       "hint": "Start on the left and stop at the first different digit."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "46,502 has the same digits and place values as 46502.",
       "hint": "Read from the highest place and keep every zero."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "The first digit is in the ten-thousands place, so its value is 40000.",
       "hint": "Name the place before finding the value."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each digit contributes its place value.",
       "hint": "Match each digit to ten-thousands, thousands, hundreds, tens and ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "46891 is greater because the first different place has the larger digit.",
       "hint": "Compare from the left."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Compare the highest place first: 46002 < 46502 < 46891.",
       "hint": "Find the smallest first, then compare the two remaining numbers."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Adding 1 to 46511 gives 46512.",
       "hint": "Watch whether the ones digit causes a regrouping."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "465 hundreds make 46500; adding 2 ones gives 46502.",
       "hint": "Multiply the hundreds by 100, then add the ones."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Large numbers are compared from the highest place, not from the final digit.",
       "hint": "Start on the left and stop at the first different digit."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3N01-T-001",

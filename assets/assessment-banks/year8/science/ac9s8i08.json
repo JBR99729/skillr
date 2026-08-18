@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "A reproducible report uses precise quantities, units and sequence.",
       "hint": "Choose details another investigator can follow."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I08-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Public communication combines accurate risk language with clear, audience-relevant action.",
       "hint": "Avoid both exaggeration and unexplained technical shorthand."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I08-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "A scientific caption states the pattern and its uncertainty without overclaiming.",
       "hint": "Mention both the direction and what the error bars limit."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I08-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Audience adaptation changes presentation, not the scientific meaning.",
       "hint": "Simplify expression while preserving evidence and conclusion."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I08-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Scientific voice is selected for clarity and purpose, not as a prestige rule.",
       "hint": "Ask what the reader needs to focus on."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I08-P-006",
@@ -201,7 +216,9 @@
     "explanation": {
       "summary": "Effective visuals use honest scale, labels and source context.",
       "hint": "Readers should compare values without visual distortion."
-    }
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-007",
@@ -235,7 +252,10 @@
     "explanation": {
       "summary": "A short briefing prioritises a finding, essential evidence and responsible qualification.",
       "hint": "Keep the evidence-to-action chain visible."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I08-P-008",
@@ -269,7 +289,10 @@
     "explanation": {
       "summary": "Accessible science communication provides equivalent meaning and usable controls.",
       "hint": "Ensure the scientific relationship is available without sight or a mouse."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I08-P-009",
@@ -303,7 +326,9 @@
     "explanation": {
       "summary": "A headline should match the study design, effect and sampled population.",
       "hint": "Replace causal certainty with the observed association."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-010",
@@ -337,7 +362,10 @@
     "explanation": {
       "summary": "Transparent communication lets readers trace evidence and interpret it in context.",
       "hint": "Preserve provenance, meaning and measurement conventions."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9S8I08-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Communication of water temperature and sugar dissolving time can change form while preserving evidence, meaning and uncertainty. This conclusion concerns water temperature and sugar dissolving time.",
       "hint": "Audience affects expression, not the scientific result. Apply this to water temperature and sugar dissolving time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Communication of ramp angle and toy-car travel time can change form while preserving evidence, meaning and uncertainty. This conclusion concerns ramp angle and toy-car travel time.",
       "hint": "Audience affects expression, not the scientific result. Apply this to ramp angle and toy-car travel time."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Communication of light intensity and pondweed bubble rate can change form while preserving evidence, meaning and uncertainty. This conclusion concerns light intensity and pondweed bubble rate.",
       "hint": "Audience affects expression, not the scientific result. Apply this to light intensity and pondweed bubble rate."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Communication of soil type and bean-seedling height can change form while preserving evidence, meaning and uncertainty. This conclusion concerns soil type and bean-seedling height.",
       "hint": "Audience affects expression, not the scientific result. Apply this to soil type and bean-seedling height."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Communication of wire length and electrical current can change form while preserving evidence, meaning and uncertainty. This conclusion concerns wire length and electrical current.",
       "hint": "Audience affects expression, not the scientific result. Apply this to wire length and electrical current."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Communication of exercise duration and pulse recovery can change form while preserving evidence, meaning and uncertainty. This conclusion concerns exercise duration and pulse recovery.",
       "hint": "Audience affects expression, not the scientific result. Apply this to exercise duration and pulse recovery."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Communication of salt concentration and egg buoyancy can change form while preserving evidence, meaning and uncertainty. This conclusion concerns salt concentration and egg buoyancy.",
       "hint": "Audience affects expression, not the scientific result. Apply this to salt concentration and egg buoyancy."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Communication of insulation material and cooling can change form while preserving evidence, meaning and uncertainty. This conclusion concerns insulation material and cooling.",
       "hint": "Audience affects expression, not the scientific result. Apply this to insulation material and cooling."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Communication of surface area and evaporation can change form while preserving evidence, meaning and uncertainty. This conclusion concerns surface area and evaporation.",
       "hint": "Audience affects expression, not the scientific result. Apply this to surface area and evaporation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Communication of pH and amylase activity can change form while preserving evidence, meaning and uncertainty. This conclusion concerns pH and amylase activity.",
       "hint": "Audience affects expression, not the scientific result. Apply this to pH and amylase activity."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "Communication of drop height and crater diameter can change form while preserving evidence, meaning and uncertainty. This conclusion concerns drop height and crater diameter.",
       "hint": "Audience affects expression, not the scientific result. Apply this to drop height and crater diameter."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "Communication of fertiliser concentration and duckweed growth can change form while preserving evidence, meaning and uncertainty. This conclusion concerns fertiliser concentration and duckweed growth.",
       "hint": "Audience affects expression, not the scientific result. Apply this to fertiliser concentration and duckweed growth."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Communication of blade length and paper-turbine rotation can change form while preserving evidence, meaning and uncertainty. This conclusion concerns blade length and paper-turbine rotation.",
       "hint": "Audience affects expression, not the scientific result. Apply this to blade length and paper-turbine rotation."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Communication of detergent concentration and surface tension can change form while preserving evidence, meaning and uncertainty. This conclusion concerns detergent concentration and surface tension.",
       "hint": "Audience affects expression, not the scientific result. Apply this to detergent concentration and surface tension."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9S8I08-T-001",

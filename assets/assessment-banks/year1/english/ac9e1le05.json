@@ -31,7 +31,10 @@
     "explanation": {
       "summary": "Main problem; it drives the plot, while incidental cup colour can be omitted This matches the task.",
       "hint": "Keep enough familiar structure for the story to make sense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE05-P-002",
@@ -65,7 +68,10 @@
     "explanation": {
       "summary": "Keep enough familiar structure for the story to make sense.",
       "hint": "Keep enough familiar structure for the story to make sense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE05-P-003",
@@ -99,7 +105,10 @@
     "explanation": {
       "summary": "Beginning ↔ introduce; middle ↔ problem/attempts; ending ↔ resolution This matches the task.",
       "hint": "A retell needs a clear ending."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE05-P-004",
@@ -133,7 +142,10 @@
     "explanation": {
       "summary": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
       "hint": "A retell needs a clear ending."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE05-P-005",
@@ -167,7 +179,10 @@
     "explanation": {
       "summary": "Includes character and all three events in logical order with sequence words This matches the task.",
       "hint": "Change one or two parts deliberately."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE05-P-006",
@@ -201,7 +216,10 @@
     "explanation": {
       "summary": "Look for plot and check the whole example.",
       "hint": "Change one or two parts deliberately."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE05-P-007",
@@ -235,7 +253,10 @@
     "explanation": {
       "summary": "Example bird becomes fish/diver, path becomes reef route, or fire becomes safe underwater obstacle This matches the task.",
       "hint": "Keep enough familiar structure for the story to make sense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE05-P-008",
@@ -269,7 +290,10 @@
     "explanation": {
       "summary": "Check that you can adapt deliberately.",
       "hint": "Keep enough familiar structure for the story to make sense."
-    }
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9E1LE05-P-009",
@@ -303,7 +327,9 @@
     "explanation": {
       "summary": "Character introduced → problem → attempt/solution → ending/result This matches the task.",
       "hint": "A retell needs a clear ending."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-010",
@@ -337,7 +363,9 @@
     "explanation": {
       "summary": "Sequencing a retell structure.",
       "hint": "A retell needs a clear ending."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-011",
@@ -371,7 +399,9 @@
     "explanation": {
       "summary": "Four coherent frames preserve character and causal plot order This matches the task.",
       "hint": "Change one or two parts deliberately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-012",
@@ -405,7 +435,9 @@
     "explanation": {
       "summary": "Change one or two parts deliberately.",
       "hint": "Change one or two parts deliberately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-013",
@@ -439,7 +471,9 @@
     "explanation": {
       "summary": "Suitable verb such as hopped, bounded or crept, preserving meaning This matches the task.",
       "hint": "Keep enough familiar structure for the story to make sense."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-014",
@@ -473,7 +507,9 @@
     "explanation": {
       "summary": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
       "hint": "Keep enough familiar structure for the story to make sense."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-015",
@@ -507,7 +543,9 @@
     "explanation": {
       "summary": "Any two important goals, problems, helpers, attempts or resolution links remain recognisable This matches the task.",
       "hint": "A retell needs a clear ending."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-016",
@@ -541,7 +579,9 @@
     "explanation": {
       "summary": "Look for plot and check the whole example.",
       "hint": "A retell needs a clear ending."
-    }
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-017",
@@ -575,7 +615,9 @@
     "explanation": {
       "summary": "Suri leaves at dawn prepared to search for a missing goat, retaining character, setting/time and goal This matches the task.",
       "hint": "Change one or two parts deliberately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-018",
@@ -609,7 +651,9 @@
     "explanation": {
       "summary": "Check that you can adapt deliberately.",
       "hint": "Change one or two parts deliberately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-019",
@@ -643,7 +687,9 @@
     "explanation": {
       "summary": "Each mode matches its useful retelling affordance This matches the task.",
       "hint": "Keep enough familiar structure for the story to make sense."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-020",
@@ -677,7 +723,9 @@
     "explanation": {
       "summary": "Selecting modes for retell and adaptation.",
       "hint": "Keep enough familiar structure for the story to make sense."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-021",
@@ -711,7 +759,9 @@
     "explanation": {
       "summary": "First → next → then → finally This matches the task.",
       "hint": "A retell needs a clear ending."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-022",
@@ -745,7 +795,9 @@
     "explanation": {
       "summary": "A retell needs a clear ending.",
       "hint": "A retell needs a clear ending."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-023",
@@ -779,7 +831,9 @@
     "explanation": {
       "summary": "Transferring plot function to a new setting This matches the task.",
       "hint": "Change one or two parts deliberately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-P-024",
@@ -813,7 +867,9 @@
     "explanation": {
       "summary": "Use this routine: Remember story → Keep main parts → Change/adapt one part → Retell clearly.",
       "hint": "Change one or two parts deliberately."
-    }
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E1LE05-T-001",
