@@ -1,39 +1,29 @@
-name: Install progressive question ordering
+name: Audit progressive question ordering
 
 on:
-  push:
-    branches:
-      - main
-      - agent/progressive-question-difficulty
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  install:
+  audit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}
           fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Patch shared quiz runtime
-        run: node scripts/patch_progressive_question_order.mjs
       - name: Audit confidence-tier question quality
         run: node scripts/assign_confidence_question_tiers.mjs --check || true
-      - name: Commit runtime patch only
+      - name: Verify progressive ordering patch is already present
         shell: bash
         run: |
-          if git diff --quiet -- quiz/assets/script.js; then
-            echo 'No generated runtime changes.'
-            exit 0
+          if grep -q "function orderQuestionsByProgressiveDifficulty" quiz/assets/script.js; then
+            echo "Progressive ordering is present."
+          else
+            echo "Progressive ordering is missing; review manually before changing runtime."
+            exit 1
           fi
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add quiz/assets/script.js
-          git commit -m 'apply progressive easy-to-hard question ordering'
-          git push origin HEAD:${GITHUB_REF_NAME}
