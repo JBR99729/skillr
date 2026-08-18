@@ -46,6 +46,13 @@ function isBanned(item) {
   return banned.some((pattern) => pattern.test(q));
 }
 
+function isUsable(item) {
+  const q = clean(item.question);
+  if (!q || isBanned(item)) return false;
+  const answers = Array.isArray(item.answers) ? item.answers : [];
+  return answers.length >= 2;
+}
+
 function confidenceEligibility(item) {
   const q = clean(item.question);
   const words = q.split(/\s+/).filter(Boolean);
@@ -54,7 +61,7 @@ function confidenceEligibility(item) {
   const asksHigherReasoning = /\b(explain|justify|evaluate|analyse|analyze|prove|derive|investigate|critique|compare and contrast)\b/i.test(q);
   const asksMultiStep = /\b(multi[- ]?step|show all working|several steps|two or more steps)\b/i.test(q);
 
-  if (isBanned(item)) return { eligible: false, reason: "banned/meta template" };
+  if (!isUsable(item)) return { eligible: false, reason: "banned/meta/invalid question" };
   if (words.length > 28) return { eligible: false, reason: "too long for confidence tier" };
   if (sentenceCount > 2) return { eligible: false, reason: "too many sentences for confidence tier" };
   if (hasStoryMarker && words.length > 18) return { eligible: false, reason: "story-heavy confidence prompt" };
@@ -87,15 +94,44 @@ function walk(dir) {
   });
 }
 
-const report = { mode: CHECK_ONLY ? "check" : "write", banks: 0, tagged: 0, gaps: [], rejectedFromConfidence: 0 };
+const report = {
+  mode: CHECK_ONLY ? "check" : "write",
+  banks: 0,
+  tagged: 0,
+  gaps: [],
+  undersizedBanks: [],
+  emptyUsableBanks: [],
+  rejectedFromConfidence: 0,
+};
+
 for (const file of walk(BANK_ROOT)) {
   let data;
   try { data = JSON.parse(fs.readFileSync(file, "utf8")); } catch { continue; }
   if (!Array.isArray(data) || !data.length || !data[0]?.curriculum_code) continue;
 
+  const code = data[0].curriculum_code;
+  const usableItems = data.filter(isUsable);
   const practiceItems = data.filter((item) => item.bank === "practice");
   const eligible = practiceItems.filter((item) => confidenceEligibility(item).eligible);
   report.rejectedFromConfidence += practiceItems.length - eligible.length;
+
+  if (usableItems.length === 0) {
+    report.emptyUsableBanks.push({
+      code,
+      file: path.relative(ROOT, file),
+      totalQuestions: data.length,
+      usableQuestions: 0,
+      action: "replace with 16 code-specific authored questions",
+    });
+  } else if (usableItems.length < 8) {
+    report.undersizedBanks.push({
+      code,
+      file: path.relative(ROOT, file),
+      totalQuestions: data.length,
+      usableQuestions: usableItems.length,
+      action: "review existing usable questions and add 16 code-specific authored questions",
+    });
+  }
 
   const ranked = eligible.slice().sort((a, b) => complexity(a) - complexity(b));
   const chosen = new Set(ranked.slice(0, 8).map((item) => item.id));
@@ -117,7 +153,7 @@ for (const file of walk(BANK_ROOT)) {
 
   if (chosen.size < 8) {
     report.gaps.push({
-      code: data[0].curriculum_code,
+      code,
       file: path.relative(ROOT, file),
       eligibleFastReadQuestions: chosen.size,
       neededAuthoredConfidenceQuestions: 8 - chosen.size,
@@ -130,6 +166,8 @@ for (const file of walk(BANK_ROOT)) {
 }
 
 console.log(JSON.stringify(report, null, 2));
-if (report.gaps.length) {
-  console.error(`Confidence-tier authoring gaps remain in ${report.gaps.length} bank(s). Add direct, code-appropriate fast-read questions; do not fill gaps with templates or story-heavy prompts.`);
+if (report.emptyUsableBanks.length || report.undersizedBanks.length || report.gaps.length) {
+  console.error(
+    `Question-bank authoring gaps: ${report.emptyUsableBanks.length} effectively empty, ${report.undersizedBanks.length} undersized (<8 usable), ${report.gaps.length} confidence-tier gaps. Author code-specific questions; never fill with generic templates.`
+  );
 }

@@ -36,48 +36,22 @@
     return BANNED_STUDENT_CONTENT.some((pattern) => pattern.test(text));
   }
 
-  const ac9m9a06Fallback = [
-    ["For the graph y = (x - 4)², where is the vertex?", ["(4, 0)", "(-4, 0)", "(0, 4)", "(0, -4)"], 0, "In vertex form y = a(x - h)² + k, the vertex is (h, k)."],
-    ["Compared with y = x², what does y = (x + 3)² do?", ["Moves 3 units left", "Moves 3 units right", "Moves 3 units up", "Moves 3 units down"], 0, "Because x + 3 = x - (-3), the parabola moves 3 units left."],
-    ["Compared with y = x², what does y = x² + 5 do?", ["Moves 5 units up", "Moves 5 units down", "Moves 5 units left", "Moves 5 units right"], 0, "The +5 is outside the square, so it moves the graph 5 units up."],
-    ["What happens to y = x² when it becomes y = -x²?", ["It is reflected in the x-axis", "It is reflected in the y-axis", "It moves 1 unit down", "It becomes narrower only"], 0, "A negative coefficient reflects the parabola across the x-axis."],
-    ["Which graph is narrower than y = x²?", ["y = 3x²", "y = ½x²", "y = (x - 3)²", "y = x² + 3"], 0, "When |a| > 1, the parabola is vertically stretched and appears narrower."],
-    ["Which graph is wider than y = x²?", ["y = ¼x²", "y = 4x²", "y = (x + 4)²", "y = x² - 4"], 0, "When 0 < |a| < 1, the parabola is vertically compressed and appears wider."],
-    ["What is the vertex of y = 2(x - 1)² - 3?", ["(1, -3)", "(-1, -3)", "(1, 3)", "(-1, 3)"], 0, "The vertex is (h, k) = (1, -3)."],
-    ["Consider y = -2(x + 3)² + 5. Which description is correct?", ["Reflected in the x-axis, vertically stretched by 2, moved 3 left and 5 up", "Reflected in the x-axis, vertically compressed by 2, moved 3 right and 5 up", "Vertically stretched by 2, moved 3 right and 5 down", "Reflected in the y-axis, vertically stretched by 2, moved 3 left and 5 down"], 0, "Here a = -2, h = -3 and k = 5."]
-  ].map((row, index) => ({
-    id: `ac9m9a06-clean-${index + 1}`,
-    curriculumCode: "AC9M9A06",
-    bank: "practice",
-    skill: "quadratic transformations",
-    printable: true,
-    type: "single",
-    question: row[0],
-    audioPrompt: row[0],
-    answers: row[1],
-    correct: row[2],
-    explanation: row[3],
-    difficulty: index < 7 ? 1 : 2,
-    difficultyTier: "confidence",
-    sequencePriority: 1,
-    qualitySchema: "student-safe-v1"
-  }));
+  function safeFilter(items) {
+    if (!Array.isArray(items) || items.length === 0) return items;
+    const clean = items.filter((question) => !isContaminated(question));
+    // Never turn a working quiz into an empty quiz. Existing bad banks remain
+    // available until their authored replacements are published.
+    return clean.length > 0 ? clean : items;
+  }
 
   if (Array.isArray(window.quizQuestions)) {
-    const clean = window.quizQuestions.filter((question) => !isContaminated(question));
-    const code = String(window.quizConfig?.skillCode || window.quizQuestions[0]?.curriculumCode || "").toUpperCase();
-    if (code === "AC9M9A06" && clean.length < 8) {
-      window.quizQuestions = ac9m9a06Fallback;
-      window.skillrPracticeQuestions = ac9m9a06Fallback;
-    } else {
-      window.quizQuestions = clean;
-      if (Array.isArray(window.skillrPracticeQuestions)) {
-        window.skillrPracticeQuestions = window.skillrPracticeQuestions.filter((question) => !isContaminated(question));
-      }
-      if (Array.isArray(window.skillrTestQuestions)) {
-        window.skillrTestQuestions = window.skillrTestQuestions.filter((question) => !isContaminated(question));
-      }
-    }
+    window.quizQuestions = safeFilter(window.quizQuestions);
+  }
+  if (Array.isArray(window.skillrPracticeQuestions)) {
+    window.skillrPracticeQuestions = safeFilter(window.skillrPracticeQuestions);
+  }
+  if (Array.isArray(window.skillrTestQuestions)) {
+    window.skillrTestQuestions = safeFilter(window.skillrTestQuestions);
   }
 
   const style = document.createElement("style");
@@ -136,7 +110,7 @@
   }
 
   function questionVoteKey(question) {
-    const code = String(question.curriculumCode || window.quizConfig?.skillCode || "unknown").toUpperCase();
+    const code = String(question.curriculumCode || question.curriculum_code || window.quizConfig?.skillCode || "unknown").toUpperCase();
     return `skillrQuestionVote:${code}:${questionIdentity(question)}`;
   }
 
@@ -153,7 +127,7 @@
   function sendVote(question, vote, previousVote) {
     if (typeof window.gtag !== "function") return;
     window.gtag("event", "question_feedback", {
-      curriculum_code: String(question.curriculumCode || window.quizConfig?.skillCode || "unknown").toUpperCase(),
+      curriculum_code: String(question.curriculumCode || question.curriculum_code || window.quizConfig?.skillCode || "unknown").toUpperCase(),
       question_id: questionIdentity(question),
       quiz_mode: quizMode(),
       vote,
