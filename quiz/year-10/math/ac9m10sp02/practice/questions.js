@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m10sp02-p-001",
-    "curriculumCode": "AC9M10SP02",
-    "bank": "practice",
-    "skill": "explore how networks and network diagrams can be used to model authentic situations recognising what real world quantity is represented by the nodes vertices",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore how networks and network diagrams can be used to model authentic situations recognising what real world quantity is represented by the nodes vertices. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore how networks and network diagrams can be used to model authentic situations recognising what real world quantity is represented by the nodes vertices. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)\nHint: Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices).",
-    "structuredExplanation": {
-      "summary": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
-      "hint": "Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp02-p-002",
-    "curriculumCode": "AC9M10SP02",
-    "bank": "practice",
-    "skill": "explore the use of graphs to represent a network analysing connectedness",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore the use of graphs to represent a network analysing connectedness. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore the use of graphs to represent a network analysing connectedness. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The networks and connectedness model is copied without interpretation",
-      "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem\nHint: Explore the use of graphs to represent a network, analysing connectedness.",
-    "structuredExplanation": {
-      "summary": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
-      "hint": "Explore the use of graphs to represent a network, analysing connectedness."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp02-p-003",
-    "curriculumCode": "AC9M10SP02",
-    "bank": "practice",
-    "skill": "explore how polyhedra can be represented as a network using edges vertices interior and exterior faces representing the number of edges vertices and faces in a table",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore how polyhedra can be represented as a network using edges vertices interior and exterior faces representing the number of edges vertices and faces in a table. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore how polyhedra can be represented as a network using edges vertices interior and exterior faces representing the number of edges vertices and faces in a table. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "investigating how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table and demonstrating how Euler’s formula F + V = E + 2 applies",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table and demonstrating how Euler’s formula F + V = E + 2 applies\nHint: Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table.",
-    "structuredExplanation": {
-      "summary": "investigating how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table and demonstrating how Euler’s formula F + V = E + 2 applies",
-      "hint": "Explore how polyhedra can be represented as a network using edges, vertices, interior and exterior faces; representing the number of edges, vertices and faces in a table."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp02-p-004",
-    "curriculumCode": "AC9M10SP02",
-    "bank": "practice",
-    "skill": "explore how a social network intranet local area network lan electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore how a social network intranet local area network lan electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore how a social network intranet local area network lan electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships; for example, using network diagrams to investigate practical problems involving connections, power overload or the need for routers"
-    ],
-    "correct": 3,
-    "explanation": "investigating how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships; for example, using network diagrams to investigate practical problems involving connections, power overload or the need for routers\nHint: Explore how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships.",
-    "structuredExplanation": {
-      "summary": "investigating how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships; for example, using network diagrams to investigate practical problems involving connections, power overload or the need for routers",
-      "hint": "Explore how a social network, intranet, local area network (LAN), electrical wiring or wireless network of a home can be represented as a network diagram to specify relationships."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp02-p-005",
-    "curriculumCode": "AC9M10SP02",
-    "bank": "practice",
-    "skill": "explore the use of networks to represent authentic situations",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore the use of networks to represent authentic situations. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore the use of networks to represent authentic situations. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating the use of networks to represent authentic situations; for example, rail or air travel between or within London, Paris, Hong Kong; a food web representing a simple eco-system; metabolic networks and other chemical or biological structures",
-      "The networks and connectedness model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating the use of networks to represent authentic situations; for example, rail or air travel between or within London, Paris, Hong Kong; a food web representing a simple eco-system; metabolic networks and other chemical or biological structures\nHint: Explore the use of networks to represent authentic situations.",
-    "structuredExplanation": {
-      "summary": "investigating the use of networks to represent authentic situations; for example, rail or air travel between or within London, Paris, Hong Kong; a food web representing a simple eco-system; metabolic networks and other chemical or biological structures",
-      "hint": "Explore the use of networks to represent authentic situations."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp02-p-006",
-    "curriculumCode": "AC9M10SP02",
-    "bank": "practice",
-    "skill": "represent first nations australians kinship systems using network diagrams and exploring the significance of relationships to country place",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving represent first nations australians kinship systems using network diagrams and exploring the significance of relationships to country place. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving represent first nations australians kinship systems using network diagrams and exploring the significance of relationships to country place. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "representing First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "representing First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place\nHint: Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place.",
-    "structuredExplanation": {
-      "summary": "representing First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place",
-      "hint": "Represent First Nations Australians’ kinship systems using network diagrams and exploring the significance of relationships to Country/Place."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp02-p-007",
-    "curriculumCode": "AC9M10SP02",
-    "bank": "practice",
-    "skill": "explore how networks and network diagrams can be used to model authentic situations recognising what real world quantity is represented by the nodes vertices",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore how networks and network diagrams can be used to model authentic situations recognising what real world quantity is represented by the nodes vertices. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore how networks and network diagrams can be used to model authentic situations recognising what real world quantity is represented by the nodes vertices. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)\nHint: Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices).",
-    "structuredExplanation": {
-      "summary": "investigating how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices), and what real world quantity is represented by the links between them (edges)",
-      "hint": "Explore how networks and network diagrams can be used to model authentic situations, recognising what real world quantity is represented by the nodes (vertices)."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10sp02-p-008",
-    "curriculumCode": "AC9M10SP02",
-    "bank": "practice",
-    "skill": "explore the use of graphs to represent a network analysing connectedness",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving explore the use of graphs to represent a network analysing connectedness. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving explore the use of graphs to represent a network analysing connectedness. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The networks and connectedness model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem"
-    ],
-    "correct": 3,
-    "explanation": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem\nHint: Explore the use of graphs to represent a network, analysing connectedness.",
-    "structuredExplanation": {
-      "summary": "investigating the use of graphs to represent a network, analysing connectedness; for example, investigating the “The Seven Bridges of Königsberg” problem",
-      "hint": "Explore the use of graphs to represent a network, analysing connectedness."
-    },
-    "qualitySchema": "production-v1"
-  }
-];
-window.quizQuestions = window.skillrPracticeQuestions;
+const Q=(id,n,s,q,a,c,e)=>({id,curriculumCode:"AC9M10SP02",bank:"practice",section:s,sourceNumber:n,skill:s,printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:"Interpret what the vertices, edges, weights and paths represent in the network."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q("ac9m10sp02-p-001",1,"Network basics","A network consists of:",["Only vertices","Only edges","Vertices and edges","Shapes and angles"],2,"A network (graph) is formed from vertices, also called nodes, and edges linking them."),
+Q("ac9m10sp02-p-002",2,"Network basics","In a practical network, vertices usually represent:",["Distances","Connections","Locations or objects","Directions only"],2,"Vertices represent the objects, places or entities being modelled."),
+Q("ac9m10sp02-p-003",3,"Network basics","Edges in a network represent:",["Locations","Relationships or links","Angles","Areas"],1,"Edges represent connections or relationships between vertices."),
+Q("ac9m10sp02-p-004",4,"Connectedness","A network is connected if:",["Every vertex is directly joined to every other vertex","Every vertex can be reached from every other vertex by some path","It has no edges","There is exactly one path between every pair of vertices"],1,"Connectedness requires a path between every pair of vertices, not necessarily a direct edge."),
+Q("ac9m10sp02-p-005",5,"Connectedness","A disconnected network has:",["No vertices","No edges","At least two components with no path joining them","Exactly one vertex"],2,"A disconnected graph has more than one connected component."),
+Q("ac9m10sp02-p-006",6,"Paths","A path is:",["A sequence of vertices joined by edges","A loop only","Always the shortest route","A random set of vertices"],0,"A path follows adjacent vertices through connecting edges."),
+Q("ac9m10sp02-p-007",7,"Paths","Which best describes a cycle?",["A closed path that starts and ends at the same vertex without repeating other vertices","Any path that repeats a vertex","A path with no edges","A disconnected route"],0,"A cycle is a closed path whose start and end vertex are the same, with no repeated intermediate vertices."),
+Q("ac9m10sp02-p-008",8,"Trees","A tree is:",["A connected network with no cycles","Any network with no cycles","A network containing only cycles","A disconnected network with no edges"],0,"A tree is specifically a connected acyclic graph."),
+Q("ac9m10sp02-p-009",9,"Trees","A spanning tree of a connected network:",["Connects some vertices only","Connects all vertices and contains no cycles","Connects all vertices and contains every cycle","Uses only the highest-degree vertices"],1,"A spanning tree includes every vertex while remaining connected and cycle-free."),
+Q("ac9m10sp02-p-010",10,"Weighted networks","A weighted edge includes:",["A numerical value such as distance, time or cost","A colour only","A direction only","No additional information"],0,"A weight quantifies some feature of a connection, such as distance or cost."),
+Q("ac9m10sp02-p-011",11,"Practical networks","In a transport network, vertices can represent:",["Roads","Stations or intersections","Distances","Vehicles only"],1,"Stations and intersections are natural choices for vertices."),
+Q("ac9m10sp02-p-012",12,"Practical networks","In a transport network, edges can represent:",["Stations","Roads or routes","Vehicles","Directions only"],1,"Edges represent the transport links joining locations."),
+Q("ac9m10sp02-p-013",13,"Adjacency","If two vertices have no edge directly joining them, they are:",["Adjacent","Not adjacent","Necessarily in different components","Weighted"],1,"Adjacent vertices share an edge; without a direct edge they are not adjacent."),
+Q("ac9m10sp02-p-014",14,"Weighted networks","In a weighted network where weights represent distance or cost, a shortest path is:",["The path with the fewest edges","The path with the smallest total weight","The path with the most edges","Any path chosen randomly"],1,"For weighted networks, shortest means minimum total weight under the stated weighting."),
+Q("ac9m10sp02-p-015",15,"Practical networks","In a communication network, edges can represent:",["Data links or communication channels","Computers only","Messages only","Random connections"],0,"Edges model the channels through which connected devices communicate."),
+Q("ac9m10sp02-p-016",16,"Connectedness","A complete network has:",["No edges","Every pair of distinct vertices joined by an edge","Exactly one path","No cycles"],1,"In a complete graph, every pair of vertices is adjacent."),
+Q("ac9m10sp02-p-017",17,"Connectedness","A network with 5 vertices and no edges is:",["Connected","Disconnected","A tree","A cycle"],1,"With more than one isolated vertex, there is no path between vertices."),
+Q("ac9m10sp02-p-018",18,"Cycles","A simple cycle containing 4 vertices has:",["3 edges","4 edges","5 edges","6 edges"],1,"A simple n-cycle has n vertices and n edges."),
+Q("ac9m10sp02-p-019",19,"Trees","A tree with 7 vertices has exactly:",["5 edges","6 edges","7 edges","8 edges"],1,"Every tree with n vertices has n-1 edges, so 7 vertices gives 6 edges."),
+Q("ac9m10sp02-p-020",20,"Connectedness","A network diagram showing two separate clusters with no path between them has:",["Full connectedness","One connected component","Disconnected components","A single cycle"],2,"Separate clusters with no connecting path are distinct connected components."),
+Q("ac9m10sp02-p-021",21,"Practical networks","In a road network, disconnectedness means:",["Every location can be reached","At least one group of locations cannot be reached from another","All roads have equal length","No roads have distances"],1,"Disconnected components correspond to locations with no route between them."),
+Q("ac9m10sp02-p-022",22,"Practical networks","In a power-grid network, edges can represent:",["Power stations","Transmission lines","Houses only","Random links"],1,"Transmission lines form the connections between network vertices."),
+Q("ac9m10sp02-p-023",23,"Practical networks","In a social network, vertices can represent:",["People or accounts","Messages","Distances","Locations only"],0,"People or accounts are entities, so they are represented by vertices."),
+Q("ac9m10sp02-p-024",24,"Practical networks","In a social network, edges can represent:",["Friendships or interactions","Distances only","Directions only","Areas"],0,"Edges model relationships or interactions between people/accounts.")];
+window.quizQuestions=window.skillrPracticeQuestions;
