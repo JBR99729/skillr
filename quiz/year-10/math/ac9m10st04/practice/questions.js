@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m10st04-p-001",
-    "curriculumCode": "AC9M10ST04",
-    "bank": "practice",
-    "skill": "use two way tables to investigate and comparing the survey responses to questions involving five point likert scale against 2 different categories of respondents",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use two way tables to investigate and comparing the survey responses to questions involving five point likert scale against 2 different categories of respondents. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use two way tables to investigate and comparing the survey responses to questions involving five point likert scale against 2 different categories of respondents. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question\nHint: Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents.",
-    "structuredExplanation": {
-      "summary": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
-      "hint": "Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st04-p-002",
-    "curriculumCode": "AC9M10ST04",
-    "bank": "practice",
-    "skill": "record data in two way tables and using percentages and proportions to identify patterns and associations in the data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving record data in two way tables and using percentages and proportions to identify patterns and associations in the data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving record data in two way tables and using percentages and proportions to identify patterns and associations in the data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The categorical relationships model is copied without interpretation",
-      "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data\nHint: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.",
-    "structuredExplanation": {
-      "summary": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
-      "hint": "Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st04-p-003",
-    "curriculumCode": "AC9M10ST04",
-    "bank": "practice",
-    "skill": "use the labelled model to investigate investigate two categorical variables",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use the labelled model to investigate investigate two categorical variables. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use the labelled model to investigate investigate two categorical variables. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold\nHint: Use the labelled model to investigate investigate two categorical variables.",
-    "structuredExplanation": {
-      "summary": "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold",
-      "hint": "Use the labelled model to investigate investigate two categorical variables."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st04-p-004",
-    "curriculumCode": "AC9M10ST04",
-    "bank": "practice",
-    "skill": "use two way tables to investigate and comparing the survey responses to questions involving five point likert scale against 2 different categories of respondents",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use two way tables to investigate and comparing the survey responses to questions involving five point likert scale against 2 different categories of respondents. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use two way tables to investigate and comparing the survey responses to questions involving five point likert scale against 2 different categories of respondents. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question"
-    ],
-    "correct": 3,
-    "explanation": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question\nHint: Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents.",
-    "structuredExplanation": {
-      "summary": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
-      "hint": "Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st04-p-005",
-    "curriculumCode": "AC9M10ST04",
-    "bank": "practice",
-    "skill": "record data in two way tables and using percentages and proportions to identify patterns and associations in the data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving record data in two way tables and using percentages and proportions to identify patterns and associations in the data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving record data in two way tables and using percentages and proportions to identify patterns and associations in the data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
-      "The categorical relationships model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data\nHint: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.",
-    "structuredExplanation": {
-      "summary": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
-      "hint": "Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st04-p-006",
-    "curriculumCode": "AC9M10ST04",
-    "bank": "practice",
-    "skill": "use the labelled model to investigate investigate two categorical variables",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is solving a problem involving use the labelled model to investigate investigate two categorical variables. Which option is mathematically valid?",
-    "audioPrompt": "A Year 10 student is solving a problem involving use the labelled model to investigate investigate two categorical variables. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold\nHint: Use the labelled model to investigate investigate two categorical variables.",
-    "structuredExplanation": {
-      "summary": "conducting a litter survey around the school, considering the relationship between different categorical variables such as the day of the week as canteen specials might lead to different types of litter or the weather due to hot days leading to more ice blocks and cold drinks being sold",
-      "hint": "Use the labelled model to investigate investigate two categorical variables."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st04-p-007",
-    "curriculumCode": "AC9M10ST04",
-    "bank": "practice",
-    "skill": "use two way tables to investigate and comparing the survey responses to questions involving five point likert scale against 2 different categories of respondents",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents?",
-    "audioPrompt": "What should you check when using use two-way tables to investigate and comparing the survey responses to questions involving five-point likert scale against 2 different categories of respondents?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question\nHint: Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents.",
-    "structuredExplanation": {
-      "summary": "using two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents; for example, junior compared to senior students’ responses to a survey question",
-      "hint": "Use two-way tables to investigate and comparing the survey responses to questions involving five-point Likert scale against 2 different categories of respondents."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m10st04-p-008",
-    "curriculumCode": "AC9M10ST04",
-    "bank": "practice",
-    "skill": "record data in two way tables and using percentages and proportions to identify patterns and associations in the data",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using record data in two-way tables and using percentages and proportions to identify patterns and associations in the data?",
-    "audioPrompt": "What should you check when using record data in two-way tables and using percentages and proportions to identify patterns and associations in the data?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The categorical relationships model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data"
-    ],
-    "correct": 3,
-    "explanation": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data\nHint: Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data.",
-    "structuredExplanation": {
-      "summary": "recording data in two-way tables and using percentages and proportions to identify patterns and associations in the data",
-      "hint": "Record data in two-way tables and using percentages and proportions to identify patterns and associations in the data."
-    },
-    "qualitySchema": "production-v1"
-  }
-];
-window.quizQuestions = window.skillrPracticeQuestions;
+const Q=(id,n,s,q,a,c,e)=>({id,curriculumCode:"AC9M10ST04",bank:"practice",section:s,sourceNumber:n,skill:s,printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:"Compare conditional proportions, not just raw counts, when group sizes differ."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q("ac9m10st04-p-001",1,"Conditional proportions","Breakfast survey: Year 10 — 80 eat, 20 skip; Year 11 — 60 eat, 40 skip. Which year has the higher skipping rate?",["Year 10","Year 11","Same rate","Cannot tell"],1,"Year 10 skips 20%; Year 11 skips 40%."),
+Q("ac9m10st04-p-002",2,"Conditional proportions","Payment survey: Adults — 180 card, 20 cash; Teens — 60 card, 40 cash. What proportion of teens pay cash?",["20%","30%","40%","60%"],2,"40 of 100 teens pay cash, so 40%."),
+Q("ac9m10st04-p-003",3,"Interpreting association","Gym membership: Male — 40 casual, 60 full; Female — 50 casual, 50 full. Which statement is best supported?",["Full membership is more common among males in this sample","Full membership is more common among females","Gender and membership type have identical proportions","Every male has full membership"],0,"60% of males versus 50% of females have full membership."),
+Q("ac9m10st04-p-004",4,"Equal proportions","Recycling: Urban — 120 recycle, 80 do not; Rural — 60 recycle, 40 do not. What does the table show?",["Urban has a higher recycling rate","Rural has a higher recycling rate","Both groups have a 60% recycling rate","Rates cannot be compared"],2,"120/200=60% and 60/100=60%."),
+Q("ac9m10st04-p-005",5,"Conditional proportions","Café orders: Morning — 90 coffee, 30 tea; Afternoon — 40 coffee, 60 tea. If an afternoon order is selected, what is P(tea | afternoon)?",["25%","40%","60%","75%"],2,"60 of 100 afternoon orders are tea."),
+Q("ac9m10st04-p-006",6,"Completing tables","Device use: Year 7 has 70 laptop and 30 tablet users. Year 8 has 50 laptop users out of 100 students. If the only choices are laptop or tablet, how many Year 8 students use tablets?",["30","40","50","70"],2,"100-50=50."),
+Q("ac9m10st04-p-007",7,"Conditional proportions","Cinema: Adults — 200 standard, 50 premium; Children — 150 standard, 10 premium. Which group has the higher premium-ticket rate?",["Adults","Children","Same rate","Cannot tell"],0,"Adults: 50/250=20%; children: 10/160=6.25%."),
+Q("ac9m10st04-p-008",8,"Risk difference","Club attendance: Boys — 90 attend, 10 do not; Girls — 70 attend, 30 do not. By how many percentage points is the attendance rate higher for boys?",["10 points","20 points","30 points","40 points"],1,"Boys attend at 90%, girls at 70%; difference=20 percentage points."),
+Q("ac9m10st04-p-009",9,"Conditional proportions","Shopping: Adults — 140 online, 60 in-store; Seniors — 40 online, 60 in-store. What is the in-store rate for seniors?",["30%","40%","50%","60%"],3,"60/100=60%."),
+Q("ac9m10st04-p-010",10,"Association","Pet ownership: Families — 90 own, 10 do not; Singles — 40 own, 60 do not. Which conclusion is justified for this sample?",["Families are more likely to own pets","Being in a family causes pet ownership","Singles are more likely to own pets","There is no association"],0,"Ownership is 90% for families and 40% for singles; this shows association, not causation."),
+Q("ac9m10st04-p-011",11,"Conditional proportions","Exercise: Under 30 — 150 exercise, 50 do not; Over 30 — 100 exercise, 100 do not. What is the exercise rate for under-30s?",["50%","60%","75%","80%"],2,"150/200=75%."),
+Q("ac9m10st04-p-012",12,"Comparing proportions","Subject preference: Boys — 80 science, 40 humanities; Girls — 60 science, 60 humanities. Which group has the higher humanities proportion?",["Boys","Girls","Same","Cannot tell"],1,"Boys: 40/120=33.3%; girls: 60/120=50%."),
+Q("ac9m10st04-p-013",13,"Odds from tables","Remote work: IT — 70 remote, 30 on-site; Admin — 20 remote, 80 on-site. For IT, the ratio remote:on-site is:",["2:7","7:3","3:7","7:2"],1,"70:30 simplifies to 7:3."),
+Q("ac9m10st04-p-014",14,"Conditional proportions","Transport: Adults — 200 car, 50 public; Teens — 60 car, 90 public. What percentage of teens use public transport?",["40%","50%","60%","90%"],2,"90/150=60%."),
+Q("ac9m10st04-p-015",15,"Association strength","Volunteering: Men — 40 volunteer, 60 not; Women — 80 volunteer, 20 not. Which difference best describes the association in this sample?",["10 percentage points","20 percentage points","40 percentage points","80 percentage points"],2,"Volunteer rates are 40% and 80%, a 40-point difference."),
+Q("ac9m10st04-p-016",16,"Reverse conditional probability","Club membership: Year 9 — 50 sports, 50 music; Year 10 — 80 sports, 20 music. A sports member is selected at random. What is the probability they are in Year 10?",["50/100","80/130","80/100","130/200"],1,"There are 130 sports members total, 80 from Year 10, so 80/130."),
+Q("ac9m10st04-p-017",17,"Conditional proportions","Hospital satisfaction: Morning — 90 satisfied, 10 not; Evening — 60 satisfied, 40 not. Which statement is correct?",["Morning satisfaction is 90%","Evening satisfaction is 90%","Both are 60%","Morning has fewer satisfied patients"],0,"Morning: 90/100=90%."),
+Q("ac9m10st04-p-018",18,"Comparing proportions","Phone brand: Adults — 120 A, 80 B; Teens — 40 A, 60 B. Which group has the higher Brand B rate?",["Adults","Teens","Same","Cannot tell"],1,"Adults:40%; teens:60%."),
+Q("ac9m10st04-p-019",19,"Relative comparison","Uniform compliance: Year 7 — 90 correct, 10 incorrect; Year 8 — 70 correct, 30 incorrect. The non-compliance rate in Year 8 is how many times the Year 7 rate?",["1.5 times","2 times","3 times","4 times"],2,"30%/10%=3."),
+Q("ac9m10st04-p-020",20,"Completing tables","Training: Team A — 60 completed, 40 not; Team B — 30 completed, 70 not. How many employees completed training altogether?",["70","80","90","100"],2,"60+30=90."),
+Q("ac9m10st04-p-021",21,"Conditional proportions","Returns: Online — 30 returned, 70 not; In-store — 10 returned, 90 not. What is the online return rate?",["10%","20%","30%","70%"],2,"30/100=30%."),
+Q("ac9m10st04-p-022",22,"Interpreting counts vs rates","Laptop ownership: Year 11 — 90 own, 10 do not; Year 12 — 70 own, 30 do not. Which comparison is most appropriate?",["Compare 90 with 70 only","Compare row percentages: 90% with 70%","Compare only the non-owner counts","No comparison is possible"],1,"For group likelihood, conditional row percentages are appropriate."),
+Q("ac9m10st04-p-023",23,"Conditional proportions","Overtime: Full-time — 60 overtime, 40 no; Part-time — 10 overtime, 90 no. If a part-time worker is selected, P(overtime) is:",["10%","40%","60%","90%"],0,"10/100=10%."),
+Q("ac9m10st04-p-024",24,"Constructing tables","Pet preference survey: Adults — 100 dog, 50 cat; Teens — 40 dog, 60 cat. What is the grand total surveyed?",["150","200","250","300"],2,"100+50+40+60=250.")];
+window.quizQuestions=window.skillrPracticeQuestions;
