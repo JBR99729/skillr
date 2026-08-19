@@ -179,8 +179,6 @@
   function abandon() {
     if (!state.started || state.completed || state.answered <= 0) return;
 
-    // A finished final question must never become an abandon simply because the
-    // shared quiz runtime navigates to a separate result page on pagehide.
     const target = Number(window.quizConfig?.maxQuestions) || 0;
     if (target > 0 && state.answered >= target) {
       complete();
@@ -314,7 +312,7 @@
       scheduleFeedback();
     });
     submitButton.addEventListener("click", () => {
-      window.setTimeout(answer, 0);
+      answer();
       scheduleFeedback();
     });
     document.getElementById("nextButton")?.addEventListener("click", scheduleFeedback);
