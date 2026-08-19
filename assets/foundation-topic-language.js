@@ -5,6 +5,22 @@
   window.__skillrFoundationTopicLanguageLoaded = true;
 
   const path = window.location.pathname;
+
+  // This bootstrap is loaded site-wide by pwa-register.js. Use it to ensure
+  // every standard Practice/Test page gets learning analytics, including older
+  // generated pages that do not explicitly load production-question-ui.js.
+  const standardQuiz = /^\/quiz\/(?:grade-k|year-\d+)\/(?:math|science|english)\/[^/]+\/(?:practice|test)\/?$/i.test(path);
+  if (standardQuiz && !document.querySelector('script[src*="/quiz/assets/production-question-ui.js"]')) {
+    const analyticsBase = "/quiz/assets/learning-analytics.js";
+    const analyticsLoaded = [...document.scripts].some((script) => script.src.includes(analyticsBase));
+    if (!analyticsLoaded) {
+      const analytics = document.createElement("script");
+      analytics.src = `${analyticsBase}?v=20260820-ga4-runtime`;
+      analytics.async = false;
+      document.head.appendChild(analytics);
+    }
+  }
+
   const isFoundationOrYear1Topic = /^\/(foundation|year1)\//i.test(path);
   const year1EnglishPracticeTest = /^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/(practice|test)\/?$/i.test(path);
   const year1EnglishWorksheet = /^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/worksheet\/?$/i.test(path);
