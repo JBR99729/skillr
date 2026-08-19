@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9h02-p-001",
-    "curriculumCode": "AC9S9H02",
-    "bank": "practice",
-    "skill": "use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems",
-      "Technology is only applied science",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems\nHint: Use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems",
-      "hint": "Use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h02-p-002",
-    "curriculumCode": "AC9S9H02",
-    "bank": "practice",
-    "skill": "use the impact of technological advances developed in australia to make the role of technology visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the impact of technological advances developed in australia to make the role of technology visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the impact of technological advances developed in australia to make the role of technology visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A more advanced instrument removes uncertainty",
-      "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi\nHint: Use the impact of technological advances developed in Australia to make the role of technology visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering the impact of technological advances developed in Australia such as the cochlear implant pioneered by Professor Graeme Clark, the Monash Vison Group’s work on a bionic eye, Professor Fiona Woods’s development of spray-on skin and Doctor John O’Sullivan and CSIRO’s invention of wi-fi",
-      "hint": "Use the impact of technological advances developed in Australia to make the role of technology visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h02-p-003",
-    "curriculumCode": "AC9S9H02",
-    "bank": "practice",
-    "skill": "use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Technology is only applied science",
-      "The method can be chosen without checking the values or conditions",
-      "researching how technological advances in monitoring greenhouse gas emissions and other environmental factors have contributed to the reinstatement of traditional fire management practices as a strategy to reduce atmospheric pollution",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "researching how technological advances in monitoring greenhouse gas emissions and other environmental factors have contributed to the reinstatement of traditional fire management practices as a strategy to reduce atmospheric pollution\nHint: Use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "researching how technological advances in monitoring greenhouse gas emissions and other environmental factors have contributed to the reinstatement of traditional fire management practices as a strategy to reduce atmospheric pollution",
-      "hint": "Use how technological advances in monitoring greenhouse gas emissions to make the role of new data visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h02-p-004",
-    "curriculumCode": "AC9S9H02",
-    "bank": "practice",
-    "skill": "use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A more advanced instrument removes uncertainty",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining how properties of electromagnetic radiation relate to its uses, such as radar, medicine, mobile phone communications, remote sensing and microwave cooking"
-    ],
-    "correct": 3,
-    "explanation": "examining how properties of electromagnetic radiation relate to its uses, such as radar, medicine, mobile phone communications, remote sensing and microwave cooking\nHint: Use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how properties of electromagnetic radiation relate to its uses, such as radar, medicine, mobile phone communications, remote sensing and microwave cooking",
-      "hint": "Use how properties of electromagnetic radiation relate to its uses to make the role of new explanation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h02-p-005",
-    "curriculumCode": "AC9S9H02",
-    "bank": "practice",
-    "skill": "use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "exploring how scientists and engineers make machines more energy efficient",
-      "Technology is only applied science",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "exploring how scientists and engineers make machines more energy efficient\nHint: Use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring how scientists and engineers make machines more energy efficient",
-      "hint": "Use how scientists and engineers make machines more energy efficient to make the role of engineering application visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h02-p-006",
-    "curriculumCode": "AC9S9H02",
-    "bank": "practice",
-    "skill": "use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A more advanced instrument removes uncertainty",
-      "exploring how understanding of the nature of matter and energy has changed over time, and how modern technology has enabled exploration of energy conversion processes at all scales, from black holes to atoms to sub-atomic particles",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "exploring how understanding of the nature of matter and energy has changed over time, and how modern technology has enabled exploration of energy conversion processes at all scales, from black holes to atoms to sub-atomic particles\nHint: Use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring how understanding of the nature of matter and energy has changed over time, and how modern technology has enabled exploration of energy conversion processes at all scales, from black holes to atoms to sub-atomic particles",
-      "hint": "Use how understanding of the nature of matter and energy to make the role of scientific question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h02-p-007",
-    "curriculumCode": "AC9S9H02",
-    "bank": "practice",
-    "skill": "use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Technology is only applied science",
-      "The method can be chosen without checking the values or conditions",
-      "examining how advances in understanding of radioactivity and radioisotopes have led to new applications and technologies",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining how advances in understanding of radioactivity and radioisotopes have led to new applications and technologies\nHint: Use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how advances in understanding of radioactivity and radioisotopes have led to new applications and technologies",
-      "hint": "Use how advances in understanding of radioactivity and radioisotopes have to make the role of technology visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h02-p-008",
-    "curriculumCode": "AC9S9H02",
-    "bank": "practice",
-    "skill": "use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A more advanced instrument removes uncertainty",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems"
-    ],
-    "correct": 3,
-    "explanation": "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems\nHint: Use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing how the development of imaging technologies has improved our understanding of the functions and interactions of body systems",
-      "hint": "Use how the development of imaging technologies has improved our to make the role of scientific question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["imaging","Why has MRI technology advanced scientific understanding of body systems?",["It can produce detailed images of many soft tissues without using ionising X-rays","It measures only bone density","It directly sequences DNA in organs","It replaces all physiological experiments"],0,"MRI provides non-invasive structural information about many soft tissues, enabling repeated observation and investigation.","Ask what new observations the technology makes possible."],
+["CT","What physical technology does a CT scanner primarily combine with computer reconstruction?",["Multiple X-ray measurements from different angles","Ultrasound echoes only","Visible-light photography","Alpha radiation"],0,"CT uses X-rays collected around the body and computationally reconstructs cross-sectional images.","CT is an X-ray imaging technology."],
+["ultrasound","Why is ultrasound especially useful for observing a moving fetus or beating heart?",["It can generate images in real time from reflected sound waves","It uses gamma rays that freeze motion","It detects only bone","It requires a vacuum"],0,"Rapid ultrasound measurements can produce real-time images of moving structures.","Sound echoes can be updated quickly."],
+["PET","What information can PET provide that a simple anatomical image may not?",["Patterns of tracer uptake associated with metabolic or physiological activity","Exact DNA sequence of every cell","Only bone shape","Sound-wave frequency"],0,"PET uses radioactive tracers to map physiological activity, complementing structural imaging.","PET is strongly linked to function/activity."],
+["ECG","An ECG is an example of technology enabling science because it allows researchers to measure: ",["Electrical activity associated with the heartbeat over time","Bone mineral density","Blood chemistry directly","Lung volume using X-rays"],0,"ECG electrodes record voltage changes associated with cardiac electrical activity.","ECG → electrical signals from the heart."],
+["technology choice","A researcher needs repeated images of soft-tissue movement with no ionising radiation. Which is often the most suitable option?",["Ultrasound","CT","Conventional X-ray","Gamma radiography"],0,"Ultrasound can image soft tissues dynamically without ionising radiation.","Match technology to purpose and risk."],
+["cochlear implant","How does a cochlear implant illustrate science contributing to engineering?",["Knowledge of hearing and neural signalling is used to encode sound into electrical stimulation of the auditory nerve","It simply amplifies sound like a loudspeaker in the ear canal","It regrows damaged hair cells automatically","It replaces the eardrum with a microphone"],0,"Cochlear implants convert processed sound information into electrical stimulation delivered to the auditory system.","It bypasses some damaged hearing structures."],
+["cochlear feedback","How can cochlear-implant technology also contribute back to science?",["Performance data can improve understanding of auditory processing and neural responses","It proves all hearing loss has one cause","It removes the need to study hearing","It measures only sound volume"],0,"Clinical and device data can test and refine scientific models of hearing, showing the two-way relationship.","Technology can generate new scientific evidence."],
+["bionic vision","A visual prosthesis converts camera information into electrical stimulation of the visual system. Which science–technology link is central?",["Knowledge of neural signalling guides how visual information is encoded and delivered","Sound waves are converted into bone growth","Radioactivity produces new retinal cells","Heat conduction creates images"],0,"Bionic-vision systems depend on scientific understanding of visual pathways and electrical neural stimulation.","Engineering uses neuroscience."],
+["spray-on skin","Why is spray-on skin an example of science enabling medical technology?",["Cell biology and tissue-healing knowledge informed techniques for preparing and applying a patient's skin cells","It works by exposing burns to X-rays","It replaces all wound-care biology","It is made only from synthetic metal films"],0,"The technology applies biological knowledge about cells and tissue repair to burn treatment.","Scientific understanding becomes a clinical technique."],
+["Australian innovation","Which statement best describes the Australian contribution associated with CSIRO's WLAN research?",["Radio-astronomy signal-processing research contributed techniques important to high-speed wireless networking","CSIRO invented all forms of radio communication","Wi-Fi arose from ultrasound imaging research","The work depended on radioactive decay"],0,"CSIRO researchers developed signal-processing techniques from radio-astronomy work that became important in wireless LAN technology.","Science in one field can enable technology in another."],
+["cross-field transfer","Why is the radio-astronomy-to-wireless example important for AC9S9H02?",["Scientific methods developed for one problem can later solve an engineering problem in another field","Every scientific discovery immediately becomes a consumer product","Engineering never contributes to science","Technology develops independently of scientific knowledge"],0,"Knowledge and methods can transfer unexpectedly between scientific and engineering contexts.","Innovation pathways are often indirect."],
+["satellites","How do satellites enable advances in environmental science?",["They repeatedly observe large areas and collect comparable measurements over time","They eliminate the need to validate ground measurements","They directly control greenhouse gases","They measure only visible photographs"],0,"Remote sensing provides broad, repeated datasets that are difficult to collect entirely from the ground.","Technology expands scale and frequency of observation."],
+["remote sensing","Which observation is well suited to satellite remote sensing?",["Changes in vegetation cover across a large region","A patient's heart electrical trace","The DNA sequence of one bacterium","The pH inside one test tube without a sensor"],0,"Satellites are effective for large-scale spatial patterns such as vegetation, fire and land-cover change.","Match spatial scale to the technology."],
+["fire monitoring","Why is thermal satellite imagery valuable during fire research and management?",["It can detect heat signatures and map active fire areas across large regions","It proves every hotspot is a catastrophic fire","It measures soil DNA directly","It prevents ignition"],0,"Thermal sensing can identify heat anomalies and track spatial patterns of active fires.","Detecting heat ≠ explaining every cause."],
+["knowledge systems","Which approach best demonstrates science and technology working respectfully with First Nations fire knowledge?",["Combine appropriate remote-sensing data with knowledge shared under relevant cultural protocols and local expertise","Replace cultural knowledge with satellite data","Assume one burning regime applies everywhere","Use traditional knowledge without permission because it is environmental data"],0,"Different knowledge systems and technologies can complement each other when cultural authority, context and protocols are respected.","Integration should not erase ownership or context."],
+["EM applications","Radar is possible because engineers apply scientific knowledge of: ",["Radio-wave transmission, reflection and timing","Alpha-particle decay only","Convection currents","Chemical neutralisation"],0,"Radar transmits radio waves and analyses reflected signals to infer distance or motion.","Radar is an electromagnetic-wave application."],
+["microwave ovens","Which explanation of microwave cooking is most accurate?",["Microwave electric fields cause polar molecules, especially water, to respond and energy is dissipated as thermal energy","Microwaves simply heat the air, which then cooks all food","Microwaves are sound waves that shake the plate","Water molecules permanently store microwave photons"],0,"Microwave fields interact strongly with polar molecules; molecular motion and collisions convert supplied electromagnetic energy to thermal energy.","Avoid the oversimple 'microwaves only heat water' claim."],
+["mobile communication","Mobile phones depend on engineering applications of which scientific understanding?",["Electromagnetic waves can carry encoded information through space","Gamma radiation carries voice signals","Electric current travels through vacuum from tower to phone","Sound waves travel directly from tower to handset"],0,"Wireless communication modulates radio-frequency electromagnetic waves to transmit information.","Wireless ≠ sound travelling through the air from the tower."],
+["efficiency","How can scientific understanding of friction and energy transfers improve machine design?",["Engineers can reduce unwanted energy transfers and increase the fraction delivered to the intended output","Engineers can eliminate conservation of energy","Adding friction always increases efficiency","Efficiency improves by making machines heavier"],0,"Understanding energy pathways helps engineers identify and reduce unwanted transfers such as frictional heating.","Science identifies mechanisms; engineering redesigns the system."],
+["accelerators","Why have particle accelerators advanced science?",["They create controlled high-energy collisions that reveal information about subatomic particles and interactions","They directly photograph atoms with visible light","They make radioactive materials harmless","They measure only sound speed"],0,"Accelerators are technologies that allow experiments at energies and scales inaccessible in everyday conditions.","New instruments make new experiments possible."],
+["accelerator feedback","Which example shows science advancing accelerator engineering?",["Knowledge of electromagnetism guides the design of magnets and radio-frequency systems used to steer and accelerate charged particles","Particle accelerators work without scientific theory","Accelerators use only gravity to steer particles","Engineering choices are unrelated to particle charge"],0,"Scientific understanding of charged particles and fields underpins accelerator components.","The relationship works both directions."],
+["radioisotopes","How has knowledge of radioactivity contributed to medicine?",["It enables selected radioisotopes and radiation beams to be used for imaging or treatment with controlled doses","It makes all radiation harmless","It allows X-rays to be replaced by sound in every case","It eliminates the need for dose measurement"],0,"Understanding decay and radiation interactions enables diagnostic and therapeutic technologies while requiring dose control.","Application depends on type, dose and targeting."],
+["industrial imaging","Why can penetrating radiation be useful for non-destructive testing of engineered components?",["Differences in absorption can reveal internal flaws without cutting the component open","Radiation always repairs cracks","It increases the component's mass","It measures only surface colour"],0,"Radiographic methods reveal internal structure through differential attenuation of penetrating radiation.","Non-destructive testing observes inside without dismantling." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9h02-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9H02",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
