@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9u07-p-001",
-    "curriculumCode": "AC9S9U07",
-    "bank": "practice",
-    "skill": "use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "identifying reactants and products in chemical reactions",
-      "Balancing creates extra atoms",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "identifying reactants and products in chemical reactions\nHint: Use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying reactants and products in chemical reactions",
-      "hint": "Use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u07-p-002",
-    "curriculumCode": "AC9S9U07",
-    "bank": "practice",
-    "skill": "use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mass decreases when a gas escapes",
-      "using models and representations to show the rearrangement of atoms in chemical reactions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using models and representations to show the rearrangement of atoms in chemical reactions\nHint: Use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using models and representations to show the rearrangement of atoms in chemical reactions",
-      "hint": "Use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u07-p-003",
-    "curriculumCode": "AC9S9U07",
-    "bank": "practice",
-    "skill": "use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Balancing creates extra atoms",
-      "The method can be chosen without checking the values or conditions",
-      "investigating chemical reactions in closed and open systems and relating data obtained to the law of conservation of mass",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating chemical reactions in closed and open systems and relating data obtained to the law of conservation of mass\nHint: Use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating chemical reactions in closed and open systems and relating data obtained to the law of conservation of mass",
-      "hint": "Use chemical reactions in closed and open systems and relating to make the role of word equation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u07-p-004",
-    "curriculumCode": "AC9S9U07",
-    "bank": "practice",
-    "skill": "use symbolic equations that are easy to balance and explaining to make the role of balanced equation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use symbolic equations that are easy to balance and explaining to make the role of balanced equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use symbolic equations that are easy to balance and explaining to make the role of balanced equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mass decreases when a gas escapes",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "writing symbolic equations that are easy to balance and explaining, using the law of conservation of mass, and atoms, the rationale for balancing chemical equations"
-    ],
-    "correct": 3,
-    "explanation": "writing symbolic equations that are easy to balance and explaining, using the law of conservation of mass, and atoms, the rationale for balancing chemical equations\nHint: Use symbolic equations that are easy to balance and explaining, to make the role of balanced equation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "writing symbolic equations that are easy to balance and explaining, using the law of conservation of mass, and atoms, the rationale for balancing chemical equations",
-      "hint": "Use symbolic equations that are easy to balance and explaining, to make the role of balanced equation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u07-p-005",
-    "curriculumCode": "AC9S9U07",
-    "bank": "practice",
-    "skill": "use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating why most elements are not found in their elemental state and processes which are used to obtain the element",
-      "Balancing creates extra atoms",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating why most elements are not found in their elemental state and processes which are used to obtain the element\nHint: Use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating why most elements are not found in their elemental state and processes which are used to obtain the element",
-      "hint": "Use most elements are not found in their elemental state to make the role of conservation of mass visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u07-p-006",
-    "curriculumCode": "AC9S9U07",
-    "bank": "practice",
-    "skill": "use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mass decreases when a gas escapes",
-      "predicting how ideas of green chemistry such as minimising the amount of unusable waste products, energy use and using more environmentally friendly chemical processes will affect the environment",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "predicting how ideas of green chemistry such as minimising the amount of unusable waste products, energy use and using more environmentally friendly chemical processes will affect the environment\nHint: Use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "predicting how ideas of green chemistry such as minimising the amount of unusable waste products, energy use and using more environmentally friendly chemical processes will affect the environment",
-      "hint": "Use how ideas of green chemistry to make the role of reactant particles visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u07-p-007",
-    "curriculumCode": "AC9S9U07",
-    "bank": "practice",
-    "skill": "use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Balancing creates extra atoms",
-      "The method can be chosen without checking the values or conditions",
-      "identifying reactants and products in chemical reactions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying reactants and products in chemical reactions\nHint: Use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying reactants and products in chemical reactions",
-      "hint": "Use reactants and products in chemical reactions to make the role of reactant particles visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u07-p-008",
-    "curriculumCode": "AC9S9U07",
-    "bank": "practice",
-    "skill": "use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mass decreases when a gas escapes",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using models and representations to show the rearrangement of atoms in chemical reactions"
-    ],
-    "correct": 3,
-    "explanation": "using models and representations to show the rearrangement of atoms in chemical reactions\nHint: Use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using models and representations to show the rearrangement of atoms in chemical reactions",
-      "hint": "Use models and representations to show the rearrangement of atoms to make the role of product particles visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["reactants products","In 2H₂ + O₂ → 2H₂O, which substances are the reactants?",["H₂ and O₂","H₂O only","H₂ and H₂O","O₂ and H₂O"],0,"Reactants are written on the left of the arrow; water is the product.","Left side = reactants."],
+["word equation","Which word equation correctly represents magnesium burning in oxygen?",["magnesium + oxygen → magnesium oxide","magnesium oxide → magnesium + oxygen","magnesium + magnesium oxide → oxygen","oxygen → magnesium oxide"],0,"Magnesium reacts with oxygen to form magnesium oxide.","Reactants → product."],
+["neutralisation","Which general word equation describes an acid reacting with a suitable base?",["acid + base → salt + water","acid + base → hydrogen + oxygen","salt + water → acid + base always","acid → salt only"],0,"Neutralisation commonly produces a salt and water.","Acid + base has two main products."],
+["decomposition","Which pattern best represents a simple decomposition reaction?",["one compound → two or more simpler substances","two elements → one compound only","fuel + oxygen → carbon dioxide only","acid + base → salt + water"],0,"A decomposition reaction starts with one reactant that breaks into simpler products.","One reactant breaks down."],
+["atom counting","In 2H₂ + O₂ → 2H₂O, how many hydrogen atoms are represented on each side?",["4","2","6","8"],0,"2H₂ contains 4 H atoms, and 2H₂O also contains 4 H atoms.","Coefficient × subscript."],
+["atom counting","In 2Mg + O₂ → 2MgO, how many oxygen atoms are on each side?",["2","1","4","3"],0,"O₂ has two oxygen atoms and 2MgO contains two oxygen atoms in total.","Count atoms, not molecules."],
+["rearrangement","What happens to atoms during an ordinary chemical reaction?",["They are rearranged into new combinations without changing element identity","They are created from energy","They are destroyed if a gas forms","Protons change to make new elements"],0,"Chemical reactions rearrange existing atoms; changing nuclear identity is not an ordinary chemical reaction.","Chemical change rearranges atoms."],
+["coefficients","Why can coefficients be changed when balancing an equation but subscripts in chemical formulas should not be changed?",["Coefficients change numbers of particles; changing a subscript changes the substance's formula","Subscripts have no chemical meaning","Coefficients change element identity","Both can be changed freely"],0,"Balancing adjusts how many formula units react, not what each substance is.","Never balance by changing a compound's identity."],
+["balance","Which equation is correctly balanced?",["2Na + Cl₂ → 2NaCl","Na + Cl₂ → NaCl","Na + 2Cl₂ → NaCl","2Na + 2Cl₂ → 2NaCl"],0,"The balanced equation has 2 Na atoms and 2 Cl atoms on each side.","Count each element separately."],
+["balance","Which is the simplest whole-number balancing of Fe + O₂ → Fe₂O₃?",["4Fe + 3O₂ → 2Fe₂O₃","2Fe + O₂ → Fe₂O₃","Fe + 3O₂ → Fe₂O₃","2Fe + 3O₂ → 2Fe₂O₃"],0,"4 Fe atoms and 6 O atoms occur on each side.","Balance oxygen and iron without altering Fe₂O₃."],
+["conservation","Why does a balanced chemical equation support conservation of mass?",["It represents the same number of atoms of each element before and after reaction","It has the same number of molecules on each side","Every reactant and product has the same mass individually","It shows energy cannot be transferred"],0,"If atoms are conserved and merely rearranged, their total mass is conserved in the chemical reaction.","Same atoms, new combinations."],
+["closed system","A sealed flask and contents have a mass of 150.0 g before a reaction. Assuming nothing enters or leaves, what should the total mass be afterwards?",["150.0 g","Less than 150.0 g if gas forms","More than 150.0 g if a solid forms","It depends on reaction speed"],0,"In a closed system, matter cannot escape or enter, so total mass remains constant.","Closed system → total mass conserved."],
+["open system","Vinegar and sodium hydrogencarbonate react in an open flask and the measured mass falls. What is the best explanation?",["Carbon dioxide leaves the measured system","Carbon atoms are destroyed","Heat converts matter into nothing","The law of conservation of mass fails for gases"],0,"CO₂ gas can escape from an open flask, so the mass remaining on the balance decreases although total matter is conserved.","Track what crosses the system boundary."],
+["mass gain","Why can magnesium ribbon gain mass when burned in air?",["Oxygen atoms from the air become part of the magnesium oxide product","Heating creates new magnesium atoms","Light has a large mass that sticks to the ribbon","The balance must be wrong"],0,"The solid product contains magnesium plus oxygen taken from the surrounding air.","The system gains oxygen from outside."],
+["mass calculation","In a sealed system, 12.0 g of carbon reacts completely with 32.0 g of oxygen. What total product mass is expected?",["44.0 g","20.0 g","32.0 g","12.0 g"],0,"Conservation of mass gives 12.0 + 32.0 = 44.0 g of products.","Total reactant mass = total product mass."],
+["missing mass","A closed reaction starts with 80 g of reactants. One measured product has mass 52 g. If there are exactly two products, what mass must the other product have?",["28 g","132 g","52 g","80 g"],0,"The product masses must total 80 g, so 80 − 52 = 28 g.","Use conservation to find the missing mass."],
+["particle model","A particle diagram shows 4 A atoms and 4 B atoms before reaction. Which product diagram could conserve atoms?",["Four AB particles","Eight AB particles","Four A₂B particles","Two AB particles with the rest disappearing"],0,"Four AB particles use exactly four A atoms and four B atoms.","Account for every atom."],
+["limiting model","Six H₂ molecules react with three O₂ molecules according to 2H₂ + O₂ → 2H₂O. How many H₂O molecules can form if reaction is complete?",["6","3","9","12"],0,"The ratio 2 H₂ : 1 O₂ : 2 H₂O means 6 H₂ and 3 O₂ form 6 H₂O.","Use the coefficients as particle ratios."],
+["extraction","Why are many metals found naturally as compounds rather than as pure elements?",["They have reacted with other elements over geological time","All metals are radioactive","Pure metals cannot exist","Compounds contain no atoms"],0,"Many metals are sufficiently reactive to occur in ores as oxides, sulfides or other compounds.","Reactivity affects natural occurrence."],
+["reduction","In simplified terms, extracting iron from iron oxide requires reduction. What does reduction achieve?",["It removes oxygen from the iron oxide to produce iron","It adds oxygen to iron","It filters iron atoms through a membrane","It freezes the ore"],0,"Reduction of a metal oxide removes oxygen from the compound, yielding the metal.","Metal oxide → metal requires oxygen removal."],
+["electrolysis","Why is electrolysis used to extract aluminium from aluminium compounds?",["Aluminium is too reactive to be extracted efficiently by carbon reduction","Aluminium is naturally a liquid","Electrolysis changes aluminium into a different element","Aluminium ores contain no oxygen"],0,"Highly reactive aluminium requires electrical energy to separate it from its compounds.","Extraction method depends on reactivity."],
+["green chemistry","Which change best follows green chemistry principles?",["Redesign a process to produce less hazardous waste while maintaining useful yield","Dilute hazardous waste after making more of it","Use more reactant so some remains unused","Choose the hottest possible conditions regardless of energy use"],0,"Green chemistry aims to prevent waste and hazards at the design stage rather than merely manage them afterwards.","Prevent waste rather than treat it later."],
+["catalysts","How can a catalyst make a chemical process more sustainable?",["It can provide a lower-energy pathway and may allow milder operating conditions","It creates extra atoms so yield exceeds conservation limits","It is always consumed as the main product","It guarantees zero waste"],0,"Catalysts can reduce activation-energy requirements and improve process conditions without being consumed overall.","Catalyst ≠ extra matter."],
+["atom economy","Process A puts most reactant atoms into the desired product; Process B produces large amounts of unwanted by-products. Which better reflects green chemistry?",["Process A, because more reactant atoms end up in the useful product","Process B, because more products always means greater efficiency","Both are identical if reaction time is equal","Process B, because waste proves conservation of mass"],0,"High atom economy means a larger fraction of reactant atoms are incorporated into the desired product.","Conservation does not mean all products are useful."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9u07-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9U07",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
