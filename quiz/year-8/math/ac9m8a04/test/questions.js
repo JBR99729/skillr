@@ -1,237 +1,34 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9m8a04-t-001",
-    "curriculumCode": "AC9M8A04",
-    "bank": "test",
-    "skill": "use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs making and testing conjectures",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures?",
-    "audioPrompt": "Which response correctly uses use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right",
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right\nHint: Use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures.",
-    "structuredExplanation": {
-      "summary": "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right",
-      "hint": "Use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a04-t-002",
-    "curriculumCode": "AC9M8A04",
-    "bank": "test",
-    "skill": "use graphing software to systematically contrast the graphs of y 2x y 2x y 2x and y 2x with those of y 2x y 2x y 2x and y 2x making",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making?",
-    "audioPrompt": "Which response correctly uses use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality\nHint: Use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making.",
-    "structuredExplanation": {
-      "summary": "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality",
-      "hint": "Use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a04-t-003",
-    "curriculumCode": "AC9M8A04",
-    "bank": "test",
-    "skill": "use digital tools to investigate integer solutions to equations such as 2x 3y 48",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses use digital tools to investigate integer solutions to equations such as 2x+3y = 48?",
-    "audioPrompt": "Which response correctly uses use digital tools to investigate integer solutions to equations such as 2x+3y = 48?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The experimenting with linear functions model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48\nHint: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48.",
-    "structuredExplanation": {
-      "summary": "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48",
-      "hint": "Use digital tools to investigate integer solutions to equations such as 2x+3y = 48."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a04-t-004",
-    "curriculumCode": "AC9M8A04",
-    "bank": "test",
-    "skill": "explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents?",
-    "audioPrompt": "Which response correctly uses explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors"
-    ],
-    "correct": 3,
-    "explanation": "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors\nHint: Explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents.",
-    "structuredExplanation": {
-      "summary": "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors",
-      "hint": "Explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a04-t-005",
-    "curriculumCode": "AC9M8A04",
-    "bank": "test",
-    "skill": "use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs making and testing conjectures",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs making and testing conjectures. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs making and testing conjectures. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right",
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right\nHint: Use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures.",
-    "structuredExplanation": {
-      "summary": "using graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures; for example, making a conjecture that if the co-efficient of x is negative, then the line will slope down from left to right",
-      "hint": "Use graphing software to investigate the effect of systematically varying parameters of linear functions on the corresponding graphs, making and testing conjectures."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a04-t-006",
-    "curriculumCode": "AC9M8A04",
-    "bank": "test",
-    "skill": "use graphing software to systematically contrast the graphs of y 2x y 2x y 2x and y 2x with those of y 2x y 2x y 2x and y 2x making",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use graphing software to systematically contrast the graphs of y 2x y 2x y 2x and y 2x with those of y 2x y 2x y 2x and y 2x making. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use graphing software to systematically contrast the graphs of y 2x y 2x y 2x and y 2x with those of y 2x y 2x y 2x and y 2x making. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The experimenting with linear functions model is copied without interpretation",
-      "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality\nHint: Use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making.",
-    "structuredExplanation": {
-      "summary": "using graphing software to systematically contrast the graphs of y\\;=\\;2x, -y\\;=\\;2x, y\\;=\\;-2x and -y\\;=\\;-2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making and testing conjectures about sign and direction of the inequality",
-      "hint": "Use graphing software to systematically contrast the graphs of y = 2x, -y = 2x, y = -2x and -y = -2x with those of y 2x, -y>2x, y>-2x and -y>-2x, making."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a04-t-007",
-    "curriculumCode": "AC9M8A04",
-    "bank": "test",
-    "skill": "use digital tools to investigate integer solutions to equations such as 2x 3y 48",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use digital tools to investigate integer solutions to equations such as 2x 3y 48. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools to investigate integer solutions to equations such as 2x 3y 48. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48\nHint: Use digital tools to investigate integer solutions to equations such as 2x+3y = 48.",
-    "structuredExplanation": {
-      "summary": "using digital tools to investigate integer solutions to equations such as 2x+3y\\;=\\;48",
-      "hint": "Use digital tools to investigate integer solutions to equations such as 2x+3y = 48."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a04-t-008",
-    "curriculumCode": "AC9M8A04",
-    "bank": "test",
-    "skill": "explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors"
-    ],
-    "correct": 3,
-    "explanation": "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors\nHint: Explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents.",
-    "structuredExplanation": {
-      "summary": "exploring how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents; for example, linear functions are used to model the relationship between input variables and a target variable, to predict stock or house prices in the financial and real-estate sectors",
-      "hint": "Explore how linear functions are used in linear regression models as a statistical technique in machine learning of artificial intelligence agents."
-    },
-    "qualitySchema": "production-v1"
-  }
+const regressionVisual = (kind) => {
+  const base = '<svg viewBox="0 0 220 150" role="img" aria-label="linear regression visual" style="max-width:260px;width:100%;height:auto"><rect x="0" y="0" width="220" height="150" fill="white"/><line x1="25" y1="125" x2="195" y2="125" stroke="#999"/><line x1="25" y1="20" x2="25" y2="125" stroke="#999"/>';
+  const points = '<circle cx="55" cy="102" r="4" fill="#111"/><circle cx="85" cy="84" r="4" fill="#111"/><circle cx="118" cy="72" r="4" fill="#111"/><circle cx="150" cy="50" r="4" fill="#111"/><circle cx="178" cy="42" r="4" fill="#111"/>';
+  const line = '<line x1="45" y1="104" x2="185" y2="35" stroke="#2457d6" stroke-width="4"/>';
+  const end = '</svg>';
+  return base + (kind === 'scatter' ? points + line : line) + end;
+};
+const raw = [
+  ["t-001","integer solutions","For 2x + 3y = 48, if x = 12, then y =",["6","8","10","12"],1,"24 + 3y = 48 gives 3y = 24, so y = 8."],
+  ["t-002","integer solutions","Which pair is a solution of 2x + 3y = 48?",["(6, 12)","(4, 10)","(8, 8)","(3, 15)"],0,"For (6, 12), 2×6 + 3×12 = 12 + 36 = 48."],
+  ["t-003","integer solutions","Which pair is NOT a solution of 2x + 3y = 48?",["(0, 16)","(3, 14)","(6, 12)","(10, 6)"],3,"For (10, 6), 2×10 + 3×6 = 38, not 48."],
+  ["t-004","integer solutions","For 2x + 3y = 48, if y must be an integer, x must be chosen so:",["x is any integer with no condition","x is a multiple of 2 only","48 − 2x is divisible by 3","48 − 3x is divisible by 2"],2,"Since y = (48 − 2x)/3, the numerator must be divisible by 3."],
+  ["t-005","integer solutions","For 2x + 3y = 48, if x = 15, then y =",["4","6","8","10"],1,"30 + 3y = 48 gives 3y = 18, so y = 6."],
+  ["t-006","integer solutions","How many non-negative integer solution pairs does 2x + 3y = 48 have?",["7","8","9","16"],2,"x must be 0, 3, 6, 9, 12, 15, 18, 21 or 24, giving 9 non-negative integer pairs."],
+  ["t-007","regression","Linear regression models:",["curved relationships only","straight-line relationships","random data only","unrelated variables only"],1,"Linear regression fits a straight-line model to data.","scatter"],
+  ["t-008","regression","In linear regression, the line is used to:",["predict values from a trend","create random noise","ignore variables","only produce negative values"],0,"A regression line can be used for prediction within a suitable context.","scatter"],
+  ["t-009","regression","In AI and data modelling, linear regression can be used to:",["predict a numerical value from related input data","draw pictures only","translate languages only","play music only"],0,"Linear regression is a simple prediction model for numerical relationships."],
+  ["t-010","regression","In the model y = mx + b, m represents:",["intercept","slope","output only","input only"],1,"m is the slope or rate of change."],
+  ["t-011","regression","In the model y = mx + b, b represents:",["intercept","slope","output only","input only"],0,"b is the y-intercept, the value when x = 0."],
+  ["t-012","regression","Linear regression finds a line that:",["maximises total error","minimises error as much as possible","ignores all error","makes all data points exactly equal"],1,"The fitted line is chosen to minimise overall error under a chosen rule."],
+  ["t-013","regression","AI can use linear functions to:",["model relationships between variables","remove all relationships","hide patterns deliberately","create only random outputs"],0,"Linear functions can model simple relationships between input and output variables."],
+  ["t-014","regression","A house-price prediction using floor area and price is an example of:",["linear regression if a straight-line trend is suitable","coin flipping","no mathematical modelling","only image analysis"],0,"A straight-line model can estimate a numerical output from an input such as floor area."],
+  ["t-015","regression","A stock-price trend model may use:",["linear regression as one possible model","no modelling","only images","only sound"],0,"Linear regression is one possible model, though real stock prices can be much more complex."],
+  ["t-016","regression","Linear regression is most useful when:",["the data show an approximately straight-line trend","the data are completely unrelated","the relationship is always vertical","there are no measurements"],0,"Regression is useful when a straight-line trend is a reasonable approximation.","scatter"]
 ];
+window.skillrTestQuestions = raw.map(([id,section,question,answers,correct,explanation,visualKey],i)=>({
+  id:`ac9m8a04-${id}`, curriculumCode:"AC9M8A04", bank:"test", section, sourceNumber:i+25,
+  skill:"integer solutions and linear regression", printable:true, type:"single", question, audioPrompt:question,
+  visual:"", visualHtml:visualKey?regressionVisual(visualKey):"", visualMeta:visualKey?{type:"svg",alt_text:"Scatterplot with a fitted straight regression line"}:{type:"none",alt_text:""},
+  answers, correct, explanation, structuredExplanation:{summary:explanation,hint:"Substitute carefully or interpret the slope, intercept and regression trend."}, qualitySchema:"production-v1"
+}));
 window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;
