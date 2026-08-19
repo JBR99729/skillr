@@ -1,0 +1,61 @@
+name: Tune Year 7 Maths diversity
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/tune-year7-maths-diversity.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  tune:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Interleave tuned Year 7 Maths banks
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import vm from 'node:vm';
+          const codes=['AC9M7N01','AC9M7N02','AC9M7N04','AC9M7N05','AC9M7N06','AC9M7N07','AC9M7N08','AC9M7N09','AC9M7A01'];
+          function interleave(items, groups){
+            const chunks=Array.from({length:groups},()=>[]);
+            const size=Math.ceil(items.length/groups);
+            items.forEach((item,i)=>chunks[Math.min(groups-1,Math.floor(i/size))].push(item));
+            const out=[]; let i=0;
+            while(out.length<items.length){ for(const chunk of chunks) if(i<chunk.length) out.push(chunk[i]); i++; }
+            return out;
+          }
+          function liveArray(file, key){
+            const window={}; vm.runInNewContext(fs.readFileSync(file,'utf8'),{window,console});
+            return window[key];
+          }
+          for(const code of codes){
+            const low=code.toLowerCase();
+            const bankPath=`assets/assessment-banks/year7/math/${low}.json`;
+            const bank=JSON.parse(fs.readFileSync(bankPath,'utf8'));
+            const practice=interleave(bank.filter(q=>q.bank==='practice'),3);
+            const test=interleave(bank.filter(q=>q.bank==='test'),2);
+            if(practice.length!==24||test.length!==16) throw new Error(`${code}: expected 24/16, got ${practice.length}/${test.length}`);
+            fs.writeFileSync(bankPath,JSON.stringify([...practice,...test],null,2)+'\n');
+            for(const [kind,key,groups] of [['practice','skillrPracticeQuestions',3],['test','skillrTestQuestions',2]]){
+              const file=`quiz/year-7/math/${low}/${kind}/questions.js`;
+              const arr=interleave(liveArray(file,key),groups);
+              const alias=kind==='test'?`window.skillrExamQuestions = window.${key};\n`:'';
+              fs.writeFileSync(file,`"use strict";\nwindow.${key} = ${JSON.stringify(arr,null,2)};\n${alias}window.quizQuestions = window.${key};\n`);
+            }
+          }
+          NODE
+      - name: Commit tuned banks
+        run: |
+          rm -f .github/workflows/tune-year7-maths-diversity.yml
+          git config user.name "Skillr QA Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/assessment-banks/year7/math quiz/year-7/math .github/workflows/tune-year7-maths-diversity.yml
+          git diff --cached --quiet && exit 0
+          git commit -m "Tune Year 7 Maths question diversity"
+          git push origin main
