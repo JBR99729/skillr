@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10i03-p-001",
-    "curriculumCode": "AC9S10I03",
-    "bank": "practice",
-    "skill": "use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
-      "A large data file means a large sample",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results\nHint: Use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
-      "hint": "Use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i03-p-002",
-    "curriculumCode": "AC9S10I03",
-    "bank": "practice",
-    "skill": "use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Calibration and zeroing are the same for every instrument",
-      "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings\nHint: Use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
-      "hint": "Use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i03-p-003",
-    "curriculumCode": "AC9S10I03",
-    "bank": "practice",
-    "skill": "use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A large data file means a large sample",
-      "The method can be chosen without checking the values or conditions",
-      "identifying how human error can affect replicability and reproducibility",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying how human error can affect replicability and reproducibility\nHint: Use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying how human error can affect replicability and reproducibility",
-      "hint": "Use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i03-p-004",
-    "curriculumCode": "AC9S10I03",
-    "bank": "practice",
-    "skill": "use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Calibration and zeroing are the same for every instrument",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "deciding how much data is needed to produce valid conclusions"
-    ],
-    "correct": 3,
-    "explanation": "deciding how much data is needed to produce valid conclusions\nHint: Use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "deciding how much data is needed to produce valid conclusions",
-      "hint": "Use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i03-p-005",
-    "curriculumCode": "AC9S10I03",
-    "bank": "practice",
-    "skill": "use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
-      "A large data file means a large sample",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results\nHint: Use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "ensuring instruments are correctly calibrated before use and planning for recalibration as necessary between uses to improve reliability of results",
-      "hint": "Use instruments are correctly calibrated before use and planning to make the role of calibration visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i03-p-006",
-    "curriculumCode": "AC9S10I03",
-    "bank": "practice",
-    "skill": "use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Calibration and zeroing are the same for every instrument",
-      "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings\nHint: Use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "explaining how estimation affects precision and examining the inaccuracy introduced when reading between scale markings",
-      "hint": "Use how estimation affects precision and examining the inaccuracy introduced to make the role of range and resolution visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i03-p-007",
-    "curriculumCode": "AC9S10I03",
-    "bank": "practice",
-    "skill": "use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A large data file means a large sample",
-      "The method can be chosen without checking the values or conditions",
-      "identifying how human error can affect replicability and reproducibility",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying how human error can affect replicability and reproducibility\nHint: Use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying how human error can affect replicability and reproducibility",
-      "hint": "Use how human error can affect replicability and reproducibility to make the role of consistent technique visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i03-p-008",
-    "curriculumCode": "AC9S10I03",
-    "bank": "practice",
-    "skill": "use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Calibration and zeroing are the same for every instrument",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "deciding how much data is needed to produce valid conclusions"
-    ],
-    "correct": 3,
-    "explanation": "deciding how much data is needed to produce valid conclusions\nHint: Use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "deciding how much data is needed to produce valid conclusions",
-      "hint": "Use how much data is needed to produce valid conclusions to make the role of sample size visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["calibration","A temperature probe reads 2.0 °C too high when checked against a traceable reference. What type of problem is this?",["A systematic measurement error","Random variation only","A sampling error","A confounding variable"],0,"A consistent offset from a reference is systematic error and can bias every measurement.","Consistent offset = systematic."],
+["calibration","What is the main purpose of calibrating a measuring instrument?",["To compare its response with known reference values and identify or correct bias","To guarantee every future reading is exact","To increase the number of samples","To remove all random variation"],0,"Calibration checks instrument response against standards; it cannot guarantee perfect measurements.","Calibration uses known references."],
+["balance calibration","Which procedure best checks a laboratory balance?",["Measure suitable certified or known reference masses across the range of interest","Place any object on it repeatedly until readings agree","Zero it once and assume all masses are correct","Compare its colour with another balance"],0,"Known reference masses allow bias or non-linearity to be detected over the working range.","Use known standards."],
+["zero error","An empty balance displays 0.20 g before any sample is added. What should the student do?",["Zero/tare or recalibrate it before measuring samples","Take many readings and average them without correction","Subtract a different random value from each reading","Ignore it because digital instruments cannot have bias"],0,"A zero offset is a systematic problem that should be corrected before data collection.","Fix the source, not just repeat it."],
+["pH calibration","Why are standard buffer solutions used to calibrate a pH meter?",["Their known pH values provide reference points for the sensor response","They make every sample neutral","They remove the need to rinse the probe","They increase the sample size"],0,"Buffers of known pH allow the meter response to be adjusted against reference values.","Known pH = calibration reference."],
+["calibration schedule","When should an instrument be recalibrated?",["At intervals appropriate to the instrument and method, especially when checks indicate drift or conditions require it","Exactly before every measurement regardless of instrument","Only after it physically breaks","Never once it leaves the factory"],0,"Calibration frequency depends on instrument stability, required quality and method; a universal 'before every investigation' rule is not defensible.","Calibration frequency is context-dependent."],
+["precision","Which set of repeated measurements is the most precise?",["10.01, 10.02, 10.01, 10.02","9.4, 10.6, 9.8, 10.2","8.0, 10.0, 12.0, 10.0","7, 9, 11, 13"],0,"Precision concerns the closeness of repeated measurements to one another.","Small spread = high precision."],
+["accuracy vs precision","Measurements are 12.01, 12.02 and 12.01 g, but a reference value is 12.50 g. These measurements are best described as:",["Precise but inaccurate","Accurate but imprecise","Both accurate and precise","Neither measurable nor precise"],0,"The readings cluster closely but are far from the reference value.","Precision = spread; accuracy = closeness to reference."],
+["resolution","A sensor displays temperature to 0.01 °C. What can be concluded from this alone?",["Its display has fine resolution, but its accuracy must still be established","Every reading is accurate to ±0.01 °C","It requires no calibration","Its measurements are automatically reproducible"],0,"Resolution is the smallest displayed increment; it does not by itself establish accuracy.","More digits do not guarantee truth."],
+["scale choice","Which tool is most suitable for delivering about 0.20 mL when high precision is required?",["A calibrated micropipette or suitable fine-volume pipette","A 250 mL beaker","A 1 m ruler","A 1 L measuring jug"],0,"The instrument should have a suitable range and resolution for the quantity being measured.","Match tool range to measurement size."],
+["analogue reading","Why should an analogue scale normally be read from the correct viewing position?",["To reduce parallax or viewing-angle error","To increase the instrument's maximum range","To remove systematic calibration drift","To increase the number of repeats"],0,"Viewing an analogue scale from an angle can shift the apparent position of the indicator or liquid level.","Eye position matters for analogue scales."],
+["estimation","A scale has 1 mL divisions. What is the safest general statement about readings between marks?",["The final digit is estimated and the justified precision depends on the instrument and reading method","Every reading is exact to 0.01 mL","Values between marks cannot be recorded","The instrument automatically rounds to the true value"],0,"Analogue readings commonly involve an estimated digit; claiming a universal 0.5 or 0.1 mL rule without instrument context is too rigid.","Record only justified precision."],
+["human timing","Why can an electronic light gate improve a short timing experiment compared with a hand-operated stopwatch?",["It can reduce variation caused by human reaction time","It eliminates every source of uncertainty","It makes calibration unnecessary","It changes the independent variable automatically"],0,"Automated triggering can reduce reaction-time variation, though other uncertainties remain.","Automation reduces one source, not all error."],
+["observation","Students disagree about the exact moment a colour change is complete. Which improvement best reduces this subjectivity?",["Use an objective sensor or a clearly defined endpoint criterion where possible","Ask each student to choose a different colour endpoint","Delete readings that disagree","Use a larger beaker only"],0,"Objective measurement or an operational definition reduces observer-dependent judgement.","Define or measure the endpoint objectively."],
+["recording","Which practice best reduces transcription errors during data collection?",["Record measurements directly in a prepared table or use validated automatic logging","Memorise all values until the experiment ends","Round every value before recording it","Rewrite unexpected values so the pattern is smoother"],0,"Direct structured recording reduces the chance of values being copied incorrectly or lost.","Record data at the point of measurement."],
+["replicability","What most helps another group obtain comparable data using the same investigation?",["A clear method, specified settings, calibrated/suitable equipment and consistent definitions","Keeping instrument settings secret","Changing the procedure between trials","Reporting only the final conclusion"],0,"Replicable work requires enough procedural detail and measurement information for others to repeat it meaningfully.","Methods need operational detail."],
+["sample size","Why can increasing a representative sample size strengthen an estimate?",["It can reduce the influence of random sampling variation","It automatically removes systematic bias","It guarantees the population is represented","It makes controls unnecessary"],0,"Larger representative samples generally reduce random sampling variation but do not cure bias.","More data does not fix biased data."],
+["repeats","What is the main benefit of repeated measurements under the same conditions?",["They reveal measurement variability and improve estimates of a typical value","They remove calibration bias","They prove the hypothesis","They ensure every reading becomes identical"],0,"Repeats help characterise random variation and improve estimates; systematic errors can persist across every repeat.","Repeats address random variation."],
+["data spread","A set of repeated measurements has a wide spread. What does this most directly indicate?",["Low precision or substantial random variability","High accuracy","A zero error","A large sample is unnecessary"],0,"Wide spread means repeated values are not close together, indicating low precision.","Spread tells you about precision."],
+["outliers","One measurement is far from the others. What should happen first?",["Investigate possible causes and check the method or record before deciding how to treat it","Delete it automatically","Replace it with the mean","Keep it secret"],0,"Outliers should be investigated and any exclusion justified transparently rather than automatic.","Investigate before excluding."],
+["averaging","What can averaging repeated measurements do?",["Reduce the influence of random variation on the estimated mean","Remove a constant calibration offset","Guarantee accuracy","Correct a confounding variable"],0,"A mean can stabilise an estimate when variation is random, but systematic bias remains.","Averages do not cure systematic error."],
+["digital logging","When is a data logger especially useful?",["When a variable changes continuously or rapidly and many time-stamped readings are needed","When no measurements are required","When calibration standards are unavailable","When students want to avoid defining variables"],0,"Data loggers can collect frequent, consistent measurements over time and reduce manual recording burden.","Think continuous time-series data."],
+["digital tools","What is a key limitation of digital sensors?",["They can still be miscalibrated, poorly ranged or used incorrectly","They cannot record continuous data","They always have worse resolution than analogue tools","They never produce numerical data"],0,"Digital does not mean error-free; calibration, range, resolution and method still matter.","Digital ≠ automatically correct."],
+["valid data collection","Which plan best supports precise, useful and replicable data?",["Choose a calibrated instrument with suitable range/resolution, define the method clearly, collect enough relevant data and preserve raw records","Use the instrument with the most decimal places regardless of range","Collect one reading and report it to many decimal places","Change sensors whenever a result looks unusual"],0,"Good measurement aligns instrument capability, method, sample size and transparent recording with the question.","Quality comes from the whole measurement system."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s10i03-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10I03",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
