@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9u06-p-001",
-    "curriculumCode": "AC9S9U06",
-    "bank": "practice",
-    "skill": "use the mass and charge of protons neutrons and electrons to make the role of dalton visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the mass and charge of protons neutrons and electrons to make the role of dalton visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the mass and charge of protons neutrons and electrons to make the role of dalton visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "comparing the mass and charge of protons, neutrons and electrons",
-      "Scientists simply guessed newer models",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "comparing the mass and charge of protons, neutrons and electrons\nHint: Use the mass and charge of protons, neutrons and electrons to make the role of Dalton visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "comparing the mass and charge of protons, neutrons and electrons",
-      "hint": "Use the mass and charge of protons, neutrons and electrons to make the role of Dalton visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u06-p-002",
-    "curriculumCode": "AC9S9U06",
-    "bank": "practice",
-    "skill": "use how the discovery of electrons protons and neutrons resulted to make the role of electron visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how the discovery of electrons protons and neutrons resulted to make the role of electron visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how the discovery of electrons protons and neutrons resulted to make the role of electron visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Radioactive atoms choose to decay at a predictable time",
-      "examining how the discovery of electrons, protons and neutrons resulted from experimental evidence and answered questions related to properties and behaviours of atoms",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "examining how the discovery of electrons, protons and neutrons resulted from experimental evidence and answered questions related to properties and behaviours of atoms\nHint: Use how the discovery of electrons, protons and neutrons resulted to make the role of electron visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how the discovery of electrons, protons and neutrons resulted from experimental evidence and answered questions related to properties and behaviours of atoms",
-      "hint": "Use how the discovery of electrons, protons and neutrons resulted to make the role of electron visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u06-p-003",
-    "curriculumCode": "AC9S9U06",
-    "bank": "practice",
-    "skill": "use differences in the number of neutrons in atoms to make the role of nucleus visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use differences in the number of neutrons in atoms to make the role of nucleus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use differences in the number of neutrons in atoms to make the role of nucleus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Scientists simply guessed newer models",
-      "The method can be chosen without checking the values or conditions",
-      "explaining that differences in the number of neutrons in atoms of the same element results in isotopes and that naturally occurring isotopes of some elements are unstable",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "explaining that differences in the number of neutrons in atoms of the same element results in isotopes and that naturally occurring isotopes of some elements are unstable\nHint: Use differences in the number of neutrons in atoms to make the role of nucleus visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "explaining that differences in the number of neutrons in atoms of the same element results in isotopes and that naturally occurring isotopes of some elements are unstable",
-      "hint": "Use differences in the number of neutrons in atoms to make the role of nucleus visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u06-p-004",
-    "curriculumCode": "AC9S9U06",
-    "bank": "practice",
-    "skill": "use in simple terms how different unstable isotopes decay to make the role of proton and neutron visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use in simple terms how different unstable isotopes decay to make the role of proton and neutron visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use in simple terms how different unstable isotopes decay to make the role of proton and neutron visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Radioactive atoms choose to decay at a predictable time",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "describing in simple terms how different unstable isotopes decay such as radon-222 releasing an alpha particle, iodine-131 releasing a beta particle and cobalt-60 releasing gamma radiation to form stable atoms"
-    ],
-    "correct": 3,
-    "explanation": "describing in simple terms how different unstable isotopes decay such as radon-222 releasing an alpha particle, iodine-131 releasing a beta particle and cobalt-60 releasing gamma radiation to form stable atoms\nHint: Use in simple terms how different unstable isotopes decay to make the role of proton and neutron visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "describing in simple terms how different unstable isotopes decay such as radon-222 releasing an alpha particle, iodine-131 releasing a beta particle and cobalt-60 releasing gamma radiation to form stable atoms",
-      "hint": "Use in simple terms how different unstable isotopes decay to make the role of proton and neutron visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u06-p-005",
-    "curriculumCode": "AC9S9U06",
-    "bank": "practice",
-    "skill": "use half life examining the timescales of decay of different elements to make the role of radioactive decay visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use half life examining the timescales of decay of different elements to make the role of radioactive decay visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use half life examining the timescales of decay of different elements to make the role of radioactive decay visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "defining half-life, examining the timescales of decay of different elements such as carbon-14 and uranium-238 and simulating or using digital simulations to examine radioactive decay including half-life",
-      "Scientists simply guessed newer models",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "defining half-life, examining the timescales of decay of different elements such as carbon-14 and uranium-238 and simulating or using digital simulations to examine radioactive decay including half-life\nHint: Use half-life, examining the timescales of decay of different elements to make the role of radioactive decay visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "defining half-life, examining the timescales of decay of different elements such as carbon-14 and uranium-238 and simulating or using digital simulations to examine radioactive decay including half-life",
-      "hint": "Use half-life, examining the timescales of decay of different elements to make the role of radioactive decay visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u06-p-006",
-    "curriculumCode": "AC9S9U06",
-    "bank": "practice",
-    "skill": "use how radiocarbon and other dating methods have been used to make the role of dalton visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how radiocarbon and other dating methods have been used to make the role of dalton visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how radiocarbon and other dating methods have been used to make the role of dalton visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Radioactive atoms choose to decay at a predictable time",
-      "investigating how radiocarbon and other dating methods have been used to establish that First Peoples of Australia have been present on the Australian continent for more than 60,000 years",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating how radiocarbon and other dating methods have been used to establish that First Peoples of Australia have been present on the Australian continent for more than 60,000 years\nHint: Use how radiocarbon and other dating methods have been used to make the role of Dalton visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how radiocarbon and other dating methods have been used to establish that First Peoples of Australia have been present on the Australian continent for more than 60,000 years",
-      "hint": "Use how radiocarbon and other dating methods have been used to make the role of Dalton visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u06-p-007",
-    "curriculumCode": "AC9S9U06",
-    "bank": "practice",
-    "skill": "use where applications of radioactivity are used in medicine to make the role of electron visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use where applications of radioactivity are used in medicine to make the role of electron visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use where applications of radioactivity are used in medicine to make the role of electron visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Scientists simply guessed newer models",
-      "The method can be chosen without checking the values or conditions",
-      "identifying where applications of radioactivity are used in medicine and industry such as diagnosing and treating cancer and checking for faults in materials used in aircraft and spacecraft",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying where applications of radioactivity are used in medicine and industry such as diagnosing and treating cancer and checking for faults in materials used in aircraft and spacecraft\nHint: Use where applications of radioactivity are used in medicine to make the role of electron visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying where applications of radioactivity are used in medicine and industry such as diagnosing and treating cancer and checking for faults in materials used in aircraft and spacecraft",
-      "hint": "Use where applications of radioactivity are used in medicine to make the role of electron visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u06-p-008",
-    "curriculumCode": "AC9S9U06",
-    "bank": "practice",
-    "skill": "use how mass and energy are connected at all scales to make the role of nucleus visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how mass and energy are connected at all scales to make the role of nucleus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how mass and energy are connected at all scales to make the role of nucleus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Radioactive atoms choose to decay at a predictable time",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "discussing how mass and energy are connected at all scales and energy conversion processes within atomic nuclei"
-    ],
-    "correct": 3,
-    "explanation": "discussing how mass and energy are connected at all scales and energy conversion processes within atomic nuclei\nHint: Use how mass and energy are connected at all scales to make the role of nucleus visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing how mass and energy are connected at all scales and energy conversion processes within atomic nuclei",
-      "hint": "Use how mass and energy are connected at all scales to make the role of nucleus visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["subatomic particles","Which statement correctly compares the three main subatomic particles?",["Protons are +1, neutrons 0 and electrons −1; protons and neutrons are much more massive than electrons","Protons and electrons have the same mass","Neutrons are negatively charged","Electrons are found in the nucleus"],0,"Protons and neutrons each have about 1 u of mass, while an electron is much lighter and has charge −1.","Compare both charge and relative mass."],
+["atomic identity","Which quantity determines which element an atom is?",["Number of protons","Number of neutrons","Number of electron shells","Mass number alone"],0,"The atomic number, equal to proton number, defines the element.","Changing proton number changes the element."],
+["mass number","An atom has 17 protons and 18 neutrons. What is its mass number?",["35","17","18","1"],0,"Mass number = protons + neutrons = 17 + 18 = 35.","Add nucleons."],
+["neutron number","An isotope is written as chlorine-37. Chlorine has atomic number 17. How many neutrons does this isotope contain?",["20","17","37","54"],0,"Neutrons = mass number − atomic number = 37 − 17 = 20.","37 − 17."],
+["neutral atoms","A neutral atom has 12 protons. How many electrons does it have?",["12","24","6","10"],0,"A neutral atom has equal numbers of positive protons and negative electrons.","Neutral charge means proton count = electron count."],
+["Thomson","Which observation most directly forced scientists to abandon the idea that atoms were indivisible solid spheres?",["Cathode-ray experiments revealed negatively charged particles smaller than atoms","Gold foil showed a dense nucleus","Spectral lines showed quantised energy levels","Radioactive dating measured age"],0,"Thomson's electron discovery showed atoms contained smaller components.","Electron discovery came before the nuclear model."],
+["plum pudding","What was the key idea of Thomson's plum-pudding model?",["Negative electrons were embedded in a diffuse positive region","Electrons occupied fixed energy shells around a nucleus","Atoms were mostly empty space with a tiny nucleus","Neutrons and protons filled the nucleus"],0,"The model incorporated electrons while preserving overall electrical neutrality.","Think electrons inside spread-out positive charge."],
+["Rutherford","Most alpha particles passed straight through thin gold foil, but a few were strongly deflected. What conclusion best explains both observations?",["Atoms are mostly empty space with a small, dense, positively charged nucleus","Positive charge is spread evenly throughout the atom","Electrons contain most of the atom's mass","Atoms have no internal structure"],0,"Rare large deflections require concentrated positive charge and mass; the many straight paths imply mostly empty space.","Use both the common and rare observations."],
+["Bohr","What did Bohr add to the nuclear model?",["Electrons occupy discrete energy levels around the nucleus","The existence of electrons","The existence of neutrons","The idea that atoms contain positive charge"],0,"Bohr proposed allowed electron energy levels to explain atomic spectra.","Discrete electron energies."],
+["Chadwick","Why was the neutron important to the atomic model?",["It helped explain nuclear mass and isotopes with the same proton number but different masses","It explained why atoms emit visible light","It showed electrons were negative","It proved atoms were solid spheres"],0,"Neutrons add nuclear mass without changing atomic number, helping explain isotopes.","Same protons, different masses."],
+["modern model","Which statement best describes the modern view of electrons compared with Bohr's simple model?",["Electrons are described by probability distributions rather than fixed circular paths","Electrons are stationary dots in shells","Electrons are inside neutrons","Electrons have no energy"],0,"Modern quantum models describe regions of probability, not literal planetary orbits.","Bohr shells are useful but simplified."],
+["isotopes","Which pair represents isotopes of the same element?",["Carbon-12 and carbon-14","Carbon-14 and nitrogen-14","Sodium-23 and magnesium-24","Hydrogen-1 and helium-4"],0,"Isotopes have the same proton number but different neutron numbers and therefore different mass numbers.","Same element name, different mass number."],
+["isotope chemistry","Why do isotopes of the same element usually have very similar chemical behaviour?",["They have the same proton number and, when neutral, the same electron arrangement","They have identical neutron numbers","They always have the same mass","They have identical nuclear stability"],0,"Chemical behaviour depends mainly on electrons, especially valence electrons; isotopes differ mainly in neutron count.","Chemistry is governed mainly by electrons."],
+["radioisotopes","What makes an isotope radioactive?",["Its nucleus is unstable and can spontaneously transform, emitting radiation","It has a negative electrical charge","It contains no neutrons","It has more electrons than protons"],0,"Radioactivity is a nuclear stability phenomenon, not simply an electron or charge effect.","Radioactivity comes from the nucleus."],
+["decay","What happens during natural radioactive decay?",["An unstable nucleus changes into a different nuclear state or nuclide while emitting radiation","Electrons gradually evaporate from the atom","The atom melts into smaller atoms","All nuclei in a sample decay at the same instant"],0,"Radioactive decay is a spontaneous nuclear transformation governed statistically across a sample.","Decay changes the nucleus."],
+["half-life","What does a half-life of 8 days mean?",["After 8 days, on average half the original radioactive nuclei remain undecayed","Every nucleus survives exactly 8 days","All radiation stops after 16 days","Half the atoms lose half their mass"],0,"Half-life describes the decay of a large population, not a timer for individual nuclei.","Population property, not individual lifetime."],
+["half-life calculation","A sample begins with 160 mg of a radioisotope. Its half-life is 5 days. How much remains after 10 days?",["40 mg","80 mg","20 mg","120 mg"],0,"Ten days is two half-lives: 160 → 80 → 40 mg.","Halve once per half-life."],
+["half-life calculation","A radioactive sample has 25% of its original undecayed nuclei remaining. How many half-lives have passed?",["2","1","3","4"],0,"100% → 50% after one half-life → 25% after two.","Repeated halving."],
+["alpha radiation","Which description best matches alpha radiation?",["A helium nucleus containing 2 protons and 2 neutrons","A high-speed electron only","A high-energy electromagnetic photon","A neutron pair"],0,"An alpha particle is the nucleus of helium-4.","2 protons + 2 neutrons."],
+["beta radiation","In beta-minus decay, what particle is emitted?",["A high-speed electron","A helium nucleus","A gamma photon only","A proton"],0,"Beta-minus radiation consists of energetic electrons emitted during a nuclear transformation.","β− is an electron emitted from the nucleus."],
+["gamma radiation","What is gamma radiation?",["High-energy electromagnetic radiation emitted from an excited nucleus","A stream of helium nuclei","A beam of sound waves","A flow of protons through a wire"],0,"Gamma rays are photons in the electromagnetic spectrum and carry no charge or rest mass.","Gamma is EM radiation."],
+["penetration","Which ordering is generally correct from least to most penetrating for alpha, beta and gamma radiation?",["Alpha, beta, gamma","Gamma, beta, alpha","Beta, alpha, gamma","Alpha, gamma, beta"],0,"Alpha is easily stopped, beta penetrates further, and gamma is generally most penetrating of the three.","α < β < γ for penetration."],
+["applications","Why can gamma radiation be useful in cancer treatment?",["It can deposit energy in tissue and damage rapidly dividing cancer cells when carefully targeted","It cannot penetrate tissue","It converts cancer cells into stable isotopes","It removes all electrons from the body without damage"],0,"Ionising radiation can damage DNA; radiotherapy aims to maximise tumour dose while limiting healthy-tissue exposure.","Useful because it can ionise and penetrate."],
+["industrial radiography","How can ionising radiation be used to inspect a metal weld?",["Differences in radiation transmission can reveal internal cracks or voids","Radiation makes cracks glow permanently","Radiation increases the weld's mass","Radiation measures surface colour only"],0,"Dense material attenuates radiation; defects can alter the transmitted intensity captured by a detector.","Think X-ray-style imaging through material." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9u06-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9U06",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
