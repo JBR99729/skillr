@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m8st02-p-001",
-    "curriculumCode": "AC9M8ST02",
-    "bank": "practice",
-    "skill": "explore different methods of sampling used to collect data considering the source and size of samples",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore different methods of sampling used to collect data considering the source and size of samples. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore different methods of sampling used to collect data considering the source and size of samples. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating different methods of sampling used to collect data, considering the source and size of samples",
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating different methods of sampling used to collect data, considering the source and size of samples\nHint: Explore different methods of sampling used to collect data, considering the source and size of samples.",
-    "structuredExplanation": {
-      "summary": "investigating different methods of sampling used to collect data, considering the source and size of samples",
-      "hint": "Explore different methods of sampling used to collect data, considering the source and size of samples."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st02-p-002",
-    "curriculumCode": "AC9M8ST02",
-    "bank": "practice",
-    "skill": "compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sampling and data distributions model is copied without interpretation",
-      "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn\nHint: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.",
-    "structuredExplanation": {
-      "summary": "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn",
-      "hint": "Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st02-p-003",
-    "curriculumCode": "AC9M8ST02",
-    "bank": "practice",
-    "skill": "defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution\nHint: defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution.",
-    "structuredExplanation": {
-      "summary": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution",
-      "hint": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st02-p-004",
-    "curriculumCode": "AC9M8ST02",
-    "bank": "practice",
-    "skill": "explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings"
-    ],
-    "correct": 3,
-    "explanation": "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings\nHint: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.",
-    "structuredExplanation": {
-      "summary": "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings",
-      "hint": "Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st02-p-005",
-    "curriculumCode": "AC9M8ST02",
-    "bank": "practice",
-    "skill": "explore different methods of sampling used to collect data considering the source and size of samples",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore different methods of sampling used to collect data considering the source and size of samples. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore different methods of sampling used to collect data considering the source and size of samples. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating different methods of sampling used to collect data, considering the source and size of samples",
-      "The sampling and data distributions model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating different methods of sampling used to collect data, considering the source and size of samples\nHint: Explore different methods of sampling used to collect data, considering the source and size of samples.",
-    "structuredExplanation": {
-      "summary": "investigating different methods of sampling used to collect data, considering the source and size of samples",
-      "hint": "Explore different methods of sampling used to collect data, considering the source and size of samples."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st02-p-006",
-    "curriculumCode": "AC9M8ST02",
-    "bank": "practice",
-    "skill": "compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving compare the sampling methods of simple random systematic stratified quota clustered or convenience or judgement and discussing the reliability of conclusions about the context that could be drawn. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn\nHint: Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn.",
-    "structuredExplanation": {
-      "summary": "comparing the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn",
-      "hint": "Compare the sampling methods of simple random, systematic, stratified, quota, clustered or convenience, or judgement, and discussing the reliability of conclusions about the context that could be drawn."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st02-p-007",
-    "curriculumCode": "AC9M8ST02",
-    "bank": "practice",
-    "skill": "defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving defining and distinguishing between probabilistic terms such as random sample space sample and sample distribution. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution\nHint: defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution.",
-    "structuredExplanation": {
-      "summary": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution",
-      "hint": "defining and distinguishing between probabilistic terms such as random, sample space, sample and sample distribution."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st02-p-008",
-    "curriculumCode": "AC9M8ST02",
-    "bank": "practice",
-    "skill": "explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore primary and secondary data sources relating to reconciliation between first nations australians and non indigenous australians analysing and reporting on findings. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sampling and data distributions model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings"
-    ],
-    "correct": 3,
-    "explanation": "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings\nHint: Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings.",
-    "structuredExplanation": {
-      "summary": "investigating primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings",
-      "hint": "Explore primary and secondary data sources relating to reconciliation between First Nations Australians and non-Indigenous Australians, analysing and reporting on findings."
-    },
-    "qualitySchema": "production-v1"
-  }
+const source=[
+[1,"sampling source","A sample drawn only from people who attend a weekend festival is most likely to have which issue?",["It is automatically representative","It is a census","It may be biased because festival-goers may differ from the wider population","It is stratified"],2,"A festival-only sample can under-represent people who do not attend, creating selection bias."],
+[2,"sample size","If a sampling method is otherwise well designed, increasing sample size usually does what?",["Guarantees no bias","Reduces sampling variability","Makes convenience sampling representative","Removes measurement error"],1,"A larger well-chosen sample usually gives more stable estimates, but it does not automatically remove bias."],
+[3,"census vs sample","When is a census especially appropriate?",["When every individual must be included in the data","When the population is extremely large and inaccessible","When only volunteers are available","When cost must be minimised"],0,"A census attempts to collect data from every member of the population."],
+[4,"sampling practicality","Why is sampling often used instead of a census?",["Sampling always gives exact results","A census may be too costly or impractical","Sampling removes all bias","Sampling requires no planning"],1,"Sampling can save time and cost when measuring every population member is impractical."],
+[5,"sample source quality","A sample from one school is used to estimate a characteristic of all ACT students. What is the main concern?",["The sample is automatically stratified","One school may not represent all ACT students","The sample is a census","The data cannot be numerical"],1,"Students at one school may differ systematically from the wider ACT student population."],
+[6,"sampling frame","What is a sampling frame?",["The final sample values","A list or source used to identify population members for selection","The graph of the sample","The population mean"],1,"A sampling frame is the list or source from which sample members are selected."],
+[7,"sample distribution","What does the distribution of values in a sample describe?",["How the sample values are spread and concentrated","The full population automatically","The sampling frame only","The census method"],0,"A sample distribution shows the pattern, centre and spread of the observed sample values."],
+[8,"primary data","Which is primary data for a student investigation?",["A government table downloaded online","Measurements the student collects directly","A textbook example","A published journal table"],1,"Primary data are collected first-hand for the investigation."],
+[9,"secondary data","Which best describes secondary data?",["Data previously collected by another source","Data that are always biased","Data that must be categorical","Data collected only by random sampling"],0,"Secondary data already exist because another person or organisation collected them."],
+[10,"stratified sampling","A researcher wants an ACT household electricity sample that includes households from several dwelling types in suitable proportions. Which method is most suitable?",["Convenience sampling","Stratified sampling","Volunteer sampling","Judgement sampling only"],1,"Stratification can ensure important subgroups are represented in planned proportions."],
+[11,"simple random sampling","What defines a simple random sample?",["Each population member has an equal chance of selection","Only volunteers are selected","Every tenth person is always selected","The easiest people are selected"],0,"In simple random sampling, each population member has an equal chance of being selected."],
+[12,"systematic sampling","A list is randomised, a starting point is chosen, and then every 20th name is selected. This is:",["Cluster sampling","Systematic sampling","Convenience sampling","Quota sampling"],1,"Systematic sampling selects at a fixed interval after a starting point is chosen."],
+[13,"stratified sampling","What is the key idea of stratified sampling?",["Divide the population into meaningful subgroups and sample within them","Select whole groups only","Select whoever is easiest to reach","Choose every nth person without considering groups"],0,"Stratified sampling separates the population into relevant strata and samples within each stratum."],
+[14,"quota sampling","Quota sampling usually means:",["Randomly selecting the whole population","Selecting people until preset category totals are reached","Selecting entire clusters","Using every nth member"],1,"Quota sampling fills specified numbers for categories, but selection within each category need not be random."],
+[15,"cluster sampling","Which describes cluster sampling?",["Sample individuals from every subgroup","Select one or more whole groups and study members within those groups","Select only volunteers","Choose the nearest people"],1,"Cluster sampling selects groups such as schools, suburbs or classes rather than independently sampling from every subgroup."],
+[16,"convenience sampling","A researcher surveys people who are easiest to reach. This is:",["Simple random sampling","Convenience sampling","Stratified sampling","Systematic sampling"],1,"Convenience sampling selects accessible participants and can create selection bias."],
+[17,"judgement sampling","Judgement sampling selects participants mainly using:",["A random-number generator","The researcher's informed choice","A fixed interval","Equal chance for every member"],1,"Judgement or purposive sampling uses researcher-selected cases judged relevant to the study."],
+[18,"sampling reliability","Among simple random, convenience, judgement and volunteer sampling, which most directly gives every population member an equal chance of selection?",["Convenience","Judgement","Simple random","Volunteer"],2,"Simple random sampling uses chance rather than accessibility or self-selection."],
+[19,"sampling bias comparison","Which method is most vulnerable to accessibility bias when the sample is taken from whoever happens to be nearby?",["Stratified sampling","Simple random sampling","Convenience sampling","A well-designed systematic sample"],2,"Convenience samples can over-represent people who are easiest to access."],
+[20,"cluster sampling","Why can a poorly chosen cluster sample have high sampling variability?",["People within a selected cluster may be more alike than the whole population","Clusters always eliminate randomness","Every cluster must be identical","Cluster sampling is a census"],0,"If members within clusters are similar, a few selected clusters may capture less population diversity."],
+[21,"randomness","In a simple random sample, what does random selection mean?",["Each population member has an equal chance of selection","The researcher chooses preferred participants","The sample must be small","The outcomes are predictable"],0,"Simple random selection gives each population member an equal chance."],
+[22,"sample space","In probability, what is a sample space?",["The set of all possible outcomes","A subset of a population","A sampling frame","A distribution graph"],0,"A sample space lists all possible outcomes of a chance experiment."],
+[23,"sample definition","In statistics, a sample is:",["The entire population","A subset selected from a population","All possible outcomes of an experiment","A list of category labels"],1,"A sample is a subset of the population used to learn about that population."],
+[24,"distribution","What does a data distribution describe?",["How values are arranged, concentrated and spread","Only how data were collected","Only where data are stored","Only the variable name"],0,"A distribution describes the pattern of values, including centre, spread and shape."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=source.map(([n,skill,question,answers,correct,explanation])=>({id:`ac9m8st02-p-${String(n).padStart(3,"0")}`,curriculumCode:"AC9M8ST02",bank:"practice",section:n<=10?"sampling sources":n<=20?"sampling methods":"probability terms",sourceNumber:n,skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation,structuredExplanation:{summary:explanation,hint:"Identify the population, selection method and what the data can validly represent."},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
