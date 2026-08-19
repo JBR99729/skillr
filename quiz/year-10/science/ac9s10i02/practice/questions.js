@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10i02-p-001",
-    "curriculumCode": "AC9S10I02",
-    "bank": "practice",
-    "skill": "use possible sources of error through choice of equipment variable to make the role of question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use possible sources of error through choice of equipment variable to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use possible sources of error through choice of equipment variable to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "addressing possible sources of error through choice of equipment, variable control or further testing",
-      "Many repeats fix systematic bias",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "addressing possible sources of error through choice of equipment, variable control or further testing\nHint: Use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "addressing possible sources of error through choice of equipment, variable control or further testing",
-      "hint": "Use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i02-p-002",
-    "curriculumCode": "AC9S10I02",
-    "bank": "practice",
-    "skill": "use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A detailed method is automatically valid",
-      "considering possible confounding variables or effects and ensuring these are controlled or accounted for in planned methods for data collection and analysis",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "considering possible confounding variables or effects and ensuring these are controlled or accounted for in planned methods for data collection and analysis\nHint: Use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering possible confounding variables or effects and ensuring these are controlled or accounted for in planned methods for data collection and analysis",
-      "hint": "Use possible confounding variables or effects and ensuring these are to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i02-p-003",
-    "curriculumCode": "AC9S10I02",
-    "bank": "practice",
-    "skill": "use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Many repeats fix systematic bias",
-      "The method can be chosen without checking the values or conditions",
-      "identifying safety risks and impacts on animal welfare and ensuring these are effectively managed within an investigation",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying safety risks and impacts on animal welfare and ensuring these are effectively managed within an investigation\nHint: Use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying safety risks and impacts on animal welfare and ensuring these are effectively managed within an investigation",
-      "hint": "Use safety risks and impacts on animal welfare and ensuring to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i02-p-004",
-    "curriculumCode": "AC9S10I02",
-    "bank": "practice",
-    "skill": "use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A detailed method is automatically valid",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and how these should be addressed"
-    ],
-    "correct": 3,
-    "explanation": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and how these should be addressed\nHint: Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and how these should be addressed",
-      "hint": "Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i02-p-005",
-    "curriculumCode": "AC9S10I02",
-    "bank": "practice",
-    "skill": "use ethical issues when collaborating with first nations australians to make the role of reproducible method visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use ethical issues when collaborating with first nations australians to make the role of reproducible method visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use ethical issues when collaborating with first nations australians to make the role of reproducible method visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "addressing ethical issues when collaborating with First Nations Australians to explore the development of a commercial product based on traditional ecological knowledges",
-      "Many repeats fix systematic bias",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "addressing ethical issues when collaborating with First Nations Australians to explore the development of a commercial product based on traditional ecological knowledges\nHint: Use ethical issues when collaborating with First Nations Australians to make the role of reproducible method visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "addressing ethical issues when collaborating with First Nations Australians to explore the development of a commercial product based on traditional ecological knowledges",
-      "hint": "Use ethical issues when collaborating with First Nations Australians to make the role of reproducible method visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i02-p-006",
-    "curriculumCode": "AC9S10I02",
-    "bank": "practice",
-    "skill": "use how to report the discovery of unregistered first nations to make the role of question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how to report the discovery of unregistered first nations to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how to report the discovery of unregistered first nations to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A detailed method is automatically valid",
-      "modelling how to report the discovery of unregistered First Nations Australians artefacts and heritage or any unauthorised disturbance",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "modelling how to report the discovery of unregistered First Nations Australians artefacts and heritage or any unauthorised disturbance\nHint: Use how to report the discovery of unregistered First Nations to make the role of question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "modelling how to report the discovery of unregistered First Nations Australians artefacts and heritage or any unauthorised disturbance",
-      "hint": "Use how to report the discovery of unregistered First Nations to make the role of question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i02-p-007",
-    "curriculumCode": "AC9S10I02",
-    "bank": "practice",
-    "skill": "use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Many repeats fix systematic bias",
-      "The method can be chosen without checking the values or conditions",
-      "considering the ethical and social issues and legal responsibilities involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "considering the ethical and social issues and legal responsibilities involved in the care and use of animals for scientific purposes before starting an investigation involving animals\nHint: Use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering the ethical and social issues and legal responsibilities involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
-      "hint": "Use the ethical and social issues and legal responsibilities involved to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i02-p-008",
-    "curriculumCode": "AC9S10I02",
-    "bank": "practice",
-    "skill": "use possible sources of error through choice of equipment variable to make the role of question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use possible sources of error through choice of equipment variable to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use possible sources of error through choice of equipment variable to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A detailed method is automatically valid",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "addressing possible sources of error through choice of equipment, variable control or further testing"
-    ],
-    "correct": 3,
-    "explanation": "addressing possible sources of error through choice of equipment, variable control or further testing\nHint: Use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "addressing possible sources of error through choice of equipment, variable control or further testing",
-      "hint": "Use possible sources of error through choice of equipment, variable to make the role of question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const skillrRawQuestions = [
+["measurement error","A student times a fast reaction by hand with a stopwatch. Which limitation is most important?",["Human reaction time can add variable delay to starting and stopping the timer","The stopwatch colour affects the reading","The table size changes the reaction","The timer changes reactant concentration"],0,"Manual timing introduces reaction-time uncertainty, especially for short events.","Think about the measurement process itself."],
+["equipment choice","Which change would most improve timing precision for a very fast reaction?",["Use an electronic sensor or data logger triggered by the event","Repeat with the same manual stopwatch only","Use a larger beaker","Change the room lighting"],0,"Automated timing can reduce human reaction-time variation.","Choose equipment matched to the timescale."],
+["systematic error","A balance reads 0.50 g too high for every object. What type of error is this?",["Systematic error","Random error","Sampling error","No error if many repeats are taken"],0,"A consistent offset biases all measurements in the same direction.","Repeats do not remove a constant bias."],
+["repeats","What is the main benefit of repeating measurements?",["They help estimate random variation and improve reliability","They automatically correct poor calibration","They guarantee validity","They remove confounding variables"],0,"Repeats help reveal variability but do not fix systematic design problems.","Reliability is not the same as validity."],
+["parallax","A student reads a liquid level from above rather than at eye level. What problem can this cause?",["Parallax error","Chemical contamination","A confounding variable","A sampling error"],0,"Viewing a scale from an angle can shift the apparent position of the reading.","Eye position matters when reading scales."],
+["valid design","To test the effect of temperature on reaction rate, which design is strongest?",["Change temperature while keeping concentration, reactant amounts and surface area controlled","Change temperature and concentration together","Use a different reaction at each temperature","Take one reading at each temperature with different equipment"],0,"A valid design isolates the variable of interest as far as practicable.","Control other variables that affect rate."],
+["confounding variable","What is a confounding variable?",["A factor associated with the independent variable that can also affect the dependent variable","The variable deliberately measured as the outcome","Any variable written in the method","A factor that can never affect results"],0,"A confounder makes it harder to attribute an observed effect to the intended independent variable.","It offers an alternative explanation."],
+["plant investigation","A student tests light colour on plant growth. Which factor is important to control?",["Plant species and water supply","The light colour","The measured growth","The final conclusion"],0,"Species and water can influence growth and should be kept comparable across groups.","Control other causes of growth differences."],
+["sampling","Why can a larger, representative sample improve an investigation?",["It can reduce the influence of unusual individuals and better represent the target population","It removes every source of error","It guarantees causation","It makes controls unnecessary"],0,"Representative sampling improves how well results reflect the population being studied.","Sample quality matters as well as sample size."],
+["reproducibility","Which feature most helps another group reproduce an investigation?",["A clear method with quantities, equipment, conditions and analysis steps specified","A brief statement that the experiment worked","Only the final graph","Changing the method during each trial without recording it"],0,"Transparent procedures allow others to repeat the investigation under comparable conditions.","Could another group follow the method exactly?"],
+["risk assessment","What is the purpose of a risk assessment?",["Identify hazards, estimate risk and plan controls to reduce harm","List every piece of equipment alphabetically","Guarantee that no accident can occur","Replace teacher supervision"],0,"Risk assessment links hazards to likelihood/severity and appropriate controls.","Hazard identification is only the first step."],
+["hierarchy of controls","A splash hazard from a corrosive liquid can be reduced most directly by:",["Using safer concentrations where possible, appropriate containment and PPE","Doing more repeats","Using a larger sample size","Changing the hypothesis"],0,"Risk controls should target the hazard and exposure pathway; PPE is one part of control.","Use controls that reduce exposure."],
+["chemical hazard","Why are concentrated acids hazardous?",["They can cause serious chemical burns and tissue damage","They always explode in air","They are always flammable","They are harmless if colourless"],0,"Concentrated acids can be corrosive and require appropriate handling.","Think about the actual hazard, not appearance."],
+["biological safety","Which practice is most appropriate when handling low-risk microbial cultures in a school laboratory?",["Use approved aseptic procedures, keep cultures contained and follow disposal rules","Open plates after incubation to smell them","Eat at the bench while working","Take cultures home for observation"],0,"Containment, aseptic technique and approved disposal reduce biological risk.","Prevent exposure and contamination."],
+["spill response","A chemical spill occurs during an investigation. What should a student do first?",["Follow the laboratory spill procedure and alert the supervising teacher","Wipe it up immediately with bare hands","Ignore it if the amount is small","Wash every spill down the sink"],0,"Spill response depends on the substance and should follow the approved procedure under supervision.","Do not improvise with unknown hazards."],
+["animal welfare","Before using animals in an investigation, what should be established?",["A justified scientific purpose, appropriate approval and a plan to minimise harm and distress","That the animals are easy to obtain","That as many animals as possible will be used","That no alternative method exists only after the experiment"],0,"Animal use requires ethical justification, approval and welfare safeguards before work begins.","Ethics comes before the experiment."],
+["animal care","Which design best reflects animal-welfare principles?",["Use the minimum number needed for valid data and refine procedures to reduce pain, stress and distress","Use extra animals in case some data are inconvenient","Increase stress to make effects easier to detect","Avoid recording welfare observations"],0,"Good practice reduces unnecessary animal use and refines procedures to minimise harm.","Think reduction and refinement."],
+["ethical alternatives","If a computer simulation can answer the question adequately without using animals, what is the strongest ethical choice?",["Use the simulation instead of animals where appropriate","Use animals anyway because real organisms are always better","Use both automatically","Ignore ethical review"],0,"Where a suitable alternative can meet the scientific aim, replacing animal use is preferred.","Think replacement."],
+["First Nations collaboration","A research team wants to develop a product from traditional ecological knowledge. What should occur first?",["Engage with the relevant Traditional Owners or knowledge holders and follow appropriate consent and governance processes","Publish the knowledge before anyone else can","Assume publicly heard knowledge is free to commercialise","Collect samples secretly to avoid bias"],0,"Ethical collaboration requires authority, consent and respect for Indigenous Cultural and Intellectual Property.","Permission and governance come first."],
+["benefit sharing","Why can benefit-sharing be important in commercial research based on traditional ecological knowledge?",["It recognises contributions and supports fair, agreed outcomes for knowledge holders","It guarantees the product will succeed","It removes the need for scientific testing","It transfers ownership automatically to the company"],0,"Fair agreements should recognise the contribution and rights of knowledge holders.","Commercial value does not erase knowledge rights."],
+["heritage discovery","During fieldwork, students discover a possible unrecorded First Nations artefact. What is the safest appropriate action?",["Stop disturbing the area and follow required reporting and Traditional Owner/heritage procedures","Take it to school for identification","Move it aside and continue sampling","Post its exact location publicly"],0,"Potential heritage material should not be disturbed; appropriate reporting and cultural protocols should be followed.","Protect the site and seek authority."],
+["Country Place","Why may a scientifically sound sampling method still be unacceptable on Country/Place?",["It may conflict with cultural protocols, heritage protections or permissions","Scientific methods automatically override cultural responsibilities","Only laboratory investigations require ethics","Sampling is always allowed if no equipment is damaged"],0,"Valid science must also meet ethical, legal and cultural responsibilities.","Scientific validity is not the only requirement."],
+["method validity","A method is detailed and easy to repeat but changes two important variables together. Which statement is best?",["It may be reproducible but not valid for isolating the effect of either variable","It is automatically valid because it is detailed","It is accurate because it has many steps","It needs no controls if repeated"],0,"Reproducibility and validity are different qualities.","Repeatable does not mean well-designed."],
+["error control","Which action best addresses a suspected calibration bias in a temperature probe?",["Check it against a trusted reference and recalibrate or replace it if necessary","Take 20 more readings without checking it","Average the biased values","Remove the lowest reading"],0,"Systematic calibration bias requires checking and correcting the instrument, not merely repeating measurements.","Fix the source of bias." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions = skillrRawQuestions.map((q,i)=>({id:`ac9s10i02-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10I02",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
