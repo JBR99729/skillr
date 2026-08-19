@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m8n02-p-001",
-    "curriculumCode": "AC9M8N02",
-    "bank": "practice",
-    "skill": "recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule quotient of powers rule and power of a power rule",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule quotient of powers rule and power of a power rule. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule quotient of powers rule and power of a power rule. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents",
-      "Exact and approximate values are treated as interchangeable",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents\nHint: Recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule.",
-    "structuredExplanation": {
-      "summary": "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents",
-      "hint": "Recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n02-p-002",
-    "curriculumCode": "AC9M8N02",
-    "bank": "practice",
-    "skill": "apply the exponent laws of the product of powers rule quotient of powers rule power of a power rule and zero exponent individually and in combination",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving apply the exponent laws of the product of powers rule quotient of powers rule power of a power rule and zero exponent individually and in combination. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving apply the exponent laws of the product of powers rule quotient of powers rule power of a power rule and zero exponent individually and in combination. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The exponent laws model is copied without interpretation",
-      "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27\nHint: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.",
-    "structuredExplanation": {
-      "summary": "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27",
-      "hint": "Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n02-p-003",
-    "curriculumCode": "AC9M8N02",
-    "bank": "practice",
-    "skill": "use digital tools to systematically explore the application of the exponent laws observing that the bases need to be the same",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use digital tools to systematically explore the application of the exponent laws observing that the bases need to be the same. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools to systematically explore the application of the exponent laws observing that the bases need to be the same. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same\nHint: Use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same.",
-    "structuredExplanation": {
-      "summary": "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same",
-      "hint": "Use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n02-p-004",
-    "curriculumCode": "AC9M8N02",
-    "bank": "practice",
-    "skill": "use examples such as 3 4 3 4 1 and 3 4 4 3 0 to illustrate the necessity that for any non zero natural number n n 0 1",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use examples such as 3 4 3 4 1 and 3 4 4 3 0 to illustrate the necessity that for any non zero natural number n n 0 1. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use examples such as 3 4 3 4 1 and 3 4 4 3 0 to illustrate the necessity that for any non zero natural number n n 0 1. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1"
-    ],
-    "correct": 3,
-    "explanation": "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1\nHint: Use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.",
-    "structuredExplanation": {
-      "summary": "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1",
-      "hint": "Use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n02-p-005",
-    "curriculumCode": "AC9M8N02",
-    "bank": "practice",
-    "skill": "recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule quotient of powers rule and power of a power rule",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule quotient of powers rule and power of a power rule. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule quotient of powers rule and power of a power rule. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents",
-      "The exponent laws model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents\nHint: Recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule.",
-    "structuredExplanation": {
-      "summary": "recognising the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule; for example, 2^3\\times2^2 can be represented as (2\\times2\\times2)\\times(2\\times2)=2^5 and connecting the result to the addition of exponents",
-      "hint": "Recognise the connection between exponent form and expanded form with the exponent laws of product of powers rule, quotient of powers rule, and power of a power rule."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n02-p-006",
-    "curriculumCode": "AC9M8N02",
-    "bank": "practice",
-    "skill": "apply the exponent laws of the product of powers rule quotient of powers rule power of a power rule and zero exponent individually and in combination",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving apply the exponent laws of the product of powers rule quotient of powers rule power of a power rule and zero exponent individually and in combination. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving apply the exponent laws of the product of powers rule quotient of powers rule power of a power rule and zero exponent individually and in combination. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27\nHint: Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination.",
-    "structuredExplanation": {
-      "summary": "applying the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination; for example, using exponents to determine the effect on the volume of a 2 centimetre cube when the cube is enlarged to a 6 centimetre cube, \\frac{6^3}{2^3}\\;=\\;\\frac{2^3\\times3^3}{2^3}\\;=\\;3^3, so the volume is increased by a factor of 27",
-      "hint": "Apply the exponent laws of the product of powers rule, quotient of powers rule, power of a power rule and zero exponent individually and in combination."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n02-p-007",
-    "curriculumCode": "AC9M8N02",
-    "bank": "practice",
-    "skill": "use digital tools to systematically explore the application of the exponent laws observing that the bases need to be the same",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use digital tools to systematically explore the application of the exponent laws observing that the bases need to be the same. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools to systematically explore the application of the exponent laws observing that the bases need to be the same. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "The method can be chosen without checking the values or conditions",
-      "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same\nHint: Use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same.",
-    "structuredExplanation": {
-      "summary": "using digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same",
-      "hint": "Use digital tools to systematically explore the application of the exponent laws; observing that the bases need to be the same."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n02-p-008",
-    "curriculumCode": "AC9M8N02",
-    "bank": "practice",
-    "skill": "use examples such as 3 4 3 4 1 and 3 4 4 3 0 to illustrate the necessity that for any non zero natural number n n 0 1",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use examples such as 3 4 3 4 1 and 3 4 4 3 0 to illustrate the necessity that for any non zero natural number n n 0 1. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use examples such as 3 4 3 4 1 and 3 4 4 3 0 to illustrate the necessity that for any non zero natural number n n 0 1. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The exponent laws model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1"
-    ],
-    "correct": 3,
-    "explanation": "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1\nHint: Use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1.",
-    "structuredExplanation": {
-      "summary": "using examples such as \\frac{3^4}{3^4}\\;=\\;1, and 3^{4-4}\\;=\\;3^0 to illustrate the necessity that for any non-zero natural number n,\\;n^0\\;=\\;1",
-      "hint": "Use examples such as (3^4)/(3^4) = 1, and 3^(4-4) = 3^0 to illustrate the necessity that for any non-zero natural number n, n^0 = 1."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+[1,"Core exponent laws","Product rule","What is 2³ × 2⁴?",["2⁷","2¹²","2¹","2³"],0,"Same base, so add exponents: 2³ × 2⁴ = 2⁷.","For multiplication with the same base, add the exponents."],
+[2,"Core exponent laws","Quotient rule","What is 5⁶ ÷ 5²?",["5³","5⁴","5⁸","5²"],1,"Same base, so subtract exponents: 5⁶ ÷ 5² = 5⁴.","For division with the same base, subtract the exponents."],
+[3,"Core exponent laws","Power of a power","What is (3²)³?",["3⁵","3⁶","3⁹","3⁸"],1,"A power raised to a power multiplies exponents: (3²)³ = 3⁶.","Do not add the exponents in a power-of-a-power question."],
+[4,"Core exponent laws","Product rule statement","Which rule applies to aᵐ × aⁿ?",["Multiply the exponents","Add the exponents","Subtract the exponents","Divide the exponents"],1,"When the base is the same, aᵐ × aⁿ = aᵐ⁺ⁿ.","The base stays the same."],
+[5,"Core exponent laws","Quotient rule statement","Which rule applies to aᵐ ÷ aⁿ, when a ≠ 0?",["Add the exponents","Subtract the exponents","Multiply the exponents","Divide the exponents"],1,"For the same non-zero base, aᵐ ÷ aⁿ = aᵐ⁻ⁿ.","Division means subtract powers."],
+[6,"Core exponent laws","Power rule statement","Which rule applies to (aᵐ)ⁿ?",["Add the exponents","Multiply the exponents","Subtract the exponents","Divide the exponents"],1,"A power raised to another power multiplies exponents: (aᵐ)ⁿ = aᵐⁿ.","Power of a power: multiply."],
+[7,"Core exponent laws","Equal powers quotient","What is 7⁴ ÷ 7⁴?",["0","1","7","7⁸"],1,"Any non-zero number divided by itself is 1, so 7⁴ ÷ 7⁴ = 1.","This also explains why a⁰ = 1 for a ≠ 0."],
+[8,"Core exponent laws","Zero exponent","What is 10⁰?",["0","1","10","Undefined"],1,"10⁰ = 1 because any non-zero base to the power 0 equals 1.","Zero exponent does not mean zero."],
+[9,"Core exponent laws","Multiplying by zero exponent","What is 4³ × 4⁰?",["4³","4⁴","0","1"],0,"4⁰ = 1, so 4³ × 4⁰ = 4³.","Adding exponents also gives 4³⁺⁰ = 4³."],
+[10,"Core exponent laws","Dividing by zero exponent","What is 9⁵ ÷ 9⁰?",["9⁵","9⁰","1","9⁻⁵"],0,"9⁰ = 1, so 9⁵ ÷ 9⁰ = 9⁵.","Subtracting exponents gives 9⁵⁻⁰."],
+[11,"Expanded form connections","Expanded power","Which expanded form matches 3⁴?",["3 × 3","3 × 3 × 3","3 × 3 × 3 × 3","3²"],2,"3⁴ means four factors of 3 multiplied together.","The exponent counts how many equal factors."],
+[12,"Expanded form connections","Expanded product","Which description shows 2³ × 2²?",["Five 2s multiplied","Three 2s multiplied","Two 2s multiplied","Seven 2s multiplied"],0,"2³ has three factors of 2 and 2² has two more, making five 2s in total.","This is why the exponents add."],
+[13,"Expanded form connections","Equivalent product","Which expression equals 5⁷?",["5³ × 5⁴","5² × 5²","5⁵ ÷ 5²","(5²)³"],0,"5³ × 5⁴ = 5³⁺⁴ = 5⁷.","Check the exponent result for each option."],
+[14,"Expanded form connections","Power of power result","Which expression is equal to (2²)³?",["2⁵","2⁶","2³","2⁴"],1,"(2²)³ = 2²×³ = 2⁶.","Power of a power multiplies exponents."],
+[15,"Expanded form connections","Quotient rule form","Which shows the quotient rule correctly?",["aᵐ + aⁿ","aᵐ − aⁿ","aᵐ ÷ aⁿ = aᵐ⁻ⁿ","aᵐaⁿ = aᵐ⁺ⁿ"],2,"The quotient rule is aᵐ ÷ aⁿ = aᵐ⁻ⁿ for a ≠ 0.","The product rule is different."],
+[16,"Applied exponent contexts","Cube volume","A cube has side length 2 cm. Its volume is:",["2 cm³","4 cm³","8 cm³","16 cm³"],2,"Volume of a cube is side³, so 2³ = 8 cm³.","Cube volume uses an exponent of 3."],
+[17,"Applied exponent contexts","Larger cube volume","A cube has side length 6 cm. Its volume is:",["36 cm³","216 cm³","64 cm³","12 cm³"],1,"6³ = 6 × 6 × 6 = 216 cm³.","Do not use 6² for volume."],
+[18,"Applied exponent contexts","Volume scale factor","A cube's side length increases from 2 cm to 6 cm. By what factor does its volume increase?",["3","9","27","81"],2,"The side length is multiplied by 3, so the volume is multiplied by 3³ = 27.","Volume scales by the cube of the length scale factor."],
+[19,"Applied exponent contexts","Volume comparison expression","Which expression shows the volume-enlargement factor from a 2 cm cube to a 6 cm cube?",["6³ − 2³","6³ ÷ 2³","6³ + 2³","6³ × 2³"],1,"Volume factor compares new volume to old volume, so use 6³ ÷ 2³.","A factor is usually found by division."],
+[20,"Applied exponent contexts","Tripling side length","If a cube's side length triples, its volume increases by:",["3","6","9","27"],3,"Volume scales by 3³ when side length triples, so the factor is 27.","Length scale factor k gives volume scale factor k³."],
+[21,"Applied exponent contexts","Doubling side length","If a cube's side length doubles, its volume increases by:",["2","4","6","8"],3,"Volume scales by 2³ = 8 when side length doubles.","Area would scale by 4, but volume scales by 8."],
+[22,"Applied exponent contexts","Fivefold side length","If a cube's side length becomes 5 times bigger, its volume increases by:",["5","10","25","125"],3,"Volume scales by 5³ = 125.","Use the exponent 3 for volume."],
+[23,"Applied exponent contexts","Cube quotient law","Which is correct?",["8³ ÷ 2³ = 4³","8³ ÷ 2³ = 2³","8³ ÷ 2³ = 6³","8³ ÷ 2³ = 1"],0,"8³ ÷ 2³ = (8 ÷ 2)³ = 4³.","The same exponent can apply to the quotient."],
+[24,"Applied exponent contexts","Side-to-volume factor","If a cube's side length increases from 1 cm to 4 cm, its volume increases by a factor of:",["4","8","16","64"],3,"The side scale factor is 4, so the volume scale factor is 4³ = 64.","Volume changes much faster than side length."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map(([n,section,skill,question,answers,correct,summary,hint])=>({id:`ac9m8n02-p-${String(n).padStart(3,"0")}`,curriculumCode:"AC9M8N02",bank:"practice",section,sourceNumber:n,skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation:`${summary}\nHint: ${hint}`,structuredExplanation:{summary,hint},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
