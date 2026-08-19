@@ -87,10 +87,38 @@
     (visual || heading).insertAdjacentElement("afterend", button);
   }
 
+  function normaliseQuestionText(text) {
+    return String(text || "").replace(/\s+/g, " ").trim();
+  }
+
+  function compactHash(text) {
+    let hash = 0;
+    const value = normaliseQuestionText(text);
+    for (let index = 0; index < value.length; index += 1) {
+      hash = ((hash << 5) - hash + value.charCodeAt(index)) | 0;
+    }
+    return Math.abs(hash).toString(36);
+  }
+
   function currentQuestionFromHeading() {
-    const text = document.getElementById("questionText")?.textContent?.replace(/\s+/g, " ").trim();
-    if (!text || !Array.isArray(window.quizQuestions)) return null;
-    return window.quizQuestions.find((question) => String(question.question || "").replace(/\s+/g, " ").trim() === text) || null;
+    const text = normaliseQuestionText(document.getElementById("questionText")?.textContent);
+    if (!text) return null;
+
+    const allQuestions = [
+      ...(Array.isArray(window.quizQuestions) ? window.quizQuestions : []),
+      ...(Array.isArray(window.skillrPracticeQuestions) ? window.skillrPracticeQuestions : []),
+      ...(Array.isArray(window.skillrTestQuestions) ? window.skillrTestQuestions : []),
+      ...(Array.isArray(window.skillrExamQuestions) ? window.skillrExamQuestions : [])
+    ];
+    const exact = allQuestions.find((question) => normaliseQuestionText(question?.question) === text);
+    if (exact) return exact;
+
+    const code = String(window.quizConfig?.skillCode || "unknown").toUpperCase();
+    return {
+      id: `rendered-${code.toLowerCase()}-${compactHash(text)}`,
+      curriculumCode: code,
+      question: text
+    };
   }
 
   function quizMode() {
@@ -119,23 +147,80 @@
     const heading = document.getElementById("questionText");
     const question = currentQuestionFromHeading();
     document.querySelector(".question-quality-feedback")?.remove();
-    if (!heading || !question) return;
-    const box = document.createElement("div"); box.className = "question-quality-feedback"; box.setAttribute("aria-label", "Question quality feedback");
-    const note = document.createElement("p"); note.textContent = "Help us improve Skillr: like a good-quality question, or downvote one that needs improvement."; box.appendChild(note);
-    const up = document.createElement("button"), down = document.createElement("button"); up.type = down.type = "button"; up.textContent = "👍 Good question"; down.textContent = "👎 Needs improvement";
-    up.setAttribute("aria-label", "Like this question's quality"); down.setAttribute("aria-label", "Downvote this question's quality");
-    const thanks = document.createElement("span"); thanks.className = "feedback-thanks";
-    function refresh() { const vote = readVote(question); up.setAttribute("aria-pressed", vote === "up" ? "true" : "false"); down.setAttribute("aria-pressed", vote === "down" ? "true" : "false"); thanks.textContent = vote ? "Thanks — your feedback helps us improve the question bank." : ""; }
-    function vote(value) { const previous = readVote(question); if (previous === value) return; saveVote(question, value); sendVote(question, value, previous); refresh(); }
-    up.addEventListener("click", () => vote("up")); down.addEventListener("click", () => vote("down")); box.append(up, down, thanks);
-    const answerList = document.getElementById("answerList"); if (answerList?.parentNode) answerList.insertAdjacentElement("afterend", box); else heading.insertAdjacentElement("afterend", box); refresh();
+    if (!heading || !question || !normaliseQuestionText(heading.textContent)) return;
+    const quizScreen = document.getElementById("quizScreen");
+    if (quizScreen && !quizScreen.classList.contains("is-active")) return;
+
+    const box = document.createElement("div");
+    box.className = "question-quality-feedback";
+    box.setAttribute("aria-label", "Question quality feedback");
+    const note = document.createElement("p");
+    note.textContent = "Help us improve Skillr: rate this question.";
+    box.appendChild(note);
+    const up = document.createElement("button"), down = document.createElement("button");
+    up.type = down.type = "button";
+    up.textContent = "👍 Like";
+    down.textContent = "👎 Unlike";
+    up.setAttribute("aria-label", "Like this question");
+    down.setAttribute("aria-label", "Unlike this question");
+    const thanks = document.createElement("span");
+    thanks.className = "feedback-thanks";
+    function refresh() {
+      const vote = readVote(question);
+      up.setAttribute("aria-pressed", vote === "up" ? "true" : "false");
+      down.setAttribute("aria-pressed", vote === "down" ? "true" : "false");
+      thanks.textContent = vote ? "Thanks — your feedback helps us improve the question bank." : "";
+    }
+    function vote(value) {
+      const previous = readVote(question);
+      if (previous === value) return;
+      saveVote(question, value);
+      sendVote(question, value, previous);
+      refresh();
+    }
+    up.addEventListener("click", () => vote("up"));
+    down.addEventListener("click", () => vote("down"));
+    box.append(up, down, thanks);
+    const answerList = document.getElementById("answerList");
+    if (answerList?.parentNode) answerList.insertAdjacentElement("afterend", box);
+    else heading.insertAdjacentElement("afterend", box);
+    refresh();
+  }
+
+  function refreshQuestionExtras() {
+    queueMicrotask(() => {
+      addReadAloudButton();
+      addQuestionQualityFeedback();
+    });
   }
 
   document.addEventListener("DOMContentLoaded", () => {
-    const heading = document.getElementById("questionText"); if (!heading) return;
-    const refreshQuestionExtras = () => queueMicrotask(() => { addReadAloudButton(); addQuestionQualityFeedback(); });
+    const heading = document.getElementById("questionText");
+    if (!heading) return;
     new MutationObserver(refreshQuestionExtras).observe(heading, { childList: true, characterData: true, subtree: true });
+    const answerList = document.getElementById("answerList");
+    if (answerList) new MutationObserver(refreshQuestionExtras).observe(answerList, { childList: true, subtree: true });
+    ["startButton", "nextButton", "submitButton"].forEach((id) => {
+      document.getElementById(id)?.addEventListener("click", () => {
+        window.setTimeout(refreshQuestionExtras, 0);
+        window.setTimeout(refreshQuestionExtras, 80);
+        window.setTimeout(refreshQuestionExtras, 250);
+      });
+    });
+    window.setInterval(() => {
+      const questionText = normaliseQuestionText(heading.textContent);
+      if (questionText && !document.querySelector(".question-quality-feedback")) refreshQuestionExtras();
+    }, 1000);
+    refreshQuestionExtras();
+
     const app = document.getElementById("quizApp");
-    if (app) new MutationObserver(() => { const visual = document.getElementById("questionVisual"); if (!visual || visual.dataset.productionReady) return; visual.dataset.productionReady = "true"; visual.classList.add("production-question-visual"); const svg = visual.querySelector("svg[aria-label]"); if (svg) visual.setAttribute("aria-label", svg.getAttribute("aria-label")); }).observe(app, { childList: true, subtree: true });
+    if (app) new MutationObserver(() => {
+      const visual = document.getElementById("questionVisual");
+      if (!visual || visual.dataset.productionReady) return;
+      visual.dataset.productionReady = "true";
+      visual.classList.add("production-question-visual");
+      const svg = visual.querySelector("svg[aria-label]");
+      if (svg) visual.setAttribute("aria-label", svg.getAttribute("aria-label"));
+    }).observe(app, { childList: true, subtree: true });
   });
 })();
