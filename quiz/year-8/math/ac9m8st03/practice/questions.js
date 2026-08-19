@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m8st03-p-001",
-    "curriculumCode": "AC9M8ST03",
-    "bank": "practice",
-    "skill": "compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population\nHint: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.",
-    "structuredExplanation": {
-      "summary": "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
-      "hint": "Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st03-p-002",
-    "curriculumCode": "AC9M8ST03",
-    "bank": "practice",
-    "skill": "use digital tools to simulate repeated sampling of the same population such as heights or arm spans of students recording and comparing means median",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use digital tools to simulate repeated sampling of the same population such as heights or arm spans of students recording and comparing means median. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools to simulate repeated sampling of the same population such as heights or arm spans of students recording and comparing means median. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sampling variation and sample size model is copied without interpretation",
-      "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples\nHint: Use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median.",
-    "structuredExplanation": {
-      "summary": "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples",
-      "hint": "Use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st03-p-003",
-    "curriculumCode": "AC9M8ST03",
-    "bank": "practice",
-    "skill": "use relative frequencies from historical data to predict proportions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use relative frequencies from historical data to predict proportions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use relative frequencies from historical data to predict proportions. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "using relative frequencies from historical data to predict proportions and the likely number of outcomes in situations such as weather forecasting or the countries of origin of visitors to tourist attractions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using relative frequencies from historical data to predict proportions and the likely number of outcomes in situations such as weather forecasting or the countries of origin of visitors to tourist attractions\nHint: Use relative frequencies from historical data to predict proportions.",
-    "structuredExplanation": {
-      "summary": "using relative frequencies from historical data to predict proportions and the likely number of outcomes in situations such as weather forecasting or the countries of origin of visitors to tourist attractions",
-      "hint": "Use relative frequencies from historical data to predict proportions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st03-p-004",
-    "curriculumCode": "AC9M8ST03",
-    "bank": "practice",
-    "skill": "explore the effect that adding or removing data from a data set has on measures of central tendency and spread",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore the effect that adding or removing data from a data set has on measures of central tendency and spread. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating the effect that adding or removing data from a data set has on measures of central tendency and spread"
-    ],
-    "correct": 3,
-    "explanation": "investigating the effect that adding or removing data from a data set has on measures of central tendency and spread\nHint: Explore the effect that adding or removing data from a data set has on measures of central tendency and spread.",
-    "structuredExplanation": {
-      "summary": "investigating the effect that adding or removing data from a data set has on measures of central tendency and spread",
-      "hint": "Explore the effect that adding or removing data from a data set has on measures of central tendency and spread."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st03-p-005",
-    "curriculumCode": "AC9M8ST03",
-    "bank": "practice",
-    "skill": "explore first nations ranger groups and other groups use of sampling techniques to track biodiversity of species",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore first nations ranger groups and other groups use of sampling techniques to track biodiversity of species. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore first nations ranger groups and other groups use of sampling techniques to track biodiversity of species. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species",
-      "The sampling variation and sample size model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species\nHint: Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species.",
-    "structuredExplanation": {
-      "summary": "investigating First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species",
-      "hint": "Explore First Nations Ranger Groups and other groups’ use of sampling techniques to track biodiversity of species."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st03-p-006",
-    "curriculumCode": "AC9M8ST03",
-    "bank": "practice",
-    "skill": "explore how the comparison of variations in distributions and proportions from the same population applies to data driven decision making and how this relates to training of artificial intelligence systems",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore how the comparison of variations in distributions and proportions from the same population applies to data driven decision making and how this relates to training of artificial intelligence systems. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore how the comparison of variations in distributions and proportions from the same population applies to data driven decision making and how this relates to training of artificial intelligence systems. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "exploring how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "exploring how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems\nHint: Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems.",
-    "structuredExplanation": {
-      "summary": "exploring how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems",
-      "hint": "Explore how the comparison of variations in distributions and proportions from the same population applies to data-driven decision-making and how this relates to training of artificial intelligence systems."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st03-p-007",
-    "curriculumCode": "AC9M8ST03",
-    "bank": "practice",
-    "skill": "compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population\nHint: Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population.",
-    "structuredExplanation": {
-      "summary": "comparing the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population",
-      "hint": "Compare the proportion of students in favour of a proposal for a change in school uniform between different random samples of 50 students from the school population."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st03-p-008",
-    "curriculumCode": "AC9M8ST03",
-    "bank": "practice",
-    "skill": "use digital tools to simulate repeated sampling of the same population such as heights or arm spans of students recording and comparing means median",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use digital tools to simulate repeated sampling of the same population such as heights or arm spans of students recording and comparing means median. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools to simulate repeated sampling of the same population such as heights or arm spans of students recording and comparing means median. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sampling variation and sample size model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples"
-    ],
-    "correct": 3,
-    "explanation": "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples\nHint: Use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median.",
-    "structuredExplanation": {
-      "summary": "using digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median and range of data between samples",
-      "hint": "Use digital tools to simulate repeated sampling of the same population, such as heights or arm spans of students, recording and comparing means, median."
-    },
-    "qualitySchema": "production-v1"
-  }
+const rawPractice=[
+["sample_proportion_variation","Two random samples of 50 students show 28/50 and 33/50 support for a uniform change. Which statement is correct?",["Samples must be wrong","Variation is expected","School population changed","Sample size is too large"],1,"Different random samples commonly give different sample proportions."],
+["sample_stability","Which random sample size would generally give the most stable sample proportion, assuming the same sound sampling method?",["20","30","50","200"],3,"Larger random samples generally have less sampling variability."],
+["proportion_comparison","Sample A has 24/50 support and Sample B has 30/50 support. What is the difference in sample proportions?",["0.06","0.12","0.18","0.24"],1,"30/50 − 24/50 = 6/50 = 0.12."],
+["sample_variation_reason","Why can two well-designed random samples from the same population give different results?",["All samples are biased","Random sampling variation","The population must have changed","Samples cannot differ"],1,"Random selection naturally produces sampling variation."],
+["sample_reliability","All four samples use the same unbiased random method. Which proportion is likely to have the smallest sampling variability?",["12/20","18/30","28/50","56/100"],3,"The largest sample size generally gives the most stable estimate."],
+["sample_bias_detection","Two samples differ greatly. Which is the best conclusion?",["It must be random variation","It must be sampling bias","Random variation or bias could contribute; investigate the sampling design","Neither can matter"],2,"A large difference alone does not identify the cause."],
+["sample_size_effect","Under the same random sampling design, smaller samples generally show:",["Less sampling variation","More sampling variation","No sampling variation","Perfect accuracy"],1,"Smaller samples tend to fluctuate more from sample to sample."],
+["sample_proportion_logic","Two random samples of size 50 give proportions 0.52 and 0.48. Which is the most reasonable interpretation?",["They show completely opposite opinions","They are fairly similar sample results","One sample must be biased","They cannot be compared"],1,"A difference of 0.04 is modest and may reflect ordinary sampling variation."],
+["simulation_mean_variation","Repeated random samples of height, each with n=50, give means 161 cm, 164 cm and 162 cm. Why can the means differ?",["Bias is guaranteed","Random sampling variation","Faulty software is certain","The population must be wrong"],1,"Sample means vary from one random sample to another."],
+["simulation_range","Repeated samples from a population sometimes have quite different ranges. What does this show most directly?",["The range is sensitive to which extreme values enter each sample","The population must be uniform","There is no variation","The simulation is biased"],0,"Range depends strongly on sampled minimum and maximum values."],
+["median_stability","Which statement about mean and median across repeated samples is best?",["Median is always more stable","Mean is always more stable","Their stability depends on the population shape, sample size and outliers","Neither can vary"],2,"No one centre measure is universally the most stable."],
+["simulation_sample_size","For repeated random samples from the same population, increasing sample size generally:",["Increases sampling variability","Decreases sampling variability of sample statistics","Has no effect","Removes randomness completely"],1,"Larger samples generally produce more stable statistics."],
+["digital_sampling_accuracy","Why are digital simulations useful for studying sampling variation?",["They remove randomness","They allow many repeated samples quickly","They guarantee correct models","They remove sampling bias automatically"],1,"Repeated trials make sampling variability easier to observe."],
+["simulation_distribution","Repeated sampling produces:",["Only one possible set of values","A collection of sample statistics or sample distributions","No distribution","Perfect uniformity"],1,"Each repeated sample can produce a different distribution or statistic."],
+["simulation_mean_convergence","As random sample size increases, the sample mean tends to be closer to:",["Zero","Infinity","The population mean","A random fixed number"],2,"Larger samples generally estimate the population mean more closely."],
+["simulation_variability","A simulation shows high variability in a statistic across repeated random samples. Which change would usually reduce that variability?",["Use a larger sample size","Use a smaller sample size","Make sampling less random","Ignore extreme results"],0,"Increasing n generally reduces sampling variability."],
+["relative_frequency_prediction","Rain occurred on 90 of the last 300 days. The historical relative frequency of rain is:",["10%","20%","30%","40%"],2,"90/300 = 0.30 = 30%."],
+["tourist_origin_prediction","Historical data show 40% of visitors came from Asia. If conditions are similar, about how many of 500 visitors would you expect from Asia?",["100","150","200","250"],2,"0.40 × 500 = 200."],
+["relative_frequency_accuracy","With independent repeated observations under stable conditions, a relative-frequency estimate generally becomes more stable when:",["The number of observations increases","The number decreases","Bias increases","Only convenient observations are kept"],0,"More observations usually reduce random fluctuation."],
+["weather_prediction_logic","Why can historical relative frequency be useful for prediction?",["Future weather repeats exactly","Past data can provide an empirical estimate when conditions are reasonably comparable","Weather has no randomness","No data are needed"],1,"Relative frequency is an empirical estimate, not a guarantee."],
+["outcome_prediction","If 15% of visitors historically come from Europe, how many would be expected out of 800 under similar conditions?",["80","100","120","150"],2,"0.15 × 800 = 120."],
+["relative_frequency_limit","A historical relative-frequency prediction may become poor when:",["The underlying conditions change substantially","The dataset is large","Measurements are accurate","The process remains stable"],0,"Past frequencies are less useful if the process changes."],
+["prediction_variability","Actual future counts can differ from expected counts mainly because:",["Random variation","Expected value is an exact promise","No data exist","Sample size makes outcomes fixed"],0,"Expected counts describe long-run tendency, not exact future results."],
+["relative_frequency_population","A sample relative frequency is often used to estimate:",["An exact population value with no uncertainty","A population proportion","A random label","A guaranteed unbiased result"],1,"It estimates the corresponding population proportion, subject to sampling uncertainty."],
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=rawPractice.map((x,i)=>({id:`ac9m8st03-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M8ST03",bank:"practice",section:i<8?"E1":i<16?"E2":"E3",sourceNumber:i+1,skill:x[0],printable:true,type:"single",question:x[1],audioPrompt:x[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:x[2],correct:x[3],explanation:x[4],structuredExplanation:{summary:x[4],hint:"Compare samples carefully and distinguish random variation from bias."},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
