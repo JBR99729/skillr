@@ -85,28 +85,35 @@
     if (window.location.pathname !== "/" && window.location.pathname !== "/index.html") return;
     if (document.querySelector(".home-qa-crowd-notice")) return;
 
-    var facts = document.querySelector(".home-hero__facts");
-    if (!facts) return;
+    var title = document.getElementById("home-hero-title");
+    if (!title) return;
 
     if (!document.getElementById("skillr-home-qa-notice-styles")) {
       var style = document.createElement("style");
       style.id = "skillr-home-qa-notice-styles";
       style.textContent = [
-        ".home-qa-crowd-notice{display:block;margin:14px 0 4px;padding:12px 15px;border:1px solid #e5bf35;border-radius:10px;background:#fff3a8;color:#3d3210;text-decoration:none;box-shadow:0 2px 8px rgba(108,84,0,.08);line-height:1.45}",
-        ".home-qa-crowd-notice:hover,.home-qa-crowd-notice:focus-visible{background:#ffef86;border-color:#c99f12;outline:none;box-shadow:0 0 0 3px rgba(229,191,53,.24)}",
-        ".home-qa-crowd-notice strong{color:#2f2708}",
-        ".home-qa-crowd-notice__link{font-weight:700;text-decoration:underline;text-underline-offset:2px;white-space:nowrap}"
+        ".home-hero__title-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,360px);gap:18px;align-items:center;margin-bottom:6px}",
+        ".home-hero__title-row #home-hero-title{margin:0}",
+        ".home-qa-crowd-notice{display:block;padding:12px 14px;border:2px solid #c62828;border-radius:10px;background:#fff8f8;color:#b71c1c;text-decoration:none;line-height:1.38;font-size:.94rem;font-weight:600;box-shadow:0 2px 8px rgba(183,28,28,.08)}",
+        ".home-qa-crowd-notice:hover,.home-qa-crowd-notice:focus-visible{background:#ffeded;border-color:#a31313;outline:none;box-shadow:0 0 0 3px rgba(198,40,40,.14)}",
+        ".home-qa-crowd-notice strong{color:#a31313}",
+        ".home-qa-crowd-notice__link{display:inline-block;margin-top:4px;font-weight:800;text-decoration:underline;text-underline-offset:2px}",
+        "@media (max-width:820px){.home-hero__title-row{grid-template-columns:1fr;gap:10px;align-items:start}.home-qa-crowd-notice{font-size:.9rem}}"
       ].join("");
       document.head.appendChild(style);
     }
+
+    var row = document.createElement("div");
+    row.className = "home-hero__title-row";
+    title.parentNode.insertBefore(row, title);
+    row.appendChild(title);
 
     var notice = document.createElement("a");
     notice.className = "home-qa-crowd-notice";
     notice.href = "/updates.html";
     notice.setAttribute("aria-label", "Read SkillrHub quality assurance updates and learn how to contribute");
-    notice.innerHTML = "<strong>Community QA in progress:</strong> A small group of school students is actively testing and verifying SkillrHub questions. SkillrHub is a crowd QA project, and students, teachers and parents are welcome to contribute corrections or quality-assurance feedback. <span class=\"home-qa-crowd-notice__link\">See updates &amp; contribute →</span>";
-
-    facts.insertAdjacentElement("afterend", notice);
+    notice.innerHTML = "<strong>Community QA in progress</strong><br>A small group of school students is testing and verifying questions. SkillrHub is a crowd QA project — students, teachers and parents are welcome to contribute corrections or QA feedback.<br><span class=\"home-qa-crowd-notice__link\">See updates &amp; contribute →</span>";
+    row.appendChild(notice);
   }
 
   function removeLegacyFloatingWidgets() {
