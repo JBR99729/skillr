@@ -1,236 +1,49 @@
 "use strict";
+const makeQuestion = ({ id, section, sourceNumber, skill, question, answers, correct, explanation }) => ({
+  id,
+  curriculumCode: "AC9M8M04",
+  bank: "practice",
+  section,
+  sourceNumber,
+  skill,
+  printable: true,
+  type: "single",
+  question,
+  audioPrompt: question,
+  visual: "",
+  visualHtml: "",
+  visualMeta: { type: "none", alt_text: "" },
+  answers,
+  correct,
+  explanation,
+  structuredExplanation: { summary: explanation, hint: "Convert through UTC or compare the UTC offsets carefully, including previous-day or next-day changes." },
+  qualitySchema: "production-v1"
+});
+
 window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m8m04-p-001",
-    "curriculumCode": "AC9M8M04",
-    "bank": "practice",
-    "skill": "use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth, Western Australia compared to Suva in Fiji or Toronto in Canada",
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth, Western Australia compared to Suva in Fiji or Toronto in Canada\nHint: Use digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth.",
-    "structuredExplanation": {
-      "summary": "using digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth, Western Australia compared to Suva in Fiji or Toronto in Canada",
-      "hint": "Use digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8m04-p-002",
-    "curriculumCode": "AC9M8M04",
-    "bank": "practice",
-    "skill": "recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The duration and time zones model is copied without interpretation",
-      "recognising the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories, and the impact daylight savings has due to multiple time zones, explaining the mathematical language used to communicate current time such as Coordinated Universal Time (UTC)+8, AEST, ACST and AWST",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "recognising the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories, and the impact daylight savings has due to multiple time zones, explaining the mathematical language used to communicate current time such as Coordinated Universal Time (UTC)+8, AEST, ACST and AWST\nHint: Recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories.",
-    "structuredExplanation": {
-      "summary": "recognising the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories, and the impact daylight savings has due to multiple time zones, explaining the mathematical language used to communicate current time such as Coordinated Universal Time (UTC)+8, AEST, ACST and AWST",
-      "hint": "Recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8m04-p-003",
-    "curriculumCode": "AC9M8M04",
-    "bank": "practice",
-    "skill": "plan an international travel itinerary that covers destinations in different time zones across asia",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving plan an international travel itinerary that covers destinations in different time zones across asia. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving plan an international travel itinerary that covers destinations in different time zones across asia. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "planning an international travel itinerary that covers destinations in different time zones across Asia",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "planning an international travel itinerary that covers destinations in different time zones across Asia\nHint: Plan an international travel itinerary that covers destinations in different time zones across Asia.",
-    "structuredExplanation": {
-      "summary": "planning an international travel itinerary that covers destinations in different time zones across Asia",
-      "hint": "Plan an international travel itinerary that covers destinations in different time zones across Asia."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8m04-p-004",
-    "curriculumCode": "AC9M8M04",
-    "bank": "practice",
-    "skill": "use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth, Western Australia compared to Suva in Fiji or Toronto in Canada"
-    ],
-    "correct": 3,
-    "explanation": "using digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth, Western Australia compared to Suva in Fiji or Toronto in Canada\nHint: Use digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth.",
-    "structuredExplanation": {
-      "summary": "using digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth, Western Australia compared to Suva in Fiji or Toronto in Canada",
-      "hint": "Use digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8m04-p-005",
-    "curriculumCode": "AC9M8M04",
-    "bank": "practice",
-    "skill": "recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "recognising the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories, and the impact daylight savings has due to multiple time zones, explaining the mathematical language used to communicate current time such as Coordinated Universal Time (UTC)+8, AEST, ACST and AWST",
-      "The duration and time zones model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "recognising the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories, and the impact daylight savings has due to multiple time zones, explaining the mathematical language used to communicate current time such as Coordinated Universal Time (UTC)+8, AEST, ACST and AWST\nHint: Recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories.",
-    "structuredExplanation": {
-      "summary": "recognising the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories, and the impact daylight savings has due to multiple time zones, explaining the mathematical language used to communicate current time such as Coordinated Universal Time (UTC)+8, AEST, ACST and AWST",
-      "hint": "Recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8m04-p-006",
-    "curriculumCode": "AC9M8M04",
-    "bank": "practice",
-    "skill": "plan an international travel itinerary that covers destinations in different time zones across asia",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving plan an international travel itinerary that covers destinations in different time zones across asia. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving plan an international travel itinerary that covers destinations in different time zones across asia. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "planning an international travel itinerary that covers destinations in different time zones across Asia",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "planning an international travel itinerary that covers destinations in different time zones across Asia\nHint: Plan an international travel itinerary that covers destinations in different time zones across Asia.",
-    "structuredExplanation": {
-      "summary": "planning an international travel itinerary that covers destinations in different time zones across Asia",
-      "hint": "Plan an international travel itinerary that covers destinations in different time zones across Asia."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8m04-p-007",
-    "curriculumCode": "AC9M8M04",
-    "bank": "practice",
-    "skill": "use digital tools to investigate time zones around the world and convert from one zone to another such as time in perth",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use digital tools to investigate time zones around the world and convert from one zone to another, such as time in perth?",
-    "audioPrompt": "What should you check when using use digital tools to investigate time zones around the world and convert from one zone to another, such as time in perth?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "using digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth, Western Australia compared to Suva in Fiji or Toronto in Canada",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth, Western Australia compared to Suva in Fiji or Toronto in Canada\nHint: Use digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth.",
-    "structuredExplanation": {
-      "summary": "using digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth, Western Australia compared to Suva in Fiji or Toronto in Canada",
-      "hint": "Use digital tools to investigate time zones around the world and convert from one zone to another, such as time in Perth."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8m04-p-008",
-    "curriculumCode": "AC9M8M04",
-    "bank": "practice",
-    "skill": "recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories?",
-    "audioPrompt": "What should you check when using recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The duration and time zones model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "recognising the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories, and the impact daylight savings has due to multiple time zones, explaining the mathematical language used to communicate current time such as Coordinated Universal Time (UTC)+8, AEST, ACST and AWST"
-    ],
-    "correct": 3,
-    "explanation": "recognising the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories, and the impact daylight savings has due to multiple time zones, explaining the mathematical language used to communicate current time such as Coordinated Universal Time (UTC)+8, AEST, ACST and AWST\nHint: Recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories.",
-    "structuredExplanation": {
-      "summary": "recognising the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories, and the impact daylight savings has due to multiple time zones, explaining the mathematical language used to communicate current time such as Coordinated Universal Time (UTC)+8, AEST, ACST and AWST",
-      "hint": "Recognise the challenges of planning regular virtual meeting times for a company that has both international staff and staff within different states and territories."
-    },
-    "qualitySchema": "production-v1"
-  }
+  makeQuestion({ id: "ac9m8m04-p-001", section: "Time zone conversions", sourceNumber: 1, skill: "convert between UTC offsets", question: "Perth is UTC+8 and the time is 3:00 pm. What is the time in Suva, UTC+12?", answers: ["11:00 am", "1:00 pm", "5:00 pm", "7:00 pm"], correct: 3, explanation: "Suva is 4 hours ahead of Perth, so 3:00 pm becomes 7:00 pm." }),
+  makeQuestion({ id: "ac9m8m04-p-002", section: "Time zone conversions", sourceNumber: 2, skill: "convert across previous day", question: "Canberra is UTC+10 and the time is 9:00 am. What is the time in Toronto, UTC−5?", answers: ["4:00 pm previous day", "6:00 pm previous day", "11:00 pm previous day", "2:00 am same day"], correct: 1, explanation: "Toronto is 15 hours behind Canberra, so 9:00 am minus 15 hours is 6:00 pm on the previous day." }),
+  makeQuestion({ id: "ac9m8m04-p-003", section: "Time zone conversions", sourceNumber: 3, skill: "convert to UTC", question: "Sydney is UTC+10 and the time is 8:00 pm. What is the time in London, UTC+0?", answers: ["8:00 am", "10:00 am", "12:00 pm", "10:00 pm"], correct: 1, explanation: "London at UTC+0 is 10 hours behind Sydney, so 8:00 pm becomes 10:00 am." }),
+  makeQuestion({ id: "ac9m8m04-p-004", section: "Time zone conversions", sourceNumber: 4, skill: "compare nearby offsets", question: "Melbourne is UTC+10 and the time is 6:00 am. What is the time in Tokyo, UTC+9?", answers: ["5:00 am", "6:00 am", "7:00 am", "8:00 am"], correct: 0, explanation: "Tokyo is 1 hour behind Melbourne, so 6:00 am becomes 5:00 am." }),
+  makeQuestion({ id: "ac9m8m04-p-005", section: "Time zone conversions", sourceNumber: 5, skill: "convert across previous day", question: "Brisbane is UTC+10 and the time is 11:00 am. What is the time in New York, UTC−5?", answers: ["6:00 pm previous day", "8:00 pm previous day", "9:00 pm previous day", "11:00 pm previous day"], correct: 1, explanation: "New York is 15 hours behind Brisbane, so 11:00 am minus 15 hours is 8:00 pm on the previous day." }),
+  makeQuestion({ id: "ac9m8m04-p-006", section: "Time zone conversions", sourceNumber: 6, skill: "convert between UTC offsets", question: "Perth is UTC+8 and the time is 2:00 pm. What is the time in Dubai, UTC+4?", answers: ["10:00 am", "12:00 pm", "6:00 pm", "8:00 pm"], correct: 0, explanation: "Dubai is 4 hours behind Perth, so 2:00 pm becomes 10:00 am." }),
+  makeQuestion({ id: "ac9m8m04-p-007", section: "Time zone conversions", sourceNumber: 7, skill: "convert half-hour offsets", question: "Adelaide is UTC+9:30 and the time is 7:00 pm. What is the time in Suva, UTC+12?", answers: ["9:30 pm", "10:30 pm", "11:30 pm", "12:30 am next day"], correct: 0, explanation: "Suva is 2 hours 30 minutes ahead of Adelaide, so 7:00 pm becomes 9:30 pm." }),
+  makeQuestion({ id: "ac9m8m04-p-008", section: "Time zone conversions", sourceNumber: 8, skill: "convert between UTC offsets", question: "Canberra is UTC+10 and the time is 3:00 pm. What is the time in Auckland, UTC+12?", answers: ["1:00 pm", "5:00 pm", "7:00 pm", "11:00 am"], correct: 1, explanation: "Auckland is 2 hours ahead of Canberra, so 3:00 pm becomes 5:00 pm." }),
+  makeQuestion({ id: "ac9m8m04-p-009", section: "Time zone conversions", sourceNumber: 9, skill: "convert half-hour offsets", question: "Darwin is UTC+9:30 and the time is 4:00 pm. What is the time in Beijing, UTC+8?", answers: ["2:30 pm", "3:30 pm", "4:00 pm", "5:00 pm"], correct: 0, explanation: "Beijing is 1 hour 30 minutes behind Darwin, so 4:00 pm becomes 2:30 pm." }),
+  makeQuestion({ id: "ac9m8m04-p-010", section: "Time zone conversions", sourceNumber: 10, skill: "convert across previous day", question: "Sydney is UTC+10 and the time is 10:00 am. What is the time in Los Angeles, UTC−8?", answers: ["4:00 pm previous day", "2:00 pm previous day", "6:00 pm previous day", "8:00 pm previous day"], correct: 0, explanation: "Los Angeles is 18 hours behind Sydney, so 10:00 am minus 18 hours is 4:00 pm on the previous day." }),
+  makeQuestion({ id: "ac9m8m04-p-011", section: "Time zone conversions", sourceNumber: 11, skill: "convert between UTC offsets", question: "Hobart is UTC+10 and the time is 9:00 pm. What is the time in Paris, UTC+1?", answers: ["12:00 pm", "11:00 am", "1:00 pm", "2:00 pm"], correct: 0, explanation: "Paris is 9 hours behind Hobart, so 9:00 pm becomes 12:00 pm." }),
+  makeQuestion({ id: "ac9m8m04-p-012", section: "Time zone conversions", sourceNumber: 12, skill: "convert half-hour offsets", question: "Canberra is UTC+10 and the time is 7:00 am. What is the time in Delhi, UTC+5:30?", answers: ["12:30 am", "1:30 am", "2:30 am", "3:30 am"], correct: 2, explanation: "Delhi is 4 hours 30 minutes behind Canberra, so 7:00 am becomes 2:30 am." }),
+  makeQuestion({ id: "ac9m8m04-p-013", section: "Time zone conversions", sourceNumber: 13, skill: "convert between UTC offsets", question: "Perth is UTC+8 and the time is 1:00 pm. What is the time in Johannesburg, UTC+2?", answers: ["5:00 am", "7:00 am", "9:00 am", "11:00 am"], correct: 1, explanation: "Johannesburg is 6 hours behind Perth, so 1:00 pm becomes 7:00 am." }),
+  makeQuestion({ id: "ac9m8m04-p-014", section: "Time zone conversions", sourceNumber: 14, skill: "convert across previous day", question: "Sydney is UTC+10 and the time is 6:00 pm. What is the time in Honolulu, UTC−10?", answers: ["8:00 pm previous day", "10:00 pm previous day", "12:00 am previous day", "8:00 am same day"], correct: 1, explanation: "Honolulu is 20 hours behind Sydney, so 6:00 pm minus 20 hours is 10:00 pm on the previous day." }),
+  makeQuestion({ id: "ac9m8m04-p-015", section: "Time zone conversions", sourceNumber: 15, skill: "convert half-hour offsets", question: "Adelaide is UTC+9:30 and the time is 5:00 pm. What is the time in Singapore, UTC+8?", answers: ["3:30 pm", "4:30 pm", "5:00 pm", "6:00 pm"], correct: 0, explanation: "Singapore is 1 hour 30 minutes behind Adelaide, so 5:00 pm becomes 3:30 pm." }),
+  makeQuestion({ id: "ac9m8m04-p-016", section: "DST and UTC language", sourceNumber: 16, skill: "explain daylight saving challenges", question: "Why is scheduling meetings across Australia difficult during daylight saving time?", answers: ["Some states change clocks, others do not", "Everyone changes clocks", "Time zones disappear", "Clocks stop"], correct: 0, explanation: "During daylight saving time, some Australian states and territories change clocks while others do not, changing the time differences." }),
+  makeQuestion({ id: "ac9m8m04-p-017", section: "DST and UTC language", sourceNumber: 17, skill: "interpret UTC notation", question: "What does UTC+8 mean?", answers: ["8 hours behind UTC", "8 hours ahead of UTC", "Same as UTC", "No offset"], correct: 1, explanation: "UTC+8 means the local time is 8 hours ahead of UTC." }),
+  makeQuestion({ id: "ac9m8m04-p-018", section: "DST and UTC language", sourceNumber: 18, skill: "recognise time-zone abbreviations", question: "What does AEST stand for?", answers: ["Australian Eastern Standard Time", "Australian Evening Standard Time", "Australian Early Summer Time", "Australian Eastern Seasonal Time"], correct: 0, explanation: "AEST stands for Australian Eastern Standard Time." }),
+  makeQuestion({ id: "ac9m8m04-p-019", section: "DST and UTC language", sourceNumber: 19, skill: "recognise Australian time zones", question: "ACST is UTC+9:30. Which state uses ACST?", answers: ["NSW", "Victoria", "South Australia", "Queensland"], correct: 2, explanation: "South Australia uses Australian Central Standard Time, UTC+9:30." }),
+  makeQuestion({ id: "ac9m8m04-p-020", section: "DST and UTC language", sourceNumber: 20, skill: "recognise Australian time zones", question: "AWST is UTC+8. Which city uses AWST?", answers: ["Brisbane", "Perth", "Darwin", "Hobart"], correct: 1, explanation: "Perth uses Australian Western Standard Time, UTC+8." }),
+  makeQuestion({ id: "ac9m8m04-p-021", section: "DST and UTC language", sourceNumber: 21, skill: "identify virtual meeting challenges", question: "A company has staff in Sydney, Perth and Singapore. What is the main scheduling challenge?", answers: ["Language", "Time zone differences", "Internet speed", "Weather"], correct: 1, explanation: "The locations use different time zones, so the same meeting occurs at different local times." }),
+  makeQuestion({ id: "ac9m8m04-p-022", section: "DST and UTC language", sourceNumber: 22, skill: "understand DST clock change", question: "When NSW enters daylight saving time, clocks move:", answers: ["Back 1 hour", "Forward 1 hour", "Forward 2 hours", "Back 2 hours"], correct: 1, explanation: "At the start of daylight saving time, clocks move forward 1 hour." }),
+  makeQuestion({ id: "ac9m8m04-p-023", section: "DST and UTC language", sourceNumber: 23, skill: "convert from UTC", question: "If UTC time is 06:00, what is the time in UTC+10?", answers: ["04:00", "06:00", "12:00", "16:00"], correct: 3, explanation: "UTC+10 is 10 hours ahead of UTC, so 06:00 becomes 16:00." }),
+  makeQuestion({ id: "ac9m8m04-p-024", section: "DST and UTC language", sourceNumber: 24, skill: "explain why UTC is useful", question: "Why do global companies often use UTC when scheduling across countries?", answers: ["It changes with seasons", "It is universal and does not use daylight saving shifts", "It is only used in Australia", "It is easier to remember than local time"], correct: 1, explanation: "UTC provides one common reference time, avoiding confusion from local daylight saving changes." })
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
