@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m9st02-p-001",
-    "curriculumCode": "AC9M9ST02",
-    "bank": "practice",
-    "skill": "explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples\nHint: Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.",
-    "structuredExplanation": {
-      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
-      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st02-p-002",
-    "curriculumCode": "AC9M9ST02",
-    "bank": "practice",
-    "skill": "discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sampling and representation bias model is copied without interpretation",
-      "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data\nHint: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.",
-    "structuredExplanation": {
-      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
-      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st02-p-003",
-    "curriculumCode": "AC9M9ST02",
-    "bank": "practice",
-    "skill": "explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports\nHint: Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports.",
-    "structuredExplanation": {
-      "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
-      "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st02-p-004",
-    "curriculumCode": "AC9M9ST02",
-    "bank": "practice",
-    "skill": "explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples"
-    ],
-    "correct": 3,
-    "explanation": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples\nHint: Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.",
-    "structuredExplanation": {
-      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
-      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st02-p-005",
-    "curriculumCode": "AC9M9ST02",
-    "bank": "practice",
-    "skill": "discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
-      "The sampling and representation bias model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data\nHint: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.",
-    "structuredExplanation": {
-      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
-      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st02-p-006",
-    "curriculumCode": "AC9M9ST02",
-    "bank": "practice",
-    "skill": "explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports\nHint: Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports.",
-    "structuredExplanation": {
-      "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
-      "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st02-p-007",
-    "curriculumCode": "AC9M9ST02",
-    "bank": "practice",
-    "skill": "explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
-    "audioPrompt": "What should you check when using explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples\nHint: Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples.",
-    "structuredExplanation": {
-      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
-      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st02-p-008",
-    "curriculumCode": "AC9M9ST02",
-    "bank": "practice",
-    "skill": "discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
-    "audioPrompt": "What should you check when using discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sampling and representation bias model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data"
-    ],
-    "correct": 3,
-    "explanation": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data\nHint: Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data.",
-    "structuredExplanation": {
-      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
-      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+[1,"Section A — Numerical infographic and representation problems","Truncated-axis interpretation","A bar chart shows support for recycling: Group A is 62% and Group B is 65%, but the y-axis starts at 60%. What is the main issue?",["It exaggerates a 3 percentage-point difference","It proves the difference is 50%","It removes sampling bias","It makes the sample random"],0,"The actual difference is only 65% − 62% = 3 percentage points. Starting the axis at 60% can make that small difference look much larger.","Check the actual values before trusting the visual size."],
+[2,"Section A — Numerical infographic and representation problems","Invalid pie-chart total","A pie chart shows Land clearing 48%, Wind farms 32% and Plastics 24%. The total is 104%. How much must be corrected for the categories to sum to 100%?",["4%","2%","10%","1%"],0,"48 + 32 + 24 = 104, so the chart is 4 percentage points over 100%.","Pie-chart percentages should total 100% unless categories overlap and are clearly labelled."],
+[3,"Section A — Numerical infographic and representation problems","Truncated-axis exaggeration","Youth unemployment rises from 11% to 13%, but the graph axis starts at 10%. Relative to the visible baseline, the plotted height changes from 1 to 3. What is the visual problem?",["The increase appears about 3 times as large above the baseline","The increase is actually 30 percentage points","The values become invalid","The mean must be used instead"],0,"With a 10% baseline, the visible height changes from 1 to 3, so the visual jump looks much larger than the actual 2 percentage-point increase.","Compare the displayed baseline with the true baseline."],
+[4,"Section A — Numerical infographic and representation problems","Actual percentage growth","A graph shows population increasing from 2.1 million to 2.4 million between 2018 and 2026. What is the actual percentage growth?",["About 14%","About 20%","About 5%","About 40%"],0,"Increase = 0.3 million. Percentage growth = 0.3 ÷ 2.1 × 100 ≈ 14.3%.","Use change divided by the original value."],
+[5,"Section A — Numerical infographic and representation problems","Mean sensitivity","An infographic says the mean household size is 3.2. If 10 new large households are added, what should you expect the mean to do?",["Increase","Decrease","Stay exactly the same","Become the median"],0,"Adding several large households increases the total people per household and therefore tends to raise the mean.","The mean is sensitive to large values."],
+[6,"Section A — Numerical infographic and representation problems","Bar-height distortion","A chart shows solar support rising from 70% to 72%, but the bars are drawn with heights 7 cm and 12 cm. The 72% bar is about how many times the height of the 70% bar?",["About 1.7 times","About 2 times","About 3 times","About 5 times"],0,"12 ÷ 7 ≈ 1.7. The drawn bars exaggerate a small 2 percentage-point difference.","Compare the drawn heights, not just the labels."],
+[7,"Section A — Numerical infographic and representation problems","Percentage-point change","Support for wind farms increases from 60% to 63%. What is the actual percentage-point change?",["3","5","10","1"],0,"63% − 60% = 3 percentage points.","Percentage points are found by subtraction."],
+[8,"Section A — Numerical infographic and representation problems","Hidden base values","A media infographic says a category increased by 100%, but it hides that the value rose from 2 people to 4 people. Why is this misleading?",["The percentage sounds large because the base was small","Percentages cannot be used","The median must be shown","The result must be negative"],0,"A change from 2 to 4 is a 100% increase, but the actual increase is only 2 people.","Always ask: 100% of what?"],
+[9,"Section A — Numerical infographic and representation problems","Misleading drawn scale","A graphic shows Category A = 100 and Category B = 110, but the bars are drawn as 5 cm and 10 cm. What is the drawn-height distortion factor for B compared with A?",["2×","5×","10×","1×"],0,"The drawn heights are 10 cm and 5 cm, so B appears 10 ÷ 5 = 2 times as tall, even though the data rose only 10%.","Compare the visual sizes to the actual data ratio."],
+[10,"Section A — Numerical infographic and representation problems","Pie-slice distortion","A pie chart labels Urban 55% and Rural 45%, but the rural slice is drawn twice as large as it should be. What visual problem results?",["Rural appears over-represented","Urban is necessarily wrong","The total must be below 100%","The median is missing"],0,"If the rural slice is drawn too large, viewers may think rural responses are more common than the data says.","Pie slices must be proportional to the percentages."],
+[11,"Section A — Numerical infographic and representation problems","Hidden change","A line graph omits years where a value dropped from 65% to 50%. What change was hidden?",["−15 percentage points","−5 percentage points","−20 percentage points","−10 percentage points"],0,"50% − 65% = −15 percentage points.","Subtract final minus initial."],
+[12,"Section A — Numerical infographic and representation problems","Actual increase","A chart shows support rising from 40% to 60%. What is the actual increase?",["20 percentage points","40 percentage points","10 percentage points","60 percentage points"],0,"60% − 40% = 20 percentage points.","Use percentage points when comparing two percentages by subtraction."],
+[13,"Section B — Numerical sampling problems","Response count","A landline-only survey contacts 2,000 numbers. The response rate is 18%. How many responses are expected?",["360","180","200","400"],0,"18% of 2,000 = 0.18 × 2,000 = 360.","Convert the percentage to a decimal and multiply."],
+[14,"Section B — Numerical sampling problems","Under-representation factor","A mobile-only survey reaches older adults at 10% of the sample, but older adults are 20% of the population. What is the under-representation factor?",["2×","1.5×","0.5×","0.25×"],0,"20 ÷ 10 = 2, so older adults are under-represented by a factor of 2.","Compare the population proportion with the sample proportion."],
+[15,"Section B — Numerical sampling problems","Remaining respondents","A phone survey calls 3,000 numbers. If 70% reject unknown numbers, how many potential respondents remain?",["900","2,100","300","1,500"],0,"30% remain. 0.30 × 3,000 = 900.","If 70% reject, 30% remain."],
+[16,"Section B — Numerical sampling problems","Contacts needed","A survey has a 25% response rate and needs 600 responses. How many people must be contacted?",["2,400","600","150","1,200"],0,"600 ÷ 0.25 = 2,400 contacts.","Required contacts = desired responses ÷ response rate."],
+[17,"Section B — Numerical sampling problems","Coverage rate","A landline survey can only reach people with landlines. If 30% of the population has landlines, what is the effective coverage before non-response?",["30%","70%","15%","50%"],0,"Only the 30% with landlines can be reached by that frame.","Coverage depends on who can be sampled."],
+[18,"Section B — Numerical sampling problems","SMS coverage","A survey uses SMS invitations. If mobile ownership is 92%, what is the maximum population coverage before non-response?",["92%","100%","50%","75%"],0,"At most, SMS can reach the 92% with mobile access.","Coverage cannot exceed the reachable group."],
+[19,"Section B — Numerical sampling problems","Panel participation","An online panel has 10,000 members and a 12% participation rate. How many responses are expected?",["1,200","120","12,000","2,000"],0,"0.12 × 10,000 = 1,200.","Multiply by the participation rate."],
+[20,"Section B — Numerical sampling problems","Valid recipients","An email survey is sent to 5,000 addresses. The bounce rate is 8%. How many valid recipients remain?",["4,600","5,000","3,000","4,200"],0,"8% bounce means 92% are valid. 0.92 × 5,000 = 4,600.","Subtract the bounce percentage from 100%."],
+[21,"Section B — Numerical sampling problems","Robocall completion","A robocall survey has an 85% hang-up rate from 2,000 calls. How many complete responses remain if all non-hang-ups complete?",["300","170","2,000","1,700"],0,"15% do not hang up. 0.15 × 2,000 = 300.","100% − 85% = 15%."],
+[22,"Section B — Numerical sampling problems","Shopping-centre bias","A shopping-centre survey samples only shoppers in one urban centre. Rural residents are 30% of the target population but effectively 0% of the sample. What rural under-representation is caused?",["30 percentage points","0 percentage points","100 percentage points","70 percentage points"],0,"Rural residents should be 30% but are 0%, so the gap is 30 percentage points.","Compare target population share with sample share."],
+[23,"Section B — Numerical sampling problems","Older-adult coverage gap","A mobile-only survey has older adults at 12% of the mobile frame, while they are 25% of the population. Which is the closest under-representation factor?",["About 2×","About 1×","About 0.5×","About 3×"],0,"25 ÷ 12 ≈ 2.1, so the closest factor is about 2×.","Divide population share by sampled-frame share."],
+[24,"Section B — Numerical sampling problems","Contact calculation","A survey needs 800 responses. If the response rate is 40%, how many people must be contacted?",["2,000","800","400","1,200"],0,"800 ÷ 0.40 = 2,000.","Divide desired responses by the response rate."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map(([sourceNumber,section,skill,question,answers,correct,explanation,hint])=>({id:`ac9m9st02-p-${String(sourceNumber).padStart(3,"0")}`,curriculumCode:"AC9M9ST02",bank:"practice",section,sourceNumber,skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation:`${explanation}\nHint: ${hint}`,structuredExplanation:{summary:explanation,hint},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
