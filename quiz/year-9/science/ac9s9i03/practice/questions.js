@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9i03-p-001",
-    "curriculumCode": "AC9S9I03",
-    "bank": "practice",
-    "skill": "use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units",
-      "A large data file means a large sample",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units\nHint: Use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units",
-      "hint": "Use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i03-p-002",
-    "curriculumCode": "AC9S9I03",
-    "bank": "practice",
-    "skill": "use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Calibration and zeroing are the same for every instrument",
-      "using data loggers and choosing correct scale and appropriate output representation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using data loggers and choosing correct scale and appropriate output representation\nHint: Use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using data loggers and choosing correct scale and appropriate output representation",
-      "hint": "Use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i03-p-003",
-    "curriculumCode": "AC9S9I03",
-    "bank": "practice",
-    "skill": "use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A large data file means a large sample",
-      "The method can be chosen without checking the values or conditions",
-      "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation\nHint: Use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the degree of accuracy that different instruments provide, such as a measuring cylinder compared with a pipette, and recording data values to the correct degree of precision using appropriate scientific notation",
-      "hint": "Use the degree of accuracy that different instruments provide to make the role of consistent technique visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i03-p-004",
-    "curriculumCode": "AC9S9I03",
-    "bank": "practice",
-    "skill": "use the replicability of data collected using different instruments to make the role of sample size visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the replicability of data collected using different instruments to make the role of sample size visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the replicability of data collected using different instruments to make the role of sample size visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Calibration and zeroing are the same for every instrument",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements"
-    ],
-    "correct": 3,
-    "explanation": "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements\nHint: Use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering the replicability of data collected using different instruments, including the inaccuracies that may be introduced when taking measurements",
-      "hint": "Use the replicability of data collected using different instruments, to make the role of sample size visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i03-p-005",
-    "curriculumCode": "AC9S9I03",
-    "bank": "practice",
-    "skill": "use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "discussing the amount of data needed to produce a useful sample size and why sample size is important",
-      "A large data file means a large sample",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "discussing the amount of data needed to produce a useful sample size and why sample size is important\nHint: Use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing the amount of data needed to produce a useful sample size and why sample size is important",
-      "hint": "Use the amount of data needed to produce a useful to make the role of replicable record visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i03-p-006",
-    "curriculumCode": "AC9S9I03",
-    "bank": "practice",
-    "skill": "use an appropriate sample size for the investigation and how to make the role of calibration visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use an appropriate sample size for the investigation and how to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use an appropriate sample size for the investigation and how to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Calibration and zeroing are the same for every instrument",
-      "considering an appropriate sample size for the investigation, and how the use of digital tools might enable more-efficient data collection for larger sample sizes",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "considering an appropriate sample size for the investigation, and how the use of digital tools might enable more-efficient data collection for larger sample sizes\nHint: Use an appropriate sample size for the investigation, and how to make the role of calibration visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering an appropriate sample size for the investigation, and how the use of digital tools might enable more-efficient data collection for larger sample sizes",
-      "hint": "Use an appropriate sample size for the investigation, and how to make the role of calibration visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i03-p-007",
-    "curriculumCode": "AC9S9I03",
-    "bank": "practice",
-    "skill": "use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A large data file means a large sample",
-      "The method can be chosen without checking the values or conditions",
-      "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units\nHint: Use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using an electronic balance that measures within the parameters of the required mass, and recording data to the correct number of significant figures using correct units",
-      "hint": "Use an electronic balance that measures within the parameters to make the role of calibration visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i03-p-008",
-    "curriculumCode": "AC9S9I03",
-    "bank": "practice",
-    "skill": "use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Calibration and zeroing are the same for every instrument",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using data loggers and choosing correct scale and appropriate output representation"
-    ],
-    "correct": 3,
-    "explanation": "using data loggers and choosing correct scale and appropriate output representation\nHint: Use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using data loggers and choosing correct scale and appropriate output representation",
-      "hint": "Use data loggers and choosing correct scale and appropriate output to make the role of range and resolution visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["significant figures","A balance displays 12.43 g. What is this value to 3 significant figures?",["12.4 g","12.43 g","12.5 g","12.0 g"],0,"12.43 rounded to 3 significant figures is 12.4 g because the next digit is 3.","Count significant digits from the first non-zero digit."],
+["mean","Three mass readings are 12.41 g, 12.44 g and 12.42 g. What is the mean?",["12.42 g","12.41 g","12.43 g","12.27 g"],0,"(12.41+12.44+12.42)/3 = 12.423... g, appropriately reported as 12.42 g.","Add and divide by 3."],
+["resolution","A digital balance changes in steps of 0.01 g. Which statement is best?",["Its display resolution is 0.01 g","Its accuracy must be ±0.01 g","Every reading is correct to exactly 0.01 g","Its systematic error is zero"],0,"Resolution is the smallest displayed increment. Accuracy and uncertainty require separate information or calibration.","Resolution ≠ accuracy."],
+["scientific notation","Convert 0.00456 kg to grams.",["4.56 g","0.456 g","45.6 g","456 g"],0,"0.00456 kg × 1000 = 4.56 g.","1 kg = 1000 g."],
+["recording precision","A balance displays to 0.01 g. Which recording best preserves the instrument's displayed precision for a reading of fifteen grams?",["15.00 g","15 g","15.0 kg","1500 g"],0,"If the balance displays hundredths of a gram, writing 15.00 g preserves that measurement resolution.","Record all displayed decimal places."],
+["significant figures","How many significant figures are in 0.250 g?",["3","2","1","4"],0,"Leading zeros are not significant, but the trailing zero after the decimal is significant: 2, 5, 0.","Leading zeros locate the decimal point."],
+["absolute error","A reference value is 10.00 g and a measured value is 9.80 g. What is the absolute difference?",["0.20 g","0.02 g","1.20 g","2.0 g"],0,"|9.80−10.00| = 0.20 g.","Absolute difference is positive."],
+["repeat measurements","Mass readings are 5.32 g, 5.31 g and 5.33 g. What mean should be reported?",["5.32 g","5.3 g","5.3200 g","5.31 g"],0,"The mean is 5.32 g, matching the hundredth-gram resolution of the readings.","Average, then report sensibly."],
+["scientific notation","Convert 3.45×10⁻³ kg to grams.",["3.45 g","0.345 g","34.5 g","345 g"],0,"Multiplying kilograms by 1000 gives 3.45 g.","10⁻³ kg equals 1 g."],
+["zeroing","Why should an electronic balance be tared/zeroed before measuring a sample?",["To remove an offset from the container or zero point so the sample mass is not systematically shifted","To make repeated readings automatically identical","To increase the number of significant figures","To eliminate all random variation"],0,"Taring corrects the starting reference and helps prevent a systematic offset in the recorded sample mass.","Think zero offset."],
+["sampling interval","A logger records one temperature reading every 30 s for 20 min, with the first reading taken at 30 s and the last at 20 min. How many readings are recorded?",["40","41","20","60"],0,"20 min = 1200 s; 1200/30 = 40 readings under the stated convention.","Convert minutes to seconds first."],
+["scale selection","Room temperature is expected to stay between 20°C and 25°C. Which display scale would usually show small changes most clearly while still covering the expected data?",["18–27°C","0–100°C","0–1000°C","22–23°C only"],0,"A scale just wider than the expected range uses the display effectively without clipping likely values.","Use a range that covers the data without being unnecessarily wide."],
+["mean","A logger records 22.1°C, 22.3°C, 22.2°C and 22.4°C. What is the mean?",["22.25°C","22.20°C","22.30°C","22.50°C"],0,"The total is 89.0°C; 89.0/4 = 22.25°C.","Average all four readings."],
+["scientific notation","Write 410 ppm in scientific notation.",["4.10×10² ppm","4.10×10³ ppm","0.410×10² ppm","41.0×10² ppm"],0,"410 = 4.10×10².","Scientific notation has one non-zero digit before the decimal."],
+["sampling duration","A logger samples every 5 s and records 360 readings, with the first reading at 5 s. How long did collection last?",["1800 s (30 min)","360 s (6 min)","72 min","18 min"],0,"360×5 s = 1800 s = 30 min.","Number of readings × interval."],
+["graph scale","Why is a non-uniform numerical scale on an axis potentially misleading?",["Equal visual distances can represent unequal numerical changes unless clearly designed and labelled","It always changes the raw data values","It prevents a mean being calculated","It increases instrument precision"],0,"Graphs rely on consistent mapping between distance and numerical difference; irregular scales can distort visual interpretation.","Check whether equal spacing means equal numerical change."],
+["rate","Light readings are 120, 140, 160 and 180 lx at equal time intervals. What is the change per interval?",["20 lx","15 lx","60 lx","180 lx"],0,"Each consecutive reading increases by 20 lx.","Subtract consecutive values."],
+["scale resolution","A light sensor display is set to 0–10,000 lx while readings cluster near 200 lx. Why might a narrower suitable range be better?",["It may provide clearer visual discrimination of small changes near 200 lx","It guarantees greater physical accuracy","It removes the need for calibration","It increases the actual light level"],0,"A suitable display or measurement range can make small differences easier to resolve, though it does not automatically improve accuracy.","Range choice affects readability/resolution, not truth by itself."],
+["mean","Sound level readings are 65 dB, 68 dB and 70 dB. What is their arithmetic mean?",["67.7 dB","67.0 dB","68.0 dB","69.0 dB"],0,"(65+68+70)/3 = 67.67 dB, about 67.7 dB.","This question asks for the arithmetic mean of the recorded numbers."],
+["sampling","A logger records one reading each minute for 2 hours, with the first reading after 1 minute. How many readings are collected?",["120","121","60","200"],0,"2 h = 120 min, so one reading per minute gives 120 readings under the stated convention.","Convert hours to minutes."],
+["uncertainty notation","A measuring cylinder reading is 25 mL with an estimated measurement uncertainty of ±1 mL. Which report is appropriate?",["25 ± 1 mL","25 ± 0.01 mL","25 mL exactly","24–25 mL only"],0,"The measured value should be paired with the stated uncertainty: 25 ± 1 mL.","Report value and uncertainty together."],
+["conversion","Convert 0.000250 L to millilitres.",["0.250 mL","2.50 mL","25.0 mL","250 mL"],0,"0.000250 L × 1000 = 0.250 mL.","Litres to mL: multiply by 1000."],
+["percentage uncertainty","A 50 mL reading has an estimated uncertainty of ±1 mL. What is the percentage uncertainty?",["2%","1%","5%","50%"],0,"(1/50)×100 = 2%.","Uncertainty ÷ measured value × 100."],
+["replicate means","Student A obtains reaction times 0.42, 0.39, 0.41 s. Student B obtains 0.43, 0.40, 0.41 s. Which comparison is best?",["The means are about 0.407 s and 0.413 s, so the results are close and support replicability, though variation remains","The means are exactly identical","The data prove the method is perfectly accurate","The second dataset is invalid because one reading differs"],0,"A's mean is 0.4067 s and B's is 0.4133 s. Similar results support replicability, but do not prove accuracy or perfection.","Compare central values and spread, not exact identity." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9i03-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9I03",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
