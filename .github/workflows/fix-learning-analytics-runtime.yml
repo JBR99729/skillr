@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '.github/workflows/fix-learning-analytics-runtime.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
