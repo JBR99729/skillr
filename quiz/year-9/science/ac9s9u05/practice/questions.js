@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9u05-p-001",
-    "curriculumCode": "AC9S9U05",
-    "bank": "practice",
-    "skill": "use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system",
-      "Inefficient systems destroy energy",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system\nHint: Use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system",
-      "hint": "Use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u05-p-002",
-    "curriculumCode": "AC9S9U05",
-    "bank": "practice",
-    "skill": "use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Efficiency can exceed 100%",
-      "explaining efficiency and recognising that in energy transfer and transformation a variety of processes can occur, so that the amount of usable energy is reduced and the system is not 100% efficient",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "explaining efficiency and recognising that in energy transfer and transformation a variety of processes can occur, so that the amount of usable energy is reduced and the system is not 100% efficient\nHint: Use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "explaining efficiency and recognising that in energy transfer and transformation a variety of processes can occur, so that the amount of usable energy is reduced and the system is not 100% efficient",
-      "hint": "Use efficiency and recognising that in energy transfer and transformation to make the role of input visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u05-p-003",
-    "curriculumCode": "AC9S9U05",
-    "bank": "practice",
-    "skill": "use critiquing representations to make the role of useful output visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use critiquing representations to make the role of useful output visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use critiquing representations to make the role of useful output visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Inefficient systems destroy energy",
-      "The method can be chosen without checking the values or conditions",
-      "using and critiquing representations such as Sankey diagrams to show energy inputs, changes and outputs in a system",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using and critiquing representations such as Sankey diagrams to show energy inputs, changes and outputs in a system\nHint: Use critiquing representations to make the role of useful output visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using and critiquing representations such as Sankey diagrams to show energy inputs, changes and outputs in a system",
-      "hint": "Use critiquing representations to make the role of useful output visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u05-p-004",
-    "curriculumCode": "AC9S9U05",
-    "bank": "practice",
-    "skill": "use the efficiency of ground ovens used by first nations to make the role of dissipated output visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the efficiency of ground ovens used by first nations to make the role of dissipated output visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the efficiency of ground ovens used by first nations to make the role of dissipated output visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Efficiency can exceed 100%",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating the efficiency of ground ovens used by First Nations Australians"
-    ],
-    "correct": 3,
-    "explanation": "investigating the efficiency of ground ovens used by First Nations Australians\nHint: Use the efficiency of ground ovens used by First Nations to make the role of dissipated output visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating the efficiency of ground ovens used by First Nations Australians",
-      "hint": "Use the efficiency of ground ovens used by First Nations to make the role of dissipated output visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u05-p-005",
-    "curriculumCode": "AC9S9U05",
-    "bank": "practice",
-    "skill": "use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "comparing the efficiency of electricity generation from coal and other sources such as nuclear, hydroelectricity, gas, solar and wind",
-      "Inefficient systems destroy energy",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "comparing the efficiency of electricity generation from coal and other sources such as nuclear, hydroelectricity, gas, solar and wind\nHint: Use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "comparing the efficiency of electricity generation from coal and other sources such as nuclear, hydroelectricity, gas, solar and wind",
-      "hint": "Use the efficiency of electricity generation from coal and other to make the role of efficiency visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u05-p-006",
-    "curriculumCode": "AC9S9U05",
-    "bank": "practice",
-    "skill": "use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Efficiency can exceed 100%",
-      "examining the meaning of energy star ratings given to appliances such as refrigerators and washing machines and criteria used to determine these ratings",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "examining the meaning of energy star ratings given to appliances such as refrigerators and washing machines and criteria used to determine these ratings\nHint: Use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the meaning of energy star ratings given to appliances such as refrigerators and washing machines and criteria used to determine these ratings",
-      "hint": "Use the meaning of energy star ratings given to appliances to make the role of system boundary visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u05-p-007",
-    "curriculumCode": "AC9S9U05",
-    "bank": "practice",
-    "skill": "use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Inefficient systems destroy energy",
-      "The method can be chosen without checking the values or conditions",
-      "examining how improving efficiency in energy transfer and transformations in sporting activities such as pole vaulting or archery improves athletic performance",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining how improving efficiency in energy transfer and transformations in sporting activities such as pole vaulting or archery improves athletic performance\nHint: Use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how improving efficiency in energy transfer and transformations in sporting activities such as pole vaulting or archery improves athletic performance",
-      "hint": "Use how improving efficiency in energy transfer and transformations to make the role of input visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u05-p-008",
-    "curriculumCode": "AC9S9U05",
-    "bank": "practice",
-    "skill": "use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Efficiency can exceed 100%",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system"
-    ],
-    "correct": 3,
-    "explanation": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system\nHint: Use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "explaining that the law of conservation of energy explains that total energy is maintained in energy transfer and transformation in a system",
-      "hint": "Use the law of conservation of energy explains that total to make the role of system boundary visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["conservation","A device receives 500 J and transfers 350 J to the intended useful output. How much energy is transferred to other, less useful outputs?",["150 J","350 J","500 J","850 J"],0,"By conservation of energy, total output equals input: 500 − 350 = 150 J.","Input = useful + other outputs."],
+["conservation","A motor receives 800 J and transfers 160 J as unwanted thermal and sound energy. What is its useful output?",["640 J","160 J","800 J","960 J"],0,"Useful output = 800 − 160 = 640 J.","Subtract unwanted outputs from input."],
+["efficiency","A lamp receives 500 J and produces 400 J of useful light. What is its efficiency?",["80%","20%","40%","125%"],0,"Efficiency = useful/input × 100 = 400/500 × 100 = 80%.","Useful ÷ input × 100."],
+["efficiency","A device receives 1200 J and transfers 300 J to unwanted outputs. What is its efficiency?",["75%","25%","90%","50%"],0,"Useful output = 900 J, so efficiency = 900/1200 × 100 = 75%.","Find useful energy first."],
+["percentage waste","A machine receives 900 J and 180 J is transferred to unwanted outputs. What percentage is not useful?",["20%","80%","18%","25%"],0,"180/900 × 100 = 20%.","Unwanted ÷ input × 100."],
+["efficiency","A solar panel receives 1000 J of solar energy and produces 180 J of electrical energy. What is its energy-conversion efficiency for this process?",["18%","82%","55.6%","180%"],0,"Efficiency = 180/1000 × 100 = 18%.","Output of interest ÷ input."],
+["sankey","A Sankey diagram has an input arrow representing 600 J, a useful branch of 420 J and another branch of 180 J. What efficiency does it represent?",["70%","30%","60%","42%"],0,"420/600 × 100 = 70%.","Use the useful branch."],
+["sankey conservation","A Sankey diagram shows 1000 J input, 720 J useful output and 190 J unwanted output. What is wrong?",["The displayed outputs account for only 910 J, so 90 J is missing from the energy accounting","The efficiency is above 100%","Useful energy cannot exceed unwanted energy","A Sankey diagram cannot use joules"],0,"For a complete system boundary, output transfers should account for the full 1000 J input.","Check whether outputs add to input."],
+["useful output","Whether an energy transfer is 'useful' depends mainly on:",["The purpose of the system","Whether the energy is thermal","Whether the input is renewable","The colour of the device"],0,"Useful energy is the energy transferred in the form and pathway intended for the system's purpose.","Useful is purpose-dependent."],
+["heater","An electric room heater converts almost all its electrical input to thermal energy in the room. Why can that be considered highly efficient for heating?",["Thermal energy delivered to the room is the intended output","Heat is never an energy transfer","Electrical energy is destroyed","All heaters must be 100% efficient in every sense"],0,"For a heater, heating the room is the intended energy transfer; 'useful' depends on function.","Define the desired output first."],
+["comparison","Device A is 80% efficient and receives 500 J. Device B is 60% efficient and receives 700 J. Which produces more useful energy?",["Device A: 400 J","Device B: 420 J","They are equal at 400 J","Cannot be calculated"],1,"A produces 0.80×500=400 J; B produces 0.60×700=420 J.","Efficiency alone does not determine total useful output."],
+["input from efficiency","A machine is 75% efficient and delivers 600 J of useful output. What input energy is required?",["800 J","450 J","675 J","2400 J"],0,"0.75 × input = 600, so input = 600/0.75 = 800 J.","Rearrange efficiency = useful/input."],
+["improvement","A motor's efficiency rises from 60% to 75% while its input remains 1000 J. How much extra useful energy is produced?",["150 J","15 J","250 J","750 J"],0,"Useful output rises from 600 J to 750 J, an increase of 150 J.","Compare useful outputs before and after."],
+["energy saving","A 4-star fridge uses 180 kWh per year while a comparable 2-star model uses 260 kWh. How much electrical energy is saved per year?",["80 kWh","40 kWh","144 kWh","31% kWh"],0,"260 − 180 = 80 kWh.","Subtract annual energy use."],
+["energy saving percent","Using 180 kWh instead of 260 kWh saves approximately what percentage relative to the 260 kWh appliance?",["31%","44%","69%","80%"],0,"Saving = 80/260 × 100 ≈ 30.8%, or about 31%.","Use the original energy use as the denominator."],
+["power efficiency","A power station receives energy at 1000 MW and delivers electrical power at 350 MW at steady operation. What conversion efficiency is implied?",["35%","65%","350%","28.6%"],0,"When input and output are both power rates over the same interval, efficiency = 350/1000 × 100 = 35%.","A power ratio can represent efficiency at steady state."],
+["hydro","A hydroelectric system receives 1000 units of mechanical energy per second and delivers 900 units of electrical energy per second. What is the efficiency?",["90%","10%","111%","900%"],0,"900/1000 × 100 = 90%.","Useful output rate ÷ input rate."],
+["sport","A pole vaulter has 3000 J of kinetic energy before the pole bends and later gains 2400 J of gravitational potential energy. What fraction of the original kinetic energy appears as gravitational potential energy?",["80%","20%","125%","60%"],0,"2400/3000 ×100 = 80%.","Compare the named output store with the initial store."],
+["sport conservation","A student says the remaining 600 J in the pole-vault example 'disappeared'. What is the best correction?",["It was transferred to other stores and surroundings, such as elastic, thermal, sound or remaining motion","It was destroyed because efficiency was below 100%","It became mass","Energy conservation does not apply to sport"],0,"Energy is conserved even when not all of it ends in the chosen useful store.","Inefficiency means redistribution, not destruction."],
+["archer","An archer transfers 120 J from chemical energy in muscles and 90 J becomes kinetic energy of the arrow. What is the efficiency for this transfer?",["75%","25%","133%","30%"],0,"90/120 ×100 = 75%.","Useful arrow kinetic energy ÷ input."],
+["cyclist","A cyclist transfers 600 J of chemical energy and 400 J appears as useful mechanical energy. Approximately what percentage is transferred to other pathways?",["33%","67%","40%","25%"],0,"Other pathways = 200 J, and 200/600 ×100 ≈33.3%.","Non-useful fraction = 100% − efficiency."],
+["sankey width","In a correctly scaled Sankey diagram, why is a 300 J branch three times as wide as a 100 J branch?",["Arrow width is proportional to the amount of energy transferred","Longer arrows always mean more energy","Every branch must have a different colour","The diagram is showing time, not energy"],0,"A Sankey diagram encodes energy amount using arrow width.","Width carries the quantity."],
+["system boundary","Why must the system boundary be stated when analysing efficiency?",["It determines which energy transfers are counted as entering, leaving or occurring within the system","It changes the law of conservation of energy","It guarantees a higher efficiency","It prevents thermal energy from forming"],0,"Different boundaries can change what is classified as input, useful output or transfer to surroundings.","Define what is inside the system."],
+["efficiency limit","For an ordinary energy-conversion device with all inputs and outputs correctly accounted for, which efficiency is physically impossible?",["115%","95%","70%","18%"],0,"Useful output cannot exceed total input energy; an efficiency above 100% indicates an accounting or measurement problem.","Conservation constrains efficiency to at most 100%." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9u05-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9U05",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
