@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10i06-p-001",
-    "curriculumCode": "AC9S10I06",
-    "bank": "practice",
-    "skill": "use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "evaluating the strength of a conclusion that can be inferred from a particular data set",
-      "Random error means a careless person made a mistake",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "evaluating the strength of a conclusion that can be inferred from a particular data set\nHint: Use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "evaluating the strength of a conclusion that can be inferred from a particular data set",
-      "hint": "Use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i06-p-002",
-    "curriculumCode": "AC9S10I06",
-    "bank": "practice",
-    "skill": "use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reproducible results prove the explanation",
-      "distinguishing between random and systematic errors and how these can affect investigation results",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "distinguishing between random and systematic errors and how these can affect investigation results\nHint: Use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "distinguishing between random and systematic errors and how these can affect investigation results",
-      "hint": "Use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i06-p-003",
-    "curriculumCode": "AC9S10I06",
-    "bank": "practice",
-    "skill": "use judging the validity of science related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use judging the validity of science related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use judging the validity of science related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Random error means a careless person made a mistake",
-      "The method can be chosen without checking the values or conditions",
-      "judging the validity of science-related media reports and how these reports might be interpreted by the public",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "judging the validity of science-related media reports and how these reports might be interpreted by the public\nHint: Use judging the validity of science-related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "judging the validity of science-related media reports and how these reports might be interpreted by the public",
-      "hint": "Use judging the validity of science-related media reports and how to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i06-p-004",
-    "curriculumCode": "AC9S10I06",
-    "bank": "practice",
-    "skill": "use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reproducible results prove the explanation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "identifying assumptions in methods then examining if further testing or extra variable control is needed"
-    ],
-    "correct": 3,
-    "explanation": "identifying assumptions in methods then examining if further testing or extra variable control is needed\nHint: Use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying assumptions in methods then examining if further testing or extra variable control is needed",
-      "hint": "Use assumptions in methods then examining if further testing to make the role of assumption visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i06-p-005",
-    "curriculumCode": "AC9S10I06",
-    "bank": "practice",
-    "skill": "use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "considering how data variation can indicate uncertainty and might affect confidence in conclusions reached and claims made",
-      "Random error means a careless person made a mistake",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "considering how data variation can indicate uncertainty and might affect confidence in conclusions reached and claims made\nHint: Use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering how data variation can indicate uncertainty and might affect confidence in conclusions reached and claims made",
-      "hint": "Use how data variation can indicate uncertainty and might affect to make the role of claim confidence visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i06-p-006",
-    "curriculumCode": "AC9S10I06",
-    "bank": "practice",
-    "skill": "use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reproducible results prove the explanation",
-      "analysing conclusions and claims to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "analysing conclusions and claims to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions\nHint: Use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing conclusions and claims to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
-      "hint": "Use conclusions and claims to identify facts or premises that to make the role of method validity visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i06-p-007",
-    "curriculumCode": "AC9S10I06",
-    "bank": "practice",
-    "skill": "use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Random error means a careless person made a mistake",
-      "The method can be chosen without checking the values or conditions",
-      "evaluating the strength of a conclusion that can be inferred from a particular data set",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "evaluating the strength of a conclusion that can be inferred from a particular data set\nHint: Use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "evaluating the strength of a conclusion that can be inferred from a particular data set",
-      "hint": "Use the strength of a conclusion that can be inferred to make the role of method validity visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i06-p-008",
-    "curriculumCode": "AC9S10I06",
-    "bank": "practice",
-    "skill": "use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reproducible results prove the explanation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "distinguishing between random and systematic errors and how these can affect investigation results"
-    ],
-    "correct": 3,
-    "explanation": "distinguishing between random and systematic errors and how these can affect investigation results\nHint: Use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "distinguishing between random and systematic errors and how these can affect investigation results",
-      "hint": "Use distinguishing between random and systematic errors and how these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["uncertainty","A dataset shows a weak positive trend with many points far from the trend. What is the strongest conclusion?",["The data suggest a possible positive relationship, but uncertainty is substantial","A strong causal relationship has been proven","There is definitely no relationship","The unusual points should all be deleted"],0,"A weak trend with substantial scatter provides limited evidence for a relationship and warrants cautious conclusions.","Match claim strength to evidence strength."],
+["random variation","Five repeats give slightly different values with no consistent direction of difference. What does this most directly suggest?",["Random variation is present","A fixed calibration bias is proven","The method is invalid","The hypothesis is false"],0,"Unpredictable variation among repeats is characteristic of random error or natural variability.","Random errors vary in direction."],
+["systematic error","A balance consistently reads 0.05 g above reference masses. What is the main problem?",["Systematic measurement error","Random sampling error","No error because the offset is small","Conflicting evidence"],0,"A consistent directional offset from reference values is systematic bias.","Consistent offset = systematic."],
+["assumptions","A method assumes temperature remains constant but temperature is never measured or controlled. What is the best evaluation?",["The assumption is unverified and could threaten validity if temperature affects the outcome","The assumption is automatically valid","This creates only random error","Temperature can be ignored because it was not the independent variable"],0,"Relevant assumptions should be checked or controlled because they can introduce confounding.","Unmeasured relevant variables can weaken validity."],
+["variation","Measurements vary widely around their mean. What should a student do before making a strong conclusion?",["Consider the spread, uncertainty and possible causes of variation","Use only the mean and ignore the spread","Delete the lowest and highest values automatically","State that the mean is the true value"],0,"A central value alone can hide large variability; conclusions should account for spread and uncertainty.","Centre + spread."],
+["inconsistent evidence","A catalyst produces shorter reaction times in 6 of 10 matched trials but not in 4. What conclusion is most defensible?",["The results suggest a possible effect, but the inconsistency and effect size need further analysis","The catalyst always works","The catalyst has no effect","The four trials should be removed"],0,"Mixed results warrant cautious evaluation rather than an absolute claim.","Mixed evidence → qualified conclusion."],
+["generalisation","A filter removes 99% of one tested pollutant. Which claim exceeds the evidence?",["The filter removes 99% of all pollutants","The filter was effective for the tested pollutant under the tested conditions","Further pollutants should be tested","The result has a defined scope"],0,"Evidence from one pollutant cannot automatically be generalised to chemically different pollutants.","Do not generalise beyond tested conditions."],
+["sample scope","A study of 12 volunteers is used to claim an effect for all Australians. What is the strongest criticism?",["The small volunteer sample may not represent the target population","Any study with fewer than 100 people is invalid","Volunteers can never be studied scientifically","Population claims never require samples"],0,"Both sample size and representativeness affect how confidently results can be generalised.","Ask who was sampled and how many."],
+["correlation","A study finds two variables are correlated and concludes one caused the other. What is missing?",["Evidence that addresses alternative explanations and supports a causal mechanism or design","A more dramatic graph","A larger headline","Proof that the correlation is positive"],0,"Correlation alone does not establish causation; confounders and causal evidence must be considered.","Association ≠ causation."],
+["calibration assumption","Equipment is assumed to be calibrated, but no calibration check was performed. Why does this matter?",["An undetected systematic bias could affect every measurement","Repeating measurements will guarantee accuracy","Calibration affects only graph appearance","It matters only if results disagree with the hypothesis"],0,"Unverified calibration can allow a systematic offset to persist through all readings.","Repeats do not fix calibration bias."],
+["method consistency","A student uses different measuring instruments with different resolutions across trials. What is the main concern?",["Differences in measurement performance can add uncertainty and reduce comparability","The experiment automatically becomes more accurate","Different tools guarantee independent evidence","Resolution has no effect on measurement"],0,"Changing measurement systems can introduce additional variation or bias and complicate comparison.","Keep measurement conditions comparable."],
+["single trial","Why is one trial usually weak evidence for reproducibility?",["It provides no repeated evidence about variation or whether the result can be obtained again","One trial is always inaccurate","A single trial cannot contain numerical data","Reproducibility requires the hypothesis to be true"],0,"Reproducibility concerns whether comparable results can be obtained again; one observation cannot assess this.","One result gives no repeatability information."],
+["similar repeats","Repeated trials under the same method give closely similar values. What does this support most directly?",["Good repeatability/precision under those conditions","Perfect accuracy","Absence of systematic error","Universal validity of the conclusion"],0,"Similar repeats indicate low random variation, but they do not prove accuracy or validity.","Consistent can still be consistently wrong."],
+["volunteer bias","A health study recruits only people who respond to an online advertisement. What should be checked before generalising?",["Whether volunteers differ systematically from the wider target population","Whether the advertisement used a graph","Whether every participant has identical results","Whether the study found a positive result"],0,"Self-selection can produce a sample that differs from the population of interest.","Selection method can create bias."],
+["confounders","A conclusion assumes no external factors influenced the outcome. What should researchers do?",["Identify plausible confounders and control, measure or account for them where possible","Assume external factors cancel out","Remove any data that suggest another factor","State that controls are unnecessary"],0,"Validity improves when plausible alternative influences are considered rather than assumed absent.","Look for alternative explanations."],
+["purity assumption","A reaction method assumes all reagents are pure. What is the best response?",["Verify purity specifications or assess how impurities could affect the results","Assume laboratory chemicals are always pure","Repeat the experiment without checking purity","Delete results that differ from theory"],0,"Reagent purity is an assumption that can influence quantities and reaction behaviour.","Relevant assumptions need evidence."],
+["data subsets","A full dataset shows little trend, but two subgroups show opposite strong trends. What should happen next?",["Investigate why the groups differ and whether the grouping variable is scientifically relevant","Choose the subgroup that supports the preferred claim","Average all values and ignore subgroup structure","Conclude both trends prove causation"],0,"Conflicting subgroup patterns can reveal confounding, population differences or inappropriate aggregation.","Conflicts can be informative."],
+["claim evidence","A student says a method is valid because the results 'look right'. What is missing?",["Evidence that the design measures the intended relationship and controls relevant alternatives","A colourful graph","A larger font","Agreement with the student's prediction"],0,"Validity depends on design and evidence, not whether results match expectations.","Expected-looking results do not validate a method."],
+["scope","A treatment improves outcomes in most cases but several participants do not improve. Which claim is justified?",["The treatment may improve outcomes for many participants, but the effect is not universal","The treatment works for everyone","The treatment has no effect","Non-responders should be excluded automatically"],0,"Evidence with exceptions supports a qualified claim, not a universal one.","Avoid 'always' when evidence shows exceptions."],
+["conflicting labs","Several laboratories report different results for the same claimed effect. What should be assessed?",["Differences in methods, samples, measurement quality and reproducibility across labs","Only which lab published first","Which result is most popular","Whether all graphs use the same colour"],0,"Cross-lab disagreement should trigger comparison of methods and conditions rather than arbitrary selection.","Investigate methodological sources of conflict."],
+["untested assumption","A conclusion depends strongly on an assumption that has never been checked. What is the best next step?",["Test the assumption or redesign the study so the conclusion does not depend on it","Treat the assumption as fact","Increase the number of decimal places","Ignore it if the conclusion sounds reasonable"],0,"Critical assumptions should be tested or explicitly addressed because they determine whether reasoning is valid.","Challenge assumptions that carry the conclusion."],
+["media claims","A headline says a study 'proves' a surprising effect. What should a reader examine first?",["The original study's design, sample, results, limitations and actual wording of its conclusions","How many times the headline was shared","Whether the effect sounds interesting","Whether the journalist agrees with the researchers"],0,"Evaluating the primary evidence is more reliable than judging a scientific claim from headline wording.","Go back to the evidence."],
+["media scope","A news article omits all limitations reported by the researchers. Why is this important?",["Readers may infer a broader or more certain conclusion than the evidence supports","Limitations are never scientifically relevant","Removing limitations improves validity","Only negative studies need limitations"],0,"Limitations define uncertainty and scope; omitting them can misrepresent evidence strength.","Scope depends on limitations."],
+["claim comparison","Which statement best reflects scientific evaluation?",["A conclusion should be proportional to the quality, consistency and scope of the supporting evidence","Any statistically noticeable pattern proves a claim","One conflicting result always invalidates a method","Repeated agreement guarantees no bias"],0,"Scientific claims should reflect evidence quality and uncertainty rather than absolute proof language.","Evidence strength controls claim strength."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s10i06-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10I06",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
