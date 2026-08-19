@@ -1,237 +1,46 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9m8a03-t-001",
-    "curriculumCode": "AC9M8A03",
-    "bank": "test",
-    "skill": "model situations involving linear functions including practical contexts such as taxi fares involving flag fall fees motion in a straight line at a constant speed",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed?",
-    "audioPrompt": "Which response correctly uses model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range",
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range\nHint: Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed.",
-    "structuredExplanation": {
-      "summary": "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range",
-      "hint": "Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a03-t-002",
-    "curriculumCode": "AC9M8A03",
-    "bank": "test",
-    "skill": "model problems in practical situations and interpreting solutions within the context of the problem including giving attention to all units of measure and whether results are suitable",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable?",
-    "audioPrompt": "Which response correctly uses model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it\nHint: Model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable.",
-    "structuredExplanation": {
-      "summary": "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it",
-      "hint": "Model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a03-t-003",
-    "curriculumCode": "AC9M8A03",
-    "bank": "test",
-    "skill": "model financial problems involving pay rates using a table of values to represent the pay amounts and hours worked using an hourly rate of pay",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay?",
-    "audioPrompt": "Which response correctly uses model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The modelling with linear relations model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences\nHint: Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay.",
-    "structuredExplanation": {
-      "summary": "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences",
-      "hint": "Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a03-t-004",
-    "curriculumCode": "AC9M8A03",
-    "bank": "test",
-    "skill": "model patterns on country place and exploring their connections and meaning to linear equations using the model as a predictive tool and critiquing results by connecting back to country place",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses model patterns on country/place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to country/place?",
-    "audioPrompt": "Which response correctly uses model patterns on country/place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to country/place?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place"
-    ],
-    "correct": 3,
-    "explanation": "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place\nHint: Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place.",
-    "structuredExplanation": {
-      "summary": "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place",
-      "hint": "Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a03-t-005",
-    "curriculumCode": "AC9M8A03",
-    "bank": "test",
-    "skill": "model situations involving linear functions including practical contexts such as taxi fares involving flag fall fees motion in a straight line at a constant speed",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving model situations involving linear functions including practical contexts such as taxi fares involving flag fall fees motion in a straight line at a constant speed. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving model situations involving linear functions including practical contexts such as taxi fares involving flag fall fees motion in a straight line at a constant speed. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range",
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range\nHint: Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed.",
-    "structuredExplanation": {
-      "summary": "modelling situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed, trade quotes involving call out fees, cooking that includes resting or cooling times, or water leakage from water tanks, interpreting the constant rate of change and initial value in context, and identifying when values of a model lie within a given range",
-      "hint": "Model situations involving linear functions, including practical contexts such as taxi fares involving flag fall fees, motion in a straight line at a constant speed."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a03-t-006",
-    "curriculumCode": "AC9M8A03",
-    "bank": "test",
-    "skill": "model problems in practical situations and interpreting solutions within the context of the problem including giving attention to all units of measure and whether results are suitable",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving model problems in practical situations and interpreting solutions within the context of the problem including giving attention to all units of measure and whether results are suitable. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving model problems in practical situations and interpreting solutions within the context of the problem including giving attention to all units of measure and whether results are suitable. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The modelling with linear relations model is copied without interpretation",
-      "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it\nHint: Model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable.",
-    "structuredExplanation": {
-      "summary": "modelling problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable; for example, once a water tank is empty no more water can flow from it",
-      "hint": "Model problems in practical situations and interpreting solutions within the context of the problem, including giving attention to all units of measure and whether results are suitable."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a03-t-007",
-    "curriculumCode": "AC9M8A03",
-    "bank": "test",
-    "skill": "model financial problems involving pay rates using a table of values to represent the pay amounts and hours worked using an hourly rate of pay",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving model financial problems involving pay rates using a table of values to represent the pay amounts and hours worked using an hourly rate of pay. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving model financial problems involving pay rates using a table of values to represent the pay amounts and hours worked using an hourly rate of pay. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences\nHint: Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay.",
-    "structuredExplanation": {
-      "summary": "modelling financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay, and graphing the relationship to make inferences",
-      "hint": "Model financial problems involving pay rates, using a table of values to represent the pay amounts and hours worked using an hourly rate of pay."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8a03-t-008",
-    "curriculumCode": "AC9M8A03",
-    "bank": "test",
-    "skill": "model patterns on country place and exploring their connections and meaning to linear equations using the model as a predictive tool and critiquing results by connecting back to country place",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving model patterns on country place and exploring their connections and meaning to linear equations using the model as a predictive tool and critiquing results by connecting back to country place. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving model patterns on country place and exploring their connections and meaning to linear equations using the model as a predictive tool and critiquing results by connecting back to country place. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place"
-    ],
-    "correct": 3,
-    "explanation": "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place\nHint: Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place.",
-    "structuredExplanation": {
-      "summary": "modelling patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place",
-      "hint": "Model patterns on Country/Place and exploring their connections and meaning to linear equations, using the model as a predictive tool and critiquing results by connecting back to Country/Place."
-    },
-    "qualitySchema": "production-v1"
-  }
+const AC9M8A03_TEST_VISUALS = {
+  pay: "<svg viewBox='0 0 320 130' role='img' aria-label='Pay equals rate times hours'><rect x='28' y='24' width='264' height='78' rx='10' fill='none' stroke='currentColor'/><text x='52' y='58' font-size='17'>Pay = hourly rate × hours</text><text x='82' y='86' font-size='15'>P = rh</text></svg>",
+  linear: "<svg viewBox='0 0 320 150' role='img' aria-label='Linear relationship straight line'><line x1='35' y1='120' x2='290' y2='120' stroke='currentColor'/><line x1='35' y1='120' x2='35' y2='20' stroke='currentColor'/><path d='M48 108 L276 40' fill='none' stroke='currentColor' stroke-width='3'/><text x='178' y='32' font-size='14'>same increase each step</text></svg>",
+  decrease: "<svg viewBox='0 0 320 150' role='img' aria-label='Linear decrease'><line x1='35' y1='120' x2='290' y2='120' stroke='currentColor'/><line x1='35' y1='120' x2='35' y2='20' stroke='currentColor'/><path d='M48 42 L276 108' fill='none' stroke='currentColor' stroke-width='3'/><text x='164' y='42' font-size='14'>constant decrease</text></svg>"
+};
+const AC9M8A03_TEST_RAW = [
+  {q:"Hourly rate = $40 and hours = 3. What is the pay?",a:["$80","$100","$120","$160"],c:2,s:"Calculate pay from rate and hours",h:"40 × 3 = 120.",v:"pay"},
+  {q:"Hourly rate = $15 and hours = 12. What is the pay?",a:["$150","$160","$170","$180"],c:3,s:"Calculate pay from a linear model",h:"15 × 12 = 180.",v:"pay"},
+  {q:"Hourly rate = $50 and hours = 2. What is the pay?",a:["$50","$100","$150","$200"],c:1,s:"Use multiplication in a financial model",h:"50 × 2 = 100."},
+  {q:"Hourly rate = $28 and hours = 5. What is the pay?",a:["$100","$120","$140","$150"],c:2,s:"Use a pay-rate model",h:"28 × 5 = 140."},
+  {q:"Hourly rate = $12 and hours = 8. What is the pay?",a:["$96","$100","$120","$140"],c:0,s:"Calculate total pay",h:"12 × 8 = 96."},
+  {q:"Hourly rate = $35 and hours = 9. What is the pay?",a:["$270","$300","$315","$350"],c:2,s:"Calculate total pay from a rate",h:"35 × 9 = 315."},
+  {q:"A pattern increases by 4 units each step. What kind of relationship is this?",a:["Linear","Non-linear"],c:0,s:"Identify a constant-rate pattern as linear",h:"Adding the same amount each step is linear.",v:"linear"},
+  {q:"A textile pattern grows by 3 cm per row. Which model gives length L after r rows?",a:["L = 3r","L = r + 3","L = 3 + r","L = 3 − r"],c:0,s:"Write a linear model from a constant rate",h:"3 centimetres per row means multiply the row number by 3.",v:"linear"},
+  {q:"A walking track increases elevation by 10 m per kilometre. Which model gives elevation gain E after k kilometres?",a:["E = 10k","E = k + 10","E = 10 − k","E = 10k + 1"],c:0,s:"Model elevation gain with a constant rate",h:"10 metres per kilometre means E = 10k."},
+  {q:"A seasonal pattern increases temperature by 2°C per week. What is the change after 4 weeks?",a:["+4°C","+6°C","+8°C","+10°C"],c:2,s:"Calculate a repeated linear increase",h:"2 × 4 = 8."},
+  {q:"A river flow decreases by 5 L/min. What is the change after 6 minutes?",a:["−10 L","−20 L","−25 L","−30 L"],c:3,s:"Calculate a repeated linear decrease",h:"−5 × 6 = −30.",v:"decrease"},
+  {q:"A pattern grows by 7 units per stage. How many units are added by stage 5 if the model starts at 0?",a:["25","30","35","40"],c:2,s:"Use a linear stage model",h:"7 × 5 = 35."},
+  {q:"A plant height increases by 1.5 cm/day. What is the increase after 10 days?",a:["10 cm","12 cm","15 cm","20 cm"],c:2,s:"Use a decimal rate in a linear model",h:"1.5 × 10 = 15."},
+  {q:"A dune shifts 3 m/year. What is the shift after 8 years?",a:["16 m","20 m","24 m","30 m"],c:2,s:"Use a yearly rate model",h:"3 × 8 = 24."},
+  {q:"A carving pattern adds 2 symbols per layer. How many symbols are added by layer 12 if the model starts at 0?",a:["20","22","24","26"],c:2,s:"Calculate a linear pattern value",h:"2 × 12 = 24."},
+  {q:"A seasonal rainfall pattern decreases by 4 mm/month. What is the change after 9 months?",a:["−20 mm","−30 mm","−36 mm","−40 mm"],c:2,s:"Calculate a constant monthly decrease",h:"−4 × 9 = −36.",v:"decrease"}
 ];
+window.skillrTestQuestions = AC9M8A03_TEST_RAW.map((q, i) => ({
+  id: `ac9m8a03-t-${String(i + 1).padStart(3, "0")}`,
+  curriculumCode: "AC9M8A03",
+  bank: "test",
+  section: "Linear modelling in context",
+  sourceNumber: i + 25,
+  skill: q.s,
+  printable: true,
+  type: "single",
+  question: q.q,
+  audioPrompt: q.q,
+  visual: "",
+  visualHtml: q.v ? AC9M8A03_TEST_VISUALS[q.v] : "",
+  visualMeta: q.v ? { type: "svg", alt_text: q.s } : { type: "none", alt_text: "" },
+  answers: q.a,
+  correct: q.c,
+  explanation: q.h,
+  structuredExplanation: { summary: q.h, hint: q.h },
+  qualitySchema: "production-v1"
+}));
 window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;
