@@ -49,4 +49,38 @@
   target.push(...gifted.filter(q => !existing.has(q.id)));
   if (mode === "test") window.skillrExamQuestions = target;
   window.quizQuestions = target;
+
+  // YEAR10_MATH_WRAPPER_SYNC_V1
+  // The authored banks are the source of truth. Older generated wrappers must never
+  // cap or advertise a stale legacy bank size after the reviewed gifted layer loads.
+  const bankSize = target.length;
+  if (window.quizConfig) {
+    window.quizConfig.maxQuestions = bankSize;
+    window.quizConfig.shuffleQuestions = true;
+    window.quizConfig.shuffleAnswers = true;
+    window.quizConfig.questionCycle = true;
+  }
+
+  const questionCount = document.getElementById("questionCount");
+  if (questionCount) questionCount.textContent = String(bankSize);
+  for (const block of document.querySelectorAll(".quiz-summary > div")) {
+    const label = block.querySelector(".summary-label")?.textContent?.trim().toLowerCase();
+    const value = block.querySelector(".summary-number");
+    if (label === "question bank" && value) value.textContent = String(bankSize);
+  }
+
+  const title = document.getElementById("quizTitle")?.textContent?.trim() || source.code;
+  const description = document.querySelector('meta[name="description"]');
+  if (description) {
+    description.setAttribute("content", `Year 10 ${title} ${mode} activity using ${bankSize} reviewed authored questions.`);
+  }
+
+  const preRead = document.querySelector(".pre-read-notes");
+  if (preRead) {
+    const staleText = preRead.textContent || "";
+    const stalePattern = /vocabulary|modality|terms of address|formality|humour|language constructs|authority|polite\/rude|inflated words/i;
+    if (stalePattern.test(staleText)) {
+      preRead.innerHTML = `<h2>60-second Quick Read</h2><ul><li><strong>Focus:</strong> Read the mathematical information carefully and identify the quantities, relationships and conditions that matter.</li><li><strong>Method:</strong> Choose a rule or representation that fits the problem, work accurately, and keep exact values until rounding is requested.</li><li><strong>Common trap:</strong> Do not select a familiar procedure automatically; check that its assumptions and units match the question.</li></ul>`;
+    }
+  }
 })();
