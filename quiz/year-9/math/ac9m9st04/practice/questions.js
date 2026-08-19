@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m9st04-p-001",
-    "curriculumCode": "AC9M9ST04",
-    "bank": "practice",
-    "skill": "compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots",
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots\nHint: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.",
-    "structuredExplanation": {
-      "summary": "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots",
-      "hint": "Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st04-p-002",
-    "curriculumCode": "AC9M9ST04",
-    "bank": "practice",
-    "skill": "choose the type of representations based on the data type categorical nominal or ordinal or numerical discrete or continuous",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving choose the type of representations based on the data type categorical nominal or ordinal or numerical discrete or continuous. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving choose the type of representations based on the data type categorical nominal or ordinal or numerical discrete or continuous. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The choosing data displays model is copied without interpretation",
-      "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)\nHint: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous).",
-    "structuredExplanation": {
-      "summary": "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)",
-      "hint": "Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st04-p-003",
-    "curriculumCode": "AC9M9ST04",
-    "bank": "practice",
-    "skill": "use different visualisations of data including non standard representations such as infographics and discussing their purpose intended audience evaluating how well they communicate responses to statistical questions of interest",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving use different visualisations of data including non standard representations such as infographics and discussing their purpose intended audience evaluating how well they communicate responses to statistical questions of interest. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving use different visualisations of data including non standard representations such as infographics and discussing their purpose intended audience evaluating how well they communicate responses to statistical questions of interest. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest\nHint: Use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest.",
-    "structuredExplanation": {
-      "summary": "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest",
-      "hint": "Use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st04-p-004",
-    "curriculumCode": "AC9M9ST04",
-    "bank": "practice",
-    "skill": "compare and interpreting stacked bar charts area charts and line graphs discussing how they represent larger categories that can be subdivided into smaller categories",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving compare and interpreting stacked bar charts area charts and line graphs discussing how they represent larger categories that can be subdivided into smaller categories. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving compare and interpreting stacked bar charts area charts and line graphs discussing how they represent larger categories that can be subdivided into smaller categories. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison"
-    ],
-    "correct": 3,
-    "explanation": "comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison\nHint: Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories.",
-    "structuredExplanation": {
-      "summary": "comparing and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories and how information that can be obtained from these displays can be used for comparison",
-      "hint": "Compare and interpreting stacked bar charts, area charts and line graphs, discussing how they represent larger categories that can be subdivided into smaller categories."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st04-p-005",
-    "curriculumCode": "AC9M9ST04",
-    "bank": "practice",
-    "skill": "use digital tools including generative artificial intelligence to generate different data displays and visualisations using existing data sets",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving use digital tools including generative artificial intelligence to generate different data displays and visualisations using existing data sets. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving use digital tools including generative artificial intelligence to generate different data displays and visualisations using existing data sets. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context",
-      "The choosing data displays model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context\nHint: Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets.",
-    "structuredExplanation": {
-      "summary": "using digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets, and discussing which form is more appropriate for the given context",
-      "hint": "Use digital tools, including generative artificial intelligence, to generate different data displays and visualisations using existing data sets."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st04-p-006",
-    "curriculumCode": "AC9M9ST04",
-    "bank": "practice",
-    "skill": "compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving compare data displays using mean median and range to describe and interpret numerical data sets in terms of centre and spread using histograms dot plots or stem and leaf plots. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots\nHint: Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots.",
-    "structuredExplanation": {
-      "summary": "comparing data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots",
-      "hint": "Compare data displays using mean, median and range to describe and interpret numerical data sets in terms of centre and spread using histograms, dot plots, or stem-and-leaf plots."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st04-p-007",
-    "curriculumCode": "AC9M9ST04",
-    "bank": "practice",
-    "skill": "choose the type of representations based on the data type categorical nominal or ordinal or numerical discrete or continuous",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving choose the type of representations based on the data type categorical nominal or ordinal or numerical discrete or continuous. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving choose the type of representations based on the data type categorical nominal or ordinal or numerical discrete or continuous. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)\nHint: Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous).",
-    "structuredExplanation": {
-      "summary": "choosing the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)",
-      "hint": "Choose the type of representations based on the data type: categorical (nominal or ordinal) or numerical (discrete or continuous)."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st04-p-008",
-    "curriculumCode": "AC9M9ST04",
-    "bank": "practice",
-    "skill": "use different visualisations of data including non standard representations such as infographics and discussing their purpose intended audience evaluating how well they communicate responses to statistical questions of interest",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving use different visualisations of data including non standard representations such as infographics and discussing their purpose intended audience evaluating how well they communicate responses to statistical questions of interest. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving use different visualisations of data including non standard representations such as infographics and discussing their purpose intended audience evaluating how well they communicate responses to statistical questions of interest. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The choosing data displays model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest"
-    ],
-    "correct": 3,
-    "explanation": "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest\nHint: Use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest.",
-    "structuredExplanation": {
-      "summary": "using different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest",
-      "hint": "Use different visualisations of data, including non-standard representations such as infographics, and discussing their purpose, intended audience; evaluating how well they communicate responses to statistical questions of interest."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["centre","Scores are 56,58,60,61,62,95. Which measure of centre is most affected by 95?",["Mean","Median","Mode","Neither mean nor median"],0,"The extreme high value contributes directly to the mean, while the middle positions determining the median change much less.","Outliers pull the mean."],
+["mean","Heights are 150,152,153,154,155,190 cm. What is the mean?",["159 cm","160 cm","155 cm","170 cm"],0,"The total is 954 cm; 954 ÷ 6 = 159 cm.","Add all six values, then divide by 6."],
+["shape","A histogram has most observations from 20–30 and a long tail extending toward 60. How is its shape described?",["Positively skewed","Negatively skewed","Symmetric","Bimodal"],0,"A long tail toward larger values indicates positive/right skew.","The skew is named for the tail direction."],
+["stem leaf","A stem-and-leaf plot represents 148,149,152,154,157,161,163,165. What is the median?",["155.5","154","157","158"],0,"There are 8 values, so the median is the mean of the 4th and 5th: (154+157)/2 = 155.5.","Even number of values → average the middle pair."],
+["resistance","For 5,6,7,8,9,10,50, which measure of centre is less affected by the extreme value?",["Median","Mean","Range","Maximum"],0,"The median depends on the middle position and is resistant to an extreme endpoint.","Use a resistant measure of centre."],
+["shape","A histogram has two clearly separated peaks. Which description is most appropriate?",["Bimodal","Symmetric","Positively skewed","Uniform"],0,"Two distinct modes/peaks indicate a bimodal distribution.","Bi = two modes."],
+["range","For 10,12,13,14,15,100, what is the range?",["90","100","85","88"],0,"Range = 100 − 10 = 90.","Maximum minus minimum."],
+["mean","For 20,21,22,23,24,25, what is the mean?",["22.5","23","24","21"],0,"The values balance around 22.5; their sum is 135 and 135 ÷ 6 = 22.5.","Use sum ÷ count."],
+["median","For 3,4,5,6,7,20, what is the median?",["5.5","6","7","10"],0,"With six values, median = (5+6)/2 = 5.5.","Average the two middle values."],
+["display choice","Which display is most suitable for comparing frequencies of favourite fruit categories?",["Bar chart","Histogram","Stem-and-leaf plot","Scatter plot"],0,"A bar chart represents frequencies for distinct categories clearly.","Categorical frequencies → separated bars."],
+["display choice","A class records the number of siblings each student has: 0,1,2,3,.... Which display is especially useful for showing the individual distribution in a small dataset?",["Dot plot","Pie chart only","Area chart","Scatter plot"],0,"A dot plot preserves individual discrete values while showing frequency and shape.","Small discrete numerical dataset → dot plot."],
+["display choice","Which display is most suitable for showing the distribution of hundreds of continuous temperature measurements grouped into intervals?",["Histogram","Bar chart of unrelated categories","Pie chart","Pictograph"],0,"Histograms show frequencies across adjacent intervals of a continuous numerical variable.","Continuous distribution → histogram."],
+["ordinal data","Students rate satisfaction from 1 to 5. Which display preserves the ordered categories clearly?",["Ordered bar chart","Unordered pie chart only","Scatter plot","Stem-and-leaf using the labels as stems"],0,"An ordered bar chart displays frequencies while preserving the natural order of ordinal categories.","Ordinal categories have an order worth showing."],
+["time series","Monthly electricity use is recorded for two years. Which display best reveals changes and seasonal patterns through time?",["Line graph","Pie chart","Single dot plot","Stem-and-leaf plot"],0,"A line graph keeps observations in time order, making trends and seasonal changes visible.","Time → horizontal axis."],
+["proportions","A school wants to compare the percentages choosing each elective, including small categories. Which display is generally easiest for precise category comparison?",["Bar chart","Histogram","Scatter plot","Stem-and-leaf plot"],0,"Bar lengths share a common baseline, making category percentages easy to compare, including small differences.","Common baseline aids comparison."],
+["infographic scale","An infographic uses person icons where one icon represents 10 people, but some icons are drawn larger even though each still represents 10. What is the issue?",["The unequal icon sizes can falsely imply different quantities","The mean is incorrect","Icons can never represent data","The sample size must equal 10"],0,"If identical units are represented by unequal visual sizes, the encoding is inconsistent and misleading.","Same quantity unit → same visual unit."],
+["sample context","An infographic reports 72% support but gives no sample size or collection method. What information is missing for evaluation?",["How much data produced the percentage and whether the sample represents the target population","A median, because percentages require medians","A histogram, because percentages cannot use icons","The exact colour palette"],0,"Sample size and collection method help readers judge sampling variability and representativeness.","A percentage needs context."],
+["3D distortion","Why can 3D bars make comparisons harder?",["Perspective and extra dimensions can distort perceived lengths or volumes","They mathematically change the data values","They always remove axis labels","They prevent categories being displayed"],0,"Decorative depth can interfere with accurate comparison of the dimension intended to encode value.","Decoration should not distort encoding."],
+["selection","An infographic shows only the three months when a program performed best and omits the other nine. What is the main concern?",["Selective presentation can give a misleading impression of overall performance","Non-response bias","The median cannot be calculated","A line graph cannot show months"],0,"Choosing only favourable periods can hide the full pattern and bias interpretation.","Check what was left out."],
+["truncated axis","A bar chart of 52% versus 48% begins its vertical axis at 45%. What is the main risk?",["The visual difference between the bars is greatly exaggerated","The percentages become numerically incorrect","The sample size doubles","The chart becomes a histogram"],0,"Bar lengths encode magnitude from the baseline, so truncating it can make a small difference look very large.","Bar charts are especially sensitive to baseline truncation."],
+["area encoding","Two square icons represent values 10 and 20. If the second square's side length is doubled, how does its area compare with the first?",["4 times as large","2 times as large","3 times as large","The same"],0,"Area scales with side length squared: 2² = 4. Doubling side length overstates a doubling of value if area is perceived.","Area grows with the square of linear scale."],
+["stacked bar","A school has 300 primary and 200 secondary students. What percentage of the 500 students are primary?",["60%","50%","40%","30%"],0,"300/500 × 100 = 60%.","Part ÷ whole × 100."],
+["change","Solar generation rises from 100 to 150 GWh, wind from 80 to 120, hydro from 200 to 210. Which has the greatest absolute increase?",["Solar","Wind","Hydro","All increase equally"],0,"The increases are solar +50, wind +40 and hydro +10 GWh.","Compare final minus initial."],
+["total","Final energy values are solar 150, wind 120 and hydro 210 GWh. What is the total?",["480 GWh","450 GWh","420 GWh","500 GWh"],0,"150 + 120 + 210 = 480 GWh.","Add the components." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9m9st04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M9ST04",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
