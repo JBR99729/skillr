@@ -81,6 +81,34 @@
     });
   }
 
+  function ensureHomepageQaNotice() {
+    if (window.location.pathname !== "/" && window.location.pathname !== "/index.html") return;
+    if (document.querySelector(".home-qa-crowd-notice")) return;
+
+    var facts = document.querySelector(".home-hero__facts");
+    if (!facts) return;
+
+    if (!document.getElementById("skillr-home-qa-notice-styles")) {
+      var style = document.createElement("style");
+      style.id = "skillr-home-qa-notice-styles";
+      style.textContent = [
+        ".home-qa-crowd-notice{display:block;margin:14px 0 4px;padding:12px 15px;border:1px solid #e5bf35;border-radius:10px;background:#fff3a8;color:#3d3210;text-decoration:none;box-shadow:0 2px 8px rgba(108,84,0,.08);line-height:1.45}",
+        ".home-qa-crowd-notice:hover,.home-qa-crowd-notice:focus-visible{background:#ffef86;border-color:#c99f12;outline:none;box-shadow:0 0 0 3px rgba(229,191,53,.24)}",
+        ".home-qa-crowd-notice strong{color:#2f2708}",
+        ".home-qa-crowd-notice__link{font-weight:700;text-decoration:underline;text-underline-offset:2px;white-space:nowrap}"
+      ].join("");
+      document.head.appendChild(style);
+    }
+
+    var notice = document.createElement("a");
+    notice.className = "home-qa-crowd-notice";
+    notice.href = "/updates.html";
+    notice.setAttribute("aria-label", "Read SkillrHub quality assurance updates and learn how to contribute");
+    notice.innerHTML = "<strong>Community QA in progress:</strong> A small group of school students is actively testing and verifying SkillrHub questions. SkillrHub is a crowd QA project, and students, teachers and parents are welcome to contribute corrections or quality-assurance feedback. <span class=\"home-qa-crowd-notice__link\">See updates &amp; contribute →</span>";
+
+    facts.insertAdjacentElement("afterend", notice);
+  }
+
   function removeLegacyFloatingWidgets() {
     document.querySelectorAll(".skillr-share-btn,.worksheet-float-btn,.worksheet-modal").forEach(function (element) {
       element.remove();
@@ -120,6 +148,7 @@
     if (!document.body) return;
     removeLegacyFloatingWidgets();
     ensureFooterLinks();
+    ensureHomepageQaNotice();
     initSharePrompts();
     loadFirstVisitOnboarding();
   }
