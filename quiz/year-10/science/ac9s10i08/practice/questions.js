@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10i08-p-001",
-    "curriculumCode": "AC9S10I08",
-    "bank": "practice",
-    "skill": "use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Purpose and audience guide content and form.",
-      "Audience adaptation permits changing the conclusion",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "Purpose and audience guide content and form.\nHint: Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "Purpose and audience guide content and form.",
-      "hint": "Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i08-p-002",
-    "curriculumCode": "AC9S10I08",
-    "bank": "practice",
-    "skill": "use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "More technical vocabulary is more scientific",
-      "Scientific representations and conventions remain accurate.",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "Scientific representations and conventions remain accurate.\nHint: Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "Scientific representations and conventions remain accurate.",
-      "hint": "Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i08-p-003",
-    "curriculumCode": "AC9S10I08",
-    "bank": "practice",
-    "skill": "use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Audience adaptation permits changing the conclusion",
-      "The method can be chosen without checking the values or conditions",
-      "Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Use Editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "hint": "Use Editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i08-p-004",
-    "curriculumCode": "AC9S10I08",
-    "bank": "practice",
-    "skill": "use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "More technical vocabulary is more scientific",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "Purpose and audience guide content and form."
-    ],
-    "correct": 3,
-    "explanation": "Purpose and audience guide content and form.\nHint: Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "Purpose and audience guide content and form.",
-      "hint": "Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i08-p-005",
-    "curriculumCode": "AC9S10I08",
-    "bank": "practice",
-    "skill": "use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Scientific representations and conventions remain accurate.",
-      "Audience adaptation permits changing the conclusion",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "Scientific representations and conventions remain accurate.\nHint: Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "Scientific representations and conventions remain accurate.",
-      "hint": "Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i08-p-006",
-    "curriculumCode": "AC9S10I08",
-    "bank": "practice",
-    "skill": "use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use editing checks evidence uncertainty accessibility and ethical attribution to make the role of evidence selection visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "More technical vocabulary is more scientific",
-      "Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "Editing checks evidence, uncertainty, accessibility and ethical attribution.\nHint: Use Editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "Editing checks evidence, uncertainty, accessibility and ethical attribution.",
-      "hint": "Use Editing checks evidence, uncertainty, accessibility and ethical attribution. to make the role of evidence selection visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i08-p-007",
-    "curriculumCode": "AC9S10I08",
-    "bank": "practice",
-    "skill": "use purpose and audience guide content and form to make the role of purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "What should you check when using use purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Audience adaptation permits changing the conclusion",
-      "The method can be chosen without checking the values or conditions",
-      "Purpose and audience guide content and form.",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "Purpose and audience guide content and form.\nHint: Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "Purpose and audience guide content and form.",
-      "hint": "Use Purpose and audience guide content and form. to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i08-p-008",
-    "curriculumCode": "AC9S10I08",
-    "bank": "practice",
-    "skill": "use scientific representations and conventions remain accurate to make the role of audience visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation?",
-    "audioPrompt": "What should you check when using use scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "More technical vocabulary is more scientific",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "Scientific representations and conventions remain accurate."
-    ],
-    "correct": 3,
-    "explanation": "Scientific representations and conventions remain accurate.\nHint: Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "Scientific representations and conventions remain accurate.",
-      "hint": "Use Scientific representations and conventions remain accurate. to make the role of audience visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["audience","Which feature is most important when constructing a scientific argument for a defined audience?",["A logical structure supported by relevant evidence","Emotional language that replaces evidence","As much technical jargon as possible","Personal anecdotes only"],0,"Effective scientific communication matches evidence and reasoning to the purpose and audience.","Evidence + structure + audience."],
+["text features","A scientific report uses headings, labelled graphs and precise terminology. What is the main purpose of these features?",["To organise information and make evidence easier to interpret","To make the report longer","To replace the need for data","To make the report sound informal"],0,"Text features help readers navigate and interpret scientific information efficiently.","Organisation supports meaning."],
+["adaptation","When adapting a scientifically accurate text for younger students, what should usually change most?",["Language complexity and explanation style","The underlying data values","The scientific conclusion itself","The accuracy standard"],0,"Audience adaptation should improve accessibility without changing the evidence or scientific meaning.","Simplify language, not science."],
+["results relevance","A report includes many observations unrelated to the research question. What is the main problem?",["The results lack focus because irrelevant material obscures the evidence needed to answer the question","The report is automatically unethical","The observations must be false","The method is necessarily invalid"],0,"Good scientific texts select content relevant to the purpose and argument.","Relevant evidence only."],
+["outliers","How should an unusual result normally be handled in a scientific report?",["Report and investigate it, then explain any justified treatment","Delete it without comment","Hide it if it weakens the conclusion","Assume it proves the method failed"],0,"Transparent reporting of anomalies strengthens scientific communication and reasoning.","Do not hide anomalies."],
+["discussion","A discussion compares measured values with accepted/reference values. What is the purpose?",["To evaluate the findings and possible accuracy or limitations","To present raw data for the first time","To describe the research question only","To replace the method section"],0,"Discussion interprets results in context and evaluates what they mean.","Results show; discussion interprets."],
+["results section","Which content most appropriately belongs in a results section?",["Relevant observations, processed data, tables and graphs with minimal interpretation","A long persuasive conclusion","Background theory only","Personal opinions about the experiment"],0,"Results present the evidence; interpretation is mainly developed in the discussion.","Present evidence before interpretation."],
+["discussion errors","A discussion explains how measurement uncertainty may have affected the result. Why is this valuable?",["It makes the reasoning more transparent and qualifies the conclusion","It weakens the report automatically","It removes the need to present data","It proves the experiment was inaccurate"],0,"Discussing limitations shows how strongly the evidence supports the conclusion.","Limitations define confidence."],
+["modal language","Why might a scientific text use words such as “may”, “likely” or “suggests”?",["To communicate uncertainty or the strength of evidence appropriately","To hide all evidence","To make the report informal","To avoid making any conclusion"],0,"Modal language can accurately represent uncertainty and avoid overclaiming.","Claim strength should match evidence strength."],
+["technical language","When writing for a specialist audience, when is technical terminology most appropriate?",["When it increases precision and the audience is expected to understand it","Whenever longer words are available","When evidence is weak","When the writer wants to sound impressive"],0,"Technical language is useful when it improves precision for the intended audience.","Precision, not decoration."],
+["infographic","A digital infographic combines a graph, icons and short explanatory text. What is its main advantage?",["It can communicate quantitative evidence and key ideas quickly through multiple modes","It removes the need for accurate data","It automatically proves the argument","It should contain no written explanation"],0,"Multimodal texts can combine numerical, visual and verbal information for accessibility.","Different modes can complement each other."],
+["infographic clarity","An infographic contains six fonts, many colours and dense paragraphs. What is the likely problem?",["Visual clutter may reduce clarity and make important evidence harder to find","More design elements always increase accuracy","The data become invalid","The audience will necessarily remember more"],0,"Visual hierarchy and restraint help readers identify key information.","Clarity beats decoration."],
+["graph labels","A graph in a report has no units on either axis. What is the main communication failure?",["Readers cannot interpret the quantities correctly","The graph automatically becomes unethical","The trend must be false","The data are necessarily fabricated"],0,"Labels and units are essential for interpreting scientific quantities.","Axes need variables and units."],
+["transparency","Why can linking an infographic to the underlying data or source improve communication?",["It lets readers verify evidence and explore details beyond the summary","It makes all claims automatically correct","It replaces the need to cite sources","It removes uncertainty"],0,"Traceable sources improve transparency without guaranteeing correctness.","Make evidence checkable."],
+["visual trend","A climate infographic shows temperature anomalies over decades. Which feature best helps a general audience see the pattern?",["A clearly labelled, appropriately scaled graph with a visible trend","Removing the axis labels","Replacing values with decorative icons only","Using a 3D effect"],0,"Good visual design makes quantitative patterns clear without distorting them.","Clear scale + labels + trend."],
+["multiple evidence","Why can an infographic showing ocean heat, ice loss and atmospheric CO₂ be stronger than one showing only one dataset?",["It can present multiple relevant lines of evidence that support a broader argument","More datasets automatically prove causation","Multiple graphs remove uncertainty","All datasets must show identical values"],0,"Independent evidence can strengthen an argument when the datasets are relevant and interpreted properly.","Converging evidence strengthens claims."],
+["comic adaptation","A comic explaining the Big Bang to peers uses simple analogies and a timeline. What makes this effective?",["It reduces language complexity while preserving the scientific sequence and meaning","It removes the need for accuracy","It replaces evidence with humour","It changes the scientific sequence to make the story dramatic"],0,"Analogies and sequencing can improve accessibility if they do not distort the science.","Accessible does not mean inaccurate."],
+["analogy limits","What is the main risk when using an analogy in science communication?",["Readers may carry the analogy beyond the aspects where it matches the science","Analogies are always too technical","Analogies cannot be used in digital media","An analogy automatically makes evidence weaker"],0,"Analogies simplify by comparison, so their limits should be clear.","Every analogy breaks down somewhere."],
+["campaign evidence","A campaign proposes lower speed limits. Which evidence most directly supports its scientific argument?",["Crash-rate and injury-severity data comparing relevant speeds or zones","A slogan alone","Car colour preferences","A celebrity endorsement"],0,"Evidence should directly address the claim being made.","Use outcome data linked to speed."],
+["campaign visuals","A speed-limit campaign includes a map of crash hotspots. Why can this be useful?",["It shows the spatial distribution of risk and can connect the message to local conditions","Maps prove speed caused every crash","Maps replace all numerical data","A map is useful only for expert audiences"],0,"Spatial evidence can make patterns and local relevance easier to understand.","Match the visual to the evidence type."],
+["slogans","What is the best role of a short slogan in a science-based public campaign?",["Improve recall while the supporting evidence is provided elsewhere in the communication","Replace the evidence entirely","Guarantee audience agreement","Avoid acknowledging uncertainty"],0,"Persuasive text features can support communication but should not substitute for evidence.","Slogan for recall; evidence for justification."],
+["local examples","Why can local bushfire or crash data improve a public science message?",["It can increase relevance while still needing accurate context and evidence","Local data automatically apply globally","Local examples remove the need for long-term data","Local examples are always more accurate than national data"],0,"Local examples can help audiences connect with the issue but must be interpreted within scope.","Relevant examples still need context."],
+["flowcharts","When is a flowchart particularly useful in scientific communication?",["When a sequence of steps, decisions or processes needs to be shown clearly","When exact numerical trends are the main focus","When no structure exists","When evidence must be hidden"],0,"Flowcharts are effective for procedural or causal sequences.","Sequence/process → flowchart."],
+["conclusion","What should a strong scientific conclusion do?",["Summarise the main finding in relation to the question and reflect important limitations","Introduce new raw data","Ignore conflicting evidence","Repeat the entire method word for word"],0,"A conclusion should answer the question using the evidence while staying within its limits.","Answer the question without overclaiming."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s10i08-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10I08",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
