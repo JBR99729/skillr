@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v18";
-const STATIC_CACHE_NAME = "skillrhub-static-v16";
+const CACHE_NAME = "skillrhub-pwa-v19";
+const STATIC_CACHE_NAME = "skillrhub-static-v17";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -99,6 +99,8 @@ self.addEventListener("fetch", (event) => {
   }
 
   // Live loaders, question banks and active curriculum releases must not be served stale.
+  // production-question-ui.js owns read-aloud and question quality feedback controls;
+  // keep it network-first so installed PWAs receive like/unlike buttons immediately.
   if (
     url.origin === self.location.origin &&
     (
@@ -118,6 +120,8 @@ self.addEventListener("fetch", (event) => {
       url.pathname === "/assets/year7-router.js" ||
       url.pathname.startsWith("/assets/year7-") ||
       url.pathname === "/quiz/assets/script.js" ||
+      url.pathname === "/quiz/assets/production-question-ui.js" ||
+      url.pathname === "/quiz/assets/year10-gifted-runtime.js" ||
       (
         url.pathname.startsWith("/quiz/assets/") &&
         url.pathname.endsWith("-pre-module-notes.js")
