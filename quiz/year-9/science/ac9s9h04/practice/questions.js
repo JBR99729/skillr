@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9h04-p-001",
-    "curriculumCode": "AC9S9H04",
-    "bank": "practice",
-    "skill": "use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "exploring how governments determine which scientific research projects should be funded",
-      "Scientists freely choose research without constraints",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "exploring how governments determine which scientific research projects should be funded\nHint: Use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring how governments determine which scientific research projects should be funded",
-      "hint": "Use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h04-p-002",
-    "curriculumCode": "AC9S9H04",
-    "bank": "practice",
-    "skill": "use how australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Funded research is automatically biased or invalid",
-      "exploring how Australia has developed an artificial intelligence system which is used to predict the likelihood of a viable pregnancy from transfer of a single embryo to a woman undergoing in-vitro fertilisation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "exploring how Australia has developed an artificial intelligence system which is used to predict the likelihood of a viable pregnancy from transfer of a single embryo to a woman undergoing in-vitro fertilisation\nHint: Use how Australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring how Australia has developed an artificial intelligence system which is used to predict the likelihood of a viable pregnancy from transfer of a single embryo to a woman undergoing in-vitro fertilisation",
-      "hint": "Use how Australia has developed an artificial intelligence system which to make the role of value or concern visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h04-p-003",
-    "curriculumCode": "AC9S9H04",
-    "bank": "practice",
-    "skill": "use how first nations peoples of the torres strait are to make the role of funding and capacity visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how first nations peoples of the torres strait are to make the role of funding and capacity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how first nations peoples of the torres strait are to make the role of funding and capacity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Scientists freely choose research without constraints",
-      "The method can be chosen without checking the values or conditions",
-      "researching how First Nations Peoples of the Torres Strait are at the forefront of the development of scientific measures to prevent the transfer of certain infectious diseases and pests to the Australian continent",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "researching how First Nations Peoples of the Torres Strait are at the forefront of the development of scientific measures to prevent the transfer of certain infectious diseases and pests to the Australian continent\nHint: Use how First Nations Peoples of the Torres Strait are to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "researching how First Nations Peoples of the Torres Strait are at the forefront of the development of scientific measures to prevent the transfer of certain infectious diseases and pests to the Australian continent",
-      "hint": "Use how First Nations Peoples of the Torres Strait are to make the role of funding and capacity visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h04-p-004",
-    "curriculumCode": "AC9S9H04",
-    "bank": "practice",
-    "skill": "use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Funded research is automatically biased or invalid",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating how the need to minimise greenhouse gas production has led to scientific and technological advances"
-    ],
-    "correct": 3,
-    "explanation": "investigating how the need to minimise greenhouse gas production has led to scientific and technological advances\nHint: Use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how the need to minimise greenhouse gas production has led to scientific and technological advances",
-      "hint": "Use how the need to minimise greenhouse gas production has to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h04-p-005",
-    "curriculumCode": "AC9S9H04",
-    "bank": "practice",
-    "skill": "use innovative energy transfer devices to make the role of benefit and opportunity cost visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use innovative energy transfer devices to make the role of benefit and opportunity cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use innovative energy transfer devices to make the role of benefit and opportunity cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "considering innovative energy transfer devices, including those used in transport and communication",
-      "Scientists freely choose research without constraints",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "considering innovative energy transfer devices, including those used in transport and communication\nHint: Use innovative energy transfer devices, to make the role of benefit and opportunity cost visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering innovative energy transfer devices, including those used in transport and communication",
-      "hint": "Use innovative energy transfer devices, to make the role of benefit and opportunity cost visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h04-p-006",
-    "curriculumCode": "AC9S9H04",
-    "bank": "practice",
-    "skill": "use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Funded research is automatically biased or invalid",
-      "considering how the development of new materials and procedures has contributed to safe sound levels for humans in the workplace and leisure activities",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "considering how the development of new materials and procedures has contributed to safe sound levels for humans in the workplace and leisure activities\nHint: Use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering how the development of new materials and procedures has contributed to safe sound levels for humans in the workplace and leisure activities",
-      "hint": "Use how the development of new materials and procedures has to make the role of societal need visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h04-p-007",
-    "curriculumCode": "AC9S9H04",
-    "bank": "practice",
-    "skill": "use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Scientists freely choose research without constraints",
-      "The method can be chosen without checking the values or conditions",
-      "examining why many manufacturers are adopting green chemistry processes",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining why many manufacturers are adopting green chemistry processes\nHint: Use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining why many manufacturers are adopting green chemistry processes",
-      "hint": "Use many manufacturers are adopting green chemistry processes to make the role of value or concern visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h04-p-008",
-    "curriculumCode": "AC9S9H04",
-    "bank": "practice",
-    "skill": "use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Funded research is automatically biased or invalid",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "exploring how governments determine which scientific research projects should be funded"
-    ],
-    "correct": 3,
-    "explanation": "exploring how governments determine which scientific research projects should be funded\nHint: Use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring how governments determine which scientific research projects should be funded",
-      "hint": "Use how governments determine which scientific research projects should be to make the role of societal need visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["research priorities","Why might a government increase funding for antibiotic-resistance research?",["A growing public-health need makes new diagnostics and treatments a higher research priority","Antibiotic resistance makes scientific methods unnecessary","Funding proves a proposed treatment will work","Governments fund only projects with guaranteed outcomes"],0,"Societal needs can shift research priorities toward urgent problems, but funding does not guarantee a successful result.","Need can influence what questions receive attention."],
+["funding criteria","Which combination is most reasonable when deciding between competing research proposals?",["Scientific quality, likely benefit, cost, feasibility, ethics and strategic need","The researcher's popularity and presentation colour","Only the cheapest project","Only the project with the most certain result"],0,"Research priorities usually involve several scientific and societal considerations rather than one simple rule.","Funding decisions involve trade-offs."],
+["opportunity cost","A funding agency spends most of a fixed budget on one very expensive project. What is an opportunity cost?",["Other worthwhile projects may receive less or no funding","The funded project automatically becomes biased","The project no longer requires evidence","All other research becomes scientifically invalid"],0,"With limited resources, supporting one priority can reduce capacity to support others.","Limited budgets force choices."],
+["funding influence","A company funds research into a new battery. Which conclusion is most defensible?",["The funding source should be disclosed and possible conflicts considered, but the research is not automatically invalid","Company funding proves the results are false","Commercial research cannot use scientific methods","Funding source is never relevant"],0,"Funding can influence priorities and create conflicts of interest, but validity depends on methods, transparency and evidence.","Influence on priorities ≠ automatic invalidity."],
+["infrastructure","Why can expensive laboratory infrastructure influence which questions scientists investigate?",["Some questions require equipment, facilities and expertise that not every research group can access","Infrastructure decides what the correct answer must be","Expensive equipment removes uncertainty","Scientists can investigate any question equally without resources"],0,"Research capacity constrains what can practically be studied.","Good questions still need the means to investigate them."],
+["stakeholder values","Two communities support different environmental research priorities. What does this illustrate?",["Society contains groups with different needs and values rather than one single viewpoint","Only one community can be scientifically informed","Scientific evidence is determined by majority vote","Research priorities cannot include social values"],0,"Different groups can reasonably emphasise different risks, benefits and needs.","Do not treat society as one voice."],
+["changing priorities","After a severe disease outbreak, infectious-disease funding increases. Which relationship is shown?",["A change in societal need can shift research priorities and resources","The outbreak changes scientific laws","More funding guarantees a cure","Previous research becomes invalid"],0,"New risks can change which scientific questions receive urgent attention.","Priorities can change when needs change."],
+["AI IVF","Why is research into AI-supported embryo assessment an example of society influencing science?",["A need to improve fertility-treatment decisions can motivate development and testing of new analytical tools","AI creates embryos","Society determines which embryo is scientifically viable by vote","AI removes the need for clinical evidence"],0,"The curriculum example links fertility needs with research and technological development.","Start with the societal need."],
+["AI evidence","Before an AI system is widely used to support IVF decisions, what evidence is most important?",["Validation showing its predictions are reliable and clinically useful for relevant patients","The number of images it can analyse per second only","Whether the interface looks modern","Whether it always agrees with one clinician"],0,"Fast analysis is useful, but adoption should depend on evidence that the system performs validly in its intended setting.","Speed is not the same as clinical usefulness."],
+["AI role","Which statement best describes a responsible role for AI in embryo assessment?",["It can support clinical decision-making while clinicians consider evidence, patient context and limitations","It should replace all medical judgement automatically","It guarantees a successful pregnancy","It makes informed consent unnecessary"],0,"Decision-support technology can assist clinicians without removing professional judgement or uncertainty.","Support, not automatic replacement."],
+["AI bias","Why should developers test an IVF prediction system on data from varied patient groups?",["Performance may differ between groups if the training data are unrepresentative","A larger dataset always removes every bias","Patient diversity changes the laws of biology","AI cannot analyse images from different clinics"],0,"Representative validation helps identify whether model performance generalises across the intended population.","Ask who was represented in the data."],
+["AI ethics","Which concern could legitimately influence research and adoption of AI in fertility treatment?",["Privacy, informed consent, fairness and how predictions affect clinical decisions","Whether embryos have identical image brightness","Whether computers can perform arithmetic","Whether all medical technology should be banned"],0,"Societal values and ethical concerns can shape both research design and adoption.","Values can influence acceptable technology use."],
+["Torres Strait biosecurity","Why can Torres Strait communities be central to biosecurity research?",["Local leadership and knowledge can help identify relevant risks, locations and practical monitoring needs","Only distant researchers can collect valid data","Local knowledge replaces all scientific measurement","Biosecurity is unrelated to community priorities"],0,"The curriculum highlights First Nations leadership in developing scientific measures relevant to local biosecurity challenges.","Local context can shape better research questions."],
+["biosecurity surveillance","Why does early-detection research receive support in biosecurity?",["Detecting pests or infectious agents early can improve the chance of limiting spread","Surveillance guarantees nothing will enter Australia","Monitoring removes the need for prevention","Early detection makes identification unnecessary"],0,"Societal needs to protect health, agriculture and ecosystems can motivate surveillance research.","Earlier detection can improve response options."],
+["cultural protocols","What is important when research involves First Nations knowledge and Country?",["Work with appropriate community authority, permissions and cultural protocols","Treat all knowledge as public property","Use local knowledge without consultation if the project is funded","Assume one community speaks for all First Nations Peoples"],0,"Respectful research recognises community authority, context and cultural protocols.","Partnership matters as well as data."],
+["capacity","A community identifies a biosecurity problem but lacks laboratory and monitoring resources. What factor may limit research?",["Funding and infrastructure capacity","Whether the problem is scientifically real","The number of opinions in the community","The existence of a research question"],0,"A recognised need may still require resources, equipment and expertise before it can be investigated effectively.","Need alone does not create capacity."],
+["greenhouse need","Why has concern about greenhouse-gas emissions stimulated energy research?",["Societal pressure to reduce emissions creates demand for lower-emission technologies and better energy systems","Greenhouse gases prevent all energy transfer","Renewable research is unrelated to societal values","Research funding changes the greenhouse effect directly"],0,"Environmental needs and values can redirect scientific and engineering effort.","Concern → priority → research."],
+["renewable tradeoffs","Why might research continue into both renewable generation and energy storage?",["Low-emission generation and reliable supply involve different technical problems that both matter to society","Storage creates energy from nothing","Renewables cannot produce electricity without batteries","Storage eliminates all environmental impacts"],0,"Energy systems involve generation, timing, storage and reliability, creating multiple research priorities.","One societal goal can generate several research questions."],
+["regenerative braking","Why has regenerative braking been developed for some vehicles?",["It can recover part of the vehicle's kinetic energy during slowing instead of dissipating all of it as heat","It makes braking require no energy transfer","It creates more energy than the vehicle had","It works only by increasing frictional heating"],0,"A need for efficient transport has encouraged systems that redirect some energy into useful storage.","Recover energy that would otherwise be dissipated."],
+["sound safety","Why have workplaces invested in research on quieter machinery, barriers and hearing protection?",["The need to reduce harmful noise exposure creates demand for safer materials and procedures","Sound has no health effects","Safety research is driven only by entertainment","Acoustic materials remove all vibration from matter"],0,"Health and safety values can shape research into materials, measurement and workplace procedures.","A societal safety need drives the research focus."],
+["sound evidence","What evidence would best support adoption of a new sound-absorbing workplace material?",["Controlled measurements showing reduced relevant noise exposure under realistic conditions","A manufacturer's claim without measurements","Its colour and thickness only","One worker saying the room sounds different"],0,"Adoption should be supported by measurements relevant to the intended safety outcome.","Measure the outcome that matters."],
+["green chemistry","Why are manufacturers increasingly interested in green chemistry?",["Reducing hazardous materials, waste and energy use can meet environmental, safety, regulatory and economic goals","Green chemistry means making products green in colour","It requires all reactions to occur at room temperature","It ignores product performance"],0,"Multiple societal and commercial pressures can make safer, lower-waste processes attractive.","Environmental and economic values can align."],
+["regulation","How can regulation influence scientific and industrial research?",["New safety or emission standards can create demand for measurements, materials and processes that meet the standard","Regulation determines experimental results","Regulation removes the need for innovation","Scientific evidence cannot inform regulation"],0,"Standards can redirect research toward solutions that satisfy new societal requirements.","Rules can change what problems industry needs solved."],
+["research model","Which sequence best represents how society can shape research focus?",["Need/value → priority and funding → research question → evidence and possible technology","Funding → guaranteed answer → permanent truth","Popularity → scientific law → product","Technology → no societal influence → research"],0,"Societal concerns influence priorities and capacity, which affect which research questions receive attention.","Trace the chain from need to research." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9h04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9H04",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
