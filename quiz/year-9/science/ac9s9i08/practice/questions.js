@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9i08-p-001",
-    "curriculumCode": "AC9S9I08",
-    "bank": "practice",
-    "skill": "use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features",
-      "Audience adaptation permits changing the conclusion",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features\nHint: Use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features",
-      "hint": "Use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i08-p-002",
-    "curriculumCode": "AC9S9I08",
-    "bank": "practice",
-    "skill": "use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "More technical vocabulary is more scientific",
-      "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions\nHint: Use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions",
-      "hint": "Use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i08-p-003",
-    "curriculumCode": "AC9S9I08",
-    "bank": "practice",
-    "skill": "use a report on a scientific investigation including an introductory to make the role of evidence selection visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use a report on a scientific investigation including an introductory to make the role of evidence selection visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use a report on a scientific investigation including an introductory to make the role of evidence selection visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Audience adaptation permits changing the conclusion",
-      "The method can be chosen without checking the values or conditions",
-      "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility\nHint: Use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "writing a report on a scientific investigation including: an introductory paragraph that explains or references scientific theories, processes or other related knowledge that gives background information to the investigation; an explanation of the results obtained using scientific knowledge; and a discussion that considers validity and reproducibility",
-      "hint": "Use a report on a scientific investigation including: an introductory to make the role of evidence selection visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i08-p-004",
-    "curriculumCode": "AC9S9I08",
-    "bank": "practice",
-    "skill": "use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "More technical vocabulary is more scientific",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "developing an interactive presentation that shows feedback loops in human body systems"
-    ],
-    "correct": 3,
-    "explanation": "developing an interactive presentation that shows feedback loops in human body systems\nHint: Use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "developing an interactive presentation that shows feedback loops in human body systems",
-      "hint": "Use an interactive presentation that shows feedback loops in human to make the role of language and structure visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i08-p-005",
-    "curriculumCode": "AC9S9I08",
-    "bank": "practice",
-    "skill": "use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "planning a social media campaign to encourage young people to reduce their carbon footprint",
-      "Audience adaptation permits changing the conclusion",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "planning a social media campaign to encourage young people to reduce their carbon footprint\nHint: Use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "planning a social media campaign to encourage young people to reduce their carbon footprint",
-      "hint": "Use planning a social media campaign to encourage young people to make the role of digital feature and review visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i08-p-006",
-    "curriculumCode": "AC9S9I08",
-    "bank": "practice",
-    "skill": "use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "More technical vocabulary is more scientific",
-      "collaborating to prepare a written report for local government on estimated carbon storage across different local ecosystems and proposals to increase carbon storage across the area",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "collaborating to prepare a written report for local government on estimated carbon storage across different local ecosystems and proposals to increase carbon storage across the area\nHint: Use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "collaborating to prepare a written report for local government on estimated carbon storage across different local ecosystems and proposals to increase carbon storage across the area",
-      "hint": "Use collaborating to prepare a written report for local government to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i08-p-007",
-    "curriculumCode": "AC9S9I08",
-    "bank": "practice",
-    "skill": "use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Audience adaptation permits changing the conclusion",
-      "The method can be chosen without checking the values or conditions",
-      "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features\nHint: Use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "comparing and contrasting scientific texts addressing similar topics for different purposes or audiences, and analysing the author’s (or authors’) selection of content or use of language and text features",
-      "hint": "Use contrasting scientific texts addressing similar topics for different purposes to make the role of purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i08-p-008",
-    "curriculumCode": "AC9S9I08",
-    "bank": "practice",
-    "skill": "use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "More technical vocabulary is more scientific",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions"
-    ],
-    "correct": 3,
-    "explanation": "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions\nHint: Use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "selecting appropriate content and language which is culturally responsive and maintains cultural protocols, considering sensitivities in communicating First Nations Australians’ knowledges and managing risks of offensive narratives, language, images and attributions",
-      "hint": "Use appropriate content and language which is culturally responsive to make the role of audience visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["audience","Which change best adapts a technical scientific explanation for a general audience without losing accuracy?",["Define essential terms, remove unnecessary jargon and keep the evidence and uncertainty clear","Remove all numerical evidence","Replace explanations with opinions","State conclusions more strongly than the data justify"],0,"Accessible communication should simplify language, not distort the science.","Simplify wording, not evidence."],
+["purpose","A report for policymakers should usually emphasise which information?",["Evidence, implications, uncertainties and decision-relevant options","Only laboratory procedural detail","Humour and personal anecdotes","Technical terms without explanation"],0,"Policymakers need concise evidence linked to consequences and options, while still seeing important uncertainty.","Match content to decisions the audience must make."],
+["comparison","Two texts report the same study: one is a journal article and one is a public explainer. Which difference is most appropriate?",["The journal article gives more methodological detail; the explainer uses accessible language while preserving the main evidence","The public explainer may invent simpler results","The journal article should omit uncertainty","The two texts must use identical wording"],0,"Purpose and audience affect detail and language, but the underlying findings should remain consistent.","Different format, same science."],
+["technical language","When is technical terminology most useful?",["When it increases precision for an audience likely to understand it, with definitions where needed","Whenever longer words are available","Only in reports with no data","When the goal is to make the text harder to question"],0,"Technical language is valuable when it communicates scientific ideas precisely rather than merely sounding formal.","Precision matters more than complexity."],
+["visuals","A scientific poster summarises changes in temperature over 12 months. Which feature best supports quick interpretation?",["A clearly labelled graph with units plus a concise evidence-based caption","A long unbroken paragraph replacing the graph","Decorative images unrelated to the data","A graph with no scale so it looks cleaner"],0,"Posters benefit from concise visual representations that let an audience identify the main pattern quickly.","Use visuals to communicate evidence."],
+["children","A Year 4 audience needs an explanation of the water cycle. Which approach is strongest?",["Use a simple labelled diagram and accurate everyday language, introducing key terms such as evaporation","Remove all scientific terms","Use equations instead of explanation","Use a dense journal abstract"],0,"Age-appropriate communication can introduce correct scientific vocabulary through clear models and explanations.","Accessible does not mean scientifically empty."],
+["cultural protocols","A class wants to publish locally shared First Nations ecological knowledge. What should happen before publication?",["Check permissions, attribution and relevant cultural protocols with appropriate knowledge holders or authorities","Publish it because classroom access makes it public","Replace specific community attribution with a generic label","Assume citation alone gives permission to reproduce it"],0,"Access to knowledge does not automatically grant permission to publish or reuse it; cultural authority and protocols matter.","Permission and attribution are separate issues."],
+["cultural safety","Which communication choice is most culturally responsible?",["Use community-preferred terminology and context, and avoid stereotypes or decontextualising knowledge","Treat all First Nations communities as having identical practices","Remove the knowledge holders' attribution","Rewrite culturally sensitive information to make it more dramatic"],0,"Culturally responsive communication recognises diversity, context, authority and appropriate terminology.","Avoid generalising across communities."],
+["image protocols","A presentation includes an image connected to culturally sensitive material. What is the best first consideration?",["Whether its use is permitted and appropriate for the intended audience and context","Whether it has the brightest colours","Whether it fills the whole slide","Whether the image can replace all explanatory text"],0,"Visual communication can carry cultural restrictions or sensitivities, so appropriateness and permission should be checked.","Images can have protocols too."],
+["attribution","Why is accurate attribution important when communicating First Nations knowledges?",["It recognises the source, authority and contribution of knowledge holders and communities","It transfers ownership to the writer","It guarantees unrestricted future reuse","It makes cultural consultation unnecessary"],0,"Attribution supports ethical recognition but does not replace permission or governance requirements.","Credit is necessary but may not be sufficient."],
+["report introduction","What is the main role of a scientific report introduction?",["Provide relevant background and state the question, aim or hypothesis","Present the final interpretation only","List every raw measurement","Describe only formatting choices"],0,"The introduction establishes the scientific context and purpose of the investigation.","Context first, results later."],
+["method","A method is most useful when it: ",["Provides enough relevant detail for another investigator to understand and repeat the procedure","Includes only the equipment brand names","Omits controlled variables to stay brief","Is written after the conclusion to match the outcome"],0,"A clear method supports transparency and reproducibility.","Could another person follow it?"],
+["results","Which statement belongs most naturally in a results section?",["The mean temperature increased from 22.1°C to 27.4°C as heating time increased","The increase probably occurred because particle kinetic energy increased","The hypothesis was supported overall","Future studies should use a larger sample"],0,"Results present processed observations and data; explanation and evaluation usually belong in discussion.","Results = what was found."],
+["discussion","Which task belongs in a scientific discussion?",["Interpret the pattern, compare it with the hypothesis and evaluate limitations","Hide anomalous data","Repeat the entire method word for word","Replace measured values with expected values"],0,"The discussion explains what the evidence means and evaluates its quality and limitations.","Discussion = interpret and evaluate."],
+["conclusion","Which conclusion is scientifically strongest?",["Within the tested range, the data support the prediction that reaction rate increased with temperature","Temperature always increases every reaction rate","The hypothesis is proven forever","The result is correct because the graph looked linear"],0,"Conclusions should match the scope and strength of the evidence.","Do not overgeneralise beyond the data."],
+["graph features","Which graph feature is essential for scientific interpretation?",["Axes labelled with the measured variables and appropriate units","A decorative border","A three-dimensional effect","A title containing the conclusion before data are read"],0,"Variables, units and an appropriate scale are needed to interpret quantitative graphs.","Readers must know what each axis measures."],
+["uncertainty communication","How should a report communicate a result with substantial uncertainty?",["State the result and uncertainty clearly and avoid stronger claims than the evidence supports","Delete the uncertainty to keep the message simple","Round the value until the uncertainty disappears","Replace the result with the expected value"],0,"Good scientific communication preserves uncertainty rather than hiding it.","Confidence should match evidence."],
+["interactive presentation","What is a genuine advantage of an interactive scientific presentation?",["Users can explore selected evidence or model outputs while the presenter preserves context and labels","Interactivity makes all claims more valid","Animations remove the need for sources","User input automatically replaces experimental evidence"],0,"Interactive tools can help audiences explore data, but evidence quality and explanation still matter.","Tool choice supports communication; it does not validate claims."],
+["feedback model","When explaining a body-system feedback loop, which representation is often most useful?",["A labelled flow diagram showing stimulus, response and feedback relationships","A pie chart of unrelated percentages","A paragraph with no sequence markers","A photograph with no annotations"],0,"Flow diagrams make causal or regulatory sequences easier to follow.","Choose a text feature that matches the relationship."],
+["campaign","A social-media post claims, 'Cut your carbon footprint by 90% with this one trick!' What should a scientifically responsible campaign do instead?",["Use evidence-based claims, define what is being measured and avoid unsupported certainty","Keep the claim because stronger wording gets attention","Remove sources to save space","Use only emotional language"],0,"Persuasive communication should still be scientifically accurate and transparent about evidence.","Persuasion does not justify exaggeration."],
+["audience adaptation","A carbon-footprint campaign targets teenagers. Which adaptation is most appropriate?",["Use concise relatable examples and clear visuals while keeping quantities and sources accurate","Remove all evidence because the audience is young","Use only technical life-cycle terminology","Assume all teenagers have the same priorities"],0,"Audience adaptation changes presentation, not the obligation to communicate accurately.","Relevant examples + accurate evidence."],
+["collaboration","A team is writing one scientific report. Which practice best improves consistency?",["Agree on terminology, data sources, calculation methods and responsibilities before combining sections","Let each writer use different definitions","Hide intermediate calculations from teammates","Merge sections without checking contradictions"],0,"Shared conventions and transparent methods reduce inconsistency in collaborative scientific texts.","Agree on standards before merging work."],
+["carbon model","A council report estimates carbon storage using vegetation area × mean biomass × carbon fraction. What should accompany the final estimate?",["The method, units, assumptions and important uncertainty in the input data","Only the final number","A claim that the estimate is exact","No source for the biomass values"],0,"Modelled estimates are more useful when readers can see how they were produced and where uncertainty enters.","Show the calculation logic and limits."],
+["recommendations","A scientific report recommends increasing vegetation to store more carbon. What makes the recommendation strongest?",["It links the recommendation to evidence, acknowledges constraints and explains expected benefits and trade-offs","It states that reforestation always has only benefits","It removes local land-use considerations","It relies on a single slogan"],0,"Recommendations should be evidence-based and proportionate, with relevant limitations and trade-offs made clear.","Evidence → reasoning → recommendation."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9i08-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9I08",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
