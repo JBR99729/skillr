@@ -187,6 +187,128 @@
     refresh();
   }
 
+  const learningAnalytics = {
+    started: false,
+    completed: false,
+    answered: 0,
+    correct: 0,
+    startedAt: 0,
+    lastQuestionId: ""
+  };
+
+  function sendLearningEvent(name, params) {
+    const payload = {
+      curriculum_code: String(window.quizConfig?.skillCode || "unknown").toUpperCase(),
+      quiz_mode: quizMode(),
+      page_path: window.location.pathname,
+      ...(params || {})
+    };
+    let attempts = 0;
+    const send = () => {
+      if (typeof window.gtag === "function") {
+        window.gtag("event", name, payload);
+        return;
+      }
+      attempts += 1;
+      if (attempts < 8) window.setTimeout(send, 350);
+    };
+    send();
+  }
+
+  function selectedAnswerIndex() {
+    const checked = document.querySelector('#answerList input[type="radio"]:checked');
+    if (checked) {
+      const all = [...document.querySelectorAll('#answerList input[type="radio"]')];
+      return all.indexOf(checked);
+    }
+    const selected = document.querySelector('#answerList .answer-option.is-selected, #answerList [aria-checked="true"], #answerList .selected');
+    if (!selected) return -1;
+    const options = [...document.querySelectorAll('#answerList .answer-option, #answerList [role="radio"], #answerList button')];
+    return options.indexOf(selected);
+  }
+
+  function questionCorrectIndex(question) {
+    if (!question) return -1;
+    if (Number.isInteger(question.correct)) return question.correct;
+    if (Number.isInteger(question.correctIndex)) return question.correctIndex;
+    if (Array.isArray(question.correctValues) && question.correctValues.length === 1 && Array.isArray(question.options)) {
+      return question.options.findIndex((option) => String(option?.value ?? option) === String(question.correctValues[0]));
+    }
+    return -1;
+  }
+
+  function markLearningStart() {
+    if (learningAnalytics.started) return;
+    learningAnalytics.started = true;
+    learningAnalytics.completed = false;
+    learningAnalytics.answered = 0;
+    learningAnalytics.correct = 0;
+    learningAnalytics.startedAt = Date.now();
+    learningAnalytics.lastQuestionId = "";
+    sendLearningEvent(quizMode() === "test" ? "test_start" : "practice_start", {
+      session_question_count: Number(window.quizConfig?.maxQuestions) || 0,
+      bank_question_count: Array.isArray(window.quizQuestions) ? window.quizQuestions.length : 0
+    });
+  }
+
+  function trackAnsweredQuestion() {
+    if (!learningAnalytics.started || learningAnalytics.completed) return;
+    const question = currentQuestionFromHeading();
+    if (!question) return;
+    const questionId = questionIdentity(question);
+    if (!questionId || learningAnalytics.lastQuestionId === questionId) return;
+    const selected = selectedAnswerIndex();
+    const correctIndex = questionCorrectIndex(question);
+    const isCorrect = selected >= 0 && correctIndex >= 0 ? selected === correctIndex : undefined;
+    learningAnalytics.lastQuestionId = questionId;
+    learningAnalytics.answered += 1;
+    if (isCorrect === true) learningAnalytics.correct += 1;
+    sendLearningEvent("question_answered", {
+      question_id: questionId,
+      question_number: learningAnalytics.answered,
+      is_correct: isCorrect === undefined ? "unknown" : isCorrect ? "true" : "false"
+    });
+  }
+
+  function readVisibleScore() {
+    const score = Number(document.getElementById("finalScore")?.textContent || document.getElementById("liveScore")?.textContent || 0);
+    const total = Number(document.getElementById("finalTotal")?.textContent || window.quizConfig?.maxQuestions || learningAnalytics.answered || 0);
+    return { score: Number.isFinite(score) ? score : 0, total: Number.isFinite(total) ? total : 0 };
+  }
+
+  function markLearningComplete() {
+    if (!learningAnalytics.started || learningAnalytics.completed) return;
+    learningAnalytics.completed = true;
+    const { score, total } = readVisibleScore();
+    const durationSeconds = Math.max(0, Math.round((Date.now() - learningAnalytics.startedAt) / 1000));
+    sendLearningEvent(quizMode() === "test" ? "test_complete" : "practice_complete", {
+      score,
+      total,
+      percentage: total > 0 ? Math.round((score / total) * 100) : 0,
+      questions_answered: learningAnalytics.answered,
+      duration_seconds: durationSeconds
+    });
+  }
+
+  function markLearningAbandon() {
+    if (!learningAnalytics.started || learningAnalytics.completed || learningAnalytics.answered <= 0) return;
+    const durationSeconds = Math.max(0, Math.round((Date.now() - learningAnalytics.startedAt) / 1000));
+    sendLearningEvent(quizMode() === "test" ? "test_abandon" : "practice_abandon", {
+      questions_answered: learningAnalytics.answered,
+      duration_seconds: durationSeconds
+    });
+  }
+
+  function markNextSetStart() {
+    if (!learningAnalytics.completed) return;
+    sendLearningEvent(quizMode() === "test" ? "test_next_set" : "practice_next_set", {
+      previous_questions_answered: learningAnalytics.answered
+    });
+    learningAnalytics.started = false;
+    learningAnalytics.completed = false;
+    window.setTimeout(markLearningStart, 0);
+  }
+
   function refreshQuestionExtras() {
     queueMicrotask(() => {
       addReadAloudButton();
@@ -197,6 +319,19 @@
   document.addEventListener("DOMContentLoaded", () => {
     const heading = document.getElementById("questionText");
     if (!heading) return;
+
+    document.getElementById("startButton")?.addEventListener("click", markLearningStart);
+    document.getElementById("submitButton")?.addEventListener("click", () => window.setTimeout(trackAnsweredQuestion, 0));
+    document.getElementById("restartButton")?.addEventListener("click", markNextSetStart);
+    window.addEventListener("pagehide", markLearningAbandon);
+
+    const resultScreen = document.getElementById("resultScreen");
+    if (resultScreen) {
+      new MutationObserver(() => {
+        if (resultScreen.classList.contains("is-active")) markLearningComplete();
+      }).observe(resultScreen, { attributes: true, attributeFilter: ["class"] });
+    }
+
     new MutationObserver(refreshQuestionExtras).observe(heading, { childList: true, characterData: true, subtree: true });
     const answerList = document.getElementById("answerList");
     if (answerList) new MutationObserver(refreshQuestionExtras).observe(answerList, { childList: true, subtree: true });
