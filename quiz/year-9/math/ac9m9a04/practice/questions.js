@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m9a04-p-001",
-    "curriculumCode": "AC9M9A04",
-    "bank": "practice",
-    "skill": "recognise that in a table of values if the second difference between consecutive values of the dependent variable is constant then it is a quadratic",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving recognise that in a table of values if the second difference between consecutive values of the dependent variable is constant then it is a quadratic. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving recognise that in a table of values if the second difference between consecutive values of the dependent variable is constant then it is a quadratic. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic",
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic\nHint: Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic.",
-    "structuredExplanation": {
-      "summary": "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic",
-      "hint": "Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a04-p-002",
-    "curriculumCode": "AC9M9A04",
-    "bank": "practice",
-    "skill": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The quadratic functions and equations model is copied without interpretation",
-      "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions and their respective graphs; interpreting features of the graphs such as symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions and their respective graphs; interpreting features of the graphs such as symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range\nHint: graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions.",
-    "structuredExplanation": {
-      "summary": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions and their respective graphs; interpreting features of the graphs such as symmetry, turning point, maximum and minimum values, and determining when values of the quadratic function lie within a given range",
-      "hint": "graphing quadratic functions using digital tools and comparing what is the same and what is different between these different functions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a04-p-003",
-    "curriculumCode": "AC9M9A04",
-    "bank": "practice",
-    "skill": "solve quadratic equations algebraically and comparing these to graphical solutions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving solve quadratic equations algebraically and comparing these to graphical solutions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving solve quadratic equations algebraically and comparing these to graphical solutions. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "solving quadratic equations algebraically and comparing these to graphical solutions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "solving quadratic equations algebraically and comparing these to graphical solutions\nHint: Solve quadratic equations algebraically and comparing these to graphical solutions.",
-    "structuredExplanation": {
-      "summary": "solving quadratic equations algebraically and comparing these to graphical solutions",
-      "hint": "Solve quadratic equations algebraically and comparing these to graphical solutions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a04-p-004",
-    "curriculumCode": "AC9M9A04",
-    "bank": "practice",
-    "skill": "use graphs to determine the solutions of quadratic equations recognising that the roots of a quadratic function correspond to the x intercepts of its graph",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving use graphs to determine the solutions of quadratic equations recognising that the roots of a quadratic function correspond to the x intercepts of its graph. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving use graphs to determine the solutions of quadratic equations recognising that the roots of a quadratic function correspond to the x intercepts of its graph. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph and that if the graph has no x-intercepts, then the corresponding equation has no real solutions"
-    ],
-    "correct": 3,
-    "explanation": "using graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph and that if the graph has no x-intercepts, then the corresponding equation has no real solutions\nHint: Use graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph.",
-    "structuredExplanation": {
-      "summary": "using graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph and that if the graph has no x-intercepts, then the corresponding equation has no real solutions",
-      "hint": "Use graphs to determine the solutions of quadratic equations; recognising that the roots of a quadratic function correspond to the x-intercepts of its graph."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a04-p-005",
-    "curriculumCode": "AC9M9A04",
-    "bank": "practice",
-    "skill": "connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "relating horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law; for example, the graph of the function y=x^2-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0",
-      "The quadratic functions and equations model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "relating horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law; for example, the graph of the function y=x^2-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0\nHint: Connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law.",
-    "structuredExplanation": {
-      "summary": "relating horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law; for example, the graph of the function y=x^2-5x+6 can be represented as y=(x-2)(x-3) with x-axis intercepts where either (x-2)=0 or (x-3)=0",
-      "hint": "Connect horizontal axis intercepts of the graph of a quadratic function to the factorised form of its rule using the null factor law."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a04-p-006",
-    "curriculumCode": "AC9M9A04",
-    "bank": "practice",
-    "skill": "recognise that the equation x a where a 0 has 2 solutions x a and x a",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving recognise that the equation x a where a 0 has 2 solutions x a and x a. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving recognise that the equation x a where a 0 has 2 solutions x a and x a. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "recognising that the equation x^2=a, where a>0, has 2 solutions, x=\\sqrt a and x=-\\sqrt a; for example, if x^2=39 then x=\\sqrt{39}=6.245 correct to 3 decimal places, or x=-\\sqrt{39}=-6.245 correct to 3 decimal places, and representing these graphically",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "recognising that the equation x^2=a, where a>0, has 2 solutions, x=\\sqrt a and x=-\\sqrt a; for example, if x^2=39 then x=\\sqrt{39}=6.245 correct to 3 decimal places, or x=-\\sqrt{39}=-6.245 correct to 3 decimal places, and representing these graphically\nHint: Recognise that the equation x²=a, where a>0, has 2 solutions, x=√a and x=-√a.",
-    "structuredExplanation": {
-      "summary": "recognising that the equation x^2=a, where a>0, has 2 solutions, x=\\sqrt a and x=-\\sqrt a; for example, if x^2=39 then x=\\sqrt{39}=6.245 correct to 3 decimal places, or x=-\\sqrt{39}=-6.245 correct to 3 decimal places, and representing these graphically",
-      "hint": "Recognise that the equation x²=a, where a>0, has 2 solutions, x=√a and x=-√a."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a04-p-007",
-    "curriculumCode": "AC9M9A04",
-    "bank": "practice",
-    "skill": "graphing percentages of illumination of moon phases in relation to first nations australians understandings that describe the different phases of the moon",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving graphing percentages of illumination of moon phases in relation to first nations australians understandings that describe the different phases of the moon. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving graphing percentages of illumination of moon phases in relation to first nations australians understandings that describe the different phases of the moon. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon\nHint: graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon.",
-    "structuredExplanation": {
-      "summary": "graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon",
-      "hint": "graphing percentages of illumination of moon phases in relation to First Nations Australians’ understandings that describe the different phases of the moon."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a04-p-008",
-    "curriculumCode": "AC9M9A04",
-    "bank": "practice",
-    "skill": "recognise that in a table of values if the second difference between consecutive values of the dependent variable is constant then it is a quadratic",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving recognise that in a table of values if the second difference between consecutive values of the dependent variable is constant then it is a quadratic. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving recognise that in a table of values if the second difference between consecutive values of the dependent variable is constant then it is a quadratic. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The quadratic functions and equations model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic"
-    ],
-    "correct": 3,
-    "explanation": "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic\nHint: Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic.",
-    "structuredExplanation": {
-      "summary": "recognising that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic",
-      "hint": "Recognise that in a table of values, if the second difference between consecutive values of the dependent variable is constant, then it is a quadratic."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+[1,"Section A — Second differences and quadratic recognition","Second differences","A table has x-values 1, 2, 3, 4 and y-values 4, 7, 12, 19. What do the second differences show?",["Constant → quadratic","Constant → linear","Increasing → exponential","Zero → constant"],0,"The first differences are 3, 5, 7, so the second differences are 2 and 2. Constant second differences indicate a quadratic relation.","Find first differences first, then compare the second differences."],
+[2,"Section A — Second differences and quadratic recognition","Second differences","For y-values 2, 5, 10, 17, what is the constant second difference?",["2","3","4","5"],0,"The first differences are 3, 5, 7. The second differences are 2 and 2.","Subtract consecutive first differences."],
+[3,"Section A — Second differences and quadratic recognition","Quadratic recognition","If the first differences are 3, 5, 7, 9, what type of relation is suggested?",["Quadratic","Linear","Exponential","Constant"],0,"The first differences increase by a constant amount, so the second differences are constant. That suggests a quadratic relation.","Linear relations have constant first differences; quadratics have constant second differences."],
+[4,"Section A — Second differences and quadratic recognition","Leading coefficient","If the second differences are constant at 6 for consecutive x-values, what is the leading coefficient of the quadratic?",["3","6","2","1"],0,"For y = ax² + bx + c with unit x-steps, the constant second difference is 2a. If 2a = 6, then a = 3.","Second difference equals twice the coefficient of x²."],
+[5,"Section A — Second differences and quadratic recognition","Square-number pattern","The y-values 1, 4, 9, 16 come from which type of relation?",["Quadratic","Linear","Exponential","Cubic"],0,"These are square numbers: 1², 2², 3², 4², so they follow a quadratic pattern.","Square-number growth is quadratic."],
+[6,"Section A — Second differences and quadratic recognition","Second differences","For y-values 10, 7, 6, 7, what do the second differences show?",["Constant → quadratic","Zero → linear","Not constant → not quadratic","Constant → exponential"],0,"The first differences are −3, −1, 1. The second differences are 2 and 2, so the pattern is quadratic.","Negative first differences can still have constant second differences."],
+[7,"Section B — Graphing quadratics and features","Parabola opening","The graph of y = x² opens which way?",["Up","Down","Left","Right"],0,"The coefficient of x² is positive, so the parabola opens upward.","Positive x² coefficient means opens up."],
+[8,"Section B — Graphing quadratics and features","Parabola opening","The graph of y = −x² opens which way?",["Down","Up","Left","Right"],0,"The coefficient of x² is negative, so the parabola opens downward.","Negative x² coefficient means opens down."],
+[9,"Section B — Graphing quadratics and features","Turning point form","What is the turning point of y = (x − 3)² + 5?",["(3, 5)","(−3, 5)","(3, −5)","(5, 3)"],0,"In y = (x − h)² + k, the turning point is (h, k). Here h = 3 and k = 5.","Remember the sign inside the bracket is reversed."],
+[10,"Section B — Graphing quadratics and features","Axis of symmetry","What is the axis of symmetry of y = x² − 6x + 8?",["x = 3","x = 6","x = −3","x = 8"],0,"For ax² + bx + c, the axis is x = −b/(2a). Here x = −(−6)/(2×1) = 3.","The axis passes through the turning point."],
+[11,"Section B — Graphing quadratics and features","Minimum value","What is the minimum value of y = (x + 2)² − 7?",["−7","2","7","−2"],0,"The square term is always at least 0, so the smallest value is −7.","In turning point form, k is the minimum if the graph opens upward."],
+[12,"Section B — Graphing quadratics and features","Maximum value","What is the maximum value of y = −(x − 4)² + 9?",["9","−9","4","−4"],0,"The graph opens downward and has vertex (4, 9), so its maximum y-value is 9.","For a downward parabola, the vertex gives the maximum."],
+[13,"Section B — Graphing quadratics and features","Vertical shifts","Compared with y = x² − 4x + 10, how far below is y = x² − 4x + 3?",["7 units","3 units","10 units","4 units"],0,"The expressions differ only in the constant term: 10 − 3 = 7. The second graph is 7 units lower.","Compare the constant terms when the x² and x terms match."],
+[14,"Section B — Graphing quadratics and features","Perfect-square form","What is the turning point of y = x² + 2x + 1?",["(−1, 0)","(1, 0)","(−2, 1)","(0, −1)"],0,"x² + 2x + 1 = (x + 1)², so the turning point is (−1, 0).","Factor or complete the square."],
+[15,"Section B — Graphing quadratics and features","Minimum or maximum","The graph of y = x² + 5x + 6 has which feature?",["Minimum","Maximum","No turning point","Constant value"],0,"The coefficient of x² is positive, so the parabola opens upward and has a minimum.","Positive x² coefficient means a minimum turning point."],
+[16,"Section B — Graphing quadratics and features","Minimum or maximum","The graph of y = −x² + 4x − 1 has which feature?",["Maximum","Minimum","No turning point","Constant value"],0,"The coefficient of x² is negative, so the parabola opens downward and has a maximum.","Negative x² coefficient means a maximum turning point."],
+[17,"Section C — Solving quadratics algebraically","Solving by factorising","Solve x² − 5x + 6 = 0.",["x = 2, 3","x = −2, −3","x = 1, 6","No real solutions"],0,"x² − 5x + 6 = (x − 2)(x − 3), so x = 2 or x = 3.","Find two numbers that multiply to 6 and add to −5."],
+[18,"Section C — Solving quadratics algebraically","Solving by factorising","Solve x² + 3x − 10 = 0.",["x = 2, −5","x = −2, 5","x = 10, −1","No real solutions"],0,"x² + 3x − 10 = (x + 5)(x − 2), so x = −5 or x = 2.","Opposite signs mean one positive and one negative root."],
+[19,"Section C — Solving quadratics algebraically","Difference of squares","Solve x² − 9 = 0.",["x = ±3","x = 3 only","x = −3 only","No real solutions"],0,"x² − 9 = 0 gives x² = 9, so x = ±3.","Both positive and negative values square to 9."],
+[20,"Section C — Solving quadratics algebraically","Common factor","Solve x² − 4x = 0.",["x = 0, 4","x = −4, 0","x = 2","No real solutions"],0,"x² − 4x = x(x − 4), so x = 0 or x = 4.","Factor out the common x."],
+[21,"Section C — Solving quadratics algebraically","No real solutions","Solve x² + 1 = 0 over the real numbers.",["No real solutions","x = ±1","x = 0","x = ±i"],0,"x² = −1 has no real solution because no real number squares to −1.","Stay within the real number system for Year 9."],
+[22,"Section C — Solving quadratics algebraically","Solving by factorising","Solve x² − 7x + 12 = 0.",["x = 3, 4","x = −3, −4","x = 6, 2","No real solutions"],0,"x² − 7x + 12 = (x − 3)(x − 4), so x = 3 or x = 4.","Find two numbers that multiply to 12 and add to −7."],
+[23,"Section C — Solving quadratics algebraically","Difference of squares","Solve x² − 1 = 0.",["x = ±1","x = 1","x = −1","No real solutions"],0,"x² − 1 = (x − 1)(x + 1), so x = 1 or x = −1.","This is a difference of squares."],
+[24,"Section C — Solving quadratics algebraically","Repeated root","Solve x² − 10x + 25 = 0.",["x = 5","x = −5","x = ±5","No real solutions"],0,"x² − 10x + 25 = (x − 5)², so the repeated root is x = 5.","A perfect-square quadratic can touch the x-axis once."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map((q,i)=>({id:`ac9m9a04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M9A04",bank:"practice",section:q[1],sourceNumber:q[0],skill:q[2],printable:true,type:"single",question:q[3],audioPrompt:q[3],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[4],correct:q[5],explanation:`${q[6]}\nHint: ${q[7]}`,structuredExplanation:{summary:q[6],hint:q[7]},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
