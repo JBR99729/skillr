@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9i01-p-001",
-    "curriculumCode": "AC9S9I01",
-    "bank": "practice",
-    "skill": "use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "discussing what is needed for a question to be investigable or a prediction to be reasoned",
-      "A prediction and hypothesis are identical",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "discussing what is needed for a question to be investigable or a prediction to be reasoned\nHint: Use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing what is needed for a question to be investigable or a prediction to be reasoned",
-      "hint": "Use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i01-p-002",
-    "curriculumCode": "AC9S9I01",
-    "bank": "practice",
-    "skill": "use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A testable question must always be causal",
-      "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’\nHint: Use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’",
-      "hint": "Use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i01-p-003",
-    "curriculumCode": "AC9S9I01",
-    "bank": "practice",
-    "skill": "use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A prediction and hypothesis are identical",
-      "The method can be chosen without checking the values or conditions",
-      "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’\nHint: Use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’",
-      "hint": "Use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i01-p-004",
-    "curriculumCode": "AC9S9I01",
-    "bank": "practice",
-    "skill": "use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A testable question must always be causal",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence"
-    ],
-    "correct": 3,
-    "explanation": "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence\nHint: Use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing why a scientific hypothesis has to be able to be supported or refuted through evidence",
-      "hint": "Use a scientific hypothesis has to be able to be to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i01-p-005",
-    "curriculumCode": "AC9S9I01",
-    "bank": "practice",
-    "skill": "use proposing a hypothesis to test an identified relationship to make the role of model based prediction visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use proposing a hypothesis to test an identified relationship to make the role of model based prediction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use proposing a hypothesis to test an identified relationship to make the role of model based prediction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’",
-      "A prediction and hypothesis are identical",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’\nHint: Use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "proposing a hypothesis to test an identified relationship, such as: ‘If objects of different temperatures are placed in contact, heat energy will transfer from an object of higher temperature to an object of lower temperature until both objects reach the same temperature’",
-      "hint": "Use proposing a hypothesis to test an identified relationship to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i01-p-006",
-    "curriculumCode": "AC9S9I01",
-    "bank": "practice",
-    "skill": "use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A testable question must always be causal",
-      "discussing what is needed for a question to be investigable or a prediction to be reasoned",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "discussing what is needed for a question to be investigable or a prediction to be reasoned\nHint: Use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing what is needed for a question to be investigable or a prediction to be reasoned",
-      "hint": "Use what is needed for a question to be investigable to make the role of observation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i01-p-007",
-    "curriculumCode": "AC9S9I01",
-    "bank": "practice",
-    "skill": "use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A prediction and hypothesis are identical",
-      "The method can be chosen without checking the values or conditions",
-      "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’\nHint: Use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "generating investigable questions about the relationships between human body systems and everyday events, such as: ‘How does the intensity of exercise affect heart rate and breathing rate?’",
-      "hint": "Use generating investigable questions about the relationships between human body to make the role of question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i01-p-008",
-    "curriculumCode": "AC9S9I01",
-    "bank": "practice",
-    "skill": "use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A testable question must always be causal",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’"
-    ],
-    "correct": 3,
-    "explanation": "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’\nHint: Use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "developing investigable questions to explore an explanatory model, such as: ‘How is sound wave transfer affected by the density of the medium through which it travels? What causes our body temperature to rise when we are ill?’",
-      "hint": "Use investigable questions to explore an explanatory model to make the role of variables visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["investigable questions","Which question is most clearly investigable?",["How does water temperature affect the time taken for a fixed mass of sugar to dissolve?","Is hot water better?","Why is dissolving interesting?","Should people use hot water?"],0,"An investigable question identifies measurable variables that can be tested using observations or measurements.","Look for a measurable cause-and-effect relationship."],
+["investigable questions","Which question is NOT scientifically investigable as written?",["Is chocolate the best flavour?","How does exercise intensity affect heart rate?","How does light intensity affect plant growth?","How does temperature affect reaction rate?"],0,"'Best flavour' is a value judgement unless it is rewritten into a measurable question such as preference frequency in a defined sample.","Opinions need operational definitions before they can be tested scientifically."],
+["variables","In the question 'How does caffeine dose affect reaction time?', what is the independent variable?",["Caffeine dose","Reaction time","Participant age","Time taken to drink water"],0,"The independent variable is the factor deliberately changed or compared—in this case caffeine dose.","IV = factor changed."],
+["variables","In the question 'How does exercise intensity affect breathing rate?', what is the dependent variable?",["Breathing rate","Exercise intensity","Shoe type","Room colour"],0,"Breathing rate is the measured response to changes in exercise intensity.","DV = measured response."],
+["controls","A student tests how water temperature affects dissolving time. Which variable should be controlled?",["Mass and type of solute used in each trial","Water temperature","Dissolving time","The final conclusion"],0,"To isolate temperature, the amount and type of solute should be kept constant.","Keep other influential factors the same."],
+["operational variables","Which dependent variable is defined most precisely for a reaction-rate investigation?",["Time in seconds to collect 50 mL of gas","How fast the reaction seems","Amount of bubbling","Whether the reaction looks vigorous"],0,"A measured time to reach a fixed gas volume is quantitative and operationally defined.","Choose a variable that another student could measure the same way."],
+["prediction","A reasoned prediction should be based mainly on:",["Relevant scientific knowledge or prior evidence","What result would be easiest to obtain","A random guess","What the researcher hopes will happen"],0,"A reasoned prediction links existing scientific ideas or evidence to an expected outcome.","Prediction ≠ wish."],
+["hypothesis","Which is the strongest hypothesis for an exercise investigation?",["If exercise intensity increases, heart rate will increase because working muscles require faster delivery of oxygen and nutrients","Exercise is good for people","Heart rate might do something during exercise","People should exercise more"],0,"The statement is testable, links variables and gives scientific reasoning.","Strong hypotheses connect IV, DV and reasoning."],
+["feasibility","Which question is most feasible and safe for a typical school laboratory?",["How does temperature affect the rate at which an effervescent tablet reacts in water?","How does ionising radiation dose affect human cancer risk?","How does sleep deprivation for 48 hours affect student memory?","How does a dangerous pathogen spread between students?"],0,"The tablet investigation allows measurable variables without unacceptable human or biological risk.","Investigable also means practical and ethical."],
+["scope","Why is 'What affects plant growth?' a weak investigable question?",["It is too broad and does not identify a specific independent variable","Plant growth cannot be measured","Plants cannot be used in experiments","It contains a dependent variable"],0,"A good question narrows the relationship, for example 'How does light intensity affect weekly stem growth?'.","Specify one factor to change and one response to measure."],
+["question refinement","Which revision makes 'Does music help plants?' most scientifically useful?",["How does daily exposure to 70 dB music affect mean stem growth of bean seedlings over 14 days compared with silence?","Do plants like songs?","Is music good for nature?","Should gardeners play music?"],0,"The revised version identifies treatment, measurable outcome, organism and time frame.","Operationalise vague words such as 'help'."],
+["question quality","Which question best distinguishes an association from a causal experiment?",["Is weekly sleep duration associated with reaction time among students?","Does forcing students to sleep 3 hours prove sleep causes accidents?","Is sleep healthy?","Why are tired people annoying?"],0,"An observational association question can be investigated without claiming an experimental causal manipulation.","Match the wording to the design you can actually use."],
+["body systems","Which question tests a relationship involving the circulatory system?",["How does exercise duration affect recovery heart rate?","Is running enjoyable?","Should everyone run daily?","Why are hearts important?"],0,"Heart rate is a measurable circulatory response and exercise duration is a measurable explanatory variable.","Find two measurable variables."],
+["body systems","A student asks 'How does exercise affect body temperature?' Which refinement is strongest?",["How does 10 minutes of cycling at three fixed intensities affect body temperature immediately after exercise?","Does exercise make people hot?","Is high temperature bad?","Why does the body sweat?"],0,"The refined question specifies duration, treatment levels and a measurable response.","Make the method implied by the question clear."],
+["sound","Which is a better investigable question about sound transfer?",["How does the type of medium affect measured sound speed when temperature is controlled?","How does medium density alone determine sound speed in every material?","Is sound faster in good materials?","Why is sound interesting?"],0,"Sound speed depends on properties including elasticity and density, so comparing medium type while controlling conditions is more defensible than assuming density alone determines speed.","Avoid building an unproven explanation into the question."],
+["heat transfer","Which question best investigates conduction?",["How does material type affect the rate of temperature rise at the far end of equal-sized rods?","Which metal looks best?","Should pans be made of metal?","Why is heat warm?"],0,"The first question has a defined explanatory factor and measurable thermal response.","Ask what changes and what is measured."],
+["light absorption","A student compares black and white cans under the same lamp. Which question fits the investigation?",["How does surface colour affect temperature increase over 10 minutes?","Is black hotter?","Which colour is nicer?","Does light contain heat?"],0,"Surface colour is the independent variable and temperature change is measurable.","Use a measured change, not a vague adjective."],
+["friction","Which investigation question is strongest?",["How does surface material affect the force needed to start moving the same block?","Is friction annoying?","Should shoes have grip?","Are rough surfaces ugly?"],0,"The question specifies what varies and a force that can be measured.","Force provides a quantitative DV."],
+["reaction rate","For 'How does temperature affect reaction rate?', which prediction is most useful?",["Increasing temperature will reduce the time needed to produce a fixed amount of product","The reaction will be better when hot","Temperature matters","Hot reactions are exciting"],0,"The first prediction is directional and linked to a measurable outcome.","State what measurable result should change."],
+["electricity","Which question is best for testing wire geometry and resistance?",["How does wire diameter affect electrical resistance when material, length and temperature are controlled?","Are thick wires safer?","Why do wires conduct?","Which wire looks strongest?"],0,"The first isolates diameter while identifying key controls and a measurable response.","Control material, length and temperature."],
+["magnetism","Which prediction matches the question 'How does separation distance affect magnetic force?'",["As separation distance increases, measured magnetic force will decrease","Magnetic force will stay exactly constant at all distances","Magnets are useful","The stronger magnet will look larger"],0,"The prediction states an expected directional relationship between the variables.","Prediction should answer the investigable question."],
+["evaporation","Which dependent variable would best test the effect of air movement on evaporation?",["Mass of water lost per hour","Fan speed","Container colour","Whether evaporation occurs at all"],0,"Mass lost per unit time directly quantifies evaporation rate.","Measure a rate if the question is about rate."],
+["data reasoning","Heart rate rises from 85 bpm at low exercise intensity to 155 bpm at high intensity. What increase was observed?",["70 bpm","240 bpm","45 bpm","82% bpm"],0,"155 − 85 = 70 bpm. This numerical change can be used as evidence about the relationship.","Final minus initial."],
+["evidence and hypothesis","An experiment gives results opposite to the prediction. What should happen to the hypothesis?",["It should be reconsidered or refined in light of the evidence","The data should be changed to match it","It becomes a scientific law","The experiment must automatically be ignored"],0,"Hypotheses are testable explanations that can be supported, challenged or refined by evidence.","Evidence can challenge a prediction." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9i01-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9I01",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
