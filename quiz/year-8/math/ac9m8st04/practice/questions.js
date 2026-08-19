@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m8st04-p-001",
-    "curriculumCode": "AC9M8ST04",
-    "bank": "practice",
-    "skill": "use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business\nHint: Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.",
-    "structuredExplanation": {
-      "summary": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
-      "hint": "Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st04-p-002",
-    "curriculumCode": "AC9M8ST04",
-    "bank": "practice",
-    "skill": "identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The statistical investigations and inference model is copied without interpretation",
-      "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population\nHint: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.",
-    "structuredExplanation": {
-      "summary": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
-      "hint": "Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st04-p-003",
-    "curriculumCode": "AC9M8ST04",
-    "bank": "practice",
-    "skill": "explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress\nHint: Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress.",
-    "structuredExplanation": {
-      "summary": "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
-      "hint": "Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st04-p-004",
-    "curriculumCode": "AC9M8ST04",
-    "bank": "practice",
-    "skill": "use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business"
-    ],
-    "correct": 3,
-    "explanation": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business\nHint: Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.",
-    "structuredExplanation": {
-      "summary": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
-      "hint": "Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st04-p-005",
-    "curriculumCode": "AC9M8ST04",
-    "bank": "practice",
-    "skill": "identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
-      "The statistical investigations and inference model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population\nHint: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.",
-    "structuredExplanation": {
-      "summary": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
-      "hint": "Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st04-p-006",
-    "curriculumCode": "AC9M8ST04",
-    "bank": "practice",
-    "skill": "explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore progress in reconciliation between first nations australians and non indigenous australians investigating and evaluating sampling techniques and methods to gather relevant data to measure progress. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress\nHint: Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress.",
-    "structuredExplanation": {
-      "summary": "exploring progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress",
-      "hint": "Explore progress in reconciliation between First Nations Australians and non-Indigenous Australians, investigating and evaluating sampling techniques and methods to gather relevant data to measure progress."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st04-p-007",
-    "curriculumCode": "AC9M8ST04",
-    "bank": "practice",
-    "skill": "use data such as electricity consumption to draw conclusions about the impacts of events such as pandemics on households or business",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
-    "audioPrompt": "What should you check when using use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business\nHint: Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business.",
-    "structuredExplanation": {
-      "summary": "using data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business",
-      "hint": "Use data such as electricity consumption to draw conclusions about the impacts of events, such as pandemics, on households or business."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8st04-p-008",
-    "curriculumCode": "AC9M8ST04",
-    "bank": "practice",
-    "skill": "identify situations where the collection of data from a sample is necessary due to efficiency cost or restricted time for collection of data",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data?",
-    "audioPrompt": "What should you check when using identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The statistical investigations and inference model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population"
-    ],
-    "correct": 3,
-    "explanation": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population\nHint: Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data.",
-    "structuredExplanation": {
-      "summary": "identifying situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data, and sufficiently reliable for making inferences about a population",
-      "hint": "Identify situations where the collection of data from a sample is necessary due to efficiency, cost or restricted time for collection of data."
-    },
-    "qualitySchema": "production-v1"
-  }
+const rawPractice = [
+["Electricity use increased by 18% during a lockdown. Which inference is best supported?",["Household electricity use increased during that period","The lockdown directly caused every increase","Businesses necessarily used more electricity","No change occurred"],0,"The data support an increase in household use during the period, but do not by themselves prove the cause."],
+["A sudden drop in business electricity use during a major event most reasonably suggests:",["Reduced business operations","More customers","Increased production","No possible explanation"],0,"A drop in business use is consistent with reduced operations, although other explanations should still be considered."],
+["Weekday electricity use begins to resemble weekend use during a period of widespread remote work. Which inference is reasonable?",["More people may be spending weekdays at home","More people must be working in offices","Home activity decreased","The pattern proves causation"],0,"The pattern is consistent with increased weekday activity at home, but does not prove a single cause."],
+["An increase in electricity use during a pandemic does NOT by itself prove:",["Direct causation by the pandemic","A change in usage pattern","That electricity use can vary","That context matters"],0,"Association in observational data does not by itself establish direct causation."],
+["Why is there uncertainty when interpreting electricity-use changes?",["Multiple factors can affect electricity use","Only one factor can affect use","Data are always perfect","Variation cannot occur"],0,"Weather, occupancy, appliance use, business activity and other factors can all affect consumption."],
+["Comparing electricity use before and after an event without assigning treatments is best described as:",["An observational comparison","A controlled experiment","A census by definition","Convenience sampling"],0,"No treatment is assigned, so this is observational rather than experimental."],
+["A recurring spike in household electricity use around 6 pm is most plausibly associated with:",["Daily household routines","Proof of random error","Business operations only","Weather only"],0,"Evening cooking, heating/cooling and appliance use can create repeated household patterns."],
+["Why would electricity data from only one suburb be limited for making claims about an entire city?",["The suburb may not represent the whole city","Digital data are always biased","Continuous data are unreliable","One suburb guarantees accuracy"],0,"Coverage of one suburb may not reflect the wider population."],
+["Inference from a sample is generally stronger when the sample is:",["Representative of the target population","Very small","Convenient only","Missing important groups"],0,"Representativeness is central to generalising from a sample."],
+["A persistent long-term upward trend in electricity use is more consistent with:",["A systematic change over time","A single random fluctuation","No change","One measurement mistake"],0,"A sustained trend suggests a systematic pattern rather than one isolated fluctuation."],
+["Small day-to-day fluctuations around a broader electricity trend are best described as:",["Short-term variation around the trend","Proof of bias","Always measurement error","Impossible variation"],0,"Short-term variation can occur around a broader pattern and is not automatically bias or error."],
+["Electricity-use data alone usually cannot identify:",["The exact behavioural reasons behind the pattern","Total measured consumption","When consumption was higher","Whether values varied"],0,"Consumption data show what happened, but often need contextual information to explain why."],
+["Good interpretation of event-related electricity data should include:",["Relevant contextual information","Only the graph","No context","Only one summary statistic"],0,"Context helps distinguish plausible explanations and avoid overclaiming."],
+["For comparing electricity use over time, data collection is most useful when it is:",["Consistent and comparable across periods","Infrequent and changing methods","Convenience-based","Collected with different definitions each time"],0,"Consistent measurement methods make comparisons more reliable."],
+["Sampling is especially useful when:",["A census would be too costly or impractical","Every individual must be measured","The population is tiny and fully available","A census is required"],0,"Sampling can reduce time, cost and effort when a full census is impractical."],
+["Compared with a census, sampling can save:",["Time, money and resources","Only time","Only money","Nothing"],0,"Sampling often reduces several practical costs at once."],
+["A sample provides a sound basis for population inference when it is:",["Well designed and representative","Biased","Convenient only","Small regardless of design"],0,"Good sampling design matters more than size alone."],
+["If sampling design is sound, increasing sample size generally reduces:",["Random sampling variability","Systematic sampling bias automatically","Representativeness","Accuracy"],0,"Larger samples generally reduce random sampling variability, but do not automatically remove bias."],
+["A time constraint may justify sampling because:",["Collecting data from everyone may take too long","A census becomes more accurate","Small populations cannot be sampled","Sampling removes all uncertainty"],0,"Sampling is often used when a full census cannot be completed within available time."],
+["Sampling may be preferred when the budget is limited because:",["It can cost less than a census","It guarantees no bias","It always gives exact values","It requires more respondents"],0,"Sampling can lower data-collection costs, though uncertainty remains."],
+["Which feature most directly makes a sample unreliable for population inference?",["Systematic bias in who is included","Random selection","Appropriate stratification","A large sample from a good frame"],0,"Bias can systematically distort estimates regardless of sample size."],
+["To estimate average household water use across the ACT, a useful design would be:",["A stratified random sample across relevant household groups or regions","Only volunteers from one suburb","A convenience sample at one shopping centre","Only high-use households"],0,"Stratification can improve coverage of important population groups when combined with appropriate sampling."],
+["Sampling uncertainty exists because:",["Different random samples can produce different results","All samples are identical","Randomness is absent","Every sample equals the population"],0,"Sample-to-sample variation is expected in random sampling."],
+["Even a well-designed sample cannot guarantee:",["Perfect agreement with the population value","Useful inference","Reasonable representativeness","Efficient data collection"],0,"Sampling always involves some uncertainty, so exact agreement is not guaranteed."]
 ];
+window.skillrPracticeQuestions = rawPractice.map((x,i)=>({id:`ac9m8st04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M8ST04",bank:"practice",section:i<14?"E1":"E2",sourceNumber:i+1,skill:i<14?"infer impacts from data":"evaluate sampling necessity and reliability",printable:true,type:"single",question:x[0],audioPrompt:x[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:x[1],correct:x[2],explanation:x[3],structuredExplanation:{summary:x[3],hint:"Check what the data actually support, then consider sampling design and uncertainty."},qualitySchema:"production-v1"}));
 window.quizQuestions = window.skillrPracticeQuestions;
