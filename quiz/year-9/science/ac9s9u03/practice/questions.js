@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9u03-p-001",
-    "curriculumCode": "AC9S9U03",
-    "bank": "practice",
-    "skill": "use earth as a system describing earth s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use earth as a system describing earth s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use earth as a system describing earth s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "identifying Earth as a system, describing Earth’s spheres and discussing examples of interactions between different spheres",
-      "Carbon is created by combustion",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "identifying Earth as a system, describing Earth’s spheres and discussing examples of interactions between different spheres\nHint: Use Earth as a system, describing Earth’s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying Earth as a system, describing Earth’s spheres and discussing examples of interactions between different spheres",
-      "hint": "Use Earth as a system, describing Earth’s spheres and discussing to make the role of atmosphere visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u03-p-002",
-    "curriculumCode": "AC9S9U03",
-    "bank": "practice",
-    "skill": "use the carbon cycle using diagrams animations or simulations to make the role of biosphere visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the carbon cycle using diagrams animations or simulations to make the role of biosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the carbon cycle using diagrams animations or simulations to make the role of biosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The carbon cycle is one simple circle",
-      "examining the carbon cycle using diagrams, animations or simulations and explaining the role of photosynthesis and respiration in that cycle",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "examining the carbon cycle using diagrams, animations or simulations and explaining the role of photosynthesis and respiration in that cycle\nHint: Use the carbon cycle using diagrams, animations or simulations to make the role of biosphere visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the carbon cycle using diagrams, animations or simulations and explaining the role of photosynthesis and respiration in that cycle",
-      "hint": "Use the carbon cycle using diagrams, animations or simulations to make the role of biosphere visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u03-p-003",
-    "curriculumCode": "AC9S9U03",
-    "bank": "practice",
-    "skill": "use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Carbon is created by combustion",
-      "The method can be chosen without checking the values or conditions",
-      "identifying the impact of combustion reactions as a result of human activity on the carbon cycle",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying the impact of combustion reactions as a result of human activity on the carbon cycle\nHint: Use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying the impact of combustion reactions as a result of human activity on the carbon cycle",
-      "hint": "Use the impact of combustion reactions as a result to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u03-p-004",
-    "curriculumCode": "AC9S9U03",
-    "bank": "practice",
-    "skill": "use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The carbon cycle is one simple circle",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating the greenhouse effect and relating it to the role carbon dioxide plays in maintaining temperatures that support life on Earth"
-    ],
-    "correct": 3,
-    "explanation": "investigating the greenhouse effect and relating it to the role carbon dioxide plays in maintaining temperatures that support life on Earth\nHint: Use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating the greenhouse effect and relating it to the role carbon dioxide plays in maintaining temperatures that support life on Earth",
-      "hint": "Use the greenhouse effect and relating it to the role to make the role of geosphere visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u03-p-005",
-    "curriculumCode": "AC9S9U03",
-    "bank": "practice",
-    "skill": "use a field investigation to evaluate carbon sequestration to make the role of photosynthesis respiration and combustion visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use a field investigation to evaluate carbon sequestration to make the role of photosynthesis respiration and combustion visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use a field investigation to evaluate carbon sequestration to make the role of photosynthesis respiration and combustion visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "conducting a field investigation to evaluate carbon sequestration in an ecosystem, such as measuring tree biomass, deadwood, leaf litter and soil depth, and using formulas to calculate approximate carbon storage",
-      "Carbon is created by combustion",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "conducting a field investigation to evaluate carbon sequestration in an ecosystem, such as measuring tree biomass, deadwood, leaf litter and soil depth, and using formulas to calculate approximate carbon storage\nHint: Use a field investigation to evaluate carbon sequestration to make the role of photosynthesis, respiration and combustion visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "conducting a field investigation to evaluate carbon sequestration in an ecosystem, such as measuring tree biomass, deadwood, leaf litter and soil depth, and using formulas to calculate approximate carbon storage",
-      "hint": "Use a field investigation to evaluate carbon sequestration to make the role of photosynthesis, respiration and combustion visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u03-p-006",
-    "curriculumCode": "AC9S9U03",
-    "bank": "practice",
-    "skill": "use how first nations australians use fire mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how first nations australians use fire mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how first nations australians use fire mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The carbon cycle is one simple circle",
-      "investigating how First Nations Australians use fire-mediated chemical reactions to facilitate energy and nutrient transfer through the practice of firestick farming",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating how First Nations Australians use fire-mediated chemical reactions to facilitate energy and nutrient transfer through the practice of firestick farming\nHint: Use how First Nations Australians use fire-mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how First Nations Australians use fire-mediated chemical reactions to facilitate energy and nutrient transfer through the practice of firestick farming",
-      "hint": "Use how First Nations Australians use fire-mediated chemical reactions to make the role of atmosphere visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u03-p-007",
-    "curriculumCode": "AC9S9U03",
-    "bank": "practice",
-    "skill": "use how first nations australians are reducing australia s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how first nations australians are reducing australia s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how first nations australians are reducing australia s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Carbon is created by combustion",
-      "The method can be chosen without checking the values or conditions",
-      "investigating how First Nations Australians are reducing Australia’s greenhouse gas emissions through the reinstatement of traditional fire management regimes",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating how First Nations Australians are reducing Australia’s greenhouse gas emissions through the reinstatement of traditional fire management regimes\nHint: Use how First Nations Australians are reducing Australia’s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how First Nations Australians are reducing Australia’s greenhouse gas emissions through the reinstatement of traditional fire management regimes",
-      "hint": "Use how First Nations Australians are reducing Australia’s greenhouse gas to make the role of biosphere visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u03-p-008",
-    "curriculumCode": "AC9S9U03",
-    "bank": "practice",
-    "skill": "use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The carbon cycle is one simple circle",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "identifying how carbon dioxide is captured and stored naturally or through the use of technologies"
-    ],
-    "correct": 3,
-    "explanation": "identifying how carbon dioxide is captured and stored naturally or through the use of technologies\nHint: Use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying how carbon dioxide is captured and stored naturally or through the use of technologies",
-      "hint": "Use how carbon dioxide is captured and stored naturally to make the role of hydrosphere visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["Earth spheres","Which description best matches the biosphere?",["All living organisms and the regions where life occurs","All rocks, minerals and soil only","All liquid water only","The gases surrounding Earth only"],0,"The biosphere includes living things and their living systems; it interacts continuously with the other Earth spheres.","Bio = life."],
+["Earth spheres","Which pairing is correct?",["Hydrosphere — oceans, rivers, groundwater and ice","Geosphere — animals and plants","Atmosphere — rocks and soil","Biosphere — only forests"],0,"The hydrosphere includes Earth's water in its major forms and locations.","Hydro = water."],
+["sphere interaction","During photosynthesis, a tree takes carbon dioxide from the air and converts some of its carbon into biomass. Which transfer is most direct?",["Atmosphere → biosphere","Geosphere → atmosphere","Hydrosphere → geosphere","Biosphere → hydrosphere"],0,"Carbon dioxide from the atmosphere becomes part of living plant tissue in the biosphere.","Track where the carbon starts and ends."],
+["sphere interaction","A volcano releases carbon dioxide from Earth's crust into the air. Which carbon transfer occurs?",["Geosphere → atmosphere","Atmosphere → biosphere","Hydrosphere → biosphere","Biosphere → geosphere"],0,"Carbon stored in geological material moves into the atmosphere during volcanic emissions.","Rock reservoir to air."],
+["sphere interaction","A marine organism builds a calcium-carbonate shell using carbon dissolved in seawater. Which spheres are directly linked?",["Hydrosphere and biosphere","Atmosphere and geosphere only","Geosphere and atmosphere only","Biosphere and cryosphere only"],0,"The organism is part of the biosphere and uses carbon dissolved in the hydrosphere.","Living organism + seawater."],
+["carbon cycle","Which process removes carbon dioxide from the atmosphere and stores carbon in organic molecules?",["Photosynthesis","Cellular respiration","Combustion","Decomposition only"],0,"Photosynthesis fixes carbon from atmospheric or dissolved CO₂ into organic molecules such as glucose.","Carbon fixation occurs in photosynthesis."],
+["carbon cycle","Which statement about plant respiration is correct?",["Plants respire and release carbon dioxide as they break down organic molecules for energy","Plants only photosynthesise and never respire","Respiration permanently removes carbon from the carbon cycle","Plant respiration produces glucose from carbon dioxide"],0,"Plants both photosynthesise and respire; respiration returns some carbon to the atmosphere as CO₂.","Plants do both processes."],
+["carbon cycle","During cellular respiration, carbon in glucose is mainly transferred into:",["Carbon dioxide","Oxygen gas","Nitrogen gas","Mineral salts"],0,"Respiration oxidises carbon-containing organic molecules, producing carbon dioxide and releasing usable energy.","Track the carbon atoms."],
+["carbon reservoirs","Most carbon in coal, oil and natural gas is stored in which Earth sphere before combustion?",["Geosphere","Atmosphere","Biosphere","Hydrosphere"],0,"Fossil fuels are geological carbon reservoirs stored underground in rocks and sediments.","Fossil fuels are geological stores."],
+["decomposition","When decomposers break down dead organic matter, where can the carbon go?",["Into soil and sediments, and into the atmosphere through respiration","Only into the hydrosphere","Only into living plants","It disappears from the carbon cycle"],0,"Decomposition redistributes carbon: some remains in soils/sediments and some is released as gases through decomposer respiration.","Carbon changes reservoirs; it is not destroyed."],
+["combustion","Burning a fossil fuel most directly transfers carbon from:",["Geosphere → atmosphere","Atmosphere → geosphere","Biosphere → hydrosphere","Hydrosphere → biosphere"],0,"Combustion releases carbon that had been stored geologically into atmospheric carbon dioxide.","Underground fuel to air."],
+["greenhouse effect","What is the role of carbon dioxide in the natural greenhouse effect?",["It absorbs and re-emits some outgoing infrared radiation, helping keep Earth warmer than it would otherwise be","It creates heat from nothing","It blocks all incoming sunlight","It mainly absorbs ultraviolet radiation in the ozone layer"],0,"Greenhouse gases interact with outgoing infrared radiation and reduce the rate at which energy escapes to space.","Think outgoing infrared, not incoming visible light."],
+["enhanced greenhouse effect","Why can increasing atmospheric greenhouse-gas concentrations warm Earth's climate?",["More outgoing infrared energy is absorbed and re-emitted within the atmosphere, changing Earth's energy balance","Greenhouse gases create extra solar energy","Carbon dioxide reflects all sunlight back to Earth","More greenhouse gas stops photosynthesis completely"],0,"Higher greenhouse-gas concentrations strengthen infrared absorption and re-emission, producing an enhanced greenhouse effect.","It changes energy flow, not energy creation."],
+["human carbon cycle","Which human activity transfers long-stored geological carbon to the atmosphere most directly?",["Burning coal, oil and natural gas","Planting a forest","Evaporation from oceans","Weathering of a fresh leaf"],0,"Fossil-fuel combustion rapidly moves carbon from geological reservoirs into atmospheric CO₂.","Long-term store → fast release."],
+["deforestation","Why can large-scale deforestation increase atmospheric carbon dioxide?",["It can reduce future photosynthetic uptake and may release carbon from biomass and soils","Trees are the main source of fossil fuels each year","Removing trees stops all respiration globally","Bare ground produces carbon dioxide from sunlight"],0,"Deforestation can both remove a carbon sink and release previously stored carbon, depending on what happens to vegetation and soil.","Less uptake + possible release."],
+["forest fire","When forest biomass burns, much of its carbon is transferred from:",["Biosphere → atmosphere","Atmosphere → hydrosphere","Geosphere → biosphere","Hydrosphere → geosphere"],0,"Combustion converts carbon in living or dead biomass into gases, including carbon dioxide.","Biomass is biosphere carbon."],
+["carbon sequestration","What does carbon sequestration mean?",["Capturing or storing carbon so it remains out of the atmosphere for a period of time","Destroying carbon atoms","Turning all carbon dioxide into oxygen","Measuring only carbon released by transport"],0,"Sequestration refers to storing carbon in reservoirs such as vegetation, soils or geological formations.","Sequester = store."],
+["biomass","Why can measuring tree biomass help estimate carbon storage?",["A substantial fraction of dry plant biomass consists of carbon-containing organic compounds","Only tree roots contain carbon","Carbon is stored only in leaves","Tree height directly equals tonnes of carbon"],0,"Biomass can be converted to an estimate of stored carbon using suitable allometric relationships and assumptions.","Biomass is a proxy, not a direct one-to-one measure."],
+["cultural burning","Which statement best describes well-planned First Nations cultural burning practices?",["They can use carefully timed, low-intensity fire to manage Country in ways that support ecological and cultural objectives","They aim to burn all vegetation as completely as possible","They are identical in every ecosystem and season","They prevent all future bushfires"],0,"Cultural burning is place-based knowledge and practice; timing, intensity, purpose and Country matter.","Avoid universal claims about all fire."],
+["cultural burning","How can low-intensity cultural burning influence carbon and nutrient cycling?",["It can transform some litter and biomass, return mineral nutrients in ash, and alter later fuel loads and carbon flows","It removes carbon from Earth permanently","It stops decomposition everywhere","It converts all soil carbon directly into oxygen"],0,"Fire changes the form and location of carbon and nutrients rather than making matter disappear.","Matter is transferred and transformed."],
+["fire emissions","Why is it too simplistic to say cultural burning always lowers greenhouse-gas emissions?",["Net effects depend on ecosystem, timing, fire intensity, fuel loads, later fires and the period considered","All fires have exactly the same emissions","Cultural burning never releases carbon dioxide","Greenhouse gases are unrelated to fire"],0,"Fire-management outcomes are context-dependent and should be evaluated over relevant timescales and landscapes.","Context matters."],
+["carbon capture","What is geological carbon capture and storage (CCS)?",["Capturing carbon dioxide and injecting it into suitable deep geological formations for long-term storage","Storing carbon dioxide in ordinary classroom containers","Using plants as the only possible carbon store","Releasing captured carbon dioxide into the upper atmosphere"],0,"Geological CCS aims to isolate captured CO₂ in carefully selected underground formations.","Capture + transport + geological storage."],
+["natural carbon uptake","Which process is a major natural pathway for atmospheric carbon entering living biomass?",["Photosynthesis","Combustion","Respiration","Volcanic eruption"],0,"Photosynthesis transfers inorganic carbon into organic matter in producers.","Atmosphere to living tissue."],
+["carbon footprint","A carbon footprint is best described as:",["The greenhouse-gas emissions associated with an activity, product or person, commonly expressed as carbon-dioxide equivalent (CO₂-e)","Only the carbon dioxide a person breathes out","A measure of water use only","The amount of carbon stored in a shoe"],0,"Carbon footprints usually combine different greenhouse gases using CO₂-equivalent units so their climate effects can be compared.","It is broader than CO₂ alone." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9u03-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9U03",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
