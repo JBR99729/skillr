@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10i07-p-001",
-    "curriculumCode": "AC9S10I07",
-    "bank": "practice",
-    "skill": "use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe",
-      "A persuasive tone strengthens scientific evidence",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe\nHint: Use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "constructing a scientific argument showing how a range of evidence supports a claim relating to the age of the universe",
-      "hint": "Use a scientific argument showing how a range of evidence to make the role of claim visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i07-p-002",
-    "curriculumCode": "AC9S10I07",
-    "bank": "practice",
-    "skill": "use in evidence based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use in evidence based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use in evidence based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Acknowledging uncertainty weakens an argument",
-      "engaging in evidence-based debates about the role of human activity in global climate change",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "engaging in evidence-based debates about the role of human activity in global climate change\nHint: Use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "engaging in evidence-based debates about the role of human activity in global climate change",
-      "hint": "Use in evidence-based debates about the role of human activity to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i07-p-003",
-    "curriculumCode": "AC9S10I07",
-    "bank": "practice",
-    "skill": "use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A persuasive tone strengthens scientific evidence",
-      "The method can be chosen without checking the values or conditions",
-      "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research\nHint: Use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "reasoning from a range of evidence to support or rebut claims made in news reports on scientific research",
-      "hint": "Use from a range of evidence to support or rebut to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i07-p-004",
-    "curriculumCode": "AC9S10I07",
-    "bank": "practice",
-    "skill": "use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Acknowledging uncertainty weakens an argument",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources"
-    ],
-    "correct": 3,
-    "explanation": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources\nHint: Use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data, and identifying the extent to which the data is consistent with data from other sources",
-      "hint": "Use secondary data to determine the credibility of the source to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i07-p-005",
-    "curriculumCode": "AC9S10I07",
-    "bank": "practice",
-    "skill": "use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians",
-      "A persuasive tone strengthens scientific evidence",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians\nHint: Use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "acknowledging the need to critically analyse scientific literature for potential cultural bias in relation to First Nations Australians",
-      "hint": "Use the need to critically analyse scientific literature for potential to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i07-p-006",
-    "curriculumCode": "AC9S10I07",
-    "bank": "practice",
-    "skill": "use the ethical issues of non therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the ethical issues of non therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the ethical issues of non therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Acknowledging uncertainty weakens an argument",
-      "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies\nHint: Use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering the ethical issues of non-therapeutic genetic testing performed by commercial companies",
-      "hint": "Use the ethical issues of non-therapeutic genetic testing performed to make the role of claim visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i07-p-007",
-    "curriculumCode": "AC9S10I07",
-    "bank": "practice",
-    "skill": "use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A persuasive tone strengthens scientific evidence",
-      "The method can be chosen without checking the values or conditions",
-      "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change\nHint: Use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using primary or secondary scientific evidence to support or oppose a local action that may impact on global climate change",
-      "hint": "Use primary or secondary scientific evidence to support or oppose to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i07-p-008",
-    "curriculumCode": "AC9S10I07",
-    "bank": "practice",
-    "skill": "use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Acknowledging uncertainty weakens an argument",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "preparing an argument for increased funding for a particular scientific research focus"
-    ],
-    "correct": 3,
-    "explanation": "preparing an argument for increased funding for a particular scientific research focus\nHint: Use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "preparing an argument for increased funding for a particular scientific research focus",
-      "hint": "Use an argument for increased funding for a particular scientific to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["evidence","Which evidence combination most strongly supports an argument about the age of the universe?",["Redshift observations, cosmic microwave background measurements and independent age estimates from stars","A single astronomy blog post","Weather records and fossils","One telescope image with no measurements"],0,"Multiple independent astronomical measurements provide converging evidence for cosmological age estimates.","Prefer converging independent evidence."],
+["climate evidence","A student argues that human activity contributes to climate change. Which evidence base is strongest?",["Long-term greenhouse-gas records, temperature observations, physical mechanisms and model/observational comparisons","One unusually hot summer","A social media poll","A single local weather station for one week"],0,"A strong argument combines long-term observations with mechanisms and multiple lines of evidence.","Use long-term, independent evidence."],
+["secondary sources","Two secondary sources report different temperature trends. What should be evaluated first?",["Their data sources, methods, time periods and credibility","Which source has more followers","Which graph looks smoother","Which conclusion is more dramatic"],0,"Conflicting secondary sources should be traced back to their underlying evidence and methods.","Trace claims to source data."],
+["media claims","A headline says a study 'disproves climate change'. What is the strongest first step?",["Read the original study and check its methods, scope and actual conclusion","Check the journalist's political views","Count comments on the article","Assume the headline accurately summarises the paper"],0,"Scientific claims should be evaluated from the primary evidence rather than headline framing.","Go to the original study."],
+["claim scope","A new drug study reports benefits in one small demographic but a news article says it 'works for everyone'. What should be checked?",["Whether the sample and evidence justify generalising to other populations","The drug's colour","The size of the company","Whether the headline is popular"],0,"A claim should not extend beyond the studied population without supporting evidence.","Population scope matters."],
+["first nations protocols","When using First Nations ecological knowledge in a scientific argument, what is essential?",["Respect cultural authority, permission, attribution and agreed conditions of use","Treat all knowledge as public domain","Use it only if it has first been published by a Western scientist","Ignore community context once data are collected"],0,"Accessing and citing Indigenous knowledge requires respect for cultural protocols and knowledge ownership.","Permission and cultural authority matter."],
+["cultural ownership","Why is cultural ownership relevant when citing First Nations knowledge?",["Knowledge may have community-specific custodianship and restrictions on access, sharing or attribution","Scientific information has no ownership considerations","Only recent knowledge can be culturally owned","Ownership matters only for commercial products"],0,"Knowledge systems can include responsibilities and permissions that must be respected in use and citation.","Consider who has authority to share the knowledge."],
+["genetic ethics","A genetic-testing company sells customer DNA data to third parties without clear permission. What is the key ethical concern?",["Informed consent and privacy","Sample size","Climate modelling","Instrument calibration"],0,"Genetic data are sensitive personal information, so secondary use requires meaningful consent and safeguards.","Sensitive data require clear consent."],
+["genetic storage","A company stores genetic data indefinitely. What should customers be told clearly?",["How long data are stored, who can access them, how they may be used and whether deletion is possible","Only the laboratory address","Whether the database has a logo","The average age of other customers"],0,"Data governance and consent require transparency about storage, access, secondary use and deletion.","Consent requires understandable future-use information."],
+["non-therapeutic testing","A direct-to-consumer ancestry test provides no medical diagnosis. How should it best be described?",["A non-therapeutic genetic information service with privacy and interpretation considerations","A clinical diagnosis","Proof of health status","Evidence that medical testing is unnecessary"],0,"Ancestry-oriented genetic testing can provide information without being a medical diagnostic test.","Information service ≠ diagnosis."],
+["tree offsets","A council proposes tree planting to offset emissions. Which evidence is most relevant?",["Measured carbon sequestration over time plus survival, land-use and permanence data","Tree height alone","Leaf colour","Public preference for trees"],0,"Offset claims require evidence about net carbon uptake and whether storage is durable.","Carbon uptake + permanence."],
+["local global","A local emissions-reduction project is claimed to have a global climate benefit. What evidence is needed?",["Quantified emissions avoided and how that change contributes within the wider global carbon budget","Local opinions","Soil colour","The number of project signs"],0,"Global-impact arguments need a defensible connection between local emissions changes and the broader system.","Connect local action to global mechanism."],
+["plastic action","A town reduces single-use plastics. Which evidence best supports a claim that this could reduce marine pollution?",["Waste-flow and litter data linking local plastic leakage to waterways and marine environments","Plant colour","Average road temperature","Number of shops in town"],0,"The argument needs a pathway connecting local waste reduction to reduced environmental leakage.","Show the mechanism linking action to impact."],
+["government data","Is data from a government agency automatically reliable?",["No; it can be credible, but methods, definitions, transparency and fitness for purpose still need evaluation","Yes, government data are always correct","No, government data are never scientific","Only commercial data can be trusted"],0,"Source reputation matters, but evidence quality still depends on methods and transparency.","Authority does not replace evaluation."],
+["commercial sources","A commercial website publishes data supporting its own product. What additional issue should be considered?",["Possible conflict of interest as well as data quality and transparency","Whether the website is colourful","Whether the company is large","Whether the product is popular"],0,"Funding or commercial interests can create incentives that should be considered alongside methodological quality.","Check interests and methods."],
+["independent evidence","Why are multiple independent measurements valuable when evaluating a claim?",["Agreement across genuinely independent methods reduces the chance that one shared error explains the result","They guarantee the claim is permanently true","They remove all uncertainty","They make methods unnecessary"],0,"Independent convergence strengthens confidence because distinct methods may have different weaknesses.","Independent agreement is stronger than repeated copying."],
+["reproducibility","Other researchers cannot reproduce a reported result. What does this do to the claim?",["It lowers confidence and prompts investigation of methods, conditions and possible sources of discrepancy","It proves fraud","It proves the original result false immediately","It has no relevance"],0,"Failed reproduction is important conflicting evidence but needs investigation before absolute conclusions.","Reproducibility problems weaken confidence."],
+["outdated evidence","A scientific argument relies mainly on decades-old data even though newer high-quality measurements exist. What is best?",["Update the argument using the strongest current evidence and explain whether conclusions change","Keep the old data because older evidence is always more reliable","Ignore newer evidence","Use only the oldest source for consistency"],0,"Arguments should incorporate relevant, credible and current evidence where available.","Use the best available evidence."],
+["emotional language","A news article uses highly emotional language but provides little evidence. How should this affect evaluation?",["The rhetoric should be separated from the evidence; claim quality depends on the supporting data and reasoning","Emotional wording makes the claim stronger","Strong language proves bias in the underlying study","The article must be false"],0,"Style is not evidence; evaluate the underlying data and reasoning separately.","Rhetoric ≠ evidence."],
+["graph context","A news report appears to misread a graph. What should a reader check?",["The original axes, units, scale, caption, dataset and surrounding interpretation","Only the headline","Only whether the graph is colourful","Whether the article supports the reader's prior view"],0,"Graph meaning depends on scale, labels and context; secondary summaries can distort it.","Check the original figure and context."],
+["funding argument","Which evidence most strengthens an argument for increased research funding?",["Clear societal need, plausible scientific benefit, current evidence gaps and realistic potential impact","Emotional appeal alone","Number of researchers asking for money","Whether the topic is fashionable"],0,"Funding arguments are stronger when linked to demonstrated need and research opportunity.","Need + evidence gap + potential benefit."],
+["climate proxies","Why can ice-core records strengthen a climate argument?",["They provide long-term proxy evidence that can be compared with other independent climate records","They directly measure today's weather everywhere","They remove the need for modern observations","They prove a single cause without other evidence"],0,"Proxy records extend evidence back in time and are strongest when integrated with other records.","Proxy evidence adds another line of evidence."],
+["cosmology update","New high-quality data conflict with an existing age estimate for the universe. What should scientists do?",["Re-examine assumptions, methods and models and update the argument if warranted","Ignore the new data","Reject all previous astronomy","Keep the old conclusion because it was accepted first"],0,"Scientific arguments should respond to credible new evidence.","Good arguments are revisable."],
+["argument quality","Which statement best describes a strong scientific argument?",["It links a clear claim to relevant evidence, explains the reasoning, acknowledges uncertainty and addresses credible alternatives","It uses the strongest possible wording","It cites the most sources regardless of quality","It avoids mentioning limitations"],0,"Argument strength comes from evidence-reasoning alignment, not rhetorical certainty.","Claim + evidence + reasoning + limits."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s10i07-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10I07",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
