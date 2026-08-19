@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9i02-p-001",
-    "curriculumCode": "AC9S9I02",
-    "bank": "practice",
-    "skill": "use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
-      "Many repeats fix systematic bias",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation\nHint: Use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
-      "hint": "Use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i02-p-002",
-    "curriculumCode": "AC9S9I02",
-    "bank": "practice",
-    "skill": "use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A detailed method is automatically valid",
-      "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’\nHint: Use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
-      "hint": "Use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i02-p-003",
-    "curriculumCode": "AC9S9I02",
-    "bank": "practice",
-    "skill": "use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Many repeats fix systematic bias",
-      "The method can be chosen without checking the values or conditions",
-      "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed\nHint: Use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying possible sources of error in methods then examining if further testing or extra variable control is needed",
-      "hint": "Use possible sources of error in methods then examining if to make the role of sampling and repeats visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i02-p-004",
-    "curriculumCode": "AC9S9I02",
-    "bank": "practice",
-    "skill": "use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A detailed method is automatically valid",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed"
-    ],
-    "correct": 3,
-    "explanation": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed\nHint: Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying the potential hazards of chemicals or biological materials and processes used in experimental investigations and identifying how these should be addressed",
-      "hint": "Use the potential hazards of chemicals or biological materials to make the role of risk and ethics visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i02-p-005",
-    "curriculumCode": "AC9S9I02",
-    "bank": "practice",
-    "skill": "use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
-      "Many repeats fix systematic bias",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals\nHint: Use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing the ethical and social issues involved in the care and use of animals for scientific purposes before starting an investigation involving animals",
-      "hint": "Use the ethical and social issues involved in the care to make the role of reproducible method visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i02-p-006",
-    "curriculumCode": "AC9S9I02",
-    "bank": "practice",
-    "skill": "use first nations australians heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use first nations australians heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use first nations australians heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A detailed method is automatically valid",
-      "recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters\nHint: Use First Nations Australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "recognising First Nations Australians’ heritage laws and public responsibilities to report new sites or artefacts, and developing awareness of the consequences for disturbing heritage sites on, above or below the land surface, or in waters",
-      "hint": "Use First Nations Australians’ heritage laws and public responsibilities to make the role of question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i02-p-007",
-    "curriculumCode": "AC9S9I02",
-    "bank": "practice",
-    "skill": "use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Many repeats fix systematic bias",
-      "The method can be chosen without checking the values or conditions",
-      "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation\nHint: Use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing what is meant by validity and reproducibility and how they relate to the method used in an investigation",
-      "hint": "Use what is meant by validity and reproducibility and how to make the role of question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i02-p-008",
-    "curriculumCode": "AC9S9I02",
-    "bank": "practice",
-    "skill": "use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A detailed method is automatically valid",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’"
-    ],
-    "correct": 3,
-    "explanation": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’\nHint: Use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "determining the reproducibility of a field investigation using survey techniques that seek to answer a question such as: ‘How much traffic passes the school during a designated period of time?’",
-      "hint": "Use determining the reproducibility of a field investigation using survey to make the role of variables and controls visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["validity","Which change most directly improves the validity of an investigation testing how exercise intensity affects heart rate?",["Keep exercise duration, participant conditions and measurement method consistent while changing intensity","Use a different heart-rate device for every trial","Allow participants to choose different exercise durations","Record only the highest heart rate"],0,"Validity improves when the investigation isolates the intended relationship and controls plausible confounding variables.","Change the IV; control other relevant factors."],
+["reproducibility","Which method description best supports reproducibility?",["It gives enough detail about equipment, variables, timing and measurements for another group to repeat the investigation","It says 'repeat carefully' without quantities","It changes the procedure between trials","It reports results but omits the method"],0,"A reproducible investigation needs a sufficiently detailed method so another group can repeat it and compare findings.","Could another group follow it without guessing?"],
+["validity vs reproducibility","A poorly designed experiment is repeated by three groups and all obtain the same biased result. What does this show?",["The method may be reproducible but still invalid","The method must be valid because results agree","Systematic error cannot be reproducible","Agreement removes all bias"],0,"Consistent results do not prove the investigation measures the intended relationship; systematic bias can be reproduced.","Consistency and validity are different ideas."],
+["traffic method","Students compare traffic flow at two intersections. Which method gives the fairest comparison?",["Count using the same vehicle definition and equal observation duration at both sites at comparable times","Count 5 min at one site and 20 min at the other","Include bicycles at one site but not the other","Have each group invent its own categories"],0,"Standardising definitions, duration and relevant conditions improves comparability and reproducibility.","Standardise what, when and how long."],
+["rate comparison","Group A counts 150 vehicles in 10 min; Group B counts 210 in 15 min. Which has the higher traffic rate?",["Group A: 15 vehicles/min","Group B: 21 vehicles/min","They are equal","Cannot compare different durations"],0,"A = 150/10 = 15 vehicles/min; B = 210/15 = 14 vehicles/min.","Convert counts to a common rate."],
+["measurement rule","Why should a traffic survey define whether buses, bicycles and parked vehicles are included?",["Clear operational definitions reduce observer differences","Definitions increase random error","Vehicle categories do not affect results","Rules are needed only after data collection"],0,"Observers need the same counting rules for measurements to be comparable and reproducible.","Define exactly what counts."],
+["observer error","Two observers count 120 and 118 passing vehicles during the same busy interval. What is the most reasonable interpretation?",["A small difference may arise from observer judgement or missed vehicles","One observer must be dishonest","The investigation is automatically invalid","The 2-vehicle difference proves systematic error"],0,"Small differences can arise from human observation limits, especially when events occur quickly.","Not every difference has one known cause."],
+["random error","Which example best represents random error?",["Repeated stopwatch measurements vary slightly because the observer starts and stops at slightly different moments","A balance always reads 2.0 g too high","A thermometer scale is printed incorrectly","A ruler starts 3 mm before its zero mark"],0,"Random errors vary unpredictably between measurements; the other examples introduce consistent bias.","Random = scatter; systematic = consistent shift."],
+["systematic error","A balance reads 2.0 g too high for every object. What is the main problem?",["Systematic error from calibration bias","Random error that averaging will remove","Ethical error","Sampling error only"],0,"A consistent offset shifts all results in the same direction and is systematic.","Same-direction bias each time."],
+["repeat trials","Why can repeated measurements help with random error?",["They reveal variation and allow a representative value such as a mean to be estimated","They automatically correct a miscalibrated instrument","They remove every uncontrolled variable","They guarantee the hypothesis is correct"],0,"Repeats help quantify and reduce the influence of random variation but do not fix systematic bias.","Repeats help scatter, not calibration bias."],
+["calibration","Which action best addresses a suspected systematic measurement error?",["Check and calibrate the instrument against a known reference","Take many readings with the same uncalibrated instrument only","Delete results far from the hypothesis","Change the independent variable more often"],0,"Calibration tests for and can correct consistent measurement bias.","Compare the instrument with a known standard."],
+["device consistency","A student switches between two thermometers during an experiment. When is this least problematic?",["Both instruments have been checked against the same reference and their agreement is documented","The thermometers have different scales and are never compared","The student chooses whichever gives the expected value","Only one reading is taken from each"],0,"Using different instruments can be acceptable if their calibration and comparability are established.","Different equipment is not automatically invalid."],
+["control variable","A student tests how water temperature affects dissolving time. Which variable should normally be controlled?",["Mass and particle size of the solute","Water temperature","Dissolving time","The conclusion"],0,"To isolate temperature, the amount and physical form of solute should remain consistent.","Control factors that could also affect the DV."],
+["confounding","A student tests caffeine and reaction time, but the caffeinated group slept 5 h and the control group slept 8 h. Why is this a problem?",["Sleep duration is a confounding variable that could also affect reaction time","It increases reproducibility","It proves caffeine causes slower reactions","Sleep is the dependent variable"],0,"A systematic difference in sleep between groups makes it difficult to attribute any reaction-time difference to caffeine alone.","Another variable changes with the IV."],
+["risk assessment","What is the purpose of a risk assessment before an investigation?",["Identify hazards, estimate risks and choose suitable controls before work begins","List only chemicals that will be used","Prove the activity has zero risk","Replace the need for supervision and training"],0,"Risk assessment links hazards to likelihood/severity and selects controls to reduce risk appropriately.","Hazard → risk → control."],
+["hierarchy controls","A corrosive solution is needed. Which control is generally stronger than relying on gloves alone if the experiment can still work?",["Use a less hazardous dilute alternative","Use thicker handwriting on the label","Work faster","Remove the safety instructions"],0,"Eliminating or substituting a hazard is generally stronger than relying only on PPE.","Reduce the hazard at its source where possible."],
+["PPE","Which statement about PPE is most accurate?",["PPE can reduce exposure but should be combined with appropriate procedures and other controls","PPE removes the hazard completely","PPE means no risk assessment is needed","Gloves protect against every chemical"],0,"PPE is one layer of control and must be suitable for the specific hazard.","PPE is not a universal shield."],
+["biological hazard","Which situation requires biological-risk controls?",["Handling a culture that may contain microorganisms","Measuring the length of a clean metal rod","Using distilled water in a sealed bottle","Drawing a graph"],0,"Microorganisms can create biological hazards requiring suitable containment, hygiene and disposal procedures.","Think living agents capable of harm."],
+["animal ethics","Before using live animals in an investigation, which question is most important?",["Is animal use scientifically justified, can alternatives replace it, and how will harm be minimised?","Will the animals make the experiment more entertaining?","Can more animals be used than necessary?","Can welfare observations be omitted?"],0,"Ethical animal use requires justification, alternatives where possible and minimising harm and numbers.","Need, replacement and welfare matter."],
+["human ethics","Students want to measure classmates' resting heart rates. Which practice is most appropriate?",["Obtain informed voluntary participation and protect personal data","Record names and publish results without asking","Pressure everyone to participate so the sample is larger","Hide the purpose of the study unnecessarily"],0,"Human investigations require voluntary informed participation and appropriate privacy protections.","Consent and privacy matter."],
+["heritage","During fieldwork, students notice a possible cultural artefact. What is the safest responsible action?",["Do not disturb or remove it; follow the relevant site, school, Traditional Owner and legal guidance","Take it back to school for identification","Move it to photograph the underside","Post its exact location publicly"],0,"Potential heritage material should be left undisturbed while appropriate cultural and legal processes are followed.","Observe without disturbing."],
+["Country Place","Which planning approach is most appropriate for fieldwork on Country/Place?",["Seek relevant permissions and guidance, respect cultural protocols and minimise disturbance","Assume public access means unrestricted sampling","Collect artefacts before asking permission","Ignore local knowledge to keep the study 'objective'"],0,"Responsible fieldwork considers permissions, cultural authority, site protection and local knowledge.","Access does not equal permission for every activity."],
+["heritage evidence","Why might researchers restrict publication of the exact location of a culturally sensitive site?",["To reduce risks such as disturbance, damage or inappropriate access while respecting cultural authority","Because scientific evidence should always be secret","Because locations cannot be data","To make replication impossible"],0,"Open science must sometimes be balanced with cultural, ethical and conservation responsibilities.","Responsible communication can limit sensitive details."],
+["method evaluation","Results are highly variable even though equipment is calibrated. What is the best next step?",["Investigate sources of random variation, tighten controls where justified and collect repeat measurements","Assume the hypothesis is false immediately","Recalibrate only and ignore all other causes","Delete inconvenient trials"],0,"Wide variation can come from natural variability, observer effects or uncontrolled conditions and should be investigated systematically.","Diagnose variation before changing the conclusion."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9i02-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9I02",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
