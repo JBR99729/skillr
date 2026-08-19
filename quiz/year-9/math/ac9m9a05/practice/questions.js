@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m9a05-p-001",
-    "curriculumCode": "AC9M9A05",
-    "bank": "practice",
-    "skill": "model practical contexts using linear functions such as cooking times that include resting or cooling times or water leakage from water tanks using tables and graphs or digital tools",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model practical contexts using linear functions such as cooking times that include resting or cooling times or water leakage from water tanks using tables and graphs or digital tools. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model practical contexts using linear functions such as cooking times that include resting or cooling times or water leakage from water tanks using tables and graphs or digital tools. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "modelling practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically",
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "modelling practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically\nHint: Model practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools.",
-    "structuredExplanation": {
-      "summary": "modelling practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically",
-      "hint": "Model practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a05-p-002",
-    "curriculumCode": "AC9M9A05",
-    "bank": "practice",
-    "skill": "model measurement situations and determining the perimeter and areas of rectangles where the length l of the rectangle is a linear function of its width w",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model measurement situations and determining the perimeter and areas of rectangles where the length l of the rectangle is a linear function of its width w. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model measurement situations and determining the perimeter and areas of rectangles where the length l of the rectangle is a linear function of its width w. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The modelling change model is copied without interpretation",
-      "modelling measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w; for example, l=w,\\;l=w+5,\\;l=3w,\\;l=2w+7",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "modelling measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w; for example, l=w,\\;l=w+5,\\;l=3w,\\;l=2w+7\nHint: Model measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w.",
-    "structuredExplanation": {
-      "summary": "modelling measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w; for example, l=w,\\;l=w+5,\\;l=3w,\\;l=2w+7",
-      "hint": "Model measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a05-p-003",
-    "curriculumCode": "AC9M9A05",
-    "bank": "practice",
-    "skill": "model practical contexts using simple quadratic functions tables and graphs hand drawn or using digital tools and algebraically",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model practical contexts using simple quadratic functions tables and graphs hand drawn or using digital tools and algebraically. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model practical contexts using simple quadratic functions tables and graphs hand drawn or using digital tools and algebraically. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "modelling practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically, interpreting features of the graphs such as the turning point and intercepts in context; for example, area, paths of projectiles, parabolic mirrors, satellite dishes",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "modelling practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically, interpreting features of the graphs such as the turning point and intercepts in context; for example, area, paths of projectiles, parabolic mirrors, satellite dishes\nHint: Model practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically.",
-    "structuredExplanation": {
-      "summary": "modelling practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically, interpreting features of the graphs such as the turning point and intercepts in context; for example, area, paths of projectiles, parabolic mirrors, satellite dishes",
-      "hint": "Model practical contexts using simple quadratic functions, tables and graphs (hand drawn or using digital tools) and algebraically."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a05-p-004",
-    "curriculumCode": "AC9M9A05",
-    "bank": "practice",
-    "skill": "model and solving problems involving financial contexts using linear functions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model and solving problems involving financial contexts using linear functions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model and solving problems involving financial contexts using linear functions. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "modelling and solving problems involving financial contexts using linear functions; for example, combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees"
-    ],
-    "correct": 3,
-    "explanation": "modelling and solving problems involving financial contexts using linear functions; for example, combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees\nHint: Model and solving problems involving financial contexts using linear functions.",
-    "structuredExplanation": {
-      "summary": "modelling and solving problems involving financial contexts using linear functions; for example, combinations of purchases of different items when they have a set amount of money to spend, profit/loss situations and trade quotes involving call out fees",
-      "hint": "Model and solving problems involving financial contexts using linear functions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a05-p-005",
-    "curriculumCode": "AC9M9A05",
-    "bank": "practice",
-    "skill": "model situations involving change",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model situations involving change. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model situations involving change. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "modelling situations involving change; for example, change in daily temperature during the ski season, fluctuation of speed above and below the speed limit, acceleration and deceleration of a car coming to and moving off from a set of traffic lights",
-      "The modelling change model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "modelling situations involving change; for example, change in daily temperature during the ski season, fluctuation of speed above and below the speed limit, acceleration and deceleration of a car coming to and moving off from a set of traffic lights\nHint: Model situations involving change.",
-    "structuredExplanation": {
-      "summary": "modelling situations involving change; for example, change in daily temperature during the ski season, fluctuation of speed above and below the speed limit, acceleration and deceleration of a car coming to and moving off from a set of traffic lights",
-      "hint": "Model situations involving change."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a05-p-006",
-    "curriculumCode": "AC9M9A05",
-    "bank": "practice",
-    "skill": "model the hunting techniques of first nations australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model the hunting techniques of first nations australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model the hunting techniques of first nations australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "modelling the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "modelling the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey\nHint: Model the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey.",
-    "structuredExplanation": {
-      "summary": "modelling the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey",
-      "hint": "Model the hunting techniques of First Nations Australians using quadratic functions and exploring the effect of increasing the number of hunters to catch more prey."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a05-p-007",
-    "curriculumCode": "AC9M9A05",
-    "bank": "practice",
-    "skill": "model practical contexts using linear functions such as cooking times that include resting or cooling times or water leakage from water tanks using tables and graphs or digital tools",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model practical contexts using linear functions such as cooking times that include resting or cooling times or water leakage from water tanks using tables and graphs or digital tools. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model practical contexts using linear functions such as cooking times that include resting or cooling times or water leakage from water tanks using tables and graphs or digital tools. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "modelling practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "modelling practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically\nHint: Model practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools.",
-    "structuredExplanation": {
-      "summary": "modelling practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools and algebraically",
-      "hint": "Model practical contexts using linear functions such as cooking times that include resting or cooling times, or water leakage from water tanks, using tables and graphs or digital tools."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9a05-p-008",
-    "curriculumCode": "AC9M9A05",
-    "bank": "practice",
-    "skill": "model measurement situations and determining the perimeter and areas of rectangles where the length l of the rectangle is a linear function of its width w",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model measurement situations and determining the perimeter and areas of rectangles where the length l of the rectangle is a linear function of its width w. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model measurement situations and determining the perimeter and areas of rectangles where the length l of the rectangle is a linear function of its width w. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The modelling change model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "modelling measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w; for example, l=w,\\;l=w+5,\\;l=3w,\\;l=2w+7"
-    ],
-    "correct": 3,
-    "explanation": "modelling measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w; for example, l=w,\\;l=w+5,\\;l=3w,\\;l=2w+7\nHint: Model measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w.",
-    "structuredExplanation": {
-      "summary": "modelling measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w; for example, l=w,\\;l=w+5,\\;l=3w,\\;l=2w+7",
-      "hint": "Model measurement situations and determining the perimeter and areas of rectangles where the length, l, of the rectangle is a linear function of its width, w."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+[1,"Section A — Linear modelling in practical contexts","Linear time model","A roast cooks for 90 min and must rest for 20 min. What is the total time?",["110 min","90 min","20 min","100 min"],0,"Total time = cooking time + resting time = 90 + 20 = 110 min.","Add all time components in the model."],
+[2,"Section A — Linear modelling in practical contexts","Linear decrease","A tank leaks 3 L per hour. Starting with 120 L, how much water is left after 10 h?",["90 L","100 L","120 L","30 L"],0,"The tank loses 3×10 = 30 L, so 120 − 30 = 90 L remains.","A leak is a negative rate of change."],
+[3,"Section A — Linear modelling in practical contexts","Linear cooling","A cooling object drops temperature at 2 °C per minute from 80 °C. What is its temperature after 15 min?",["50 °C","65 °C","30 °C","80 °C"],0,"The temperature drop is 2×15 = 30 °C, so 80 − 30 = 50 °C.","Subtract the total drop from the starting temperature."],
+[4,"Section A — Linear modelling in practical contexts","Linear rule","A tap fills a bucket at 4 L/min from empty. Which linear rule gives the volume V after t minutes?",["V = 4t","V = t/4","V = 4 + t","V = 4t + 4"],0,"A rate of 4 L/min means volume increases by 4 litres for each minute, so V = 4t.","From empty means there is no starting volume term."],
+[5,"Section A — Linear modelling in practical contexts","Rate of change","A tank drains linearly from 200 L to 140 L in 30 min. What is the rate of change?",["−2 L/min","−4 L/min","−6 L/min","−1 L/min"],0,"Change = 140 − 200 = −60 L. Rate = −60/30 = −2 L/min.","Rate = change in amount divided by change in time."],
+[6,"Section A — Linear modelling in practical contexts","Rate of change","A fridge cools from 25 °C to 5 °C in 40 min. What is the linear rate of cooling?",["−0.5 °C/min","−1 °C/min","−2 °C/min","−5 °C/min"],0,"Change = 5 − 25 = −20 °C. Rate = −20/40 = −0.5 °C/min.","Cooling gives a negative rate."],
+[7,"Section A — Linear modelling in practical contexts","Linear decrease","A candle burns 8 cm shorter in 2 h. What is its linear rate of change in height?",["−4 cm/h","−8 cm/h","−2 cm/h","−1 cm/h"],0,"The candle height changes by −8 cm in 2 h, so the rate is −8/2 = −4 cm/h.","Burning reduces height, so the sign is negative."],
+[8,"Section A — Linear modelling in practical contexts","Linear rule","A bucket fills from 0 L to 30 L in 12 min. Which rule models the volume V after t minutes?",["V = 2.5t","V = 12t","V = 30t","V = t/2.5"],0,"The rate is 30/12 = 2.5 L/min, so V = 2.5t.","Find litres per minute first."],
+[9,"Section B — Measurement modelling with l as a function of w","Substitution into area","If l = w, the rectangle area A = lw becomes:",["A = w²","A = 2w","A = w","A = w + 1"],0,"Substitute l = w into A = lw to get A = w×w = w².","Replace l with its expression in terms of w."],
+[10,"Section B — Measurement modelling with l as a function of w","Expanding area model","If l = w + 5, the rectangle area A = w(w + 5) expands to:",["w² + 5w","w² + 10w","w² + 25","w² − 5w"],0,"Distribute w across the bracket: w(w + 5) = w² + 5w.","Multiply w by each term inside the bracket."],
+[11,"Section B — Measurement modelling with l as a function of w","Perimeter model","If l = 3w, the rectangle perimeter P = 2(l + w) becomes:",["P = 8w","P = 6w","P = 3w","P = 4w"],0,"P = 2(3w + w) = 2(4w) = 8w.","Substitute first, then simplify inside the bracket."],
+[12,"Section B — Measurement modelling with l as a function of w","Quadratic area model","If l = 2w + 7, the rectangle area A = w(2w + 7) expands to:",["2w² + 7w","2w² − 7w","w² + 7","2w + 7"],0,"A = w(2w + 7) = 2w² + 7w.","The width w multiplies both terms in the length expression."],
+[13,"Section B — Measurement modelling with l as a function of w","Perimeter model","If l = w + 5, then P = 2w + 2(w + 5) simplifies to:",["4w + 10","2w + 5","w² + 5","4w − 10"],0,"P = 2w + 2w + 10 = 4w + 10.","Expand the second term before collecting like terms."],
+[14,"Section B — Measurement modelling with l as a function of w","Classifying growth","If l = 3w, the rectangle area A = lw increases:",["Quadratically","Linearly","Exponentially","Constantly"],0,"A = w(3w) = 3w², which is quadratic in w.","Area multiplies two lengths, so w is multiplied by w."],
+[15,"Section B — Measurement modelling with l as a function of w","Classifying a model","If l = 2w + 7, the area A = 2w² + 7w is:",["Quadratic","Linear","Constant","Exponential"],0,"The expression contains a w² term, so it is quadratic.","Look for the highest power of the variable."],
+[16,"Section B — Measurement modelling with l as a function of w","Classifying a model","If l = w, the perimeter P = 4w is:",["Linear","Quadratic","Constant","Exponential"],0,"P = 4w has the variable to the first power only, so it is linear.","Linear models have constant rate of change."],
+[17,"Section C — Quadratic modelling in context","Area model","The area of a square with side length x is:",["x²","2x","4x","x³"],0,"Area of a square is side × side = x×x = x².","Area is two-dimensional, so square the side length."],
+[18,"Section C — Quadratic modelling in context","Projectile turning point","A projectile has height h(t) = −5t² + 20t. At what time does the turning point occur?",["t = 2","t = 4","t = 1","t = 5"],0,"For ax²+bx+c, the vertex occurs at t = −b/(2a). Here t = −20/(2×−5)=2.","Use the vertex time formula or symmetry of the roots."],
+[19,"Section C — Quadratic modelling in context","Maximum value","What is the maximum height of h(t) = −5t² + 20t?",["20","10","15","40"],0,"From Q18 the maximum occurs at t = 2. h(2)=−5(4)+20(2)=20.","Substitute the turning-point time into the model."],
+[20,"Section C — Quadratic modelling in context","Quadratic growth","A parabolic mirror is modelled by y = x². As x moves away from 0 in the positive direction, y:",["Increases quadratically","Increases linearly","Decreases","Stays constant"],0,"The output is the square of x, so y increases quadratically.","A squared variable gives quadratic change."],
+[21,"Section C — Quadratic modelling in context","Maximum of a quadratic","A satellite dish is modelled by y = −x² + 16. What is the maximum value?",["y = 16","y = −16","y = 0","y = 8"],0,"The graph opens down and has vertex at x = 0, giving maximum y = 16.","A negative x² coefficient means the vertex is a maximum."],
+[22,"Section C — Quadratic modelling in context","Minimum position","A path is modelled by y = x² − 6x + 5. The minimum occurs at x =:",["3","6","5","2"],0,"The axis of symmetry is x = −b/(2a) = 6/2 = 3.","Use x = −b/(2a) for the vertex's x-coordinate."],
+[23,"Section C — Quadratic modelling in context","Interpreting no intercepts","A quadratic model with no x-intercepts means the related equation has:",["No real solutions","Two real solutions","One real solution","Infinite solutions"],0,"Real solutions correspond to x-intercepts. No x-intercepts means no real solutions.","Graphical roots are where the graph crosses or touches the x-axis."],
+[24,"Section C — Quadratic modelling in context","Ground intercepts","A projectile modelled by y = −x² + 12x hits the ground when y = 0. What are the solutions?",["x = 0, 12","x = 6","x = −12","No real solutions"],0,"Set −x² + 12x = 0. Factor: −x(x − 12)=0, so x = 0 or 12.","Set the height to zero and factor."],
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map((q,i)=>({id:`ac9m9a05-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M9A05",bank:"practice",section:q[1],sourceNumber:q[0],skill:q[2],printable:true,type:"single",question:q[3],audioPrompt:q[3],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[4],correct:q[5],explanation:`${q[6]}\nHint: ${q[7]}`,structuredExplanation:{summary:q[6],hint:q[7]},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
