@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m9st01-p-001",
-    "curriculumCode": "AC9M9ST01",
-    "bank": "practice",
-    "skill": "explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data",
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data\nHint: Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data.",
-    "structuredExplanation": {
-      "summary": "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data",
-      "hint": "Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st01-p-002",
-    "curriculumCode": "AC9M9ST01",
-    "bank": "practice",
-    "skill": "explore the use of statistics in reports regarding the growth of australia s trade with other countries of the asia region",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore the use of statistics in reports regarding the growth of australia s trade with other countries of the asia region. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore the use of statistics in reports regarding the growth of australia s trade with other countries of the asia region. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The reading survey reports model is copied without interpretation",
-      "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region\nHint: Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region.",
-    "structuredExplanation": {
-      "summary": "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region",
-      "hint": "Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st01-p-003",
-    "curriculumCode": "AC9M9ST01",
-    "bank": "practice",
-    "skill": "explore how natural language processing nlp tools can be used to help analyse large volumes of survey reports in digital media expediting various processes",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore how natural language processing nlp tools can be used to help analyse large volumes of survey reports in digital media expediting various processes. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore how natural language processing nlp tools can be used to help analyse large volumes of survey reports in digital media expediting various processes. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools\nHint: Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes.",
-    "structuredExplanation": {
-      "summary": "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools",
-      "hint": "Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st01-p-004",
-    "curriculumCode": "AC9M9ST01",
-    "bank": "practice",
-    "skill": "explore a range of data and its sources",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore a range of data and its sources. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore a range of data and its sources. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating a range of data and its sources; for example, the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Singapore, Japan, South Korea and Timor-Leste"
-    ],
-    "correct": 3,
-    "explanation": "investigating a range of data and its sources; for example, the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Singapore, Japan, South Korea and Timor-Leste\nHint: Explore a range of data and its sources.",
-    "structuredExplanation": {
-      "summary": "investigating a range of data and its sources; for example, the age of residents in Australia, Cambodia and Tonga; the number of subjects studied at school in a year by 14-year-old students in Australia, Singapore, Japan, South Korea and Timor-Leste",
-      "hint": "Explore a range of data and its sources."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st01-p-005",
-    "curriculumCode": "AC9M9ST01",
-    "bank": "practice",
-    "skill": "analyse reports of public opinion surveys on environmental issues such as land clearing wind farms or single use plastics discussing methods of data collection",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving analyse reports of public opinion surveys on environmental issues such as land clearing wind farms or single use plastics discussing methods of data collection. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving analyse reports of public opinion surveys on environmental issues such as land clearing wind farms or single use plastics discussing methods of data collection. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "analysing reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection and the reasonableness of any inferences made",
-      "The reading survey reports model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "analysing reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection and the reasonableness of any inferences made\nHint: Analyse reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection.",
-    "structuredExplanation": {
-      "summary": "analysing reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection and the reasonableness of any inferences made",
-      "hint": "Analyse reports of public opinion surveys on environmental issues, such as land clearing, wind farms or single use plastics; discussing methods of data collection."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st01-p-006",
-    "curriculumCode": "AC9M9ST01",
-    "bank": "practice",
-    "skill": "explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore and evaluating statistical reports in the media and other places by linking claims to displays statistics and representative data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data\nHint: Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data.",
-    "structuredExplanation": {
-      "summary": "investigating and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data",
-      "hint": "Explore and evaluating statistical reports in the media and other places by linking claims to displays, statistics and representative data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st01-p-007",
-    "curriculumCode": "AC9M9ST01",
-    "bank": "practice",
-    "skill": "explore the use of statistics in reports regarding the growth of australia s trade with other countries of the asia region",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore the use of statistics in reports regarding the growth of australia s trade with other countries of the asia region. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore the use of statistics in reports regarding the growth of australia s trade with other countries of the asia region. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region\nHint: Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region.",
-    "structuredExplanation": {
-      "summary": "investigating the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region",
-      "hint": "Explore the use of statistics in reports regarding the growth of Australia's trade with other countries of the Asia region."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st01-p-008",
-    "curriculumCode": "AC9M9ST01",
-    "bank": "practice",
-    "skill": "explore how natural language processing nlp tools can be used to help analyse large volumes of survey reports in digital media expediting various processes",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore how natural language processing nlp tools can be used to help analyse large volumes of survey reports in digital media expediting various processes. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore how natural language processing nlp tools can be used to help analyse large volumes of survey reports in digital media expediting various processes. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The reading survey reports model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools"
-    ],
-    "correct": 3,
-    "explanation": "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools\nHint: Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes.",
-    "structuredExplanation": {
-      "summary": "exploring how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes, and discussing the benefits or limitations of using these tools",
-      "hint": "Explore how natural language processing (NLP) tools can be used to help analyse large volumes of survey reports in digital media, expediting various processes."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["representativeness","A news article says 'Most Australians support banning single-use plastics' from a voluntary online survey of 1,200 readers. What is the strongest concern?",["Self-selection may make respondents systematically different from Australians overall","1,200 is always too small for a survey","Online surveys cannot contain numerical data","A median should have been reported instead"],0,"A large voluntary sample can still be biased if people who choose to respond differ from the target population.","Large sample ≠ representative sample."],
+["sampling frame","A poll of 800 residents from one Australian city reports that 70% of Australians support a sugar tax. What most limits the claim?",["The sampling frame may not represent Australia geographically or demographically","Eight hundred respondents can never estimate a percentage","The report needs a median rather than a percentage","A city sample cannot contain random variation"],0,"The target population is all Australians, but the sample comes from one city, so generalisation requires evidence that the sample is representative.","Compare sample population with claimed population."],
+["sample size context","A report says 80% support a proposal but does not state how many people were surveyed. Why does sample size matter?",["It helps readers judge how much sampling variability may be present and how much evidence underlies the percentage","A percentage cannot be calculated without publishing the sample size","The sample size determines whether the median equals the mean","Percentages are valid only for samples above 1,000"],0,"The same percentage from 10 people and 10,000 people does not carry the same sampling precision.","Ask how much data produced the percentage."],
+["leading questions","Which survey question is most likely to introduce wording bias?",["Do you support reducing harmful land clearing?","Do you support or oppose the proposed land-clearing limit?","Which option best describes your view of the proposed policy?","How strongly do you support or oppose the proposal?"],0,"The word 'harmful' frames one response as more desirable and can influence answers.","Look for loaded wording."],
+["platform bias","A TikTok poll concludes that most Australian teenagers prefer online learning. What should be checked first?",["Whether TikTok users who saw and answered the poll represent Australian teenagers","Whether the poll received more than 100 likes","Whether a mean was calculated","Whether the question used a bar chart"],0,"Platform users and voluntary respondents may differ from the wider teenage population.","Platform audience ≠ target population automatically."],
+["mean median","Household sizes in a sample are 1,2,2,3,3,4,12. Which measure better describes a typical household in this sample?",["Median, because the unusually large household pulls the mean upward","Mean, because means are always preferred for population estimates","Range, because it is a measure of centre","Mode, because medians cannot be used with counts"],0,"For strongly skewed data with an extreme value, the median can better represent a typical central value.","Extreme values affect the mean strongly."],
+["inflation","A report says median household income rose 10% over several years using nominal dollar values. Why might this overstate improvement in purchasing power?",["Prices may also have risen, so real income growth could be smaller","Median cannot be compared across years","Income should always be reported as a mode","Nominal values are percentages rather than dollars"],0,"Inflation changes what money can buy; nominal growth is not the same as real purchasing-power growth.","Money values across time need price context."],
+["visualisation","Two bar charts compare support in consecutive years but use different vertical-axis ranges. What is the main problem?",["Visual differences may not be directly comparable because the scales differ","The survey must have used the wrong statistic","Bar charts cannot show percentages","Different scales change the original survey responses"],0,"Changing scales can make equal numerical differences appear visually different.","Same units need comparable visual scales for easy comparison."],
+["trade growth","Australian exports to a country rise from $8.1 billion to $11.3 billion. Approximately what percentage increase is this?",["39.5%","28.3%","32.0%","71.7%"],0,"Percentage increase = (11.3−8.1)/8.1 × 100 ≈ 39.5%.","Divide the increase by the original value."],
+["base effects","Country A trade rises from $1b to $1.5b; Country B rises from $20b to $25b. Which statement is correct?",["A has the larger percentage growth, but B has the larger dollar increase","B has both the larger percentage and dollar increase","A has both the larger percentage and dollar increase","The changes cannot be compared"],0,"A grows 50% and $0.5b; B grows 25% and $5b. Percentage and absolute changes answer different questions.","Check both base value and absolute change."],
+["time frame","A report uses trade data from 2025 only to claim trade has been rising for a decade. What is missing?",["A multi-year time series covering the claimed period","A median of the 2025 values","A larger number of trading partners","A pie chart"],0,"A long-term trend requires observations across time, not a single year's value.","Trend claims need time-series evidence."],
+["category consistency","A report compares one country's goods exports with another country's goods-plus-services exports. Why is this problematic?",["The quantities use different category definitions, so the comparison is not like-for-like","Services can never be measured in dollars","Means cannot be calculated from trade data","The countries must have equal populations"],0,"Comparisons require consistent definitions of what is included.","Compare like with like."],
+["acceleration claim","Annual trade growth rates are 3%, 4%, 6%, 6%, 5%. Is 'trade growth is accelerating every year' supported?",["No; the growth rate rises initially, then is unchanged and falls","Yes; every growth rate is positive","Yes; 6% is double 3%","No; positive growth means trade is decreasing"],0,"Acceleration of growth would require the growth rate itself to keep increasing; these rates do not.","Positive growth is not the same as accelerating growth."],
+["nominal trade","Why can nominal trade values exaggerate growth during a period of high inflation?",["Part of the dollar increase may reflect higher prices rather than a larger real quantity/value of trade","Inflation always decreases trade volumes","Nominal data cannot be graphed","Inflation changes the median into a mean"],0,"Current-dollar values combine changes in prices and real activity.","Separate price change from real change."],
+["per capita","Which statement about per-capita trade is most accurate?",["It can be useful for normalising by population, but it answers a different question from total trade","It is always misleading for large countries","It is identical to total trade","It can only be used when populations are equal"],0,"Per-capita measures can support fairer person-level comparisons but should not replace totals when total economic scale is the question.","Metric choice depends on the claim."],
+["NLP sentiment","Why should sentiment scores from news articles not be treated as estimates of public support?",["They describe language in the selected articles, not responses from a representative population survey","Sentiment software cannot process words","Every article has neutral sentiment","Population percentages cannot be estimated digitally"],0,"Article sentiment and population opinion are different variables collected from different populations.","Text about people is not survey data from people."],
+["NLP training bias","An automated classifier consistently labels criticism as 'negative public opinion'. What should be investigated?",["Its training data, labels and classification rules","The median age of readers","The number of colours in the interface","Whether articles contain graphs"],0,"Automated classifications inherit assumptions and possible bias from training examples and labels.","Inspect how the model learned its categories."],
+["NLP summaries","What is a statistical risk of relying only on an automated summary of a survey report?",["Important details about sample selection, uncertainty or limitations may be omitted","Summaries always change every number","Automated text cannot mention medians","A summary automatically creates a representative sample"],0,"Condensation can remove methodological context needed to judge a survey estimate.","Method details matter to interpretation."],
+["international comparison","Median ages are Australia 38, Cambodia 26 and Tonga 22 years. What is directly supported?",["The sampled/reported Australian population has the highest median age of the three","Australia has the largest population","Tonga has the lowest life expectancy","Cambodia has exactly 12 fewer people aged over 38"],0,"Median age describes the middle of each age distribution; it does not directly establish population size or life expectancy.","Infer only what the statistic measures."],
+["definitions","Country A counts compulsory school subjects; Country B counts compulsory plus elective subjects. What is the key comparison problem?",["The variable is defined differently across countries","Means cannot be compared internationally","Country B must have a larger sample","Subject counts require a pie chart"],0,"Different operational definitions can create apparent differences that are not genuine like-for-like comparisons.","Check definitions before comparing numbers."],
+["sampling frames","An international school survey samples all schools in Country A but only urban schools in Country B. What is the strongest concern?",["The sampling frames are not equivalent and Country B may be biased toward urban students","Country A has too many schools","Urban data cannot contain medians","Both samples must have identical sizes"],0,"Different coverage of the target populations can make cross-country estimates non-comparable.","Ask who had a chance to be sampled."],
+["self report","Students self-report how many subjects they study. What potential error should be considered?",["Response or recall error from differing interpretations or memory","Systematic graph-axis error","Trade inflation","NLP token weighting"],0,"Self-reported measures can be affected by memory and interpretation of what counts as a subject.","Self-report can differ from administrative records."],
+["nonresponse","A phone survey contacts a representative sample but only 70% respond. What question matters most?",["Whether non-respondents differ systematically from respondents on the issue","Whether 70 is a median","Whether telephone data can use percentages","Whether all respondents gave identical answers"],0,"Non-response creates bias when people who do not respond differ meaningfully from those who do.","Missing responses matter if they are not random."],
+["survey audit","Which combination provides the strongest basis for judging a reported population mean or median?",["Target population, sampling method/frame, response pattern, variable definition, sample size and reported statistic","Headline wording and graph colour only","Sample size and mean only","Whether the result agrees with expectations"],0,"Survey credibility depends on how the data were obtained and whether the statistic fits the population and variable.","Audit the full evidence chain."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9m9st01-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M9ST01",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
