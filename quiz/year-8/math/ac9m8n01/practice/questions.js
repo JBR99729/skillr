@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m8n01-p-001",
-    "curriculumCode": "AC9M8N01",
-    "bank": "practice",
-    "skill": "irrational numbers have exact positions even though their decimals never end or repeat",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving irrational numbers have exact positions even though their decimals never end or repeat. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving irrational numbers have exact positions even though their decimals never end or repeat. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "recognising that the real number system includes irrational numbers which can be approximately located on the real number line; for example, the value of π lies somewhere between 3.141 and 3.142 that is, 3.141 < π < 3.142",
-      "Exact and approximate values are treated as interchangeable",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "recognising that the real number system includes irrational numbers which can be approximately located on the real number line; for example, the value of π lies somewhere between 3.141 and 3.142 that is, 3.141 < π < 3.142\nHint: Irrational numbers have exact positions even though their decimals never end or repeat.",
-    "structuredExplanation": {
-      "summary": "recognising that the real number system includes irrational numbers which can be approximately located on the real number line; for example, the value of π lies somewhere between 3.141 and 3.142 that is, 3.141 < π < 3.142",
-      "hint": "Irrational numbers have exact positions even though their decimals never end or repeat."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n01-p-002",
-    "curriculumCode": "AC9M8N01",
-    "bank": "practice",
-    "skill": "a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The irrational numbers in context model is copied without interpretation",
-      "using digital tools to systematically explore contexts or situations that use irrational numbers, such as finding the length of the hypotenuse in a right-angled triangle with the other 2 sides having lengths of one metre or 2 metres and one metre; or given the area of a square, finding the length of the side where the result is irrational; or finding ratios involved with the side lengths of paper sizes A0, A1, A2, A3 and A4",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using digital tools to systematically explore contexts or situations that use irrational numbers, such as finding the length of the hypotenuse in a right-angled triangle with the other 2 sides having lengths of one metre or 2 metres and one metre; or given the area of a square, finding the length of the side where the result is irrational; or finding ratios involved with the side lengths of paper sizes A0, A1, A2, A3 and A4\nHint: A one-unit square creates √2 on its diagonal, and A-series paper preserves a 1:√2 side ratio when folded.",
-    "structuredExplanation": {
-      "summary": "using digital tools to systematically explore contexts or situations that use irrational numbers, such as finding the length of the hypotenuse in a right-angled triangle with the other 2 sides having lengths of one metre or 2 metres and one metre; or given the area of a square, finding the length of the side where the result is irrational; or finding ratios involved with the side lengths of paper sizes A0, A1, A2, A3 and A4",
-      "hint": "A one-unit square creates √2 on its diagonal, and A-series paper preserves a 1:√2 side ratio when folded."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n01-p-003",
-    "curriculumCode": "AC9M8N01",
-    "bank": "practice",
-    "skill": "the golden ratio appears in design while societies have developed useful approximations for throughout history",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving the golden ratio appears in design while societies have developed useful approximations for throughout history. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving the golden ratio appears in design while societies have developed useful approximations for throughout history. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "investigating the golden ratio in art and design, and historical approximations to π in different societies",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating the golden ratio in art and design, and historical approximations to π in different societies\nHint: The golden ratio appears in design, while societies have developed useful approximations for π throughout history.",
-    "structuredExplanation": {
-      "summary": "investigating the golden ratio in art and design, and historical approximations to π in different societies",
-      "hint": "The golden ratio appears in design, while societies have developed useful approximations for π throughout history."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n01-p-004",
-    "curriculumCode": "AC9M8N01",
-    "bank": "practice",
-    "skill": "for every circle circumference divided by diameter gives the same irrational ratio",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving for every circle circumference divided by diameter gives the same irrational ratio. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving for every circle circumference divided by diameter gives the same irrational ratio. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "connecting the ratio between the circumference and diameter of any circle to the irrational value of π using circular objects and string or dynamic drawing software"
-    ],
-    "correct": 3,
-    "explanation": "connecting the ratio between the circumference and diameter of any circle to the irrational value of π using circular objects and string or dynamic drawing software\nHint: For every circle, circumference divided by diameter gives the same irrational ratio: π.",
-    "structuredExplanation": {
-      "summary": "connecting the ratio between the circumference and diameter of any circle to the irrational value of π using circular objects and string or dynamic drawing software",
-      "hint": "For every circle, circumference divided by diameter gives the same irrational ratio: π."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n01-p-005",
-    "curriculumCode": "AC9M8N01",
-    "bank": "practice",
-    "skill": "irrational numbers have exact positions even though their decimals never end or repeat",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving irrational numbers have exact positions even though their decimals never end or repeat. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving irrational numbers have exact positions even though their decimals never end or repeat. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "recognising that the real number system includes irrational numbers which can be approximately located on the real number line; for example, the value of π lies somewhere between 3.141 and 3.142 that is, 3.141 < π < 3.142",
-      "The irrational numbers in context model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "recognising that the real number system includes irrational numbers which can be approximately located on the real number line; for example, the value of π lies somewhere between 3.141 and 3.142 that is, 3.141 < π < 3.142\nHint: Irrational numbers have exact positions even though their decimals never end or repeat.",
-    "structuredExplanation": {
-      "summary": "recognising that the real number system includes irrational numbers which can be approximately located on the real number line; for example, the value of π lies somewhere between 3.141 and 3.142 that is, 3.141 < π < 3.142",
-      "hint": "Irrational numbers have exact positions even though their decimals never end or repeat."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n01-p-006",
-    "curriculumCode": "AC9M8N01",
-    "bank": "practice",
-    "skill": "a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving a one unit square creates 2 on its diagonal and a series paper preserves a 1 2 side ratio when folded. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "using digital tools to systematically explore contexts or situations that use irrational numbers, such as finding the length of the hypotenuse in a right-angled triangle with the other 2 sides having lengths of one metre or 2 metres and one metre; or given the area of a square, finding the length of the side where the result is irrational; or finding ratios involved with the side lengths of paper sizes A0, A1, A2, A3 and A4",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using digital tools to systematically explore contexts or situations that use irrational numbers, such as finding the length of the hypotenuse in a right-angled triangle with the other 2 sides having lengths of one metre or 2 metres and one metre; or given the area of a square, finding the length of the side where the result is irrational; or finding ratios involved with the side lengths of paper sizes A0, A1, A2, A3 and A4\nHint: A one-unit square creates √2 on its diagonal, and A-series paper preserves a 1:√2 side ratio when folded.",
-    "structuredExplanation": {
-      "summary": "using digital tools to systematically explore contexts or situations that use irrational numbers, such as finding the length of the hypotenuse in a right-angled triangle with the other 2 sides having lengths of one metre or 2 metres and one metre; or given the area of a square, finding the length of the side where the result is irrational; or finding ratios involved with the side lengths of paper sizes A0, A1, A2, A3 and A4",
-      "hint": "A one-unit square creates √2 on its diagonal, and A-series paper preserves a 1:√2 side ratio when folded."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n01-p-007",
-    "curriculumCode": "AC9M8N01",
-    "bank": "practice",
-    "skill": "the golden ratio appears in design while societies have developed useful approximations for throughout history",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving the golden ratio appears in design while societies have developed useful approximations for throughout history. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving the golden ratio appears in design while societies have developed useful approximations for throughout history. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "The method can be chosen without checking the values or conditions",
-      "investigating the golden ratio in art and design, and historical approximations to π in different societies",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating the golden ratio in art and design, and historical approximations to π in different societies\nHint: The golden ratio appears in design, while societies have developed useful approximations for π throughout history.",
-    "structuredExplanation": {
-      "summary": "investigating the golden ratio in art and design, and historical approximations to π in different societies",
-      "hint": "The golden ratio appears in design, while societies have developed useful approximations for π throughout history."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n01-p-008",
-    "curriculumCode": "AC9M8N01",
-    "bank": "practice",
-    "skill": "for every circle circumference divided by diameter gives the same irrational ratio",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving for every circle circumference divided by diameter gives the same irrational ratio. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving for every circle circumference divided by diameter gives the same irrational ratio. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The irrational numbers in context model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "connecting the ratio between the circumference and diameter of any circle to the irrational value of π using circular objects and string or dynamic drawing software"
-    ],
-    "correct": 3,
-    "explanation": "connecting the ratio between the circumference and diameter of any circle to the irrational value of π using circular objects and string or dynamic drawing software\nHint: For every circle, circumference divided by diameter gives the same irrational ratio: π.",
-    "structuredExplanation": {
-      "summary": "connecting the ratio between the circumference and diameter of any circle to the irrational value of π using circular objects and string or dynamic drawing software",
-      "hint": "For every circle, circumference divided by diameter gives the same irrational ratio: π."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+[1,"Recognising irrational numbers","Which of the following is an irrational number?",["3.25","7/9","√5","0.125"],2,"√5 is irrational because 5 is not a perfect square.","Irrational numbers cannot be written exactly as terminating or repeating decimals."],
+[2,"Recognising rational square roots","Which number is NOT irrational?",["π","√11","√49","√3"],2,"√49 = 7, so it is rational.","A square root of a perfect square is rational."],
+[3,"Properties of irrational numbers","Which statement is true?",["All square roots are irrational","All irrational numbers have repeating decimals","π is irrational","√16 is irrational"],2,"π is irrational; it has a non-terminating, non-repeating decimal expansion.","Do not assume every square root is irrational."],
+[4,"Terminating decimals","Which number has a terminating decimal?",["√2","π","1/8","√7"],2,"1/8 = 0.125, so it terminates.","Fractions with denominators made only from factors 2 and 5 terminate."],
+[5,"Estimating square roots","Which number is closest to √10?",["2.9","3.1","3.2","3.4"],2,"√10 ≈ 3.162, so 3.2 is closest.","Use nearby squares: 3² = 9 and 4² = 16."],
+[6,"Decimal bounds for π","Which inequality is correct?",["3.14 < π < 3.15","3.141 < π < 3.142","3.1 < π < 3.11","3.142 < π < 3.143"],1,"π ≈ 3.14159, so it lies between 3.141 and 3.142.","Use decimal bounds, not a rounded equality."],
+[7,"Locating √2","√2 lies between:",["1.2 and 1.3","1.3 and 1.4","1.4 and 1.5","1.5 and 1.6"],2,"√2 ≈ 1.414, so it lies between 1.4 and 1.5.","Because 1.4² = 1.96 and 1.5² = 2.25."],
+[8,"Locating √17","Which interval contains √17?",["3–4","4–5","5–6","6–7"],1,"√17 is just above 4 because 4² = 16 and 5² = 25.","Find the two square numbers around 17."],
+[9,"Estimating √3","Which number is closest to √3?",["1.6","1.7","1.8","1.9"],1,"√3 ≈ 1.732, so 1.7 is closest.","Check values around 1.7 and 1.8."],
+[10,"Locating π on number line","Which number line position best represents π?",["Slightly above 3","Slightly above 3.1","Slightly above 3.14","Slightly above 3.2"],2,"π ≈ 3.14159, so it is slightly above 3.14.","π is close to 3.14 but not exactly equal to 3.14."],
+[11,"Pythagoras with irrational result","A right triangle has legs 1 m and 2 m. The hypotenuse is:",["√2","√3","√5","√6"],2,"c² = 1² + 2² = 5, so c = √5.","Use Pythagoras for right triangles."],
+[12,"Square area to side length","A square has area 20 cm². Its side length is:",["√10","√20","√30","√40"],1,"If s² = 20, then s = √20 cm.","Area of a square is side squared."],
+[13,"A-series paper ratio","Which paper size ratio is closest to the A-series paper ratio?",["1:1","1:1.2","1:1.414","1:2"],2,"A-series paper uses a side ratio close to 1:√2, and √2 ≈ 1.414.","A-series paper preserves shape when folded in half."],
+[14,"Exact area from surd side","A square has side √7 cm. Its area is:",["7 cm²","√7 cm²","14 cm²","49 cm²"],0,"Area = (√7)² = 7 cm².","Squaring a square root returns the original number."],
+[15,"Unit square diagonal","The hypotenuse of a 1 m by 1 m right triangle is:",["1.1 m","√2 m","2 m","√3 m"],1,"c² = 1² + 1² = 2, so c = √2 m.","This is the diagonal of a unit square."],
+[16,"Applied irrational result","Which situation produces an irrational result?",["Perimeter of a rectangle with whole-number sides","Area of a triangle with base 6 and height 4","Side of a square with area 13","Adding two integers"],2,"The side length is √13, which is irrational because 13 is not a perfect square.","Square side length is the square root of area."],
+[17,"Diagonal of 1 by 1 square","The diagonal of a 1 × 1 square is:",["1","√2","2","√3"],1,"The diagonal forms a right triangle with legs 1 and 1, so d = √2.","Use Pythagoras."],
+[18,"Circle context with π","For a circle with rational diameter 5 cm, which measurement is irrational?",["Circumference","Diameter","Radius","Area of a square with side 5"],0,"C = πd = 5π, which is irrational.","A non-zero rational multiple of π is irrational."],
+[19,"Square area to surd side","If a square has area 50 cm², its side length is:",["√5","√10","√50","√100"],2,"If s² = 50, then s = √50 cm.","Do not simplify unless asked."],
+[20,"Integer hypotenuse","The hypotenuse of a right triangle with legs 3 and 4 is:",["5","√5","√7","√13"],0,"3² + 4² = 9 + 16 = 25, so c = 5.","Some square-root answers are rational."],
+[21,"Golden ratio approximation","The golden ratio φ is approximately:",["1.2","1.5","1.618","2"],2,"φ ≈ 1.618.","The golden ratio is a famous irrational number."],
+[22,"Golden ratio type","The golden ratio is:",["Rational","Irrational","Integer","Whole number"],1,"The golden ratio is irrational.","Its decimal does not terminate or repeat."],
+[23,"Historical approximation of π","The Rhind Papyrus gives an ancient Egyptian approximation of π close to:",["3","3.14","3.16","22/7"],2,"The Egyptian approximation is close to 3.16.","Historical approximations are useful but not exact π."],
+[24,"Rational approximation 22/7","22/7 is:",["Irrational","Rational","Integer","Whole number"],1,"22/7 is a ratio of integers, so it is rational.","Rational approximations to π are not equal to π."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map(([sourceNumber,skill,question,answers,correct,summary,hint])=>({id:`ac9m8n01-p-${String(sourceNumber).padStart(3,"0")}`,curriculumCode:"AC9M8N01",bank:"practice",section:sourceNumber<=10?"Section A — Recognising and locating irrational numbers":sourceNumber<=20?"Section B — Irrationals in applied contexts":"Section C — Golden ratio and historical π",sourceNumber,skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation:`${summary}\nHint: ${hint}`,structuredExplanation:{summary,hint},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
