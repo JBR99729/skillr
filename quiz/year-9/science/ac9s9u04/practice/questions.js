@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9u04-p-001",
-    "curriculumCode": "AC9S9U04",
-    "bank": "practice",
-    "skill": "use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "describing the processes underlying convection and conduction of heat in terms of the particle model",
-      "Particles travel with the wave from source to receiver",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "describing the processes underlying convection and conduction of heat in terms of the particle model\nHint: Use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "describing the processes underlying convection and conduction of heat in terms of the particle model",
-      "hint": "Use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u04-p-002",
-    "curriculumCode": "AC9S9U04",
-    "bank": "practice",
-    "skill": "use the transfer of sound energy as waves using slinky to make the role of amplitude and frequency visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the transfer of sound energy as waves using slinky to make the role of amplitude and frequency visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the transfer of sound energy as waves using slinky to make the role of amplitude and frequency visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One model must be the true picture",
-      "modelling the transfer of sound energy as waves using slinky springs and relating to the medium through which the sound is transferred",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "modelling the transfer of sound energy as waves using slinky springs and relating to the medium through which the sound is transferred\nHint: Use the transfer of sound energy as waves using slinky to make the role of amplitude and frequency visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "modelling the transfer of sound energy as waves using slinky springs and relating to the medium through which the sound is transferred",
-      "hint": "Use the transfer of sound energy as waves using slinky to make the role of amplitude and frequency visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u04-p-003",
-    "curriculumCode": "AC9S9U04",
-    "bank": "practice",
-    "skill": "use how the particle model of electricity explains static electricity to make the role of particle vibration visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how the particle model of electricity explains static electricity to make the role of particle vibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how the particle model of electricity explains static electricity to make the role of particle vibration visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Particles travel with the wave from source to receiver",
-      "The method can be chosen without checking the values or conditions",
-      "examining how the particle model of electricity explains static electricity and electrical current and relating this to voltage, conductors and insulators",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining how the particle model of electricity explains static electricity and electrical current and relating this to voltage, conductors and insulators\nHint: Use how the particle model of electricity explains static electricity to make the role of particle vibration visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how the particle model of electricity explains static electricity and electrical current and relating this to voltage, conductors and insulators",
-      "hint": "Use how the particle model of electricity explains static electricity to make the role of particle vibration visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u04-p-004",
-    "curriculumCode": "AC9S9U04",
-    "bank": "practice",
-    "skill": "use the wave and particle models of energy transfer to make the role of medium visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the wave and particle models of energy transfer to make the role of medium visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the wave and particle models of energy transfer to make the role of medium visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One model must be the true picture",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "discussing the wave and particle models of energy transfer, including the concept of photons, and how they are useful for understanding aspects of light and other forms of electromagnetic radiation"
-    ],
-    "correct": 3,
-    "explanation": "discussing the wave and particle models of energy transfer, including the concept of photons, and how they are useful for understanding aspects of light and other forms of electromagnetic radiation\nHint: Use the wave and particle models of energy transfer, to make the role of medium visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing the wave and particle models of energy transfer, including the concept of photons, and how they are useful for understanding aspects of light and other forms of electromagnetic radiation",
-      "hint": "Use the wave and particle models of energy transfer, to make the role of medium visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u04-p-005",
-    "curriculumCode": "AC9S9U04",
-    "bank": "practice",
-    "skill": "use aspects of heat transfer and conservation in the design to make the role of model strength and limit visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use aspects of heat transfer and conservation in the design to make the role of model strength and limit visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use aspects of heat transfer and conservation in the design to make the role of model strength and limit visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating aspects of heat transfer and conservation in the design of First Nations Australians’ bedding and clothing in the various climatic regions of Australia",
-      "Particles travel with the wave from source to receiver",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating aspects of heat transfer and conservation in the design of First Nations Australians’ bedding and clothing in the various climatic regions of Australia\nHint: Use aspects of heat transfer and conservation in the design to make the role of model strength and limit visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating aspects of heat transfer and conservation in the design of First Nations Australians’ bedding and clothing in the various climatic regions of Australia",
-      "hint": "Use aspects of heat transfer and conservation in the design to make the role of model strength and limit visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u04-p-006",
-    "curriculumCode": "AC9S9U04",
-    "bank": "practice",
-    "skill": "use the impact of material selection on the transfer to make the role of wave visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the impact of material selection on the transfer to make the role of wave visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the impact of material selection on the transfer to make the role of wave visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One model must be the true picture",
-      "investigating the impact of material selection on the transfer of sound energy in First Nations Australians’ traditional musical, hunting and communication instruments",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating the impact of material selection on the transfer of sound energy in First Nations Australians’ traditional musical, hunting and communication instruments\nHint: Use the impact of material selection on the transfer to make the role of wave visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating the impact of material selection on the transfer of sound energy in First Nations Australians’ traditional musical, hunting and communication instruments",
-      "hint": "Use the impact of material selection on the transfer to make the role of wave visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u04-p-007",
-    "curriculumCode": "AC9S9U04",
-    "bank": "practice",
-    "skill": "use the forms of electromagnetic radiation that are used to make the role of amplitude and frequency visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the forms of electromagnetic radiation that are used to make the role of amplitude and frequency visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the forms of electromagnetic radiation that are used to make the role of amplitude and frequency visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Particles travel with the wave from source to receiver",
-      "The method can be chosen without checking the values or conditions",
-      "examining the forms of electromagnetic radiation that are used in different modern communication technologies and identifying any limitations",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining the forms of electromagnetic radiation that are used in different modern communication technologies and identifying any limitations\nHint: Use the forms of electromagnetic radiation that are used to make the role of amplitude and frequency visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the forms of electromagnetic radiation that are used in different modern communication technologies and identifying any limitations",
-      "hint": "Use the forms of electromagnetic radiation that are used to make the role of amplitude and frequency visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u04-p-008",
-    "curriculumCode": "AC9S9U04",
-    "bank": "practice",
-    "skill": "use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One model must be the true picture",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "describing the processes underlying convection and conduction of heat in terms of the particle model"
-    ],
-    "correct": 3,
-    "explanation": "describing the processes underlying convection and conduction of heat in terms of the particle model\nHint: Use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "describing the processes underlying convection and conduction of heat in terms of the particle model",
-      "hint": "Use the processes underlying convection and conduction of heat to make the role of wave visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["conduction","Why does a metal spoon become hot when one end sits in hot soup?",["Energy is transferred through the metal by particle interactions and mobile electrons","Hot soup particles travel through the spoon to the handle","The spoon emits sound that heats the handle","The handle absorbs only visible light"],0,"In metals, thermal energy is transferred efficiently through lattice vibrations and mobile electrons.","Think particle interactions inside the solid."],
+["conduction","Why is trapped air used in many insulating materials?",["Its particles are relatively far apart, so conduction is reduced","Air has no particles","Air reflects all infrared radiation","Air always moves downward"],0,"Gases conduct poorly because particles are much farther apart than in solids.","Greater particle spacing reduces collisional transfer."],
+["convection","Why does warmer fluid often rise above cooler fluid?",["Heating usually lowers its density, so the less-dense fluid rises while denser fluid sinks","Warm particles become heavier","Heating turns the fluid into a solid","Warm fluid is pulled upward by sound waves"],0,"Density differences caused by heating drive convection currents in fluids.","Warm fluid is usually less dense."],
+["convection","Which situation is best explained mainly by convection?",["Circulation of water in a pot heated from below","A metal rod warming along its length","Sunlight reaching Earth","A radio signal crossing space"],0,"Bulk movement of warmer and cooler water transfers energy through the liquid.","Convection needs fluid motion."],
+["heat rate","A metal plate transfers thermal energy at 45 J/s for 180 s. How much energy is transferred?",["8100 J","225 J","25 J","810 J"],0,"Energy = rate × time = 45 × 180 = 8100 J.","J/s × s = J."],
+["temperature rate","Water warms from 20°C to 80°C in 5 min. What is the average temperature increase per minute?",["12°C/min","16°C/min","20°C/min","60°C/min"],0,"The increase is 60°C over 5 min, so 60/5 = 12°C/min.","Change ÷ time."],
+["sound model","In air, what does a compression in a sound wave represent?",["A region where air particles are closer together and pressure is higher","A region with no particles","A point where particles permanently move forward with the wave","A region of lower pressure only"],0,"Longitudinal sound waves contain alternating compressions and rarefactions.","Compression = crowded particles."],
+["sound medium","Why can sound not travel through a perfect vacuum?",["There are no particles to pass the vibration from one region to another","Sound is blocked by darkness","Sound needs gravity","Vacuum absorbs all frequencies"],0,"Sound is a mechanical wave and requires particles in a medium to transmit vibrations.","Mechanical waves need matter."],
+["sound speed","Sound travels at 340 m/s in air. How long does it take to travel 170 m?",["0.50 s","2.0 s","170 s","510 s"],0,"Time = distance/speed = 170/340 = 0.50 s.","t = d/v."],
+["echo","A cliff is 120 m away and sound travels at 340 m/s. Approximately how long after a clap is the echo heard?",["0.71 s","0.35 s","1.41 s","2.83 s"],0,"The sound travels to the cliff and back: 240/340 ≈ 0.71 s.","Echo distance is out and back."],
+["frequency","A higher-pitched sound usually has:",["Higher frequency","Greater amplitude only","Lower frequency","A faster speed in the same medium"],0,"Pitch is primarily related to frequency, while loudness is related to amplitude/intensity.","Pitch ↔ frequency."],
+["amplitude","Which change most directly corresponds to a louder sound, with other factors unchanged?",["Greater wave amplitude","Higher frequency only","Lower wave speed","Shorter travel time"],0,"Greater amplitude generally means greater intensity and perceived loudness.","Loudness relates to amplitude."],
+["wavelength","A didgeridoo note has frequency 110 Hz. If sound speed is 340 m/s, what is its wavelength?",["About 3.1 m","About 0.32 m","37.4 m","450 m"],0,"λ = v/f = 340/110 ≈ 3.09 m.","Use v = fλ."],
+["current","A current of 0.50 A flows for 600 s. How much charge passes a point in the circuit?",["300 C","1200 C","30 C","0.00083 C"],0,"Q = It = 0.50 × 600 = 300 C.","Charge = current × time."],
+["current model","In a metal wire, electric current is associated mainly with the organised drift of:",["Mobile electrons","Protons moving through the lattice","Neutrons","Photons trapped in the wire"],0,"Metals contain mobile electrons that can drift through the lattice when an electric field is applied.","Charge carriers in metals are electrons."],
+["static electricity","What best describes static electricity?",["An imbalance of electric charge that can accumulate on an object's surface","A continuous flow of protons through a circuit","A stream of photons","Thermal conduction through an insulator"],0,"Static electricity involves charge separation and accumulation rather than steady current flow.","Static = charge buildup."],
+["light models","Why are both wave and particle models useful for light?",["Different phenomena are explained more effectively by different features of the models","Light changes permanently from a wave into matter","Only the wave model is ever useful","Only the particle model can describe reflection"],0,"Wave behaviour explains phenomena such as interference and diffraction, while photon ideas help explain quantised interactions.","Models have different explanatory strengths."],
+["EM waves","Which statement distinguishes electromagnetic radiation from sound?",["Electromagnetic waves can travel through a vacuum; sound cannot","Sound can travel through vacuum but light cannot","Both require matter to travel","Neither transfers energy"],0,"EM waves do not require a material medium, while sound is mechanical.","Space can carry light but not sound."],
+["photon","A photon is best described as:",["A quantum packet of electromagnetic energy","A charged air particle","A vibrating atom of sound","A free electron in a metal"],0,"Photon language models electromagnetic energy as discrete quanta.","Photon = light-energy quantum."],
+["EM spectrum","Which ordering is from lower to higher frequency?",["Radio → microwave → infrared → visible → ultraviolet → X-ray","X-ray → ultraviolet → visible → infrared → microwave → radio","Infrared → radio → X-ray → visible","Visible → infrared → microwave → ultraviolet"],0,"Frequency generally increases from radio waves through microwaves, infrared, visible, ultraviolet and X-rays.","Radio low; X-ray high."],
+["photon energy","For electromagnetic radiation, higher frequency corresponds to:",["Greater energy per photon","Lower energy per photon","The same energy per photon","Zero photon energy"],0,"Photon energy increases with frequency according to E = hf.","Frequency up → photon energy up."],
+["radio wavelength","A radio wave has frequency 100 MHz. Using c = 3.0×10^8 m/s, what is its wavelength?",["3.0 m","0.30 m","30 m","300 m"],0,"100 MHz = 1.0×10^8 Hz, so λ = c/f = 3.0 m.","Convert MHz to Hz first."],
+["microwave wavelength","A microwave has frequency 2.45 GHz. Its wavelength is closest to:",["0.122 m","1.22 m","12.2 m","0.0122 m"],0,"λ = 3.0×10^8 /(2.45×10^9) ≈ 0.122 m.","Use c = fλ."],
+["model choice","Which model is most useful for explaining why sound speeds differ between solids, liquids and gases?",["A particle-interaction model of the medium","A photon model","A model of static charge only","A model based only on colour"],0,"Sound transfer depends on how particles in a medium interact and transmit vibrations.","The medium's particle behaviour matters." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9u04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9U04",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
