@@ -1,237 +1,27 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9m8sp01-t-001",
-    "curriculumCode": "AC9M8SP01",
-    "bank": "test",
-    "skill": "explore sufficient conditions to establish that 2 triangles are congruent",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore sufficient conditions to establish that 2 triangles are congruent. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore sufficient conditions to establish that 2 triangles are congruent. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating sufficient conditions to establish that 2 triangles are congruent",
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating sufficient conditions to establish that 2 triangles are congruent\nHint: Explore sufficient conditions to establish that 2 triangles are congruent.",
-    "structuredExplanation": {
-      "summary": "investigating sufficient conditions to establish that 2 triangles are congruent",
-      "hint": "Explore sufficient conditions to establish that 2 triangles are congruent."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp01-t-002",
-    "curriculumCode": "AC9M8SP01",
-    "bank": "test",
-    "skill": "apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes\nHint: Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes.",
-    "structuredExplanation": {
-      "summary": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
-      "hint": "Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp01-t-003",
-    "curriculumCode": "AC9M8SP01",
-    "bank": "test",
-    "skill": "compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The congruence and similarity model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”\nHint: Compare angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”.",
-    "structuredExplanation": {
-      "summary": "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”",
-      "hint": "Compare angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp01-t-004",
-    "curriculumCode": "AC9M8SP01",
-    "bank": "test",
-    "skill": "establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal"
-    ],
-    "correct": 3,
-    "explanation": "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal\nHint: Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations.",
-    "structuredExplanation": {
-      "summary": "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal",
-      "hint": "Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp01-t-005",
-    "curriculumCode": "AC9M8SP01",
-    "bank": "test",
-    "skill": "develop an understanding of what it means for shapes to be congruent or similar",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses develop an understanding of what it means for shapes to be congruent or similar?",
-    "audioPrompt": "Which response correctly uses develop an understanding of what it means for shapes to be congruent or similar?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "developing an understanding of what it means for shapes to be congruent or similar",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "developing an understanding of what it means for shapes to be congruent or similar\nHint: Develop an understanding of what it means for shapes to be congruent or similar.",
-    "structuredExplanation": {
-      "summary": "developing an understanding of what it means for shapes to be congruent or similar",
-      "hint": "Develop an understanding of what it means for shapes to be congruent or similar."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp01-t-006",
-    "curriculumCode": "AC9M8SP01",
-    "bank": "test",
-    "skill": "use the enlargement transformation and digital tools to develop sets of similar shapes",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses use the enlargement transformation and digital tools to develop sets of similar shapes?",
-    "audioPrompt": "Which response correctly uses use the enlargement transformation and digital tools to develop sets of similar shapes?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The congruence and similarity model is copied without interpretation",
-      "using the enlargement transformation and digital tools to develop sets of similar shapes",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using the enlargement transformation and digital tools to develop sets of similar shapes\nHint: Use the enlargement transformation and digital tools to develop sets of similar shapes.",
-    "structuredExplanation": {
-      "summary": "using the enlargement transformation and digital tools to develop sets of similar shapes",
-      "hint": "Use the enlargement transformation and digital tools to develop sets of similar shapes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp01-t-007",
-    "curriculumCode": "AC9M8SP01",
-    "bank": "test",
-    "skill": "explore sufficient conditions to establish that 2 triangles are congruent",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses explore sufficient conditions to establish that 2 triangles are congruent?",
-    "audioPrompt": "Which response correctly uses explore sufficient conditions to establish that 2 triangles are congruent?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "investigating sufficient conditions to establish that 2 triangles are congruent",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating sufficient conditions to establish that 2 triangles are congruent\nHint: Explore sufficient conditions to establish that 2 triangles are congruent.",
-    "structuredExplanation": {
-      "summary": "investigating sufficient conditions to establish that 2 triangles are congruent",
-      "hint": "Explore sufficient conditions to establish that 2 triangles are congruent."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp01-t-008",
-    "curriculumCode": "AC9M8SP01",
-    "bank": "test",
-    "skill": "apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes",
-    "printable": true,
-    "type": "single",
-    "question": "Which response correctly uses apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes?",
-    "audioPrompt": "Which response correctly uses apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes"
-    ],
-    "correct": 3,
-    "explanation": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes\nHint: Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes.",
-    "structuredExplanation": {
-      "summary": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
-      "hint": "Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes."
-    },
-    "qualitySchema": "production-v1"
-  }
+const C="AC9M8SP01";
+const s1="understand congruence and similarity, including same size and shape, equal angles, proportional sides and scale factors";
+const s2="use enlargement and scale factors to reason about similar shapes, side lengths and area ratios";
+const s3="apply triangle congruence tests including SSS, SAS, ASA, AAS and RHS";
+const s4="use logical reasoning to justify congruence or similarity";
+const s5="identify what changes and what stays the same under transformations";
+const mk=(id,bank,skill,question,answers,correct,explanation)=>({id:"ac9m8sp01-"+id,curriculumCode:C,bank,skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation,structuredExplanation:{summary:explanation.split("\n")[0],hint:explanation.split("\n").slice(-1)[0]},qualitySchema:"production-v1"});
+window.skillrTestQuestions=[
+mk("t-001","test",s1,"Two shapes have equal corresponding angles, but one is twice as large as the other. They are:",["Congruent","Similar","Neither","Impossible"],1,"Equal corresponding angles and a constant scale factor mean the shapes are similar, not congruent.\nHint: Congruent means same size as well as same shape."),
+mk("t-002","test",s1,"Two quadrilaterals have all corresponding side lengths equal, but their angles are different. They are:",["Congruent","Similar","Neither","Both congruent and similar"],2,"For congruence or similarity, corresponding angles must also match. Equal side lengths alone is not enough for quadrilaterals.\nHint: Polygons need matching angle structure as well as side information."),
+mk("t-003","test",s1,"Two pentagons have all corresponding angles equal, but their side ratios are not all the same. They are:",["Congruent","Similar","Neither","Impossible"],2,"Similarity requires equal angles and proportional corresponding sides. If the side ratios differ, the shapes are not similar.\nHint: Same angles alone is not enough for larger polygons."),
+mk("t-004","test",s1,"Which pair of rectangles is NOT similar?",["3 × 4 and 6 × 8","5 × 10 and 6 × 12","4 × 9 and 8 × 18","7 × 14 and 7 × 21"],3,"The side ratios for 7 × 14 and 7 × 21 are 1:2 and 1:3, so the rectangles are not similar.\nHint: Compare length:width ratios."),
+mk("t-005","test",s2,"Similar shapes have side ratio 7:3. Their area ratio is:",["7:3","14:6","49:9","21:9"],2,"Area ratio is the square of the side ratio: 7²:3² = 49:9.\nHint: Square both parts of the side ratio."),
+mk("t-006","test",s2,"Point (−4, 6) is enlarged from the origin by scale factor −2. The image point is:",["(−8, 12)","(8, −12)","(−12, 8)","(8, 12)"],1,"Multiply both coordinates by −2: (−4, 6) → (8, −12).\nHint: A negative scale factor also changes direction through the origin."),
+mk("t-007","test",s2,"Triangle A has sides 6, 9, 12. Triangle B has sides 4, 6, 8. Triangle C has sides 3, 4.5, 6. Which triangles are similar?",["A and B only","B and C only","A and C only","A, B and C"],3,"All three triangles have proportional side lengths in the ratio 2:3:4, so all are similar.\nHint: Simplify each side set to the same ratio."),
+mk("t-008","test",s2,"Two similar shapes have perimeters 45 cm and 72 cm. The scale factor from the smaller to the larger is:",["1.4","1.5","1.6","1.8"],2,"Perimeters scale by the same factor as side lengths: 72 ÷ 45 = 1.6.\nHint: Perimeter is a length measure, so it scales by k."),
+mk("t-009","test",s2,"Two similar shapes have area ratio 16:25. Their side ratio is:",["4:5","5:4","3:5","2:5"],0,"Side ratio is the square root of the area ratio: √16:√25 = 4:5.\nHint: Reverse area scaling by taking square roots."),
+mk("t-010","test",s3,"Triangles with sides 5, 7, 9 and 10, 14, 18 are:",["Congruent","Similar","Neither","Impossible"],1,"The second triangle has all side lengths doubled, so the triangles are similar by SSS similarity.\nHint: Congruence would need equal side lengths, not just proportional ones."),
+mk("t-011","test",s3,"Two triangles have angles 30° and 70° with the included side 12 cm. Another has the same two angles with included side 18 cm. They are:",["Congruent","Similar","Neither","Impossible"],1,"They have the same angles, so they are similar. The included side length differs, so they are not congruent.\nHint: Same angles but different size gives similarity."),
+mk("t-012","test",s4,"Two triangles have equal perimeters and equal areas. This is enough to prove:",["Congruence","Similarity","Neither congruence nor similarity","Both congruence and similarity"],2,"Equal perimeter and equal area do not guarantee matching sides or angles.\nHint: Congruence and similarity need corresponding side/angle evidence."),
+mk("t-013","test",s4,"Two similar triangles have side ratio 4:7. Their area ratio is:",["4:7","8:14","16:49","32:343"],2,"Area ratio is 4²:7² = 16:49.\nHint: Square the side ratio for area."),
+mk("t-014","test",s5,"A reflection changes:",["Side lengths","Angles","Orientation","Area"],2,"A reflection preserves side lengths, angles and area, but reverses orientation.\nHint: Think of a mirror image."),
+mk("t-015","test",s5,"Which transformation changes side lengths and area but not angles?",["Rotation","Reflection","Enlargement","Translation"],2,"An enlargement changes lengths and area while preserving angle measures.\nHint: This is why enlarged shapes are similar."),
+mk("t-016","test",s3,"Right triangle A has hypotenuse 20 and leg 12. Right triangle B has hypotenuse 10 and leg 6. They are:",["Congruent","Similar","Neither","Impossible"],1,"The hypotenuse and leg are in the same ratio 2:1. The missing legs are also 16 and 8, so the triangles are similar.\nHint: RHS proves congruence only when the lengths are equal, not just proportional.")
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
+window.quizQuestions=window.skillrTestQuestions;
