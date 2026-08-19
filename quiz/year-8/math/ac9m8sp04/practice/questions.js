@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m8sp04-p-001",
-    "curriculumCode": "AC9M8SP04",
-    "bank": "practice",
-    "skill": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "listing the properties or criteria necessary to determine if shapes are similar or congruent",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "listing the properties or criteria necessary to determine if shapes are similar or congruent\nHint: listing the properties or criteria necessary to determine if shapes are similar or congruent.",
-    "structuredExplanation": {
-      "summary": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
-      "hint": "listing the properties or criteria necessary to determine if shapes are similar or congruent."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp04-p-002",
-    "curriculumCode": "AC9M8SP04",
-    "bank": "practice",
-    "skill": "use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The algorithms for congruence and similarity model is copied without interpretation",
-      "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart\nHint: Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm.",
-    "structuredExplanation": {
-      "summary": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
-      "hint": "Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp04-p-003",
-    "curriculumCode": "AC9M8SP04",
-    "bank": "practice",
-    "skill": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles\nHint: evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.",
-    "structuredExplanation": {
-      "summary": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
-      "hint": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp04-p-004",
-    "curriculumCode": "AC9M8SP04",
-    "bank": "practice",
-    "skill": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving listing the properties or criteria necessary to determine if shapes are similar or congruent. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "listing the properties or criteria necessary to determine if shapes are similar or congruent"
-    ],
-    "correct": 3,
-    "explanation": "listing the properties or criteria necessary to determine if shapes are similar or congruent\nHint: listing the properties or criteria necessary to determine if shapes are similar or congruent.",
-    "structuredExplanation": {
-      "summary": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
-      "hint": "listing the properties or criteria necessary to determine if shapes are similar or congruent."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp04-p-005",
-    "curriculumCode": "AC9M8SP04",
-    "bank": "practice",
-    "skill": "use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
-      "The algorithms for congruence and similarity model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart\nHint: Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm.",
-    "structuredExplanation": {
-      "summary": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
-      "hint": "Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp04-p-006",
-    "curriculumCode": "AC9M8SP04",
-    "bank": "practice",
-    "skill": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles\nHint: evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles.",
-    "structuredExplanation": {
-      "summary": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles",
-      "hint": "evaluating algorithms for accuracy in classifying and distinguishing between similar and congruent triangles."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp04-p-007",
-    "curriculumCode": "AC9M8SP04",
-    "bank": "practice",
-    "skill": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using listing the properties or criteria necessary to determine if shapes are similar or congruent?",
-    "audioPrompt": "What should you check when using listing the properties or criteria necessary to determine if shapes are similar or congruent?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "listing the properties or criteria necessary to determine if shapes are similar or congruent",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "listing the properties or criteria necessary to determine if shapes are similar or congruent\nHint: listing the properties or criteria necessary to determine if shapes are similar or congruent.",
-    "structuredExplanation": {
-      "summary": "listing the properties or criteria necessary to determine if shapes are similar or congruent",
-      "hint": "listing the properties or criteria necessary to determine if shapes are similar or congruent."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp04-p-008",
-    "curriculumCode": "AC9M8SP04",
-    "bank": "practice",
-    "skill": "use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
-    "audioPrompt": "What should you check when using use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The algorithms for congruence and similarity model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart"
-    ],
-    "correct": 3,
-    "explanation": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart\nHint: Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm.",
-    "structuredExplanation": {
-      "summary": "using the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm; for example, creating a flow chart",
-      "hint": "Use the conditions for congruence of triangles and similarity of triangles to develop a sorting algorithm."
-    },
-    "qualitySchema": "production-v1"
-  }
+const rows=[
+["Valid congruence test","Which is a valid triangle congruence test?",["AAA","SSS","SSA","One equal angle"],1,"SSS proves all three corresponding sides are equal."],
+["Similarity meaning","Which statement correctly describes similar triangles?",["All corresponding sides are equal","All corresponding angles are equal and corresponding sides are proportional","They must have equal areas","They must have equal perimeters"],1,"Similar triangles have equal corresponding angles and proportional corresponding sides."],
+["Invalid congruence test","Which is NOT a valid triangle congruence test?",["SAS","ASA","AAS","AAA"],3,"AAA proves similarity, not congruence."],
+["AAA similarity","What does AAA establish for triangles?",["Congruence","Similarity","Neither","RHS"],1,"Three equal corresponding angles establish triangle similarity."],
+["Congruence property","Congruent triangles have:",["The same angles only","The same sides only","The same size and shape","The same perimeter only"],2,"Congruence means identical size and shape."],
+["Similarity ratios","For similar triangles, corresponding side ratios are:",["Equal","Random","Always 1","Opposite"],0,"A common scale factor links corresponding side lengths."],
+["RHS condition","RHS can be used only when the triangles are:",["Right-angled","Obtuse","Acute","Equilateral"],0,"RHS stands for right angle, hypotenuse and side."],
+["ASA condition","ASA uses:",["Two angles and the included side","Two sides and any angle","Three angles only","Three sides"],0,"ASA fixes two angles and the side between them."],
+["SAS condition","SAS requires:",["Two sides and the included angle","Two sides and any angle","Three sides","Three angles"],0,"The angle must be included between the two known sides."],
+["Congruence implies similarity","Congruent triangles are always:",["Similar","Non-similar","Different sizes","Different shapes"],0,"A scale factor of 1 makes congruent triangles a special case of similar triangles."],
+["Algorithm first step","A robust congruence-checking algorithm should first:",["Assume the triangles are valid","Check that the required measurements and triangle data are available","Check AAA","Compare areas"],1,"An algorithm cannot apply a test reliably without the required data."],
+["Flowchart decision","In a flowchart, a decision diamond usually represents:",["A question with branches","A calculation only","A start/end point","A data table"],0,"Decision diamonds branch according to yes/no or other conditions."],
+["SSS algorithm","An SSS branch must compare:",["All three pairs of corresponding sides","One side only","All angles only","Areas"],0,"SSS needs all three side pairs."],
+["Similarity by angles","If two triangles have all corresponding angles equal, a similarity algorithm may conclude:",["Similar","Congruent","Neither","Invalid"],0,"AAA is sufficient for triangle similarity."],
+["Similarity by sides","If all three corresponding side ratios are equal, a similarity algorithm may conclude:",["Similar","Congruent only","Neither","Invalid"],0,"SSS proportionality establishes triangle similarity."],
+["Reject missing data","If a branch requires SAS but the included angle is missing, the algorithm should:",["Guess the angle","Reject that branch and try another valid test if possible","Declare congruent","Declare similar"],1,"Missing information means that test cannot be applied."],
+["RHS algorithm","An RHS branch checks:",["Right angle, equal hypotenuse and one corresponding leg","Hypotenuse only","One angle only","Side ratios only"],0,"RHS is specific to right triangles."],
+["Triangle type check","Why can checking for a right angle improve a congruence algorithm?",["It may allow the RHS test","SAS works only for right triangles","SSS works only for right triangles","AAA becomes congruence"],0,"RHS becomes available only for right-angled triangles."],
+["Flowchart terminal","A terminal symbol in a flowchart represents:",["Start or end","Decision","Calculation","Input only"],0,"Terminals mark the beginning or end of an algorithm."],
+["SSA warning","Why should an algorithm not accept SSA as a general congruence test?",["SSA can produce more than one possible triangle","SSA always proves similarity","SSA is the same as SSS","SSA requires a right angle"],0,"SSA is ambiguous in general."],
+["Efficient branch choice","If all three side lengths are already known for both triangles, the most direct congruence branch is:",["SSS","AAA","RHS","ASA"],0,"SSS uses the available side data directly."],
+["Similarity scale factor","Corresponding sides are 8 cm and 12 cm in two similar triangles. The scale factor from the first to the second is:",["1.5","0.67","4","20"],0,"12 ÷ 8 = 1.5."],
+["Algorithm output","A similarity algorithm finds equal corresponding angles. What is the correct output?",["Similar","Congruent","Neither","Error"],0,"Equal corresponding angles establish triangle similarity."],
+["Validation cases","A good algorithm test set should include:",["Only congruent examples","Only similar examples","Valid positives, valid negatives and edge cases","One easy example"],2,"Good validation checks correct classifications and likely failure cases."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=rows.map((r,i)=>({id:`ac9m8sp04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M8SP04",bank:"practice",section:i<10?"criteria":i<20?"algorithm-design":"validation",sourceNumber:i+1,skill:r[0],printable:true,type:"single",question:r[1],audioPrompt:r[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:r[2],correct:r[3],explanation:r[4],structuredExplanation:{summary:r[4],hint:"Check exactly what information the selected congruence or similarity test requires."},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
