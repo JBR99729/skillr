@@ -1,236 +1,31 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m8p03-p-001",
-    "curriculumCode": "AC9M8P03",
-    "bank": "practice",
-    "skill": "use digital tools including generative artificial intelligence to conduct probability simulations involving compound events",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events\nHint: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events.",
-    "structuredExplanation": {
-      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
-      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8p03-p-002",
-    "curriculumCode": "AC9M8P03",
-    "bank": "practice",
-    "skill": "use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The compound chance experiments and simulations model is copied without interpretation",
-      "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often\nHint: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them.",
-    "structuredExplanation": {
-      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
-      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8p03-p-003",
-    "curriculumCode": "AC9M8P03",
-    "bank": "practice",
-    "skill": "use online simulation software to conduct probability simulations to determine in the long run if events are complementary",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary\nHint: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary.",
-    "structuredExplanation": {
-      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
-      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8p03-p-004",
-    "curriculumCode": "AC9M8P03",
-    "bank": "practice",
-    "skill": "use digital tools including generative artificial intelligence to conduct probability simulations involving compound events",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use digital tools including generative artificial intelligence to conduct probability simulations involving compound events. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events"
-    ],
-    "correct": 3,
-    "explanation": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events\nHint: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events.",
-    "structuredExplanation": {
-      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
-      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8p03-p-005",
-    "curriculumCode": "AC9M8P03",
-    "bank": "practice",
-    "skill": "use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
-      "The compound chance experiments and simulations model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often\nHint: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them.",
-    "structuredExplanation": {
-      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
-      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8p03-p-006",
-    "curriculumCode": "AC9M8P03",
-    "bank": "practice",
-    "skill": "use online simulation software to conduct probability simulations to determine in the long run if events are complementary",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use online simulation software to conduct probability simulations to determine in the long run if events are complementary. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary\nHint: Use online simulation software to conduct probability simulations to determine in the long run if events are complementary.",
-    "structuredExplanation": {
-      "summary": "using online simulation software to conduct probability simulations to determine in the long run if events are complementary",
-      "hint": "Use online simulation software to conduct probability simulations to determine in the long run if events are complementary."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8p03-p-007",
-    "curriculumCode": "AC9M8P03",
-    "bank": "practice",
-    "skill": "use digital tools including generative artificial intelligence to conduct probability simulations involving compound events",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
-    "audioPrompt": "What should you check when using use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events\nHint: Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events.",
-    "structuredExplanation": {
-      "summary": "using digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events",
-      "hint": "Use digital tools, including generative artificial intelligence, to conduct probability simulations involving compound events."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8p03-p-008",
-    "curriculumCode": "AC9M8P03",
-    "bank": "practice",
-    "skill": "use a random number generator and digital tools including generative artificial intelligence to simulate rolling 2 dice and calculating the difference between them",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
-    "audioPrompt": "What should you check when using use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The compound chance experiments and simulations model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often"
-    ],
-    "correct": 3,
-    "explanation": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often\nHint: Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them.",
-    "structuredExplanation": {
-      "summary": "using a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them, investigating what difference is likely to occur more often",
-      "hint": "Use a random number generator and digital tools, including generative artificial intelligence, to simulate rolling 2 dice and calculating the difference between them."
-    },
-    "qualitySchema": "production-v1"
-  }
+const rawPractice = [
+  [1,"compound events","Which statement best describes a compound event?",["An event involving exactly one simple outcome","An event formed by combining two or more simple events or outcomes","An event that must be mutually exclusive","An event that must be complementary"],1,"A compound event combines two or more simple events or outcomes."],
+  [2,"simulation accuracy","Why are digital simulations useful for estimating probabilities?",["They remove randomness","They allow many repeated trials quickly","They guarantee exact theoretical probabilities","They remove every source of bias"],1,"Digital simulations make it practical to run many trials, reducing random sampling variation in the estimate."],
+  [3,"digital simulation","A digital tool is used to model repeated rolls of two dice. What should it do?",["Predict each exact future roll","Generate repeated random outcomes according to the model","Remove uncertainty from the experiment","Force each total to occur equally often"],1,"A valid simulation generates random outcomes according to the probability model."],
+  [4,"long-run behaviour","As the number of valid simulation trials becomes very large, the experimental probability usually does what?",["Approaches the theoretical probability","Approaches zero","Becomes perfectly uniform for every event","Stops varying completely"],0,"By the law of large numbers, relative frequencies tend to approach theoretical probabilities."],
+  [5,"compound event example","Why is rolling two dice a compound chance experiment?",["Only one die matters","The result combines outcomes from two rolls","The dice must be identical","The dice must be fair"],1,"The overall result depends on the combination of the two die outcomes."],
+  [6,"simulation variability","Compared with a simulation of 10,000 trials, a simulation of 20 trials usually has what feature?",["More random variation in its estimated probabilities","Less random variation","No random variation","Guaranteed bias"],0,"Small simulations usually show more sampling variation."],
+  [7,"repeat trials","What usually happens to random sampling variation when the number of simulation trials increases?",["It tends to decrease","It must increase","It becomes bias","It changes the theoretical probability"],0,"More trials generally stabilise relative-frequency estimates."],
+  [8,"digital tool advantage","What is a major advantage of using a computer for a compound-event simulation?",["It can run thousands of trials quickly","It removes all randomness","It makes every outcome equally likely","It proves the model is unbiased"],0,"Computers can repeat a random experiment very quickly."],
+  [9,"simulation error","Which change most directly reduces the random error in a simulation-based probability estimate?",["Increase the number of trials","Decrease the number of trials","Change the answer choices","Round more aggressively"],0,"Larger numbers of trials generally reduce random sampling error."],
+  [10,"simulation model","A probability simulation should use random sampling that matches what?",["The assumed probability model","The desired answer","The largest outcome","A deterministic pattern"],0,"The random generator should match the probabilities specified by the model."],
+  [11,"tree diagrams","Why is a tree diagram useful for compound events?",["It displays possible sequences of outcomes","It removes randomness","It guarantees equal probabilities","It shows only the most likely path"],0,"A tree diagram organises possible paths through a multi-stage chance experiment."],
+  [12,"simulation distribution","As the number of trials increases, a simulated relative-frequency distribution usually becomes what?",["More stable and closer to the theoretical distribution","More erratic","Exactly uniform","Independent of the model"],0,"More trials generally make the relative-frequency pattern more stable."],
+  [13,"experimental probability","In 2,000 simulated trials, an event occurs 470 times. What is its estimated probability?",["470/2000","2000/470","470×2000","1−470"],0,"Experimental probability is favourable outcomes divided by total trials."],
+  [14,"compound event logic","To calculate or simulate a compound event, what must be considered?",["How the component events combine","Only the first event","Only the most likely outcome","No sample space"],0,"Compound-event probability depends on how the component events and outcomes combine."],
+  [15,"dice difference","For two fair six-sided dice, define the difference as |Die 1 − Die 2|. What does this mean?",["Add the two scores","Multiply the scores","Take the non-negative distance between the two scores","Always subtract Die 2 from Die 1 without using absolute value"],2,"Absolute difference is the non-negative distance between the two die scores."],
+  [16,"dice difference range","What are all possible absolute differences when two standard six-sided dice are rolled?",["0,1,2,3,4,5","0,1,2,3,4,5,6","1,2,3,4,5","1,2,3,4,5,6"],0,"The smallest difference is 0 and the largest is |6−1|=5."],
+  [17,"most likely difference","Which absolute difference is most likely when two fair six-sided dice are rolled?",["0","1","2","5"],1,"Difference 1 occurs in 10 of the 36 ordered outcomes, more than any other difference."],
+  [18,"difference zero","When is the absolute difference between two dice equal to 0?",["When the dice show the same number","When the dice sum to 6","When one die shows 1","When the dice differ by 1"],0,"The difference is 0 exactly when both dice show the same score."],
+  [19,"difference zero probability","What is the probability that two fair dice have absolute difference 0?",["1/36","6/36","10/36","12/36"],1,"There are 6 matching ordered outcomes: (1,1) through (6,6), so the probability is 6/36=1/6."],
+  [20,"difference one simulation","In a long simulation of two fair dice, which absolute difference should occur most often?",["0","1","4","5"],1,"Difference 1 has 10 favourable ordered pairs, the largest count."],
+  [21,"difference distribution","The probabilities for absolute differences 0,1,2,3,4,5 are 6,10,8,6,4,2 out of 36. Which statement is true?",["The distribution is uniform","Difference 1 is the mode of the distribution","Difference 5 is most likely","All differences are equally likely"],1,"The largest probability is 10/36 for difference 1."],
+  [22,"two-way table","Why can a 6×6 two-way table be useful for analysing two dice?",["It shows all 36 ordered pairs of die outcomes","It shows only Die 1","It removes duplicate outcomes","It makes every difference equally likely"],0,"A 6×6 table displays all ordered pairs and lets you count events such as each absolute difference."],
+  [23,"simulation estimate","A simulation estimates P(|D1−D2|=1) as 0.281 after many trials. The theoretical value is 10/36≈0.278. What is the best interpretation?",["The simulation is reasonably close to theory","The simulation must be wrong","The theoretical probability must be 0.281","Random trials should give exactly 0.278 every time"],0,"Simulation estimates need not equal theory exactly; close values are expected with many trials."],
+  [24,"difference zero equivalent","Which fraction is equivalent to the theoretical probability that two fair dice have absolute difference 0?",["1/6","1/36","1/3","5/6"],0,"6/36 simplifies to 1/6."]
 ];
+window.skillrPracticeQuestions = rawPractice.map(([n,skill,question,answers,correct,explanation]) => ({
+  id:`ac9m8p03-p-${String(n).padStart(3,"0")}`, curriculumCode:"AC9M8P03", bank:"practice", section:n<=14?"E1":"E2", sourceNumber:n, skill, printable:true, type:"single", question, audioPrompt:question, visual:"", visualHtml:"", visualMeta:{type:"none",alt_text:""}, answers, correct, explanation, structuredExplanation:{summary:explanation,hint:"Model the sample space carefully, then compare experimental and theoretical probability."}, qualitySchema:"production-v1"
+}));
 window.quizQuestions = window.skillrPracticeQuestions;
