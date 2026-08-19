@@ -15,7 +15,7 @@
     const analyticsLoaded = [...document.scripts].some((script) => script.src.includes(analyticsBase));
     if (!analyticsLoaded) {
       const analytics = document.createElement("script");
-      analytics.src = `${analyticsBase}?v=20260820-ga4-runtime`;
+      analytics.src = `${analyticsBase}?v=20260820-ga4-runtime-2`;
       analytics.async = false;
       document.head.appendChild(analytics);
     }
