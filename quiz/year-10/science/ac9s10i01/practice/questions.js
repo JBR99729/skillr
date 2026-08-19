@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10i01-p-001",
-    "curriculumCode": "AC9S10I01",
-    "bank": "practice",
-    "skill": "use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
-      "A prediction and hypothesis are identical",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported\nHint: Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
-      "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i01-p-002",
-    "curriculumCode": "AC9S10I01",
-    "bank": "practice",
-    "skill": "use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A testable question must always be causal",
-      "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data\nHint: Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
-      "hint": "Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i01-p-003",
-    "curriculumCode": "AC9S10I01",
-    "bank": "practice",
-    "skill": "use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A prediction and hypothesis are identical",
-      "The method can be chosen without checking the values or conditions",
-      "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’\nHint: Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
-      "hint": "Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i01-p-004",
-    "curriculumCode": "AC9S10I01",
-    "bank": "practice",
-    "skill": "use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A testable question must always be causal",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested"
-    ],
-    "correct": 3,
-    "explanation": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested\nHint: Use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "asking questions about the relationship between crash impact force and speed and developing a hypothesis which can then be tested",
-      "hint": "Use asking questions about the relationship between crash impact force to make the role of hypothesis visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i01-p-005",
-    "curriculumCode": "AC9S10I01",
-    "bank": "practice",
-    "skill": "use how changing the surface area concentration and temperature affects to make the role of model based prediction visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how changing the surface area concentration and temperature affects to make the role of model based prediction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how changing the surface area concentration and temperature affects to make the role of model based prediction visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
-      "A prediction and hypothesis are identical",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions\nHint: Use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "observing how changing the surface area, concentration and temperature affects the rate of a chemical reaction and developing reasoned predictions",
-      "hint": "Use how changing the surface area, concentration and temperature affects to make the role of model-based prediction visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i01-p-006",
-    "curriculumCode": "AC9S10I01",
-    "bank": "practice",
-    "skill": "use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A testable question must always be causal",
-      "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported\nHint: Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing how a tested hypothesis may lead to further predictions and testing to determine if the prediction is supported",
-      "hint": "Use how a tested hypothesis may lead to further predictions to make the role of observation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i01-p-007",
-    "curriculumCode": "AC9S10I01",
-    "bank": "practice",
-    "skill": "use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A prediction and hypothesis are identical",
-      "The method can be chosen without checking the values or conditions",
-      "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data\nHint: Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "developing hypotheses about the role of human activity in changes to climate and investigating these using secondary data",
-      "hint": "Use hypotheses about the role of human activity in changes to make the role of question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i01-p-008",
-    "curriculumCode": "AC9S10I01",
-    "bank": "practice",
-    "skill": "use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A testable question must always be causal",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’"
-    ],
-    "correct": 3,
-    "explanation": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’\nHint: Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "observing a change in the frequency of extreme weather events and hypothesising causes from scientific models, such as: ‘If the El Niño weather pattern occurs more frequently then there will be more droughts due to decreased rainfall’",
-      "hint": "Use a change in the frequency of extreme weather events to make the role of variables visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const skillrRawQuestions = [
+["inquiry reasoning","Which feature is essential for an investigable scientific question?",["It identifies variables or observations that can be measured or compared","It must already have a known correct answer","It must always begin with the word why","It must describe a laboratory experiment"],0,"An investigable question can be addressed using measurable observations or data; it does not have to be causal or laboratory-based.","Ask whether evidence could realistically answer the question."],
+["hypotheses","Which statement is the best scientific hypothesis?",["Plants are interesting to study","Increasing light intensity will increase photosynthesis rate because more light energy is available for the light-dependent reactions, until another factor becomes limiting","Photosynthesis happens in leaves","Will light affect a plant?"],1,"A strong hypothesis proposes a testable relationship and gives scientific reasoning for the predicted relationship.","Look for a relationship plus a scientific mechanism."],
+["predictions","A hypothesis states that increasing temperature increases reaction rate because particles collide more frequently and with greater energy. Which prediction follows most directly?",["A reaction at 40 °C will usually proceed faster than the same reaction at 20 °C when other conditions are controlled","Every reaction at 40 °C will finish in exactly half the time","Temperature is the only factor affecting reaction rate","A hotter reaction must produce different products"],0,"The prediction follows logically from the hypothesis while keeping other variables controlled and avoiding an unsupported exact effect.","A prediction should be a measurable expected outcome."],
+["hypothesis testing","A prediction from a hypothesis is not supported by repeated, reliable measurements. What is the best next step?",["Change the measurements so they match the prediction","Reject all previous scientific knowledge","Review the method and assumptions, then refine or replace the hypothesis if the evidence warrants it","Keep the hypothesis unchanged because hypotheses cannot be revised"],2,"Unexpected reliable evidence should prompt scrutiny of the method and, where appropriate, refinement of the hypothesis or model.","Science responds to reliable contrary evidence."],
+["further predictions","Repeated tests support a hypothesis over one range of conditions. What is a useful next investigation?",["Test a new prediction under different relevant conditions","Stop because the hypothesis is now permanently proven","Repeat only the result that gave the largest effect","Remove variables from the records"],0,"Supported hypotheses can generate further predictions that extend or challenge the proposed explanation.","Good hypotheses lead to new tests."],
+["variables","Which question most clearly identifies an independent and dependent variable?",["How does hydrochloric acid concentration affect the time taken for a fixed mass of magnesium to react?","Why are chemical reactions useful?","What happens in chemistry?","Is magnesium a good metal?"],0,"Acid concentration can be varied and reaction time measured, giving a clear relationship to investigate.","Look for something changed and something measured."],
+["secondary data","Which is an example of using secondary data to investigate a climate hypothesis?",["Measuring today's classroom temperature","Analysing published atmospheric CO₂ and global temperature records from several decades","Asking classmates whether summers feel warmer","Predicting next week's weather without data"],1,"Secondary data were collected previously by other researchers or organisations and can be analysed to test a new question or hypothesis.","Published datasets are secondary data."],
+["correlation","Atmospheric CO₂ concentration and global mean temperature both rise over a long dataset. What can this observation alone establish?",["CO₂ is definitely the only cause of warming","There is an association that can motivate further causal investigation","Temperature cannot affect CO₂ in any way","The measurements must be inaccurate"],1,"A correlation is evidence of an association, but observational correlation alone does not establish a single causal mechanism.","Association is not automatically causation."],
+["climate inquiry","Which question is best suited to testing with long-term secondary data?",["How has global mean temperature changed as atmospheric CO₂ concentration has changed since 1960?","Is climate change frightening?","Should governments care about emissions?","Which season is nicest?"],0,"The question specifies measurable variables that can be compared using long-term records.","Prefer measurable variables over opinions or values."],
+["models","Why can a scientific model be useful when developing a hypothesis about extreme weather?",["It can represent mechanisms and relationships that generate testable predictions","It guarantees the exact date of every future event","It removes the need for observations","It proves causation simply by being complex"],0,"Models represent selected processes and can be used to derive predictions that are checked against evidence.","Models connect explanations to predictions."],
+["extreme weather","A region records more heatwaves over 40 years. Which response best demonstrates scientific reasoning?",["Conclude immediately that one cause has been proven","Develop hypotheses for possible causes and test predictions using relevant observations and models","Ignore the change because weather varies","Assume the measuring instruments became more accurate"],1,"An observed pattern can motivate hypotheses, but possible explanations need to be tested rather than assumed.","Observation → possible explanation → test."],
+["model comparison","Two climate models make different predictions for drought frequency. What should scientists do?",["Choose the model with the most dramatic prediction","Compare assumptions and predictions with observations, including data not used to tune the models","Average the answers and treat the average as proven","Reject modelling altogether"],1,"Models are evaluated by their assumptions, mechanisms and performance against relevant observations.","Test models against evidence."],
+["crash inquiry","Which question is most directly investigable in a controlled crash model?",["How does impact speed affect the peak force measured during otherwise identical collisions?","Are fast cars dangerous?","Should speed limits be lower?","Why do people enjoy driving?"],0,"Impact speed can be varied while peak force is measured under controlled conditions.","Specify the changed and measured variables."],
+["crash variables","A student investigates how impact speed affects peak force using identical trolleys. Which variable should be kept constant?",["Trolley mass","Impact speed","Peak force","The plotted force value"],0,"Mass is a potential confounding variable, so it should be controlled while speed is deliberately varied.","Control other factors that could change the outcome."],
+["crash prediction","A student hypothesises that increasing impact speed increases peak collision force when mass and stopping conditions are constant. Which result would support the directional prediction?",["Mean peak force rises systematically as impact speed rises","Peak force is identical at every tested speed","Mass changes at the same time as speed","Only one collision is measured"],0,"A systematic increase in measured peak force with speed is the pattern predicted by the hypothesis.","Match the observed pattern to the predicted pattern."],
+["fair tests","Why should several collisions be repeated at each impact speed?",["To estimate variability and reduce the influence of random error","To guarantee the hypothesis is correct","To make every reading identical","To remove the need to control variables"],0,"Repeated measurements reveal variability and make estimates such as the mean less sensitive to random variation.","Repeats improve reliability, not certainty."],
+["reaction rate","Which question best investigates the effect of concentration on reaction rate?",["How does hydrochloric acid concentration affect the initial rate of reaction with equal-sized magnesium strips at constant temperature?","Why does acid react with metal?","Is concentrated acid dangerous?","Which acid looks strongest?"],0,"The question specifies the independent variable, a measurable response and important controls.","A strong question defines the comparison."],
+["surface area","Why can powdered calcium carbonate react faster than the same mass in large chips?",["The powder exposes more surface for collisions between reactant particles","The powder contains more calcium carbonate particles overall","Grinding permanently raises the particles' temperature","Large chips cannot react with acid"],0,"For the same mass, smaller pieces expose a greater total surface area to the other reactant, increasing collision opportunities.","Same mass, more exposed surface."],
+["concentration","Which explanation best supports the prediction that increasing reactant concentration can increase reaction rate?",["More reactant particles per unit volume can produce more frequent collisions","Concentrated solutions always have higher temperatures","Concentration changes every substance into a catalyst","More concentrated solutions contain larger atoms"],0,"Higher concentration usually means more reacting particles in a given volume, increasing collision frequency.","Use collision theory."],
+["temperature","Why does increasing temperature often increase reaction rate?",["Particles have greater average kinetic energy, so collisions are more frequent and a larger fraction can overcome activation energy","Particles become larger and therefore collide","The activation energy becomes zero","All collisions become successful"],0,"Higher temperature raises particle kinetic energy and increases the proportion of collisions with sufficient energy to react.","Think kinetic energy and activation energy."],
+["controls","A student tests temperature and reaction rate. Which design best isolates temperature?",["Use the same reactant amounts and concentrations at several controlled temperatures","Change temperature and concentration together","Use a different reaction at each temperature","Take one reading with no temperature measurement"],0,"Changing only temperature while controlling other relevant factors makes its effect easier to interpret.","Change one explanatory variable at a time for this test."],
+["reasoned prediction","Which is the strongest reasoned prediction?",["If acid concentration increases, the reaction should be faster because more reacting particles per unit volume increases collision frequency","The concentrated acid will probably win","More acid always makes everything happen twice as fast","The reaction will change because concentration is important"],0,"The first statement gives a testable expected pattern and links it to a scientific mechanism.","Prediction + mechanism."],
+["evidence boundaries","A reaction-rate experiment supports a hypothesis at 20–50 °C. Which conclusion is justified?",["The evidence supports the relationship over the tested conditions, but behaviour outside that range requires further testing","The hypothesis is true at every possible temperature","Temperature is the only factor controlling rate","The relationship has become a scientific law"],0,"Evidence should not be generalised beyond the conditions tested without further support.","Match the claim to the evidence range."],
+["inquiry cycle","Which sequence best represents productive scientific inquiry?",["Observation → investigable question → hypothesis/model → prediction → test → evaluate and refine","Prediction → conclusion → question → delete anomalies","Opinion → law → experiment → proof","Question → answer → collect only supporting data"],0,"Scientific inquiry links observations, questions, explanations and predictions to evidence, with revision when needed.","Inquiry is iterative, not a one-way proof process."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions = skillrRawQuestions.map((q,i)=>({id:`ac9s10i01-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10I01",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
