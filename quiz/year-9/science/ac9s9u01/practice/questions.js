@@ -1,236 +1,48 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9u01-p-001",
-    "curriculumCode": "AC9S9U01",
-    "bank": "practice",
-    "skill": "use the body s observable responses to external stimuli such to make the role of stimulus visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the body s observable responses to external stimuli such to make the role of stimulus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the body s observable responses to external stimuli such to make the role of stimulus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "exploring the body’s observable responses to external stimuli (such as changes in light or temperature, or presence of danger or pathogens) or internal stimuli (such as dehydration or hunger)",
-      "Negative feedback makes a response worse",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "exploring the body’s observable responses to external stimuli (such as changes in light or temperature, or presence of danger or pathogens) or internal stimuli (such as dehydration or hunger)\nHint: Use the body’s observable responses to external stimuli (such to make the role of stimulus visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring the body’s observable responses to external stimuli (such as changes in light or temperature, or presence of danger or pathogens) or internal stimuli (such as dehydration or hunger)",
-      "hint": "Use the body’s observable responses to external stimuli (such to make the role of stimulus visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u01-p-002",
-    "curriculumCode": "AC9S9U01",
-    "bank": "practice",
-    "skill": "use models flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use models flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use models flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The nervous and endocrine systems act independently",
-      "using models, flow diagrams and virtual simulations to explore and represent the relationships between body systems that are necessary to coordinate a response to stimuli",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using models, flow diagrams and virtual simulations to explore and represent the relationships between body systems that are necessary to coordinate a response to stimuli\nHint: Use models, flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using models, flow diagrams and virtual simulations to explore and represent the relationships between body systems that are necessary to coordinate a response to stimuli",
-      "hint": "Use models, flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u01-p-003",
-    "curriculumCode": "AC9S9U01",
-    "bank": "practice",
-    "skill": "use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Negative feedback makes a response worse",
-      "The method can be chosen without checking the values or conditions",
-      "comparing the role and function of electrical impulses and hormones in the body’s responses to external stimuli",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "comparing the role and function of electrical impulses and hormones in the body’s responses to external stimuli\nHint: Use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "comparing the role and function of electrical impulses and hormones in the body’s responses to external stimuli",
-      "hint": "Use the role and function of electrical impulses and hormones to make the role of effector visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u01-p-004",
-    "curriculumCode": "AC9S9U01",
-    "bank": "practice",
-    "skill": "use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The nervous and endocrine systems act independently",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "modelling how the process of regulation is monitored and adjusted by connections between the receptor, command centre and effector"
-    ],
-    "correct": 3,
-    "explanation": "modelling how the process of regulation is monitored and adjusted by connections between the receptor, command centre and effector\nHint: Use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "modelling how the process of regulation is monitored and adjusted by connections between the receptor, command centre and effector",
-      "hint": "Use how the process of regulation is monitored and adjusted to make the role of response visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u01-p-005",
-    "curriculumCode": "AC9S9U01",
-    "bank": "practice",
-    "skill": "use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "examining the effects of a disorder in a feedback system, such as diabetes-induced blindness or hypothermia",
-      "Negative feedback makes a response worse",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "examining the effects of a disorder in a feedback system, such as diabetes-induced blindness or hypothermia\nHint: Use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the effects of a disorder in a feedback system, such as diabetes-induced blindness or hypothermia",
-      "hint": "Use the effects of a disorder in a feedback system to make the role of negative feedback visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u01-p-006",
-    "curriculumCode": "AC9S9U01",
-    "bank": "practice",
-    "skill": "use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The nervous and endocrine systems act independently",
-      "considering how understanding of feedback mechanisms has enabled the development of pharmaceuticals and other products to address issues or enhance performance, such as insulin or electrolytes in sports drinks",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "considering how understanding of feedback mechanisms has enabled the development of pharmaceuticals and other products to address issues or enhance performance, such as insulin or electrolytes in sports drinks\nHint: Use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering how understanding of feedback mechanisms has enabled the development of pharmaceuticals and other products to address issues or enhance performance, such as insulin or electrolytes in sports drinks",
-      "hint": "Use how understanding of feedback mechanisms has enabled the development to make the role of stimulus visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u01-p-007",
-    "curriculumCode": "AC9S9U01",
-    "bank": "practice",
-    "skill": "use the body s observable responses to external stimuli such to make the role of stimulus visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the body s observable responses to external stimuli such to make the role of stimulus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the body s observable responses to external stimuli such to make the role of stimulus visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Negative feedback makes a response worse",
-      "The method can be chosen without checking the values or conditions",
-      "exploring the body’s observable responses to external stimuli (such as changes in light or temperature, or presence of danger or pathogens) or internal stimuli (such as dehydration or hunger)",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "exploring the body’s observable responses to external stimuli (such as changes in light or temperature, or presence of danger or pathogens) or internal stimuli (such as dehydration or hunger)\nHint: Use the body’s observable responses to external stimuli (such to make the role of stimulus visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring the body’s observable responses to external stimuli (such as changes in light or temperature, or presence of danger or pathogens) or internal stimuli (such as dehydration or hunger)",
-      "hint": "Use the body’s observable responses to external stimuli (such to make the role of stimulus visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9u01-p-008",
-    "curriculumCode": "AC9S9U01",
-    "bank": "practice",
-    "skill": "use models flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use models flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use models flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The nervous and endocrine systems act independently",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using models, flow diagrams and virtual simulations to explore and represent the relationships between body systems that are necessary to coordinate a response to stimuli"
-    ],
-    "correct": 3,
-    "explanation": "using models, flow diagrams and virtual simulations to explore and represent the relationships between body systems that are necessary to coordinate a response to stimuli\nHint: Use models, flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using models, flow diagrams and virtual simulations to explore and represent the relationships between body systems that are necessary to coordinate a response to stimuli",
-      "hint": "Use models, flow diagrams and virtual simulations to explore to make the role of receptor and coordinator visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw = [
+[1,"Section A — Responses to stimuli","Pupil reflex","When you step outside into bright sunlight, your pupils:",["Constrict","Dilate","Stop responding","Increase tear production"],0,"Bright light triggers the pupil reflex, causing pupils to constrict so less light enters the eye.","Bright light makes pupils smaller."],
+[2,"Section A — Responses to stimuli","Thermoregulation response","When body temperature rises, the first observable response is usually:",["Sweating","Shivering","Increased hunger","Slower breathing"],0,"Sweating helps cool the body by evaporation from the skin surface.","Rising temperature usually triggers sweating."],
+[3,"Section A — Responses to stimuli","Blood glucose response","When blood glucose drops too low, the body responds by releasing:",["Glucagon","Insulin","Adrenaline","Thyroxine"],0,"Glucagon signals the liver to release glucose into the blood when blood glucose is low.","Low glucose triggers glucagon."],
+[4,"Section A — Responses to stimuli","Dehydration response","When dehydrated, the brain triggers:",["Thirst","Sweating","Increased urine output","Lower heart rate"],0,"Thirst encourages water intake and the kidneys conserve water.","Dehydration triggers thirst."],
+[5,"Section A — Responses to stimuli","First line of defence","When a pathogen enters the body, the first line of defence is:",["Skin and mucous membranes","Antibodies","Hormones","Neurons"],0,"Skin and mucous membranes form physical and chemical barriers before specific immune responses occur.","The first defence is barrier protection."],
+[6,"Section A — Responses to stimuli","Fear response","When frightened, the body's immediate response is controlled by:",["Sympathetic nervous system","Parasympathetic nervous system","Endocrine system only","Digestive system"],0,"The sympathetic nervous system rapidly activates fight-or-flight responses.","Fight-or-flight is sympathetic."],
+[7,"Section A — Responses to stimuli","Blood pressure regulation","When blood pressure rises, the heart rate usually:",["Decreases","Increases","Stops","Remains constant"],0,"Negative feedback through baroreceptors can slow heart rate to help reduce blood pressure.","High pressure usually triggers a slowing response."],
+[8,"Section A — Responses to stimuli","Cold response","When cold, the body responds by:",["Shivering","Sweating","Vasodilation","Lowering metabolism"],0,"Shivering produces heat through rapid muscle contractions.","Cold triggers shivering."],
+[9,"Section A — Responses to stimuli","Hunger signal","When hungry, the stomach releases:",["Ghrelin","Insulin","Adrenaline","Melatonin"],0,"Ghrelin is a hormone involved in signalling hunger.","Ghrelin is linked with hunger."],
+[10,"Section A — Responses to stimuli","Danger response","When exposed to danger, pupils:",["Dilate","Constrict","Stop responding","Close completely"],0,"During fight-or-flight, pupils dilate to let in more light and improve visual awareness.","Danger commonly causes pupil dilation."],
+[11,"Section B — Coordination models","Receptor role","In a stimulus-response model, the receptor's role is to:",["Detect the change","Carry out the response","Make hormones","Store information"],0,"A receptor detects a stimulus or change in the internal or external environment.","Receptors detect changes."],
+[12,"Section B — Coordination models","Effector role","In a flow diagram, the effector is usually:",["A muscle or gland","A receptor","A neuron","A hormone"],0,"Effectors carry out responses; common effectors are muscles and glands.","Effectors act."],
+[13,"Section B — Coordination models","Nervous coordination","The nervous system coordinates responses by sending:",["Electrical impulses","Hormones","Blood cells","Enzymes"],0,"Neurons transmit electrical impulses rapidly around the body.","Nervous signals are electrical impulses."],
+[14,"Section B — Coordination models","Endocrine coordination","The endocrine system coordinates responses by releasing:",["Hormones","Electrical signals","Heat","Neurotransmitters"],0,"Endocrine glands release hormones into the bloodstream to affect target organs.","Endocrine signals are hormones."],
+[15,"Section B — Coordination models","Thermoregulation control centre","In a model of thermoregulation, the control centre is the:",["Hypothalamus","Heart","Liver","Pancreas"],0,"The hypothalamus helps monitor and regulate body temperature.","The hypothalamus controls temperature regulation."],
+[16,"Section B — Coordination models","Reflex arc pathway","In a reflex arc, the fastest pathway is:",["Sensory neuron → spinal cord → motor neuron","Sensory neuron → brain → motor neuron","Brain → spinal cord → effector","Endocrine system → effector"],0,"Many reflexes are processed through the spinal cord before the brain is fully involved.","Reflex arcs use the spinal cord for speed."],
+[17,"Section B — Coordination models","Kidneys as effectors","In a coordinated response to dehydration, the kidneys act as the:",["Effector","Receptor","Control centre","Stimulus"],0,"The kidneys carry out the response by adjusting how much water is retained or lost in urine.","Kidneys carry out the water-saving response."],
+[18,"Section B — Coordination models","Insulin target tissues","In a model of blood glucose regulation, insulin acts on:",["Liver and muscles","Brain","Kidneys","Skin"],0,"Insulin promotes glucose uptake and storage, especially in liver and muscle tissues.","Insulin acts strongly on liver and muscle."],
+[19,"Section B — Coordination models","Adrenaline source","In a flow diagram of fear response, adrenaline is released by the:",["Adrenal glands","Pancreas","Thyroid","Pituitary"],0,"The adrenal glands release adrenaline during acute stress responses.","Adrenaline comes from adrenal glands."],
+[20,"Section B — Coordination models","Immune effectors","In a coordinated immune response, white blood cells act as:",["Effectors","Receptors","Control centres","Stimuli"],0,"White blood cells carry out immune actions such as engulfing pathogens or producing antibodies.","White blood cells perform immune responses."],
+[21,"Section C — Electrical impulses vs hormones","Electrical impulse pathway","Electrical impulses travel through:",["Neurons","Blood","Skin","Muscles only"],0,"Electrical impulses are transmitted along neurons in the nervous system.","Impulses travel along neurons."],
+[22,"Section C — Electrical impulses vs hormones","Hormone pathway","Hormones travel through:",["Bloodstream","Neurons","Lymph nodes","Skin"],0,"Hormones are chemical messengers carried in the bloodstream to target organs.","Hormones travel in blood."],
+[23,"Section C — Electrical impulses vs hormones","Nervous response speed","Electrical impulses are:",["Fast and short-lasting","Slow and long-lasting","Slow and short-lasting","Fast and long-lasting"],0,"Nervous responses are usually rapid and short-lived compared with hormonal responses.","Nerve signals are fast and brief."],
+[24,"Section C — Electrical impulses vs hormones","Hormone response speed","Hormonal responses are usually:",["Slow and long-lasting","Fast and short-lasting","Fast and long-lasting","Slow and short-lasting"],0,"Hormones often act more slowly than nerve impulses but can have longer-lasting effects.","Hormones are slower and longer-lasting."]
 ];
+window.skillrPracticeQuestions = raw.map(([sourceNumber, section, skill, question, answers, correct, summary, hint]) => ({
+  id: `ac9s9u01-p-${String(sourceNumber).padStart(3,"0")}`,
+  curriculumCode: "AC9S9U01",
+  bank: "practice",
+  section,
+  sourceNumber,
+  skill,
+  printable: true,
+  type: "single",
+  question,
+  audioPrompt: question,
+  visual: "",
+  visualHtml: "",
+  visualMeta: { type: "none", alt_text: "" },
+  answers,
+  correct,
+  explanation: `${summary}\nHint: ${hint}`,
+  structuredExplanation: { summary, hint },
+  qualitySchema: "production-v1"
+}));
 window.quizQuestions = window.skillrPracticeQuestions;
