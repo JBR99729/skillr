@@ -30,209 +30,6 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m7n05-t-002",
-    "curriculumCode": "AC9M7N05",
-    "bank": "test",
-    "skill": "rounding accuracy and reasonableness",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the best estimate of 0.49 × 198?",
-    "audioPrompt": "Which is the best estimate of 0.49 × 198?",
-    "visual": "Number line with a value located between two rounding boundaries.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
-      "alt_text": "Number line with a value located between two rounding boundaries."
-    },
-    "answers": [
-      "1000",
-      "100",
-      "10"
-    ],
-    "correct": 1,
-    "explanation": "Round to compatible numbers before multiplying; the result should be about 100.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
-    "structuredExplanation": {
-      "summary": "Round to compatible numbers before multiplying; the result should be about 100.",
-      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n05-t-003",
-    "curriculumCode": "AC9M7N05",
-    "bank": "test",
-    "skill": "rounding accuracy and reasonableness",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the best estimate of 82.1 × 3.9?",
-    "audioPrompt": "Which is the best estimate of 82.1 × 3.9?",
-    "visual": "Number line with a value located between two rounding boundaries.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
-      "alt_text": "Number line with a value located between two rounding boundaries."
-    },
-    "answers": [
-      "32",
-      "3200",
-      "320"
-    ],
-    "correct": 2,
-    "explanation": "Round to compatible numbers before multiplying; the result should be about 320.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
-    "structuredExplanation": {
-      "summary": "Round to compatible numbers before multiplying; the result should be about 320.",
-      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n05-t-004",
-    "curriculumCode": "AC9M7N05",
-    "bank": "test",
-    "skill": "rounding accuracy and reasonableness",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the best estimate of 149.8 × 0.21?",
-    "audioPrompt": "Which is the best estimate of 149.8 × 0.21?",
-    "visual": "Number line with a value located between two rounding boundaries.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
-      "alt_text": "Number line with a value located between two rounding boundaries."
-    },
-    "answers": [
-      "30",
-      "300",
-      "3"
-    ],
-    "correct": 0,
-    "explanation": "Round to compatible numbers before multiplying; the result should be about 30.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
-    "structuredExplanation": {
-      "summary": "Round to compatible numbers before multiplying; the result should be about 30.",
-      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n05-t-005",
-    "curriculumCode": "AC9M7N05",
-    "bank": "test",
-    "skill": "rounding accuracy and reasonableness",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the best estimate of 29.7 × 31.2?",
-    "audioPrompt": "Which is the best estimate of 29.7 × 31.2?",
-    "visual": "Number line with a value located between two rounding boundaries.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
-      "alt_text": "Number line with a value located between two rounding boundaries."
-    },
-    "answers": [
-      "9000",
-      "900",
-      "90"
-    ],
-    "correct": 1,
-    "explanation": "Round to compatible numbers before multiplying; the result should be about 900.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
-    "structuredExplanation": {
-      "summary": "Round to compatible numbers before multiplying; the result should be about 900.",
-      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n05-t-006",
-    "curriculumCode": "AC9M7N05",
-    "bank": "test",
-    "skill": "rounding accuracy and reasonableness",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the best estimate of 504 × 1.98?",
-    "audioPrompt": "Which is the best estimate of 504 × 1.98?",
-    "visual": "Number line with a value located between two rounding boundaries.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
-      "alt_text": "Number line with a value located between two rounding boundaries."
-    },
-    "answers": [
-      "100",
-      "10000",
-      "1000"
-    ],
-    "correct": 2,
-    "explanation": "Round to compatible numbers before multiplying; the result should be about 1000.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
-    "structuredExplanation": {
-      "summary": "Round to compatible numbers before multiplying; the result should be about 1000.",
-      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n05-t-007",
-    "curriculumCode": "AC9M7N05",
-    "bank": "test",
-    "skill": "rounding accuracy and reasonableness",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the best estimate of 7.91 × 12.2?",
-    "audioPrompt": "Which is the best estimate of 7.91 × 12.2?",
-    "visual": "Number line with a value located between two rounding boundaries.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
-      "alt_text": "Number line with a value located between two rounding boundaries."
-    },
-    "answers": [
-      "96",
-      "960",
-      "9.6"
-    ],
-    "correct": 0,
-    "explanation": "Round to compatible numbers before multiplying; the result should be about 96.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
-    "structuredExplanation": {
-      "summary": "Round to compatible numbers before multiplying; the result should be about 96.",
-      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n05-t-008",
-    "curriculumCode": "AC9M7N05",
-    "bank": "test",
-    "skill": "rounding accuracy and reasonableness",
-    "printable": true,
-    "type": "single",
-    "question": "Which is the best estimate of 0.098 × 503?",
-    "audioPrompt": "Which is the best estimate of 0.098 × 503?",
-    "visual": "Number line with a value located between two rounding boundaries.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
-      "alt_text": "Number line with a value located between two rounding boundaries."
-    },
-    "answers": [
-      "500",
-      "50",
-      "5"
-    ],
-    "correct": 1,
-    "explanation": "Round to compatible numbers before multiplying; the result should be about 50.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
-    "structuredExplanation": {
-      "summary": "Round to compatible numbers before multiplying; the result should be about 50.",
-      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
     "id": "ac9m7n05-t-009",
     "curriculumCode": "AC9M7N05",
     "bank": "test",
@@ -257,6 +54,35 @@ window.skillrTestQuestions = [
     "explanation": "Half of the rounding unit is 0.05; subtract and add it, with the upper endpoint excluded.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
     "structuredExplanation": {
       "summary": "Half of the rounding unit is 0.05; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n05-t-002",
+    "curriculumCode": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding accuracy and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the best estimate of 0.49 × 198?",
+    "audioPrompt": "Which is the best estimate of 0.49 × 198?",
+    "visual": "Number line with a value located between two rounding boundaries.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      "1000",
+      "100",
+      "10"
+    ],
+    "correct": 1,
+    "explanation": "Round to compatible numbers before multiplying; the result should be about 100.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
+    "structuredExplanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 100.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
     },
     "qualitySchema": "production-v1"
@@ -291,6 +117,35 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9m7n05-t-003",
+    "curriculumCode": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding accuracy and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the best estimate of 82.1 × 3.9?",
+    "audioPrompt": "Which is the best estimate of 82.1 × 3.9?",
+    "visual": "Number line with a value located between two rounding boundaries.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      "32",
+      "3200",
+      "320"
+    ],
+    "correct": 2,
+    "explanation": "Round to compatible numbers before multiplying; the result should be about 320.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
+    "structuredExplanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 320.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9m7n05-t-011",
     "curriculumCode": "AC9M7N05",
     "bank": "test",
@@ -315,6 +170,35 @@ window.skillrTestQuestions = [
     "explanation": "Half of the rounding unit is 0.5; subtract and add it, with the upper endpoint excluded.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
     "structuredExplanation": {
       "summary": "Half of the rounding unit is 0.5; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n05-t-004",
+    "curriculumCode": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding accuracy and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the best estimate of 149.8 × 0.21?",
+    "audioPrompt": "Which is the best estimate of 149.8 × 0.21?",
+    "visual": "Number line with a value located between two rounding boundaries.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      "30",
+      "300",
+      "3"
+    ],
+    "correct": 0,
+    "explanation": "Round to compatible numbers before multiplying; the result should be about 30.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
+    "structuredExplanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 30.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
     },
     "qualitySchema": "production-v1"
@@ -349,6 +233,35 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9m7n05-t-005",
+    "curriculumCode": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding accuracy and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the best estimate of 29.7 × 31.2?",
+    "audioPrompt": "Which is the best estimate of 29.7 × 31.2?",
+    "visual": "Number line with a value located between two rounding boundaries.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      "9000",
+      "900",
+      "90"
+    ],
+    "correct": 1,
+    "explanation": "Round to compatible numbers before multiplying; the result should be about 900.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
+    "structuredExplanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 900.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9m7n05-t-013",
     "curriculumCode": "AC9M7N05",
     "bank": "test",
@@ -373,6 +286,35 @@ window.skillrTestQuestions = [
     "explanation": "Half of the rounding unit is 0.005; subtract and add it, with the upper endpoint excluded.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
     "structuredExplanation": {
       "summary": "Half of the rounding unit is 0.005; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n05-t-006",
+    "curriculumCode": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding accuracy and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the best estimate of 504 × 1.98?",
+    "audioPrompt": "Which is the best estimate of 504 × 1.98?",
+    "visual": "Number line with a value located between two rounding boundaries.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      "100",
+      "10000",
+      "1000"
+    ],
+    "correct": 2,
+    "explanation": "Round to compatible numbers before multiplying; the result should be about 1000.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
+    "structuredExplanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 1000.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
     },
     "qualitySchema": "production-v1"
@@ -407,6 +349,35 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9m7n05-t-007",
+    "curriculumCode": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding accuracy and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the best estimate of 7.91 × 12.2?",
+    "audioPrompt": "Which is the best estimate of 7.91 × 12.2?",
+    "visual": "Number line with a value located between two rounding boundaries.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      "96",
+      "960",
+      "9.6"
+    ],
+    "correct": 0,
+    "explanation": "Round to compatible numbers before multiplying; the result should be about 96.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
+    "structuredExplanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 96.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9m7n05-t-015",
     "curriculumCode": "AC9M7N05",
     "bank": "test",
@@ -431,6 +402,35 @@ window.skillrTestQuestions = [
     "explanation": "Half of the rounding unit is 0.05; subtract and add it, with the upper endpoint excluded.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
     "structuredExplanation": {
       "summary": "Half of the rounding unit is 0.05; subtract and add it, with the upper endpoint excluded.",
+      "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n05-t-008",
+    "curriculumCode": "AC9M7N05",
+    "bank": "test",
+    "skill": "rounding accuracy and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the best estimate of 0.098 × 503?",
+    "audioPrompt": "Which is the best estimate of 0.098 × 503?",
+    "visual": "Number line with a value located between two rounding boundaries.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line with a value located between two rounding boundaries.\"><use href=\"/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n05",
+      "alt_text": "Number line with a value located between two rounding boundaries."
+    },
+    "answers": [
+      "500",
+      "50",
+      "5"
+    ],
+    "correct": 1,
+    "explanation": "Round to compatible numbers before multiplying; the result should be about 50.\nHint: Identify the rounding place, inspect the next digit and check whether the result suits the context.",
+    "structuredExplanation": {
+      "summary": "Round to compatible numbers before multiplying; the result should be about 50.",
       "hint": "Identify the rounding place, inspect the next digit and check whether the result suits the context."
     },
     "qualitySchema": "production-v1"

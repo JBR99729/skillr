@@ -30,209 +30,6 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9m7n01-t-002",
-    "curriculumCode": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect squares and square roots",
-    "printable": true,
-    "type": "single",
-    "question": "A square solar panel has side length 22 centimetres. What area does it cover?",
-    "audioPrompt": "A square solar panel has side length 22 centimetres. What area does it cover?",
-    "visual": "Square solar panel with side length 22 centimetres and an equal-row grid.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Square solar panel with side length 22 centimetres and an equal-row grid.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square solar panel with side length 22 centimetres and an equal-row grid."
-    },
-    "answers": [
-      "88 cm²",
-      "484 cm²",
-      "462 cm²"
-    ],
-    "correct": 1,
-    "explanation": "The area is 22² = 484 square centimetres.\nHint: Multiply the side length by itself.",
-    "structuredExplanation": {
-      "summary": "The area is 22² = 484 square centimetres.",
-      "hint": "Multiply the side length by itself."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n01-t-003",
-    "curriculumCode": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect squares and square roots",
-    "printable": true,
-    "type": "single",
-    "question": "A square solar panel has side length 25 centimetres. What area does it cover?",
-    "audioPrompt": "A square solar panel has side length 25 centimetres. What area does it cover?",
-    "visual": "Square solar panel with side length 25 centimetres and an equal-row grid.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Square solar panel with side length 25 centimetres and an equal-row grid.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square solar panel with side length 25 centimetres and an equal-row grid."
-    },
-    "answers": [
-      "100 cm²",
-      "600 cm²",
-      "625 cm²"
-    ],
-    "correct": 2,
-    "explanation": "The area is 25² = 625 square centimetres.\nHint: Multiply the side length by itself.",
-    "structuredExplanation": {
-      "summary": "The area is 25² = 625 square centimetres.",
-      "hint": "Multiply the side length by itself."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n01-t-004",
-    "curriculumCode": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect squares and square roots",
-    "printable": true,
-    "type": "single",
-    "question": "A square stage has area 169 m². What is its side length?",
-    "audioPrompt": "A square stage has area 169 m². What is its side length?",
-    "visual": "Square stage labelled 169 square metres with equal unknown sides.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Square stage labelled 169 square metres with equal unknown sides.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square stage labelled 169 square metres with equal unknown sides."
-    },
-    "answers": [
-      "13 m",
-      "42.25 m",
-      "26 m"
-    ],
-    "correct": 0,
-    "explanation": "√169 = 13 because 13 × 13 = 169.\nHint: Look for the whole number whose square equals the area.",
-    "structuredExplanation": {
-      "summary": "√169 = 13 because 13 × 13 = 169.",
-      "hint": "Look for the whole number whose square equals the area."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n01-t-005",
-    "curriculumCode": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect squares and square roots",
-    "printable": true,
-    "type": "single",
-    "question": "A square stage has area 256 m². What is its side length?",
-    "audioPrompt": "A square stage has area 256 m². What is its side length?",
-    "visual": "Square stage labelled 256 square metres with equal unknown sides.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Square stage labelled 256 square metres with equal unknown sides.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square stage labelled 256 square metres with equal unknown sides."
-    },
-    "answers": [
-      "64 m",
-      "16 m",
-      "32 m"
-    ],
-    "correct": 1,
-    "explanation": "√256 = 16 because 16 × 16 = 256.\nHint: Look for the whole number whose square equals the area.",
-    "structuredExplanation": {
-      "summary": "√256 = 16 because 16 × 16 = 256.",
-      "hint": "Look for the whole number whose square equals the area."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n01-t-006",
-    "curriculumCode": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect squares and square roots",
-    "printable": true,
-    "type": "single",
-    "question": "A square stage has area 324 m². What is its side length?",
-    "audioPrompt": "A square stage has area 324 m². What is its side length?",
-    "visual": "Square stage labelled 324 square metres with equal unknown sides.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Square stage labelled 324 square metres with equal unknown sides.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square stage labelled 324 square metres with equal unknown sides."
-    },
-    "answers": [
-      "81 m",
-      "36 m",
-      "18 m"
-    ],
-    "correct": 2,
-    "explanation": "√324 = 18 because 18 × 18 = 324.\nHint: Look for the whole number whose square equals the area.",
-    "structuredExplanation": {
-      "summary": "√324 = 18 because 18 × 18 = 324.",
-      "hint": "Look for the whole number whose square equals the area."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n01-t-007",
-    "curriculumCode": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect squares and square roots",
-    "printable": true,
-    "type": "single",
-    "question": "A calculator display shows √50. Between which consecutive integers must the value lie?",
-    "audioPrompt": "A calculator display shows √50. Between which consecutive integers must the value lie?",
-    "visual": "Number line bracketing 50 between 49 and 64.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line bracketing 50 between 49 and 64.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
-      "alt_text": "Number line bracketing 50 between 49 and 64."
-    },
-    "answers": [
-      "7 and 8",
-      "6 and 7",
-      "8 and 9"
-    ],
-    "correct": 0,
-    "explanation": "49 < 50 < 64, so 7 < √50 < 8.\nHint: Find the neighbouring perfect squares around the radicand.",
-    "structuredExplanation": {
-      "summary": "49 < 50 < 64, so 7 < √50 < 8.",
-      "hint": "Find the neighbouring perfect squares around the radicand."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7n01-t-008",
-    "curriculumCode": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect squares and square roots",
-    "printable": true,
-    "type": "single",
-    "question": "A calculator display shows √95. Between which consecutive integers must the value lie?",
-    "audioPrompt": "A calculator display shows √95. Between which consecutive integers must the value lie?",
-    "visual": "Number line bracketing 95 between 81 and 100.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line bracketing 95 between 81 and 100.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
-      "alt_text": "Number line bracketing 95 between 81 and 100."
-    },
-    "answers": [
-      "8 and 9",
-      "9 and 10",
-      "10 and 11"
-    ],
-    "correct": 1,
-    "explanation": "81 < 95 < 100, so 9 < √95 < 10.\nHint: Find the neighbouring perfect squares around the radicand.",
-    "structuredExplanation": {
-      "summary": "81 < 95 < 100, so 9 < √95 < 10.",
-      "hint": "Find the neighbouring perfect squares around the radicand."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
     "id": "ac9m7n01-t-009",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
@@ -258,6 +55,35 @@ window.skillrTestQuestions = [
     "structuredExplanation": {
       "summary": "144 < 150 < 169, so 12 < √150 < 13.",
       "hint": "Find the neighbouring perfect squares around the radicand."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n01-t-002",
+    "curriculumCode": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect squares and square roots",
+    "printable": true,
+    "type": "single",
+    "question": "A square solar panel has side length 22 centimetres. What area does it cover?",
+    "audioPrompt": "A square solar panel has side length 22 centimetres. What area does it cover?",
+    "visual": "Square solar panel with side length 22 centimetres and an equal-row grid.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Square solar panel with side length 22 centimetres and an equal-row grid.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square solar panel with side length 22 centimetres and an equal-row grid."
+    },
+    "answers": [
+      "88 cm²",
+      "484 cm²",
+      "462 cm²"
+    ],
+    "correct": 1,
+    "explanation": "The area is 22² = 484 square centimetres.\nHint: Multiply the side length by itself.",
+    "structuredExplanation": {
+      "summary": "The area is 22² = 484 square centimetres.",
+      "hint": "Multiply the side length by itself."
     },
     "qualitySchema": "production-v1"
   },
@@ -291,6 +117,35 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9m7n01-t-003",
+    "curriculumCode": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect squares and square roots",
+    "printable": true,
+    "type": "single",
+    "question": "A square solar panel has side length 25 centimetres. What area does it cover?",
+    "audioPrompt": "A square solar panel has side length 25 centimetres. What area does it cover?",
+    "visual": "Square solar panel with side length 25 centimetres and an equal-row grid.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Square solar panel with side length 25 centimetres and an equal-row grid.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square solar panel with side length 25 centimetres and an equal-row grid."
+    },
+    "answers": [
+      "100 cm²",
+      "600 cm²",
+      "625 cm²"
+    ],
+    "correct": 2,
+    "explanation": "The area is 25² = 625 square centimetres.\nHint: Multiply the side length by itself.",
+    "structuredExplanation": {
+      "summary": "The area is 25² = 625 square centimetres.",
+      "hint": "Multiply the side length by itself."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9m7n01-t-011",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
@@ -316,6 +171,35 @@ window.skillrTestQuestions = [
     "structuredExplanation": {
       "summary": "Because 31 = 30 + 1, (30 + 1)² = 30² + 2 × 30 × 1 + 1².",
       "hint": "Include both rectangular cross-parts in the square-of-a-sum model."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n01-t-004",
+    "curriculumCode": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect squares and square roots",
+    "printable": true,
+    "type": "single",
+    "question": "A square stage has area 169 m². What is its side length?",
+    "audioPrompt": "A square stage has area 169 m². What is its side length?",
+    "visual": "Square stage labelled 169 square metres with equal unknown sides.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Square stage labelled 169 square metres with equal unknown sides.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square stage labelled 169 square metres with equal unknown sides."
+    },
+    "answers": [
+      "13 m",
+      "42.25 m",
+      "26 m"
+    ],
+    "correct": 0,
+    "explanation": "√169 = 13 because 13 × 13 = 169.\nHint: Look for the whole number whose square equals the area.",
+    "structuredExplanation": {
+      "summary": "√169 = 13 because 13 × 13 = 169.",
+      "hint": "Look for the whole number whose square equals the area."
     },
     "qualitySchema": "production-v1"
   },
@@ -349,6 +233,35 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9m7n01-t-005",
+    "curriculumCode": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect squares and square roots",
+    "printable": true,
+    "type": "single",
+    "question": "A square stage has area 256 m². What is its side length?",
+    "audioPrompt": "A square stage has area 256 m². What is its side length?",
+    "visual": "Square stage labelled 256 square metres with equal unknown sides.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Square stage labelled 256 square metres with equal unknown sides.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square stage labelled 256 square metres with equal unknown sides."
+    },
+    "answers": [
+      "64 m",
+      "16 m",
+      "32 m"
+    ],
+    "correct": 1,
+    "explanation": "√256 = 16 because 16 × 16 = 256.\nHint: Look for the whole number whose square equals the area.",
+    "structuredExplanation": {
+      "summary": "√256 = 16 because 16 × 16 = 256.",
+      "hint": "Look for the whole number whose square equals the area."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9m7n01-t-013",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
@@ -374,6 +287,35 @@ window.skillrTestQuestions = [
     "structuredExplanation": {
       "summary": "169 = 13² and 196 = 14², while 180 lies between them.",
       "hint": "Check neighbouring squares rather than relying on the final digit alone."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n01-t-006",
+    "curriculumCode": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect squares and square roots",
+    "printable": true,
+    "type": "single",
+    "question": "A square stage has area 324 m². What is its side length?",
+    "audioPrompt": "A square stage has area 324 m². What is its side length?",
+    "visual": "Square stage labelled 324 square metres with equal unknown sides.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Square stage labelled 324 square metres with equal unknown sides.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square stage labelled 324 square metres with equal unknown sides."
+    },
+    "answers": [
+      "81 m",
+      "36 m",
+      "18 m"
+    ],
+    "correct": 2,
+    "explanation": "√324 = 18 because 18 × 18 = 324.\nHint: Look for the whole number whose square equals the area.",
+    "structuredExplanation": {
+      "summary": "√324 = 18 because 18 × 18 = 324.",
+      "hint": "Look for the whole number whose square equals the area."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,6 +349,35 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9m7n01-t-007",
+    "curriculumCode": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect squares and square roots",
+    "printable": true,
+    "type": "single",
+    "question": "A calculator display shows √50. Between which consecutive integers must the value lie?",
+    "audioPrompt": "A calculator display shows √50. Between which consecutive integers must the value lie?",
+    "visual": "Number line bracketing 50 between 49 and 64.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line bracketing 50 between 49 and 64.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
+      "alt_text": "Number line bracketing 50 between 49 and 64."
+    },
+    "answers": [
+      "7 and 8",
+      "6 and 7",
+      "8 and 9"
+    ],
+    "correct": 0,
+    "explanation": "49 < 50 < 64, so 7 < √50 < 8.\nHint: Find the neighbouring perfect squares around the radicand.",
+    "structuredExplanation": {
+      "summary": "49 < 50 < 64, so 7 < √50 < 8.",
+      "hint": "Find the neighbouring perfect squares around the radicand."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9m7n01-t-015",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
@@ -432,6 +403,35 @@ window.skillrTestQuestions = [
     "structuredExplanation": {
       "summary": "15 ends in 5 but is not the square of a whole number; 25 = 5² and 225 = 15².",
       "hint": "A counterexample must satisfy the condition but make the conclusion false."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m7n01-t-008",
+    "curriculumCode": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect squares and square roots",
+    "printable": true,
+    "type": "single",
+    "question": "A calculator display shows √95. Between which consecutive integers must the value lie?",
+    "audioPrompt": "A calculator display shows √95. Between which consecutive integers must the value lie?",
+    "visual": "Number line bracketing 95 between 81 and 100.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Number line bracketing 95 between 81 and 100.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
+      "alt_text": "Number line bracketing 95 between 81 and 100."
+    },
+    "answers": [
+      "8 and 9",
+      "9 and 10",
+      "10 and 11"
+    ],
+    "correct": 1,
+    "explanation": "81 < 95 < 100, so 9 < √95 < 10.\nHint: Find the neighbouring perfect squares around the radicand.",
+    "structuredExplanation": {
+      "summary": "81 < 95 < 100, so 9 < √95 < 10.",
+      "hint": "Find the neighbouring perfect squares around the radicand."
     },
     "qualitySchema": "production-v1"
   },

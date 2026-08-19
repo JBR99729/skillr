@@ -37,265 +37,6 @@
     "sequence_priority": 1
   },
   {
-    "id": "AC9M7N09-P-002",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $250 and is discounted by 20%. What is the sale price?",
-    "audio_prompt": "An item costs $250 and is discounted by 20%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$50.00",
-        "is_correct": false
-      },
-      {
-        "text": "$200.00",
-        "is_correct": true
-      },
-      {
-        "text": "$300.00",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Multiply by 0.8; the sale price is $200.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N09-P-003",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $360 and is discounted by 25%. What is the sale price?",
-    "audio_prompt": "An item costs $360 and is discounted by 25%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$450.00",
-        "is_correct": false
-      },
-      {
-        "text": "$90.00",
-        "is_correct": false
-      },
-      {
-        "text": "$270.00",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiply by 0.75; the sale price is $270.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N09-P-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $120 and is discounted by 12.5%. What is the sale price?",
-    "audio_prompt": "An item costs $120 and is discounted by 12.5%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$105.00",
-        "is_correct": true
-      },
-      {
-        "text": "$15.00",
-        "is_correct": false
-      },
-      {
-        "text": "$135.00",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Multiply by 0.875; the sale price is $105.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N09-P-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $800 and is discounted by 35%. What is the sale price?",
-    "audio_prompt": "An item costs $800 and is discounted by 35%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$280.00",
-        "is_correct": false
-      },
-      {
-        "text": "$520.00",
-        "is_correct": true
-      },
-      {
-        "text": "$1080.00",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Multiply by 0.65; the sale price is $520.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N09-P-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $75 and is discounted by 10%. What is the sale price?",
-    "audio_prompt": "An item costs $75 and is discounted by 10%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$82.50",
-        "is_correct": false
-      },
-      {
-        "text": "$7.50",
-        "is_correct": false
-      },
-      {
-        "text": "$67.50",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiply by 0.9; the sale price is $67.50.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N09-P-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $640 and is discounted by 5%. What is the sale price?",
-    "audio_prompt": "An item costs $640 and is discounted by 5%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$608.00",
-        "is_correct": true
-      },
-      {
-        "text": "$32.00",
-        "is_correct": false
-      },
-      {
-        "text": "$672.00",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Multiply by 0.95; the sale price is $608.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N09-P-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $1500 and is discounted by 18%. What is the sale price?",
-    "audio_prompt": "An item costs $1500 and is discounted by 18%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$270.00",
-        "is_correct": false
-      },
-      {
-        "text": "$1230.00",
-        "is_correct": true
-      },
-      {
-        "text": "$1770.00",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Multiply by 0.8200000000000001; the sale price is $1230.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
     "id": "AC9M7N09-P-009",
     "subject": "math",
     "year_level": "Year 7",
@@ -326,258 +67,6 @@
     "correct_index": 2,
     "explanation": {
       "summary": "Multiply by 0.7; the sale price is $66.50.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $420 and is discounted by 22%. What is the sale price?",
-    "audio_prompt": "An item costs $420 and is discounted by 22%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$327.60",
-        "is_correct": true
-      },
-      {
-        "text": "$92.40",
-        "is_correct": false
-      },
-      {
-        "text": "$512.40",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Multiply by 0.78; the sale price is $327.60.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $56 and is discounted by 25%. What is the sale price?",
-    "audio_prompt": "An item costs $56 and is discounted by 25%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$14.00",
-        "is_correct": false
-      },
-      {
-        "text": "$42.00",
-        "is_correct": true
-      },
-      {
-        "text": "$70.00",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Multiply by 0.75; the sale price is $42.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $999 and is discounted by 10%. What is the sale price?",
-    "audio_prompt": "An item costs $999 and is discounted by 10%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$1098.90",
-        "is_correct": false
-      },
-      {
-        "text": "$99.90",
-        "is_correct": false
-      },
-      {
-        "text": "$899.10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiply by 0.9; the sale price is $899.10.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $100 and earns $140. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $100 and earns $140. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "40% profit",
-        "is_correct": true
-      },
-      {
-        "text": "40%",
-        "is_correct": false
-      },
-      {
-        "text": "40% loss",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Change is $40 relative to cost $100: 40% profit.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $240 and earns $300. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $240 and earns $300. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "60%",
-        "is_correct": false
-      },
-      {
-        "text": "25% profit",
-        "is_correct": true
-      },
-      {
-        "text": "25% loss",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Change is $60 relative to cost $240: 25% profit.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $80 and earns $68. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $80 and earns $68. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "15% profit",
-        "is_correct": false
-      },
-      {
-        "text": "12%",
-        "is_correct": false
-      },
-      {
-        "text": "15% loss",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Change is $12 relative to cost $80: 15% loss.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $500 and earns $575. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $500 and earns $575. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "15% profit",
-        "is_correct": true
-      },
-      {
-        "text": "75%",
-        "is_correct": false
-      },
-      {
-        "text": "15% loss",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Change is $75 relative to cost $500: 15% profit.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
     "difficulty": 3,
@@ -620,6 +109,79 @@
     "sequence_priority": 2
   },
   {
+    "id": "AC9M7N09-P-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "An item costs $250 and is discounted by 20%. What is the sale price?",
+    "audio_prompt": "An item costs $250 and is discounted by 20%. What is the sale price?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "$50.00",
+        "is_correct": false
+      },
+      {
+        "text": "$200.00",
+        "is_correct": true
+      },
+      {
+        "text": "$300.00",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply by 0.8; the sale price is $200.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9M7N09-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "An item costs $420 and is discounted by 22%. What is the sale price?",
+    "audio_prompt": "An item costs $420 and is discounted by 22%. What is the sale price?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "$327.60",
+        "is_correct": true
+      },
+      {
+        "text": "$92.40",
+        "is_correct": false
+      },
+      {
+        "text": "$512.40",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiply by 0.78; the sale price is $327.60.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
     "id": "AC9M7N09-P-018",
     "subject": "math",
     "year_level": "Year 7",
@@ -650,6 +212,79 @@
     "correct_index": 2,
     "explanation": {
       "summary": "Change is $30 relative to cost $150: 20% profit.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N09-P-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "An item costs $360 and is discounted by 25%. What is the sale price?",
+    "audio_prompt": "An item costs $360 and is discounted by 25%. What is the sale price?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "$450.00",
+        "is_correct": false
+      },
+      {
+        "text": "$90.00",
+        "is_correct": false
+      },
+      {
+        "text": "$270.00",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiply by 0.75; the sale price is $270.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9M7N09-P-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "An item costs $56 and is discounted by 25%. What is the sale price?",
+    "audio_prompt": "An item costs $56 and is discounted by 25%. What is the sale price?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "$14.00",
+        "is_correct": false
+      },
+      {
+        "text": "$42.00",
+        "is_correct": true
+      },
+      {
+        "text": "$70.00",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply by 0.75; the sale price is $42.00.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
     "difficulty": 3,
@@ -692,6 +327,79 @@
     "sequence_priority": 2
   },
   {
+    "id": "AC9M7N09-P-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "An item costs $120 and is discounted by 12.5%. What is the sale price?",
+    "audio_prompt": "An item costs $120 and is discounted by 12.5%. What is the sale price?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "$105.00",
+        "is_correct": true
+      },
+      {
+        "text": "$15.00",
+        "is_correct": false
+      },
+      {
+        "text": "$135.00",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiply by 0.875; the sale price is $105.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9M7N09-P-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "An item costs $999 and is discounted by 10%. What is the sale price?",
+    "audio_prompt": "An item costs $999 and is discounted by 10%. What is the sale price?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "$1098.90",
+        "is_correct": false
+      },
+      {
+        "text": "$99.90",
+        "is_correct": false
+      },
+      {
+        "text": "$899.10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiply by 0.9; the sale price is $899.10.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
     "id": "AC9M7N09-P-020",
     "subject": "math",
     "year_level": "Year 7",
@@ -722,6 +430,79 @@
     "correct_index": 1,
     "explanation": {
       "summary": "Change is $60 relative to cost $400: 15% loss.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N09-P-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "An item costs $800 and is discounted by 35%. What is the sale price?",
+    "audio_prompt": "An item costs $800 and is discounted by 35%. What is the sale price?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "$280.00",
+        "is_correct": false
+      },
+      {
+        "text": "$520.00",
+        "is_correct": true
+      },
+      {
+        "text": "$1080.00",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply by 0.65; the sale price is $520.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9M7N09-P-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "A fundraiser costs $100 and earns $140. What is the percentage profit or loss?",
+    "audio_prompt": "A fundraiser costs $100 and earns $140. What is the percentage profit or loss?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "40% profit",
+        "is_correct": true
+      },
+      {
+        "text": "40%",
+        "is_correct": false
+      },
+      {
+        "text": "40% loss",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Change is $40 relative to cost $100: 40% profit.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
     "difficulty": 3,
@@ -764,6 +545,79 @@
     "sequence_priority": 2
   },
   {
+    "id": "AC9M7N09-P-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "An item costs $75 and is discounted by 10%. What is the sale price?",
+    "audio_prompt": "An item costs $75 and is discounted by 10%. What is the sale price?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "$82.50",
+        "is_correct": false
+      },
+      {
+        "text": "$7.50",
+        "is_correct": false
+      },
+      {
+        "text": "$67.50",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Multiply by 0.9; the sale price is $67.50.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9M7N09-P-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "A fundraiser costs $240 and earns $300. What is the percentage profit or loss?",
+    "audio_prompt": "A fundraiser costs $240 and earns $300. What is the percentage profit or loss?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "60%",
+        "is_correct": false
+      },
+      {
+        "text": "25% profit",
+        "is_correct": true
+      },
+      {
+        "text": "25% loss",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Change is $60 relative to cost $240: 25% profit.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
     "id": "AC9M7N09-P-022",
     "subject": "math",
     "year_level": "Year 7",
@@ -800,6 +654,79 @@
     "sequence_priority": 2
   },
   {
+    "id": "AC9M7N09-P-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "An item costs $640 and is discounted by 5%. What is the sale price?",
+    "audio_prompt": "An item costs $640 and is discounted by 5%. What is the sale price?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "$608.00",
+        "is_correct": true
+      },
+      {
+        "text": "$32.00",
+        "is_correct": false
+      },
+      {
+        "text": "$672.00",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiply by 0.95; the sale price is $608.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9M7N09-P-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "A fundraiser costs $80 and earns $68. What is the percentage profit or loss?",
+    "audio_prompt": "A fundraiser costs $80 and earns $68. What is the percentage profit or loss?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "15% profit",
+        "is_correct": false
+      },
+      {
+        "text": "12%",
+        "is_correct": false
+      },
+      {
+        "text": "15% loss",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Change is $12 relative to cost $80: 15% loss.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
     "id": "AC9M7N09-P-023",
     "subject": "math",
     "year_level": "Year 7",
@@ -830,6 +757,79 @@
     "correct_index": 1,
     "explanation": {
       "summary": "Calculate every discount and fee using its correct base; Plan A by $7.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N09-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "An item costs $1500 and is discounted by 18%. What is the sale price?",
+    "audio_prompt": "An item costs $1500 and is discounted by 18%. What is the sale price?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "$270.00",
+        "is_correct": false
+      },
+      {
+        "text": "$1230.00",
+        "is_correct": true
+      },
+      {
+        "text": "$1770.00",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiply by 0.8200000000000001; the sale price is $1230.00.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9M7N09-P-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "A fundraiser costs $500 and earns $575. What is the percentage profit or loss?",
+    "audio_prompt": "A fundraiser costs $500 and earns $575. What is the percentage profit or loss?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "15% profit",
+        "is_correct": true
+      },
+      {
+        "text": "75%",
+        "is_correct": false
+      },
+      {
+        "text": "15% loss",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Change is $75 relative to cost $500: 15% profit.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
     "difficulty": 3,
@@ -906,244 +906,6 @@
     }
   },
   {
-    "id": "AC9M7N09-T-002",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 25% off $200; B: $60 off plus $15 fee. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 25% off $200; B: $60 off plus $15 fee. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "Plan B by $5",
-        "is_correct": true
-      },
-      {
-        "text": "The other plan by $20",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan B by $5.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-003",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 30% off $150; B: $35 off. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 30% off $150; B: $35 off. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "The other plan by $20",
-        "is_correct": false
-      },
-      {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "Plan A by $10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $10.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 5% off $1000; B: $40 off. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 5% off $1000; B: $40 off. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "Plan A by $10",
-        "is_correct": true
-      },
-      {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "The other plan by $20",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $10.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 12% off $500; B: $75 off plus $20 fee. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 12% off $500; B: $75 off plus $20 fee. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "Plan A by $5",
-        "is_correct": true
-      },
-      {
-        "text": "The other plan by $20",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $5.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 40% off $120; B: $55 off plus $10 fee. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 40% off $120; B: $55 off plus $10 fee. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "The other plan by $20",
-        "is_correct": false
-      },
-      {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "Plan A by $3",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $3.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A model starts at -3 and changes by 8. What is the final value?",
-    "audio_prompt": "A model starts at -3 and changes by 8. What is the final value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "5",
-        "is_correct": true
-      },
-      {
-        "text": "-11",
-        "is_correct": false
-      },
-      {
-        "text": "-5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use a signed quantity: -3 + (8) = 5.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A model starts at 4 and changes by -7. What is the final value?",
-    "audio_prompt": "A model starts at 4 and changes by -7. What is the final value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "-3",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use a signed quantity: 4 + (-7) = -3.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
     "id": "AC9M7N09-T-009",
     "subject": "math",
     "year_level": "Year 7",
@@ -1174,6 +936,40 @@
     "correct_index": 2,
     "explanation": {
       "summary": "Use a signed quantity: -12 + (19) = 7.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    }
+  },
+  {
+    "id": "AC9M7N09-T-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "Compare these offers: A: 25% off $200; B: $60 off plus $15 fee. Which is cheaper?",
+    "audio_prompt": "Compare these offers: A: 25% off $200; B: $60 off plus $15 fee. Which is cheaper?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "They cost the same",
+        "is_correct": false
+      },
+      {
+        "text": "Plan B by $5",
+        "is_correct": true
+      },
+      {
+        "text": "The other plan by $20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Calculate every discount and fee using its correct base; Plan B by $5.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     }
   },
@@ -1212,6 +1008,40 @@
     }
   },
   {
+    "id": "AC9M7N09-T-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "Compare these offers: A: 30% off $150; B: $35 off. Which is cheaper?",
+    "audio_prompt": "Compare these offers: A: 30% off $150; B: $35 off. Which is cheaper?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "The other plan by $20",
+        "is_correct": false
+      },
+      {
+        "text": "They cost the same",
+        "is_correct": false
+      },
+      {
+        "text": "Plan A by $10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Calculate every discount and fee using its correct base; Plan A by $10.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    }
+  },
+  {
     "id": "AC9M7N09-T-011",
     "subject": "math",
     "year_level": "Year 7",
@@ -1242,6 +1072,40 @@
     "correct_index": 1,
     "explanation": {
       "summary": "Use a signed quantity: -20 + (11) = -9.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    }
+  },
+  {
+    "id": "AC9M7N09-T-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "Compare these offers: A: 5% off $1000; B: $40 off. Which is cheaper?",
+    "audio_prompt": "Compare these offers: A: 5% off $1000; B: $40 off. Which is cheaper?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "Plan A by $10",
+        "is_correct": true
+      },
+      {
+        "text": "They cost the same",
+        "is_correct": false
+      },
+      {
+        "text": "The other plan by $20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Calculate every discount and fee using its correct base; Plan A by $10.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     }
   },
@@ -1280,6 +1144,40 @@
     }
   },
   {
+    "id": "AC9M7N09-T-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "Compare these offers: A: 12% off $500; B: $75 off plus $20 fee. Which is cheaper?",
+    "audio_prompt": "Compare these offers: A: 12% off $500; B: $75 off plus $20 fee. Which is cheaper?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "They cost the same",
+        "is_correct": false
+      },
+      {
+        "text": "Plan A by $5",
+        "is_correct": true
+      },
+      {
+        "text": "The other plan by $20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Calculate every discount and fee using its correct base; Plan A by $5.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    }
+  },
+  {
     "id": "AC9M7N09-T-013",
     "subject": "math",
     "year_level": "Year 7",
@@ -1310,6 +1208,40 @@
     "correct_index": 0,
     "explanation": {
       "summary": "Use a signed quantity: 0 + (-9) = -9.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    }
+  },
+  {
+    "id": "AC9M7N09-T-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "Compare these offers: A: 40% off $120; B: $55 off plus $10 fee. Which is cheaper?",
+    "audio_prompt": "Compare these offers: A: 40% off $120; B: $55 off plus $10 fee. Which is cheaper?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "The other plan by $20",
+        "is_correct": false
+      },
+      {
+        "text": "They cost the same",
+        "is_correct": false
+      },
+      {
+        "text": "Plan A by $3",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Calculate every discount and fee using its correct base; Plan A by $3.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     }
   },
@@ -1348,6 +1280,40 @@
     }
   },
   {
+    "id": "AC9M7N09-T-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "A model starts at -3 and changes by 8. What is the final value?",
+    "audio_prompt": "A model starts at -3 and changes by 8. What is the final value?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "-11",
+        "is_correct": false
+      },
+      {
+        "text": "-5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use a signed quantity: -3 + (8) = 5.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    }
+  },
+  {
     "id": "AC9M7N09-T-015",
     "subject": "math",
     "year_level": "Year 7",
@@ -1378,6 +1344,40 @@
     "correct_index": 2,
     "explanation": {
       "summary": "Convert 55% to 0.55 and multiply by 200: 110.",
+      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+    }
+  },
+  {
+    "id": "AC9M7N09-T-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "modelling_rational_and_percentage_problems",
+    "question": "A model starts at 4 and changes by -7. What is the final value?",
+    "audio_prompt": "A model starts at 4 and changes by -7. What is the final value?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
+      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    },
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "-3",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use a signed quantity: 4 + (-7) = -3.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     }
   },

@@ -37,6 +37,79 @@
     "sequence_priority": 1
   },
   {
+    "id": "AC9M7N01-P-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "Between which two consecutive whole numbers does √30 lie?",
+    "audio_prompt": "Between which two consecutive whole numbers does √30 lie?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
+      "alt_text": "Number line locating 30 between the consecutive perfect squares 25 and 36."
+    },
+    "answers": [
+      {
+        "text": "4 and 5",
+        "is_correct": false
+      },
+      {
+        "text": "6 and 7",
+        "is_correct": false
+      },
+      {
+        "text": "5 and 6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "5² = 25 and 6² = 36, so √30 lies between 5 and 6.",
+      "hint": "Bracket 30 between two neighbouring perfect squares."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N01-P-017",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "Which perfect square is closest to 27²?",
+    "audio_prompt": "Which perfect square is closest to 27²?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
+      "alt_text": "Three neighbouring square arrays representing 26 squared, 27 squared and 28 squared."
+    },
+    "answers": [
+      {
+        "text": "676",
+        "is_correct": false
+      },
+      {
+        "text": "729",
+        "is_correct": true
+      },
+      {
+        "text": "784",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "27² = 729, exactly the square of 27.",
+      "hint": "Square the stated number before comparing nearby square numbers."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
     "id": "AC9M7N01-P-002",
     "subject": "math",
     "year_level": "Year 7",
@@ -68,6 +141,79 @@
     "explanation": {
       "summary": "A square's area is side × side, so 8 × 8 = 64 square metres.",
       "hint": "Use the same side length twice, not side plus side."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9M7N01-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "Between which two consecutive whole numbers does √70 lie?",
+    "audio_prompt": "Between which two consecutive whole numbers does √70 lie?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
+      "alt_text": "Number line locating 70 between the consecutive perfect squares 64 and 81."
+    },
+    "answers": [
+      {
+        "text": "8 and 9",
+        "is_correct": true
+      },
+      {
+        "text": "7 and 8",
+        "is_correct": false
+      },
+      {
+        "text": "9 and 10",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "8² = 64 and 9² = 81, so √70 lies between 8 and 9.",
+      "hint": "Bracket 70 between two neighbouring perfect squares."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N01-P-018",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "Which perfect square is closest to 42²?",
+    "audio_prompt": "Which perfect square is closest to 42²?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
+      "alt_text": "Three neighbouring square arrays representing 41 squared, 42 squared and 43 squared."
+    },
+    "answers": [
+      {
+        "text": "1681",
+        "is_correct": false
+      },
+      {
+        "text": "1849",
+        "is_correct": false
+      },
+      {
+        "text": "1764",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "42² = 1764, exactly the square of 42.",
+      "hint": "Square the stated number before comparing nearby square numbers."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -111,258 +257,6 @@
     "sequence_priority": 1
   },
   {
-    "id": "AC9M7N01-P-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A square courtyard has side length 14 metres. What is its area?",
-    "audio_prompt": "A square courtyard has side length 14 metres. What is its area?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square with each side labelled 14 metres, arranged as 14 rows of 14 equal square units."
-    },
-    "answers": [
-      {
-        "text": "196 m²",
-        "is_correct": true
-      },
-      {
-        "text": "28 m²",
-        "is_correct": false
-      },
-      {
-        "text": "210 m²",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A square's area is side × side, so 14 × 14 = 196 square metres.",
-      "hint": "Use the same side length twice, not side plus side."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A square display covers 49 square centimetres. How long is each side?",
-    "audio_prompt": "A square display covers 49 square centimetres. How long is each side?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square area model labelled 49 square centimetres with an unknown equal side length."
-    },
-    "answers": [
-      {
-        "text": "12 cm",
-        "is_correct": false
-      },
-      {
-        "text": "7 cm",
-        "is_correct": true
-      },
-      {
-        "text": "14 cm",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The side length is √49 = 7 centimetres because 7² = 49.",
-      "hint": "Find the positive number that multiplies by itself to make the area."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A square display covers 81 square centimetres. How long is each side?",
-    "audio_prompt": "A square display covers 81 square centimetres. How long is each side?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square area model labelled 81 square centimetres with an unknown equal side length."
-    },
-    "answers": [
-      {
-        "text": "20 cm",
-        "is_correct": false
-      },
-      {
-        "text": "18 cm",
-        "is_correct": false
-      },
-      {
-        "text": "9 cm",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The side length is √81 = 9 centimetres because 9² = 81.",
-      "hint": "Find the positive number that multiplies by itself to make the area."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A square display covers 144 square centimetres. How long is each side?",
-    "audio_prompt": "A square display covers 144 square centimetres. How long is each side?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square area model labelled 144 square centimetres with an unknown equal side length."
-    },
-    "answers": [
-      {
-        "text": "12 cm",
-        "is_correct": true
-      },
-      {
-        "text": "36 cm",
-        "is_correct": false
-      },
-      {
-        "text": "24 cm",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The side length is √144 = 12 centimetres because 12² = 144.",
-      "hint": "Find the positive number that multiplies by itself to make the area."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A square display covers 225 square centimetres. How long is each side?",
-    "audio_prompt": "A square display covers 225 square centimetres. How long is each side?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square area model labelled 225 square centimetres with an unknown equal side length."
-    },
-    "answers": [
-      {
-        "text": "56 cm",
-        "is_correct": false
-      },
-      {
-        "text": "15 cm",
-        "is_correct": true
-      },
-      {
-        "text": "30 cm",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The side length is √225 = 15 centimetres because 15² = 225.",
-      "hint": "Find the positive number that multiplies by itself to make the area."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-009",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "Between which two consecutive whole numbers does √30 lie?",
-    "audio_prompt": "Between which two consecutive whole numbers does √30 lie?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
-      "alt_text": "Number line locating 30 between the consecutive perfect squares 25 and 36."
-    },
-    "answers": [
-      {
-        "text": "4 and 5",
-        "is_correct": false
-      },
-      {
-        "text": "6 and 7",
-        "is_correct": false
-      },
-      {
-        "text": "5 and 6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "5² = 25 and 6² = 36, so √30 lies between 5 and 6.",
-      "hint": "Bracket 30 between two neighbouring perfect squares."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "Between which two consecutive whole numbers does √70 lie?",
-    "audio_prompt": "Between which two consecutive whole numbers does √70 lie?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
-      "alt_text": "Number line locating 70 between the consecutive perfect squares 64 and 81."
-    },
-    "answers": [
-      {
-        "text": "8 and 9",
-        "is_correct": true
-      },
-      {
-        "text": "7 and 8",
-        "is_correct": false
-      },
-      {
-        "text": "9 and 10",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "8² = 64 and 9² = 81, so √70 lies between 8 and 9.",
-      "hint": "Bracket 70 between two neighbouring perfect squares."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
     "id": "AC9M7N01-P-011",
     "subject": "math",
     "year_level": "Year 7",
@@ -394,6 +288,78 @@
     "explanation": {
       "summary": "10² = 100 and 11² = 121, so √110 lies between 10 and 11.",
       "hint": "Bracket 110 between two neighbouring perfect squares."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N01-P-019",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "Mia says √100 = 50 because 100 ÷ 2 = 50. Which response best corrects her?",
+    "audio_prompt": "Mia says √100 = 50 because 100 ÷ 2 = 50. Which response best corrects her?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square area model of 100 unit squares arranged in 10 equal rows and 10 equal columns."
+    },
+    "answers": [
+      {
+        "text": "√100 is 10 because 10 × 10 = 100.",
+        "is_correct": true
+      },
+      {
+        "text": "√100 is 20 because 20 + 20 + 20 + 20 + 20 = 100.",
+        "is_correct": false
+      },
+      {
+        "text": "√100 is 5 because 5 × 20 = 100.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A square root is a number that multiplies by itself to make the original number.",
+      "hint": "Test each proposed root by squaring it."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N01-P-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A square courtyard has side length 14 metres. What is its area?",
+    "audio_prompt": "A square courtyard has side length 14 metres. What is its area?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square with each side labelled 14 metres, arranged as 14 rows of 14 equal square units."
+    },
+    "answers": [
+      {
+        "text": "196 m²",
+        "is_correct": true
+      },
+      {
+        "text": "28 m²",
+        "is_correct": false
+      },
+      {
+        "text": "210 m²",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A square's area is side × side, so 14 × 14 = 196 square metres.",
+      "hint": "Use the same side length twice, not side plus side."
     },
     "difficulty": 3,
     "sequence_priority": 2
@@ -435,261 +401,6 @@
     "sequence_priority": 2
   },
   {
-    "id": "AC9M7N01-P-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "The pattern is 1, 4, 9, 16, 25. What is the next term?",
-    "audio_prompt": "The pattern is 1, 4, 9, 16, 25. What is the next term?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
-      "alt_text": "Dot-array sequence of consecutive square numbers matching 1, 4, 9, 16, 25."
-    },
-    "answers": [
-      {
-        "text": "36",
-        "is_correct": true
-      },
-      {
-        "text": "35",
-        "is_correct": false
-      },
-      {
-        "text": "42",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "These are consecutive perfect squares, so the next term is 36.",
-      "hint": "Write each term as n² and increase n by one."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "The pattern is 16, 25, 36, 49, 64. What is the next term?",
-    "audio_prompt": "The pattern is 16, 25, 36, 49, 64. What is the next term?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
-      "alt_text": "Dot-array sequence of consecutive square numbers matching 16, 25, 36, 49, 64."
-    },
-    "answers": [
-      {
-        "text": "80",
-        "is_correct": false
-      },
-      {
-        "text": "81",
-        "is_correct": true
-      },
-      {
-        "text": "90",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "These are consecutive perfect squares, so the next term is 81.",
-      "hint": "Write each term as n² and increase n by one."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "The pattern is 49, 64, 81, 100, 121. What is the next term?",
-    "audio_prompt": "The pattern is 49, 64, 81, 100, 121. What is the next term?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
-      "alt_text": "Dot-array sequence of consecutive square numbers matching 49, 64, 81, 100, 121."
-    },
-    "answers": [
-      {
-        "text": "143",
-        "is_correct": false
-      },
-      {
-        "text": "156",
-        "is_correct": false
-      },
-      {
-        "text": "144",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "These are consecutive perfect squares, so the next term is 144.",
-      "hint": "Write each term as n² and increase n by one."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "Which perfect square is closest to 18²?",
-    "audio_prompt": "Which perfect square is closest to 18²?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
-      "alt_text": "Three neighbouring square arrays representing 17 squared, 18 squared and 19 squared."
-    },
-    "answers": [
-      {
-        "text": "324",
-        "is_correct": true
-      },
-      {
-        "text": "289",
-        "is_correct": false
-      },
-      {
-        "text": "361",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "18² = 324, exactly the square of 18.",
-      "hint": "Square the stated number before comparing nearby square numbers."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N01-P-017",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "Which perfect square is closest to 27²?",
-    "audio_prompt": "Which perfect square is closest to 27²?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
-      "alt_text": "Three neighbouring square arrays representing 26 squared, 27 squared and 28 squared."
-    },
-    "answers": [
-      {
-        "text": "676",
-        "is_correct": false
-      },
-      {
-        "text": "729",
-        "is_correct": true
-      },
-      {
-        "text": "784",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "27² = 729, exactly the square of 27.",
-      "hint": "Square the stated number before comparing nearby square numbers."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N01-P-018",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "Which perfect square is closest to 42²?",
-    "audio_prompt": "Which perfect square is closest to 42²?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
-      "alt_text": "Three neighbouring square arrays representing 41 squared, 42 squared and 43 squared."
-    },
-    "answers": [
-      {
-        "text": "1681",
-        "is_correct": false
-      },
-      {
-        "text": "1849",
-        "is_correct": false
-      },
-      {
-        "text": "1764",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "42² = 1764, exactly the square of 42.",
-      "hint": "Square the stated number before comparing nearby square numbers."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N01-P-019",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "Mia says √100 = 50 because 100 ÷ 2 = 50. Which response best corrects her?",
-    "audio_prompt": "Mia says √100 = 50 because 100 ÷ 2 = 50. Which response best corrects her?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square area model of 100 unit squares arranged in 10 equal rows and 10 equal columns."
-    },
-    "answers": [
-      {
-        "text": "√100 is 10 because 10 × 10 = 100.",
-        "is_correct": true
-      },
-      {
-        "text": "√100 is 20 because 20 + 20 + 20 + 20 + 20 = 100.",
-        "is_correct": false
-      },
-      {
-        "text": "√100 is 5 because 5 × 20 = 100.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A square root is a number that multiplies by itself to make the original number.",
-      "hint": "Test each proposed root by squaring it."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
     "id": "AC9M7N01-P-020",
     "subject": "math",
     "year_level": "Year 7",
@@ -721,6 +432,78 @@
     "explanation": {
       "summary": "Squaring 13 means 13 × 13, not 13 × 2.",
       "hint": "Translate the exponent 2 into repeated multiplication."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N01-P-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A square display covers 49 square centimetres. How long is each side?",
+    "audio_prompt": "A square display covers 49 square centimetres. How long is each side?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square area model labelled 49 square centimetres with an unknown equal side length."
+    },
+    "answers": [
+      {
+        "text": "12 cm",
+        "is_correct": false
+      },
+      {
+        "text": "7 cm",
+        "is_correct": true
+      },
+      {
+        "text": "14 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The side length is √49 = 7 centimetres because 7² = 49.",
+      "hint": "Find the positive number that multiplies by itself to make the area."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N01-P-013",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "The pattern is 1, 4, 9, 16, 25. What is the next term?",
+    "audio_prompt": "The pattern is 1, 4, 9, 16, 25. What is the next term?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
+      "alt_text": "Dot-array sequence of consecutive square numbers matching 1, 4, 9, 16, 25."
+    },
+    "answers": [
+      {
+        "text": "36",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "42",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "These are consecutive perfect squares, so the next term is 36.",
+      "hint": "Write each term as n² and increase n by one."
     },
     "difficulty": 3,
     "sequence_priority": 2
@@ -763,6 +546,78 @@
     "sequence_priority": 1
   },
   {
+    "id": "AC9M7N01-P-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A square display covers 81 square centimetres. How long is each side?",
+    "audio_prompt": "A square display covers 81 square centimetres. How long is each side?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square area model labelled 81 square centimetres with an unknown equal side length."
+    },
+    "answers": [
+      {
+        "text": "20 cm",
+        "is_correct": false
+      },
+      {
+        "text": "18 cm",
+        "is_correct": false
+      },
+      {
+        "text": "9 cm",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The side length is √81 = 9 centimetres because 9² = 81.",
+      "hint": "Find the positive number that multiplies by itself to make the area."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N01-P-014",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "The pattern is 16, 25, 36, 49, 64. What is the next term?",
+    "audio_prompt": "The pattern is 16, 25, 36, 49, 64. What is the next term?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
+      "alt_text": "Dot-array sequence of consecutive square numbers matching 16, 25, 36, 49, 64."
+    },
+    "answers": [
+      {
+        "text": "80",
+        "is_correct": false
+      },
+      {
+        "text": "81",
+        "is_correct": true
+      },
+      {
+        "text": "90",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "These are consecutive perfect squares, so the next term is 81.",
+      "hint": "Write each term as n² and increase n by one."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
     "id": "AC9M7N01-P-022",
     "subject": "math",
     "year_level": "Year 7",
@@ -800,6 +655,78 @@
     "sequence_priority": 1
   },
   {
+    "id": "AC9M7N01-P-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A square display covers 144 square centimetres. How long is each side?",
+    "audio_prompt": "A square display covers 144 square centimetres. How long is each side?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square area model labelled 144 square centimetres with an unknown equal side length."
+    },
+    "answers": [
+      {
+        "text": "12 cm",
+        "is_correct": true
+      },
+      {
+        "text": "36 cm",
+        "is_correct": false
+      },
+      {
+        "text": "24 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The side length is √144 = 12 centimetres because 12² = 144.",
+      "hint": "Find the positive number that multiplies by itself to make the area."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N01-P-015",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "The pattern is 49, 64, 81, 100, 121. What is the next term?",
+    "audio_prompt": "The pattern is 49, 64, 81, 100, 121. What is the next term?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
+      "alt_text": "Dot-array sequence of consecutive square numbers matching 49, 64, 81, 100, 121."
+    },
+    "answers": [
+      {
+        "text": "143",
+        "is_correct": false
+      },
+      {
+        "text": "156",
+        "is_correct": false
+      },
+      {
+        "text": "144",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "These are consecutive perfect squares, so the next term is 144.",
+      "hint": "Write each term as n² and increase n by one."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
     "id": "AC9M7N01-P-023",
     "subject": "math",
     "year_level": "Year 7",
@@ -834,6 +761,79 @@
     },
     "difficulty": 3,
     "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N01-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A square display covers 225 square centimetres. How long is each side?",
+    "audio_prompt": "A square display covers 225 square centimetres. How long is each side?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square area model labelled 225 square centimetres with an unknown equal side length."
+    },
+    "answers": [
+      {
+        "text": "56 cm",
+        "is_correct": false
+      },
+      {
+        "text": "15 cm",
+        "is_correct": true
+      },
+      {
+        "text": "30 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The side length is √225 = 15 centimetres because 15² = 225.",
+      "hint": "Find the positive number that multiplies by itself to make the area."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M7N01-P-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "Which perfect square is closest to 18²?",
+    "audio_prompt": "Which perfect square is closest to 18²?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
+      "alt_text": "Three neighbouring square arrays representing 17 squared, 18 squared and 19 squared."
+    },
+    "answers": [
+      {
+        "text": "324",
+        "is_correct": true
+      },
+      {
+        "text": "289",
+        "is_correct": false
+      },
+      {
+        "text": "361",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "18² = 324, exactly the square of 18.",
+      "hint": "Square the stated number before comparing nearby square numbers."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N01-P-024",
@@ -906,244 +906,6 @@
     }
   },
   {
-    "id": "AC9M7N01-T-002",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A square solar panel has side length 22 centimetres. What area does it cover?",
-    "audio_prompt": "A square solar panel has side length 22 centimetres. What area does it cover?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square solar panel with side length 22 centimetres and an equal-row grid."
-    },
-    "answers": [
-      {
-        "text": "88 cm²",
-        "is_correct": false
-      },
-      {
-        "text": "484 cm²",
-        "is_correct": true
-      },
-      {
-        "text": "462 cm²",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The area is 22² = 484 square centimetres.",
-      "hint": "Multiply the side length by itself."
-    }
-  },
-  {
-    "id": "AC9M7N01-T-003",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A square solar panel has side length 25 centimetres. What area does it cover?",
-    "audio_prompt": "A square solar panel has side length 25 centimetres. What area does it cover?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square solar panel with side length 25 centimetres and an equal-row grid."
-    },
-    "answers": [
-      {
-        "text": "100 cm²",
-        "is_correct": false
-      },
-      {
-        "text": "600 cm²",
-        "is_correct": false
-      },
-      {
-        "text": "625 cm²",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The area is 25² = 625 square centimetres.",
-      "hint": "Multiply the side length by itself."
-    }
-  },
-  {
-    "id": "AC9M7N01-T-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A square stage has area 169 m². What is its side length?",
-    "audio_prompt": "A square stage has area 169 m². What is its side length?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square stage labelled 169 square metres with equal unknown sides."
-    },
-    "answers": [
-      {
-        "text": "13 m",
-        "is_correct": true
-      },
-      {
-        "text": "42.25 m",
-        "is_correct": false
-      },
-      {
-        "text": "26 m",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "√169 = 13 because 13 × 13 = 169.",
-      "hint": "Look for the whole number whose square equals the area."
-    }
-  },
-  {
-    "id": "AC9M7N01-T-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A square stage has area 256 m². What is its side length?",
-    "audio_prompt": "A square stage has area 256 m². What is its side length?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square stage labelled 256 square metres with equal unknown sides."
-    },
-    "answers": [
-      {
-        "text": "64 m",
-        "is_correct": false
-      },
-      {
-        "text": "16 m",
-        "is_correct": true
-      },
-      {
-        "text": "32 m",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "√256 = 16 because 16 × 16 = 256.",
-      "hint": "Look for the whole number whose square equals the area."
-    }
-  },
-  {
-    "id": "AC9M7N01-T-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A square stage has area 324 m². What is its side length?",
-    "audio_prompt": "A square stage has area 324 m². What is its side length?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "Square stage labelled 324 square metres with equal unknown sides."
-    },
-    "answers": [
-      {
-        "text": "81 m",
-        "is_correct": false
-      },
-      {
-        "text": "36 m",
-        "is_correct": false
-      },
-      {
-        "text": "18 m",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "√324 = 18 because 18 × 18 = 324.",
-      "hint": "Look for the whole number whose square equals the area."
-    }
-  },
-  {
-    "id": "AC9M7N01-T-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A calculator display shows √50. Between which consecutive integers must the value lie?",
-    "audio_prompt": "A calculator display shows √50. Between which consecutive integers must the value lie?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
-      "alt_text": "Number line bracketing 50 between 49 and 64."
-    },
-    "answers": [
-      {
-        "text": "7 and 8",
-        "is_correct": true
-      },
-      {
-        "text": "6 and 7",
-        "is_correct": false
-      },
-      {
-        "text": "8 and 9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "49 < 50 < 64, so 7 < √50 < 8.",
-      "hint": "Find the neighbouring perfect squares around the radicand."
-    }
-  },
-  {
-    "id": "AC9M7N01-T-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "test",
-    "skill": "perfect_squares_and_square_roots",
-    "question": "A calculator display shows √95. Between which consecutive integers must the value lie?",
-    "audio_prompt": "A calculator display shows √95. Between which consecutive integers must the value lie?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
-      "alt_text": "Number line bracketing 95 between 81 and 100."
-    },
-    "answers": [
-      {
-        "text": "8 and 9",
-        "is_correct": false
-      },
-      {
-        "text": "9 and 10",
-        "is_correct": true
-      },
-      {
-        "text": "10 and 11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "81 < 95 < 100, so 9 < √95 < 10.",
-      "hint": "Find the neighbouring perfect squares around the radicand."
-    }
-  },
-  {
     "id": "AC9M7N01-T-009",
     "subject": "math",
     "year_level": "Year 7",
@@ -1175,6 +937,40 @@
     "explanation": {
       "summary": "144 < 150 < 169, so 12 < √150 < 13.",
       "hint": "Find the neighbouring perfect squares around the radicand."
+    }
+  },
+  {
+    "id": "AC9M7N01-T-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A square solar panel has side length 22 centimetres. What area does it cover?",
+    "audio_prompt": "A square solar panel has side length 22 centimetres. What area does it cover?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square solar panel with side length 22 centimetres and an equal-row grid."
+    },
+    "answers": [
+      {
+        "text": "88 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "484 cm²",
+        "is_correct": true
+      },
+      {
+        "text": "462 cm²",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The area is 22² = 484 square centimetres.",
+      "hint": "Multiply the side length by itself."
     }
   },
   {
@@ -1212,6 +1008,40 @@
     }
   },
   {
+    "id": "AC9M7N01-T-003",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A square solar panel has side length 25 centimetres. What area does it cover?",
+    "audio_prompt": "A square solar panel has side length 25 centimetres. What area does it cover?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square solar panel with side length 25 centimetres and an equal-row grid."
+    },
+    "answers": [
+      {
+        "text": "100 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "600 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "625 cm²",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The area is 25² = 625 square centimetres.",
+      "hint": "Multiply the side length by itself."
+    }
+  },
+  {
     "id": "AC9M7N01-T-011",
     "subject": "math",
     "year_level": "Year 7",
@@ -1243,6 +1073,40 @@
     "explanation": {
       "summary": "Because 31 = 30 + 1, (30 + 1)² = 30² + 2 × 30 × 1 + 1².",
       "hint": "Include both rectangular cross-parts in the square-of-a-sum model."
+    }
+  },
+  {
+    "id": "AC9M7N01-T-004",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A square stage has area 169 m². What is its side length?",
+    "audio_prompt": "A square stage has area 169 m². What is its side length?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square stage labelled 169 square metres with equal unknown sides."
+    },
+    "answers": [
+      {
+        "text": "13 m",
+        "is_correct": true
+      },
+      {
+        "text": "42.25 m",
+        "is_correct": false
+      },
+      {
+        "text": "26 m",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "√169 = 13 because 13 × 13 = 169.",
+      "hint": "Look for the whole number whose square equals the area."
     }
   },
   {
@@ -1280,6 +1144,40 @@
     }
   },
   {
+    "id": "AC9M7N01-T-005",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A square stage has area 256 m². What is its side length?",
+    "audio_prompt": "A square stage has area 256 m². What is its side length?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square stage labelled 256 square metres with equal unknown sides."
+    },
+    "answers": [
+      {
+        "text": "64 m",
+        "is_correct": false
+      },
+      {
+        "text": "16 m",
+        "is_correct": true
+      },
+      {
+        "text": "32 m",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "√256 = 16 because 16 × 16 = 256.",
+      "hint": "Look for the whole number whose square equals the area."
+    }
+  },
+  {
     "id": "AC9M7N01-T-013",
     "subject": "math",
     "year_level": "Year 7",
@@ -1311,6 +1209,40 @@
     "explanation": {
       "summary": "169 = 13² and 196 = 14², while 180 lies between them.",
       "hint": "Check neighbouring squares rather than relying on the final digit alone."
+    }
+  },
+  {
+    "id": "AC9M7N01-T-006",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A square stage has area 324 m². What is its side length?",
+    "audio_prompt": "A square stage has area 324 m². What is its side length?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
+      "alt_text": "Square stage labelled 324 square metres with equal unknown sides."
+    },
+    "answers": [
+      {
+        "text": "81 m",
+        "is_correct": false
+      },
+      {
+        "text": "36 m",
+        "is_correct": false
+      },
+      {
+        "text": "18 m",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "√324 = 18 because 18 × 18 = 324.",
+      "hint": "Look for the whole number whose square equals the area."
     }
   },
   {
@@ -1348,6 +1280,40 @@
     }
   },
   {
+    "id": "AC9M7N01-T-007",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A calculator display shows √50. Between which consecutive integers must the value lie?",
+    "audio_prompt": "A calculator display shows √50. Between which consecutive integers must the value lie?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
+      "alt_text": "Number line bracketing 50 between 49 and 64."
+    },
+    "answers": [
+      {
+        "text": "7 and 8",
+        "is_correct": true
+      },
+      {
+        "text": "6 and 7",
+        "is_correct": false
+      },
+      {
+        "text": "8 and 9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "49 < 50 < 64, so 7 < √50 < 8.",
+      "hint": "Find the neighbouring perfect squares around the radicand."
+    }
+  },
+  {
     "id": "AC9M7N01-T-015",
     "subject": "math",
     "year_level": "Year 7",
@@ -1379,6 +1345,40 @@
     "explanation": {
       "summary": "15 ends in 5 but is not the square of a whole number; 25 = 5² and 225 = 15².",
       "hint": "A counterexample must satisfy the condition but make the conclusion false."
+    }
+  },
+  {
+    "id": "AC9M7N01-T-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "test",
+    "skill": "perfect_squares_and_square_roots",
+    "question": "A calculator display shows √95. Between which consecutive integers must the value lie?",
+    "audio_prompt": "A calculator display shows √95. Between which consecutive integers must the value lie?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
+      "alt_text": "Number line bracketing 95 between 81 and 100."
+    },
+    "answers": [
+      {
+        "text": "8 and 9",
+        "is_correct": false
+      },
+      {
+        "text": "9 and 10",
+        "is_correct": true
+      },
+      {
+        "text": "10 and 11",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "81 < 95 < 100, so 9 < √95 < 10.",
+      "hint": "Find the neighbouring perfect squares around the radicand."
     }
   },
   {
