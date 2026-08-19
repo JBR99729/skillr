@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9i06-p-001",
-    "curriculumCode": "AC9S9I06",
-    "bank": "practice",
-    "skill": "use what is meant by validity and how the validity to make the role of method validity visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use what is meant by validity and how the validity to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use what is meant by validity and how the validity to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated",
-      "Random error means a careless person made a mistake",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated\nHint: Use what is meant by ‘validity’ and how the validity to make the role of method validity visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated",
-      "hint": "Use what is meant by ‘validity’ and how the validity to make the role of method validity visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i06-p-002",
-    "curriculumCode": "AC9S9I06",
-    "bank": "practice",
-    "skill": "use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reproducible results prove the explanation",
-      "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method\nHint: Use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method",
-      "hint": "Use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i06-p-003",
-    "curriculumCode": "AC9S9I06",
-    "bank": "practice",
-    "skill": "use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Random error means a careless person made a mistake",
-      "The method can be chosen without checking the values or conditions",
-      "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion\nHint: Use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying assumptions in methods and determining the impact these could have on the validity of the conclusion",
-      "hint": "Use assumptions in methods and determining the impact these could to make the role of random and systematic error visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i06-p-004",
-    "curriculumCode": "AC9S9I06",
-    "bank": "practice",
-    "skill": "use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reproducible results prove the explanation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions"
-    ],
-    "correct": 3,
-    "explanation": "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions\nHint: Use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing methods and conclusions to identify facts or premises that are taken for granted to be true, and evaluating the reasonableness of those assumptions",
-      "hint": "Use methods and conclusions to identify facts or premises that to make the role of assumption visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i06-p-005",
-    "curriculumCode": "AC9S9I06",
-    "bank": "practice",
-    "skill": "use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "considering if areas of uncertainty could lead to a viable alternative conclusion",
-      "Random error means a careless person made a mistake",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "considering if areas of uncertainty could lead to a viable alternative conclusion\nHint: Use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering if areas of uncertainty could lead to a viable alternative conclusion",
-      "hint": "Use if areas of uncertainty could lead to a viable to make the role of claim confidence visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i06-p-006",
-    "curriculumCode": "AC9S9I06",
-    "bank": "practice",
-    "skill": "use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reproducible results prove the explanation",
-      "considering how general practitioners manage conflicting evidence to diagnose illness",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "considering how general practitioners manage conflicting evidence to diagnose illness\nHint: Use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering how general practitioners manage conflicting evidence to diagnose illness",
-      "hint": "Use how general practitioners manage conflicting evidence to diagnose illness to make the role of method validity visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i06-p-007",
-    "curriculumCode": "AC9S9I06",
-    "bank": "practice",
-    "skill": "use what is meant by validity and how the validity to make the role of method validity visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use what is meant by validity and how the validity to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use what is meant by validity and how the validity to make the role of method validity visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Random error means a careless person made a mistake",
-      "The method can be chosen without checking the values or conditions",
-      "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated\nHint: Use what is meant by ‘validity’ and how the validity to make the role of method validity visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing what is meant by ‘validity’ and how the validity of information in secondary sources can be evaluated",
-      "hint": "Use what is meant by ‘validity’ and how the validity to make the role of method validity visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i06-p-008",
-    "curriculumCode": "AC9S9I06",
-    "bank": "practice",
-    "skill": "use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reproducible results prove the explanation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method"
-    ],
-    "correct": 3,
-    "explanation": "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method\nHint: Use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying gaps or weaknesses in conclusions and relating these to the validity and reproducibility of the method",
-      "hint": "Use gaps or weaknesses in conclusions and relating these to make the role of reproducibility visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["claim validity","A news article says a supplement 'doubles concentration' but cites only a company testimonial. What is the main weakness?",["The evidence presented is insufficient to support the claim","The article is too short","Testimonials are primary experimental data","The claim is valid because it is numerical"],0,"A strong scientific claim needs relevant, reliable evidence; a testimonial alone does not establish the effect.","Ask what evidence actually supports the claim."],
+["secondary sources","Which feature most strengthens a secondary source about a scientific issue?",["It accurately represents relevant primary evidence and explains its limitations","It has many pictures","It agrees with the reader","It contains no uncertainty"],0,"Secondary sources are strongest when they faithfully represent the underlying research rather than merely citing it.","Citation quality matters more than citation count."],
+["source comparison","Two articles discuss the same study. Article A reports the sample size and uncertainty; Article B reports only the most dramatic percentage. Which is more useful for evaluating the claim?",["Article A","Article B","They are equally informative","Neither, because secondary sources cannot be evaluated"],0,"Sample size and uncertainty give essential context for judging evidence strength.","Look for context, not just headline numbers."],
+["graph interpretation","A media report says a graph proves a rapid increase, but the graph's vertical axis begins at 98 rather than 0. What should a reader do?",["Check whether the scale exaggerates the visual size of the difference","Accept the graph because graphs are objective","Ignore the axis labels","Assume the data are false"],0,"A truncated axis can make a small numerical difference look visually large.","Evaluate representation as well as data."],
+["claim scope","A study of 30 Year 9 students at one school finds an effect. Which conclusion is most defensible?",["The effect was observed in this sample; broader generalisation needs more evidence","The effect applies to all teenagers everywhere","The effect proves causation in every context","The result is invalid only because n=30"],0,"Conclusions should match the population and conditions actually studied.","Do not overgeneralise beyond the sample."],
+["reproducibility","What best shows a method is reproducible?",["Independent researchers following the described method obtain a similar pattern of results","The original researcher repeats one measurement exactly","Every numerical result is identical","The method uses expensive equipment"],0,"Reproducibility concerns whether others can obtain consistent findings using the method.","Similar findings, not necessarily identical numbers."],
+["method detail","Which omission most directly limits reproducibility?",["The method does not specify how the dependent variable was measured","The title is short","The graph uses blue points","The conclusion has two paragraphs"],0,"Without a clear measurement procedure, another investigator cannot reliably reproduce the method.","Could another person actually repeat it?"],
+["validity","A student tests whether fertiliser affects plant growth but gives the fertilised group more light. What is the main problem?",["Light is a confounding variable, weakening validity","The experiment is automatically unreproducible","The sample is necessarily too large","The graph must be a scatter plot"],0,"Because light differs between groups, the effect cannot be confidently attributed to fertiliser.","One intended cause, other factors controlled."],
+["correlation causation","A survey finds students with more screen time report less sleep. What conclusion is justified?",["Screen time and sleep are associated in the surveyed sample; causation is not established","Screen time definitely causes all sleep loss","Sleep loss definitely causes screen use","There is no relationship unless an experiment is done"],0,"Observational association does not by itself establish causal direction or exclude confounders.","Association first; causation needs stronger evidence."],
+["trial consistency","Three trials give 11.2, 11.3 and 11.2; another laboratory obtains 11.1, 11.3 and 11.2. What does this most strongly support?",["The measurement pattern is reproducible across laboratories","The method is guaranteed valid","There is no uncertainty","The true value must be exactly 11.2"],0,"Similar results across independent groups support reproducibility, though validity and uncertainty still require evaluation.","Reproducible ≠ automatically valid."],
+["sample size","Why can a very small sample weaken a conclusion?",["Random variation or unusual individuals can have a large influence","Small samples always create systematic error","Small samples cannot be measured","A sample under 100 is scientifically invalid"],0,"With few observations, chance variation can strongly affect the apparent pattern.","Small does not mean useless; it means more uncertainty."],
+["assumption","What is an assumption in an investigation?",["A condition treated as true for the reasoning or method without being directly established in that step","Any measured result","A controlled variable only","The final conclusion"],0,"Assumptions are premises used in reasoning or method design and may need checking.","Ask what the method takes for granted."],
+["heat assumption","A calorimetry calculation assumes negligible heat loss to the surroundings. If substantial heat escapes, what happens?",["The calculated energy transfer can be biased because the assumption is violated","The result becomes more reproducible","Mass is no longer conserved","The thermometer becomes more precise"],0,"Unaccounted heat loss means the simplified energy model no longer matches the real system.","A false assumption can create systematic bias."],
+["timing assumption","A manual stopwatch method assumes human start/stop delay is negligible. Which change best tests this assumption?",["Compare manual timing with an automated sensor for the same events","Repeat only the manual timing","Round all times to whole seconds","Remove the stopwatch instructions"],0,"An independent automated method can reveal whether human timing delay materially affects the measurements.","Test the assumption with a different measurement approach."],
+["background noise","A sound experiment assumes background noise is constant, but nearby construction begins halfway through. What is the consequence?",["The assumption is violated and the comparison may be confounded","The experiment becomes more accurate","The construction is irrelevant because it is external","Only reproducibility improves"],0,"Changing background noise can alter measured sound levels independently of the tested variable.","Uncontrolled background conditions can change outcomes."],
+["reasonable assumptions","When is an assumption most reasonable?",["When evidence or prior measurements show it is approximately true under the investigation conditions","When it makes calculations easier","When no one mentions it","When it cannot be tested"],0,"Reasonable assumptions need justification from evidence or well-supported knowledge.","Convenience is not evidence."],
+["uncertainty","A measurement is reported as 20.0 ± 0.5 cm. What does the ±0.5 cm represent?",["An estimate of measurement uncertainty around the reported value","A guarantee that the true value is exactly 20.5 cm","A random replacement value","The sample size"],0,"The uncertainty communicates a plausible measurement interval or limitation, depending on how it was defined.","It quantifies limits on measurement certainty."],
+["overlap","Experiment A gives 5.0 ± 0.4 units and B gives 5.3 ± 0.4 units. What is the safest interpretation?",["The uncertainty intervals overlap, so the apparent difference may not be clearly distinguishable","B is definitely greater in all cases","The results contradict completely","Uncertainty should be ignored when comparing means"],0,"Overlapping uncertainty ranges mean the observed difference should be interpreted cautiously.","Compare the difference with the uncertainty."],
+["conflicting evidence","Two well-designed studies produce different results. What should scientists do?",["Compare methods, populations, uncertainty and assumptions before revising the conclusion","Choose the study with the preferred result","Average the conclusions without examining methods","Reject both studies immediately"],0,"Conflicting evidence should trigger investigation of why results differ and whether each applies to different conditions.","Disagreement is information."],
+["alternative explanation","Plants grow faster in a warmer greenhouse that also receives more light. Which alternative explanation must be considered?",["The extra light may account for some or all of the growth difference","Temperature is proven irrelevant","Plants cannot respond to light","Both variables must have zero effect"],0,"Because light changed with temperature, it is a plausible competing explanation.","Look for variables that changed together."],
+["premise","A conclusion states, 'Because the sensor is digital, its readings must be accurate.' What is wrong with the premise?",["Digital sensors can still be miscalibrated or unsuitable for the measurement","Digital sensors cannot produce numbers","Accuracy and digital display are identical by definition","The premise is valid if many readings are collected"],0,"Digital format does not guarantee calibration, accuracy or validity.","Technology does not remove measurement limitations."],
+["conclusion strength","Which conclusion is strongest?",["The data support an association under the tested conditions, although the small sample limits generalisation","The hypothesis has been proven forever","The result applies to every population","No uncertainty exists because the mean was calculated"],0,"Strong scientific conclusions match the evidence and openly state important limitations.","Calibrated language is a strength."],
+["uncertainty source","A result varies because environmental temperature fluctuated during trials. This uncertainty is best addressed by: ",["Measuring or controlling temperature and evaluating its effect","Ignoring the variation","Changing the conclusion wording only","Increasing graph size"],0,"Identifying and managing the source of variation can improve the method and interpretation.","Find the mechanism behind the uncertainty."],
+["evidence synthesis","Three independent studies agree on the direction of an effect but estimate different effect sizes. What can reasonably be concluded?",["The consistent direction strengthens evidence for the relationship, while the size of the effect remains uncertain","The studies are useless because the values differ","The largest estimate must be correct","The effect size is known exactly"],0,"Agreement on direction can strengthen confidence while differences in magnitude indicate remaining uncertainty.","Separate existence of an effect from its exact size." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9i06-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9I06",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
