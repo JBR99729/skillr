@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m9st03-p-001",
-    "curriculumCode": "AC9M9ST03",
-    "bank": "practice",
-    "skill": "describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”",
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”\nHint: Describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”.",
-    "structuredExplanation": {
-      "summary": "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”",
-      "hint": "Describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st03-p-002",
-    "curriculumCode": "AC9M9ST03",
-    "bank": "practice",
-    "skill": "use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The comparing data distributions model is copied without interpretation",
-      "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class\nHint: Use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class.",
-    "structuredExplanation": {
-      "summary": "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
-      "hint": "Use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st03-p-003",
-    "curriculumCode": "AC9M9ST03",
-    "bank": "practice",
-    "skill": "construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims\nHint: Construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims.",
-    "structuredExplanation": {
-      "summary": "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims",
-      "hint": "Construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st03-p-004",
-    "curriculumCode": "AC9M9ST03",
-    "bank": "practice",
-    "skill": "explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”"
-    ],
-    "correct": 3,
-    "explanation": "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”\nHint: Explore comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data.",
-    "structuredExplanation": {
-      "summary": "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”",
-      "hint": "Explore comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st03-p-005",
-    "curriculumCode": "AC9M9ST03",
-    "bank": "practice",
-    "skill": "describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving describe the shape of the distribution of data using terms such as positive skew negative skew and symmetric and bi modal. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”",
-      "The comparing data distributions model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”\nHint: Describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”.",
-    "structuredExplanation": {
-      "summary": "describing the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”",
-      "hint": "Describe the shape of the distribution of data using terms such as “positive skew”, “negative skew” and “symmetric” and “bi-modal”."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st03-p-006",
-    "curriculumCode": "AC9M9ST03",
-    "bank": "practice",
-    "skill": "use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving use stem and leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class\nHint: Use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class.",
-    "structuredExplanation": {
-      "summary": "using stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class",
-      "hint": "Use stem-and-leaf plots to compare 2 like sets of data such as the heights of girls and the heights of boys in a class."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st03-p-007",
-    "curriculumCode": "AC9M9ST03",
-    "bank": "practice",
-    "skill": "construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving construct grouped histograms that show trends in health issues such as lung cancer leukemia stroke and diabetes and using the graph to justify verify or invalidate claims. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A display or sample is treated as proof of a stronger claim",
-      "The method can be chosen without checking the values or conditions",
-      "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims\nHint: Construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims.",
-    "structuredExplanation": {
-      "summary": "constructing grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims",
-      "hint": "Construct grouped histograms that show trends in health issues such as lung cancer, leukemia, stroke and diabetes, and using the graph to justify, verify or invalidate claims."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9st03-p-008",
-    "curriculumCode": "AC9M9ST03",
-    "bank": "practice",
-    "skill": "explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore comparative data presented in reports by national indigenous australians agency in regard to closing the gap discussing the comparative distributions within the context of the data. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The comparing data distributions model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”"
-    ],
-    "correct": 3,
-    "explanation": "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”\nHint: Explore comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data.",
-    "structuredExplanation": {
-      "summary": "exploring comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data; for example, comparative data presented in the “Closing the Gap - Prime Minister’s Report”",
-      "hint": "Explore comparative data presented in reports by National Indigenous Australians Agency in regard to “Closing the Gap”, discussing the comparative distributions within the context of the data."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["shape","Incomes are $40k, $42k, $45k, $48k, $50k, $52k and $200k. Which description best fits the distribution?",["Positively skewed because of a long upper tail","Negatively skewed because of a long lower tail","Approximately symmetric","Bimodal with two clear clusters"],0,"The very large income extends the distribution to the right, creating positive skew.","Look at the direction of the long tail."],
+["outlier effect","Commute times are 10, 12, 14, 15, 16, 17 and 60 minutes. Which measure of centre is most affected by 60?",["Mean","Median","Both equally","Neither"],0,"The mean uses every value and is pulled upward strongly by the extreme value; the median changes much less.","Extreme values pull the mean."],
+["median resistance","A dataset is 5, 6, 7, 8, 9, 10, 11, 50. Which measure of centre is more resistant to the value 50?",["Median","Mean","Range","Maximum"],0,"The median depends on the middle positions, so an extreme endpoint has limited effect on it.","Median is resistant to extremes."],
+["symmetry","The data 20, 21, 22, 23, 24, 25, 26 are evenly balanced about 23. How should the shape be described?",["Symmetric","Positively skewed","Negatively skewed","Bimodal"],0,"Values occur in balanced pairs around the centre 23.","Check balance around the centre."],
+["zero spread","All six measurements in a dataset equal 10. Which statement is correct?",["The distribution has zero spread","The distribution is positively skewed","The distribution has two modes","The mean cannot be calculated"],0,"When all values are equal, range and other measures of spread are zero.","No variation means zero spread."],
+["bimodality","The data 3, 4, 4, 5, 6, 7, 7, 8 have two values tied for highest frequency. Which description is correct?",["Bimodal, with modes 4 and 7","Symmetric with one mode","Positively skewed","No mode"],0,"Both 4 and 7 occur twice, more often than any other value.","Two highest-frequency values = bimodal."],
+["centre spread shape","Two classes both have median test score 70. Class A has scores tightly clustered near 70; Class B ranges widely from 35 to 98. What differs most clearly?",["Spread","Median","Number of classes","Unit of measurement"],0,"The centres are the same, but Class B has much greater variability.","Same centre does not mean same distribution."],
+["outlier range","A dataset has minimum 12 and maximum 48. After an outlier of 100 is added, what happens to the range?",["It increases from 36 to 88","It stays 36","It becomes 100","It decreases to 12"],0,"Original range is 48−12=36; new range is 100−12=88.","Range = maximum − minimum."],
+["stem leaf","Girls' heights are 148,149,152,154,157,160,163,165,171 cm. What is the median?",["157 cm","160 cm","155 cm","163 cm"],0,"There are 9 ordered values, so the 5th value, 157, is the median.","Odd n: take the middle value."],
+["stem leaf","Boys' heights are 150,153,161,164,167,170,172,175,181 cm. What is the median?",["167 cm","164 cm","170 cm","165 cm"],0,"There are 9 ordered values, so the 5th value is 167.","Find the 5th of 9 values."],
+["comparative centre","Using the two height datasets, which group has the higher median?",["Boys, by 10 cm","Girls, by 10 cm","Boys, by 5 cm","The medians are equal"],0,"Boys' median is 167 cm and girls' median is 157 cm.","Compare the two medians."],
+["range","What is the range of the girls' heights 148,149,152,154,157,160,163,165,171?",["23 cm","19 cm","17 cm","31 cm"],0,"Range = 171−148 = 23 cm.","Maximum minus minimum."],
+["range","What is the range of the boys' heights 150,153,161,164,167,170,172,175,181?",["31 cm","25 cm","21 cm","18 cm"],0,"Range = 181−150 = 31 cm.","Maximum minus minimum."],
+["comparative spread","Based on range alone, which height dataset is more spread out?",["Boys, because 31 cm > 23 cm","Girls, because 23 cm < 31 cm","They have equal spread","Range cannot compare spread"],0,"The boys' range is 31 cm versus 23 cm for girls.","Use the same spread measure for both groups."],
+["quartiles","For the girls' heights, using the median-of-halves convention and excluding the overall median, what is Q3?",["164 cm","163 cm","165 cm","168 cm"],0,"Upper half is 160,163,165,171; Q3=(163+165)/2=164.","Find the median of the upper half."],
+["quartiles","For the boys' heights, using the median-of-halves convention and excluding the overall median, what is Q3?",["173.5 cm","172 cm","175 cm","171 cm"],0,"Upper half is 170,172,175,181; Q3=(172+175)/2=173.5.","Average the middle two values of the upper half."],
+["health data","Lung cancer rates per 100,000 by age group are 5,12,25,40,55,70 from ages 20–29 to 70–79. What is the overall pattern?",["The rate increases with age across the listed groups","The rate decreases with age","The rate is constant","The pattern alternates up and down"],0,"Every successive age-group rate is higher than the previous one.","Read the direction across groups."],
+["claim check","A headline says 'Lung cancer is most common in middle age' using the rates 5,12,25,40,55,70. Is the claim supported by these data?",["No; the highest listed rate is for ages 70–79","Yes; 50–59 has the middle age and therefore the highest rate","Yes; all rates are similar","Cannot tell because rates cannot compare age groups"],0,"The largest rate shown is 70 per 100,000 for ages 70–79.","Check the maximum rate."],
+["rate ratio","Diabetes rates are 40 per 100,000 at ages 40–49 and 80 at ages 60–69. Which statement is correct?",["The rate doubles","The rate rises by 50%","The rate triples","The rate falls by half"],0,"80 is twice 40, so the rate ratio is 2.","Compare 80 with 40 multiplicatively."],
+["comparative change","From ages 50–59 to 70–79, lung cancer rises from 40 to 70 and diabetes from 60 to 85. Which has the larger absolute increase?",["Lung cancer: +30 versus diabetes: +25","Diabetes: +25 versus lung cancer: +20","They both increase by 30","Cannot compare because the units differ"],0,"Both are rates per 100,000, so their changes are comparable: lung +30, diabetes +25.","Subtract start from end for each."],
+["percentage points","Year 10 literacy benchmark figures are 62% and 88%. What is the gap?",["26 percentage points","26%","42 percentage points","150 percentage points"],0,"88%−62%=26 percentage points. Differences between percentages are normally expressed in percentage points.","Subtract the percentages; name the unit correctly."],
+["percentage points","Numeracy figures are 58% and 85%. What is the gap?",["27 percentage points","27%","17 percentage points","143 percentage points"],0,"85−58=27 percentage points.","Use percentage points for a direct difference."],
+["gap comparison","Given literacy gap 26 points, numeracy 27, attendance 15, Year 12 attainment 22, employment 23 and health checks 24, which is largest?",["Numeracy, 27 percentage points","Literacy, 26 percentage points","Health checks, 24 percentage points","Attendance, 15 percentage points"],0,"Among the listed differences, 27 is the largest.","Compare the numerical gaps only."],
+["statistical interpretation","A dataset shows one indicator has the largest percentage-point gap. What can be concluded from gap size alone?",["It has the largest measured gap among the listed indicators, but policy urgency requires additional context","It must be the most urgent policy priority","It has the largest population affected","It will be easiest to improve"],0,"A descriptive statistic ranks the measured gaps; urgency also depends on consequences, populations, feasibility and other evidence.","Statistics describe; policy judgement needs context." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9m9st03-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M9ST03",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
