@@ -373,17 +373,10 @@ document.addEventListener("DOMContentLoaded", () => {
   if (isPracticePage) {
     config.preReadSeconds = 0;
     config.shuffleQuestions = false;
-    config.questionCycle = false;
-    config.shuffleQuestions = false;
-    config.questionCycle = false;
-    config.shuffleQuestions = false;
-    config.questionCycle = false;
-    config.shuffleQuestions = false;
-    config.questionCycle = false;
-    config.shuffleQuestions = false;
-    config.questionCycle = false;
-    config.shuffleQuestions = false;
-    config.questionCycle = false;
+    const practiceMaximumQuestions = Number(config.maxQuestions);
+    config.questionCycle = Number.isInteger(practiceMaximumQuestions) &&
+      practiceMaximumQuestions > 0 &&
+      questions.length > practiceMaximumQuestions;
 
     const preparationNotes =
       document.querySelector(".pre-read-notes");
