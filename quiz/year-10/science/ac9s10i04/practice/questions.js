@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10i04-p-001",
-    "curriculumCode": "AC9S10I04",
-    "bank": "practice",
-    "skill": "use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using spreadsheet software to carry out mathematical analyses of data",
-      "The representation with the most features is best",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using spreadsheet software to carry out mathematical analyses of data\nHint: Use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using spreadsheet software to carry out mathematical analyses of data",
-      "hint": "Use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i04-p-002",
-    "curriculumCode": "AC9S10I04",
-    "bank": "practice",
-    "skill": "use table or graph in context to make the role of table or graph visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use table or graph in context to make the role of table or graph visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use table or graph in context to make the role of table or graph visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Changing an axis only changes appearance",
-      "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers\nHint: Use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
-      "hint": "Use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i04-p-003",
-    "curriculumCode": "AC9S10I04",
-    "bank": "practice",
-    "skill": "use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The representation with the most features is best",
-      "The method can be chosen without checking the values or conditions",
-      "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models\nHint: Use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering how data or information can be organised and represented to effectively communicate support for conclusions, including through visual or interactive models",
-      "hint": "Use how data or information can be organised and represented to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i04-p-004",
-    "curriculumCode": "AC9S10I04",
-    "bank": "practice",
-    "skill": "use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Changing an axis only changes appearance",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "considering how the scales used for representing data affect interpretation of the data"
-    ],
-    "correct": 3,
-    "explanation": "considering how the scales used for representing data affect interpretation of the data\nHint: Use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "considering how the scales used for representing data affect interpretation of the data",
-      "hint": "Use how the scales used for representing data affect interpretation to make the role of model or equation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i04-p-005",
-    "curriculumCode": "AC9S10I04",
-    "bank": "practice",
-    "skill": "use the merits and limitations of time lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use the merits and limitations of time lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use the merits and limitations of time lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation",
-      "The representation with the most features is best",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation\nHint: Use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "evaluating the merits and limitations of time-lapse visual representations of changes in polar ice coverage with a mathematical representation",
-      "hint": "Use the merits and limitations of time-lapse visual representations to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i04-p-006",
-    "curriculumCode": "AC9S10I04",
-    "bank": "practice",
-    "skill": "use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Changing an axis only changes appearance",
-      "comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies\nHint: Use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "comparing merits and limitations of patterns as represented by the periodic table with graphical representations of patterns such as melting point or boiling point, and with consideration of anomalies",
-      "hint": "Use merits and limitations of patterns as represented to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i04-p-007",
-    "curriculumCode": "AC9S10I04",
-    "bank": "practice",
-    "skill": "use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The representation with the most features is best",
-      "The method can be chosen without checking the values or conditions",
-      "using spreadsheet software to carry out mathematical analyses of data",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "using spreadsheet software to carry out mathematical analyses of data\nHint: Use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using spreadsheet software to carry out mathematical analyses of data",
-      "hint": "Use spreadsheet software to carry out mathematical analyses of data to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i04-p-008",
-    "curriculumCode": "AC9S10I04",
-    "bank": "practice",
-    "skill": "use table or graph in context to make the role of table or graph visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use table or graph in context to make the role of table or graph visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use table or graph in context to make the role of table or graph visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Changing an axis only changes appearance",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers"
-    ],
-    "correct": 3,
-    "explanation": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers\nHint: Use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "describing sample properties such as mean, median, range and large gaps visible on a graph to make generalisations, acknowledging uncertainties and the effects of outliers",
-      "hint": "Use table or graph in context to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["mean","Reaction times are 1.2, 1.4, 1.3 and 1.5 s. What is the mean?",["1.35 s","1.30 s","1.40 s","1.25 s"],0,"The mean is (1.2+1.4+1.3+1.5)/4 = 1.35 s.","Add, then divide by the number of values."],
+["median","For 3, 8, 9, 10, 12, what is the median?",["8","9","10","12"],1,"The ordered dataset has five values, so the middle value is 9.","Find the middle ordered value."],
+["range","For 12, 15, 18, 10 and 20, what is the range?",["8","10","12","20"],1,"Range = maximum − minimum = 20 − 10 = 10.","Highest minus lowest."],
+["outliers","For 2, 3, 4, 5 and 100, which statistic is most strongly pulled upward by 100?",["Mean","Median","Number of observations","Minimum"],0,"The mean uses every numerical value and is strongly affected by an extreme value; the median is more resistant.","Compare mean and median sensitivity."],
+["statistics choice","A dataset is strongly right-skewed by one very large value. Which measure is often more representative of a typical central value?",["Median","Maximum","Range","Sum"],0,"The median is resistant to extreme values and can better represent the centre of a skewed dataset.","Use a resistant centre for skewed data."],
+["spread","Two datasets have the same mean, but one has a much larger range. What can you conclude?",["The second dataset has greater spread by the range measure","The second dataset must be less accurate","The datasets are identical","The first dataset must contain an outlier"],0,"Range describes one aspect of spread; it does not directly establish accuracy.","Centre and spread are different."],
+["spread limits","Why can range be a weak description of variability?",["It depends only on the minimum and maximum and can be strongly affected by an extreme value","It uses every value equally","It can never be calculated","It is always identical to the mean"],0,"Range ignores the internal distribution and is sensitive to extremes.","Range uses only two values."],
+["spreadsheet formulas","A spreadsheet mean is unexpectedly huge. What should be checked first?",["The formula and referenced cell range","The font size","The graph colour","Whether the file name contains numbers"],0,"Incorrect references or formulas can generate mathematically correct calculations on the wrong cells.","Check inputs and cell references."],
+["spreadsheet verification","Why should spreadsheet output still be checked?",["Automation can repeat a formula or data-entry mistake consistently","Spreadsheets always round incorrectly","Digital calculations are only estimates","Formulas cannot calculate means"],0,"Automation reduces repetitive calculation work but can propagate an incorrect formula or input through many cells.","Fast automation can also spread mistakes fast."],
+["filtering","What is a legitimate use of spreadsheet filtering?",["Viewing a defined subset, such as one treatment group, while retaining the underlying data","Deleting values that disagree with a hypothesis","Changing measurements to improve a trend","Converting numerical data into opinions"],0,"Filtering can focus analysis on defined categories without altering the source measurements.","Filter to inspect, not cherry-pick."],
+["representation choice","Which representation is generally best for examining the relationship between two quantitative variables measured as pairs?",["Scatter plot","Pie chart","Unordered bar chart","Decorative diagram"],0,"A scatter plot displays paired numerical observations and reveals possible association patterns.","Two quantitative variables → scatter plot."],
+["time series","Which representation is most useful for showing atmospheric CO₂ concentration measured monthly over 20 years?",["Time-series line graph","Pie chart","Single bar","Unlabelled table only"],0,"A line graph with time ordered on the horizontal axis clearly shows change through time.","Time on x-axis."],
+["categories","Which graph is usually appropriate for comparing mean growth across four named fertiliser treatments?",["Bar/column graph with uncertainty information where available","Pie chart of the four means","Scatter plot with no category labels","Time-lapse video"],0,"Separate categories can be compared with bars; uncertainty should be shown when relevant to the claim.","Categories → bars."],
+["tables","When is a table especially useful?",["When readers need exact recorded values or multiple variables for individual observations","When the only goal is to exaggerate a trend","When no numerical values exist","When axes need to be compressed"],0,"Tables preserve exact values and structured records, while graphs often make patterns easier to see.","Tables are strong for exact values."],
+["graph essentials","Which graph feature is essential for scientific interpretation?",["Clearly labelled axes with quantities and units where applicable","A three-dimensional visual effect","Bright colours","A title longer than the dataset"],0,"Readers need to know what each axis represents and the measurement units.","Axes need variables and units."],
+["scale","What can changing a graph's axis scale change?",["The visual impression of the magnitude or steepness of a pattern, but not the underlying data","The actual measured values","The experimental controls","The sample size"],0,"Scaling affects visual interpretation without changing the recorded observations.","Appearance can change while data do not."],
+["bar baseline","Why is a truncated vertical axis particularly risky on a bar chart?",["Bar lengths encode magnitude from the baseline, so truncation can exaggerate small differences","Every scientific graph must start at zero","It automatically changes the data","It prevents labels being added"],0,"Because viewers compare bar lengths, a non-zero baseline can strongly distort proportional differences.","Bar length depends on baseline."],
+["line baseline","Must every line graph start its y-axis at zero?",["No; a non-zero range can be appropriate if clearly labelled and chosen to show relevant variation without deception","Yes, otherwise the graph is scientifically invalid","No, because axes never affect interpretation","Yes, but only for temperature data"],0,"Unlike bar lengths, line graphs can legitimately use non-zero ranges when the scale is transparent and appropriate.","Zero is not a universal graph rule."],
+["uneven scales","What is wrong with labelling equally spaced y-axis marks 0, 10, 20, 100, 110 without indicating a break?",["The visual spacing no longer represents equal numerical intervals and can mislead","Nothing; labels can use any values","It improves precision","It removes anomalies"],0,"A numerical axis must represent its scale consistently unless a discontinuity is clearly signalled.","Equal visual spacing should match the stated numerical scale."],
+["anomalies","A graph contains one point far from an otherwise smooth trend. What is the best response?",["Investigate the point and its context before deciding whether it reflects error, real variation or a different process","Delete it immediately","Draw the trend through it regardless of evidence","Change its value to match neighbouring points"],0,"Anomalies can be errors or scientifically meaningful; they require investigation, not automatic removal.","Anomaly ≠ mistake automatically."],
+["time lapse","What is a major strength of time-lapse imagery of polar ice?",["It can make spatial change through time visually apparent","It automatically supplies exact ice area values","It proves the cause of the change","It removes the need for quantitative measurements"],0,"Time-lapse imagery is powerful for spatial and temporal visualisation but does not replace quantitative analysis.","Strong for spatial change."],
+["time lapse limits","Why might a graph of measured ice area complement a time-lapse sequence?",["The graph provides quantitative values and rates that are difficult to judge precisely from images alone","The graph makes the images unnecessary in every context","Graphs remove measurement uncertainty","Images cannot show change"],0,"Different representations reveal different features; quantitative graphs complement spatial imagery.","Combine qualitative/spatial and quantitative views."],
+["periodic representation","Why can plotting melting point against atomic number reveal information not obvious from a periodic table alone?",["It displays numerical variation and anomalies across elements","It changes each element's melting point","It removes periodic structure","It proves all elements follow a smooth trend"],0,"A numerical plot can make magnitudes, trends and exceptions easier to inspect.","Graphs reveal quantitative patterns."],
+["models","What is the best role of a scientific model in data communication?",["Represent selected relationships or mechanisms while making assumptions and limits clear","Replace all observations","Guarantee a prediction","Hide uncertainty to simplify the message"],0,"Models simplify reality to communicate or test relationships; their assumptions and limitations matter.","Models represent, not replace, evidence."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s10i04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10I04",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
