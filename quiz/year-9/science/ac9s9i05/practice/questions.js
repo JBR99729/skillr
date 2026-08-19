@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9i05-p-001",
-    "curriculumCode": "AC9S9I05",
-    "bank": "practice",
-    "skill": "use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "discussing the validity of the data when extrapolating from a graph",
-      "Different sources can be averaged immediately",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "discussing the validity of the data when extrapolating from a graph\nHint: Use the validity of the data when extrapolating to make the role of source A visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing the validity of the data when extrapolating from a graph",
-      "hint": "Use the validity of the data when extrapolating to make the role of source A visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i05-p-002",
-    "curriculumCode": "AC9S9I05",
-    "bank": "practice",
-    "skill": "use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "An anomaly invalidates the whole data set",
-      "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies\nHint: Use representations of data from atmospheric monitoring and ice cores to make the role of source B visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
-      "hint": "Use representations of data from atmospheric monitoring and ice cores to make the role of source B visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i05-p-003",
-    "curriculumCode": "AC9S9I05",
-    "bank": "practice",
-    "skill": "use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Different sources can be averaged immediately",
-      "The method can be chosen without checking the values or conditions",
-      "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’\nHint: Use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’",
-      "hint": "Use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i05-p-004",
-    "curriculumCode": "AC9S9I05",
-    "bank": "practice",
-    "skill": "use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "An anomaly invalidates the whole data set",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "analysing data on heat transfer through multiple layers of an insulating material and identifying patterns and proportional relationships, such as: ‘When the thickness of the material is doubled the amount of heat transferred is halved’"
-    ],
-    "correct": 3,
-    "explanation": "analysing data on heat transfer through multiple layers of an insulating material and identifying patterns and proportional relationships, such as: ‘When the thickness of the material is doubled the amount of heat transferred is halved’\nHint: Use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing data on heat transfer through multiple layers of an insulating material and identifying patterns and proportional relationships, such as: ‘When the thickness of the material is doubled the amount of heat transferred is halved’",
-      "hint": "Use data on heat transfer through multiple layers to make the role of anomaly visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i05-p-005",
-    "curriculumCode": "AC9S9I05",
-    "bank": "practice",
-    "skill": "use tables graphs and digital simulations of radioactive decay half life to make the role of model based explanation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use tables graphs and digital simulations of radioactive decay half life to make the role of model based explanation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use tables graphs and digital simulations of radioactive decay half life to make the role of model based explanation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "examining tables, graphs and digital simulations of radioactive decay half-life to predict changes in mass over time",
-      "Different sources can be averaged immediately",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "examining tables, graphs and digital simulations of radioactive decay half-life to predict changes in mass over time\nHint: Use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining tables, graphs and digital simulations of radioactive decay half-life to predict changes in mass over time",
-      "hint": "Use tables, graphs and digital simulations of radioactive decay half-life to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i05-p-006",
-    "curriculumCode": "AC9S9I05",
-    "bank": "practice",
-    "skill": "use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the validity of the data when extrapolating to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "An anomaly invalidates the whole data set",
-      "discussing the validity of the data when extrapolating from a graph",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "discussing the validity of the data when extrapolating from a graph\nHint: Use the validity of the data when extrapolating to make the role of source A visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "discussing the validity of the data when extrapolating from a graph",
-      "hint": "Use the validity of the data when extrapolating to make the role of source A visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i05-p-007",
-    "curriculumCode": "AC9S9I05",
-    "bank": "practice",
-    "skill": "use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use representations of data from atmospheric monitoring and ice cores to make the role of source b visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Different sources can be averaged immediately",
-      "The method can be chosen without checking the values or conditions",
-      "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies\nHint: Use representations of data from atmospheric monitoring and ice cores to make the role of source B visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing representations of data from atmospheric monitoring and ice cores to identify patterns and trends in the amount of carbon dioxide in the atmosphere, highlighting inconsistencies",
-      "hint": "Use representations of data from atmospheric monitoring and ice cores to make the role of source B visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i05-p-008",
-    "curriculumCode": "AC9S9I05",
-    "bank": "practice",
-    "skill": "use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "An anomaly invalidates the whole data set",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’"
-    ],
-    "correct": 3,
-    "explanation": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’\nHint: Use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "comparing published data with experimental data such as the sound-insulating levels of different materials and identifying any trends or patterns in differences, such as: ‘The published sound levels are usually higher than the experimentally determined levels’",
-      "hint": "Use published data with experimental data to make the role of shared pattern visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["trend","A dataset changes 12, 15, 18, 21, 24 as time increases. Which description is best?",["A consistent increasing trend","A decreasing trend","No relationship","An isolated anomaly"],0,"The values rise by a similar amount as time increases, so the data show a consistent increasing trend.","Look for the overall direction across several points."],
+["anomaly","Results are 8.1, 8.3, 8.2, 12.9, 8.4. What should a student do first with 12.9?",["Check the method, conditions and recording before deciding whether it is an anomaly","Delete it immediately","Replace it with the mean","Assume it proves a new law"],0,"An unusual result should be investigated before exclusion because it may reflect error or a real effect.","Anomaly does not mean automatic deletion."],
+["interpolation","A graph contains measured values from 10°C to 40°C. Estimating a value at 25°C is: ",["Interpolation","Extrapolation","Replication","Calibration"],0,"Interpolation estimates within the measured range.","Inside the measured range."],
+["extrapolation","The same graph contains data only from 10°C to 40°C. Predicting the response at 70°C is: ",["Extrapolation","Interpolation","Direct measurement","Random error"],0,"Extrapolation extends a relationship beyond the range actually measured.","Outside the measured range."],
+["extrapolation validity","Which would make a long-range extrapolation more defensible?",["A well-supported relationship that remains stable across a wide measured range","Only two measured points","A trend that changes direction repeatedly","Unknown changes in relevant conditions"],0,"Extrapolation is stronger when both evidence and an explanatory relationship support continuation of the trend.","Stable evidence + plausible mechanism."],
+["two points","Why is extrapolation from only two points risky?",["Many different relationships can pass through the same two points","Two points always form a curve","Two points cannot be graphed","Extrapolation requires exactly three points"],0,"Two points define a straight line but do not show whether the true relationship is linear.","A line through two points may hide curvature."],
+["trend change","A measured trend rises rapidly at first but begins to level off near the end. Which extrapolation is least justified?",["Extending the original steep slope far beyond the data","Predicting a value just beyond the final point with caution","Collecting more data before predicting","Considering a model that allows a plateau"],0,"The recent flattening is evidence that the early steep trend may not continue.","Use the latest pattern, not just the earliest one."],
+["relationship","As insulation thickness increases from 1 to 4 cm, measured heat transfer falls from 80 to 46 W. What relationship is shown?",["A negative relationship: greater thickness is associated with lower heat transfer","A positive relationship","No relationship","A categorical difference only"],0,"One variable increases while the other decreases.","Opposite directions indicate a negative relationship."],
+["causation","A scatter plot shows that two variables increase together. What can the graph alone establish?",["An association, not necessarily that one variable causes the other","Definite causation","That no third variable matters","That all future values will follow the same pattern"],0,"A relationship in observational data does not by itself establish causation.","Correlation is not automatically causation."],
+["ice core","Why can air bubbles trapped in ice cores provide information about past atmospheres?",["They preserve samples of ancient air that can be analysed","They directly record modern weather forecasts","They contain only present-day air","They measure temperature with a thermometer"],0,"Trapped gases can provide evidence about atmospheric composition from the time the ice formed.","The bubbles are samples of old air."],
+["multiple datasets","Why is it useful to compare ice-core gas records with direct modern atmospheric measurements?",["The datasets cover different time periods and can be connected where methods and scales are understood","One dataset automatically proves the other is perfect","Different methods should never be compared","Modern measurements make older evidence irrelevant"],0,"Connecting datasets can extend the evidence record, but method differences and overlap must be considered.","Combine evidence carefully, not blindly."],
+["method difference","Two instruments measuring the same gas differ by about 3 ppm across an overlapping month. What is a sensible interpretation?",["There may be a calibration or method offset that should be investigated","One dataset must be fabricated","The gas changed by exactly 3 ppm everywhere","The difference proves no trend exists"],0,"A consistent offset can arise from calibration or methodological differences.","Look for systematic differences."],
+["data trend","A synthetic CO₂ dataset is 280, 282, 285, 291, 300 ppm at equal time intervals. What pattern is most evident?",["An increase that becomes larger between later intervals","A constant rate of decrease","No overall change","A single isolated anomaly"],0,"The increments are +2, +3, +6 and +9 ppm, so values increase and the increases grow.","Compare successive differences."],
+["anomaly context","A monitoring series is 410, 412, 411, 455, 413 ppm. Which value deserves investigation as a possible anomaly?",["455 ppm","410 ppm","412 ppm","413 ppm"],0,"455 is far from the cluster of the other readings.","Find the value that does not fit the local pattern."],
+["sound comparison","Published sound reduction is 30 dB, while a classroom test gives 24 dB. What is the numerical difference?",["6 dB","54 dB","25% dB","0.8 dB"],0,"30 − 24 = 6 dB.","Subtract experimental from published."],
+["published data","A classroom result differs from a published laboratory value. Which is the best first response?",["Compare materials, setup, measurement method and uncertainty before judging the difference","Assume the published value is always correct","Assume the classroom result is always wrong","Average the two values without checking conditions"],0,"Differences can arise from conditions, methods or materials; comparability must be established first.","Ask whether the tests were actually equivalent."],
+["sound variables","Which statement about sound insulation is scientifically safest?",["Performance can depend on material properties, thickness, frequency and installation","Thicker material always blocks every frequency by the same amount","Soft materials always outperform dense materials","Published values are always higher than field values"],0,"Sound transmission depends on several interacting factors, so one-variable rules can overgeneralise.","Avoid universal claims from one property."],
+["heat model","In a simple steady-state conduction model using the same material and temperature difference, heat-transfer rate is inversely proportional to thickness. What happens if thickness doubles?",["The model predicts the rate halves","The rate must double in every real system","The rate becomes zero","The rate is unchanged"],0,"If Q̇ ∝ 1/L under the stated model, doubling L halves the predicted transfer rate.","The condition is important: this is a model-based prediction."],
+["model limits","Why might real insulation data not exactly follow the simple inverse-thickness model?",["Convection, contact gaps, moisture and changing boundary conditions can affect the system","Scientific models must always match perfectly","Thickness has no physical effect","Any difference means conservation of energy fails"],0,"Real systems contain additional processes not included in a simplified model.","Models have assumptions and boundaries."],
+["decay","Which statement best describes radioactive decay?",["Individual decay times are unpredictable, but large populations follow a predictable statistical pattern","Every nucleus decays at the same scheduled time","The population decreases linearly","Decay stops after one half-life"],0,"Radioactive decay is random for individual nuclei but statistically predictable for many nuclei.","Individual random; population predictable."],
+["half life","A radioisotope has a half-life of 10 years. What fraction of the original radioactive nuclei remains after 20 years?",["25%","50%","75%","0%"],0,"Two half-lives pass: 100% → 50% → 25%.","Halve once per half-life."],
+["half life amount","A sample initially contains 80 mg of a radioisotope. How much undecayed radioisotope remains after one half-life?",["40 mg","20 mg","80 mg","0 mg"],0,"After one half-life, half of the original radioactive nuclei remain undecayed.","One half-life = half remains."],
+["decay curve","Why is a radioactive-decay graph curved rather than a straight line?",["A constant fraction, not a constant amount, decays in each half-life interval","The half-life gets longer each time","The instrument changes units","No pattern exists"],0,"Exponential decay removes the same proportion over equal half-life intervals, producing a curve.","Same fraction, shrinking amount."],
+["connect evidence","Dataset A shows heat transfer falls as insulation thickness increases; Dataset B from another method shows the same direction but different values. What is the strongest conclusion?",["The shared trend supports the relationship, while method differences may explain different magnitudes","The datasets contradict because values are not identical","Only Dataset A should be used","Different values prove no relationship exists"],0,"Agreement in pattern across methods can support a relationship even when exact magnitudes differ.","Compare both direction and size." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9i05-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9I05",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
