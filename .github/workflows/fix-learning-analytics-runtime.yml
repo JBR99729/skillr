@@ -1,0 +1,64 @@
+name: Fix learning analytics runtime
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fix-learning-analytics-runtime.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Patch shared quiz runtime
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+
+          const pwaPath = 'pwa-register.js';
+          let pwa = fs.readFileSync(pwaPath, 'utf8');
+          const marker = '  const path = window.location.pathname;\n';
+          const analyticsLoader = `  const path = window.location.pathname;\n\n  // Load the shared learning analytics / question-quality runtime on every standard quiz.\n  // This keeps analytics coverage global without editing hundreds of generated quiz pages.\n  if (/^\\/quiz\\/(?:grade-k|year-\\d+)\\/(?:math|science|english)\\/[^/]+\\/(?:practice|test)\\/?$/i.test(path)) {\n    loadScript(\"/quiz/assets/production-question-ui.js?v=20260820-learning-analytics\");\n  }\n`;
+          if (!pwa.includes('20260820-learning-analytics')) {
+            if (!pwa.includes(marker)) throw new Error('pwa-register insertion marker not found');
+            // loadScript is a function declaration and is hoisted, so it is safe to call here.
+            pwa = pwa.replace(marker, analyticsLoader);
+            fs.writeFileSync(pwaPath, pwa);
+          }
+
+          const uiPath = 'quiz/assets/production-question-ui.js';
+          let ui = fs.readFileSync(uiPath, 'utf8');
+          if (!ui.includes('initProductionQuestionUI')) {
+            const start = '  document.addEventListener("DOMContentLoaded", () => {';
+            const end = '  });\n})();';
+            if (!ui.includes(start)) throw new Error('production UI init start marker not found');
+            if (!ui.endsWith(end)) throw new Error('production UI init end marker not found');
+            ui = ui.replace(start, '  function initProductionQuestionUI() {');
+            ui = ui.slice(0, -end.length) + `  }\n\n  if (document.readyState === \"loading\") {\n    document.addEventListener(\"DOMContentLoaded\", initProductionQuestionUI, { once: true });\n  } else {\n    initProductionQuestionUI();\n  }\n})();`;
+            fs.writeFileSync(uiPath, ui);
+          }
+          NODE
+
+      - name: Verify patch
+        run: |
+          grep -F 'production-question-ui.js?v=20260820-learning-analytics' pwa-register.js
+          grep -F 'initProductionQuestionUI' quiz/assets/production-question-ui.js
+
+      - name: Commit fix
+        run: |
+          if git diff --quiet; then
+            echo 'No changes needed.'
+            exit 0
+          fi
+          git config user.name 'Skillr QA Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add pwa-register.js quiz/assets/production-question-ui.js
+          git commit -m 'Load learning analytics on every quiz'
+          git push origin main
