@@ -1,236 +1,48 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m8n03-p-001",
-    "curriculumCode": "AC9M8N03",
-    "bank": "practice",
-    "skill": "identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
-      "Exact and approximate values are treated as interchangeable",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does\nHint: Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator.",
-    "structuredExplanation": {
-      "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
-      "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n03-p-002",
-    "curriculumCode": "AC9M8N03",
-    "bank": "practice",
-    "skill": "identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The terminating and recurring decimals model is copied without interpretation",
-      "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3\nHint: Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅.",
-    "structuredExplanation": {
-      "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
-      "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n03-p-003",
-    "curriculumCode": "AC9M8N03",
-    "bank": "practice",
-    "skill": "identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does\nHint: Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator.",
-    "structuredExplanation": {
-      "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
-      "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n03-p-004",
-    "curriculumCode": "AC9M8N03",
-    "bank": "practice",
-    "skill": "identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3"
-    ],
-    "correct": 3,
-    "explanation": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3\nHint: Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅.",
-    "structuredExplanation": {
-      "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
-      "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n03-p-005",
-    "curriculumCode": "AC9M8N03",
-    "bank": "practice",
-    "skill": "identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
-    "audioPrompt": "What should you check when using identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
-      "The terminating and recurring decimals model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does\nHint: Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator.",
-    "structuredExplanation": {
-      "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
-      "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n03-p-006",
-    "curriculumCode": "AC9M8N03",
-    "bank": "practice",
-    "skill": "identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
-    "audioPrompt": "What should you check when using identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3\nHint: Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅.",
-    "structuredExplanation": {
-      "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
-      "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n03-p-007",
-    "curriculumCode": "AC9M8N03",
-    "bank": "practice",
-    "skill": "identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement best explains identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
-    "audioPrompt": "Which statement best explains identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exact and approximate values are treated as interchangeable",
-      "The method can be chosen without checking the values or conditions",
-      "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does\nHint: Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator.",
-    "structuredExplanation": {
-      "summary": "identifying when a fraction has a terminating decimal expansion from the prime factorisation of its denominator; for example, \\frac7{24}\\;=\\;0.291\\overset\\_6 does not have a terminating decimal expansion, while \\frac7{25}\\;=\\;0.28 does",
-      "hint": "Identify when a fraction has a terminating decimal expansion from the prime factorisation of its denominator."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8n03-p-008",
-    "curriculumCode": "AC9M8N03",
-    "bank": "practice",
-    "skill": "identify terminating recurring and non terminating decimals and choosing their appropriate representations such as 1 3 is represented as 0 3",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement best explains identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
-    "audioPrompt": "Which statement best explains identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The terminating and recurring decimals model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3"
-    ],
-    "correct": 3,
-    "explanation": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3\nHint: Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅.",
-    "structuredExplanation": {
-      "summary": "identifying terminating, recurring and non-terminating decimals and choosing their appropriate representations such as \\frac13 is represented as 0.\\overset\\_3",
-      "hint": "Identify terminating, recurring and non-terminating decimals and choosing their appropriate representations such as 1/3 is represented as 0.3̅."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw = [
+  {n:1,s:"Core decimal types",q:"Which decimal is terminating?",a:["0.25","0.333…","0.666…","0.121212…"],c:0,e:"0.25 is terminating because it ends after a finite number of decimal places."},
+  {n:2,s:"Core decimal types",q:"Which decimal is recurring?",a:["0.5","0.125","0.777…","0.01"],c:2,e:"0.777… is recurring because the digit 7 repeats forever."},
+  {n:3,s:"Core decimal types",q:"Which value is non-terminating and non-recurring?",a:["0.3","0.333…","π","0.125"],c:2,e:"π is irrational, so its decimal expansion is non-terminating and non-recurring."},
+  {n:4,s:"Core decimal types",q:"Which is a recurring decimal?",a:["0.4","0.75","0.1010010001…","0.818181…"],c:3,e:"0.818181… is recurring because the block 81 repeats."},
+  {n:5,s:"Core decimal types",q:"Which decimal terminates?",a:["0.2","0.222…","0.020202…","0.123123…"],c:0,e:"0.2 terminates because it has one decimal place."},
+  {n:6,s:"Denominator prime factors",q:"Which denominator gives a terminating decimal when the fraction is in simplest form?",a:["3","6","8","12"],c:2,e:"A denominator with only factors 2 and/or 5 gives a terminating decimal. 8 = 2³."},
+  {n:7,s:"Denominator prime factors",q:"Which denominator gives a recurring decimal when the fraction is in simplest form?",a:["4","5","25","7"],c:3,e:"7 has a prime factor other than 2 or 5, so the decimal recurs."},
+  {n:8,s:"Denominator prime factors",q:"Which fraction has a terminating decimal?",a:["7/24","7/25","7/12","7/18"],c:1,e:"25 = 5², so 7/25 has a terminating decimal."},
+  {n:9,s:"Denominator prime factors",q:"The prime factorisation of 24 is 2³ × 3. Why does 7/24 not terminate?",a:["Too many 2s","Too many 7s","The denominator has a factor 3","The denominator is even"],c:2,e:"A simplified denominator must have only 2s and/or 5s to terminate. The factor 3 makes 7/24 recurring."},
+  {n:10,s:"Denominator prime factors",q:"Which denominator leads to a terminating decimal when the fraction is in simplest form?",a:["15","20","21","27"],c:1,e:"20 = 2² × 5, so it produces a terminating decimal."},
+  {n:11,s:"Denominator prime factors",q:"Which fraction terminates?",a:["3/40","3/30","3/45","3/27"],c:0,e:"40 = 2³ × 5, so 3/40 terminates."},
+  {n:12,s:"Denominator prime factors",q:"Which fraction recurs?",a:["5/16","7/20","11/14","9/32"],c:2,e:"14 = 2 × 7. The factor 7 means 11/14 has a recurring decimal."},
+  {n:13,s:"Denominator prime factors",q:"Which denominator produces a recurring decimal when the fraction is in simplest form?",a:["2","4","5","9"],c:3,e:"9 = 3², and the factor 3 causes a recurring decimal."},
+  {n:14,s:"Denominator prime factors",q:"Which fraction terminates?",a:["1/6","1/8","1/9","1/11"],c:1,e:"8 = 2³, so 1/8 = 0.125 terminates."},
+  {n:15,s:"Denominator prime factors",q:"Which denominator gives a terminating decimal when the fraction is in simplest form?",a:["50","18","27","14"],c:0,e:"50 = 2 × 5², so it gives a terminating decimal."},
+  {n:16,s:"Identifying decimal types",q:"0.125 is:",a:["Terminating","Recurring","Non-terminating","Irrational"],c:0,e:"0.125 ends after three decimal places, so it is terminating."},
+  {n:17,s:"Identifying decimal types",q:"0.333… is:",a:["Terminating","Recurring","Non-terminating non-recurring","Whole number"],c:1,e:"0.333… repeats the digit 3 forever, so it is recurring."},
+  {n:18,s:"Identifying decimal types",q:"0.1010010001… is:",a:["Terminating","Recurring","Non-terminating non-recurring","Whole number"],c:2,e:"The decimal continues but no fixed block repeats, so it is non-terminating and non-recurring."},
+  {n:19,s:"Identifying decimal types",q:"0.142857142857… is:",a:["Terminating","Recurring","Non-terminating non-recurring","Whole number"],c:1,e:"The block 142857 repeats, so this decimal is recurring."},
+  {n:20,s:"Identifying decimal types",q:"Which is recurring?",a:["0.5","0.75","0.818181…","0.125"],c:2,e:"0.818181… has the repeating block 81."},
+  {n:21,s:"Identifying decimal types",q:"Which is non-terminating and non-recurring?",a:["√2","0.25","0.333…","0.666…"],c:0,e:"√2 is irrational, so its decimal expansion is non-terminating and non-recurring."},
+  {n:22,s:"Identifying decimal types",q:"Which is terminating?",a:["0.4","0.444…","0.040404…","0.121212…"],c:0,e:"0.4 stops after one decimal place."},
+  {n:23,s:"Identifying decimal types",q:"Which is recurring?",a:["0.2","0.125","0.777…","0.01"],c:2,e:"0.777… repeats the digit 7 forever."},
+  {n:24,s:"Identifying decimal types",q:"Which is non-terminating and non-recurring?",a:["0.3","0.333…","π","0.125"],c:2,e:"π is irrational, so it does not terminate or repeat."}
 ];
+window.skillrPracticeQuestions = raw.map((item) => ({
+  id: `ac9m8n03-p-${String(item.n).padStart(3, "0")}`,
+  curriculumCode: "AC9M8N03",
+  bank: "practice",
+  section: item.s,
+  sourceNumber: item.n,
+  skill: item.s,
+  printable: true,
+  type: "single",
+  question: item.q,
+  audioPrompt: item.q,
+  visual: "",
+  visualHtml: "",
+  visualMeta: { type: "none", alt_text: "" },
+  answers: item.a,
+  correct: item.c,
+  explanation: item.e,
+  structuredExplanation: { summary: item.e, hint: "Check whether the decimal ends, repeats a fixed pattern, or continues without repetition." },
+  qualitySchema: "production-v1"
+}));
 window.quizQuestions = window.skillrPracticeQuestions;
