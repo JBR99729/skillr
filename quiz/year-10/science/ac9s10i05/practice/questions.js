@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s10i05-p-001",
-    "curriculumCode": "AC9S10I05",
-    "bank": "practice",
-    "skill": "use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence",
-      "Different sources can be averaged immediately",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence\nHint: Use similar trends and patterns in data from different sources to make the role of source A visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence",
-      "hint": "Use similar trends and patterns in data from different sources to make the role of source A visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i05-p-002",
-    "curriculumCode": "AC9S10I05",
-    "bank": "practice",
-    "skill": "use data regarding the distribution of species in time to make the role of source b visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use data regarding the distribution of species in time to make the role of source b visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use data regarding the distribution of species in time to make the role of source b visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "An anomaly invalidates the whole data set",
-      "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms\nHint: Use data regarding the distribution of species in time to make the role of source B visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms",
-      "hint": "Use data regarding the distribution of species in time to make the role of source B visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i05-p-003",
-    "curriculumCode": "AC9S10I05",
-    "bank": "practice",
-    "skill": "use relationships between variables using spreadsheets databases tables charts graphs to make the role of shared pattern visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use relationships between variables using spreadsheets databases tables charts graphs to make the role of shared pattern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use relationships between variables using spreadsheets databases tables charts graphs to make the role of shared pattern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Different sources can be averaged immediately",
-      "The method can be chosen without checking the values or conditions",
-      "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change\nHint: Use relationships between variables using spreadsheets, databases, tables, charts, graphs to make the role of shared pattern visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change",
-      "hint": "Use relationships between variables using spreadsheets, databases, tables, charts, graphs to make the role of shared pattern visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i05-p-004",
-    "curriculumCode": "AC9S10I05",
-    "bank": "practice",
-    "skill": "use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "An anomaly invalidates the whole data set",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships"
-    ],
-    "correct": 3,
-    "explanation": "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships\nHint: Use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "representing speed and acceleration data from investigations or simulations in tables and graphs and comparing how these facilitate the identification of relationships",
-      "hint": "Use representing speed and acceleration data from investigations or simulations to make the role of anomaly visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i05-p-005",
-    "curriculumCode": "AC9S10I05",
-    "bank": "practice",
-    "skill": "use how different interpretations can be made from data that to make the role of model based explanation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use how different interpretations can be made from data that to make the role of model based explanation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use how different interpretations can be made from data that to make the role of model based explanation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis",
-      "Different sources can be averaged immediately",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis\nHint: Use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring how different interpretations can be made from data that is organised or processed in different ways, and the implications of this for data analysis",
-      "hint": "Use how different interpretations can be made from data that to make the role of model-based explanation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i05-p-006",
-    "curriculumCode": "AC9S10I05",
-    "bank": "practice",
-    "skill": "use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use similar trends and patterns in data from different sources to make the role of source a visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "An anomaly invalidates the whole data set",
-      "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence\nHint: Use similar trends and patterns in data from different sources to make the role of source A visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying similar trends and patterns in data from different sources such as homologous structures and fossil evidence",
-      "hint": "Use similar trends and patterns in data from different sources to make the role of source A visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i05-p-007",
-    "curriculumCode": "AC9S10I05",
-    "bank": "practice",
-    "skill": "use data regarding the distribution of species in time to make the role of source b visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use data regarding the distribution of species in time to make the role of source b visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use data regarding the distribution of species in time to make the role of source b visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Different sources can be averaged immediately",
-      "The method can be chosen without checking the values or conditions",
-      "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms\nHint: Use data regarding the distribution of species in time to make the role of source B visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing data regarding the distribution of species in time and space to identify patterns and relationships between organisms",
-      "hint": "Use data regarding the distribution of species in time to make the role of source B visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s10i05-p-008",
-    "curriculumCode": "AC9S10I05",
-    "bank": "practice",
-    "skill": "use relationships between variables using spreadsheets databases tables charts graphs to make the role of shared pattern visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 10 student is investigating use relationships between variables using spreadsheets databases tables charts graphs to make the role of shared pattern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 10 student is investigating use relationships between variables using spreadsheets databases tables charts graphs to make the role of shared pattern visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "An anomaly invalidates the whole data set",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change"
-    ],
-    "correct": 3,
-    "explanation": "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change\nHint: Use relationships between variables using spreadsheets, databases, tables, charts, graphs to make the role of shared pattern visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring relationships between variables using spreadsheets, databases, tables, charts, graphs and statistics to make reasoned predictions about global climate change",
-      "hint": "Use relationships between variables using spreadsheets, databases, tables, charts, graphs to make the role of shared pattern visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["homology","Human, whale and bat forelimbs contain the same basic sequence of bones but differ greatly in shape and function. What does this pattern best support?",["Common ancestry with modification over time","Identical lifestyles","No evolutionary relationship","Independent origin of every limb bone"],0,"A shared underlying anatomical plan with different functions is evidence consistent with homologous structures and common ancestry.","Same structural plan, different functions."],
+["fossil sequence","In an undisturbed sedimentary sequence, fossils of Species A occur mainly in deeper layers than fossils of Species B. What is the safest inference?",["Species A fossils are generally older than Species B fossils","Species A is definitely the ancestor of Species B","Species B caused Species A to become extinct","Both species lived at exactly the same time"],0,"In undisturbed strata, deeper layers are generally older, but ancestry requires additional evidence.","Age order is not the same as direct ancestry."],
+["fossil anomaly","Fossil ages from one layer are 201, 199, 198 and 51 million years. What should scientists do about the 51-million-year result?",["Check dating, sample context and possible disturbance before deciding whether it is erroneous or informative","Delete it automatically","Average all four values and ignore the difference","Assume the fossil record is random"],0,"A large anomaly should be investigated rather than automatically removed.","Investigate anomalies first."],
+["biogeography","Closely related fossil species are found in matching-aged rocks in South America and Africa. Which broader explanation could this support when combined with geological evidence?",["Past continental connection and plate movement","Recent migration across the Atlantic","No relationship between continents","Identical modern climates"],0,"Matching fossils on now-separated continents can contribute to evidence for past continental connection.","Connect fossil distribution with geology."],
+["evolution data","A fossil series shows a gradual change in one trait through several dated layers. What does the data directly show?",["A temporal trend in the measured trait","That evolution always occurs gradually","That one species definitely transformed into the next","That environmental change caused the trait change"],0,"The data show a trend; stronger evolutionary and causal claims require additional evidence.","Describe before explaining."],
+["species distribution","A species is recorded at 18 of 20 river-edge sites but only 2 of 20 dry inland sites. What is the strongest conclusion?",["Its occurrence is associated with river-edge habitat in this survey","River habitat is proven to be its only possible habitat","The species cannot survive inland","The two inland records must be errors"],0,"The data support an association between occurrence and habitat, not an absolute causal rule.","Association, not certainty."],
+["distribution confounders","A lizard is found only at high-altitude sites, which are also cooler and wetter. Why is altitude alone not yet established as the cause?",["Altitude is confounded with temperature and rainfall in the sampled sites","Altitude cannot affect species distributions","All mountain species are migratory","The sample contains too many variables to analyse"],0,"Several environmental variables change together, so the observed relationship cannot be attributed to altitude alone.","Look for variables that co-vary."],
+["species overlap","Two species occur together at 80% of surveyed sites. What can this pattern alone establish?",["Their distributions are associated, but the ecological mechanism is not yet known","They are definitely in symbiosis","They are definitely competing","One species causes the other to occur"],0,"Co-occurrence can suggest a relationship but does not identify its mechanism.","Co-occurrence ≠ mechanism."],
+["temperature distribution","A species is absent from all surveyed sites with mean summer temperature above 30 °C. What is a reasonable next step?",["Test whether temperature predicts occurrence while accounting for other habitat variables","Conclude 30 °C is a universal lethal threshold","Ignore the pattern because absence data are useless","Assume sampling above 30 °C was unnecessary"],0,"The pattern motivates a hypothesis that should be tested with relevant controls and broader evidence.","Use the pattern to generate a test."],
+["migration","Tracking data show a bird population shifts north each summer and returns south each winter for six years. What pattern is best supported?",["Repeated seasonal migration","Random movement","Permanent range expansion","No relationship with time"],0,"A repeated annual movement pattern is consistent with seasonal migration.","Look for repetition through time."],
+["climate trend","Atmospheric CO₂ measurements are 350, 370, 390 and 420 ppm at successive time points. What trend is present?",["Increasing","Decreasing","Constant","Cyclic"],0,"Each successive measurement is higher than the previous one.","Compare direction through time."],
+["climate correlation","Across several decades, atmospheric CO₂ and global temperature both increase. What does this dataset alone show?",["A positive association between the variables","CO₂ is proven to be the only cause of warming","Temperature must always rise whenever CO₂ rises","No relationship"],0,"The variables move in the same direction, showing positive association; causation requires additional evidence.","Correlation is not causation."],
+["multiple datasets","Satellite and ocean-buoy records independently show a warming trend over the same period. Why is this useful?",["Independent datasets showing a consistent pattern strengthen confidence that the trend is not an artefact of one measurement system","It proves all climate models are correct","It removes all uncertainty","It means one dataset can be discarded"],0,"Agreement across independent methods can strengthen confidence in a broad pattern.","Independent agreement matters."],
+["climate anomaly","Annual temperature anomalies are 0.1, 0.2, 0.3, 2.0 and 0.4 °C in a short sequence. What is the best treatment of 2.0 °C?",["Investigate whether it reflects a real event, data error or changed method before interpreting it","Automatically delete it","Replace it with 0.35","Conclude the long-term trend is false"],0,"Anomalies require context and checking; they can be meaningful or erroneous.","Investigate, don't erase."],
+["sea level","A sea-level record rises overall but contains several short-term decreases. What is the best interpretation?",["Short-term variation can occur within a longer-term upward trend","Any decrease disproves the trend","Sea level must rise every year for a trend to exist","The data are contradictory and unusable"],0,"Long-term trends can coexist with short-term fluctuations.","Trend ≠ every point moves the same way."],
+["ice relationship","Across annual observations, ice cover tends to decrease as temperature increases. This is best described as:",["A negative association","A positive association","No relationship","A direct proof that temperature is the only cause"],0,"One variable tends to fall as the other rises, giving a negative association.","Opposite directions = negative association."],
+["motion","A trolley's speed is 0, 2, 4 and 6 m/s at 0, 1, 2 and 3 s. What does this indicate?",["Constant acceleration of 2 m/s²","Constant speed of 2 m/s","Increasing acceleration","Zero acceleration"],0,"Speed increases by 2 m/s each second, so acceleration is constant at 2 m/s².","Change in speed per unit time."],
+["acceleration","Speed changes from 5 m/s at 1 s to 15 m/s at 2 s. What is the average acceleration over that interval?",["10 m/s²","5 m/s²","15 m/s²","20 m/s²"],0,"Acceleration = change in speed / change in time = (15−5)/1 = 10 m/s².","Δv/Δt."],
+["motion anomaly","Measured speeds are 5, 10, 15, 100 and 20 m/s at equal time intervals. Why is 100 m/s noteworthy?",["It departs strongly from the surrounding pattern and should be checked","It proves acceleration is constant","It should automatically replace 20 m/s","It means all earlier data are invalid"],0,"A point far from the surrounding trend is anomalous and warrants investigation.","Look for departure from pattern."],
+["graph vs table","Why can a graph make a speed-time pattern easier to recognise than a table?",["Visual slope and shape make trends and changes easier to see","Graphs are always more accurate than tables","Tables cannot contain exact data","Graphs automatically remove anomalies"],0,"Graphs emphasise pattern and shape, whereas tables preserve exact numerical entries.","Different representations reveal different features."],
+["prediction","A trolley's speed increases by 3 m/s each second from rest. What speed is expected at 5 s?",["15 m/s","12 m/s","18 m/s","3 m/s"],0,"With a constant increase of 3 m/s each second, speed after 5 s is 15 m/s.","3 × 5."],
+["representation","What is the main advantage of a table compared with a graph?",["It can show exact recorded values clearly","It always reveals trends better","It removes anomalies","It proves relationships"],0,"Tables are particularly useful when exact values must be read or checked.","Exact values → table."],
+["representation","What is the main advantage of a graph compared with a table for many datasets?",["It can make patterns, trends and relationships visually apparent","It contains more accurate data","It prevents misleading scales","It removes uncertainty"],0,"Graphs often make broad patterns easier to recognise quickly.","Pattern visibility → graph."],
+["evidence integration","Which conclusion best reflects AC9S10I05 reasoning?",["A conclusion should connect patterns across relevant datasets while acknowledging anomalies and limits","Use whichever single dataset most strongly supports the expected result","Ignore anomalies because trends are more important","Treat every association as causal"],0,"Strong analysis connects multiple evidence sources and explains both patterns and exceptions.","Connect evidence, don't cherry-pick."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s10i05-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S10I05",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
