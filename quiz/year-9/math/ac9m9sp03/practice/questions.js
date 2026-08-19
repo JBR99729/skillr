@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m9sp03-p-001",
-    "curriculumCode": "AC9M9SP03",
-    "bank": "practice",
-    "skill": "create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples\nHint: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.",
-    "structuredExplanation": {
-      "summary": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
-      "hint": "Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9sp03-p-002",
-    "curriculumCode": "AC9M9SP03",
-    "bank": "practice",
-    "skill": "create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The geometric algorithms model is copied without interpretation",
-      "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts\nHint: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts.",
-    "structuredExplanation": {
-      "summary": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
-      "hint": "Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9sp03-p-003",
-    "curriculumCode": "AC9M9SP03",
-    "bank": "practice",
-    "skill": "develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases\nHint: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.",
-    "structuredExplanation": {
-      "summary": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
-      "hint": "Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9sp03-p-004",
-    "curriculumCode": "AC9M9SP03",
-    "bank": "practice",
-    "skill": "create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples"
-    ],
-    "correct": 3,
-    "explanation": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples\nHint: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.",
-    "structuredExplanation": {
-      "summary": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
-      "hint": "Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9sp03-p-005",
-    "curriculumCode": "AC9M9SP03",
-    "bank": "practice",
-    "skill": "create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
-      "The geometric algorithms model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts\nHint: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts.",
-    "structuredExplanation": {
-      "summary": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
-      "hint": "Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9sp03-p-006",
-    "curriculumCode": "AC9M9SP03",
-    "bank": "practice",
-    "skill": "develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving develop an algorithm for an animation of a geometric construction or a visual proof evaluating the algorithm using test cases. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases\nHint: Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases.",
-    "structuredExplanation": {
-      "summary": "developing an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases",
-      "hint": "Develop an algorithm for an animation of a geometric construction, or a visual proof, evaluating the algorithm using test cases."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9sp03-p-007",
-    "curriculumCode": "AC9M9SP03",
-    "bank": "practice",
-    "skill": "create an algorithm using pseudocode or flow charts to apply the triangle inequality or an algorithm to generate pythagorean triples",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
-    "audioPrompt": "What should you check when using create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate pythagorean triples?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples\nHint: Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples.",
-    "structuredExplanation": {
-      "summary": "creating an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples",
-      "hint": "Create an algorithm using pseudocode or flow charts to apply the triangle inequality, or an algorithm to generate Pythagorean triples."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9sp03-p-008",
-    "curriculumCode": "AC9M9SP03",
-    "bank": "practice",
-    "skill": "create and testing algorithms designed to construct or bisect angles using pseudocode or flow charts",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
-    "audioPrompt": "What should you check when using create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The geometric algorithms model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts"
-    ],
-    "correct": 3,
-    "explanation": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts\nHint: Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts.",
-    "structuredExplanation": {
-      "summary": "creating and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts",
-      "hint": "Create and testing algorithms designed to construct or bisect angles, using pseudocode or flow charts."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["triangle inequality","Which condition correctly tests whether three positive lengths a, b and c can form a non-degenerate triangle?",["a+b>c, a+c>b and b+c>a","a+b=c","a²+b²=c²","a=b=c"],0,"All three triangle inequalities must hold for a non-degenerate triangle.","Every side must be shorter than the sum of the other two."],
+["triangle test","Lengths 3, 4 and 9 are entered into a triangle-validation algorithm. What should it return?",["Not a triangle","A right triangle","A valid triangle","An isosceles triangle"],0,"Because 3+4=7<9, the triangle inequality fails.","Test the two shorter sides against the longest."],
+["boundary case","Lengths 5, 7 and 12 are entered into a triangle test. What should happen?",["Reject them because 5+7=12 gives a degenerate case","Accept them as a scalene triangle","Accept them as a right triangle","Reject them only if a side is negative"],0,"A strict inequality is required. Equality produces a straight-line degenerate case, not a triangle.","The test uses >, not ≥."],
+["algorithm logic","Why is checking only a+b>c unsafe if the side lengths are not first sorted?",["Another side might actually be the longest and fail its own inequality","The triangle inequality never uses addition","It works only for right triangles","Sorting changes the side lengths"],0,"Without knowing which side is longest, any of the three inequalities could be the critical one.","Either check all three inequalities or identify the longest side first."],
+["algorithm refinement","After sorting side lengths so x≤y≤z, which single test is sufficient for positive lengths?",["x+y>z","x+z>y","y+z>x","x²+y²=z²"],0,"For positive sorted lengths, the only potentially failing triangle inequality is that the two shorter sides must sum to more than the longest.","Use the sorted order."],
+["pseudocode","Which pseudocode fragment correctly validates an unsorted triple a,b,c?",["IF a+b>c AND a+c>b AND b+c>a THEN PRINT valid ELSE PRINT invalid","IF a+b>c OR a+c>b OR b+c>a THEN PRINT valid","IF a²+b²=c² THEN PRINT valid ELSE PRINT invalid","PRINT valid for all positive inputs"],0,"All three inequalities must hold, so the conditions must be joined by AND.","All three conditions are required."],
+["test cases","Which pair of test cases best checks both an ordinary valid case and the equality boundary of a triangle algorithm?",["(4,5,6) and (5,7,12)","(3,4,5) and (6,8,10)","(5,5,5) and (6,6,6)","(7,8,9) and (8,9,10)"],0,"A strong test set includes a typical valid case and a boundary case where the algorithm must reject equality.","Test normal behaviour and an edge case."],
+["pythagorean triples","Which formula is Euclid's standard generator for a Pythagorean triple when integers m>n>0 are used?",["m²−n², 2mn, m²+n²","m+n, m−n, mn","m²+n², 2m+2n, m²−n²","m, n, m+n"],0,"Euclid's formula produces integer side lengths satisfying a²+b²=c².","The hypotenuse is m²+n²."],
+["pythagorean triples","Using m=2 and n=1, what triple is generated?",["3,4,5","5,12,13","7,24,25","8,15,17"],0,"m²−n²=3, 2mn=4 and m²+n²=5.","Substitute m=2, n=1 into all three formulas."],
+["pythagorean triples","Using m=3 and n=2, what triple is generated?",["5,12,13","7,24,25","8,15,17","9,40,41"],0,"m²−n²=5, 2mn=12 and m²+n²=13.","Calculate each expression separately."],
+["verification","What is the best final step in an algorithm that generates a proposed Pythagorean triple (a,b,c)?",["Verify that a²+b²=c²","Check that a+b=c","Check that all three sides are equal","Check that c is even"],0,"Substituting the generated values into the defining Pythagorean relationship verifies the output.","Verify the property the algorithm claims to generate."],
+["generator limits","Which statement about Euclid's formula with arbitrary integers m>n>0 is correct?",["It generates Pythagorean triples, though some outputs may be non-primitive","It generates every possible triangle","Every output is a primitive triple","It works only when m=n"],0,"The formula generates Pythagorean triples, but additional number-theory conditions are needed to guarantee primitiveness.","Triple does not automatically mean primitive triple."],
+["angle bisector","In a compass-and-straightedge construction of an angle bisector, why is an arc first drawn from the angle's vertex?",["To mark points on both rays at equal distance from the vertex","To measure the angle numerically","To make the construction decorative","To create a perpendicular line automatically"],0,"The first arc creates two points that are equidistant from the vertex, setting up the equal-distance construction.","Equal radii create equal distances."],
+["angle bisector","After equal-radius arcs from points on the two rays intersect, what should be drawn next?",["A ray from the original vertex through the new arc intersection","A line joining the two original ray endpoints only","A circle centred at the intersection","A line parallel to one side of the angle"],0,"The ray through the arc intersection is equidistant from the two sides and bisects the angle.","Connect the vertex to the constructed intersection."],
+["construction reasoning","Why must the two second-stage arcs in an angle-bisector construction use the same radius?",["So their intersection is equidistant from the two points on the angle rays","So the original angle becomes 90°","So the construction measures the angle in degrees","So the two rays become parallel"],0,"Equal-radius arcs create a point that is equally distant from the two marked points, supporting the bisector construction.","Equal radii preserve the symmetry."],
+["construction test","An algorithm claims to bisect a 74° angle. Which output is the best test of correctness?",["Two angles of 37°","Angles of 30° and 44°","Angles of 36° and 38°","Any two angles that total 74°"],0,"A bisector divides the original angle into two equal parts: 74÷2=37.","Bisector means equal halves."],
+["perpendicular construction","Which geometric object is produced by the perpendicular-bisector construction of a segment AB?",["A line through the midpoint of AB at 90° to AB","A ray that halves an angle at A","A line parallel to AB","A circle with AB as radius"],0,"The perpendicular bisector passes through the midpoint and is perpendicular to the segment.","It satisfies both midpoint and 90° conditions."],
+["60 degree construction","Why can an equilateral-triangle construction be used to construct a 60° angle?",["Every angle in an equilateral triangle is 60°","Its diagonals are perpendicular","Its sides form a Pythagorean triple","Every triangle has one 60° angle"],0,"An equilateral triangle has three equal angles summing to 180°, so each is 60°.","Equal angles share 180° equally."],
+["parallel construction","A construction creates a second line so that a transversal forms equal corresponding angles with the original line. What theorem justifies concluding the lines are parallel?",["Converse of the corresponding-angles result","Pythagorean theorem","Triangle inequality","Angle-sum theorem only"],0,"If corresponding angles are equal, the converse theorem allows the lines to be identified as parallel.","Use the converse relationship."],
+["algorithm design","What makes a geometric construction algorithm reproducible by another student?",["Explicit ordered steps with enough geometric conditions to remove ambiguity","A sketch of only the final answer","Instructions such as 'draw it accurately'","A long explanation with no sequence"],0,"A reproducible algorithm must specify what to construct and in what order so another person can follow it consistently.","Clear sequence + precise conditions."],
+["animation","Why should an animation of a geometric construction show intermediate steps rather than only the final figure?",["The sequence itself is part of the algorithm and reveals why the construction works","The final figure is never useful","Animations cannot show labels","Intermediate steps guarantee efficiency"],0,"The construction process provides the logical evidence; showing only the result hides the algorithm.","The method matters, not just the output."],
+["visual proof","A visual proof of Pythagoras rearranges shapes while preserving total area. What relationship should the algorithm make clear?",["The area represented by a²+b² equals the area represented by c²","The triangle inequality becomes equality","All right triangles are congruent","The hypotenuse is always twice a leg"],0,"A rearrangement proof must preserve area and make the equality a²+b²=c² visible.","Track invariant total area."],
+["evaluation","Which is the best way to evaluate a geometric algorithm?",["Run typical, boundary and challenging test cases and check each output against the relevant theorem","Check only one example that is known to work","Judge it by how short the pseudocode looks","Use colour and animation quality as the main criteria"],0,"A strong evaluation tests correctness across varied cases and compares outputs with mathematical requirements.","One successful case is not enough."],
+["refinement","A construction algorithm repeats the same unnecessary drawing step three times. Which refinement is best?",["Remove the redundant repetitions while preserving the mathematical justification","Remove all verification steps","Replace the construction with a guess","Add more decorative steps"],0,"Refinement should improve efficiency or clarity without changing correctness.","Simplify without losing validity."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9m9sp03-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M9SP03",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
