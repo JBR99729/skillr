@@ -1,5 +1,13 @@
 "use strict";
 (() => {
+  function ensureQuestionFeedbackUi(){
+    if(document.querySelector('script[src^="/quiz/assets/production-question-ui.js"]')) return;
+    const script=document.createElement("script");
+    script.src="/quiz/assets/production-question-ui.js?v=4";
+    script.defer=true;
+    document.head.appendChild(script);
+  }
+
   function el(tag,cls,text){
     const x=document.createElement(tag);
     if(cls)x.className=cls;
@@ -8,6 +16,7 @@
   }
 
   function render(){
+    ensureQuestionFeedbackUi();
     const meta=window.skillrDailyDrillMeta, s=window.skillrDailySupportActive;
     if(!meta||!s) return;
     const host=document.getElementById("quickSupportHost");
