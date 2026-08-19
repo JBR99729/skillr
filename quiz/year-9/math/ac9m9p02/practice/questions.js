@@ -1,236 +1,30 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m9p02-p-001",
-    "curriculumCode": "AC9M9P02",
-    "bank": "practice",
-    "skill": "understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions\nHint: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions.",
-    "structuredExplanation": {
-      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
-      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9p02-p-002",
-    "curriculumCode": "AC9M9P02",
-    "bank": "practice",
-    "skill": "use venn diagrams or two way tables to estimate frequencies of events involving and or questions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The relative frequency and event language model is copied without interpretation",
-      "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions\nHint: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions.",
-    "structuredExplanation": {
-      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
-      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9p02-p-003",
-    "curriculumCode": "AC9M9P02",
-    "bank": "practice",
-    "skill": "designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities\nHint: designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities.",
-    "structuredExplanation": {
-      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
-      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9p02-p-004",
-    "curriculumCode": "AC9M9P02",
-    "bank": "practice",
-    "skill": "understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions"
-    ],
-    "correct": 3,
-    "explanation": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions\nHint: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions.",
-    "structuredExplanation": {
-      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
-      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9p02-p-005",
-    "curriculumCode": "AC9M9P02",
-    "bank": "practice",
-    "skill": "use venn diagrams or two way tables to estimate frequencies of events involving and or questions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
-      "The relative frequency and event language model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions\nHint: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions.",
-    "structuredExplanation": {
-      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
-      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9p02-p-006",
-    "curriculumCode": "AC9M9P02",
-    "bank": "practice",
-    "skill": "designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities\nHint: designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities.",
-    "structuredExplanation": {
-      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
-      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9p02-p-007",
-    "curriculumCode": "AC9M9P02",
-    "bank": "practice",
-    "skill": "understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
-    "audioPrompt": "What should you check when using understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The sample space or dependency changes without being noticed",
-      "The method can be chosen without checking the values or conditions",
-      "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions\nHint: Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions.",
-    "structuredExplanation": {
-      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
-      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9p02-p-008",
-    "curriculumCode": "AC9M9P02",
-    "bank": "practice",
-    "skill": "use venn diagrams or two way tables to estimate frequencies of events involving and or questions",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
-    "audioPrompt": "What should you check when using use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The relative frequency and event language model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions"
-    ],
-    "correct": 3,
-    "explanation": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions\nHint: Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions.",
-    "structuredExplanation": {
-      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
-      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+[1,"Section A — Relative frequencies and long-run experiments","Relative frequency","A coin is tossed 500 times and lands Heads 260 times. What is the relative frequency of Heads?",["0.52","0.50","0.26","0.60"],0,"Relative frequency = 260 ÷ 500 = 0.52.","Divide the number of times the event occurred by the total number of trials."],
+[2,"Section A — Relative frequencies and long-run experiments","Relative frequency as a fraction","A die is rolled 600 times and a 6 appears 110 times. What is the relative frequency of rolling a 6?",["110/600","1/6","0.5","0.2"],0,"Relative frequency = successful trials ÷ total trials = 110/600.","Use the experimental count, not the theoretical probability, when the question asks for relative frequency."],
+[3,"Section A — Relative frequencies and long-run experiments","Estimated probability","A spinner with 4 equal colours is spun 800 times. Blue occurs 190 times. What is the estimated probability of Blue?",["0.2375","0.25","0.19","0.5"],0,"Estimated probability = 190 ÷ 800 = 0.2375.","Long-run experimental probability comes from observed frequency divided by total trials."],
+[4,"Section A — Relative frequencies and long-run experiments","Survey relative frequency","A survey of 1,000 students finds 300 prefer maths. What is the relative frequency of preferring maths?",["0.3","0.7","0.5","0.03"],0,"Relative frequency = 300 ÷ 1000 = 0.3.","Convert the count to a proportion of the total."],
+[5,"Section A — Relative frequencies and long-run experiments","Long-run estimate","In a long-run experiment, Event A occurs 420 times out of 1,000 trials. What is the estimated probability of A?",["0.42","0.58","0.21","0.84"],0,"Estimated probability = 420 ÷ 1000 = 0.42.","Relative frequency estimates probability."],
+[6,"Section A — Relative frequencies and long-run experiments","Even-number estimate","A die is rolled 900 times. Even numbers occur 460 times. What is the estimated probability of rolling an even number?",["460/900","1/2","1/3","2/3"],0,"Estimated probability = 460/900. This is close to, but not exactly, the theoretical value 1/2.","Use the experimental data given in the question."],
+[7,"Section A — Relative frequencies and long-run experiments","Decimal estimate","A coin is tossed 1,200 times. Tails occurs 580 times. What is the estimated probability of Tails, rounded to 3 decimal places?",["0.483","0.5","0.58","0.42"],0,"580 ÷ 1200 = 0.4833..., so the estimate is about 0.483.","Round only after dividing."],
+[8,"Section A — Relative frequencies and long-run experiments","OR from experimental counts","A spinner is spun 1,000 times. Red occurs 310 times, Blue 290 times and Green 400 times. What is the estimated probability of Red OR Blue?",["0.60","0.31","0.29","0.40"],0,"Red OR Blue = 310 + 290 = 600 outcomes, so probability = 600/1000 = 0.60.","For non-overlapping outcomes, add the counts."],
+[9,"Section A — Relative frequencies and long-run experiments","AND from overlap","In a long-run experiment, Event A occurs 300 times, Event B occurs 500 times, and both A and B occur 120 times out of 1,000 trials. What is P(A AND B)?",["0.12","0.3","0.5","0.42"],0,"P(A AND B) uses the overlap count: 120/1000 = 0.12.","AND means the overlap of the two events."],
+[10,"Section A — Relative frequencies and long-run experiments","OR with overlap","In a long-run experiment of 1,000 trials, Event A occurs 400 times, Event B occurs 300 times, and the overlap is 80. What expression gives P(A OR B)?",["(400 + 300 − 80)/1000","(400 + 300)/1000","80/1000","1 − 80/1000"],0,"For OR, add A and B then subtract the overlap once: (400 + 300 − 80)/1000.","A OR B is union, so do not double-count the overlap."],
+[11,"Section B — Venn diagrams and two-way tables","Venn probability","In a group of 300 students, 120 study Maths. What is P(Maths)?",["120/300","150/300","40/300","260/300"],0,"P(Maths) = number in Maths ÷ total = 120/300.","Use the total group as the denominator."],
+[12,"Section B — Venn diagrams and two-way tables","Venn probability","In a group of 300 students, 150 study Science. What is P(Science)?",["150/300","120/300","40/300","260/300"],0,"P(Science) = 150/300.","Take the Science count over the total."],
+[13,"Section B — Venn diagrams and two-way tables","Intersection probability","In a group of 300 students, 40 study both Maths and Science. What is P(Maths AND Science)?",["40/300","120/300","150/300","260/300"],0,"P(Maths AND Science) is the overlap: 40/300.","AND means both conditions are true."],
+[14,"Section B — Venn diagrams and two-way tables","Union probability","In a group of 300 students, 120 study Maths, 150 study Science, and 40 study both. What expression gives P(Maths OR Science)?",["(120 + 150 − 40)/300","(120 + 150)/300","40/300","300/300"],0,"Use the union rule: P(Maths OR Science) = (120 + 150 − 40)/300.","Subtract the overlap because it was counted twice."],
+[15,"Section B — Venn diagrams and two-way tables","Two-way table probability","A two-way table has 200 students in total and 120 like sport. What is P(likes sport)?",["120/200","80/200","70/200","50/200"],0,"P(likes sport) = 120/200.","Use the column total over the grand total."],
+[16,"Section B — Venn diagrams and two-way tables","AND from table","A two-way table has 200 students. 50 are girls who like sport. What is P(girl AND likes sport)?",["50/200","70/200","30/200","100/200"],0,"The intersection count is 50, so the probability is 50/200.","Find the cell where both conditions meet."],
+[17,"Section B — Venn diagrams and two-way tables","OR from table","In a two-way table of 200 students, 100 are boys, 120 like sport, and 70 are boys who like sport. What expression gives P(boy OR likes sport)?",["(100 + 120 − 70)/200","120/200","100/200","70/200"],0,"Use P(A OR B) = (A + B − overlap)/total = (100 + 120 − 70)/200.","Subtract the overlap once."],
+[18,"Section B — Venn diagrams and two-way tables","Complement from table","A two-way table has 200 students. 80 do not like sport. What is P(does NOT like sport)?",["80/200","120/200","30/200","50/200"],0,"P(not liking sport) = 80/200.","Use the total count for the not-like-sport column."],
+[19,"Section B — Venn diagrams and two-way tables","OR with table overlap","In a two-way table of 200 students, 100 are girls, 80 do not like sport, and 50 are girls who do not like sport. What expression gives P(girl OR does not like sport)?",["(100 + 80 − 50)/200","100/200","80/200","50/200"],0,"Use union: (100 + 80 − 50)/200.","The overlap is girls who do not like sport."],
+[20,"Section B — Venn diagrams and two-way tables","AND from table","A two-way table has 200 students. 30 are boys who do not like sport. What is P(boy AND does NOT like sport)?",["30/200","50/200","70/200","100/200"],0,"The required cell count is 30, so the probability is 30/200.","AND means the single cell matching both descriptions."],
+[21,"Section C — AND, OR and exclusive OR","AND on a die","A die is rolled once. What is the probability of rolling an even number AND a number greater than 3?",["2/6","1/6","3/6","4/6"],0,"Even numbers greater than 3 are 4 and 6, so the probability is 2/6.","List the outcomes that satisfy both conditions."],
+[22,"Section C — AND, OR and exclusive OR","OR on a die","A die is rolled once. What is the probability of rolling an even number OR a number greater than 3?",["4/6","5/6","3/6","2/6"],0,"Even = {2,4,6}; greater than 3 = {4,5,6}; union = {2,4,5,6}, so probability = 4/6.","OR includes outcomes in either set, but do not double-count overlap."],
+[23,"Section C — AND, OR and exclusive OR","Exclusive OR","A die is rolled once. What is the probability of rolling an even number XOR a number greater than 3, meaning one condition but not both?",["2/6","1/6","3/6","4/6"],0,"Even only is {2}; greater-than-3 only is {5}; XOR outcomes are {2,5}, so probability = 2/6.","Exclusive OR removes outcomes that satisfy both conditions."],
+[24,"Section C — AND, OR and exclusive OR","Union with cards","In a 52-card deck, there are 26 red cards, 12 face cards and 6 red face cards. What expression gives P(red OR face card)?",["(26 + 12 − 6)/52","(26 + 12)/52","6/52","26/52"],0,"Use the union rule: (26 + 12 − 6)/52.","Subtract red face cards because they were counted in both groups."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+function makeQuestion(item){const [n,section,skill,question,answers,correct,explanation,hint]=item;return {id:`ac9m9p02-p-${String(n).padStart(3,"0")}`,curriculumCode:"AC9M9P02",bank:"practice",section,sourceNumber:n,skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation:`${explanation}\nHint: ${hint}`,structuredExplanation:{summary:explanation,hint},qualitySchema:"production-v1"};}
+window.skillrPracticeQuestions=raw.map(makeQuestion);
+window.quizQuestions=window.skillrPracticeQuestions;
