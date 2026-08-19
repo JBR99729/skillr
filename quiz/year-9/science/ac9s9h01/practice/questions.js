@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9h01-p-001",
-    "curriculumCode": "AC9S9H01",
-    "bank": "practice",
-    "skill": "use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating the process of publishing a paper in a scientific journal such as Science , which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers",
-      "Peer review proves a paper is true",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating the process of publishing a paper in a scientific journal such as Science , which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers\nHint: Use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating the process of publishing a paper in a scientific journal such as Science , which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers",
-      "hint": "Use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h01-p-002",
-    "curriculumCode": "AC9S9H01",
-    "bank": "practice",
-    "skill": "use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Consensus is a vote detached from evidence",
-      "investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies\nHint: Use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies",
-      "hint": "Use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h01-p-003",
-    "curriculumCode": "AC9S9H01",
-    "bank": "practice",
-    "skill": "use the work of professor barry marshall and dr robin to make the role of publication visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the work of professor barry marshall and dr robin to make the role of publication visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the work of professor barry marshall and dr robin to make the role of publication visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Peer review proves a paper is true",
-      "The method can be chosen without checking the values or conditions",
-      "exploring why the work of Professor Barry Marshall and Dr Robin Warren related to the cause of peptic ulcers was first rejected for publication then later validated",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "exploring why the work of Professor Barry Marshall and Dr Robin Warren related to the cause of peptic ulcers was first rejected for publication then later validated\nHint: Use the work of Professor Barry Marshall and Dr Robin to make the role of publication visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "exploring why the work of Professor Barry Marshall and Dr Robin Warren related to the cause of peptic ulcers was first rejected for publication then later validated",
-      "hint": "Use the work of Professor Barry Marshall and Dr Robin to make the role of publication visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h01-p-004",
-    "curriculumCode": "AC9S9H01",
-    "bank": "practice",
-    "skill": "use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Consensus is a vote detached from evidence",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining the scientific consensus supporting global warming"
-    ],
-    "correct": 3,
-    "explanation": "examining the scientific consensus supporting global warming\nHint: Use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining the scientific consensus supporting global warming",
-      "hint": "Use the scientific consensus supporting global warming to make the role of peer scrutiny visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h01-p-005",
-    "curriculumCode": "AC9S9H01",
-    "bank": "practice",
-    "skill": "use how jj thomson s discovery of the electron robert millikan s to make the role of replication and refinement visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how jj thomson s discovery of the electron robert millikan s to make the role of replication and refinement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how jj thomson s discovery of the electron robert millikan s to make the role of replication and refinement visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "researching how JJ Thomson’s discovery of the electron, Robert Millikan’s oil drop experiment, and Ernest Rutherford’s gold foil experiment provide consistency of evidence for the particle model of electricity",
-      "Peer review proves a paper is true",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "researching how JJ Thomson’s discovery of the electron, Robert Millikan’s oil drop experiment, and Ernest Rutherford’s gold foil experiment provide consistency of evidence for the particle model of electricity\nHint: Use how JJ Thomson’s discovery of the electron, Robert Millikan’s to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "researching how JJ Thomson’s discovery of the electron, Robert Millikan’s oil drop experiment, and Ernest Rutherford’s gold foil experiment provide consistency of evidence for the particle model of electricity",
-      "hint": "Use how JJ Thomson’s discovery of the electron, Robert Millikan’s to make the role of replication and refinement visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h01-p-006",
-    "curriculumCode": "AC9S9H01",
-    "bank": "practice",
-    "skill": "use how marie and pierre curie s discovery of new elements to make the role of research question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how marie and pierre curie s discovery of new elements to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how marie and pierre curie s discovery of new elements to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Consensus is a vote detached from evidence",
-      "examining how Marie and Pierre Curie’s discovery of new elements was validated",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "examining how Marie and Pierre Curie’s discovery of new elements was validated\nHint: Use how Marie and Pierre Curie’s discovery of new elements to make the role of research question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how Marie and Pierre Curie’s discovery of new elements was validated",
-      "hint": "Use how Marie and Pierre Curie’s discovery of new elements to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h01-p-007",
-    "curriculumCode": "AC9S9H01",
-    "bank": "practice",
-    "skill": "use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Peer review proves a paper is true",
-      "The method can be chosen without checking the values or conditions",
-      "investigating the process of publishing a paper in a scientific journal such as Science , which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating the process of publishing a paper in a scientific journal such as Science , which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers\nHint: Use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating the process of publishing a paper in a scientific journal such as Science , which receives about 12,000 submissions per year, and considering how editors evaluate submitted papers",
-      "hint": "Use the process of publishing a paper in a scientific to make the role of research question visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h01-p-008",
-    "curriculumCode": "AC9S9H01",
-    "bank": "practice",
-    "skill": "use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Consensus is a vote detached from evidence",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies"
-    ],
-    "correct": 3,
-    "explanation": "investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies\nHint: Use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how the publication of data and findings related to the reintroduction of First Nations Australians’ traditional fire regimes has informed more effective fire-reduction strategies and policies",
-      "hint": "Use how the publication of data and findings related to make the role of method and data visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["peer review","What is the main purpose of peer review before publication?",["To have relevant experts critically evaluate methods, reasoning and evidence","To guarantee every conclusion is correct","To make publication immediate","To replace replication after publication"],0,"Peer review is a quality-control step that can identify weaknesses, but it cannot guarantee that a paper is error-free.","Peer review checks; it does not certify truth."],
+["editor screening","Why might an editor reject a paper before external peer review?",["It may be outside the journal's scope or have major quality/relevance problems","Its graphs are not colourful enough","It contains references","Its conclusion disagrees with an editor's personal preference"],0,"Editors commonly screen for scope, significance, basic quality and suitability before sending work to reviewers.","Not every submission reaches reviewers."],
+["review criteria","Which set of questions is most appropriate for a peer reviewer?",["Are the methods appropriate, are the data analysed soundly, and do the conclusions match the evidence?","Is the author famous, and is the paper short?","Does the paper agree with existing ideas?","Will the paper be popular on social media?"],0,"Scientific review focuses on evidence, methodology, analysis and justified conclusions.","Judge the science, not the author."],
+["revision","A reviewer identifies an unclear control and asks the authors to justify or repeat part of the experiment. What does this illustrate?",["Peer review can refine methods, explanations and claims before publication","Peer review prevents all disagreement","Reviewers become co-authors automatically","Published science cannot later change"],0,"Reviewer feedback can lead to revision, additional analysis or stronger qualification of claims.","Review can improve a paper before publication."],
+["publication","Why is publication important for scientific validation?",["It allows methods and evidence to be examined, challenged and tested by the wider scientific community","It makes a claim permanently true","It stops other scientists repeating the work","It removes uncertainty from the results"],0,"Science is strengthened when evidence and methods are available for scrutiny and further testing.","Publication opens work to wider checking."],
+["replication","A result is reproduced by several independent teams using comparable methods. What does this most directly increase?",["Confidence that the finding is not unique to one team or dataset","Certainty that the explanation can never change","The original sample size","The number of variables in the experiment"],0,"Independent reproduction provides evidence that a result is robust across investigators or settings.","Independent agreement strengthens confidence."],
+["refinement","New high-quality evidence conflicts with an accepted explanation. What should scientists do?",["Re-examine the explanation and refine or replace it if the total evidence supports change","Ignore the new evidence because consensus already exists","Automatically discard all earlier studies","Choose the explanation with the longest history"],0,"Scientific knowledge is provisional and can be refined when better evidence becomes available.","Consensus can change when evidence changes."],
+["peer review limits","Which statement about peer review is most accurate?",["It can detect many weaknesses but cannot guarantee that all errors, bias or fraud will be found","It proves a paper is correct","It makes replication unnecessary","It only checks spelling and formatting"],0,"Peer review is useful but imperfect; post-publication scrutiny and replication remain important.","Validation is a process, not one checkpoint."],
+["acceptance rate","A journal receives 2,000 submissions and publishes 200. What is the publication rate?",["10%","20%","5%","90%"],0,"200 ÷ 2000 × 100 = 10%.","Published ÷ submitted × 100."],
+["screening arithmetic","A journal receives 1,000 papers and rejects 65% at editorial screening. How many proceed beyond that stage?",["350","650","65","935"],0,"35% remain: 0.35 × 1000 = 350.","Subtract the rejected percentage from 100%."],
+["evidence quantity","A fire-management study samples 40 sites four times each year for 5 years. How many site-observations are planned?",["800","200","160","8,000"],0,"40 × 4 × 5 = 800 site-observations.","Sites × measurements per year × years."],
+["cultural burning","Which statement best reflects scientific evaluation of cultural burning?",["Outcomes should be assessed in context because effects depend on Country, season, fuel, frequency and management goals","Cultural burning always reduces every type of fire risk","One study can establish identical outcomes across all Australian ecosystems","Traditional knowledge has value only after Western science approves it"],0,"Cultural burning is place-based knowledge and practice; scientific evaluation should respect context and avoid universal claims.","Context matters."],
+["multiple knowledge systems","How can published ecological studies and First Nations knowledge contribute together to understanding fire regimes?",["They can provide complementary evidence and perspectives when cultural authority and protocols are respected","One must replace the other","Only numerical data can count as evidence","Cultural knowledge should be copied without permission so it can be tested"],0,"Different knowledge systems can contribute to understanding while cultural ownership and protocols are respected.","Complementary does not mean interchangeable."],
+["fire evidence","A managed area shows fewer high-intensity late-season fires over 10 years than a comparable unmanaged area. What is the strongest initial conclusion?",["The data are consistent with an association between the management regime and fewer high-intensity fires, but other variables should also be considered","The management regime is proven to cause the difference everywhere","Fire has been eliminated","The unmanaged area's data should be ignored"],0,"Comparative data can support an association, but causal claims require careful control of alternative explanations.","Evidence strength should match claim strength."],
+["fire emissions","Emissions fall from 1,200 to 900 tonnes CO₂-e in a monitored program. What is the percentage decrease?",["25%","300%","33.3%","75%"],0,"The decrease is 300; 300/1200 × 100 = 25%.","Change ÷ original × 100."],
+["Marshall Warren","What did Marshall and Warren's research challenge?",["The dominant view that peptic ulcers were explained mainly without a bacterial cause","The existence of bacteria","The germ theory of disease in general","The idea that antibiotics can kill bacteria"],0,"Their work linked Helicobacter pylori infection to gastritis and peptic ulcer disease, challenging prevailing explanations.","New evidence can challenge an established model."],
+["Marshall evidence","Which evidence most strengthened the H. pylori hypothesis?",["Consistent detection/culture of the bacterium in affected patients plus treatment and follow-up evidence","A newspaper article supporting the idea","One doctor's opinion","The fact that stomach acid exists"],0,"Converging observational, microbiological and treatment evidence provided stronger support than any single observation.","Multiple lines of evidence matter."],
+["self experiment","What did Barry Marshall's self-experiment most directly demonstrate?",["Ingesting H. pylori could produce gastric inflammation in him","That every ulcer is caused by H. pylori","That antibiotics cure every stomach disorder","That peer review is unnecessary"],0,"The self-experiment provided dramatic evidence for bacterial causation of gastritis, but broader ulcer claims required additional studies.","One experiment has a limited scope."],
+["treatment evidence","If 92 of 100 appropriately selected patients recover after a treatment, what is the observed recovery proportion?",["92%","8%","0.92%","108%"],0,"92 ÷ 100 = 92%.","Part ÷ whole × 100."],
+["consensus","What best describes scientific consensus?",["A broad agreement that emerges from converging evidence and expert evaluation, while remaining open to new evidence","A vote that makes an idea permanently true","Agreement based only on authority","The absence of all uncertainty"],0,"Consensus reflects the weight of evidence at a given time, not permanent certainty.","Consensus is evidence-based and revisable."],
+["atomic evidence","Rutherford observed that most alpha particles passed through gold foil but a small fraction were strongly deflected. What conclusion did this support?",["Atoms are mostly empty space with a small dense positively charged nucleus","Atoms are uniform positive spheres","Electrons are inside the nucleus","Atoms contain no charged particles"],0,"Rare large deflections require concentrated positive charge and mass in a tiny nucleus.","Unexpected scattering refined the atomic model."],
+["Thomson","What did J. J. Thomson's cathode-ray work provide evidence for?",["A negatively charged subatomic particle later called the electron","The neutron","A dense atomic nucleus","Radioactive half-life"],0,"Deflection of cathode rays supported the existence of negatively charged particles smaller than atoms.","Evidence changed the indivisible-atom model."],
+["Millikan","Why was Millikan's oil-drop experiment important to the electron model?",["It provided a measurement of the electron's elementary charge","It discovered the nucleus","It demonstrated nuclear fission","It directly measured the neutron's mass"],0,"Millikan's measurements helped quantify the charge carried by electrons.","Models strengthen when key quantities are measured."],
+["Curie validation","Which process would best validate a claim that a newly isolated substance is strongly radioactive?",["Independent measurements using suitable radiation-detection methods that reproduce the effect","Naming the substance before measurement","Relying on one visual observation","Accepting the claim because the researcher is famous"],0,"Independent, repeatable measurements support validation of a new scientific claim.","Reputation is not a substitute for evidence."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9h01-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9H01",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
