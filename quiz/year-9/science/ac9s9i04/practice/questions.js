@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9i04-p-001",
-    "curriculumCode": "AC9S9I04",
-    "bank": "practice",
-    "skill": "use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "using spreadsheet software to present data in tabular and graphical forms",
-      "The representation with the most features is best",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "using spreadsheet software to present data in tabular and graphical forms\nHint: Use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using spreadsheet software to present data in tabular and graphical forms",
-      "hint": "Use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i04-p-002",
-    "curriculumCode": "AC9S9I04",
-    "bank": "practice",
-    "skill": "use which sample properties to make the role of table or graph visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use which sample properties to make the role of table or graph visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use which sample properties to make the role of table or graph visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Changing an axis only changes appearance",
-      "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations\nHint: Use which sample properties to make the role of table or graph visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations",
-      "hint": "Use which sample properties to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i04-p-003",
-    "curriculumCode": "AC9S9I04",
-    "bank": "practice",
-    "skill": "use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The representation with the most features is best",
-      "The method can be chosen without checking the values or conditions",
-      "applying algorithms to measure carbon storage of different vegetation types",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "applying algorithms to measure carbon storage of different vegetation types\nHint: Use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "applying algorithms to measure carbon storage of different vegetation types",
-      "hint": "Use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i04-p-004",
-    "curriculumCode": "AC9S9I04",
-    "bank": "practice",
-    "skill": "use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Changing an axis only changes appearance",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams"
-    ],
-    "correct": 3,
-    "explanation": "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams\nHint: Use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "applying ratios to accurately represent usable and waste energy in transfer and transformation diagrams such as Sankey diagrams",
-      "hint": "Use applying ratios to accurately represent usable and waste energy to make the role of model or equation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i04-p-005",
-    "curriculumCode": "AC9S9I04",
-    "bank": "practice",
-    "skill": "use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass",
-      "The representation with the most features is best",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass\nHint: Use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "comparing the information provided by molecular models and word and balanced symbolic chemical equations when examining the law of conservation of mass",
-      "hint": "Use the information provided by molecular models and word to make the role of scale and limitation visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i04-p-006",
-    "curriculumCode": "AC9S9I04",
-    "bank": "practice",
-    "skill": "use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Changing an axis only changes appearance",
-      "using spreadsheet software to present data in tabular and graphical forms",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using spreadsheet software to present data in tabular and graphical forms\nHint: Use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "using spreadsheet software to present data in tabular and graphical forms",
-      "hint": "Use spreadsheet software to present data in tabular and graphical to make the role of data purpose visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i04-p-007",
-    "curriculumCode": "AC9S9I04",
-    "bank": "practice",
-    "skill": "use which sample properties to make the role of table or graph visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use which sample properties to make the role of table or graph visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use which sample properties to make the role of table or graph visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The representation with the most features is best",
-      "The method can be chosen without checking the values or conditions",
-      "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations\nHint: Use which sample properties to make the role of table or graph visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying which sample properties, such as mean, median and range, are the most appropriate to use to make generalisations",
-      "hint": "Use which sample properties to make the role of table or graph visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i04-p-008",
-    "curriculumCode": "AC9S9I04",
-    "bank": "practice",
-    "skill": "use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Changing an axis only changes appearance",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "applying algorithms to measure carbon storage of different vegetation types"
-    ],
-    "correct": 3,
-    "explanation": "applying algorithms to measure carbon storage of different vegetation types\nHint: Use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "applying algorithms to measure carbon storage of different vegetation types",
-      "hint": "Use applying algorithms to measure carbon storage of different vegetation to make the role of descriptive statistic visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["table","A student has 20 raw temperature readings taken every minute. Which representation is best for preserving the exact recorded values before further processing?",["A table with time and temperature columns","A pie chart","A molecular model","A Sankey diagram"],0,"A table preserves individual recorded values and their associated times clearly.","Raw values first → table."],
+["line graph","Which graph is most suitable for showing how water temperature changes during 15 minutes of cooling?",["Line graph","Pie chart","Bar chart of unrelated categories","Particle diagram"],0,"Time is continuous and ordered, so a line graph makes the trend through time visible.","Continuous change over time → line graph."],
+["bar graph","A class compares the mean germination percentage for four seed species. Which graph is most appropriate?",["Bar graph","Scatter plot","Line graph joining species in alphabetical order","Sankey diagram"],0,"The independent variable is categorical, so separate bars allow the species means to be compared.","Categories → bars."],
+["scatter plot","A student records light intensity and photosynthesis rate for 30 plants. Which display best shows whether the two numerical variables are associated?",["Scatter plot","Pie chart","Single bar","Word equation"],0,"A scatter plot displays paired numerical measurements and reveals possible relationships.","Two numerical variables → scatter plot."],
+["spreadsheet","Why is a spreadsheet useful when processing a large dataset?",["Formulas can calculate statistics consistently and graphs can update from the stored data","It guarantees entered data are correct","It removes the need to label units","It replaces the investigation itself"],0,"Spreadsheets automate processing, but still depend on correct data entry, formulas and graph choices.","Automation helps processing, not validity."],
+["data entry","A spreadsheet formula is correct, but one value was typed as 84 instead of 48. What is the main consequence?",["Statistics and graphs using that cell may be wrong","The spreadsheet becomes unable to calculate means","Only the graph colour changes","The original experiment becomes more precise"],0,"Incorrect input propagates into calculations and visualisations that reference it.","Garbage in → garbage out."],
+["graph labels","A graph of reaction rate against temperature has axes but no units. What important information is missing?",["The measurement units needed to interpret numerical values","The colour scheme","A decorative title image","The chemical formula of every substance"],0,"Labels and units make numerical axes interpretable and reproducible.","Numbers need quantities and units."],
+["mean","For the data 4, 6, 7, 8, 10, what is the mean?",["7","6","8","35"],0,"The sum is 35 and 35 ÷ 5 = 7.","Mean = total ÷ number of values."],
+["median","For 5, 8, 9, 10, 12, what is the median?",["9","8","10","8.8"],0,"The ordered dataset has five values, so the middle value is 9.","Median = middle ordered value."],
+["range","For 10, 12, 14, 16, what is the range?",["6","4","2","13"],0,"Range = maximum − minimum = 16 − 10 = 6.","Max minus min."],
+["outlier","Data are 3, 3, 3, 3, 100. Which statement is most defensible?",["The mean is strongly influenced by the outlier, so the median may better represent a typical value","The mean and median must be identical","The range is zero","The outlier has no effect on any statistic"],0,"The mean is 22.4 while the median is 3, showing the extreme value strongly affects the mean.","Compare resistant and non-resistant centre measures."],
+["centre choice","Which statistic is often more representative of centre when a dataset is strongly skewed by extreme values?",["Median","Mean automatically","Range","Maximum"],0,"The median is resistant to extreme values and often better represents a typical central position in skewed data.","Outliers affect the mean more."],
+["carbon model","A biomass model estimates stored carbon as biomass × carbon fraction. If biomass is 200 kg and carbon fraction is 0.45, what is the estimate?",["90 kg carbon","45 kg carbon","200 kg carbon","245 kg carbon"],0,"200 × 0.45 = 90 kg.","Multiply biomass by the fraction."],
+["carbon scale","A vegetation estimate is 300 tonnes of carbon per hectare. What is the estimated carbon in 5 hectares if the same rate is assumed?",["1500 tonnes","300 tonnes","60 tonnes","600 tonnes"],0,"300 × 5 = 1500 tonnes.","Rate per hectare × area."],
+["algorithm assumptions","Why should the assumptions of a carbon-storage algorithm be reported?",["The estimate depends on choices such as biomass equations and carbon fractions","Algorithms are always exact","Assumptions affect only graph colours","Reporting assumptions makes measurements unnecessary"],0,"Model outputs depend on the rules and parameter values used, so assumptions are needed to judge the estimate.","A model is not the real system."],
+["standardisation","What is a key benefit of using the same documented carbon-estimation algorithm across several sites?",["Calculations are performed consistently, making site comparisons more interpretable","Every estimate becomes perfectly accurate","Sampling error is eliminated","All vegetation types are assumed identical"],0,"A standardised method reduces calculation-method differences, though input data and model assumptions can still be uncertain.","Consistency ≠ guaranteed accuracy."],
+["ratio","A Sankey diagram shows 100 J input, 40 J useful output and 60 J unwanted output. What is the useful-output ratio useful:input in simplest form?",["2:5","4:5","3:5","5:2"],0,"40:100 simplifies by dividing both values by 20 to 2:5.","Simplify 40:100."],
+["efficiency","A device receives 200 J and transfers 80 J to the intended output. What is its efficiency?",["40%","80%","20%","60%"],0,"Efficiency = 80/200 × 100 = 40%.","Useful ÷ input × 100."],
+["Sankey","What feature of a correctly scaled Sankey diagram represents energy quantity?",["Arrow width","Arrow colour only","Text size","Diagram orientation"],0,"Arrow widths are proportional to the quantities of energy transferred along each pathway.","Width carries the quantitative information."],
+["model","What information does a molecular model commonly communicate better than a word equation?",["The arrangement and relative numbers of atoms in particles","The measured reaction rate","The energy efficiency of a motor","The sample mean"],0,"Particle/molecular models make atom arrangements visible, while word equations mainly name substances.","Different representations reveal different features."],
+["word equation","What is a limitation of the word equation hydrogen + oxygen → water?",["It names reactants and product but does not show the balanced particle ratio","It cannot identify any substances","It shows too many atom-level details","It directly gives reaction rate"],0,"The word equation communicates substance identities but not stoichiometric coefficients or atom counts.","Names are not balanced quantities."],
+["symbol equation","What extra information does 2H₂ + O₂ → 2H₂O provide compared with a word equation?",["Relative particle amounts and atom conservation can be checked","The exact reaction temperature","The reaction time","The colour of each substance"],0,"Coefficients and formulas allow atom counts and particle ratios to be interpreted.","Symbols + coefficients make counting possible."],
+["representation choice","A student wants to show both exact readings and the trend in dissolved oxygen over 24 hours. What is the strongest presentation?",["A table of values plus a labelled line graph","A pie chart only","A molecular model only","A Sankey diagram only"],0,"The table preserves exact data while the line graph reveals temporal pattern.","Different representations can complement each other."],
+["model limits","Two carbon models give different estimates for the same forest. What should a scientist compare first?",["Their input data, assumptions and equations","Which output is larger and therefore correct","Which graph uses brighter colours","Which model has more decimal places"],0,"Different models can produce different results because of different data, relationships or assumptions.","Inspect model structure before choosing an answer."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9i04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9I04",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
