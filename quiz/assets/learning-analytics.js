@@ -60,11 +60,19 @@
     const exact = allQuestions().find((item) => normalise(item?.question) === text);
     if (exact) return exact;
     const code = String(window.quizConfig?.skillCode || "unknown").toUpperCase();
-    return { id: `rendered-${code.toLowerCase()}-${compactHash(text)}`, question: text };
+    return {
+      id: `rendered-${code.toLowerCase()}-${compactHash(text)}`,
+      curriculumCode: code,
+      question: text
+    };
   }
 
   function questionIdentity(question) {
     return String(question?.id || question?.questionId || question?.question || "unknown");
+  }
+
+  function curriculumCode(question) {
+    return String(question?.curriculumCode || question?.curriculum_code || window.quizConfig?.skillCode || "unknown").toUpperCase();
   }
 
   function selectedAnswerIndex() {
@@ -170,6 +178,15 @@
 
   function abandon() {
     if (!state.started || state.completed || state.answered <= 0) return;
+
+    // A finished final question must never become an abandon simply because the
+    // shared quiz runtime navigates to a separate result page on pagehide.
+    const target = Number(window.quizConfig?.maxQuestions) || 0;
+    if (target > 0 && state.answered >= target) {
+      complete();
+      return;
+    }
+
     send(quizMode() === "test" ? "test_abandon" : "practice_abandon", {
       questions_answered: state.answered,
       duration_seconds: Math.max(0, Math.round((Date.now() - state.startedAt) / 1000))
@@ -186,14 +203,125 @@
     window.setTimeout(start, 0);
   }
 
+  function voteKey(question) {
+    return `skillrQuestionVote:${curriculumCode(question)}:${questionIdentity(question)}`;
+  }
+
+  function readVote(question) {
+    try { return localStorage.getItem(voteKey(question)) || ""; } catch { return ""; }
+  }
+
+  function saveVote(question, vote) {
+    try { localStorage.setItem(voteKey(question), vote); } catch {}
+  }
+
+  function sendVote(question, vote, previousVote) {
+    send("question_feedback", {
+      curriculum_code: curriculumCode(question),
+      question_id: questionIdentity(question),
+      quiz_mode: quizMode(),
+      vote,
+      previous_vote: previousVote || "none"
+    });
+  }
+
+  function ensureFeedbackStyle() {
+    if (document.getElementById("skillr-question-feedback-style")) return;
+    const style = document.createElement("style");
+    style.id = "skillr-question-feedback-style";
+    style.textContent = `
+      .question-quality-feedback{display:flex;flex-wrap:wrap;align-items:center;gap:.45rem .6rem;margin:.8rem 0 .25rem;padding:.65rem .75rem;border:1px solid #d9e2ec;border-radius:14px;background:#fff}
+      .question-quality-feedback p{flex:1 1 230px;margin:0;font-size:.9rem;color:#475569}
+      .question-quality-feedback button{border:1px solid #cbd5e1;border-radius:999px;background:#fff;padding:.48rem .72rem;cursor:pointer;font-weight:700;font-size:.9rem}
+      .question-quality-feedback button:hover{background:#f8fafc}
+      .question-quality-feedback button[aria-pressed="true"]{border-color:#1a91c7;background:#effaff;color:#124f70}
+      .question-quality-feedback .feedback-thanks{flex-basis:100%;font-size:.82rem;color:#64748b}
+    `;
+    document.head.appendChild(style);
+  }
+
+  function renderFeedback() {
+    const heading = document.getElementById("questionText");
+    const answerList = document.getElementById("answerList");
+    const quizScreen = document.getElementById("quizScreen");
+    if (!heading || !answerList || !normalise(heading.textContent)) return;
+    if (quizScreen && !quizScreen.classList.contains("is-active")) return;
+
+    const question = currentQuestion();
+    if (!question) return;
+
+    const existing = document.querySelector(".question-quality-feedback");
+    if (existing?.dataset.questionId === questionIdentity(question)) return;
+    existing?.remove();
+
+    ensureFeedbackStyle();
+    const box = document.createElement("div");
+    box.className = "question-quality-feedback";
+    box.dataset.questionId = questionIdentity(question);
+    box.setAttribute("aria-label", "Question quality feedback");
+
+    const label = document.createElement("p");
+    label.textContent = "Was this question useful?";
+
+    const like = document.createElement("button");
+    like.type = "button";
+    like.textContent = "👍 Like";
+    like.setAttribute("aria-label", "Like this question");
+
+    const dislike = document.createElement("button");
+    dislike.type = "button";
+    dislike.textContent = "👎 Dislike";
+    dislike.setAttribute("aria-label", "Dislike this question");
+
+    const thanks = document.createElement("span");
+    thanks.className = "feedback-thanks";
+
+    const refresh = () => {
+      const vote = readVote(question);
+      like.setAttribute("aria-pressed", vote === "up" ? "true" : "false");
+      dislike.setAttribute("aria-pressed", vote === "down" ? "true" : "false");
+      thanks.textContent = vote ? "Thanks — your feedback helps improve Skillr." : "";
+    };
+
+    const castVote = (value) => {
+      const previous = readVote(question);
+      if (previous === value) return;
+      saveVote(question, value);
+      sendVote(question, value, previous);
+      refresh();
+    };
+
+    like.addEventListener("click", () => castVote("up"));
+    dislike.addEventListener("click", () => castVote("down"));
+    box.append(label, like, dislike, thanks);
+    answerList.insertAdjacentElement("afterend", box);
+    refresh();
+  }
+
+  function scheduleFeedback() {
+    window.setTimeout(renderFeedback, 0);
+    window.setTimeout(renderFeedback, 100);
+    window.setTimeout(renderFeedback, 300);
+  }
+
   function init() {
     const startButton = document.getElementById("startButton");
     const submitButton = document.getElementById("submitButton");
     if (!startButton || !submitButton) return;
 
-    startButton.addEventListener("click", start);
-    submitButton.addEventListener("click", () => window.setTimeout(answer, 0));
-    document.getElementById("restartButton")?.addEventListener("click", nextSet);
+    startButton.addEventListener("click", () => {
+      start();
+      scheduleFeedback();
+    });
+    submitButton.addEventListener("click", () => {
+      window.setTimeout(answer, 0);
+      scheduleFeedback();
+    });
+    document.getElementById("nextButton")?.addEventListener("click", scheduleFeedback);
+    document.getElementById("restartButton")?.addEventListener("click", () => {
+      nextSet();
+      scheduleFeedback();
+    });
     window.addEventListener("pagehide", abandon);
 
     const resultScreen = document.getElementById("resultScreen");
@@ -203,6 +331,12 @@
       }).observe(resultScreen, { attributes: true, attributeFilter: ["class"] });
       if (resultScreen.classList.contains("is-active")) complete();
     }
+
+    const heading = document.getElementById("questionText");
+    if (heading) {
+      new MutationObserver(scheduleFeedback).observe(heading, { childList: true, characterData: true, subtree: true });
+    }
+    scheduleFeedback();
   }
 
   if (document.readyState === "loading") {
