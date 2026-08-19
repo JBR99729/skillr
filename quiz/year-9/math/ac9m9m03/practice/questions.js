@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m9m03-p-001",
-    "curriculumCode": "AC9M9M03",
-    "bank": "practice",
-    "skill": "explore the applications of pythagoras theorem in authentic problems including applying pythagoras theorem and trigonometry to problems in surveying and design",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore the applications of pythagoras theorem in authentic problems including applying pythagoras theorem and trigonometry to problems in surveying and design. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore the applications of pythagoras theorem in authentic problems including applying pythagoras theorem and trigonometry to problems in surveying and design. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design\nHint: Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design.",
-    "structuredExplanation": {
-      "summary": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
-      "hint": "Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m03-p-002",
-    "curriculumCode": "AC9M9M03",
-    "bank": "practice",
-    "skill": "apply the formula for calculation of distances between points on the cartesian plane from their coordinates emphasising the connection to vertical and horizontal displacements between the points",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving apply the formula for calculation of distances between points on the cartesian plane from their coordinates emphasising the connection to vertical and horizontal displacements between the points. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving apply the formula for calculation of distances between points on the cartesian plane from their coordinates emphasising the connection to vertical and horizontal displacements between the points. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The spatial problem solving model is copied without interpretation",
-      "applying the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "applying the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points\nHint: Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points.",
-    "structuredExplanation": {
-      "summary": "applying the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points",
-      "hint": "Apply the formula for calculation of distances between points on the Cartesian plane from their coordinates, emphasising the connection to vertical and horizontal displacements between the points."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m03-p-003",
-    "curriculumCode": "AC9M9M03",
-    "bank": "practice",
-    "skill": "understand the relationship between the corresponding sides of similar right angled triangles and establishing the relationship between areas of similar figures",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving understand the relationship between the corresponding sides of similar right angled triangles and establishing the relationship between areas of similar figures. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving understand the relationship between the corresponding sides of similar right angled triangles and establishing the relationship between areas of similar figures. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "understanding the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures and the ratio of corresponding sides, the scale factor",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "understanding the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures and the ratio of corresponding sides, the scale factor\nHint: Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures.",
-    "structuredExplanation": {
-      "summary": "understanding the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures and the ratio of corresponding sides, the scale factor",
-      "hint": "Understand the relationship between the corresponding sides of similar right-angled triangles and establishing the relationship between areas of similar figures."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m03-p-004",
-    "curriculumCode": "AC9M9M03",
-    "bank": "practice",
-    "skill": "use images of proportional relationships to estimate actual measurements",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving use images of proportional relationships to estimate actual measurements. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving use images of proportional relationships to estimate actual measurements. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using images of proportional relationships to estimate actual measurements; for example, taking a photograph of a person standing in front of a tree and using the image and scale to estimate the height of the tree, discussing the findings and ways to improve the estimates"
-    ],
-    "correct": 3,
-    "explanation": "using images of proportional relationships to estimate actual measurements; for example, taking a photograph of a person standing in front of a tree and using the image and scale to estimate the height of the tree, discussing the findings and ways to improve the estimates\nHint: Use images of proportional relationships to estimate actual measurements.",
-    "structuredExplanation": {
-      "summary": "using images of proportional relationships to estimate actual measurements; for example, taking a photograph of a person standing in front of a tree and using the image and scale to estimate the height of the tree, discussing the findings and ways to improve the estimates",
-      "hint": "Use images of proportional relationships to estimate actual measurements."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m03-p-005",
-    "curriculumCode": "AC9M9M03",
-    "bank": "practice",
-    "skill": "explore theorems and conjectures involving triangles",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore theorems and conjectures involving triangles. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore theorems and conjectures involving triangles. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating theorems and conjectures involving triangles; for example, the triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles; determining the minimal sets of information for a triangle from which other measures can all be determined",
-      "The spatial problem solving model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating theorems and conjectures involving triangles; for example, the triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles; determining the minimal sets of information for a triangle from which other measures can all be determined\nHint: Explore theorems and conjectures involving triangles.",
-    "structuredExplanation": {
-      "summary": "investigating theorems and conjectures involving triangles; for example, the triangle inequality, and generalising links between the Pythagorean rule for right-angled triangles, and related inequalities for acute and obtuse triangles; determining the minimal sets of information for a triangle from which other measures can all be determined",
-      "hint": "Explore theorems and conjectures involving triangles."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m03-p-006",
-    "curriculumCode": "AC9M9M03",
-    "bank": "practice",
-    "skill": "use knowledge of similar triangles pythagoras theorem rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving use knowledge of similar triangles pythagoras theorem rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving use knowledge of similar triangles pythagoras theorem rates and algebra to design and construct a biltmore stick used to measure the diameter and height of a tree. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "using knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree, and calculating the density and dry mass to predict how much paper could be manufactured from the tree",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "using knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree, and calculating the density and dry mass to predict how much paper could be manufactured from the tree\nHint: Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree.",
-    "structuredExplanation": {
-      "summary": "using knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree, and calculating the density and dry mass to predict how much paper could be manufactured from the tree",
-      "hint": "Use knowledge of similar triangles, Pythagoras’ theorem, rates and algebra to design and construct a Biltmore stick used to measure the diameter and height of a tree."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m03-p-007",
-    "curriculumCode": "AC9M9M03",
-    "bank": "practice",
-    "skill": "explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles distances and scale",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles distances and scale. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles distances and scale. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "investigating how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale\nHint: Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale.",
-    "structuredExplanation": {
-      "summary": "investigating how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale",
-      "hint": "Explore how autonomous vehicles solve spatial problems using algorithms based on geometric properties relating to angles, distances and scale."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m03-p-008",
-    "curriculumCode": "AC9M9M03",
-    "bank": "practice",
-    "skill": "explore the applications of pythagoras theorem in authentic problems including applying pythagoras theorem and trigonometry to problems in surveying and design",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore the applications of pythagoras theorem in authentic problems including applying pythagoras theorem and trigonometry to problems in surveying and design. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore the applications of pythagoras theorem in authentic problems including applying pythagoras theorem and trigonometry to problems in surveying and design. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The spatial problem solving model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design"
-    ],
-    "correct": 3,
-    "explanation": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design\nHint: Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design.",
-    "structuredExplanation": {
-      "summary": "investigating the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design",
-      "hint": "Explore the applications of Pythagoras’ theorem in authentic problems, including applying Pythagoras’ theorem and trigonometry to problems in surveying and design."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+[1,"Section A — Pythagoras and trigonometry in authentic problems","Pythagoras in surveying","A surveyor measures a horizontal distance of 30 m and a vertical rise of 16 m. What is the slope length?",["34 m","46 m","14 m","30 m"],0,"Use Pythagoras: slope² = 30² + 16² = 900 + 256 = 1156, so slope = 34 m.","Draw the right triangle first."],
+[2,"Section A — Pythagoras and trigonometry in authentic problems","Angle from rise and run","A ramp rises 1.5 m over a horizontal distance of 6 m. What is the gradient angle, to the nearest degree?",["14°","30°","45°","5°"],0,"tan θ = opposite/adjacent = 1.5/6 = 0.25, so θ ≈ 14°.","Use tan when you know vertical rise and horizontal run."],
+[3,"Section A — Pythagoras and trigonometry in authentic problems","Missing side of a right triangle","A ladder is 5 m long and reaches 4 m high on a wall. How far is the foot of the ladder from the wall?",["3 m","4 m","1 m","√5 m"],0,"The ladder is the hypotenuse: distance² + 4² = 5², so distance² = 9 and distance = 3 m.","The longest side is the hypotenuse."],
+[4,"Section A — Pythagoras and trigonometry in authentic problems","Roof pitch angle","A roof pitch rises 2 m over a horizontal run of 5 m. What is the angle of pitch, to the nearest tenth of a degree?",["21.8°","45°","60°","10°"],0,"tan θ = 2/5 = 0.4, so θ ≈ 21.8°.","Angle of elevation uses tan = rise/run."],
+[5,"Section A — Pythagoras and trigonometry in authentic problems","Diagonal of a rectangle","A designer needs the diagonal of a 12 m by 9 m room. What is the diagonal length?",["15 m","21 m","3 m","√12 m"],0,"diagonal² = 12² + 9² = 144 + 81 = 225, so the diagonal is 15 m.","A rectangle diagonal makes a right triangle."],
+[6,"Section A — Pythagoras and trigonometry in authentic problems","Height from angle of elevation","A tree casts a 20 m shadow. The angle of elevation to the top is 35°. What is the tree height, to the nearest metre?",["14 m","20 m","28 m","7 m"],0,"height = 20 tan 35° ≈ 14.0 m, so the height is about 14 m.","Shadow length is the adjacent side."],
+[7,"Section A — Pythagoras and trigonometry in authentic problems","Distance in two perpendicular directions","A drone rises 50 m vertically and moves 120 m horizontally. How far is it from the start?",["130 m","170 m","120 m","50 m"],0,"distance² = 50² + 120² = 2500 + 14400 = 16900, so distance = 130 m.","This is a 5-12-13 triangle scaled by 10."],
+[8,"Section A — Pythagoras and trigonometry in authentic problems","Vertical rise from ramp angle","A ramp angle is 12° and its horizontal length is 8 m. Which is the closest vertical rise?",["1.66 m","8 m","12 m","0.96 m"],0,"rise = 8 tan 12° ≈ 1.70 m, so 1.66 m is the closest option.","Use tan θ = rise/run."],
+[9,"Section A — Pythagoras and trigonometry in authentic problems","Tower height from angle","A surveyor measures an angle of elevation of 40° to a tower 30 m away. What is the tower height, to the nearest tenth of a metre?",["25.2 m","19.3 m","30 m","40 m"],0,"height = 30 tan 40° ≈ 25.2 m.","The horizontal distance is adjacent to the angle."],
+[10,"Section A — Pythagoras and trigonometry in authentic problems","Cable length","A cable runs 100 m horizontally and 60 m vertically. What is its length, to the nearest metre?",["116 m","160 m","100 m","60 m"],0,"length² = 100² + 60² = 13600, so length ≈ 116.6 m, which rounds to about 117 m; 116 m is the closest option.","Use Pythagoras for the diagonal cable."],
+[11,"Section B — Distance between points","Coordinate distance","What is the distance between (2, 3) and (6, 9)?",["√52","√36","6","√26"],0,"Distance = √((6−2)² + (9−3)²) = √(16 + 36) = √52.","Use the distance formula."],
+[12,"Section B — Distance between points","Coordinate distance","What is the distance between (−1, −1) and (4, 7)?",["√89","√50","8","√10"],0,"Distance = √((4−(−1))² + (7−(−1))²) = √(5² + 8²) = √89.","Be careful with negative coordinates."],
+[13,"Section B — Distance between points","Origin distance","What is the distance between (0, 0) and (−8, 6)?",["10","14","√8","√6"],0,"Distance = √((-8)² + 6²) = √(64 + 36) = 10.","This is a 6-8-10 triangle."],
+[14,"Section B — Distance between points","Vertical distance","What is the distance between (3, 5) and (3, −2)?",["7","5","√7","3"],0,"The x-values are the same, so the distance is |5 − (−2)| = 7.","For vertical segments, subtract y-values."],
+[15,"Section B — Distance between points","Horizontal distance","What is the distance between (−4, 2) and (5, 2)?",["9","√9","7","4"],0,"The y-values are the same, so the distance is |5 − (−4)| = 9.","For horizontal segments, subtract x-values."],
+[16,"Section B — Distance between points","Coordinate distance","What is the distance between (1, 1) and (7, 4)?",["√45","√40","√10","√20"],0,"Distance = √((7−1)² + (4−1)²) = √(36 + 9) = √45.","Find the changes in x and y first."],
+[17,"Section C — Similar triangles and scale factors","Area scale factor","Two similar triangles have corresponding side ratio 3:5. What is the area ratio?",["9:25","3:5","6:10","15:25"],0,"Area ratio is the square of the side ratio: 3²:5² = 9:25.","Area scale factor is linear scale factor squared."],
+[18,"Section C — Similar triangles and scale factors","Area enlargement","If the scale factor is 4, the area increases by:",["16×","4×","8×","2×"],0,"Area scale factor = 4² = 16, so area increases by 16 times.","Square the length scale factor for area."],
+[19,"Section C — Similar triangles and scale factors","Similarity condition","Corresponding sides of similar triangles must be:",["Proportional","Equal","Perpendicular","Parallel"],0,"Similar shapes have the same shape, so corresponding side lengths are proportional.","Similar does not necessarily mean same size."],
+[20,"Section C — Similar triangles and scale factors","Scaled side length","A small triangle has sides 3, 4 and 5. A similar triangle has scale factor 2. What is its largest side?",["10","5","8","6"],0,"The largest original side is 5. Scaling by 2 gives 5 × 2 = 10.","Multiply every side by the same scale factor."],
+[21,"Section C — Similar triangles and scale factors","Fractional area scale","If the scale factor is 1/2, what is the area ratio from smaller image to original?",["1:4","1:2","2:1","4:1"],0,"Area scale factor = (1/2)² = 1/4, so the area ratio is 1:4.","Fractional scale factors also get squared for area."],
+[22,"Section C — Similar triangles and scale factors","Angle condition","Two triangles are similar if:",["All corresponding angles are equal","All sides are equal","One angle is equal","One side is equal"],0,"Equal corresponding angles guarantee the same shape, so the triangles are similar.","Similarity is about shape, not necessarily size."],
+[23,"Section C — Similar triangles and scale factors","Area after scaling","A triangle has area 20 cm². A similar triangle has scale factor 3. What is its area?",["180 cm²","60 cm²","20 cm²","9 cm²"],0,"Area scale factor = 3² = 9, so new area = 20 × 9 = 180 cm².","Scale factor 3 makes area 9 times larger."],
+[24,"Section C — Similar triangles and scale factors","Finding scale factor","If corresponding sides are 7 cm and 21 cm, what is the scale factor from the smaller to the larger triangle?",["3","2","1/3","1/2"],0,"Scale factor = 21 ÷ 7 = 3.","Divide matching side lengths in the same order."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map(([sourceNumber,section,skill,question,answers,correct,explanation,hint])=>({id:`ac9m9m03-p-${String(sourceNumber).padStart(3,"0")}`,curriculumCode:"AC9M9M03",bank:"practice",section,sourceNumber,skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation:`${explanation}\nHint: ${hint}`,structuredExplanation:{summary:explanation,hint},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
