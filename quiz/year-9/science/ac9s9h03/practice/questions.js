@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9h03-p-001",
-    "curriculumCode": "AC9S9H03",
-    "bank": "practice",
-    "skill": "use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "researching citizen science projects related to public health and examining why people would choose to be involved",
-      "Strong evidence guarantees rapid adoption",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "researching citizen science projects related to public health and examining why people would choose to be involved\nHint: Use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "researching citizen science projects related to public health and examining why people would choose to be involved",
-      "hint": "Use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h03-p-002",
-    "curriculumCode": "AC9S9H03",
-    "bank": "practice",
-    "skill": "use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Low adoption proves the science is weak",
-      "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality\nHint: Use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how the practices adopted by society based on research by Australian Dr Helen Mayo led to a reduction in infant mortality",
-      "hint": "Use how the practices adopted by society based on research to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h03-p-003",
-    "curriculumCode": "AC9S9H03",
-    "bank": "practice",
-    "skill": "use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Strong evidence guarantees rapid adoption",
-      "The method can be chosen without checking the values or conditions",
-      "examining how assisted reproductive technologies have become widely used since their initial development",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "examining how assisted reproductive technologies have become widely used since their initial development\nHint: Use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how assisted reproductive technologies have become widely used since their initial development",
-      "hint": "Use how assisted reproductive technologies have become widely used since to make the role of trust visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h03-p-004",
-    "curriculumCode": "AC9S9H03",
-    "bank": "practice",
-    "skill": "use how government initiatives to make the role of access and cost visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how government initiatives to make the role of access and cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how government initiatives to make the role of access and cost visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Low adoption proves the science is weak",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining how government initiatives such as Landcare support adoption of effective land restoration practices that improve soil quality and increase carbon sequestration in soils"
-    ],
-    "correct": 3,
-    "explanation": "examining how government initiatives such as Landcare support adoption of effective land restoration practices that improve soil quality and increase carbon sequestration in soils\nHint: Use how government initiatives to make the role of access and cost visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining how government initiatives such as Landcare support adoption of effective land restoration practices that improve soil quality and increase carbon sequestration in soils",
-      "hint": "Use how government initiatives to make the role of access and cost visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h03-p-005",
-    "curriculumCode": "AC9S9H03",
-    "bank": "practice",
-    "skill": "use how first nations australians fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how first nations australians fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how first nations australians fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "investigating how First Nations Australians’ fire management practices are informing and being adopted in contemporary fire management",
-      "Strong evidence guarantees rapid adoption",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "investigating how First Nations Australians’ fire management practices are informing and being adopted in contemporary fire management\nHint: Use how First Nations Australians’ fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how First Nations Australians’ fire management practices are informing and being adopted in contemporary fire management",
-      "hint": "Use how First Nations Australians’ fire management practices are informing to make the role of values and policy visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h03-p-006",
-    "curriculumCode": "AC9S9H03",
-    "bank": "practice",
-    "skill": "use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Low adoption proves the science is weak",
-      "analysing factors that have led to the adoption of solar panels and battery storage by individuals, industries and communities",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "analysing factors that have led to the adoption of solar panels and battery storage by individuals, industries and communities\nHint: Use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "analysing factors that have led to the adoption of solar panels and battery storage by individuals, industries and communities",
-      "hint": "Use factors that have led to the adoption of solar to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h03-p-007",
-    "curriculumCode": "AC9S9H03",
-    "bank": "practice",
-    "skill": "use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Strong evidence guarantees rapid adoption",
-      "The method can be chosen without checking the values or conditions",
-      "investigating how an understanding of materials and concern for the environment have led to the adoption of widespread recycling practices",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "investigating how an understanding of materials and concern for the environment have led to the adoption of widespread recycling practices\nHint: Use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "investigating how an understanding of materials and concern for the environment have led to the adoption of widespread recycling practices",
-      "hint": "Use how an understanding of materials and concern to make the role of benefit and risk visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9h03-p-008",
-    "curriculumCode": "AC9S9H03",
-    "bank": "practice",
-    "skill": "use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Low adoption proves the science is weak",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "researching citizen science projects related to public health and examining why people would choose to be involved"
-    ],
-    "correct": 3,
-    "explanation": "researching citizen science projects related to public health and examining why people would choose to be involved\nHint: Use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "researching citizen science projects related to public health and examining why people would choose to be involved",
-      "hint": "Use citizen science projects related to public health and examining to make the role of evidence strength visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["adoption factors","Which combination most strongly explains why a scientific practice may be adopted widely by society?",["Evidence of benefit plus affordability, accessibility, trust, communication and social acceptance","Scientific evidence alone, regardless of cost or access","Popularity alone","A single successful example"],0,"Adoption depends on more than whether a practice works scientifically; practical and social factors also affect uptake.","Think evidence + real-world conditions."],
+["citizen science","Why can citizen science be valuable to research?",["It can extend observations across many places or times when participants follow suitable protocols","It makes professional scientists unnecessary","It guarantees every observation is accurate","It removes the need for data checking"],0,"Large networks of participants can expand data collection, but methods and quality control still matter.","Scale is a strength; quality control still matters."],
+["citizen science quality","A mosquito-monitoring project asks residents to upload photos and locations. What most improves the scientific usefulness of the data?",["Clear identification instructions, metadata requirements and expert or automated verification","Allowing each participant to invent a different method","Removing location information","Accepting every identification without checking"],0,"Standardised procedures and verification improve consistency and interpretability.","Citizen science needs protocols."],
+["citizen science adoption","Why might a community be more willing to join an air-quality monitoring project when results are shared locally?",["Participants can see how their contributions relate to a problem that affects them","Public feedback makes scientific measurements unnecessary","Local data are always more accurate than laboratory data","Participation becomes compulsory"],0,"Relevance, transparency and feedback can increase engagement and trust.","People adopt practices more readily when value is visible."],
+["public health","A citizen-health project receives thousands of symptom reports but mostly from smartphone users aged 18–30. What limits the conclusions?",["The participant group may not represent the wider population","Large datasets cannot be useful","Health data cannot be collected digitally","Citizen science cannot study public health"],0,"A large sample can still be biased if participation is uneven across the target population.","Participation pattern affects representativeness."],
+["scientific literacy","How can participation in a well-designed citizen science project increase scientific literacy?",["Participants practise observing, recording and interpreting evidence using real protocols","Participants are told to accept conclusions without evidence","It removes uncertainty from science","It replaces science education entirely"],0,"Direct involvement can develop understanding of how evidence is collected and evaluated.","Participation can teach how science works."],
+["Helen Mayo","Why did evidence-based infant-health practices associated with Helen Mayo gain social importance?",["They addressed a serious public-health problem using practical measures such as hygiene, feeding support and maternal/infant health services","They eliminated all childhood illness","They required expensive hospital technology for every family","They avoided communication with parents"],0,"Public-health practices are more adoptable when they address a clear need and can be delivered to families in practical ways.","Need + practical benefit supports adoption."],
+["health adoption","Which evidence would most strongly support wider adoption of a new infant-health program?",["Comparable communities using the program show sustained improvement, with other important factors considered","One family reports a good experience","The program has an appealing logo","The program is new"],0,"Population-level adoption should be supported by systematic evidence rather than anecdote alone.","Look for comparative evidence."],
+["health access","A proven infant-health service has low uptake in remote communities. Which factor could explain the gap between evidence and adoption?",["Limited access, transport, staffing, cost or culturally appropriate delivery","Scientific evidence automatically forces adoption","The service must therefore be ineffective","Public-health services never depend on infrastructure"],0,"Effective practices may still have low adoption when access or delivery barriers remain.","Effectiveness and access are different."],
+["trust communication","Why can trusted local health workers increase adoption of evidence-based health advice?",["Trust and understandable communication can help people assess and act on the evidence","Trust changes the scientific results","Advice becomes true only when delivered locally","Expertise is no longer needed"],0,"Communication and trusted relationships influence whether scientific recommendations are accepted and used.","Adoption has a social component."],
+["ART","What is assisted reproductive technology (ART)?",["A group of medical technologies used to assist conception or reproduction, including IVF","A method that always guarantees pregnancy","A technology used only to prevent fertilisation","A form of genetic inheritance"],0,"ART includes technologies such as IVF that assist reproduction; outcomes are not guaranteed.","IVF is one ART example."],
+["ART adoption","Why has ART adoption increased over time?",["Improved techniques, evidence of effectiveness, greater availability, changing social acceptance and demand all contributed","One factor—success rate—explains all adoption everywhere","ART became free and risk-free everywhere","Scientific evidence was unnecessary"],0,"Adoption is shaped by scientific, technological, economic and social factors together.","Multiple factors drive uptake."],
+["ART limits","Which factor can reduce access to ART even where the technology is medically established?",["Cost, location, eligibility rules or limited services","The existence of peer-reviewed evidence","Higher scientific literacy","Improved embryo-culture methods"],0,"Availability and affordability can limit adoption independently of scientific validity.","Access matters."],
+["ART values","Why can ART adoption differ between communities even when the medical evidence is similar?",["Ethical, religious, cultural and social values can influence decisions about reproductive technologies","Scientific results change according to beliefs","ART works only in communities that support it","Evidence has no role in medical choices"],0,"Social values can influence whether and how technologies are adopted without changing their underlying scientific evidence.","Values affect adoption, not the data themselves."],
+["ART communication","A clinic publishes only its highest success-rate figure without explaining age group or treatment cycle. Why could this affect adoption unfairly?",["People may overestimate likely outcomes if the statistic is not presented with relevant context","Success rates do not need context","Age never affects treatment outcomes","Any published percentage guarantees informed consent"],0,"Clear, contextualised risk and success information is needed for informed decisions.","Communication quality affects informed uptake."],
+["Landcare","Why can Landcare practices be adopted by both farmers and environmental groups?",["Some practices can provide agricultural benefits while also improving soil, vegetation or habitat outcomes","Landcare has exactly the same outcome in every location","Environmental restoration never affects farm productivity","Adoption requires no evidence of local benefit"],0,"Practices can gain support when they address multiple stakeholder goals.","Shared benefits can broaden adoption."],
+["Landcare evidence","Which finding would best support adoption of a soil-restoration practice?",["Repeated field measurements show reduced erosion and improved soil condition under comparable conditions","The practice has a memorable name","One photograph looks greener","It is the most expensive option"],0,"Adoption should be supported by evidence relevant to the intended environment and outcomes.","Measure the claimed benefit."],
+["cultural burning","Which statement best explains why cultural burning may be adopted in some land-management programs?",["Place-based First Nations knowledge, ecological evidence and management goals can support carefully planned burning suited to Country","One identical burning schedule is scientifically best for all Australian ecosystems","Cultural burning is adopted because evidence is unnecessary","Its purpose is simply to maximise the area burned"],0,"Cultural burning is context-specific and combines knowledge of Country with management goals and evidence.","Avoid universal fire prescriptions."],
+["cultural authority","What is essential when agencies seek to adopt cultural burning practices?",["Work with Traditional Owners and respect cultural authority, knowledge ownership and local protocols","Copy techniques without consultation","Replace Indigenous knowledge with satellite data","Assume all First Nations communities use identical practices"],0,"Adoption of Indigenous knowledge requires appropriate partnership and respect for cultural authority.","Adoption must be respectful as well as effective."],
+["solar costs","Why has household solar uptake often increased as system prices have fallen?",["A lower upfront cost can shorten the time needed for energy-bill savings to offset purchase cost","Lower cost changes the physics of sunlight","Cheap panels generate electricity at night without storage","Price is the only factor affecting solar adoption"],0,"Economic feasibility is a major adoption factor, alongside suitability, policy, information and environmental values.","Cost affects practical uptake."],
+["solar economics","A solar system costs $6,000 and is estimated to save $1,200 per year under stable conditions. What is the simple payback time?",["5 years","0.2 years","7.2 years","12 years"],0,"Simple payback = 6000 ÷ 1200 = 5 years, ignoring financing, maintenance and changing tariffs.","Cost ÷ annual saving."],
+["battery adoption","Why might a household add battery storage to rooftop solar?",["It can shift some solar-generated energy from daytime to later use","It creates extra energy beyond what the panels generate","It guarantees complete independence from the grid","It increases solar radiation reaching the roof"],0,"Batteries store energy for later use; they do not create energy.","Storage shifts timing."],
+["solar barriers","Which factor can slow solar adoption even when long-term savings are attractive?",["High upfront cost, unsuitable housing, rental status, grid constraints or lack of finance","Sunlight being electromagnetic radiation","Panels producing direct current","Scientific agreement that sunlight carries energy"],0,"Practical barriers can prevent adoption despite technical effectiveness.","Benefit does not remove barriers."],
+["policy adoption","A rebate increases solar uptake. What does this demonstrate?",["Policy can change economic incentives and therefore adoption rates without changing the underlying solar-cell science","The rebate increases the Sun's energy output","Government support proves solar is scientifically superior in every context","Scientific evidence becomes unnecessary when incentives exist"],0,"Policy and economics can affect diffusion of technology separately from its scientific operation.","Adoption factors can change while science stays the same." ]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9h03-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9H03",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
