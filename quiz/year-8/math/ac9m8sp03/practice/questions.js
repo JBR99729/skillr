@@ -1,236 +1,28 @@
 "use strict";
 window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m8sp03-p-001",
-    "curriculumCode": "AC9M8SP03",
-    "bank": "practice",
-    "skill": "locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system\nHint: locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system.",
-    "structuredExplanation": {
-      "summary": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
-      "hint": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp03-p-002",
-    "curriculumCode": "AC9M8SP03",
-    "bank": "practice",
-    "skill": "construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The position in three dimensions model is copied without interpretation",
-      "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system\nHint: Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system.",
-    "structuredExplanation": {
-      "summary": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
-      "hint": "Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp03-p-003",
-    "curriculumCode": "AC9M8SP03",
-    "bank": "practice",
-    "skill": "compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views\nHint: Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views.",
-    "structuredExplanation": {
-      "summary": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
-      "hint": "Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp03-p-004",
-    "curriculumCode": "AC9M8SP03",
-    "bank": "practice",
-    "skill": "use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system"
-    ],
-    "correct": 3,
-    "explanation": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system\nHint: Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system.",
-    "structuredExplanation": {
-      "summary": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system",
-      "hint": "Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp03-p-005",
-    "curriculumCode": "AC9M8SP03",
-    "bank": "practice",
-    "skill": "interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)",
-      "The position in three dimensions model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)\nHint: Interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe).",
-    "structuredExplanation": {
-      "summary": "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)",
-      "hint": "Interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp03-p-006",
-    "curriculumCode": "AC9M8SP03",
-    "bank": "practice",
-    "skill": "explore position and transformation through geospatial technologies used by first nations australians communities",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving explore position and transformation through geospatial technologies used by first nations australians communities. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving explore position and transformation through geospatial technologies used by first nations australians communities. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities\nHint: Explore position and transformation through geospatial technologies used by First Nations Australians’ communities.",
-    "structuredExplanation": {
-      "summary": "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities",
-      "hint": "Explore position and transformation through geospatial technologies used by First Nations Australians’ communities."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp03-p-007",
-    "curriculumCode": "AC9M8SP03",
-    "bank": "practice",
-    "skill": "locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system\nHint: locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system.",
-    "structuredExplanation": {
-      "summary": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
-      "hint": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp03-p-008",
-    "curriculumCode": "AC9M8SP03",
-    "bank": "practice",
-    "skill": "construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The position in three dimensions model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system"
-    ],
-    "correct": 3,
-    "explanation": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system\nHint: Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system.",
-    "structuredExplanation": {
-      "summary": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
-      "hint": "Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system."
-    },
-    "qualitySchema": "production-v1"
-  }
+{"id":"ac9m8sp03-p-001","curriculumCode":"AC9M8SP03","bank":"practice","skill":"3D position using latitude longitude altitude and Cartesian coordinates","printable":true,"type":"single","question":"A drone is recorded at 35°S, 149°E and 120 m above sea level. Why is this a three-dimensional location?","audioPrompt":"A drone is recorded at 35 degrees south, 149 degrees east and 120 metres above sea level. Why is this a three-dimensional location?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It uses only a map grid","It gives north-south position, east-west position and height","It gives a bearing and a speed","It uses three different units"],"correct":1,"explanation":"Latitude gives north-south position, longitude gives east-west position and altitude gives vertical position.","structuredExplanation":{"summary":"Latitude, longitude and altitude together describe position in three dimensions.","hint":"Identify the two horizontal location measures and the vertical measure."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-002","curriculumCode":"AC9M8SP03","bank":"practice","skill":"latitude longitude altitude","printable":true,"type":"single","question":"Which interval contains every possible latitude?","audioPrompt":"Which interval contains every possible latitude?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["−90° to +90°","−180° to +180°","0° to 180°","0° to 360°"],"correct":0,"explanation":"Latitude ranges from 90°S to 90°N, represented as −90° to +90°.","structuredExplanation":{"summary":"Latitude ranges from −90° to +90°.","hint":"Think from the South Pole to the North Pole."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-003","curriculumCode":"AC9M8SP03","bank":"practice","skill":"latitude longitude altitude","printable":true,"type":"single","question":"Which interval is commonly used for longitude?","audioPrompt":"Which interval is commonly used for longitude?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["−90° to +90°","−180° to +180°","0° to 90°","−360° to +360°"],"correct":1,"explanation":"Longitude is measured up to 180° east or west of the Prime Meridian.","structuredExplanation":{"summary":"Longitude is commonly represented from −180° to +180°.","hint":"Longitude wraps around Earth east and west from the Prime Meridian."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-004","curriculumCode":"AC9M8SP03","bank":"practice","skill":"latitude longitude altitude","printable":true,"type":"single","question":"A drone keeps the same latitude and longitude but rises from 100 m to 350 m. Which location measure changes?","audioPrompt":"A drone keeps the same latitude and longitude but rises from 100 metres to 350 metres. Which location measure changes?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Latitude","Longitude","Altitude","All three"],"correct":2,"explanation":"Only the vertical position changes, so only altitude changes.","structuredExplanation":{"summary":"A vertical rise changes altitude only.","hint":"The horizontal position stays fixed."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-005","curriculumCode":"AC9M8SP03","bank":"practice","skill":"3D design and coordinate systems","printable":true,"type":"single","question":"Which axes are used in a standard three-dimensional Cartesian coordinate system?","audioPrompt":"Which axes are used in a standard three-dimensional Cartesian coordinate system?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["x and y only","x, y and z","x and z only","y and z only"],"correct":1,"explanation":"Three-dimensional Cartesian coordinates use x, y and z axes.","structuredExplanation":{"summary":"3D Cartesian coordinates use x, y and z.","hint":"A third axis is added to the usual 2D x-y plane."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-006","curriculumCode":"AC9M8SP03","bank":"practice","skill":"3D design and coordinate systems","printable":true,"type":"single","question":"In a 3D-printing model where z represents vertical height, the print head moves to (12, 8, 5). What does 5 represent?","audioPrompt":"In a 3D printing model where z represents vertical height, the print head moves to 12, 8, 5. What does 5 represent?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["x-position","y-position","Vertical height","Scale factor"],"correct":2,"explanation":"The third coordinate is z; in this model z is defined as vertical height.","structuredExplanation":{"summary":"The third coordinate gives the z-value, here the vertical height.","hint":"Read the coordinate in x, y, z order."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-007","curriculumCode":"AC9M8SP03","bank":"practice","skill":"3D design and coordinate systems","printable":true,"type":"single","question":"A 3D model is enlarged by scale factor 2 about the origin. What happens to the coordinates of each vertex?","audioPrompt":"A 3D model is enlarged by scale factor 2 about the origin. What happens to the coordinates of each vertex?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Each coordinate is doubled","Only the z-coordinate doubles","Each coordinate increases by 2","The coordinates do not change"],"correct":0,"explanation":"An enlargement by factor 2 about the origin maps (x,y,z) to (2x,2y,2z).","structuredExplanation":{"summary":"Scale factor 2 about the origin doubles all three coordinates.","hint":"Apply the same scale factor to x, y and z."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-008","curriculumCode":"AC9M8SP03","bank":"practice","skill":"3D design and coordinate systems","printable":true,"type":"single","question":"What is the origin of a three-dimensional Cartesian coordinate system?","audioPrompt":"What is the origin of a three-dimensional Cartesian coordinate system?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["(0,0)","(0,0,0)","(1,1,1)","(0,0,1)"],"correct":1,"explanation":"The origin is where all three axes meet: (0,0,0).","structuredExplanation":{"summary":"The 3D origin is (0,0,0).","hint":"At the origin there is no displacement along any axis."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-009","curriculumCode":"AC9M8SP03","bank":"practice","skill":"comparing 2D and 3D coordinate systems","printable":true,"type":"single","question":"A two-dimensional coordinate system uses x and y. What additional coordinate is used in three dimensions?","audioPrompt":"A two-dimensional coordinate system uses x and y. What additional coordinate is used in three dimensions?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["w","z","t","r"],"correct":1,"explanation":"The z-coordinate provides the third dimension.","structuredExplanation":{"summary":"3D adds the z-coordinate to x and y.","hint":"The standard order is x, y, z."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-010","curriculumCode":"AC9M8SP03","bank":"practice","skill":"comparing 2D and 3D coordinate systems","printable":true,"type":"single","question":"Why can a 3D coordinate system describe a location that a 2D coordinate pair cannot fully describe?","audioPrompt":"Why can a 3D coordinate system describe a location that a 2D coordinate pair cannot fully describe?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It adds a third independent position value","It uses larger numbers","It uses degrees instead of metres","It always includes latitude"],"correct":0,"explanation":"A third coordinate allows position along a third independent direction.","structuredExplanation":{"summary":"3D adds a third independent position value.","hint":"Compare (x,y) with (x,y,z)."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-011","curriculumCode":"AC9M8SP03","bank":"practice","skill":"comparing 2D and 3D coordinate systems","printable":true,"type":"single","question":"Why can a 3D street-view or terrain model show information that a flat 2D map may omit?","audioPrompt":"Why can a 3D street view or terrain model show information that a flat 2D map may omit?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It can represent height and depth as well as horizontal position","It does not use coordinates","It removes scale","It only shows latitude"],"correct":0,"explanation":"A 3D model can include vertical structure as well as horizontal location.","structuredExplanation":{"summary":"3D representations can include vertical height or depth.","hint":"Ask what the third dimension contributes."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-012","curriculumCode":"AC9M8SP03","bank":"practice","skill":"comparing 2D and 3D coordinate systems","printable":true,"type":"single","question":"A conventional flat map grid locates a point using two values. This is an example of a:","audioPrompt":"A conventional flat map grid locates a point using two values. This is an example of a:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1D system","2D system","3D system","4D system"],"correct":1,"explanation":"Two independent coordinate values specify a point in a plane.","structuredExplanation":{"summary":"A flat coordinate grid is two-dimensional.","hint":"Count the independent coordinate directions."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-013","curriculumCode":"AC9M8SP03","bank":"practice","skill":"first octant and 3D planes","printable":true,"type":"single","question":"Which condition describes a point strictly inside the first octant?","audioPrompt":"Which condition describes a point strictly inside the first octant?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["x>0, y>0, z>0","x>0, y>0 only","x<0, y>0, z>0","x=0, y=0, z=0"],"correct":0,"explanation":"Points strictly inside the first octant have all three coordinates positive.","structuredExplanation":{"summary":"First-octant interior points have x, y and z all positive.","hint":"All three signs must be positive."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-014","curriculumCode":"AC9M8SP03","bank":"practice","skill":"first octant and 3D planes","printable":true,"type":"single","question":"To ensure every vertex of a small cube lies strictly inside the first octant, which coordinate condition should its vertices satisfy?","audioPrompt":"To ensure every vertex of a small cube lies strictly inside the first octant, which coordinate condition should its vertices satisfy?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["All x, y and z values are positive","At least one coordinate is zero","All coordinates are negative","Only z must be positive"],"correct":0,"explanation":"Strictly inside the first octant means x>0, y>0 and z>0 for every vertex.","structuredExplanation":{"summary":"All vertex coordinates must be positive.","hint":"Do not place a vertex on a coordinate plane if it must be strictly inside the octant."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-015","curriculumCode":"AC9M8SP03","bank":"practice","skill":"first octant and 3D planes","printable":true,"type":"single","question":"What is a useful feature of dynamic 3D geometry software?","audioPrompt":"What is a useful feature of dynamic 3D geometry software?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It can construct and transform 3D objects while displaying coordinates","It can only draw flat triangles","It removes the need for coordinates","It can only rotate objects"],"correct":0,"explanation":"Dynamic 3D software lets users construct, inspect and transform objects in a coordinate system.","structuredExplanation":{"summary":"Dynamic geometry software supports coordinate-based 3D construction and transformation.","hint":"Look for the option that combines 3D objects and coordinates."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-016","curriculumCode":"AC9M8SP03","bank":"practice","skill":"first octant and 3D planes","printable":true,"type":"single","question":"Every point with z = 0 lies on which coordinate plane?","audioPrompt":"Every point with z equals zero lies on which coordinate plane?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["xy-plane","yz-plane","xz-plane","No coordinate plane"],"correct":0,"explanation":"On the xy-plane there is no displacement in the z direction, so z=0.","structuredExplanation":{"summary":"z=0 describes the xy-plane.","hint":"The plane name lists the two coordinates that can vary."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-017","curriculumCode":"AC9M8SP03","bank":"practice","skill":"3D locations in car parks and games","printable":true,"type":"single","question":"A car location is recorded as (Level 3, Row 5, Bay 12). Why is three pieces of location information useful?","audioPrompt":"A car location is recorded as Level 3, Row 5, Bay 12. Why is three pieces of location information useful?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["They identify position across three independent location categories","They convert the car park into a time zone","They give the car's speed","They describe only a flat grid"],"correct":0,"explanation":"Level, row and bay together distinguish vertical level and two within-level location measures.","structuredExplanation":{"summary":"Three independent location values can identify a position in a multi-storey structure.","hint":"One value distinguishes floors while the others locate the bay on that floor."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-018","curriculumCode":"AC9M8SP03","bank":"practice","skill":"3D locations in car parks and games","printable":true,"type":"single","question":"A standard 3D noughts-and-crosses board made from three layers of 3×3 cells contains how many cells?","audioPrompt":"A standard 3D noughts and crosses board made from three layers of 3 by 3 cells contains how many cells?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["9","18","27","81"],"correct":2,"explanation":"There are 3×3×3 = 27 cells.","structuredExplanation":{"summary":"A 3×3×3 cube contains 27 cells.","hint":"Multiply the number of positions in all three dimensions."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-019","curriculumCode":"AC9M8SP03","bank":"practice","skill":"3D locations in car parks and games","printable":true,"type":"single","question":"A player moves from (7, 2, 9) to (7, 2, 3). Which coordinate changed?","audioPrompt":"A player moves from 7, 2, 9 to 7, 2, 3. Which coordinate changed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["x only","y only","z only","All three"],"correct":2,"explanation":"The x and y values stay 7 and 2; only z changes from 9 to 3.","structuredExplanation":{"summary":"Only the z-coordinate changed.","hint":"Compare coordinates position by position."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-020","curriculumCode":"AC9M8SP03","bank":"practice","skill":"3D locations in car parks and games","printable":true,"type":"single","question":"In a coordinate model of a multi-storey car park, which coordinate would most naturally represent floor level if x and y locate a bay on each floor?","audioPrompt":"In a coordinate model of a multi-storey car park, which coordinate would most naturally represent floor level if x and y locate a bay on each floor?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["x","y","z","None"],"correct":2,"explanation":"With x and y used for the floor plan, z naturally represents vertical level.","structuredExplanation":{"summary":"z can represent vertical floor level in this model.","hint":"The third coordinate is used for vertical position."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-021","curriculumCode":"AC9M8SP03","bank":"practice","skill":"First Nations geospatial technologies","printable":true,"type":"single","question":"Which is a valid use of geospatial technology by First Nations Australian communities?","audioPrompt":"Which is a valid use of geospatial technology by First Nations Australian communities?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Mapping Country and supporting land and cultural-heritage management","Replacing all community knowledge with automated maps","Using only paper maps and no digital tools","Ignoring elevation and landscape features"],"correct":0,"explanation":"Geospatial tools can support community-led mapping of Country, cultural heritage and land management.","structuredExplanation":{"summary":"Geospatial technologies can support community-led mapping and management of Country.","hint":"Choose the respectful, practical use that supports rather than replaces community knowledge."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-022","curriculumCode":"AC9M8SP03","bank":"practice","skill":"First Nations geospatial technologies","printable":true,"type":"single","question":"Why can a 3D terrain model be useful in caring for Country?","audioPrompt":"Why can a 3D terrain model be useful in caring for Country?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It can show elevation, slopes and landscape features as well as horizontal location","It guarantees every management decision","It removes the need for local knowledge","It shows only latitude"],"correct":0,"explanation":"3D terrain information can add elevation and slope to horizontal position data and can be combined with local knowledge.","structuredExplanation":{"summary":"3D terrain models add elevation and landscape form to location data.","hint":"Think about what a third dimension adds to a map."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-023","curriculumCode":"AC9M8SP03","bank":"practice","skill":"First Nations geospatial technologies","printable":true,"type":"single","question":"Which modern tool can represent terrain in three dimensions for community-led mapping projects?","audioPrompt":"Which modern tool can represent terrain in three dimensions for community-led mapping projects?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Digital elevation and 3D terrain mapping","A one-dimensional number line only","A stopwatch","A temperature scale only"],"correct":0,"explanation":"Digital elevation models and 3D mapping can represent terrain height and shape.","structuredExplanation":{"summary":"Digital elevation and 3D terrain tools represent position and height together.","hint":"Look for a tool that includes both horizontal location and elevation."},"qualitySchema":"production-v1"},
+{"id":"ac9m8sp03-p-024","curriculumCode":"AC9M8SP03","bank":"practice","skill":"First Nations geospatial technologies","printable":true,"type":"single","question":"Which statement best describes responsible use of geospatial technology with First Nations cultural information?","audioPrompt":"Which statement best describes responsible use of geospatial technology with First Nations cultural information?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Community authority, permissions and appropriate data governance should be respected","All mapped cultural information should automatically be public","Technology should replace consultation","Coordinates alone determine cultural significance"],"correct":0,"explanation":"Cultural and geospatial data should be handled with appropriate community authority, permissions and governance.","structuredExplanation":{"summary":"Responsible geospatial work respects community authority and data governance.","hint":"Technology does not override cultural permissions or community control."},"qualitySchema":"production-v1"}
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
