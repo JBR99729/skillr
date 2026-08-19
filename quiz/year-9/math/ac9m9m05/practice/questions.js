@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m9m05-p-001",
-    "curriculumCode": "AC9M9M05",
-    "bank": "practice",
-    "skill": "model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies",
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies\nHint: Model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts.",
-    "structuredExplanation": {
-      "summary": "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies",
-      "hint": "Model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m05-p-002",
-    "curriculumCode": "AC9M9M05",
-    "bank": "practice",
-    "skill": "model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The modelling proportion, rate and scale model is copied without interpretation",
-      "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images\nHint: Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images.",
-    "structuredExplanation": {
-      "summary": "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
-      "hint": "Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m05-p-003",
-    "curriculumCode": "AC9M9M05",
-    "bank": "practice",
-    "skill": "model situations involving compliance with building and construction standards in design and construction such as the rise and tread of staircases and vertical and horizontal components of escalators",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model situations involving compliance with building and construction standards in design and construction such as the rise and tread of staircases and vertical and horizontal components of escalators. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model situations involving compliance with building and construction standards in design and construction such as the rise and tread of staircases and vertical and horizontal components of escalators. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators\nHint: Model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators.",
-    "structuredExplanation": {
-      "summary": "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators",
-      "hint": "Model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m05-p-004",
-    "curriculumCode": "AC9M9M05",
-    "bank": "practice",
-    "skill": "model situations involving the application of rates in practical contexts",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model situations involving the application of rates in practical contexts. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model situations involving the application of rates in practical contexts. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "modelling situations involving the application of rates in practical contexts; for example, density, birth, flow or heartbeats"
-    ],
-    "correct": 3,
-    "explanation": "modelling situations involving the application of rates in practical contexts; for example, density, birth, flow or heartbeats\nHint: Model situations involving the application of rates in practical contexts.",
-    "structuredExplanation": {
-      "summary": "modelling situations involving the application of rates in practical contexts; for example, density, birth, flow or heartbeats",
-      "hint": "Model situations involving the application of rates in practical contexts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m05-p-005",
-    "curriculumCode": "AC9M9M05",
-    "bank": "practice",
-    "skill": "explore fire techniques in land management practices used by first nations australians that use proportion relationships",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving explore fire techniques in land management practices used by first nations australians that use proportion relationships. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving explore fire techniques in land management practices used by first nations australians that use proportion relationships. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "exploring fire techniques in land management practices used by First Nations Australians that use proportion relationships, including the rate of fire spread in different fuel types to wind speed, temperature and relative humidity",
-      "The modelling proportion, rate and scale model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "exploring fire techniques in land management practices used by First Nations Australians that use proportion relationships, including the rate of fire spread in different fuel types to wind speed, temperature and relative humidity\nHint: Explore fire techniques in land management practices used by First Nations Australians that use proportion relationships.",
-    "structuredExplanation": {
-      "summary": "exploring fire techniques in land management practices used by First Nations Australians that use proportion relationships, including the rate of fire spread in different fuel types to wind speed, temperature and relative humidity",
-      "hint": "Explore fire techniques in land management practices used by First Nations Australians that use proportion relationships."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m05-p-006",
-    "curriculumCode": "AC9M9M05",
-    "bank": "practice",
-    "skill": "model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model situations involving direct proportion such as pro rata pay rates exchange rates multiple quotes for a job conversion between scales or other appropriate science contexts. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies\nHint: Model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts.",
-    "structuredExplanation": {
-      "summary": "modelling situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts; for example, Hooke’s law and other science contexts involving wave lengths and frequencies",
-      "hint": "Model situations involving direct proportion such as pro rata pay rates, exchange rates, multiple quotes for a job, conversion between scales or other appropriate science contexts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m05-p-007",
-    "curriculumCode": "AC9M9M05",
-    "bank": "practice",
-    "skill": "model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Dimensions, units or accuracy are mixed",
-      "The method can be chosen without checking the values or conditions",
-      "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images\nHint: Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images.",
-    "structuredExplanation": {
-      "summary": "modelling situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images",
-      "hint": "Model situations that impact on image editing used in social media and how proportion may not be maintained and can result in distorted images."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m9m05-p-008",
-    "curriculumCode": "AC9M9M05",
-    "bank": "practice",
-    "skill": "model situations involving compliance with building and construction standards in design and construction such as the rise and tread of staircases and vertical and horizontal components of escalators",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is solving a problem involving model situations involving compliance with building and construction standards in design and construction such as the rise and tread of staircases and vertical and horizontal components of escalators. Which option is mathematically valid?",
-    "audioPrompt": "A Year 9 student is solving a problem involving model situations involving compliance with building and construction standards in design and construction such as the rise and tread of staircases and vertical and horizontal components of escalators. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The modelling proportion, rate and scale model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators"
-    ],
-    "correct": 3,
-    "explanation": "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators\nHint: Model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators.",
-    "structuredExplanation": {
-      "summary": "modelling situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators",
-      "hint": "Model situations involving compliance with building and construction standards in design and construction, such as the rise and tread of staircases, and vertical and horizontal components of escalators."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+[1,"Section A — Direct proportion","Pro-rata pay","If pay is $28 per hour, what is the pro-rata pay for 6 h?",["$168","$140","$112","$200"],0,"Pay = 28 × 6 = 168, so the pay is $168.","Multiply the rate by the number of hours."],
+[2,"Section A — Direct proportion","Currency conversion","Exchange rate: 1 AUD = 0.65 USD. How much is 200 AUD in USD?",["130 USD","65 USD","260 USD","300 USD"],0,"200 × 0.65 = 130, so 200 AUD converts to 130 USD.","Multiply by the exchange rate."],
+[3,"Section A — Direct proportion","Constant of proportionality","If y ∝ x and y = 12 when x = 3, what is y when x = 9?",["36","12","27","3"],0,"The scale factor from 3 to 9 is 3, so y also triples: 12 × 3 = 36.","In direct proportion, both quantities scale by the same factor."],
+[4,"Section A — Direct proportion","Hooke's law model","Hooke's law says F ∝ x. If F = 10 N at x = 2 cm, what is F at x = 6 cm?",["30 N","20 N","60 N","5 N"],0,"Extension triples from 2 cm to 6 cm, so force triples from 10 N to 30 N.","Use the same scale factor."],
+[5,"Section A — Direct proportion","Area quote","A job is quoted at $50 per m². What is the cost for 12 m²?",["$600","$50","$120","$1000"],0,"Cost = 50 × 12 = 600, so the quote is $600.","Rate per square metre times area."],
+[6,"Section A — Direct and inverse proportion","Inverse proportion","If wavelength doubles and frequency is inversely proportional to wavelength, what happens to frequency?",["It halves","It doubles","It stays the same","It becomes zero"],0,"For inverse proportion, increasing one quantity by a factor of 2 makes the other quantity 1/2 as large.","Inverse proportion moves in the opposite direction."],
+[7,"Section A — Direct proportion","Cost by weight","If cost is proportional to weight and 3 kg costs $24, what does 5 kg cost?",["$40","$24","$15","$48"],0,"Unit price = 24 ÷ 3 = $8 per kg. For 5 kg, cost = 5 × 8 = $40.","Find the unit rate first."],
+[8,"Section A — Direct proportion","Speed rate model","If speed = distance ÷ time, what happens when distance doubles and time stays the same?",["Speed doubles","Speed halves","Speed does not change","Speed triples"],0,"With the same time, doubling distance doubles distance ÷ time, so speed doubles.","Keep track of which quantity is unchanged."],
+[9,"Section A — Direct proportion","Equation y = kx","If y = kx and k = 7, what is y when x = 11?",["77","18","7","11"],0,"Substitute x = 11: y = 7 × 11 = 77.","The constant k multiplies x."],
+[10,"Section A — Direct proportion","Map scale","If 1 cm on a map represents 50 km, what does 3.5 cm represent?",["175 km","150 km","200 km","50 km"],0,"3.5 × 50 = 175, so the real distance is 175 km.","Map scales are proportional."],
+[11,"Section B — Proportion and image distortion","Image stretch","If an image is stretched horizontally but not vertically, what happens?",["Proportion is not maintained","Proportion is maintained","The image only shrinks","The image rotates"],0,"Changing only the horizontal scale changes the aspect ratio, so the image becomes distorted.","Proportion needs matching scale factors."],
+[12,"Section B — Proportion and image distortion","Unequal scaling","A photo is scaled by 200% width and 100% height. What happens?",["It is distorted","It is perfectly scaled","It becomes smaller","It is unchanged"],0,"Width doubles but height does not, so the aspect ratio changes and the image is distorted.","Compare the width and height scale factors."],
+[13,"Section B — Proportion and image distortion","Maintaining aspect ratio","To maintain proportion when scaling an image, what must happen?",["Use the same factor for width and height","Use different factors","Use random factors","Use zero factor"],0,"The aspect ratio is maintained only when width and height use the same scale factor.","Equal scale factors preserve shape."],
+[14,"Section B — Proportion and image distortion","Square to rectangle","A square becomes a rectangle when:",["Width is scaled differently from height","Width and height are scaled equally","Both dimensions are scaled to zero","Only the colour changes"],0,"If width and height use different scale factors, equal sides no longer stay equal.","Unequal scaling changes shape."],
+[15,"Section B — Proportion and image distortion","Circle to ellipse","A circle becomes an ellipse when:",["Horizontal and vertical scaling differ","Scaling is equal","Scaling is zero","Scaling is negative"],0,"Unequal horizontal and vertical scaling stretches the circle into an ellipse.","Different scale factors distort curves too."],
+[16,"Section B — Proportion and image distortion","Aspect ratio","Distorted images occur when:",["Aspect ratio changes","Aspect ratio stays constant","Resolution increases","Resolution decreases"],0,"Distortion is caused by changing the aspect ratio, not simply by changing resolution.","Aspect ratio compares width to height."],
+[17,"Section C — Building and construction standards","Stair gradient ratio","A stair has rise 18 cm and tread 28 cm. What is the rise:tread gradient ratio?",["18:28","28:18","1:1","2:1"],0,"Gradient ratio is rise:tread, so it is 18:28.","Put rise first when the question asks rise:tread."],
+[18,"Section C — Building and construction standards","Safe gradient reasoning","If stair rise increases, what generally needs to happen to tread to maintain a similar safe gradient?",["Tread must increase","Tread must decrease","Tread stays unchanged","The stair is removed"],0,"A larger rise needs a larger tread to keep the rise/run ratio similar.","Maintain the proportion of rise to run."],
+[19,"Section C — Building and construction standards","Escalator angle","An escalator angle is determined by:",["Rise and horizontal run","Weight of passengers","Colour","Speed only"],0,"The angle depends on the ratio of vertical rise to horizontal run.","Think tan(angle) = rise/run."],
+[20,"Section C — Building and construction standards","Stair angle expression","A staircase has rise 20 cm and tread 25 cm. Which expression gives its gradient angle?",["tan⁻¹(20/25)","tan⁻¹(25/20)","tan⁻¹(5)","tan⁻¹(1.25)"],0,"The angle to the horizontal satisfies tan θ = rise/run = 20/25, so θ = tan⁻¹(20/25).","Use opposite over adjacent."],
+[21,"Section C — Building and construction standards","Effect of tread length","If tread doubles and rise stays the same, what happens to the stair angle?",["The angle decreases","The angle increases","The angle is unchanged","The stair collapses"],0,"The ratio rise/run becomes smaller, so the angle to the horizontal decreases.","A longer run makes the slope flatter."],
+[22,"Section C — Building and construction standards","Consistent construction ratios","Building standards generally require:",["Consistent rise/tread ratios","Random ratios","Zero rise","Infinite tread"],0,"Consistent rise and tread dimensions make stairs more predictable and safer to use.","Construction standards control variation."],
+[23,"Section C — Building and construction standards","Simplifying a ratio","If rise = 15 cm and tread = 30 cm, what is the simplified rise:tread ratio?",["1:2","2:1","1:1","3:1"],0,"15:30 simplifies by dividing both parts by 15, giving 1:2.","Divide both parts by the same number."],
+[24,"Section C — Building and construction standards","Escalator slope","Escalator slope is rise/run. If rise = 4 m and run = 12 m, what is the slope?",["1/3","3","4","12"],0,"Slope = 4/12 = 1/3.","Simplify the ratio rise/run."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map(q=>({id:`ac9m9m05-p-${String(q[0]).padStart(3,"0")}`,curriculumCode:"AC9M9M05",bank:"practice",section:q[1],sourceNumber:q[0],skill:q[2],printable:true,type:"single",question:q[3],audioPrompt:q[3],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[4],correct:q[5],explanation:`${q[6]}\nHint: ${q[7]}`,structuredExplanation:{summary:q[6],hint:q[7]},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
