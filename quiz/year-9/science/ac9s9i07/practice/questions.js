@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s9i07-p-001",
-    "curriculumCode": "AC9S9I07",
-    "bank": "practice",
-    "skill": "use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
-      "A persuasive tone strengthens scientific evidence",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data\nHint: Use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
-      "hint": "Use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i07-p-002",
-    "curriculumCode": "AC9S9I07",
-    "bank": "practice",
-    "skill": "use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Acknowledging uncertainty weakens an argument",
-      "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine\nHint: Use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "identifying multiple sources of evidence that are consistent with a claim such as the effectiveness of a vaccine",
-      "hint": "Use multiple sources of evidence that are consistent to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i07-p-003",
-    "curriculumCode": "AC9S9I07",
-    "bank": "practice",
-    "skill": "use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A persuasive tone strengthens scientific evidence",
-      "The method can be chosen without checking the values or conditions",
-      "interrogating the evidence and reasoning used to justify claims regarding the age of ancient artefacts",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "interrogating the evidence and reasoning used to justify claims regarding the age of ancient artefacts\nHint: Use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "interrogating the evidence and reasoning used to justify claims regarding the age of ancient artefacts",
-      "hint": "Use interrogating the evidence and reasoning used to justify claims to make the role of source credibility visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i07-p-004",
-    "curriculumCode": "AC9S9I07",
-    "bank": "practice",
-    "skill": "use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Acknowledging uncertainty weakens an argument",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "researching the methods used by scientists in studies reported in the media to evaluate the validity of the headlines"
-    ],
-    "correct": 3,
-    "explanation": "researching the methods used by scientists in studies reported in the media to evaluate the validity of the headlines\nHint: Use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "researching the methods used by scientists in studies reported in the media to evaluate the validity of the headlines",
-      "hint": "Use the methods used by scientists in studies reported to make the role of reasoning and rebuttal visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i07-p-005",
-    "curriculumCode": "AC9S9I07",
-    "bank": "practice",
-    "skill": "use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "examining secondary data to ensure it does not contain personal information which could potentially harm individuals, is correctly cited and is relevant to the investigation question or claim",
-      "A persuasive tone strengthens scientific evidence",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "examining secondary data to ensure it does not contain personal information which could potentially harm individuals, is correctly cited and is relevant to the investigation question or claim\nHint: Use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining secondary data to ensure it does not contain personal information which could potentially harm individuals, is correctly cited and is relevant to the investigation question or claim",
-      "hint": "Use secondary data to ensure it does not contain personal to make the role of ethical use and boundary visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i07-p-006",
-    "curriculumCode": "AC9S9I07",
-    "bank": "practice",
-    "skill": "use identifying the relationship between first peoples knowledges and contemporary to make the role of claim visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use identifying the relationship between first peoples knowledges and contemporary to make the role of claim visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use identifying the relationship between first peoples knowledges and contemporary to make the role of claim visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Acknowledging uncertainty weakens an argument",
-      "acknowledging and identifying the relationship between First Peoples’ knowledges and contemporary science and the co-contributions in arriving at shared understandings when working ‘both ways’",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "acknowledging and identifying the relationship between First Peoples’ knowledges and contemporary science and the co-contributions in arriving at shared understandings when working ‘both ways’\nHint: Use identifying the relationship between First Peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "acknowledging and identifying the relationship between First Peoples’ knowledges and contemporary science and the co-contributions in arriving at shared understandings when working ‘both ways’",
-      "hint": "Use identifying the relationship between First Peoples’ knowledges and contemporary to make the role of claim visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i07-p-007",
-    "curriculumCode": "AC9S9I07",
-    "bank": "practice",
-    "skill": "use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A persuasive tone strengthens scientific evidence",
-      "The method can be chosen without checking the values or conditions",
-      "acknowledging and constructing an argument for the contributions to medicine of First Nations Australians’ knowledges of physiological pathways and contemporary medicinal delivery systems",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "acknowledging and constructing an argument for the contributions to medicine of First Nations Australians’ knowledges of physiological pathways and contemporary medicinal delivery systems\nHint: Use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "acknowledging and constructing an argument for the contributions to medicine of First Nations Australians’ knowledges of physiological pathways and contemporary medicinal delivery systems",
-      "hint": "Use constructing an argument for the contributions to medicine to make the role of evidence set visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s9i07-p-008",
-    "curriculumCode": "AC9S9I07",
-    "bank": "practice",
-    "skill": "use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit s central explanation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 9 student is investigating use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 9 student is investigating use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit s central explanation. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Acknowledging uncertainty weakens an argument",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data"
-    ],
-    "correct": 3,
-    "explanation": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data\nHint: Use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation.",
-    "structuredExplanation": {
-      "summary": "examining secondary data to determine the credibility of the source and the validity and reproducibility of the data",
-      "hint": "Use secondary data to determine the credibility of the source to make the role of claim visible and connect the evidence to the unit’s central explanation."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=[
+["source credibility","Which feature most strengthens confidence in a secondary scientific source?",["It accurately represents relevant evidence and makes its sources and reasoning traceable","It has a professional-looking website","It is widely shared on social media","It gives a definite answer with no uncertainty"],0,"Credibility depends on evidence quality, transparent sourcing and sound reasoning, not appearance or popularity.","Trace the claim back to evidence."],
+["peer review","Which statement about peer review is most accurate?",["It is one quality-control process, but published claims still need critical evaluation","It guarantees every published conclusion is correct","It makes replication unnecessary","It removes all bias from research"],0,"Peer review can improve quality but does not guarantee truth or eliminate uncertainty.","Peer reviewed ≠ automatically correct."],
+["secondary evidence","A news article claims a treatment works but links only to a company advertisement. What is the best next step?",["Look for the underlying studies and compare the claim with independent evidence","Accept the claim because a company supplied data","Reject the treatment without checking evidence","Count how many people shared the article"],0,"Evaluating a secondary claim requires checking the primary evidence and potential conflicts of interest.","Follow the evidence chain."],
+["multiple evidence","Why can several independent studies provide stronger support than one study alone?",["Agreement across different samples or methods reduces the chance that one study-specific error explains the result","Multiple studies always produce identical results","The largest number of papers automatically wins","Independent studies remove all uncertainty"],0,"Converging independent evidence can strengthen an argument while uncertainty may remain.","Independence matters, not just count."],
+["conflicting evidence","Three studies support a claim and one does not. What is the best scientific response?",["Compare methods, sample sizes, conditions and uncertainties before judging the overall evidence","Ignore the disagreeing study","Reject all four studies","Average the conclusions without examining methods"],0,"Conflicting evidence should be investigated rather than automatically discarded.","Ask why the studies differ."],
+["selective evidence","What is cherry-picking?",["Selecting only evidence that supports a preferred claim while ignoring relevant conflicting evidence","Using several independent datasets","Reporting uncertainty alongside a result","Checking the original source"],0,"Cherry-picking weakens an argument because it gives a distorted view of the available evidence.","Consider the whole relevant evidence base."],
+["claim reasoning","Which structure best represents a strong scientific argument?",["Claim supported by relevant evidence and reasoning that explains the connection","Claim followed by a personal opinion","Large dataset with no stated conclusion","Conclusion based only on authority"],0,"Evidence alone is not enough; reasoning must show how it supports the claim.","Claim + evidence + reasoning."],
+["causation","A population study finds vaccinated people have lower infection rates. Why should a causal claim still be evaluated carefully?",["Groups may differ in other ways, so study design and possible confounders matter","Population data can never contribute useful evidence","Lower infection rates prove the vaccine caused every difference","Only laboratory studies count as evidence"],0,"Observational evidence can be valuable, but causal interpretation depends on design and control of alternative explanations.","Association is not automatically causation."],
+["clinical evidence","Which combination would provide especially strong evidence for vaccine effectiveness?",["Well-designed clinical trials together with high-quality population studies showing consistent effects","One testimonial from a vaccinated person","A headline reporting fewer cases without a comparison group","A laboratory mechanism alone with no outcome data"],0,"Different evidence types can complement one another by testing efficacy under controlled and real-world conditions.","Look for converging evidence."],
+["risk calculation","In comparable groups, 10% of unvaccinated participants and 2% of vaccinated participants develop an infection. What is the relative reduction in risk?",["80%","8%","20%","5%"],0,"Relative reduction = (10−2)/10 × 100 = 80%.","Compare the reduction with the original risk."],
+["absolute risk","Using the same data—10% versus 2%—what is the absolute reduction in risk?",["8 percentage points","80 percentage points","20 percentage points","5 percentage points"],0,"Absolute reduction is 10% − 2% = 8 percentage points.","Absolute and relative changes are different."],
+["dating evidence","Why can more than one dating method strengthen an argument about the age of a site?",["Independent methods with compatible results can provide converging evidence","Every artefact must be dated by every available method","Different methods always have identical assumptions","One disagreement automatically proves all dates are wrong"],0,"When appropriate methods agree within uncertainty, confidence can increase.","Convergence helps, but suitability matters."],
+["dating method","Which factor is most important when selecting a dating method?",["Whether the material and expected age fall within the method's valid range and assumptions","Whether the method gives the oldest result","Whether the equipment is colourful","Whether only one sample is available"],0,"A dating method must be appropriate to the material, age range and scientific assumptions involved.","Method suitability comes first."],
+["radiocarbon","Which statement about radiocarbon dating is most accurate?",["It is useful for suitable carbon-containing materials within a limited age range, with contamination and context considered","It can directly date any rock of any age","An uncontaminated sample always gives the exact calendar age","It works only on metal artefacts"],0,"Radiocarbon dating has material, age-range, calibration and contamination constraints.","Every dating method has a domain of use."],
+["dating anomaly","One date from a site differs strongly from several other results. What should researchers do first?",["Check sample context, contamination, method limits and uncertainty before deciding whether it is an anomaly","Delete the date because it is inconvenient","Replace it with the mean of the other dates","Assume the oldest date must be correct"],0,"Unexpected results should be investigated, not automatically discarded.","Anomaly ≠ error until investigated."],
+["dating uncertainty","Two appropriate dating methods give 10,200 ± 200 years and 10,350 ± 250 years. What is the best interpretation?",["The estimates are compatible within their uncertainties and provide converging evidence","The methods contradict because the central values differ","The true age must be exactly 10,275 years","One method must be invalid"],0,"The uncertainty ranges overlap substantially, so the results are compatible.","Compare ranges, not just central values."],
+["media claim","A headline says, ‘New study proves screen time causes poor sleep.’ The study reports only a correlation. What is the main problem?",["The headline converts an association into a causal claim not established by the evidence","Correlations can never be reported","Headlines should never mention science","Poor sleep cannot be measured"],0,"Causal language requires evidence capable of supporting causation, not merely correlation.","Check whether the claim is stronger than the study."],
+["media context","Why should a student read beyond a graph reproduced in a media article?",["The original source may reveal axes, sample details, uncertainty and limitations omitted from the article","Graphs are never useful evidence","Media articles always alter numerical values","The original paper will always agree with the headline"],0,"Context is needed to judge whether a graph supports the reported claim.","Check what was omitted."],
+["ethical data","Which use of secondary health data is most ethically responsible?",["Use data under appropriate consent, governance, privacy and access conditions, with accurate attribution","Publish identifiable records because the data already exist","Remove inconvenient participants without reporting it","Reuse data for any purpose without checking permissions"],0,"Secondary data use can involve privacy, consent, governance and purpose limitations.","Existing data still carry ethical responsibilities."],
+["citation ethics","Why is accurate citation an ethical issue as well as an academic one?",["It recognises knowledge contributors and lets readers trace the evidence","It guarantees the cited source is correct","It transfers ownership of the source","It removes the need to seek permission for restricted knowledge"],0,"Citation supports attribution and transparency, but does not replace required permissions or protocols.","Attribution and permission are different responsibilities."],
+["cultural protocols","Before using First Nations knowledge shared within a community, what should researchers consider?",["Cultural authority, permission, appropriate attribution, purpose and any restrictions on sharing","Whether the information would improve a grade","Only whether it appears online","Whether it can be translated into a graph"],0,"Access to knowledge does not automatically mean permission to reproduce, publish or reinterpret it.","Available ≠ freely reusable."],
+["knowledge systems","Which statement best describes respectful collaboration between First Nations knowledge systems and contemporary science?",["Different knowledge systems can contribute complementary evidence and questions without assuming one must erase or absorb the other","First Nations knowledge is useful only after Western science approves every observation","The two systems can never inform one another","All knowledge should be combined without considering ownership or context"],0,"Respectful collaboration recognises distinct knowledge systems, contexts, authority and potential complementarities.","Collaboration is not appropriation."],
+["medicinal knowledge","A plant has long-standing medicinal use in a First Nations community. What is an appropriate scientific response?",["With appropriate cultural authority and permissions, the knowledge may inform research questions about biological effects while respecting ownership and benefit sharing","Collect and commercialise the plant immediately because the knowledge is public","Assume traditional use proves every proposed medical effect","Ignore the knowledge unless it already appears in a journal"],0,"Scientific investigation can be informed by existing knowledge, but ethical access, attribution and benefit sharing are essential.","Scientific interest does not override cultural rights."],
+["argument scope","A claim is supported by evidence from one ecosystem. Which conclusion is strongest?",["The evidence supports the claim for the studied conditions; broader application needs additional evidence","The claim is proven for all ecosystems","The evidence is worthless because it is local","The result should be generalised wherever convenient"],0,"Strong arguments match the scope of conclusions to the scope of evidence.","Do not generalise beyond the data."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9s9i07-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S9I07",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
