@@ -4,11 +4,13 @@ window.skillrTestQuestions = [
     "id": "ac9m8a02-t-001",
     "curriculumCode": "AC9M8A02",
     "bank": "test",
-    "skill": "completing a table of values plotting the resulting points on the cartesian plane and determining whether the relationship is linear",
+    "section": "Solving linear equations",
+    "sourceNumber": 25,
+    "skill": "Negative solutions are possible.",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is solving a problem involving completing a table of values plotting the resulting points on the cartesian plane and determining whether the relationship is linear. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving completing a table of values plotting the resulting points on the cartesian plane and determining whether the relationship is linear. Which option is mathematically valid?",
+    "question": "Solve: 2x + 9 = 1.",
+    "audioPrompt": "Solve: 2x + 9 = 1.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,16 +18,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear",
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "x = −4",
+      "x = −5",
+      "x = −6",
+      "x = −7"
     ],
     "correct": 0,
-    "explanation": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear\nHint: completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear.",
+    "explanation": "2x = −8, so x = −4.",
     "structuredExplanation": {
-      "summary": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear",
-      "hint": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear."
+      "summary": "2x = −8, so x = −4.",
+      "hint": "Negative solutions are possible."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,11 +35,13 @@ window.skillrTestQuestions = [
     "id": "ac9m8a02-t-002",
     "curriculumCode": "AC9M8A02",
     "bank": "test",
-    "skill": "graphing the linear relationship ax b c for given values of a b and c and identifying from the graph where ax b c",
+    "section": "Solving linear inequalities",
+    "sourceNumber": 26,
+    "skill": "Divide by a positive number.",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is solving a problem involving graphing the linear relationship ax b c for given values of a b and c and identifying from the graph where ax b c. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving graphing the linear relationship ax b c for given values of a b and c and identifying from the graph where ax b c. Which option is mathematically valid?",
+    "question": "Solve: 3x + 2 < 11.",
+    "audioPrompt": "Solve: 3x + 2 < 11.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,16 +49,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "x < 3",
+      "x > 3",
+      "x < 4",
+      "x > 4"
     ],
-    "correct": 1,
-    "explanation": "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c\nHint: graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c.",
+    "correct": 0,
+    "explanation": "3x < 9, so x < 3.",
     "structuredExplanation": {
-      "summary": "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c",
-      "hint": "graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c."
+      "summary": "3x < 9, so x < 3.",
+      "hint": "Divide by a positive number."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,11 +66,13 @@ window.skillrTestQuestions = [
     "id": "ac9m8a02-t-003",
     "curriculumCode": "AC9M8A02",
     "bank": "test",
-    "skill": "solve linear equations of the form ax b c and one variable inequalities of the form ax b c where a 0 using inverse operations and digital tools and checking solutions",
+    "section": "Solving linear inequalities",
+    "sourceNumber": 27,
+    "skill": "Add 5 first.",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is solving a problem involving solve linear equations of the form ax b c and one variable inequalities of the form ax b c where a 0 using inverse operations and digital tools and checking solutions. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving solve linear equations of the form ax b c and one variable inequalities of the form ax b c where a 0 using inverse operations and digital tools and checking solutions. Which option is mathematically valid?",
+    "question": "Solve: 5x − 5 > 10.",
+    "audioPrompt": "Solve: 5x − 5 > 10.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,16 +80,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The linear relations, equations and inequalities model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "solving linear equations of the form ax+b\\;=\\;c and one-variable inequalities of the form ax+b\\; \\;c where a>0 using inverse operations and digital tools, and checking solutions by substitution",
-      "The same rule and result apply to every situation without testing"
+      "x > 3",
+      "x < 3",
+      "x > 4",
+      "x < 4"
     ],
-    "correct": 2,
-    "explanation": "solving linear equations of the form ax+b\\;=\\;c and one-variable inequalities of the form ax+b\\; \\;c where a>0 using inverse operations and digital tools, and checking solutions by substitution\nHint: Solve linear equations of the form ax+b = c and one-variable inequalities of the form ax+b c where a>0 using inverse operations and digital tools, and checking solutions.",
+    "correct": 0,
+    "explanation": "5x > 15, so x > 3.",
     "structuredExplanation": {
-      "summary": "solving linear equations of the form ax+b\\;=\\;c and one-variable inequalities of the form ax+b\\; \\;c where a>0 using inverse operations and digital tools, and checking solutions by substitution",
-      "hint": "Solve linear equations of the form ax+b = c and one-variable inequalities of the form ax+b c where a>0 using inverse operations and digital tools, and checking solutions."
+      "summary": "5x > 15, so x > 3.",
+      "hint": "Add 5 first."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,11 +97,13 @@ window.skillrTestQuestions = [
     "id": "ac9m8a02-t-004",
     "curriculumCode": "AC9M8A02",
     "bank": "test",
-    "skill": "solve linear equations such as 3x 7 6x 9 representing these graphically and verifying solutions by substitution",
+    "section": "Solving linear inequalities",
+    "sourceNumber": 28,
+    "skill": "Subtract 7 first.",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is solving a problem involving solve linear equations such as 3x 7 6x 9 representing these graphically and verifying solutions by substitution. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving solve linear equations such as 3x 7 6x 9 representing these graphically and verifying solutions by substitution. Which option is mathematically valid?",
+    "question": "Solve: 2x + 7 < 15.",
+    "audioPrompt": "Solve: 2x + 7 < 15.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,16 +111,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "solving linear equations such as 3x+7\\;=\\;6x-9, representing these graphically, and verifying solutions by substitution"
+      "x < 4",
+      "x > 4",
+      "x < 3",
+      "x > 3"
     ],
-    "correct": 3,
-    "explanation": "solving linear equations such as 3x+7\\;=\\;6x-9, representing these graphically, and verifying solutions by substitution\nHint: Solve linear equations such as 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution.",
+    "correct": 0,
+    "explanation": "2x < 8, so x < 4.",
     "structuredExplanation": {
-      "summary": "solving linear equations such as 3x+7\\;=\\;6x-9, representing these graphically, and verifying solutions by substitution",
-      "hint": "Solve linear equations such as 3x+7 = 6x-9, representing these graphically, and verifying solutions by substitution."
+      "summary": "2x < 8, so x < 4.",
+      "hint": "Subtract 7 first."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,11 +128,13 @@ window.skillrTestQuestions = [
     "id": "ac9m8a02-t-005",
     "curriculumCode": "AC9M8A02",
     "bank": "test",
-    "skill": "recognise that in a table of values if the first difference between consecutive values of the dependent variable is constant then it is a linear relation",
+    "section": "Solving linear inequalities",
+    "sourceNumber": 29,
+    "skill": "Add 1, then divide by 6.",
     "printable": true,
     "type": "single",
-    "question": "Which response correctly uses recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation?",
-    "audioPrompt": "Which response correctly uses recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation?",
+    "question": "Solve: 6x − 1 > 17.",
+    "audioPrompt": "Solve: 6x − 1 > 17.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,16 +142,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "recognising that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation",
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "x > 3",
+      "x > 4",
+      "x > 5",
+      "x > 6"
     ],
     "correct": 0,
-    "explanation": "recognising that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation\nHint: Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation.",
+    "explanation": "6x > 18, so x > 3.",
     "structuredExplanation": {
-      "summary": "recognising that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation",
-      "hint": "Recognise that in a table of values, if the first difference between consecutive values of the dependent variable is constant, then it is a linear relation."
+      "summary": "6x > 18, so x > 3.",
+      "hint": "Add 1, then divide by 6."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,11 +159,13 @@ window.skillrTestQuestions = [
     "id": "ac9m8a02-t-006",
     "curriculumCode": "AC9M8A02",
     "bank": "test",
-    "skill": "graphing linear functions and relations of the form x a y a x a x a y a",
+    "section": "Solving linear inequalities",
+    "sourceNumber": 30,
+    "skill": "Subtract 3, then divide by 4.",
     "printable": true,
     "type": "single",
-    "question": "Which response correctly uses graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a?",
-    "audioPrompt": "Which response correctly uses graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a?",
+    "question": "Solve: 4x + 3 < 19.",
+    "audioPrompt": "Solve: 4x + 3 < 19.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,16 +173,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The linear relations, equations and inequalities model is copied without interpretation",
-      "graphing linear functions and relations of the form x\\;=\\;a,\\;y\\;=\\;a,\\;x\\;\\leq\\;a,\\;x\\;>\\;a,\\;y\\leq\\;a,\\;y>\\;a on the Cartesian plane for known values of a",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "x < 4",
+      "x < 5",
+      "x < 6",
+      "x < 7"
     ],
-    "correct": 1,
-    "explanation": "graphing linear functions and relations of the form x\\;=\\;a,\\;y\\;=\\;a,\\;x\\;\\leq\\;a,\\;x\\;>\\;a,\\;y\\leq\\;a,\\;y>\\;a on the Cartesian plane for known values of a\nHint: graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a.",
+    "correct": 0,
+    "explanation": "4x < 16, so x < 4.",
     "structuredExplanation": {
-      "summary": "graphing linear functions and relations of the form x\\;=\\;a,\\;y\\;=\\;a,\\;x\\;\\leq\\;a,\\;x\\;>\\;a,\\;y\\leq\\;a,\\;y>\\;a on the Cartesian plane for known values of a",
-      "hint": "graphing linear functions and relations of the form x = a, y = a, x ≤ a, x > a, y≤ a."
+      "summary": "4x < 16, so x < 4.",
+      "hint": "Subtract 3, then divide by 4."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,11 +190,13 @@ window.skillrTestQuestions = [
     "id": "ac9m8a02-t-007",
     "curriculumCode": "AC9M8A02",
     "bank": "test",
-    "skill": "completing a table of values plotting the resulting points on the cartesian plane and determining whether the relationship is linear",
+    "section": "Solving multi-step linear equations",
+    "sourceNumber": 31,
+    "skill": "Collect x-terms on one side.",
     "printable": true,
     "type": "single",
-    "question": "Which response correctly uses completing a table of values, plotting the resulting points on the cartesian plane and determining whether the relationship is linear?",
-    "audioPrompt": "Which response correctly uses completing a table of values, plotting the resulting points on the cartesian plane and determining whether the relationship is linear?",
+    "question": "Solve: 3x + 7 = 5x − 1.",
+    "audioPrompt": "Solve: 3x + 7 = 5x − 1.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,16 +204,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear",
-      "The same rule and result apply to every situation without testing"
+      "x = 4",
+      "x = 5",
+      "x = 6",
+      "x = 7"
     ],
-    "correct": 2,
-    "explanation": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear\nHint: completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear.",
+    "correct": 0,
+    "explanation": "3x + 7 = 5x − 1 gives 8 = 2x, so x = 4.",
     "structuredExplanation": {
-      "summary": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear",
-      "hint": "completing a table of values, plotting the resulting points on the Cartesian plane and determining whether the relationship is linear."
+      "summary": "3x + 7 = 5x − 1 gives 8 = 2x, so x = 4.",
+      "hint": "Collect x-terms on one side."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,11 +221,13 @@ window.skillrTestQuestions = [
     "id": "ac9m8a02-t-008",
     "curriculumCode": "AC9M8A02",
     "bank": "test",
-    "skill": "graphing the linear relationship ax b c for given values of a b and c and identifying from the graph where ax b c",
+    "section": "Solving multi-step linear equations",
+    "sourceNumber": 32,
+    "skill": "Substitute into both sides.",
     "printable": true,
     "type": "single",
-    "question": "Which response correctly uses graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c?",
-    "audioPrompt": "Which response correctly uses graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c?",
+    "question": "Verify x = 4 in 3x + 7 = 5x − 1.",
+    "audioPrompt": "Verify x = 4 in 3x + 7 = 5x − 1.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,16 +235,262 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A rule is applied without preserving equivalence or its conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c"
+      "LHS = RHS",
+      "LHS ≠ RHS"
     ],
-    "correct": 3,
-    "explanation": "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c\nHint: graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c.",
+    "correct": 0,
+    "explanation": "LHS = 3(4) + 7 = 19 and RHS = 5(4) − 1 = 19, so the sides are equal.",
     "structuredExplanation": {
-      "summary": "graphing the linear relationship ax+b\\;=\\;c for given values of a, b and c and identifying from the graph where ax+b\\; \\;c",
-      "hint": "graphing the linear relationship ax+b = c for given values of a, b and c and identifying from the graph where ax+b c."
+      "summary": "LHS = 3(4) + 7 = 19 and RHS = 5(4) − 1 = 19, so the sides are equal.",
+      "hint": "Substitute into both sides."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m8a02-t-009",
+    "curriculumCode": "AC9M8A02",
+    "bank": "test",
+    "section": "Solving multi-step linear equations",
+    "sourceNumber": 33,
+    "skill": "Subtract x and subtract 5.",
+    "printable": true,
+    "type": "single",
+    "question": "Solve: 2x + 5 = x + 9.",
+    "audioPrompt": "Solve: 2x + 5 = x + 9.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "x = 3",
+      "x = 4",
+      "x = 5",
+      "x = 6"
+    ],
+    "correct": 1,
+    "explanation": "2x + 5 = x + 9 gives x = 4.",
+    "structuredExplanation": {
+      "summary": "2x + 5 = x + 9 gives x = 4.",
+      "hint": "Subtract x and subtract 5."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m8a02-t-010",
+    "curriculumCode": "AC9M8A02",
+    "bank": "test",
+    "section": "Solving multi-step linear equations",
+    "sourceNumber": 34,
+    "skill": "Collect x-terms and constants.",
+    "printable": true,
+    "type": "single",
+    "question": "Solve: 7x − 4 = 3x + 12.",
+    "audioPrompt": "Solve: 7x − 4 = 3x + 12.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "x = 4",
+      "x = 5",
+      "x = 6",
+      "x = 7"
+    ],
+    "correct": 0,
+    "explanation": "7x − 4 = 3x + 12 gives 4x = 16, so x = 4.",
+    "structuredExplanation": {
+      "summary": "7x − 4 = 3x + 12 gives 4x = 16, so x = 4.",
+      "hint": "Collect x-terms and constants."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m8a02-t-011",
+    "curriculumCode": "AC9M8A02",
+    "bank": "test",
+    "section": "Solving multi-step linear equations",
+    "sourceNumber": 35,
+    "skill": "Move x-terms to one side.",
+    "printable": true,
+    "type": "single",
+    "question": "Solve: 9x + 1 = 4x + 11.",
+    "audioPrompt": "Solve: 9x + 1 = 4x + 11.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "x = 2",
+      "x = 3",
+      "x = 4",
+      "x = 5"
+    ],
+    "correct": 0,
+    "explanation": "9x + 1 = 4x + 11 gives 5x = 10, so x = 2.",
+    "structuredExplanation": {
+      "summary": "9x + 1 = 4x + 11 gives 5x = 10, so x = 2.",
+      "hint": "Move x-terms to one side."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m8a02-t-012",
+    "curriculumCode": "AC9M8A02",
+    "bank": "test",
+    "section": "Solving multi-step linear equations",
+    "sourceNumber": 36,
+    "skill": "Subtract 2x and add 3.",
+    "printable": true,
+    "type": "single",
+    "question": "Solve: 8x − 3 = 2x + 9.",
+    "audioPrompt": "Solve: 8x − 3 = 2x + 9.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "x = 2",
+      "x = 3",
+      "x = 4",
+      "x = 5"
+    ],
+    "correct": 0,
+    "explanation": "8x − 3 = 2x + 9 gives 6x = 12, so x = 2.",
+    "structuredExplanation": {
+      "summary": "8x − 3 = 2x + 9 gives 6x = 12, so x = 2.",
+      "hint": "Subtract 2x and add 3."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m8a02-t-013",
+    "curriculumCode": "AC9M8A02",
+    "bank": "test",
+    "section": "Solving multi-step linear equations",
+    "sourceNumber": 37,
+    "skill": "Collect like terms across the equals sign.",
+    "printable": true,
+    "type": "single",
+    "question": "Solve: 5x + 6 = 3x + 14.",
+    "audioPrompt": "Solve: 5x + 6 = 3x + 14.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "x = 4",
+      "x = 5",
+      "x = 6",
+      "x = 7"
+    ],
+    "correct": 0,
+    "explanation": "5x + 6 = 3x + 14 gives 2x = 8, so x = 4.",
+    "structuredExplanation": {
+      "summary": "5x + 6 = 3x + 14 gives 2x = 8, so x = 4.",
+      "hint": "Collect like terms across the equals sign."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m8a02-t-014",
+    "curriculumCode": "AC9M8A02",
+    "bank": "test",
+    "section": "Solving multi-step linear equations",
+    "sourceNumber": 38,
+    "skill": "Subtract 2x and add 8.",
+    "printable": true,
+    "type": "single",
+    "question": "Solve: 10x − 8 = 2x + 16.",
+    "audioPrompt": "Solve: 10x − 8 = 2x + 16.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "x = 3",
+      "x = 4",
+      "x = 5",
+      "x = 6"
+    ],
+    "correct": 0,
+    "explanation": "10x − 8 = 2x + 16 gives 8x = 24, so x = 3.",
+    "structuredExplanation": {
+      "summary": "10x − 8 = 2x + 16 gives 8x = 24, so x = 3.",
+      "hint": "Subtract 2x and add 8."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m8a02-t-015",
+    "curriculumCode": "AC9M8A02",
+    "bank": "test",
+    "section": "Solving multi-step linear equations",
+    "sourceNumber": 39,
+    "skill": "Subtract 7x and subtract 5.",
+    "printable": true,
+    "type": "single",
+    "question": "Solve: 12x + 5 = 7x + 20.",
+    "audioPrompt": "Solve: 12x + 5 = 7x + 20.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "x = 3",
+      "x = 4",
+      "x = 5",
+      "x = 6"
+    ],
+    "correct": 0,
+    "explanation": "12x + 5 = 7x + 20 gives 5x = 15, so x = 3.",
+    "structuredExplanation": {
+      "summary": "12x + 5 = 7x + 20 gives 5x = 15, so x = 3.",
+      "hint": "Subtract 7x and subtract 5."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m8a02-t-016",
+    "curriculumCode": "AC9M8A02",
+    "bank": "test",
+    "section": "Solving multi-step linear equations",
+    "sourceNumber": 40,
+    "skill": "Collect x-terms, then divide.",
+    "printable": true,
+    "type": "single",
+    "question": "Solve: 15x − 9 = 9x + 3.",
+    "audioPrompt": "Solve: 15x − 9 = 9x + 3.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "x = 2",
+      "x = 3",
+      "x = 4",
+      "x = 5"
+    ],
+    "correct": 0,
+    "explanation": "15x − 9 = 9x + 3 gives 6x = 12, so x = 2.",
+    "structuredExplanation": {
+      "summary": "15x − 9 = 9x + 3 gives 6x = 12, so x = 2.",
+      "hint": "Collect x-terms, then divide."
     },
     "qualitySchema": "production-v1"
   }
