@@ -4,233 +4,42 @@ window.skillrPracticeQuestions = [
     "id": "ac9m8sp02-p-001",
     "curriculumCode": "AC9M8SP02",
     "bank": "practice",
-    "skill": "establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof",
+    "skill": "quadrilateral properties, proof, symmetry and mechanisms",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is solving a problem involving establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof. Which option is mathematically valid?",
+    "question": "The sum of one exterior angle at each vertex of any polygon is:",
+    "audioPrompt": "The sum of one exterior angle at each vertex of any polygon is:",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°\nHint: Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof.",
-    "structuredExplanation": {
-      "summary": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
-      "hint": "Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp02-p-002",
-    "curriculumCode": "AC9M8SP02",
-    "bank": "practice",
-    "skill": "identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The properties of quadrilaterals model is copied without interpretation",
-      "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry\nHint: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry.",
-    "structuredExplanation": {
-      "summary": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
-      "hint": "Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp02-p-003",
-    "curriculumCode": "AC9M8SP02",
-    "bank": "practice",
-    "skill": "apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "The method can be chosen without checking the values or conditions",
-      "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
-      "The same rule and result apply to every situation without testing"
-    ],
+    "visualMeta": {"type":"none","alt_text":""},
+    "answers": ["180°","270°","360°","It depends on the number of sides"],
     "correct": 2,
-    "explanation": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers\nHint: Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.",
-    "structuredExplanation": {
-      "summary": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
-      "hint": "Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers."
-    },
+    "explanation": "The exterior-angle sum of any polygon is one full turn, 360°.",
+    "structuredExplanation": {"summary":"The exterior-angle sum of any polygon is one full turn, 360°.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},
     "qualitySchema": "production-v1"
   },
-  {
-    "id": "ac9m8sp02-p-004",
-    "curriculumCode": "AC9M8SP02",
-    "bank": "practice",
-    "skill": "establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°"
-    ],
-    "correct": 3,
-    "explanation": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°\nHint: Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof.",
-    "structuredExplanation": {
-      "summary": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
-      "hint": "Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp02-p-005",
-    "curriculumCode": "AC9M8SP02",
-    "bank": "practice",
-    "skill": "identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
-      "The properties of quadrilaterals model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 0,
-    "explanation": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry\nHint: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry.",
-    "structuredExplanation": {
-      "summary": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
-      "hint": "Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp02-p-006",
-    "curriculumCode": "AC9M8SP02",
-    "bank": "practice",
-    "skill": "apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 8 student is solving a problem involving apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers. Which option is mathematically valid?",
-    "audioPrompt": "A Year 8 student is solving a problem involving apply the properties of triangles and quadrilaterals to construction designs such as car jacks scissor lifts folding umbrellas toolboxes and cherry pickers. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The result is not verified",
-      "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 1,
-    "explanation": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers\nHint: Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers.",
-    "structuredExplanation": {
-      "summary": "applying the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers",
-      "hint": "Apply the properties of triangles and quadrilaterals to construction designs such as car jacks, scissor lifts, folding umbrellas, toolboxes and cherry pickers."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp02-p-007",
-    "curriculumCode": "AC9M8SP02",
-    "bank": "practice",
-    "skill": "establish the properties of squares rectangles parallelograms rhombuses trapeziums and kites using geometric properties and proof",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
-    "audioPrompt": "What should you check when using establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A diagram is trusted by appearance instead of stated conditions",
-      "The method can be chosen without checking the values or conditions",
-      "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
-      "The same rule and result apply to every situation without testing"
-    ],
-    "correct": 2,
-    "explanation": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°\nHint: Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof.",
-    "structuredExplanation": {
-      "summary": "establishing the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof, such as the sum of the exterior angles of a polygon is equal to a complete turn or 360°",
-      "hint": "Establish the properties of squares, rectangles, parallelograms, rhombuses, trapeziums and kites using geometric properties and proof."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m8sp02-p-008",
-    "curriculumCode": "AC9M8SP02",
-    "bank": "practice",
-    "skill": "identify properties of quadrilaterals related to side lengths parallel sides angles diagonals and symmetry",
-    "printable": true,
-    "type": "single",
-    "question": "What should you check when using identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry?",
-    "audioPrompt": "What should you check when using identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The properties of quadrilaterals model is copied without interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry"
-    ],
-    "correct": 3,
-    "explanation": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry\nHint: Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry.",
-    "structuredExplanation": {
-      "summary": "identifying properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry",
-      "hint": "Identify properties of quadrilaterals related to side lengths, parallel sides, angles, diagonals and symmetry."
-    },
-    "qualitySchema": "production-v1"
-  }
+  {"id":"ac9m8sp02-p-002","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"Which property is always true for a square?","audioPrompt":"Which property is always true for a square?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Only opposite sides are equal","All four angles are right angles","Its diagonals are unequal","Its diagonals are never perpendicular"],"correct":1,"explanation":"A square has four equal sides and four right angles.","structuredExplanation":{"summary":"A square has four equal sides and four right angles.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-003","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"In a rectangle, the diagonals are always:","audioPrompt":"In a rectangle, the diagonals are always:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Equal in length","Perpendicular","Angle bisectors","Different lengths"],"correct":0,"explanation":"Rectangle diagonals are equal and bisect each other, but are not generally perpendicular.","structuredExplanation":{"summary":"Rectangle diagonals are equal and bisect each other, but are not generally perpendicular.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-004","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"A rhombus always has:","audioPrompt":"A rhombus always has:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Four equal sides","Four equal angles","Equal diagonals","No parallel sides"],"correct":0,"explanation":"A rhombus is defined by four equal sides; opposite sides are also parallel.","structuredExplanation":{"summary":"A rhombus is defined by four equal sides; opposite sides are also parallel.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-005","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"In a parallelogram, adjacent interior angles are:","audioPrompt":"In a parallelogram, adjacent interior angles are:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Equal","Complementary","Supplementary","Always 90°"],"correct":2,"explanation":"Adjacent angles in a parallelogram add to 180°.","structuredExplanation":{"summary":"Adjacent angles in a parallelogram add to 180°.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-006","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"Which statement about a kite is always true?","audioPrompt":"Which statement about a kite is always true?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Its diagonals are perpendicular","Its diagonals are equal","Both pairs of opposite sides are parallel","All four sides are equal"],"correct":0,"explanation":"The diagonals of a kite are perpendicular; one diagonal bisects the other.","structuredExplanation":{"summary":"The diagonals of a kite are perpendicular; one diagonal bisects the other.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-007","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"In an isosceles trapezium, which property is always true?","audioPrompt":"In an isosceles trapezium, which property is always true?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The diagonals are equal","The diagonals are perpendicular","Both pairs of opposite sides are parallel","All four sides are equal"],"correct":0,"explanation":"An isosceles trapezium has equal non-parallel sides, equal base angles and equal diagonals.","structuredExplanation":{"summary":"An isosceles trapezium has equal non-parallel sides, equal base angles and equal diagonals.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-008","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"A diagonal drawn across a parallelogram divides it into:","audioPrompt":"A diagonal drawn across a parallelogram divides it into:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Two congruent triangles","Two equilateral triangles","Two right triangles","Two unrelated triangles"],"correct":0,"explanation":"Opposite sides of a parallelogram are equal and parallel, so a diagonal forms two congruent triangles.","structuredExplanation":{"summary":"Opposite sides of a parallelogram are equal and parallel, so a diagonal forms two congruent triangles.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-009","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"Which set of facts is sufficient to prove that a quadrilateral is a square?","audioPrompt":"Which set of facts is sufficient to prove that a quadrilateral is a square?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["All four sides are equal","All four angles are right angles","All four sides are equal and all four angles are right angles","Its diagonals are perpendicular"],"correct":2,"explanation":"Equal sides alone gives a rhombus; right angles alone gives a rectangle. Both together prove a square.","structuredExplanation":{"summary":"Equal sides alone gives a rhombus; right angles alone gives a rectangle. Both together prove a square.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-010","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"Which fact alone is sufficient to prove that a quadrilateral is a rectangle?","audioPrompt":"Which fact alone is sufficient to prove that a quadrilateral is a rectangle?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["All four angles are right angles","All four sides are equal","Its diagonals are perpendicular","One pair of sides is parallel"],"correct":0,"explanation":"A quadrilateral with four right angles is a rectangle.","structuredExplanation":{"summary":"A quadrilateral with four right angles is a rectangle.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-011","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"Which condition proves that a quadrilateral is a parallelogram?","audioPrompt":"Which condition proves that a quadrilateral is a parallelogram?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["One pair of opposite sides is parallel","Both pairs of opposite sides are parallel","Its diagonals are equal","One pair of adjacent sides is equal"],"correct":1,"explanation":"A parallelogram has both pairs of opposite sides parallel.","structuredExplanation":{"summary":"A parallelogram has both pairs of opposite sides parallel.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-012","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"A quadrilateral has two distinct pairs of adjacent equal sides. It is a:","audioPrompt":"A quadrilateral has two distinct pairs of adjacent equal sides. It is a:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Rectangle","Kite","Trapezium","Parallelogram"],"correct":1,"explanation":"Two pairs of adjacent equal sides define a kite.","structuredExplanation":{"summary":"Two pairs of adjacent equal sides define a kite.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-013","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"How many lines of symmetry does a square have?","audioPrompt":"How many lines of symmetry does a square have?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1","2","3","4"],"correct":3,"explanation":"A square has two diagonal and two midline axes of symmetry.","structuredExplanation":{"summary":"A square has two diagonal and two midline axes of symmetry.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-014","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"How many lines of symmetry does a non-square rectangle have?","audioPrompt":"How many lines of symmetry does a non-square rectangle have?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["0","1","2","4"],"correct":2,"explanation":"A non-square rectangle has horizontal and vertical symmetry axes.","structuredExplanation":{"summary":"A non-square rectangle has horizontal and vertical symmetry axes.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-015","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"How many lines of symmetry does a non-square rhombus have?","audioPrompt":"How many lines of symmetry does a non-square rhombus have?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["0","1","2","4"],"correct":2,"explanation":"Its two diagonals are axes of symmetry.","structuredExplanation":{"summary":"Its two diagonals are axes of symmetry.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-016","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"A general parallelogram that is neither a rectangle nor a rhombus has:","audioPrompt":"A general parallelogram that is neither a rectangle nor a rhombus has:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["0 lines of symmetry","1 line of symmetry","2 lines of symmetry","4 lines of symmetry"],"correct":0,"explanation":"A general parallelogram has rotational symmetry of order 2 but no line symmetry.","structuredExplanation":{"summary":"A general parallelogram has rotational symmetry of order 2 but no line symmetry.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-017","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"A typical kite that is not a rhombus has how many lines of symmetry?","audioPrompt":"A typical kite that is not a rhombus has how many lines of symmetry?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["0","1","2","4"],"correct":1,"explanation":"A typical kite has one axis of symmetry along one diagonal.","structuredExplanation":{"summary":"A typical kite has one axis of symmetry along one diagonal.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-018","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"Which description is true for the diagonals of a square?","audioPrompt":"Which description is true for the diagonals of a square?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Equal only","Perpendicular only","They bisect the vertex angles only","Equal, perpendicular and angle-bisecting"],"correct":3,"explanation":"Square diagonals are equal, perpendicular, bisect each other and bisect the angles.","structuredExplanation":{"summary":"Square diagonals are equal, perpendicular, bisect each other and bisect the angles.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-019","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"Opposite angles in a parallelogram are:","audioPrompt":"Opposite angles in a parallelogram are:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Equal","Complementary","Always 90°","Always unequal"],"correct":0,"explanation":"Opposite angles of a parallelogram are equal.","structuredExplanation":{"summary":"Opposite angles of a parallelogram are equal.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-020","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"An isosceles trapezium has which side property?","audioPrompt":"An isosceles trapezium has which side property?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Its non-parallel sides are equal","Its parallel sides are equal","All four sides are equal","No sides are parallel"],"correct":0,"explanation":"The non-parallel sides of an isosceles trapezium are equal.","structuredExplanation":{"summary":"The non-parallel sides of an isosceles trapezium are equal.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-021","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"A quadrilateral has exterior angles 70°, 110°, 90° and x°. Find x.","audioPrompt":"A quadrilateral has exterior angles 70 degrees, 110 degrees, 90 degrees and x degrees. Find x.","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["70°","80°","90°","100°"],"correct":2,"explanation":"Exterior angles sum to 360°, so x = 360 - 270 = 90°.","structuredExplanation":{"summary":"Exterior angles sum to 360°, so x = 360 - 270 = 90°.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-022","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"A rhombus has one interior angle of 120°. An adjacent angle is:","audioPrompt":"A rhombus has one interior angle of 120 degrees. An adjacent angle is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["30°","60°","90°","120°"],"correct":1,"explanation":"Adjacent angles in a rhombus are supplementary: 180 - 120 = 60°.","structuredExplanation":{"summary":"Adjacent angles in a rhombus are supplementary: 180 - 120 = 60°.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-023","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"A quadrilateral has diagonals that are equal, perpendicular and bisect each other. It must be a:","audioPrompt":"A quadrilateral has diagonals that are equal, perpendicular and bisect each other. It must be a:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Kite","Rectangle only","Rhombus only","Square"],"correct":3,"explanation":"Bisecting diagonals give a parallelogram; equal diagonals make it a rectangle and perpendicular diagonals make it a rhombus, so it is a square.","structuredExplanation":{"summary":"Bisecting diagonals give a parallelogram; equal diagonals make it a rectangle and perpendicular diagonals make it a rhombus, so it is a square.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"},
+  {"id":"ac9m8sp02-p-024","curriculumCode":"AC9M8SP02","bank":"practice","skill":"quadrilateral properties, proof, symmetry and mechanisms","printable":true,"type":"single","question":"Which quadrilateral has rotational symmetry of order 2 but, in general, no line symmetry?","audioPrompt":"Which quadrilateral has rotational symmetry of order 2 but, in general, no line symmetry?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Square","Rectangle","Parallelogram","Rhombus"],"correct":2,"explanation":"A general parallelogram has half-turn symmetry but no reflection symmetry.","structuredExplanation":{"summary":"A general parallelogram has half-turn symmetry but no reflection symmetry.","hint":"Use stated side, angle, diagonal, symmetry or congruence facts; do not rely on appearance."},"qualitySchema":"production-v1"}
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
