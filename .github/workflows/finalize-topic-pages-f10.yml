@@ -14,9 +14,6 @@ on:
       - 'scripts/finalize_year10_science_inquiry_pages.py'
       - 'scripts/validate_year10_science_inquiry_pages.py'
       - '.github/workflows/finalize-topic-pages-f10.yml'
-      - 'foundation/english/**'
-      - 'year*/english/**'
-      - 'year10/science/ac9s10i*/index.html'
   workflow_dispatch:
 
 permissions:
@@ -92,7 +89,7 @@ jobs:
       - name: Validate changed static curriculum architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
 
-      - name: Verify changed English fixed viewers are static
+      - name: Verify changed English fixed viewers are static and watermarked
         shell: bash
         run: |
           if grep -R -E 'teachingSlides|\.slides\.forEach|render.*slide|year(8|9|10).*slides\.js|topic-modules-render|lesson-render' year8/english/*/teacher-slides/index.html year9/english/*/teacher-slides/index.html year10/english/*/teacher-slides/index.html; then
@@ -110,7 +107,14 @@ jobs:
                   s=p.read_text(encoding='utf-8')
                   if '<img' not in s or 'Previous' not in s or 'Next' not in s:
                       raise SystemExit(f'Invalid fixed viewer: {p}')
-          print('Upper English fixed viewer QA: PASS')
+                  slides=sorted(p.parent.glob('slide-*.svg'))
+                  if not slides:
+                      raise SystemExit(f'Missing fixed slide artwork: {p.parent}')
+                  for slide in slides:
+                      art=slide.read_text(encoding='utf-8')
+                      if art.count('SkillrHub • skillrhub.com') < 3:
+                          raise SystemExit(f'Missing baked repeated watermark: {slide}')
+          print('Upper English fixed viewer and watermark QA: PASS')
           PY
 
       - name: Push validated generated commit
