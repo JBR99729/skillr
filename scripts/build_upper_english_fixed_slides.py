@@ -74,7 +74,6 @@ def list_items(section: str, limit: int = 4) -> list[str]:
 def practice_prompt(source: str) -> str:
     section = section_text(source, r'Practice Thought|Formative Assessment|practice set|practice')
     if section:
-        # Prefer the first substantive paragraph/question.
         paragraphs = [clean(x) for x in re.findall(r'<p[^>]*>(.*?)</p>', section, re.I | re.S)]
         for p in paragraphs:
             if len(p.split()) >= 6:
@@ -111,8 +110,14 @@ def svg(code: str, year: int, index: int, total: int, title: str, body: list[str
             body_lines.extend('  ' + x for x in item_lines[1:])
     body_lines = body_lines[:8]
     prompt_lines = wrap(prompt, 70, 3) if prompt else []
+    watermark = '''<g opacity="0.055" fill="#1d4ed8" font-family="Arial" font-size="34" font-weight="700">
+<text x="120" y="270" transform="rotate(-18 120 270)">SkillrHub • skillrhub.com</text>
+<text x="790" y="555" transform="rotate(-18 790 555)">SkillrHub • skillrhub.com</text>
+<text x="240" y="780" transform="rotate(-18 240 780)">SkillrHub • skillrhub.com</text>
+</g>'''
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
 <rect width="1600" height="900" fill="#f8fafc"/>
+{watermark}
 <rect width="1600" height="96" fill="#173a72"/>
 <text x="88" y="62" fill="#fff" font-family="Arial" font-size="32" font-weight="700">SkillrHub • Year {year} English</text>
 <text x="1510" y="62" text-anchor="end" fill="#fff" font-family="Arial" font-size="25">{index} / {total}</text>
