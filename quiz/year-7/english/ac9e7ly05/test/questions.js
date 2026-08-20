@@ -46,14 +46,14 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Summary copies detail",
-      "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
+      "A strategy is valuable because it solves a reading problem, not because every homework box is completed.",
       "Prioritise relationships",
       "Interpretation formed from clues and relevant knowledge"
     ],
     "correct": 1,
-    "explanation": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.\nHint: Prioritise relationships.",
+    "explanation": "A strategy is valuable because it solves a reading problem, not because every homework box is completed.\nHint: Prioritise relationships.",
     "structuredExplanation": {
-      "summary": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
+      "summary": "A strategy is valuable because it solves a reading problem, not because every homework box is completed.",
       "hint": "Prioritise relationships."
     },
     "qualitySchema": "production-v1"
@@ -162,14 +162,14 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Summary copies detail",
-      "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
+      "A strategy is valuable because it solves a reading problem, not because every homework box is completed.",
       "Prioritise relationships",
       "Interpretation formed from clues and relevant knowledge"
     ],
     "correct": 1,
-    "explanation": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.\nHint: Prioritise relationships.",
+    "explanation": "A strategy is valuable because it solves a reading problem, not because every homework box is completed.\nHint: Prioritise relationships.",
     "structuredExplanation": {
-      "summary": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
+      "summary": "A strategy is valuable because it solves a reading problem, not because every homework box is completed.",
       "hint": "Prioritise relationships."
     },
     "qualitySchema": "production-v1"
