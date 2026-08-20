@@ -5,6 +5,7 @@ on:
     paths:
       - 'scripts/migrate_upper_english_static_final.mjs'
       - 'scripts/upgrade_english_topic_pages.py'
+      - 'scripts/clean_english_topic_cross_subject_refs.py'
       - 'scripts/validate_english_topic_pages.py'
       - 'scripts/finalize_year10_science_inquiry_pages.py'
       - 'scripts/validate_year10_science_inquiry_pages.py'
@@ -36,13 +37,16 @@ jobs:
       - name: Syntax-check completion scripts
         run: |
           node --check scripts/migrate_upper_english_static_final.mjs
-          python -m py_compile scripts/upgrade_english_topic_pages.py scripts/finalize_year10_science_inquiry_pages.py scripts/validate_english_topic_pages.py scripts/validate_year10_science_inquiry_pages.py
+          python -m py_compile scripts/upgrade_english_topic_pages.py scripts/clean_english_topic_cross_subject_refs.py scripts/finalize_year10_science_inquiry_pages.py scripts/validate_english_topic_pages.py scripts/validate_year10_science_inquiry_pages.py
 
       - name: Convert upper English to static authored shells
         run: node scripts/migrate_upper_english_static_final.mjs
 
       - name: Apply locked F-10 English authoring standard
         run: python scripts/upgrade_english_topic_pages.py
+
+      - name: Remove legacy cross-subject English mapping residue
+        run: python scripts/clean_english_topic_cross_subject_refs.py
 
       - name: Finalize Year 10 Science Inquiry pages
         run: python scripts/finalize_year10_science_inquiry_pages.py
@@ -56,7 +60,6 @@ jobs:
       - name: Guard static, lightweight topic pages
         shell: bash
         run: |
-          if grep -R -E 'upper-english-render|MathJax|KaTeX|mathjax|katex' foundation/english/year-not-present 2>/dev/null; then exit 1; fi
           if grep -R -E 'upper-english-render|MathJax|KaTeX|mathjax|katex' year8/english year9/english year10/english year10/science/ac9s10i*/index.html; then
             echo 'Runtime topic renderer or external math renderer found in finalized pages.'
             exit 1
