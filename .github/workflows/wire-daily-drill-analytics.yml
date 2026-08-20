@@ -1,0 +1,51 @@
+name: Wire Daily Drill analytics
+
+on:
+  push:
+    paths:
+      - '.github/workflows/wire-daily-drill-analytics.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  wire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Load Daily Drill analytics globally
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = 'quiz/assets/daily-drills/daily-drill-selector.js';
+          let text = fs.readFileSync(path, 'utf8');
+          const marker = '(() => {\n';
+          const snippet = `(() => {\n  if(!document.querySelector('script[data-skillr-daily-analytics]')){\n    const analyticsScript=document.createElement("script");\n    analyticsScript.src="/quiz/assets/daily-drills/daily-drill-analytics.js?v=20260820-1";\n    analyticsScript.dataset.skillrDailyAnalytics="true";\n    analyticsScript.async=false;\n    document.head.appendChild(analyticsScript);\n  }\n`;
+          if (!text.includes('data-skillr-daily-analytics')) {
+            if (!text.includes(marker)) throw new Error('selector insertion marker not found');
+            text = text.replace(marker, snippet);
+            fs.writeFileSync(path, text);
+          }
+          NODE
+
+      - name: Verify
+        run: |
+          grep -F 'daily-drill-analytics.js?v=20260820-1' quiz/assets/daily-drills/daily-drill-selector.js
+          test -f quiz/assets/daily-drills/daily-drill-analytics.js
+
+      - name: Commit
+        run: |
+          if git diff --quiet; then
+            echo 'No changes needed.'
+            exit 0
+          fi
+          git config user.name 'Skillr QA Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add quiz/assets/daily-drills/daily-drill-selector.js
+          git commit -m 'Enable analytics and feedback on Daily Drills'
+          git push origin main
