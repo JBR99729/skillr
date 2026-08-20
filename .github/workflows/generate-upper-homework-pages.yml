@@ -20,108 +20,45 @@ jobs:
           node <<'NODE'
           const fs = require('fs');
           const path = require('path');
-          const years = [
-            ['year-7','year7','Year 7'], ['year-8','year8','Year 8'],
-            ['year-9','year9','Year 9'], ['year-10','year10','Year 10']
-          ];
-          const subjects = [ ['math','maths','Maths'], ['science','science','Science'] ];
+          const years = [['year-7','year7','Year 7'],['year-8','year8','Year 8'],['year-9','year9','Year 9'],['year-10','year10','Year 10']];
+          const subjects = [['math','maths','Maths'],['science','science','Science']];
           const esc = s => String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
           const unesc = s => String(s || '').replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'");
-          const oneLine = s => String(s || '').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').trim();
           const read = f => fs.existsSync(f) ? fs.readFileSync(f,'utf8') : '';
           const write = (f,c) => { fs.mkdirSync(path.dirname(f),{recursive:true}); fs.writeFileSync(f,c); };
-          const files = dir => fs.existsSync(dir) ? fs.readdirSync(dir,{withFileTypes:true}).flatMap(e => e.isDirectory()?files(path.join(dir,e.name)):[path.join(dir,e.name)]) : [];
-          const titleOf = html => unesc((html.match(/<h1[^>]*id=["']quizTitle["'][^>]*>([\s\S]*?)<\/h1>/i)||html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)||[])[1] || 'Homework');
+          const walk = dir => fs.existsSync(dir) ? fs.readdirSync(dir,{withFileTypes:true}).flatMap(e => e.isDirectory()?walk(path.join(dir,e.name)):[path.join(dir,e.name)]) : [];
+          const titleOf = html => unesc((html.match(/<h1[^>]*id=["']quizTitle["'][^>]*>([\s\S]*?)<\/h1>/i)||html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)||[])[1] || 'Homework').replace(/<[^>]*>/g,'').replace(/\s+/g,' ').trim();
           const topicHrefOf = html => (html.match(/<li><a href=["']([^"']*\/year\d+\/(?:maths|science)\/[^"']+\/)['"]/i)||[])[1] || '';
-          const descriptor = (title, subject) => subject === 'Science'
-            ? `Use scientific vocabulary and evidence when explaining ${title}.`
-            : `Show working, reasoning and checking steps when solving ${title}.`;
+          const topicLink = (topicHref, yearLabel) => topicHref || `/${yearLabel.toLowerCase().replace(' ','')}/curriculum/`;
           const lineBlock = n => `<div class="answer-lines">${'<span></span>'.repeat(n)}</div>`;
-          function shortQuestions(title, subject) {
-            const t = esc(title);
-            const science = subject === 'Science';
-            const qs = science ? [
-              `Define the key idea in <em>${t}</em> in your own words.`,
-              `List three important vocabulary terms from this topic and explain each one briefly.`,
-              `Describe one observation or piece of evidence that would be relevant to this topic.`,
-              `Explain the difference between two related concepts in this topic.`,
-              `Write one cause-and-effect statement connected to this topic.`,
-              `Identify one common misconception and correct it.`,
-              `Draw or describe a simple model that represents the main idea.`,
-              `Explain how data could be collected to investigate this topic.`,
-              `State one safety, ethical or accuracy issue that could matter in this topic.`,
-              `Write one exam-style short answer question about this topic and answer it.`
-            ] : [
-              `Write the main rule, formula or strategy needed for <em>${t}</em>.`,
-              `Create one simple worked example and show each step.`,
-              `Explain why the method works, not just what steps to follow.`,
-              `List two important vocabulary terms or symbols and explain their meaning.`,
-              `Identify one common mistake and show how to avoid it.`,
-              `Write a question where estimation or checking helps confirm the answer.`,
-              `Show how to check whether an answer is reasonable.`,
-              `Create one question using real numbers, measurements, data or a practical context.`,
-              `Explain when this skill might be useful outside the classroom.`,
-              `Write one exam-style short answer question about this topic and answer it.`
-            ];
-            return qs.map((q,i)=>`<li><p>${i+1}. ${q}</p>${lineBlock(4)}</li>`).join('');
-          }
-          function longQuestions(title, subject) {
-            const t = esc(title);
-            const science = subject === 'Science';
-            const qs = science ? [
-              `Explain the main concept in <em>${t}</em> using correct scientific vocabulary and a labelled example.`,
-              `Describe a fair investigation or data-collection method related to this topic. Include variables, what would be measured and how results would be recorded.`,
-              `Interpret a possible pattern of results for this topic and explain what the pattern would suggest.`,
-              `Compare two models, explanations, systems or processes connected to this topic.`,
-              `Use evidence to justify a conclusion about this topic. Explain why the evidence supports the conclusion.`,
-              `Write a cause-and-effect explanation involving at least three linked steps.`,
-              `Explain how this topic connects to a real-world issue, technology, environment or health context.`,
-              `Evaluate a claim someone might make about this topic. State whether you agree, partly agree or disagree, and explain why.`,
-              `Create a labelled diagram, flow chart or table that would help a younger student understand this topic, then explain it.`,
-              `Write a full-response answer to a challenging question from this topic, including evidence, reasoning and a final conclusion.`
-            ] : [
-              `Solve a multi-step problem involving <em>${t}</em>. Show all working and write a final sentence interpreting the answer.`,
-              `Create and solve a practical problem from this topic using measurements, money, data, graphs or a real-life context.`,
-              `Solve one problem in two different ways, or compare two possible methods and explain which is more efficient.`,
-              `Explain a complete solution step-by-step as if teaching another student.`,
-              `Create a problem that includes a common trap, then solve it correctly and explain the trap.`,
-              `Use a diagram, table, graph, equation or model to solve a problem from this topic.`,
-              `Write a problem that requires checking units, scale, accuracy, rounding or reasonableness. Solve it fully.`,
-              `Connect this topic to a previous maths skill and explain how the two skills work together.`,
-              `Write a higher-application question for this topic and provide a full worked solution.`,
-              `Reflect on one mistake you made or might make in this topic and explain how you would correct your process next time.`
-            ];
-            return qs.map((q,i)=>`<li><p>${i+1}. ${q}</p>${lineBlock(8)}</li>`).join('');
-          }
-          function homeworkHtml({code,title,yearLabel,quizYear,subjectQuiz,subjectLabel,topicHref}) {
-            const research = subjectLabel === 'Science'
-              ? `Research one real-world use, issue or investigation connected to <em>${esc(title)}</em>. In your own words, explain what you found, what evidence supports it and how it connects to the science. Include the source you used.`
-              : `Find one real-world situation where <em>${esc(title)}</em> could be useful. Explain the situation, create a related problem, solve it and describe what the answer means.`;
-            return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>${esc(code)} Homework | ${esc(title)}</title><meta name="description" content="Printable SkillrHub homework for ${esc(yearLabel)} ${esc(subjectLabel)} ${esc(code)} with short-answer, long-answer and research/application tasks."><link rel="canonical" href="https://skillrhub.com/quiz/${quizYear}/${subjectQuiz}/${code.toLowerCase()}/homework/"><link rel="stylesheet" href="/style.css"><style>:root{--blue:#2457d6;--ink:#18324f;--muted:#62748a;--line:#dce5f1;--soft:#f5f8ff}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif}.hw-shell{max-width:980px;margin:auto;padding:24px}.hw-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}.hw-nav a,.hw-print{border:1px solid #cbd8ea;border-radius:999px;background:#fff;color:var(--blue);font-weight:800;text-decoration:none;padding:8px 12px}.hw-print{cursor:pointer}.hw-hero,.hw-section,.hw-task{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:22px;margin:14px 0}.hw-kicker{color:var(--blue);font-size:.78rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3rem);line-height:1.08;margin:0 0 10px}h2{margin:0 0 12px}.hw-meta{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}.hw-meta div{background:var(--soft);border-radius:12px;padding:12px}.hw-questions{padding-left:1.2rem}.hw-questions li{break-inside:avoid;margin:0 0 18px}.hw-questions p{font-weight:700}.answer-lines{display:grid;gap:10px;margin-top:10px}.answer-lines span{display:block;border-bottom:1px solid #9fb0c5;min-height:24px}.hw-task{border-left:6px solid var(--blue)}.hw-footer{color:var(--muted);font-size:.9rem;text-align:center;margin:24px 0}@media print{body{background:#fff}.hw-shell{max-width:none;padding:0}.hw-nav,.hw-print{display:none}.hw-hero,.hw-section,.hw-task{box-shadow:none;border-radius:0;border-left:0}.hw-section{page-break-before:auto}.answer-lines span{min-height:22px}}</style></head><body><main class="hw-shell"><nav class="hw-nav" aria-label="Homework navigation"><a href="/">Home</a><a href="/${topicHref || `${yearLabel.toLowerCase().replace(' ','')}/curriculum/`}">Topic guide</a><a href="../practice/">Practice</a><a href="../test/">Test</a><button class="hw-print" type="button" onclick="window.print()">Print or save as PDF</button></nav><header class="hw-hero"><p class="hw-kicker">${esc(yearLabel)} ${esc(subjectLabel)} • ${esc(code)} • Homework</p><h1>${esc(title)}</h1><p>${esc(descriptor(title, subjectLabel))} Complete the short-answer section first, then attempt the long-answer questions with full reasoning.</p><div class="hw-meta"><div><strong>10</strong><br>Short-answer questions</div><div><strong>10</strong><br>Long-answer questions</div><div><strong>1</strong><br>Research/application task</div></div></header><section class="hw-section"><p class="hw-kicker">Part A</p><h2>Short-answer questions</h2><ol class="hw-questions">${shortQuestions(title,subjectLabel)}</ol></section><section class="hw-section"><p class="hw-kicker">Part B</p><h2>Long-answer questions</h2><ol class="hw-questions">${longQuestions(title,subjectLabel)}</ol></section><section class="hw-task"><p class="hw-kicker">Part C</p><h2>Research and understanding task</h2><p>${research}</p>${lineBlock(10)}</section><p class="hw-footer">SkillrHub • Free Australian Curriculum learning resources • Homework printable</p></main></body></html>`;
-          }
-          function redirectHtml(code,title) {
-            return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0; url=../homework/"><title>${esc(code)} Homework</title><link rel="canonical" href="../homework/"></head><body><p>This worksheet has moved to <a href="../homework/">Homework</a>.</p><script>location.replace('../homework/')</script></body></html>`;
-          }
+          const descriptor = (title, subject) => subject === 'Science' ? `Use scientific vocabulary and evidence when explaining ${title}.` : `Show working, reasoning and checking steps when solving ${title}.`;
+          function shortQuestions(title, subject) { const t = esc(title); const qs = subject === 'Science' ? [
+            `Define the key idea in <em>${t}</em> in your own words.`, `List three important vocabulary terms from this topic and explain each one briefly.`, `Describe one observation or piece of evidence that would be relevant to this topic.`, `Explain the difference between two related concepts in this topic.`, `Write one cause-and-effect statement connected to this topic.`, `Identify one common misconception and correct it.`, `Draw or describe a simple model that represents the main idea.`, `Explain how data could be collected to investigate this topic.`, `State one safety, ethical or accuracy issue that could matter in this topic.`, `Write one exam-style short answer question about this topic and answer it.`
+          ] : [
+            `Write the main rule, formula or strategy needed for <em>${t}</em>.`, `Create one simple worked example and show each step.`, `Explain why the method works, not just what steps to follow.`, `List two important vocabulary terms or symbols and explain their meaning.`, `Identify one common mistake and show how to avoid it.`, `Write a question where estimation or checking helps confirm the answer.`, `Show how to check whether an answer is reasonable.`, `Create one question using real numbers, measurements, data or a practical context.`, `Explain when this skill might be useful outside the classroom.`, `Write one exam-style short answer question about this topic and answer it.`
+          ]; return qs.map((q,i)=>`<li><p>${i+1}. ${q}</p>${lineBlock(4)}</li>`).join(''); }
+          function longQuestions(title, subject) { const t = esc(title); const qs = subject === 'Science' ? [
+            `Explain the main concept in <em>${t}</em> using correct scientific vocabulary and a labelled example.`, `Describe a fair investigation or data-collection method related to this topic. Include variables, what would be measured and how results would be recorded.`, `Interpret a possible pattern of results for this topic and explain what the pattern would suggest.`, `Compare two models, explanations, systems or processes connected to this topic.`, `Use evidence to justify a conclusion about this topic. Explain why the evidence supports the conclusion.`, `Write a cause-and-effect explanation involving at least three linked steps.`, `Explain how this topic connects to a real-world issue, technology, environment or health context.`, `Evaluate a claim someone might make about this topic. State whether you agree, partly agree or disagree, and explain why.`, `Create a labelled diagram, flow chart or table that would help a younger student understand this topic, then explain it.`, `Write a full-response answer to a challenging question from this topic, including evidence, reasoning and a final conclusion.`
+          ] : [
+            `Solve a multi-step problem involving <em>${t}</em>. Show all working and write a final sentence interpreting the answer.`, `Create and solve a practical problem from this topic using measurements, money, data, graphs or a real-life context.`, `Solve one problem in two different ways, or compare two possible methods and explain which is more efficient.`, `Explain a complete solution step-by-step as if teaching another student.`, `Create a problem that includes a common trap, then solve it correctly and explain the trap.`, `Use a diagram, table, graph, equation or model to solve a problem from this topic.`, `Write a problem that requires checking units, scale, accuracy, rounding or reasonableness. Solve it fully.`, `Connect this topic to a previous maths skill and explain how the two skills work together.`, `Write a higher-application question for this topic and provide a full worked solution.`, `Reflect on one mistake you made or might make in this topic and explain how you would correct your process next time.`
+          ]; return qs.map((q,i)=>`<li><p>${i+1}. ${q}</p>${lineBlock(8)}</li>`).join(''); }
+          function homeworkHtml({code,title,yearLabel,quizYear,subjectQuiz,subjectLabel,topicHref}) { const research = subjectLabel === 'Science' ? `Research one real-world use, issue or investigation connected to <em>${esc(title)}</em>. In your own words, explain what you found, what evidence supports it and how it connects to the science. Include the source you used.` : `Find one real-world situation where <em>${esc(title)}</em> could be useful. Explain the situation, create a related problem, solve it and describe what the answer means.`;
+            return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>${esc(code)} Homework | ${esc(title)}</title><meta name="description" content="Printable SkillrHub homework for ${esc(yearLabel)} ${esc(subjectLabel)} ${esc(code)} with short-answer, long-answer and research/application tasks."><link rel="canonical" href="https://skillrhub.com/quiz/${quizYear}/${subjectQuiz}/${code.toLowerCase()}/homework/"><link rel="stylesheet" href="/style.css"><style>:root{--blue:#2457d6;--ink:#18324f;--muted:#62748a;--line:#dce5f1;--soft:#f5f8ff}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif}.hw-shell{max-width:980px;margin:auto;padding:24px}.hw-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}.hw-nav a,.hw-print{border:1px solid #cbd8ea;border-radius:999px;background:#fff;color:var(--blue);font-weight:800;text-decoration:none;padding:8px 12px}.hw-print{cursor:pointer}.hw-hero,.hw-section,.hw-task{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:22px;margin:14px 0}.hw-kicker{color:var(--blue);font-size:.78rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3rem);line-height:1.08;margin:0 0 10px}h2{margin:0 0 12px}.hw-meta{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}.hw-meta div{background:var(--soft);border-radius:12px;padding:12px}.hw-questions{padding-left:1.2rem}.hw-questions li{break-inside:avoid;margin:0 0 18px}.hw-questions p{font-weight:700}.answer-lines{display:grid;gap:10px;margin-top:10px}.answer-lines span{display:block;border-bottom:1px solid #9fb0c5;min-height:24px}.hw-task{border-left:6px solid var(--blue)}.hw-footer{color:var(--muted);font-size:.9rem;text-align:center;margin:24px 0}@media print{body{background:#fff}.hw-shell{max-width:none;padding:0}.hw-nav,.hw-print{display:none}.hw-hero,.hw-section,.hw-task{box-shadow:none;border-radius:0;border-left:0}.answer-lines span{min-height:22px}}</style></head><body><main class="hw-shell"><nav class="hw-nav" aria-label="Homework navigation"><a href="/">Home</a><a href="${topicLink(topicHref, yearLabel)}">Topic guide</a><a href="../practice/">Practice</a><a href="../test/">Test</a><button class="hw-print" type="button" onclick="window.print()">Print or save as PDF</button></nav><header class="hw-hero"><p class="hw-kicker">${esc(yearLabel)} ${esc(subjectLabel)} • ${esc(code)} • Homework</p><h1>${esc(title)}</h1><p>${esc(descriptor(title, subjectLabel))} Complete the short-answer section first, then attempt the long-answer questions with full reasoning.</p><div class="hw-meta"><div><strong>10</strong><br>Short-answer questions</div><div><strong>10</strong><br>Long-answer questions</div><div><strong>1</strong><br>Research/application task</div></div></header><section class="hw-section"><p class="hw-kicker">Part A</p><h2>Short-answer questions</h2><ol class="hw-questions">${shortQuestions(title,subjectLabel)}</ol></section><section class="hw-section"><p class="hw-kicker">Part B</p><h2>Long-answer questions</h2><ol class="hw-questions">${longQuestions(title,subjectLabel)}</ol></section><section class="hw-task"><p class="hw-kicker">Part C</p><h2>Research and understanding task</h2><p>${research}</p>${lineBlock(10)}</section><p class="hw-footer">SkillrHub • Free Australian Curriculum learning resources • Homework printable</p></main></body></html>`; }
+          const redirectHtml = (code,title) => `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><meta http-equiv="refresh" content="0; url=../homework/"><title>${esc(code)} Homework</title><link rel="canonical" href="../homework/"></head><body><p>This worksheet has moved to <a href="../homework/">Homework</a>.</p><script>location.replace('../homework/')</script></body></html>`;
           let made = 0, redirects = 0, topics = 0;
           for (const [quizYear, yearDir, yearLabel] of years) for (const [subjectQuiz, subjectDir, subjectLabel] of subjects) {
-            const quizRoot = path.join('quiz', quizYear, subjectQuiz);
-            if (!fs.existsSync(quizRoot)) continue;
+            const quizRoot = path.join('quiz', quizYear, subjectQuiz); if (!fs.existsSync(quizRoot)) continue;
             for (const code of fs.readdirSync(quizRoot).filter(n=>fs.statSync(path.join(quizRoot,n)).isDirectory())) {
-              const practice = path.join(quizRoot, code, 'practice', 'index.html');
-              if (!fs.existsSync(practice)) continue;
-              const html = read(practice);
-              const title = titleOf(html);
-              const topicHref = topicHrefOf(html);
-              write(path.join(quizRoot, code, 'homework', 'index.html'), homeworkHtml({code:code.toUpperCase(),title,yearLabel,quizYear,subjectQuiz,subjectLabel,topicHref}));
-              made++;
-              const worksheet = path.join(quizRoot, code, 'worksheet', 'index.html');
-              if (fs.existsSync(path.dirname(worksheet))) { write(worksheet, redirectHtml(code.toUpperCase(), title)); redirects++; }
+              const practice = path.join(quizRoot, code, 'practice', 'index.html'); if (!fs.existsSync(practice)) continue;
+              const html = read(practice), title = titleOf(html), topicHref = topicHrefOf(html);
+              write(path.join(quizRoot, code, 'homework', 'index.html'), homeworkHtml({code:code.toUpperCase(),title,yearLabel,quizYear,subjectQuiz,subjectLabel,topicHref})); made++;
+              const worksheet = path.join(quizRoot, code, 'worksheet', 'index.html'); if (fs.existsSync(path.dirname(worksheet))) { write(worksheet, redirectHtml(code.toUpperCase(), title)); redirects++; }
             }
             const topicRoot = path.join(yearDir, subjectDir);
-            for (const file of files(topicRoot).filter(f=>f.endsWith('index.html'))) {
+            for (const file of walk(topicRoot).filter(f=>f.endsWith('index.html'))) {
               let html = read(file), original = html;
               html = html.replace(new RegExp(`/quiz/${quizYear}/${subjectQuiz}/([a-z0-9]+)/(?:worksheet)/`, 'gi'), `/quiz/${quizYear}/${subjectQuiz}/$1/homework/`);
-              html = html.replace(/Practice Sheet/g, 'Homework').replace(/Worksheet/g, 'Homework').replace(/worksheet/g, 'homework');
+              html = html.replace(/Practice Sheet/g, 'Homework').replace(/>Worksheet</g, '>Homework<').replace(/>Worksheets</g, '>Homework<');
               if (html !== original) { write(file, html); topics++; }
             }
           }
