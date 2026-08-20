@@ -2,6 +2,7 @@ name: Finalize F-10 topic pages
 
 on:
   pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
     paths:
       - 'scripts/migrate_upper_english_static_final.mjs'
       - 'scripts/upgrade_english_topic_pages.py'
