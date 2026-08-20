@@ -1,0 +1,57 @@
+name: Fix homework wording polish
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/fix-homeworks-wording.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  polish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fix awkward homework wording
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const roots = ['year7', 'year8', 'year9', 'year10', 'quiz/year-7', 'quiz/year-8', 'quiz/year-9', 'quiz/year-10'];
+          const fileTypes = new Set(['.html', '.js', '.json']);
+          function walk(dir) {
+            if (!fs.existsSync(dir)) return [];
+            return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
+              const full = path.join(dir, entry.name);
+              return entry.isDirectory() ? walk(full) : [full];
+            });
+          }
+          let changed = 0;
+          for (const root of roots) {
+            for (const file of walk(root)) {
+              if (!fileTypes.has(path.extname(file))) continue;
+              const original = fs.readFileSync(file, 'utf8');
+              let updated = original
+                .replace(/8-question homeworks, practice and tests/g, 'homework, Practice and Test resources')
+                .replace(/homeworks/g, 'homework resources')
+                .replace(/Homeworks/g, 'Homework resources')
+                .replace(/homework resources resources/g, 'homework resources');
+              if (updated !== original) {
+                fs.writeFileSync(file, updated);
+                changed += 1;
+              }
+            }
+          }
+          console.log(`Polished homework wording in ${changed} files.`);
+          NODE
+      - name: Commit wording polish
+        run: |
+          if git diff --quiet; then echo "No changes needed"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add year7 year8 year9 year10 quiz/year-7 quiz/year-8 quiz/year-9 quiz/year-10
+          git commit -m "Polish upper homework wording"
+          git push
