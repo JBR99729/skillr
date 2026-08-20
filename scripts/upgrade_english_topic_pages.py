@@ -68,8 +68,8 @@ def replacement(code,d,e,y):
 <section class="curriculum-topic-section"><h2>5. Accurate International Curriculum Mapping</h2><p>These are closest English/ELA alignments for planning and search, not exact one-to-one equivalences.</p><div class="curriculum-table-wrap"><table class="curriculum-map-table"><thead><tr><th>Region</th><th>English / ELA curriculum</th><th>Closest alignment</th></tr></thead><tbody>{mapping_table(mappings(y,code,d))}</tbody></table></div></section>'''
 def update_meta(s,code,d,y):
     label="Foundation" if y==0 else f"Year {y}"; desc=f"{code} {label} English lesson: {d.rstrip('.')}. Includes examples, misconceptions, a four-step teaching sequence and English/ELA curriculum alignment."
-    s=re.sub(r'<meta name="description" content="[^"]*">',f'<meta name="description" content="{esc(desc)}">',s,count=1,re.I)
-    s=re.sub(r'<meta property="og:description" content="[^"]*">',f'<meta property="og:description" content="{esc(desc)}">',s,count=1,re.I)
+    s=re.sub(r'<meta name="description" content="[^"]*">',f'<meta name="description" content="{esc(desc)}">',s,count=1,flags=re.I)
+    s=re.sub(r'<meta property="og:description" content="[^"]*">',f'<meta property="og:description" content="{esc(desc)}">',s,count=1,flags=re.I)
     return s
 def upgrade(p):
     s=p.read_text(encoding="utf-8"); code=code_of(s); d=description_of(s); e=elaborations_of(s); y=year_of(p)
