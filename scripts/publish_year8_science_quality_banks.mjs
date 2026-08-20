@@ -42,20 +42,22 @@ for (const code of CODE_ORDER) {
   const lower = code.toLowerCase();
   const route = path.join(ROOT, "quiz/year-8/science", lower);
   execFileSync(NODE, ["scripts/publish_production_question_bank.mjs", `assets/assessment-banks/year8/science/${lower}.json`], { cwd: ROOT, stdio: "inherit" });
+  const testAttempt = code === "AC9S8U01" ? 8 : 12;
+  const questionVersion = code === "AC9S8U01" ? "20260820-production-v2" : "20260813-production-v1";
   for (const mode of ["practice", "test"]) {
     const file = path.join(route, mode, "index.html");
-    const attempt = mode === "practice" ? 8 : 12;
+    const attempt = mode === "practice" ? 8 : testAttempt;
     const bankSize = mode === "practice" ? 24 : 16;
     let html = fs.readFileSync(file, "utf8");
     html = html
-      .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${mode === "practice" ? `Practise ${title} with 8 rotating questions from a 24-question bank.` : `Take a 12-question ${title} test drawn from a separate 16-question bank.`}">`)
+      .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${mode === "practice" ? `Practise ${title} with 8 rotating questions from a 24-question bank.` : `Take ${attempt === 8 ? "an" : "a"} ${attempt}-question ${title} test drawn from a separate 16-question bank.`}">`)
       .replace(/<div class="quiz-summary">[\s\S]*?<\/div><button class="button button-primary"/, `<div class="quiz-summary"><div><span class="summary-number" id="questionCount">${attempt}</span><span class="summary-label">Questions this attempt</span></div><div><span class="summary-number">${bankSize}</span><span class="summary-label">Question bank</span></div><div><span class="summary-number" id="bestScore">0</span><span class="summary-label">Best score</span></div></div><button class="button button-primary"`)
       .replace(/"maxQuestions":\d+/, `"maxQuestions":${attempt}`)
       .replace(/"shuffleQuestions":(?:true|false)/, '"shuffleQuestions":true')
       .replace(/"questionCycle":(?:true|false)/, '"questionCycle":true')
       .replace(/<script src="[^\"]*\/(?:practice\/)?questions\.js(?:\?[^\"]*)?"><\/script>/g, "")
       .replace(/<script src="\/quiz\/assets\/production-question-ui\.js[^>]*><\/script>/g, "")
-      .replace(/<script src="\/quiz\/assets\/script\.js[^>]*><\/script>/, `<script src="/quiz/year-8/science/${lower}/${mode}/questions.js?v=20260813-production-v1"></script><script src="/quiz/assets/production-question-ui.js?v=1"></script>$&`);
+      .replace(/<script src="\/quiz\/assets\/script\.js[^>]*><\/script>/, `<script src="/quiz/year-8/science/${lower}/${mode}/questions.js?v=${questionVersion}"></script><script src="/quiz/assets/production-question-ui.js?v=1"></script>$&`);
     fs.writeFileSync(file, html);
   }
   for (const file of filesUnder(route)) {
@@ -66,11 +68,11 @@ for (const code of CODE_ORDER) {
     html = html
       .replace(/<title>[\s\S]*?<\/title>/, `<title>${code} ${title} ${mode} | SkillrHub</title>`)
       .replace(/<h1([^>]*)>[\s\S]*?<\/h1>/, `<h1$1>${heading}</h1>`)
-      .replace(/Choose a learning activity\. Worksheet, Practice and Test use the same eight-question unit bank\./g, "Choose a learning activity. Practice rotates 8 questions from a 24-question bank; Test draws 12 from a separate 16-question bank.")
+      .replace(/Choose a learning activity\. Worksheet, Practice and Test use the same eight-question unit bank\./g, `Choose a learning activity. Practice rotates 8 questions from a 24-question bank; Test draws ${testAttempt} from a separate 16-question bank.`)
       .replace(/This QA-reviewed unit provides \d+ Practice questions, \d+ auto-marked Test questions[^<]*/g, "This unit provides 24 Practice questions and 16 separate Test questions.")
       .replace(/Try the same eight curriculum questions again in a newly shuffled answer order\./g, "Start a fresh rotating attempt from the full question bank.");
     fs.writeFileSync(file, html);
   }
 }
 
-console.log(JSON.stringify({ status: "PUBLISHED", codes: CODE_ORDER.length, practiceAttempt: 8, testAttempt: 12 }, null, 2));
+console.log(JSON.stringify({ status: "PUBLISHED", codes: CODE_ORDER.length, practiceAttempt: 8, defaultTestAttempt: 12, ac9s8u01TestAttempt: 8 }, null, 2));
