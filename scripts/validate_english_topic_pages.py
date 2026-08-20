@@ -14,7 +14,7 @@ GENERIC_FILLER=(
  'Missing punctuation, word order or vocabulary clues that change meaning',
 )
 CROSS_SUBJECT=('Next Generation Science Standards','nextgenscience.org','NGSS science','Common Core Mathematics/ELA','Common Core Mathematics')
-REQUIRED_MAPPING_TERMS=('Australian Curriculum v9.0','Victorian Curriculum F-10','NSW','Common Core','Key Stage','Canada','New Zealand','NCERT / CBSE')
+REQUIRED_MAPPING_TERMS=('Australian Curriculum v9.0','Victorian Curriculum','NSW','Common Core','Key Stage','Canada','New Zealand','NCERT / CBSE')
 def english_pages():
  pages=[]
  for year_root in YEAR_ROOTS:
