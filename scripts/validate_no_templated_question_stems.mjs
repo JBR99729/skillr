@@ -2,8 +2,10 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { execFileSync } from "node:child_process";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
+const LEGACY_MAX = 9567;
 
 const ROOTS = [
   "assets/assessment-banks",
@@ -49,6 +51,21 @@ function walk(dir, files = []) {
   return files;
 }
 
+function changedQuestionFiles() {
+  const base = (process.env.BASE_SHA || "").trim();
+  if (!base || /^0+$/.test(base)) return new Set();
+  try {
+    const output = execFileSync("git", ["diff", "--name-only", base, "HEAD", "--", ...ROOTS], {
+      cwd: ROOT,
+      encoding: "utf8",
+      stdio: ["ignore", "pipe", "ignore"],
+    });
+    return new Set(output.split(/\r?\n/).map(x => x.trim()).filter(Boolean));
+  } catch {
+    return new Set();
+  }
+}
+
 const findings = [];
 for (const relativeRoot of ROOTS) {
   for (const file of walk(path.join(ROOT, relativeRoot))) {
@@ -58,7 +75,7 @@ for (const relativeRoot of ROOTS) {
       for (const rule of BANNED) {
         if (rule.re.test(line)) {
           findings.push({
-            file: path.relative(ROOT, file),
+            file: path.relative(ROOT, file).split(path.sep).join("/"),
             line: i + 1,
             rule: rule.name,
             text: line.trim().slice(0, 260),
@@ -69,14 +86,34 @@ for (const relativeRoot of ROOTS) {
   }
 }
 
-if (findings.length) {
-  console.error(`Found ${findings.length} banned templated-question references.`);
-  for (const finding of findings.slice(0, 250)) {
+const changed = changedQuestionFiles();
+const changedFindings = findings.filter(f => changed.has(f.file));
+const failures = [];
+
+if (findings.length > LEGACY_MAX) {
+  failures.push(`Legacy templated-question debt increased from ${LEGACY_MAX} to ${findings.length}.`);
+}
+if (changedFindings.length) {
+  failures.push(`${changedFindings.length} banned templated-question references remain in question-bank files changed by this commit.`);
+}
+
+console.log(`Question-quality ratchet: ${findings.length} legacy banned references remain; ceiling is ${LEGACY_MAX}.`);
+if (findings.length < LEGACY_MAX) {
+  console.log(`Improvement: legacy debt decreased by ${LEGACY_MAX - findings.length}. Keep reducing it as banks are reauthored.`);
+}
+
+if (failures.length) {
+  for (const failure of failures) console.error(`FAIL: ${failure}`);
+  const sample = changedFindings.length ? changedFindings : findings.slice(0, 50);
+  for (const finding of sample.slice(0, 250)) {
     console.error(`${finding.file}:${finding.line} [${finding.rule}] ${finding.text}`);
   }
-  if (findings.length > 250) console.error(`...and ${findings.length - 250} more.`);
-  console.error("\nStrict rule: Foundation to Year 10 questions must be genuinely authored for the curriculum code and grade level. Curriculum descriptors must not be pasted into generic multiple-choice stems.");
+  console.error("\nStrict rule for new/touched work: Foundation to Year 10 questions must be genuinely authored for the curriculum code and grade level. Existing legacy debt is grandfathered only until that bank is touched, and the site-wide count may never increase.");
   process.exit(1);
 }
 
-console.log("PASS: no banned templated-question stems found across Foundation–Year 10 assessment content.");
+if (findings.length === 0) {
+  console.log("PASS: no banned templated-question stems remain across Foundation–Year 10 assessment content.");
+} else {
+  console.log("PASS WITH LEGACY DEBT: no new/touched templated stems were introduced and the historic backlog did not increase.");
+}

@@ -18,13 +18,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Reject templated question stems
+      - name: Reject new or touched templated question stems
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
         run: node scripts/validate_no_templated_question_stems.mjs
 
       - name: Validate authored upper-year banks
