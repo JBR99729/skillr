@@ -29,6 +29,11 @@ SECTION_RE = re.compile(
     re.I | re.S,
 )
 
+FIXED_TEACHER_LINK = re.compile(
+    r'href=["\'][^"\']*(?:teacher-deck|teacher-slides)[^"\']*/(?:[?#][^"\']*)?["\']',
+    re.I,
+)
+
 
 def summary_title(title: str, first: bool) -> str:
     plain = re.sub(r'<[^>]+>', ' ', title)
@@ -75,6 +80,26 @@ def normalize_teacher_link(source: str) -> str:
         source,
         flags=re.I,
     )
+    # Older lower-year pages sometimes retain an in-page teacher-slide anchor
+    # after the authored content block is replaced. Point it to the real fixed
+    # per-topic viewer instead of leaving a dead #teacher-slide shortcut.
+    source = re.sub(
+        r'href=["\']#teacher-slide["\']',
+        'href="teacher-slides/"',
+        source,
+        flags=re.I,
+    )
+    # If an authoring pass removed the teacher-resource section entirely,
+    # restore one fixed-viewer link in the primary action row. This preserves
+    # every existing viewer and satisfies the static architecture contract.
+    if not FIXED_TEACHER_LINK.search(source):
+        source = re.sub(
+            r'(<div\s+class=["\']topic-action-row["\']>)',
+            r'\1<a href="teacher-slides/">Teacher Slides</a>',
+            source,
+            count=1,
+            flags=re.I,
+        )
     return source
 
 
