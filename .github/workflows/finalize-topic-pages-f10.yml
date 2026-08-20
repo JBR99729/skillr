@@ -1,0 +1,124 @@
+name: Finalize F-10 topic pages
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths:
+      - 'scripts/migrate_upper_english_static_final.mjs'
+      - 'scripts/upgrade_english_topic_pages.py'
+      - 'scripts/clean_english_topic_cross_subject_refs.py'
+      - 'scripts/normalize_f10_topic_page_architecture.py'
+      - 'scripts/build_upper_english_fixed_slides.py'
+      - 'scripts/run_upper_english_fixed_slides.py'
+      - 'scripts/validate_english_topic_pages.py'
+      - 'scripts/finalize_year10_science_inquiry_pages.py'
+      - 'scripts/validate_year10_science_inquiry_pages.py'
+      - '.github/workflows/finalize-topic-pages-f10.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  finalize-and-qa:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Syntax-check completion scripts
+        run: |
+          node --check scripts/migrate_upper_english_static_final.mjs
+          python -m py_compile scripts/upgrade_english_topic_pages.py scripts/clean_english_topic_cross_subject_refs.py scripts/normalize_f10_topic_page_architecture.py scripts/build_upper_english_fixed_slides.py scripts/run_upper_english_fixed_slides.py scripts/finalize_year10_science_inquiry_pages.py scripts/validate_english_topic_pages.py scripts/validate_year10_science_inquiry_pages.py
+
+      - name: Convert upper English to static authored pages
+        run: node scripts/migrate_upper_english_static_final.mjs
+
+      - name: Remove legacy cross-subject English mapping residue
+        run: python scripts/clean_english_topic_cross_subject_refs.py
+
+      - name: Finalize Year 10 Science Inquiry pages
+        run: python scripts/finalize_year10_science_inquiry_pages.py
+
+      - name: Normalize static topic-page architecture
+        run: python scripts/normalize_f10_topic_page_architecture.py
+
+      - name: Build fixed Years 8-10 English teacher-slide viewers
+        run: python scripts/run_upper_english_fixed_slides.py
+
+      - name: Validate English F-10 topic pages
+        run: python scripts/validate_english_topic_pages.py
+
+      - name: Validate Year 10 Science Inquiry pages
+        run: python scripts/validate_year10_science_inquiry_pages.py
+
+      - name: Guard static, lightweight topic pages
+        shell: bash
+        run: |
+          if grep -R -E 'upper-english-render|MathJax|KaTeX|mathjax|katex' year8/english year9/english year10/english year10/science/ac9s10i*/index.html; then
+            echo 'Runtime topic renderer or external math renderer found in finalized pages.'
+            exit 1
+          fi
+          git diff --check
+
+      - name: Stage generated curriculum files
+        shell: bash
+        run: |
+          git add foundation/english year1/english year2/english year3/english year4/english year5/english year6/english year7/english year8/english year9/english year10/english
+          git add year10/science/ac9s10i*/index.html
+          if git diff --cached --quiet; then
+            echo 'No generated curriculum changes to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Complete F-10 English and Year 10 Science Inquiry topic pages'
+
+      - name: Validate changed static curriculum architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+
+      - name: Verify changed English fixed viewers are static and watermarked
+        shell: bash
+        run: |
+          if grep -R -E 'teachingSlides|\.slides\.forEach|render.*slide|year(8|9|10).*slides\.js|topic-modules-render|lesson-render' year8/english/*/teacher-slides/index.html year9/english/*/teacher-slides/index.html year10/english/*/teacher-slides/index.html; then
+            echo 'Runtime slide assembly remains in an upper English fixed viewer.'
+            exit 1
+          fi
+          python - <<'PY'
+          from pathlib import Path
+          for year in (8,9,10):
+              pages=list((Path(f'year{year}')/'english').glob('ac9e*/teacher-slides/index.html'))
+              topics=list((Path(f'year{year}')/'english').glob('ac9e*/index.html'))
+              if len(pages) != len(topics):
+                  raise SystemExit(f'Year {year}: fixed viewers={len(pages)}, topic pages={len(topics)}')
+              for p in pages:
+                  s=p.read_text(encoding='utf-8')
+                  if '<img' not in s or 'Previous' not in s or 'Next' not in s:
+                      raise SystemExit(f'Invalid fixed viewer: {p}')
+                  slides=sorted(p.parent.glob('slide-*.svg'))
+                  if not slides:
+                      raise SystemExit(f'Missing fixed slide artwork: {p.parent}')
+                  for slide in slides:
+                      art=slide.read_text(encoding='utf-8')
+                      if art.count('SkillrHub • skillrhub.com') < 3:
+                          raise SystemExit(f'Missing baked repeated watermark: {slide}')
+          print('Upper English fixed viewer and watermark QA: PASS')
+          PY
+
+      - name: Push validated generated commit
+        shell: bash
+        run: |
+          if git log -1 --pretty=%an | grep -q 'github-actions\[bot\]'; then
+            git push origin HEAD:${{ github.head_ref || github.ref_name }}
+          else
+            echo 'No generated commit to push.'
+          fi
