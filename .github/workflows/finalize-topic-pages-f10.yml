@@ -8,6 +8,7 @@ on:
       - 'scripts/clean_english_topic_cross_subject_refs.py'
       - 'scripts/normalize_f10_topic_page_architecture.py'
       - 'scripts/build_upper_english_fixed_slides.py'
+      - 'scripts/run_upper_english_fixed_slides.py'
       - 'scripts/validate_english_topic_pages.py'
       - 'scripts/finalize_year10_science_inquiry_pages.py'
       - 'scripts/validate_year10_science_inquiry_pages.py'
@@ -39,7 +40,7 @@ jobs:
       - name: Syntax-check completion scripts
         run: |
           node --check scripts/migrate_upper_english_static_final.mjs
-          python -m py_compile scripts/upgrade_english_topic_pages.py scripts/clean_english_topic_cross_subject_refs.py scripts/normalize_f10_topic_page_architecture.py scripts/build_upper_english_fixed_slides.py scripts/finalize_year10_science_inquiry_pages.py scripts/validate_english_topic_pages.py scripts/validate_year10_science_inquiry_pages.py
+          python -m py_compile scripts/upgrade_english_topic_pages.py scripts/clean_english_topic_cross_subject_refs.py scripts/normalize_f10_topic_page_architecture.py scripts/build_upper_english_fixed_slides.py scripts/run_upper_english_fixed_slides.py scripts/finalize_year10_science_inquiry_pages.py scripts/validate_english_topic_pages.py scripts/validate_year10_science_inquiry_pages.py
 
       - name: Convert upper English to static authored shells
         run: node scripts/migrate_upper_english_static_final.mjs
@@ -57,7 +58,7 @@ jobs:
         run: python scripts/normalize_f10_topic_page_architecture.py
 
       - name: Build fixed Years 8-10 English teacher-slide viewers
-        run: python scripts/build_upper_english_fixed_slides.py
+        run: python scripts/run_upper_english_fixed_slides.py
 
       - name: Validate English F-10 topic pages
         run: python scripts/validate_english_topic_pages.py
@@ -101,8 +102,9 @@ jobs:
           from pathlib import Path
           for year in (8,9,10):
               pages=list((Path(f'year{year}')/'english').glob('ac9e*/teacher-slides/index.html'))
-              if not pages:
-                  raise SystemExit(f'No Year {year} fixed English viewers generated')
+              topics=list((Path(f'year{year}')/'english').glob('ac9e*/index.html'))
+              if len(pages) != len(topics):
+                  raise SystemExit(f'Year {year}: fixed viewers={len(pages)}, topic pages={len(topics)}')
               for p in pages:
                   s=p.read_text(encoding='utf-8')
                   if '<img' not in s or 'Previous' not in s or 'Next' not in s:
