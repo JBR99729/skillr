@@ -1,0 +1,138 @@
+name: Author Year 9 Science H04-I02 homework
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/author-year9-science-h04-i01-i02-homework.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  author:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write authored homework pages
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const esc = s => String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+          const lines = n => `<div class="answer-lines">${'<span></span>'.repeat(n)}</div>`;
+          const style = `<style>:root{--blue:#2457d6;--ink:#18324f;--muted:#62748a;--line:#dce5f1;--soft:#f5f8ff}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif}.hw-shell{max-width:980px;margin:auto;padding:24px}.hw-brand{display:flex;align-items:center;gap:12px;margin:0 0 14px;padding:12px 14px;border:1px solid #cbd8ea;border-radius:16px;background:#fff}.hw-brand__mark{display:grid;place-items:center;width:42px;height:42px;border-radius:12px;background:var(--blue);color:#fff;font-weight:900;font-size:1.35rem}.hw-brand strong{display:block;color:var(--blue);font-size:1.15rem}.hw-brand span{display:block;color:var(--muted);font-size:.9rem}.hw-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}.hw-nav a,.hw-print{border:1px solid #cbd8ea;border-radius:999px;background:#fff;color:var(--blue);font-weight:800;text-decoration:none;padding:8px 12px}.hw-print{cursor:pointer}.hw-hero,.hw-section,.hw-task{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:22px;margin:14px 0}.hw-kicker{color:var(--blue);font-size:.78rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3rem);line-height:1.08;margin:0 0 10px}.hw-meta{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}.hw-meta div{background:var(--soft);border-radius:12px;padding:12px}.hw-questions{padding-left:1.2rem}.hw-questions li{break-inside:avoid;margin:0 0 18px}.hw-questions p{font-weight:700}.answer-lines{display:grid;gap:10px;margin-top:10px}.answer-lines span{display:block;border-bottom:1px solid #9fb0c5;min-height:24px}.hw-task{border-left:6px solid var(--blue)}.hw-footer{color:var(--muted);font-size:.9rem;text-align:center;margin:24px 0}@media print{body{background:#fff}.hw-shell{max-width:none;padding:0}.hw-nav,.hw-print{display:none}.hw-brand{display:flex!important;border:0;border-bottom:2px solid #2457d6;border-radius:0;margin:0 0 10px;padding:8px 0;background:#fff;box-shadow:none}.hw-brand__mark{background:#2457d6!important;color:#fff!important}.hw-hero,.hw-section,.hw-task{box-shadow:none;border-radius:0;border-left:0}.answer-lines span{min-height:22px}}</style>`;
+          const pages = [
+            {
+              code:'AC9S9H04',
+              title:'How Society Shapes Research Priorities',
+              guide:'/year9/science/ac9s9h04-examine-how-the-values-and-needs-of-society-influence-the/',
+              intro:'Examine how society’s values, needs, risks, funding choices and ethical concerns influence which scientific questions are investigated and how research is used.',
+              short:[
+                'What is a research priority?',
+                'Give one example of a social need that could influence science research.',
+                'How can public health concerns shape research funding?',
+                'Why might governments fund some science projects more than others?',
+                'How can environmental values influence research priorities?',
+                'What is one ethical concern that could affect whether research should proceed?',
+                'Why might industry fund scientific research?',
+                'Explain the difference between basic research and applied research.',
+                'How can community pressure influence scientific investigation?',
+                'Correct this misconception: “Scientists choose research topics without any influence from society.”'
+              ],
+              long:[
+                'Explain how a society facing drought might influence scientific research priorities in water management, agriculture or climate science.',
+                'Compare two possible research priorities: developing new medicines and developing renewable energy. What social needs might support each one?',
+                'Analyse how funding can affect which scientific questions are answered first.',
+                'Describe how ethical concerns could shape research involving genetics, animals, artificial intelligence or medical testing.',
+                'A student says, “The most scientifically interesting question should always be funded first.” Evaluate this claim using society’s needs and values.',
+                'Explain how a major event such as a pandemic, bushfire, flood or food shortage can redirect scientific research.',
+                'Use a cause-and-effect chain to show how public concern can lead to policy change, funding and scientific investigation.',
+                'Compare how government, university, industry and community groups might have different research priorities.',
+                'Create a decision table for choosing between three research projects, using evidence, cost, benefit, risk and fairness.',
+                'Write a recommendation about which science research area should be prioritised in your community and justify it with evidence-based reasoning.'
+              ],
+              task:'Research one real example where society’s values or needs shaped science research, such as vaccine development, renewable energy, bushfire science, water security, medical research or food production. Explain the social need, the research response and one ethical or economic consideration.'
+            },
+            {
+              code:'AC9S9I01',
+              title:'Investigable Questions, Predictions and Hypotheses',
+              guide:'/year9/science/ac9s9i01-develop-investigable-questions-reasoned-predictions-and/',
+              intro:'Develop investigable questions, reasoned predictions and hypotheses that identify relationships between variables and can be tested with evidence.',
+              short:[
+                'What makes a question investigable in science?',
+                'Rewrite this as an investigable question: “Do plants like music?”',
+                'What is the difference between a prediction and a hypothesis?',
+                'Identify the independent variable in: “How does temperature affect dissolving time?”',
+                'Identify the dependent variable in: “How does light intensity affect plant growth?”',
+                'Name two controlled variables for testing how ramp height affects car speed.',
+                'Write a reasoned prediction for an investigation about exercise and heart rate.',
+                'Why should a hypothesis include a possible relationship between variables?',
+                'What type of evidence would help test a hypothesis about reaction time?',
+                'Correct this misconception: “A hypothesis is just a random guess.”'
+              ],
+              long:[
+                'Turn a broad topic such as “phone use and sleep” into an investigable question, a hypothesis and a prediction.',
+                'For an investigation into fertiliser and plant growth, identify the independent variable, dependent variable and at least three controlled variables.',
+                'Write a strong hypothesis for temperature and dissolving rate, then explain the scientific reasoning behind it.',
+                'Compare two questions and decide which is more investigable: “Is exercise good?” and “How does 5 minutes of exercise affect heart rate?” Explain why.',
+                'Design three different investigable questions about one topic, then choose the strongest and justify your choice.',
+                'Explain why questions about opinions or values often need to be changed before they can be scientifically investigated.',
+                'A student predicts an outcome but gives no reason. Improve the prediction so it is evidence-based.',
+                'Create a planning table for a hypothesis-driven investigation, including variables, prediction, measurements and expected pattern.',
+                'Evaluate a hypothesis that changes two independent variables at once. Explain the problem and rewrite it.',
+                'Write a full investigation opening for one topic: aim, investigable question, hypothesis, prediction and variables.'
+              ],
+              task:'Choose a real science issue or classroom topic and develop one high-quality investigation plan opening. Include background idea, investigable question, hypothesis, prediction, independent variable, dependent variable and controlled variables.'
+            },
+            {
+              code:'AC9S9I02',
+              title:'Valid and Reproducible Investigations',
+              guide:'/year9/science/ac9s9i02-plan-and-conduct-valid-reproducible-investigations-to-answer/',
+              intro:'Plan and conduct valid, reproducible investigations by controlling variables, using suitable equipment, repeating trials, managing risk and collecting useful evidence.',
+              short:[
+                'What does validity mean in a scientific investigation?',
+                'What does reproducibility mean?',
+                'Why should controlled variables be kept the same?',
+                'Why are repeated trials useful?',
+                'What is the purpose of a control group or control condition?',
+                'Name one risk that should be managed in a heating investigation.',
+                'Why should equipment choice match the measurement needed?',
+                'What information should be included in a method so another student can repeat it?',
+                'How can sample size affect investigation quality?',
+                'Correct this misconception: “One successful trial proves the hypothesis.”'
+              ],
+              long:[
+                'Plan a valid investigation into how temperature affects the rate at which sugar dissolves. Include variables, equipment, method, repeats and safety.',
+                'A group changes both water temperature and stirring speed. Explain why the investigation is not valid and how to redesign it.',
+                'Write a reproducible method for testing how light intensity affects plant growth over two weeks.',
+                'Compare a method with one trial to a method with five trials. Explain how repeats affect reliability and confidence.',
+                'Explain how risk assessment should change when an investigation uses hot water, glassware, electricity or living organisms.',
+                'Design a data table for an investigation that includes repeated trials and a mean. Explain why each column is useful.',
+                'Evaluate whether an investigation with a small sample, no control group and vague measurements can support a strong conclusion.',
+                'Improve a weak method by adding controlled variables, exact measurements, safety steps and repeat trials.',
+                'Explain how validity and reproducibility are different but connected in good science.',
+                'Write a full investigation plan for one Year 9 topic, including aim, variables, method, data collection, safety and how results will be checked.'
+              ],
+              task:'Find or design one simple school investigation. Rewrite it so another class could reproduce it exactly. Include variables, equipment, step-by-step method, repeats, risk controls, data table and how the conclusion should be judged.'
+            }
+          ];
+          function page(p){
+            const short = p.short.map((q,i)=>`<li><p>${i+1}. ${esc(q)}</p>${lines(4)}</li>`).join('');
+            const long = p.long.map((q,i)=>`<li><p>${i+1}. ${esc(q)}</p>${lines(8)}</li>`).join('');
+            return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>${p.code} Authored Homework | ${esc(p.title)}</title><meta name="description" content="Authored SkillrHub homework for Year 9 Science ${p.code} with 10 short-answer questions, 10 long-answer questions and one research task."><link rel="canonical" href="https://skillrhub.com/quiz/year-9/science/${p.code.toLowerCase()}/homework/"><link rel="stylesheet" href="/style.css">${style}</head><body><main class="hw-shell"><header class="hw-brand" aria-label="SkillrHub homework branding"><div class="hw-brand__mark" aria-hidden="true">S</div><div><strong>SkillrHub</strong><span>Free Australian Curriculum homework • skillrhub.com</span></div></header><nav class="hw-nav" aria-label="Homework navigation"><a href="/">Home</a><a href="${p.guide}">Topic guide</a><a href="../practice/">Practice</a><a href="../test/">Test</a><button class="hw-print" type="button" onclick="window.print()">Print or save as PDF</button></nav><header class="hw-hero"><p class="hw-kicker">Year 9 Science • ${p.code} • Authored homework</p><h1>${esc(p.title)}</h1><p>${esc(p.intro)} Use precise science language and support longer responses with clear reasoning.</p><div class="hw-meta"><div><strong>10</strong><br>Short-answer questions</div><div><strong>10</strong><br>Long-answer questions</div><div><strong>1</strong><br>Research/application task</div></div></header><section class="hw-section"><p class="hw-kicker">Part A</p><h2>Short-answer questions</h2><ol class="hw-questions">${short}</ol></section><section class="hw-section"><p class="hw-kicker">Part B</p><h2>Long-answer questions</h2><ol class="hw-questions">${long}</ol></section><section class="hw-task"><p class="hw-kicker">Part C</p><h2>Research and understanding task</h2><p>${esc(p.task)}</p>${lines(10)}</section><p class="hw-footer">SkillrHub • Authored Year 9 Science homework • Print or save as PDF</p></main></body></html>`;
+          }
+          for (const p of pages) {
+            const file = path.join('quiz','year-9','science',p.code.toLowerCase(),'homework','index.html');
+            fs.writeFileSync(file, page(p));
+          }
+          NODE
+      - name: Commit authored pages
+        run: |
+          if git diff --quiet; then echo "No changes needed"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quiz/year-9/science/ac9s9h04/homework/index.html quiz/year-9/science/ac9s9i01/homework/index.html quiz/year-9/science/ac9s9i02/homework/index.html
+          git commit -m "Author Year 9 Science H04-I02 homework"
+          git push
