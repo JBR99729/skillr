@@ -33,7 +33,7 @@
   <link rel="dns-prefetch" href="https://www.google-analytics.com">
   <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
   <link rel="stylesheet" href="/style.css?v=20260815-1">
-  <link rel="stylesheet" href="/assets/skillr-ux-v2.css?v=20260820-1">
+  <link rel="stylesheet" href="/assets/skillr-ux-v2.css?v=20260820-2">
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"SkillrHub","alternateName":"Skillr Education","url":"https://skillrhub.com/","description":"Free Foundation to Year 10 Maths, Science and English topic guides, practice, tests and printable worksheets aligned to the Australian Curriculum."}</script>
 </head>
 <body class="home-page">
@@ -56,7 +56,7 @@
         <p class="ux-eyebrow">Australian Curriculum aligned • Foundation to Year 10</p>
         <h1 id="home-hero-title">Learn a topic. Practise it. Test yourself.</h1>
         <p class="ux-hero__lead">Maths, Science and English topic guides, practice questions, tests and printable worksheets — built to help students move from understanding to confidence.</p>
-        <div class="ux-trust" aria-label="SkillrHub highlights"><span>Free to use</span><span>No learner login</span><span>50,000+ curriculum-aligned questions</span><span>Progress saved on this device</span></div>
+        <div class="ux-trust" aria-label="SkillrHub highlights"><span>Free to use</span><span>No learner login</span><span>Australian Curriculum aligned</span><span>Progress saved locally</span></div>
         <search class="site-search ux-search" aria-label="Search SkillrHub learning resources">
           <form class="site-search__form" role="search" action="/sitemap.html" method="get">
             <label class="site-search__label" for="site-search-input">Find a topic or curriculum code</label>
@@ -67,14 +67,15 @@
       </section>
 
       <section class="ux-start" id="choose-year" aria-labelledby="choose-year-title">
-        <div class="ux-start__head"><h2 id="choose-year-title">Start learning</h2><p>Choose your year, then open Maths, Science or English.</p></div>
+        <div class="ux-start__head"><h2 id="choose-year-title">Start learning</h2><p>Choose a year and the subject cards update instantly.</p></div>
         <div class="ux-years" aria-label="Choose a year level">
-          <a class="ux-year" href="#foundation-row">F</a><a class="ux-year" href="#year1-row">1</a><a class="ux-year" href="#year2-row">2</a><a class="ux-year" href="#year3-row">3</a><a class="ux-year" href="#year4-row">4</a><a class="ux-year" href="#year5-row">5</a><a class="ux-year" href="#year6-row">6</a><a class="ux-year" href="#year7-row">7</a><a class="ux-year" href="#year8-row">8</a><a class="ux-year" href="#year9-row">9</a><a class="ux-year" href="#year10-row">10</a>
+          <button class="ux-year" type="button" data-year="foundation" aria-pressed="false">F</button><button class="ux-year" type="button" data-year="year1" aria-pressed="false">1</button><button class="ux-year" type="button" data-year="year2" aria-pressed="false">2</button><button class="ux-year" type="button" data-year="year3" aria-pressed="false">3</button><button class="ux-year" type="button" data-year="year4" aria-pressed="false">4</button><button class="ux-year" type="button" data-year="year5" aria-pressed="false">5</button><button class="ux-year" type="button" data-year="year6" aria-pressed="false">6</button><button class="ux-year" type="button" data-year="year7" aria-pressed="false">7</button><button class="ux-year" type="button" data-year="year8" aria-pressed="false">8</button><button class="ux-year" type="button" data-year="year9" aria-pressed="false">9</button><button class="ux-year" type="button" data-year="year10" aria-pressed="false">10</button>
         </div>
-        <div class="ux-subjects" aria-label="Subjects">
-          <a class="ux-subject" href="#curriculum"><span class="ux-subject__icon">📐</span><span><strong>Maths</strong><small>Number, algebra, measurement, space and statistics</small></span></a>
-          <a class="ux-subject" href="#curriculum"><span class="ux-subject__icon">🧪</span><span><strong>Science</strong><small>Biological, chemical, physical and Earth sciences</small></span></a>
-          <a class="ux-subject" href="#curriculum"><span class="ux-subject__icon">📖</span><span><strong>English</strong><small>Reading, writing, language and communication</small></span></a>
+        <div class="ux-selected-note"><span>Selected: <strong id="selected-year-label">Year 8</strong></span><a id="selected-year-link" href="/year8/curriculum/">Browse all Year 8 resources →</a></div>
+        <div class="ux-subjects" aria-label="Subjects for selected year">
+          <a id="subject-maths" class="ux-subject ux-subject--maths" href="/year8/curriculum/maths/"><span class="ux-subject__icon" aria-hidden="true">📐</span><span><strong>Year 8 Maths</strong><small>Number, algebra, measurement, space and statistics</small></span></a>
+          <a id="subject-science" class="ux-subject ux-subject--science" href="/year8/curriculum/science/"><span class="ux-subject__icon" aria-hidden="true">🧪</span><span><strong>Year 8 Science</strong><small>Biological, chemical, physical and Earth sciences</small></span></a>
+          <a id="subject-english" class="ux-subject ux-subject--english" href="/year8/curriculum/english/"><span class="ux-subject__icon" aria-hidden="true">📖</span><span><strong>Year 8 English</strong><small>Reading, writing, language and communication</small></span></a>
         </div>
       </section>
 
@@ -101,7 +102,7 @@
             <article class="curriculum-year-row" id="year6-row"><div class="curriculum-year-row__year"><a class="curriculum-year-row__title" href="/year6/curriculum/"><span class="curriculum-year-row__mark">6</span><strong>Year 6</strong></a><a class="curriculum-year-row__drill" href="/quiz/year-6/daily-drills/">Daily Drill</a></div><div class="curriculum-year-row__subjects"><a class="curriculum-subject-card curriculum-subject-card--mathematics" href="/year6/curriculum/maths/"><span class="curriculum-subject-card__icon">📐</span><span><strong>Mathematics</strong><small>Open curriculum</small></span></a><a class="curriculum-subject-card curriculum-subject-card--science" href="/year6/curriculum/science/"><span class="curriculum-subject-card__icon">🧪</span><span><strong>Science</strong><small>Open curriculum</small></span></a><a class="curriculum-subject-card curriculum-subject-card--english" href="/year6/curriculum/english/"><span class="curriculum-subject-card__icon">📖</span><span><strong>English</strong><small>Open curriculum</small></span></a></div></article>
           </details>
 
-          <details class="curriculum-stage"><summary class="curriculum-stage__header"><h3>Years 7–10</h3><p>Secondary curriculum learning and revision</p></summary>
+          <details class="curriculum-stage"><summary class="curriculum-stage__header"><h3>Years 7–10</h3><p>Middle years and secondary learning</p></summary>
             <article class="curriculum-year-row" id="year7-row"><div class="curriculum-year-row__year"><a class="curriculum-year-row__title" href="/year7/curriculum/"><span class="curriculum-year-row__mark">7</span><strong>Year 7</strong></a><a class="curriculum-year-row__drill" href="/quiz/year-7/daily-drills/">Daily Drill</a></div><div class="curriculum-year-row__subjects"><a class="curriculum-subject-card curriculum-subject-card--mathematics" href="/year7/curriculum/maths/"><span class="curriculum-subject-card__icon">📐</span><span><strong>Mathematics</strong><small>Open curriculum</small></span></a><a class="curriculum-subject-card curriculum-subject-card--science" href="/year7/curriculum/science/"><span class="curriculum-subject-card__icon">🧪</span><span><strong>Science</strong><small>Open curriculum</small></span></a><a class="curriculum-subject-card curriculum-subject-card--english" href="/year7/curriculum/english/"><span class="curriculum-subject-card__icon">📖</span><span><strong>English</strong><small>Open curriculum</small></span></a></div></article>
             <article class="curriculum-year-row" id="year8-row"><div class="curriculum-year-row__year"><a class="curriculum-year-row__title" href="/year8/curriculum/"><span class="curriculum-year-row__mark">8</span><strong>Year 8</strong></a><a class="curriculum-year-row__drill" href="/quiz/year-8/daily-drills/">Daily Drill</a></div><div class="curriculum-year-row__subjects"><a class="curriculum-subject-card curriculum-subject-card--mathematics" href="/year8/curriculum/maths/"><span class="curriculum-subject-card__icon">📐</span><span><strong>Mathematics</strong><small>Open curriculum</small></span></a><a class="curriculum-subject-card curriculum-subject-card--science" href="/year8/curriculum/science/"><span class="curriculum-subject-card__icon">🧪</span><span><strong>Science</strong><small>Open curriculum</small></span></a><a class="curriculum-subject-card curriculum-subject-card--english" href="/year8/curriculum/english/"><span class="curriculum-subject-card__icon">📖</span><span><strong>English</strong><small>Open curriculum</small></span></a></div></article>
             <article class="curriculum-year-row" id="year9-row"><div class="curriculum-year-row__year"><a class="curriculum-year-row__title" href="/year9/curriculum/"><span class="curriculum-year-row__mark">9</span><strong>Year 9</strong></a><a class="curriculum-year-row__drill" href="/quiz/year-9/daily-drills/">Daily Drill</a></div><div class="curriculum-year-row__subjects"><a class="curriculum-subject-card curriculum-subject-card--mathematics" href="/year9/curriculum/maths/"><span class="curriculum-subject-card__icon">📐</span><span><strong>Mathematics</strong><small>Open curriculum</small></span></a><a class="curriculum-subject-card curriculum-subject-card--science" href="/year9/curriculum/science/"><span class="curriculum-subject-card__icon">🧪</span><span><strong>Science</strong><small>Open curriculum</small></span></a><a class="curriculum-subject-card curriculum-subject-card--english" href="/year9/curriculum/english/"><span class="curriculum-subject-card__icon">📖</span><span><strong>English</strong><small>Open curriculum</small></span></a></div></article>
@@ -113,19 +114,37 @@
   </div>
 
   <footer>
-    <nav class="footer-nav" aria-label="Footer navigation"><a href="/">Learn</a><a href="/dashboard/">Dashboard</a><a href="/updates.html">Updates</a><a href="/blogs/">Blogs</a><a href="/why-skillrhub.html">Features</a><a href="/worksheets/">Worksheets</a><a href="/about.html">About</a><a href="/contact.html">Contact</a><a href="/privacy-policy.html">Privacy</a><a href="/sitemap.html">Sitemap</a></nav>
+    <nav class="footer-nav" aria-label="Footer navigation"><a href="/">Home</a><a href="/dashboard/">Dashboard</a><a href="/blogs/">Blogs</a><a href="/why-skillrhub.html">Features</a><a href="/worksheets/">Worksheets</a><a href="/about.html">About</a><a href="/contact.html">Contact</a><a href="/sitemap.html">Sitemap</a><a href="/privacy-policy.html">Privacy</a><a class="footer-facebook-link" href="https://www.facebook.com/1139028835969651" target="_blank" rel="noopener noreferrer" aria-label="Follow SkillrHub on Facebook">Facebook</a></nav>
     <p>© 2026 Skillr Education. All rights reserved.</p>
-    <p>Educational resources are provided for students, parents and teachers for learning purposes only.</p>
+    <p>Educational resources are provided for students, parents and teachers for learning purposes only. Commercial use, redistribution or resale is strictly prohibited without written permission.</p>
   </footer>
 
   <script>
     (function(){
-      var start=document.getElementById('daily-drill-start');
-      var select=document.getElementById('daily-drill-year');
-      if(start&&select){start.addEventListener('click',function(){window.location.href='/quiz/'+select.value+'/daily-drills/';});}
-      function loadDeferred(){if(window.__skillrDeferredScriptsLoaded)return;window.__skillrDeferredScriptsLoaded=true;window.dataLayer=window.dataLayer||[];window.gtag=window.gtag||function(){window.dataLayer.push(arguments)};window.gtag('js',new Date());window.gtag('config','G-8P22BET45N');var g=document.createElement('script');g.src='https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N';g.async=true;document.head.appendChild(g);var a=document.createElement('script');a.src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771';a.async=true;a.crossOrigin='anonymous';document.head.appendChild(a);}
-      window.addEventListener('load',function(){window.setTimeout(loadDeferred,1200)},{once:true});
+      const years={foundation:{label:"Foundation",base:"/foundation/curriculum/",drill:"grade-k"},year1:{label:"Year 1",base:"/year1/curriculum/",drill:"year-1"},year2:{label:"Year 2",base:"/year2/curriculum/",drill:"year-2"},year3:{label:"Year 3",base:"/year3/curriculum/",drill:"year-3"},year4:{label:"Year 4",base:"/year4/curriculum/",drill:"year-4"},year5:{label:"Year 5",base:"/year5/curriculum/",drill:"year-5"},year6:{label:"Year 6",base:"/year6/curriculum/",drill:"year-6"},year7:{label:"Year 7",base:"/year7/curriculum/",drill:"year-7"},year8:{label:"Year 8",base:"/year8/curriculum/",drill:"year-8"},year9:{label:"Year 9",base:"/year9/curriculum/",drill:"year-9"},year10:{label:"Year 10",base:"/year10/curriculum/",drill:"year-10"}};
+      const buttons=[...document.querySelectorAll(".ux-year[data-year]")];
+      const label=document.getElementById("selected-year-label");
+      const browse=document.getElementById("selected-year-link");
+      const drill=document.getElementById("daily-drill-year");
+      const subjects={maths:document.getElementById("subject-maths"),science:document.getElementById("subject-science"),english:document.getElementById("subject-english")};
+      function setYear(key,save=true){
+        const year=years[key]||years.year8;
+        buttons.forEach((button)=>{const active=button.dataset.year===key;button.classList.toggle("is-active",active);button.setAttribute("aria-pressed",active?"true":"false")});
+        label.textContent=year.label;browse.textContent=`Browse all ${year.label} resources →`;browse.href=year.base;
+        subjects.maths.href=year.base+"maths/";subjects.maths.querySelector("strong").textContent=`${year.label} Maths`;
+        subjects.science.href=year.base+"science/";subjects.science.querySelector("strong").textContent=`${year.label} Science`;
+        subjects.english.href=year.base+"english/";subjects.english.querySelector("strong").textContent=`${year.label} English`;
+        if(drill) drill.value=year.drill;
+        if(save){try{localStorage.setItem("skillrHomeYear",key)}catch(_){}}
+      }
+      buttons.forEach((button)=>button.addEventListener("click",()=>setYear(button.dataset.year)));
+      let saved="year8";try{saved=localStorage.getItem("skillrHomeYear")||saved}catch(_){}
+      setYear(saved,false);
     })();
+  </script>
+  <script>
+    function loadPerformanceDeferredScripts(){if(window.__skillrDeferredScriptsLoaded)return;window.__skillrDeferredScriptsLoaded=true;window.dataLayer=window.dataLayer||[];window.gtag=window.gtag||function(){window.dataLayer.push(arguments)};window.gtag("js",new Date());window.gtag("config","G-8P22BET45N");var gtagScript=document.createElement("script");gtagScript.src="https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N";gtagScript.async=true;document.head.appendChild(gtagScript);var adsScript=document.createElement("script");adsScript.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7734963540104771";adsScript.async=true;adsScript.crossOrigin="anonymous";document.head.appendChild(adsScript)}
+    if(document.readyState==="complete"||document.readyState==="interactive")window.setTimeout(loadPerformanceDeferredScripts,1200);else window.addEventListener("load",function(){window.setTimeout(loadPerformanceDeferredScripts,1200)},{once:true});
   </script>
   <script src="/pwa-register.js?v=7"></script>
   <script src="/share-button.js?v=20260815-1"></script>
