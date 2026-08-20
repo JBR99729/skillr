@@ -1,0 +1,67 @@
+name: Finalize F-10 topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/upgrade_english_topic_pages_f10.py'
+      - 'scripts/finalize_year10_topic_pages.py'
+      - 'scripts/validate_f10_topic_page_freeze.py'
+      - '.github/workflows/finalize-f10-topic-pages.yml'
+      - 'foundation/english/**/index.html'
+      - 'year*/english/**/index.html'
+      - 'year10/science/ac9s10i*/index.html'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  finalize-and-validate:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+
+      - name: Syntax-check authoring and QA scripts
+        run: |
+          python3 -m py_compile scripts/upgrade_english_topic_pages_f10.py
+          python3 -m py_compile scripts/finalize_year10_topic_pages.py
+          python3 -m py_compile scripts/validate_f10_topic_page_freeze.py
+
+      - name: Upgrade only legacy English topic pages
+        run: python3 scripts/upgrade_english_topic_pages_f10.py
+
+      - name: Finish Year 10 English and Science Inquiry pages
+        run: python3 scripts/finalize_year10_topic_pages.py
+
+      - name: Validate static curriculum architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+
+      - name: Validate final F-10 topic-page freeze gate
+        run: python3 scripts/validate_f10_topic_page_freeze.py
+
+      - name: Run F-10 curriculum coverage audit
+        run: python3 scripts/audit_f10_curriculum_v11.py
+
+      - name: Check generated diff
+        run: git diff --check
+
+      - name: Commit generated topic pages to QA branch
+        if: github.event_name == 'pull_request'
+        shell: bash
+        run: |
+          mapfile -d '' ENGLISH_PAGES < <(find foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10 -path '*/english/ac9e*/index.html' -print0 2>/dev/null || true)
+          SCIENCE_PAGES=(year10/science/ac9s10i*/index.html)
+          if ((${#ENGLISH_PAGES[@]})); then git add -- "${ENGLISH_PAGES[@]}"; fi
+          for f in "${SCIENCE_PAGES[@]}"; do [[ -f "$f" ]] && git add -- "$f"; done
+          if git diff --cached --quiet; then
+            echo 'Generated topic pages are already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Complete F-10 English and Year 10 Science Inquiry topic pages'
+          git push origin HEAD:${GITHUB_HEAD_REF}
