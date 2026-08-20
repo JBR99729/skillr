@@ -1,0 +1,256 @@
+name: Author Year 8 Science U homework
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/author-year8-science-u-homework.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  author:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write authored homework pages
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const esc = s => String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+          const lineBlock = n => `<div class="answer-lines">${'<span></span>'.repeat(n)}</div>`;
+          const style = `:root{--blue:#2457d6;--ink:#18324f;--muted:#62748a;--line:#dce5f1;--soft:#f5f8ff}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif}.hw-shell{max-width:980px;margin:auto;padding:24px}.hw-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}.hw-nav a,.hw-print{border:1px solid #cbd8ea;border-radius:999px;background:#fff;color:var(--blue);font-weight:800;text-decoration:none;padding:8px 12px}.hw-print{cursor:pointer}.hw-hero,.hw-section,.hw-task{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:22px;margin:14px 0}.hw-kicker{color:var(--blue);font-size:.78rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3rem);line-height:1.08;margin:0 0 10px}h2{margin:0 0 12px}.hw-meta{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}.hw-meta div{background:var(--soft);border-radius:12px;padding:12px}.hw-questions{padding-left:1.2rem}.hw-questions li{break-inside:avoid;margin:0 0 18px}.hw-questions p{font-weight:700}.answer-lines{display:grid;gap:10px;margin-top:10px}.answer-lines span{display:block;border-bottom:1px solid #9fb0c5;min-height:24px}.hw-task{border-left:6px solid var(--blue)}.hw-footer{color:var(--muted);font-size:.9rem;text-align:center;margin:24px 0}@media print{body{background:#fff}.hw-shell{max-width:none;padding:0}.hw-nav,.hw-print{display:none}.hw-hero,.hw-section,.hw-task{box-shadow:none;border-radius:0;border-left:0}.answer-lines span{min-height:22px}}`;
+          const data = {
+            ac9s8u01: {
+              title: 'Inside Plant and Animal Cells',
+              topic: '/year8/science/ac9s8u01-cells-as-the-basic-units-of-living-things-compare-plant/',
+              intro: 'Compare plant and animal cells by linking visible cell structures to their functions in living things.',
+              short: [
+                'Define a cell and explain why cells are called the basic unit of living things.',
+                'Name two structures found in both plant and animal cells and state the function of each.',
+                'What is the function of the nucleus in a plant or animal cell?',
+                'Explain the difference between a cell membrane and a cell wall.',
+                'Why do plant cells usually have a more regular shape than animal cells?',
+                'State the function of chloroplasts and explain why animal cells do not have them.',
+                'Describe the role of the cytoplasm in a cell.',
+                'What does the mitochondrion help the cell do?',
+                'A microscope image shows a cell wall and chloroplasts. Is it a plant or animal cell? Justify your answer.',
+                'Write one sentence that links a cell structure to its function.'
+              ],
+              long: [
+                'Construct a labelled comparison table showing at least five similarities and differences between plant and animal cells.',
+                'A student sees cells with a cell membrane, cytoplasm and nucleus but no cell wall. Explain what type of cell this is likely to be and what evidence supports your decision.',
+                'Explain how chloroplasts, the vacuole and the cell wall help plant cells carry out life processes.',
+                'Describe how a microscope can be used to compare plant and animal cells. Include what students should look for and one limitation of using a light microscope.',
+                'Explain why a diagram of a cell is a model rather than a perfect copy of the real cell.',
+                'A student says, “Only animal cells are alive because they move.” Evaluate this claim using evidence about plant cells.',
+                'Explain how the structure of a cell membrane helps a cell survive.',
+                'Use an example to show how the function of a cell structure supports the needs of the whole organism.',
+                'Design a short practical activity for comparing cheek cells and onion cells. Include equipment, observations and one safety rule.',
+                'Write a full explanation of how plant and animal cells are similar, how they differ and why those differences matter.'
+              ],
+              task: 'Research one specialised plant or animal cell, such as a nerve cell, red blood cell, root hair cell or palisade cell. Explain how its structure helps it perform its function, and include one labelled sketch or diagram.'
+            },
+            ac9s8u02: {
+              title: 'From Cells to Organ Systems',
+              topic: '/year8/science/ac9s8u02-analyse-the-relationship-between-structure-and-function-of/',
+              intro: 'Explain how specialised cells, tissues, organs and organ systems work together in multicellular organisms.',
+              short: [
+                'Place these levels of organisation in order from smallest to largest: organ system, cell, tissue, organ, organism.',
+                'Define specialised cell and give one example.',
+                'What is a tissue?',
+                'Explain how an organ is different from a tissue.',
+                'Name one organ system and state its main function.',
+                'How do red blood cells help the circulatory system do its job?',
+                'Why do multicellular organisms need different types of cells?',
+                'Give one example of structure matching function in a human organ.',
+                'Explain why a stomach is an organ, not a tissue.',
+                'Write one sentence linking a cell, tissue, organ and organ system.'
+              ],
+              long: [
+                'Explain how cells, tissues, organs and organ systems are related. Use one named body system as your example.',
+                'Choose one specialised cell and explain how at least three structural features help it perform its function.',
+                'Describe how the digestive system uses different organs to break down food and absorb nutrients.',
+                'Compare the role of muscle tissue and nervous tissue in helping an organism respond to its environment.',
+                'A student says, “An organ system is just a group of identical cells.” Explain why this is incorrect.',
+                'Use the respiratory system to explain how structure and function are connected at the organ level.',
+                'Explain what might happen to an organism if one organ in a system stops working properly.',
+                'Create a flow chart showing how oxygen moves from the air to body cells. Include organs and tissues involved.',
+                'Explain why studying body systems requires looking at both small-scale structures and whole-organism functions.',
+                'Write a paragraph explaining how division of labour makes multicellular organisms more efficient.'
+              ],
+              task: 'Research one organ system in humans or another animal. Explain its main organs, the job of each organ and how the system helps the organism survive.'
+            },
+            ac9s8u03: {
+              title: 'Plate Tectonics and Earth Processes',
+              topic: '/year8/science/ac9s8u03-describe-the-structure-of-earth-and-model-the-tectonic/',
+              intro: 'Use Earth structure and plate movement to explain earthquakes, volcanoes, mountains and seafloor changes.',
+              short: [
+                'Name the main layers of Earth from outside to inside.',
+                'What is a tectonic plate?',
+                'Define a divergent plate boundary.',
+                'Define a convergent plate boundary.',
+                'Define a transform plate boundary.',
+                'What type of plate boundary is most commonly linked with mid-ocean ridges?',
+                'Explain why earthquakes often occur near plate boundaries.',
+                'What evidence can scientists use to infer that plates move?',
+                'How can a volcano form at a subduction zone?',
+                'Write one sentence linking mantle movement to plate motion.'
+              ],
+              long: [
+                'Explain how convection in the mantle can contribute to tectonic plate movement.',
+                'Compare what happens at divergent, convergent and transform plate boundaries. Include one landform or hazard for each.',
+                'Use plate tectonics to explain why earthquakes and volcanoes are not randomly spread across Earth.',
+                'Describe how seafloor spreading provides evidence for plate movement.',
+                'Explain how the Himalayas could form from the collision of two continental plates.',
+                'A student says, “Continents float around on the ocean.” Correct this statement using tectonic plate ideas.',
+                'Interpret a map showing earthquake locations clustered around the Pacific. What pattern would you expect and why?',
+                'Explain why models of Earth’s interior are useful even though scientists cannot directly observe all layers.',
+                'Describe the sequence of events that can happen when an oceanic plate subducts beneath a continental plate.',
+                'Write a full explanation of how plate tectonics connects slow Earth processes with sudden natural hazards.'
+              ],
+              task: 'Research one real earthquake, volcano or mountain range. Explain which plate boundary is involved, what evidence shows plate movement and how the event affected people or the environment.'
+            },
+            ac9s8u04: {
+              title: 'Rocks, Minerals and the Rock Cycle',
+              topic: '/year8/science/ac9s8u04-describe-the-key-processes-of-the-rock-cycle-including/',
+              intro: 'Use the rock cycle to explain how igneous, sedimentary and metamorphic rocks form and change over time.',
+              short: [
+                'Name the three main rock types.',
+                'How does an igneous rock form?',
+                'How does a sedimentary rock form?',
+                'How does a metamorphic rock form?',
+                'What is weathering?',
+                'What is erosion?',
+                'Explain the difference between melting and cooling in the rock cycle.',
+                'Why are fossils more likely to be found in sedimentary rock than igneous rock?',
+                'Give one example of a mineral property used to identify a rock or mineral.',
+                'Write one sentence explaining why the rock cycle is a cycle rather than a straight line.'
+              ],
+              long: [
+                'Explain how sediment can become sedimentary rock. Include weathering, erosion, deposition, compaction and cementation.',
+                'Describe how an igneous rock can eventually become a metamorphic rock.',
+                'Compare intrusive and extrusive igneous rocks and explain how cooling rate affects crystal size.',
+                'A student says, “A rock stays the same forever.” Use the rock cycle to evaluate this claim.',
+                'Explain how heat and pressure can change a rock without melting it completely.',
+                'Use a labelled flow chart to show at least four pathways a rock can take through the rock cycle.',
+                'Explain how the rock cycle links surface processes with processes deep inside Earth.',
+                'Interpret a rock sample that contains visible layers and fossil fragments. What type of rock is it likely to be and why?',
+                'Describe how mining or quarrying can reveal information about rock formation and Earth history.',
+                'Write a full explanation of how energy from the Sun and energy from inside Earth both drive parts of the rock cycle.'
+              ],
+              task: 'Research one rock used in buildings, roads, jewellery or technology. Identify its rock type, how it formed and why its properties make it useful.'
+            },
+            ac9s8u05: {
+              title: 'Track Energy Through a System',
+              topic: '/year8/science/ac9s8u05-classify-different-types-of-energy-as-kinetic-or-potential-and/',
+              intro: 'Classify energy as kinetic or potential and trace transfers and transformations through real systems.',
+              short: [
+                'Define kinetic energy.',
+                'Define potential energy.',
+                'Classify the energy stored in a stretched rubber band as kinetic or potential and explain why.',
+                'What is an energy transfer?',
+                'What is an energy transformation?',
+                'Give one example of chemical potential energy being transformed into another form.',
+                'Why is heat often described as energy transferred to the surroundings?',
+                'Explain what is meant by an energy system boundary.',
+                'Name two forms of energy involved when a ball rolls down a ramp.',
+                'Write one sentence using the idea that energy is conserved.'
+              ],
+              long: [
+                'Trace the energy changes in a torch from battery to light and heat. Identify transfers and transformations.',
+                'Explain the energy changes when a roller-coaster car moves from the top of a hill to the bottom.',
+                'Compare useful energy output and wasted energy in one household device.',
+                'Draw an energy flow diagram for a bouncing ball and explain why it does not bounce back to the original height.',
+                'A student says, “Energy disappears when a phone battery goes flat.” Correct this idea using conservation of energy.',
+                'Describe energy transfers in a simple electric circuit with a battery, wires and a lamp.',
+                'Explain how friction changes the energy story in a moving system.',
+                'Use a food chain example to explain how energy is transferred between living things.',
+                'Evaluate which parts of an energy transformation are useful and which are dissipated for a toaster, fan or car.',
+                'Write a full explanation of one everyday system, identifying the starting energy store, transfers, transformations and final energy forms.'
+              ],
+              task: 'Research one device or natural system that transforms energy, such as a solar panel, hydroelectric dam, bicycle, wind turbine or human body during exercise. Explain the energy pathway using a diagram.'
+            },
+            ac9s8u06: {
+              title: 'Elements, Compounds and Mixtures',
+              topic: '/year8/science/ac9s8u06-classify-matter-as-elements-compounds-or-mixtures-and-compare/',
+              intro: 'Classify matter using particles, symbols, formulas and simple separation ideas.',
+              short: [
+                'Define element.',
+                'Define compound.',
+                'Define mixture.',
+                'Explain the difference between a compound and a mixture.',
+                'Classify oxygen gas, pure water and seawater as element, compound or mixture.',
+                'What does a chemical formula show about a compound?',
+                'Why can a mixture often be separated by physical methods?',
+                'Give one example of a homogeneous mixture and one example of a heterogeneous mixture.',
+                'Explain why sodium chloride is not a mixture of sodium pieces and chlorine gas.',
+                'Write one particle-level sentence comparing an element and a compound.'
+              ],
+              long: [
+                'Compare elements, compounds and mixtures using particle diagrams, composition and separation methods.',
+                'Explain why water is a compound but salt water is a mixture.',
+                'Describe how filtration, evaporation or chromatography could separate a mixture. Choose one method and explain why it works.',
+                'A student says, “All substances made of more than one atom are mixtures.” Evaluate this claim.',
+                'Use examples to explain the difference between chemical bonding in compounds and physical mixing in mixtures.',
+                'Interpret a particle diagram containing identical single atoms, identical bonded groups and different particles mixed together.',
+                'Explain why symbols such as O, Fe and C are useful in science.',
+                'Describe how evidence from a separation experiment could show whether a sample is a mixture.',
+                'Compare air, carbon dioxide and iron using the terms element, compound, mixture and particle.',
+                'Write a full explanation of how particle theory helps classify matter.'
+              ],
+              task: 'Research one everyday material, such as air, milk, steel, concrete, seawater or soft drink. Classify it as an element, compound or mixture and explain your evidence.'
+            },
+            ac9s8u07: {
+              title: 'Physical and Chemical Changes',
+              topic: '/year8/science/ac9s8u07-compare-physical-and-chemical-changes-and-identify-indicators/',
+              intro: 'Compare physical and chemical changes using observations, particle ideas, energy and evidence of new substances.',
+              short: [
+                'Define physical change.',
+                'Define chemical change.',
+                'State one sign that a chemical change may have occurred.',
+                'Why is melting ice a physical change?',
+                'Why is burning paper a chemical change?',
+                'Explain why a colour change alone is not always enough evidence of a chemical reaction.',
+                'What does gas production suggest during a reaction?',
+                'Classify dissolving sugar in water as physical or chemical and justify your answer.',
+                'What is meant by a new substance forming?',
+                'Give one example of an exothermic or endothermic change.'
+              ],
+              long: [
+                'Compare physical and chemical changes using particle arrangement, reversibility and formation of new substances.',
+                'A student mixes two clear liquids and bubbles form. Explain what this evidence could suggest and what extra evidence would strengthen the conclusion.',
+                'Explain why rusting iron is a chemical change but cutting iron into smaller pieces is a physical change.',
+                'Describe a simple investigation that could test whether a change produced a new substance.',
+                'Evaluate the claim, “If a change can be reversed, it must be physical.” Include an example or limitation.',
+                'Explain the difference between dissolving, melting and reacting using particle ideas.',
+                'Use observations to classify three changes: evaporating water, burning fuel and mixing sand with salt.',
+                'Describe how temperature change can be evidence in chemical reactions, but also why it must be interpreted carefully.',
+                'Write a table comparing at least four examples of physical and chemical changes with evidence for each classification.',
+                'Write a full explanation of how scientists use multiple observations to decide whether a chemical reaction has occurred.'
+              ],
+              task: 'Research one useful chemical change in everyday life, industry, cooking, medicine or the environment. Explain the reactants, products if known, evidence of change and why the reaction matters.'
+            }
+          };
+          function html(code, item) {
+            const short = item.short.map((q,i)=>`<li><p>${i+1}. ${esc(q)}</p>${lineBlock(4)}</li>`).join('');
+            const long = item.long.map((q,i)=>`<li><p>${i+1}. ${esc(q)}</p>${lineBlock(8)}</li>`).join('');
+            return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>${code.toUpperCase()} Authored Homework | ${esc(item.title)}</title><meta name="description" content="Authored SkillrHub homework for Year 8 Science ${code.toUpperCase()} with short-answer, long-answer and research/application tasks."><link rel="canonical" href="https://skillrhub.com/quiz/year-8/science/${code}/homework/"><link rel="stylesheet" href="/style.css"><style>${style}</style></head><body><main class="hw-shell"><nav class="hw-nav" aria-label="Homework navigation"><a href="/">Home</a><a href="${item.topic}">Topic guide</a><a href="../practice/">Practice</a><a href="../test/">Test</a><button class="hw-print" type="button" onclick="window.print()">Print or save as PDF</button></nav><header class="hw-hero"><p class="hw-kicker">Year 8 Science • ${code.toUpperCase()} • Authored homework</p><h1>${esc(item.title)}</h1><p>${esc(item.intro)} Answer in full sentences where useful, and use evidence or examples in longer responses.</p><div class="hw-meta"><div><strong>10</strong><br>Short-answer questions</div><div><strong>10</strong><br>Long-answer questions</div><div><strong>1</strong><br>Research/application task</div></div></header><section class="hw-section"><p class="hw-kicker">Part A</p><h2>Short-answer questions</h2><ol class="hw-questions">${short}</ol></section><section class="hw-section"><p class="hw-kicker">Part B</p><h2>Long-answer questions</h2><ol class="hw-questions">${long}</ol></section><section class="hw-task"><p class="hw-kicker">Part C</p><h2>Research and understanding task</h2><p>${esc(item.task)}</p>${lineBlock(10)}</section><p class="hw-footer">SkillrHub • Authored Year 8 Science homework • Print or save as PDF</p></main></body></html>`;
+          }
+          for (const [code, item] of Object.entries(data)) {
+            const file = path.join('quiz','year-8','science',code,'homework','index.html');
+            fs.mkdirSync(path.dirname(file), { recursive: true });
+            fs.writeFileSync(file, html(code, item));
+          }
+          NODE
+      - name: Commit authored homework pages
+        run: |
+          if git diff --quiet; then echo "No changes needed"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quiz/year-8/science/ac9s8u*/homework/index.html
+          git commit -m "Author Year 8 Science understanding homework"
+          git push
