@@ -1,0 +1,65 @@
+name: Add homework print branding
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/add-homework-print-branding.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  brand:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Add printable SkillrHub branding to homework pages
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const roots = [
+            'quiz/year-7/math', 'quiz/year-7/science',
+            'quiz/year-8/math', 'quiz/year-8/science',
+            'quiz/year-9/math', 'quiz/year-9/science',
+            'quiz/year-10/math', 'quiz/year-10/science'
+          ];
+          const brand = '<header class="hw-brand" aria-label="SkillrHub homework branding"><div class="hw-brand__mark" aria-hidden="true">S</div><div><strong>SkillrHub</strong><span>Free Australian Curriculum homework • skillrhub.com</span></div></header>';
+          const brandCss = '.hw-brand{display:flex;align-items:center;gap:12px;margin:0 0 14px;padding:12px 14px;border:1px solid #cbd8ea;border-radius:16px;background:#fff;color:var(--ink)}.hw-brand__mark{display:grid;place-items:center;width:42px;height:42px;border-radius:12px;background:var(--blue);color:#fff;font-weight:900;font-size:1.35rem}.hw-brand strong{display:block;color:var(--blue);font-size:1.15rem;letter-spacing:.01em}.hw-brand span{display:block;color:var(--muted);font-size:.9rem}@media print{.hw-brand{display:flex!important;border:0;border-bottom:2px solid #2457d6;border-radius:0;margin:0 0 10px;padding:8px 0;background:#fff;box-shadow:none}.hw-brand__mark{background:#2457d6!important;color:#fff!important}}';
+          function walk(dir) {
+            if (!fs.existsSync(dir)) return [];
+            return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
+              const full = path.join(dir, entry.name);
+              return entry.isDirectory() ? walk(full) : [full];
+            });
+          }
+          let changed = 0;
+          for (const root of roots) {
+            for (const file of walk(root)) {
+              if (!file.replace(/\\/g, '/').endsWith('/homework/index.html')) continue;
+              let html = fs.readFileSync(file, 'utf8');
+              const original = html;
+              if (!html.includes('class="hw-brand"')) {
+                html = html.replace('<main class="hw-shell">', `<main class="hw-shell">${brand}`);
+              }
+              if (!html.includes('.hw-brand{')) {
+                html = html.replace('</style>', `${brandCss}</style>`);
+              }
+              if (html !== original) {
+                fs.writeFileSync(file, html);
+                changed += 1;
+              }
+            }
+          }
+          console.log(`Added printable SkillrHub branding to ${changed} homework pages.`);
+          NODE
+      - name: Commit branded homework pages
+        run: |
+          if git diff --quiet; then echo "No changes needed"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quiz/year-7 quiz/year-8 quiz/year-9 quiz/year-10
+          git commit -m "Add printable SkillrHub branding to homework pages"
+          git push
