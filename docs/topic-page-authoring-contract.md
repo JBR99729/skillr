@@ -1,4 +1,4 @@
-# SkillrHub Topic Page Authoring Contract — Mathematics and Science F–10
+# SkillrHub Topic Page Authoring Contract — Mathematics, Science and English F–10
 
 ## Shared contract
 Every topic page must be a useful lesson, not a curriculum-code placeholder. The Australian Curriculum content description is the required learning target; official elaborations are used as a coverage and teaching-opportunity checklist.
@@ -23,6 +23,13 @@ Substantive codes normally require 2–4 worked examples. Depth increases materi
 
 Depth increases materially from Year 6 onward, with Years 7–10 requiring stronger scientific vocabulary, mechanisms, evidence interpretation, model strengths/limitations, and unfamiliar application. First Nations content must be included where relevant to the curriculum and written respectfully without treating diverse knowledge systems as uniform.
 
+## English lesson contract
+**Outcome meaning → English/literacy concepts → concrete text/language examples → effect/analysis → misconceptions → explicit modelling → guided/independent application → formative evidence.**
+
+Every English page must contain subject-specific instructional content rather than generic literacy filler. It should normally include 3–4 short original examples or analysis moves and 3–4 code-specific misconceptions. Depth increases materially from Year 6 onward: Years 7–10 require stronger metalanguage, evidence-based interpretation, audience/purpose/context reasoning, deliberate crafting/editing and transfer to unfamiliar texts or multimodal examples.
+
+English international curriculum mapping must stay exclusively within English/ELA/literacy/humanities standards. Do not include Mathematics, Science or NGSS references on English pages. Overseas entries are closest alignments, not exact equivalences. See `docs/english-topic-page-quality-standard.md` for the full release gate.
+
 ## Assessment contract
 ### Practice
 - Builds from confidence to medium application.
@@ -30,7 +37,7 @@ Depth increases materially from Year 6 onward, with Years 7–10 requiring stron
 - Every assessed idea must be taught or reasonably prerequisite knowledge.
 
 ### Test
-- Uses unseen situations and values.
+- Uses unseen situations and values/examples.
 - Tests transfer, not memory of Practice scenarios.
 - Avoids artificial difficulty and content outside the curriculum boundary.
 
