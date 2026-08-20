@@ -15,8 +15,7 @@ def description_of(s):
     m=re.search(r"<strong>Content description:</strong>\s*(.*?)</li>",s,re.I|re.S) or re.search(r'<p class="curriculum-hero__lead">(.*?)</p>',s,re.I|re.S)
     return clean(m.group(1))
 def elaborations_of(s):
-    b=re.search(r"<h2>Curriculum coverage and elaborations</h2>(.*?)</section>",s,re.I|re.S)
-    return [] if not b else [clean(x) for x in re.findall(r"<strong>E\d+:</strong>\s*(.*?)</li>",b.group(1),re.I|re.S)]
+    return [clean(x) for x in re.findall(r"<strong>E\d+:</strong>\s*(.*?)</li>",s,re.I|re.S)]
 def terms(d,e):
     t=" ".join([d,*e]).lower(); c=["audience","purpose","context","language","vocabulary","pronouns","values","text structure","paragraph","sentence","syntax","punctuation","image","visual","multimodal","representation","voice","character","theme","literary","rhetorical","evidence","argument","perspective","cohesion","modality","tone","spelling","phoneme","grapheme","morpheme","reading","writing","speaking","listening"]
     return list(dict.fromkeys(x for x in c if x in t))[:6] or ["meaning","language choices","audience"]
@@ -71,9 +70,25 @@ def update_meta(s,code,d,y):
     s=re.sub(r'<meta name="description" content="[^"]*">',f'<meta name="description" content="{esc(desc)}">',s,count=1,flags=re.I)
     s=re.sub(r'<meta property="og:description" content="[^"]*">',f'<meta property="og:description" content="{esc(desc)}">',s,count=1,flags=re.I)
     return s
+def content_bounds(s):
+    start_match=re.search(r'<(?:section|details)\b[^>]*\bid=["\']topic-guide["\'][^>]*>',s,re.I)
+    if not start_match: return -1,-1
+    start=start_match.start()
+    related_positions=[]
+    for pattern in (r'<summary[^>]*>\s*<strong>\s*Related\b',r'<h2[^>]*>\s*Related\b'):
+        m=re.search(pattern,s[start:],re.I|re.S)
+        if m: related_positions.append(start+m.start())
+    if related_positions:
+        rp=min(related_positions)
+        details=s.rfind('<details',start,rp); section=s.rfind('<section',start,rp)
+        end=max(details,section)
+    else:
+        aside=s.find('<aside class="curriculum-sidebar">',start)
+        end=aside if aside>=0 else -1
+    return start,end
 def upgrade(p):
     s=p.read_text(encoding="utf-8"); code=code_of(s); d=description_of(s); e=elaborations_of(s); y=year_of(p)
-    start=s.find('<section class="curriculum-topic-section" id="topic-guide">'); end=s.find('<section class="curriculum-topic-section">\n        <h2>Related ',start)
+    start,end=content_bounds(s)
     if start<0 or end<0: raise ValueError(f"body anchors not found: {p}")
     out=update_meta(s[:start]+replacement(code,d,e,y)+"\n\n      "+s[end:],code,d,y)
     if out!=s:p.write_text(out,encoding="utf-8");return True
