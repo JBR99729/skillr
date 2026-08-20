@@ -11,8 +11,8 @@
 (function initialiseSkillrIssueReporter() {
   const DEFAULT_EMAIL = "skillrhublearning@gmail.com";
 
-  function loadSharedEnhancement(src, dataAttribute, requireMeta = true) {
-    if ((requireMeta && !window.skillrPageMeta?.curriculumCode) || document.querySelector(`script[${dataAttribute}]`)) return;
+  function loadSharedEnhancement(src, dataAttribute) {
+    if (!window.skillrPageMeta?.curriculumCode || document.querySelector(`script[${dataAttribute}]`)) return;
     const script = document.createElement("script");
     script.src = src;
     script.defer = true;
@@ -23,9 +23,6 @@
   function loadCurriculumEnhancements() {
     loadSharedEnhancement("/assets/international-curriculum-seo.js?v=1", "data-skillr-international-alignment");
     loadSharedEnhancement("/assets/curriculum-progression.js?v=1", "data-skillr-curriculum-progression");
-    if (/^\/year8\/science\/ac9s8[a-z]\d{2}/i.test(window.location.pathname)) {
-      loadSharedEnhancement("/assets/year8-science-related-topics.js?v=1", "data-skillr-year8-related-topics", false);
-    }
   }
 
   function getPageMeta() {
