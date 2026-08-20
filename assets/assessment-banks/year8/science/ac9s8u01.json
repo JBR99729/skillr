@@ -1,1 +1,528 @@
-PLACEHOLDER
+[
+  {
+    "id": "AC9S8U01-P-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8U01",
+    "bank": "practice",
+    "skill": "cells-basic-units",
+    "question": "Why are cells described as the basic units of living things?",
+    "audio_prompt": "Why are cells described as the basic units of living things?",
+    "answers": [
+      {"text": "They are the smallest structures that can carry out life processes", "is_correct": true},
+      {"text": "They are the largest structures in every organism", "is_correct": false},
+      {"text": "They occur only in multicellular organisms", "is_correct": false},
+      {"text": "They can always be seen without magnification", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Cells are the smallest structural and functional units capable of carrying out the processes needed for life.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 1, "difficulty_tier": "foundation", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-P-002", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "unicellular",
+    "question": "Which statement best describes a unicellular organism?", "audio_prompt": "Which statement best describes a unicellular organism?",
+    "answers": [
+      {"text": "It is made of many specialised tissues", "is_correct": false},
+      {"text": "It cannot reproduce independently", "is_correct": false},
+      {"text": "One cell carries out all essential life functions", "is_correct": true},
+      {"text": "It must be visible without a microscope", "is_correct": false}
+    ],
+    "correct_index": 2,
+    "explanation": {"summary": "A unicellular organism consists of one cell that performs the functions needed for survival.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 1, "difficulty_tier": "foundation", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-P-003", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "organisation",
+    "question": "Which sequence shows increasing levels of biological organisation?", "audio_prompt": "Which sequence shows increasing levels of biological organisation?",
+    "answers": [
+      {"text": "Cell → organ → tissue → organ system", "is_correct": false},
+      {"text": "Cell → tissue → organ → organ system", "is_correct": true},
+      {"text": "Tissue → cell → organ system → organ", "is_correct": false},
+      {"text": "Organ → tissue → cell → organ system", "is_correct": false}
+    ],
+    "correct_index": 1,
+    "explanation": {"summary": "Similar cells can form tissues; tissues form organs; organs work together in organ systems.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 1, "difficulty_tier": "foundation", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-P-004", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "shared-structure",
+    "question": "Which structure is found in both typical plant and animal cells?", "audio_prompt": "Which structure is found in both typical plant and animal cells?",
+    "answers": [
+      {"text": "Cell wall", "is_correct": false},
+      {"text": "Chloroplast", "is_correct": false},
+      {"text": "Large central vacuole", "is_correct": false},
+      {"text": "Cytoplasm", "is_correct": true}
+    ],
+    "correct_index": 3,
+    "explanation": {"summary": "Cytoplasm is present in both plant and animal cells; cell walls and chloroplasts are plant-cell features.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 1, "difficulty_tier": "foundation", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-P-005", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "cell-wall",
+    "question": "Which structure provides rigid support around a typical plant cell?", "audio_prompt": "Which structure provides rigid support around a typical plant cell?",
+    "answers": [
+      {"text": "Cell wall", "is_correct": true},
+      {"text": "Cell membrane", "is_correct": false},
+      {"text": "Nucleus", "is_correct": false},
+      {"text": "Cytoplasm", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The cell wall provides structural support and helps the plant cell keep its shape.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 1, "difficulty_tier": "foundation", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-P-006", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "chloroplast",
+    "question": "Which cell structure is directly involved in photosynthesis?", "audio_prompt": "Which cell structure is directly involved in photosynthesis?",
+    "answers": [
+      {"text": "Nucleus", "is_correct": false},
+      {"text": "Vacuole", "is_correct": false},
+      {"text": "Chloroplast", "is_correct": true},
+      {"text": "Cell membrane", "is_correct": false}
+    ],
+    "correct_index": 2,
+    "explanation": {"summary": "Chloroplasts contain chlorophyll and are the site of photosynthesis in photosynthetic plant cells.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 1, "difficulty_tier": "foundation", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-P-007", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "plant-shape",
+    "question": "Many plant cells appear more regular in shape than animal cells mainly because plant cells have a:", "audio_prompt": "Many plant cells appear more regular in shape than animal cells mainly because plant cells have a:",
+    "answers": [
+      {"text": "Larger nucleus", "is_correct": false},
+      {"text": "Rigid cell wall", "is_correct": true},
+      {"text": "Thicker cytoplasm", "is_correct": false},
+      {"text": "More permeable membrane", "is_correct": false}
+    ],
+    "correct_index": 1,
+    "explanation": {"summary": "The rigid cell wall helps maintain a more regular cell shape.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 1, "difficulty_tier": "foundation", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-P-008", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "vacuole",
+    "question": "A large central vacuole helps many plant cells remain firm because it:", "audio_prompt": "A large central vacuole helps many plant cells remain firm because it:",
+    "answers": [
+      {"text": "Controls all cell activities", "is_correct": false},
+      {"text": "Carries out photosynthesis", "is_correct": false},
+      {"text": "Forms the cell wall", "is_correct": false},
+      {"text": "Stores water and contributes to internal pressure", "is_correct": true}
+    ],
+    "correct_index": 3,
+    "explanation": {"summary": "Water stored in the vacuole contributes to turgor pressure, helping support the cell.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 1, "difficulty_tier": "foundation", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-P-009", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "root-v-leaf",
+    "question": "Which feature would you expect in many photosynthetic leaf cells but not in typical root cells?", "audio_prompt": "Which feature would you expect in many photosynthetic leaf cells but not in typical root cells?",
+    "answers": [
+      {"text": "Chloroplasts", "is_correct": true},
+      {"text": "Cell membrane", "is_correct": false},
+      {"text": "Cytoplasm", "is_correct": false},
+      {"text": "Nucleus", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Photosynthetic leaf cells commonly contain chloroplasts, while underground root cells usually do not.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 2, "difficulty_tier": "core", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-P-010", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "membrane",
+    "question": "Which structure controls movement of substances into and out of both plant and animal cells?", "audio_prompt": "Which structure controls movement of substances into and out of both plant and animal cells?",
+    "answers": [
+      {"text": "Cell wall", "is_correct": false},
+      {"text": "Chloroplast", "is_correct": false},
+      {"text": "Cell membrane", "is_correct": true},
+      {"text": "Vacuole", "is_correct": false}
+    ],
+    "correct_index": 2,
+    "explanation": {"summary": "The cell membrane is selectively permeable and regulates exchange with the surroundings.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 2, "difficulty_tier": "core", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-P-011", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "nucleus",
+    "question": "What is the main role of the nucleus in a typical plant or animal cell?", "audio_prompt": "What is the main role of the nucleus in a typical plant or animal cell?",
+    "answers": [
+      {"text": "It makes the cell rigid", "is_correct": false},
+      {"text": "It contains genetic material and helps control cell activities", "is_correct": true},
+      {"text": "It captures light energy", "is_correct": false},
+      {"text": "It stores most of the cell's water", "is_correct": false}
+    ],
+    "correct_index": 1,
+    "explanation": {"summary": "The nucleus contains genetic material and regulates many cell activities.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 2, "difficulty_tier": "core", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-P-012", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "cytoplasm",
+    "question": "Most of the cell's chemical reactions occur in the:", "audio_prompt": "Most of the cell's chemical reactions occur in the:",
+    "answers": [
+      {"text": "Cell wall", "is_correct": false},
+      {"text": "Vacuole", "is_correct": false},
+      {"text": "Chloroplast membrane", "is_correct": false},
+      {"text": "Cytoplasm", "is_correct": true}
+    ],
+    "correct_index": 3,
+    "explanation": {"summary": "The cytoplasm is the site of many chemical reactions needed for cell function.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 2, "difficulty_tier": "core", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-P-013", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "compare",
+    "question": "A cell has a nucleus, cytoplasm and cell membrane but no visible cell wall or chloroplasts. Which conclusion is best supported?", "audio_prompt": "A cell has a nucleus, cytoplasm and cell membrane but no visible cell wall or chloroplasts. Which conclusion is best supported?",
+    "answers": [
+      {"text": "It is consistent with an animal cell", "is_correct": true},
+      {"text": "It must be a root hair cell", "is_correct": false},
+      {"text": "It cannot be living", "is_correct": false},
+      {"text": "It must be a bacterial cell", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The observed structures are consistent with a typical animal cell, which lacks a cell wall and chloroplasts.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 2, "difficulty_tier": "core", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-P-014", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "model-limit",
+    "question": "A textbook cell diagram shows organelles in bright colours and not to scale. What is the best interpretation?", "audio_prompt": "A textbook cell diagram shows organelles in bright colours and not to scale. What is the best interpretation?",
+    "answers": [
+      {"text": "The colours are exactly what would be seen in a living cell", "is_correct": false},
+      {"text": "The largest drawn organelle must be the largest in reality", "is_correct": false},
+      {"text": "The colours and relative sizes are model conventions used to make structures clear", "is_correct": true},
+      {"text": "The diagram is more accurate than a microscope image", "is_correct": false}
+    ],
+    "correct_index": 2,
+    "explanation": {"summary": "Diagrams simplify and emphasise features; colours and relative sizes may not match living cells.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 2, "difficulty_tier": "core", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-P-015", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "microscope-evidence",
+    "question": "A student cannot see chloroplasts in a microscope image of a plant cell. What is the safest conclusion?", "audio_prompt": "A student cannot see chloroplasts in a microscope image of a plant cell. What is the safest conclusion?",
+    "answers": [
+      {"text": "The cell must be an animal cell", "is_correct": false},
+      {"text": "The cell may be from non-photosynthetic tissue or the chloroplasts may not be visible", "is_correct": true},
+      {"text": "The cell has no cell membrane", "is_correct": false},
+      {"text": "All plant cells always show chloroplasts clearly", "is_correct": false}
+    ],
+    "correct_index": 1,
+    "explanation": {"summary": "Not all plant cells contain visible chloroplasts, and microscope preparation can limit what can be observed.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 2, "difficulty_tier": "core", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-P-016", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "stain",
+    "question": "Why is a stain often added to a cell specimen before viewing it with a light microscope?", "audio_prompt": "Why is a stain often added to a cell specimen before viewing it with a light microscope?",
+    "answers": [
+      {"text": "To increase the actual size of the cell", "is_correct": false},
+      {"text": "To increase the microscope's magnification", "is_correct": false},
+      {"text": "To create new organelles", "is_correct": false},
+      {"text": "To increase contrast between structures", "is_correct": true}
+    ],
+    "correct_index": 3,
+    "explanation": {"summary": "Stains improve contrast, making otherwise faint cell structures easier to distinguish.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 2, "difficulty_tier": "core", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-P-017", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "magnification",
+    "question": "What does microscope magnification describe?", "audio_prompt": "What does microscope magnification describe?",
+    "answers": [
+      {"text": "How many times larger the image appears than the actual object", "is_correct": true},
+      {"text": "How clearly two close points can be distinguished", "is_correct": false},
+      {"text": "How much light passes through the specimen", "is_correct": false},
+      {"text": "How many cells are present in the specimen", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Magnification is the ratio of image size to actual size.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 3, "difficulty_tier": "applied", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-P-018", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "field-view",
+    "question": "When a microscope is changed from lower to higher magnification, what usually happens to the field of view?", "audio_prompt": "When a microscope is changed from lower to higher magnification, what usually happens to the field of view?",
+    "answers": [
+      {"text": "It becomes larger", "is_correct": false},
+      {"text": "It stays exactly the same", "is_correct": false},
+      {"text": "It becomes smaller", "is_correct": true},
+      {"text": "It shows more of the specimen", "is_correct": false}
+    ],
+    "correct_index": 2,
+    "explanation": {"summary": "Higher magnification usually shows a smaller area of the specimen.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 3, "difficulty_tier": "applied", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-P-019", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "total-mag",
+    "question": "A microscope uses a 10× eyepiece and a 40× objective. What is the total magnification?", "audio_prompt": "A microscope uses a 10× eyepiece and a 40× objective. What is the total magnification?",
+    "answers": [
+      {"text": "50×", "is_correct": false},
+      {"text": "400×", "is_correct": true},
+      {"text": "40×", "is_correct": false},
+      {"text": "4×", "is_correct": false}
+    ],
+    "correct_index": 1,
+    "explanation": {"summary": "Total magnification equals eyepiece magnification multiplied by objective magnification: 10 × 40 = 400.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 3, "difficulty_tier": "applied", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-P-020", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "scale",
+    "question": "A microscope field is 2 mm wide and about 10 similar cells fit across it. What is the best estimate of one cell's width?", "audio_prompt": "A microscope field is 2 mm wide and about 10 similar cells fit across it. What is the best estimate of one cell's width?",
+    "answers": [
+      {"text": "2 mm", "is_correct": false},
+      {"text": "5 mm", "is_correct": false},
+      {"text": "20 mm", "is_correct": false},
+      {"text": "0.2 mm", "is_correct": true}
+    ],
+    "correct_index": 3,
+    "explanation": {"summary": "Estimated cell width = field width ÷ number of cells = 2 mm ÷ 10 = 0.2 mm.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 3, "difficulty_tier": "applied", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-P-021", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "specialised-root",
+    "question": "A root hair cell has a long projection. How does this feature help the cell perform its function?", "audio_prompt": "A root hair cell has a long projection. How does this feature help the cell perform its function?",
+    "answers": [
+      {"text": "It increases surface area for absorbing water and mineral ions", "is_correct": true},
+      {"text": "It increases light capture for photosynthesis", "is_correct": false},
+      {"text": "It makes the cell divide more rapidly", "is_correct": false},
+      {"text": "It protects the nucleus from damage", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "The long projection increases contact with soil, increasing surface area for absorption.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 3, "difficulty_tier": "applied", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-P-022", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "specialised-muscle",
+    "question": "Muscle cells contain many mitochondria. What is the best explanation?", "audio_prompt": "Muscle cells contain many mitochondria. What is the best explanation?",
+    "answers": [
+      {"text": "They need extra structures for photosynthesis", "is_correct": false},
+      {"text": "They store water for the whole organism", "is_correct": false},
+      {"text": "They require a large supply of usable energy for contraction", "is_correct": true},
+      {"text": "They need rigid walls to keep their shape", "is_correct": false}
+    ],
+    "correct_index": 2,
+    "explanation": {"summary": "Muscle contraction has a high energy demand, so muscle cells contain many mitochondria.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 3, "difficulty_tier": "applied", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-P-023", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "model-purpose",
+    "question": "Why do scientists use physical and digital cell models?", "audio_prompt": "Why do scientists use physical and digital cell models?",
+    "answers": [
+      {"text": "To replace all microscope observations", "is_correct": false},
+      {"text": "To represent structures and relationships that may be difficult to observe directly", "is_correct": true},
+      {"text": "To show every structure at exact scale and colour", "is_correct": false},
+      {"text": "To prove all cells have identical shapes", "is_correct": false}
+    ],
+    "correct_index": 1,
+    "explanation": {"summary": "Models make selected features easier to study, but they simplify reality and have limitations.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 3, "difficulty_tier": "applied", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-P-024", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "practice", "skill": "microscope-history",
+    "question": "Why was the development of microscopes important to cell biology?", "audio_prompt": "Why was the development of microscopes important to cell biology?",
+    "answers": [
+      {"text": "It proved that models are always accurate", "is_correct": false},
+      {"text": "It allowed scientists to observe only plant cells", "is_correct": false},
+      {"text": "It removed the need for scientific investigation", "is_correct": false},
+      {"text": "It provided evidence of structures too small to see unaided", "is_correct": true}
+    ],
+    "correct_index": 3,
+    "explanation": {"summary": "Microscopes extended human observation and provided evidence that led to improved understanding of cells.", "hint": "Recall the relevant cell structure, microscope idea or model limitation, then compare all four options."},
+    "difficulty": 3, "difficulty_tier": "applied", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-T-001", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "evidence-plant",
+    "question": "A microscope image shows a cell with a cell wall, nucleus and large vacuole, but no chloroplasts are visible. Which conclusion is best?", "audio_prompt": "A microscope image shows a cell with a cell wall, nucleus and large vacuole, but no chloroplasts are visible. Which conclusion is best?",
+    "answers": [
+      {"text": "It is likely a plant cell, and chloroplasts may be absent from that tissue or not visible", "is_correct": true},
+      {"text": "It must be an animal cell because chloroplasts are absent", "is_correct": false},
+      {"text": "It cannot be living because chloroplasts are required in every cell", "is_correct": false},
+      {"text": "It must be a bacterial cell because it has a wall", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "A cell wall and large vacuole support a plant-cell interpretation; not every plant cell contains visible chloroplasts.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 3, "difficulty_tier": "exam", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-T-002", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "damage-membrane",
+    "question": "A dye that normally remains outside a cell is found throughout the cytoplasm after the cell is damaged. Which structure most likely lost its normal function?", "audio_prompt": "A dye that normally remains outside a cell is found throughout the cytoplasm after the cell is damaged. Which structure most likely lost its normal function?",
+    "answers": [
+      {"text": "Cell wall", "is_correct": false},
+      {"text": "Nucleus", "is_correct": false},
+      {"text": "Cell membrane", "is_correct": true},
+      {"text": "Vacuole", "is_correct": false}
+    ],
+    "correct_index": 2,
+    "explanation": {"summary": "The cell membrane regulates movement into and out of the cell, so membrane damage can allow normally excluded substances to enter.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 3, "difficulty_tier": "exam", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-T-003", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "chloroplast-function",
+    "question": "A leaf cell receives enough water and carbon dioxide but produces much less glucose when exposed to light. Damage to which structure best explains the result?", "audio_prompt": "A leaf cell receives enough water and carbon dioxide but produces much less glucose when exposed to light. Damage to which structure best explains the result?",
+    "answers": [
+      {"text": "Nucleus", "is_correct": false},
+      {"text": "Chloroplasts", "is_correct": true},
+      {"text": "Cell wall", "is_correct": false},
+      {"text": "Vacuole", "is_correct": false}
+    ],
+    "correct_index": 1,
+    "explanation": {"summary": "Photosynthesis occurs in chloroplasts, so chloroplast damage would directly reduce glucose production in light.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 3, "difficulty_tier": "exam", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-T-004", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "turgor",
+    "question": "Two identical plant cells are placed in different conditions. Cell A has a full vacuole and is firm; Cell B has lost water from its vacuole and is less firm. Which explanation best accounts for the difference?", "audio_prompt": "Two identical plant cells are placed in different conditions. Cell A has a full vacuole and is firm; Cell B has lost water from its vacuole and is less firm. Which explanation best accounts for the difference?",
+    "answers": [
+      {"text": "The nucleus in Cell A has become larger", "is_correct": false},
+      {"text": "The cell wall in Cell B has disappeared", "is_correct": false},
+      {"text": "Cell A has stopped using its membrane", "is_correct": false},
+      {"text": "Water in the vacuole contributes to internal pressure against the cell wall", "is_correct": true}
+    ],
+    "correct_index": 3,
+    "explanation": {"summary": "A water-filled vacuole helps create turgor pressure against the cell wall, supporting the cell.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 3, "difficulty_tier": "exam", "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8U01-T-005", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "model-scale",
+    "question": "A cell model shows the nucleus occupying half of the cell. What should a student check before using the model to compare organelle sizes?", "audio_prompt": "A cell model shows the nucleus occupying half of the cell. What should a student check before using the model to compare organelle sizes?",
+    "answers": [
+      {"text": "Whether the model is drawn to scale", "is_correct": true},
+      {"text": "Whether the model uses bright colours", "is_correct": false},
+      {"text": "Whether the model contains a label for cytoplasm", "is_correct": false},
+      {"text": "Whether the model was made digitally", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Models often change relative sizes for clarity, so scale must be checked before making size comparisons.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 3, "difficulty_tier": "exam", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-T-006", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "image-size",
+    "question": "Two images show the same type of cell. Image A is 60 mm wide and Image B is 30 mm wide on the page. What can be concluded from this information alone?", "audio_prompt": "Two images show the same type of cell. Image A is 60 mm wide and Image B is 30 mm wide on the page. What can be concluded from this information alone?",
+    "answers": [
+      {"text": "Cell A is definitely twice the actual size of Cell B", "is_correct": false},
+      {"text": "Cell B contains half as much cytoplasm", "is_correct": false},
+      {"text": "Nothing about actual cell size unless magnification or scale information is known", "is_correct": true},
+      {"text": "Image A must have been taken with an electron microscope", "is_correct": false}
+    ],
+    "correct_index": 2,
+    "explanation": {"summary": "Displayed image size alone does not determine actual size; magnification or a scale bar is needed.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 3, "difficulty_tier": "exam", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-T-007", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "scale-bar",
+    "question": "A scale bar representing 20 µm is 10 mm long on an image. A cell on the same image is 30 mm long. What is the cell's actual length?", "audio_prompt": "A scale bar representing 20 µm is 10 mm long on an image. A cell on the same image is 30 mm long. What is the cell's actual length?",
+    "answers": [
+      {"text": "30 µm", "is_correct": false},
+      {"text": "60 µm", "is_correct": true},
+      {"text": "20 µm", "is_correct": false},
+      {"text": "600 µm", "is_correct": false}
+    ],
+    "correct_index": 1,
+    "explanation": {"summary": "The cell is three times the scale-bar length, so its actual length is 3 × 20 µm = 60 µm.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 3, "difficulty_tier": "exam", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-T-008", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "magnification-calc",
+    "question": "A cell is 0.05 mm wide and its image is 25 mm wide. What magnification was used?", "audio_prompt": "A cell is 0.05 mm wide and its image is 25 mm wide. What magnification was used?",
+    "answers": [
+      {"text": "50×", "is_correct": false},
+      {"text": "125×", "is_correct": false},
+      {"text": "1,250×", "is_correct": false},
+      {"text": "500×", "is_correct": true}
+    ],
+    "correct_index": 3,
+    "explanation": {"summary": "Magnification = image size ÷ actual size = 25 ÷ 0.05 = 500.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 3, "difficulty_tier": "exam", "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8U01-T-009", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "resolution",
+    "question": "A student increases magnification, but two nearby structures still appear as one blurred shape. Which microscope property is limiting the observation?", "audio_prompt": "A student increases magnification, but two nearby structures still appear as one blurred shape. Which microscope property is limiting the observation?",
+    "answers": [
+      {"text": "Resolution", "is_correct": true},
+      {"text": "Field of view", "is_correct": false},
+      {"text": "Staining colour", "is_correct": false},
+      {"text": "Total magnification", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Resolution is the ability to distinguish two close points as separate.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 4, "difficulty_tier": "exam", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-T-010", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "stain-evidence",
+    "question": "A nucleus becomes much easier to identify after a stain is added. Which statement best explains the change?", "audio_prompt": "A nucleus becomes much easier to identify after a stain is added. Which statement best explains the change?",
+    "answers": [
+      {"text": "The stain increased the actual size of the nucleus", "is_correct": false},
+      {"text": "The stain increased the objective lens magnification", "is_correct": false},
+      {"text": "The stain increased contrast between the nucleus and surrounding structures", "is_correct": true},
+      {"text": "The stain caused the nucleus to form", "is_correct": false}
+    ],
+    "correct_index": 2,
+    "explanation": {"summary": "Staining improves contrast; it does not enlarge structures or change microscope magnification.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 4, "difficulty_tier": "exam", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-T-011", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "compare-evidence",
+    "question": "A student compares a typical plant-cell model and animal-cell model. Both show a nucleus, cytoplasm and membrane. Only the plant model shows a wall and chloroplasts. Which claim is best supported?", "audio_prompt": "A student compares a typical plant-cell model and animal-cell model. Both show a nucleus, cytoplasm and membrane. Only the plant model shows a wall and chloroplasts. Which claim is best supported?",
+    "answers": [
+      {"text": "Plant and animal cells perform completely different life processes", "is_correct": false},
+      {"text": "Some structures are shared, while others are associated with specialised plant-cell functions", "is_correct": true},
+      {"text": "Animal cells have no boundary around the cytoplasm", "is_correct": false},
+      {"text": "Every plant cell in every tissue must contain chloroplasts", "is_correct": false}
+    ],
+    "correct_index": 1,
+    "explanation": {"summary": "Plant and animal cells share several core structures, while plant-cell models also include structures such as a wall and chloroplasts.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 4, "difficulty_tier": "exam", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-T-012", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "model-cross-section",
+    "question": "A three-dimensional cell model hides several internal structures behind others. Which modification would best improve the model for studying internal arrangement?", "audio_prompt": "A three-dimensional cell model hides several internal structures behind others. Which modification would best improve the model for studying internal arrangement?",
+    "answers": [
+      {"text": "Make every organelle the same size", "is_correct": false},
+      {"text": "Remove the cell membrane", "is_correct": false},
+      {"text": "Use brighter colours without changing the view", "is_correct": false},
+      {"text": "Add a cut-away or cross-sectional view", "is_correct": true}
+    ],
+    "correct_index": 3,
+    "explanation": {"summary": "A cut-away or cross-section can reveal internal structures that are hidden in an external 3D view.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 4, "difficulty_tier": "exam", "sequence_priority": 3
+  },
+  {
+    "id": "AC9S8U01-T-013", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "microscope-method",
+    "question": "A student cannot locate a specimen after starting with the highest-power objective. Which method is most appropriate?", "audio_prompt": "A student cannot locate a specimen after starting with the highest-power objective. Which method is most appropriate?",
+    "answers": [
+      {"text": "Locate and centre the specimen at low power, then increase magnification", "is_correct": true},
+      {"text": "Increase magnification further before focusing", "is_correct": false},
+      {"text": "Add more stain until the specimen becomes larger", "is_correct": false},
+      {"text": "Move the slide randomly while looking through the eyepiece", "is_correct": false}
+    ],
+    "correct_index": 0,
+    "explanation": {"summary": "Low power gives a wider field of view, making the specimen easier to locate and centre before increasing magnification.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 4, "difficulty_tier": "exam", "sequence_priority": 4
+  },
+  {
+    "id": "AC9S8U01-T-014", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "selective-membrane",
+    "question": "Which observation provides the strongest evidence that a cell membrane is selectively permeable?", "audio_prompt": "Which observation provides the strongest evidence that a cell membrane is selectively permeable?",
+    "answers": [
+      {"text": "Every substance crosses at the same rate", "is_correct": false},
+      {"text": "No substances can cross the membrane", "is_correct": false},
+      {"text": "Some substances cross the membrane readily while others are restricted", "is_correct": true},
+      {"text": "Only water can ever cross the membrane", "is_correct": false}
+    ],
+    "correct_index": 2,
+    "explanation": {"summary": "Selective permeability means the membrane allows some substances to pass more readily than others.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 4, "difficulty_tier": "exam", "sequence_priority": 4
+  },
+  {
+    "id": "AC9S8U01-T-015", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "model-v-observation",
+    "question": "A coloured diagram shows a large green chloroplast, while a photomicrograph of the same tissue shows faint structures with less obvious colour. What is the best explanation?", "audio_prompt": "A coloured diagram shows a large green chloroplast, while a photomicrograph of the same tissue shows faint structures with less obvious colour. What is the best explanation?",
+    "answers": [
+      {"text": "The photomicrograph must be incorrect", "is_correct": false},
+      {"text": "The diagram uses conventions to make structures easier to identify", "is_correct": true},
+      {"text": "Living chloroplasts are always bright green under every microscope", "is_correct": false},
+      {"text": "The diagram proves the chloroplast is larger than the nucleus", "is_correct": false}
+    ],
+    "correct_index": 1,
+    "explanation": {"summary": "Scientific diagrams often simplify colour, shape and relative size to communicate structure clearly.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 4, "difficulty_tier": "exam", "sequence_priority": 4
+  },
+  {
+    "id": "AC9S8U01-T-016", "subject": "science", "year_level": "Year 8", "curriculum_code": "AC9S8U01", "bank": "test", "skill": "history-evidence",
+    "question": "Which statement best explains how microscopes changed scientific understanding of cells?", "audio_prompt": "Which statement best explains how microscopes changed scientific understanding of cells?",
+    "answers": [
+      {"text": "They allowed scientists to replace evidence with diagrams", "is_correct": false},
+      {"text": "They proved every living cell has exactly the same structures", "is_correct": false},
+      {"text": "They made experiments unnecessary because images provide complete explanations", "is_correct": false},
+      {"text": "They made previously invisible structures observable, allowing explanations to be revised using new evidence", "is_correct": true}
+    ],
+    "correct_index": 3,
+    "explanation": {"summary": "Microscopes extended observation, providing new evidence that scientists could use to develop and revise explanations about cells.", "hint": "Use the evidence in the stem and eliminate options that overstate or contradict the cell model."},
+    "difficulty": 4, "difficulty_tier": "exam", "sequence_priority": 4
+  }
+]
