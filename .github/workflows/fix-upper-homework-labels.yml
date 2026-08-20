@@ -1,0 +1,76 @@
+name: Fix upper homework labels
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/fix-upper-homework-labels.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  labels:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Replace remaining Practice Sheet labels
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+
+          const roots = [
+            'year7', 'year8', 'year9', 'year10',
+            'quiz/year-7', 'quiz/year-8', 'quiz/year-9', 'quiz/year-10'
+          ];
+          const fileTypes = new Set(['.html', '.js', '.json']);
+
+          function walk(dir) {
+            if (!fs.existsSync(dir)) return [];
+            return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
+              const full = path.join(dir, entry.name);
+              return entry.isDirectory() ? walk(full) : [full];
+            });
+          }
+
+          function updateContent(input) {
+            let html = input;
+            // Route upper-year worksheet links to the new homework pages.
+            html = html.replace(/(\/quiz\/year-(?:7|8|9|10)\/(?:math|science)\/[a-z0-9]+\/)worksheet\//gi, '$1homework/');
+            html = html.replace(/(href=["'][^"']*\/quiz\/year-(?:7|8|9|10)\/(?:math|science)\/[a-z0-9]+\/)worksheet\//gi, '$1homework/');
+
+            // User-facing labels.
+            html = html.replace(/Practice\s+Sheet/g, 'Homework');
+            html = html.replace(/practice\s+sheet/g, 'homework');
+            html = html.replace(/Printable\s+Worksheet/g, 'Printable Homework');
+            html = html.replace(/Printable\s+worksheet/g, 'Printable homework');
+            html = html.replace(/Open\s+PDF\s+worksheet/g, 'Open homework');
+            html = html.replace(/Worksheet/g, 'Homework');
+            html = html.replace(/worksheet/g, 'homework');
+            return html;
+          }
+
+          let changed = 0;
+          for (const root of roots) {
+            for (const file of walk(root)) {
+              if (!fileTypes.has(path.extname(file))) continue;
+              const original = fs.readFileSync(file, 'utf8');
+              const updated = updateContent(original);
+              if (updated !== original) {
+                fs.writeFileSync(file, updated);
+                changed += 1;
+              }
+            }
+          }
+          console.log(`Updated homework wording in ${changed} files.`);
+          NODE
+      - name: Commit label cleanup
+        run: |
+          if git diff --quiet; then echo "No changes needed"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add year7 year8 year9 year10 quiz/year-7 quiz/year-8 quiz/year-9 quiz/year-10
+          git commit -m "Replace upper-year practice sheet labels with homework"
+          git push
