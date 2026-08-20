@@ -1,5 +1,12 @@
 "use strict";
 (() => {
+  if(!document.querySelector('script[data-skillr-daily-analytics]')){
+    const analyticsScript=document.createElement("script");
+    analyticsScript.src="/quiz/assets/daily-drills/daily-drill-analytics.js?v=20260820-1";
+    analyticsScript.dataset.skillrDailyAnalytics="true";
+    analyticsScript.async=false;
+    document.head.appendChild(analyticsScript);
+  }
   if(!document.querySelector('script[data-skillr-progress]')){
     const progressScript=document.createElement("script");
     progressScript.src="/assets/progress-store.js?v=2";
