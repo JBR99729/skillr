@@ -40,11 +40,8 @@ jobs:
           node --check scripts/migrate_upper_english_static_final.mjs
           python -m py_compile scripts/upgrade_english_topic_pages.py scripts/clean_english_topic_cross_subject_refs.py scripts/normalize_f10_topic_page_architecture.py scripts/build_upper_english_fixed_slides.py scripts/run_upper_english_fixed_slides.py scripts/finalize_year10_science_inquiry_pages.py scripts/validate_english_topic_pages.py scripts/validate_year10_science_inquiry_pages.py
 
-      - name: Convert upper English to static authored shells
+      - name: Convert upper English to static authored pages
         run: node scripts/migrate_upper_english_static_final.mjs
-
-      - name: Apply locked F-10 English authoring standard
-        run: python scripts/upgrade_english_topic_pages.py
 
       - name: Remove legacy cross-subject English mapping residue
         run: python scripts/clean_english_topic_cross_subject_refs.py
