@@ -1,0 +1,78 @@
+name: Finalize F-10 topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/migrate_upper_english_static_final.mjs'
+      - 'scripts/upgrade_english_topic_pages.py'
+      - 'scripts/validate_english_topic_pages.py'
+      - 'scripts/finalize_year10_science_inquiry_pages.py'
+      - 'scripts/validate_year10_science_inquiry_pages.py'
+      - '.github/workflows/finalize-topic-pages-f10.yml'
+      - 'foundation/english/**'
+      - 'year*/english/**'
+      - 'year10/science/ac9s10i*/index.html'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  finalize-and-qa:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Syntax-check completion scripts
+        run: |
+          node --check scripts/migrate_upper_english_static_final.mjs
+          python -m py_compile scripts/upgrade_english_topic_pages.py scripts/finalize_year10_science_inquiry_pages.py scripts/validate_english_topic_pages.py scripts/validate_year10_science_inquiry_pages.py
+
+      - name: Convert upper English to static authored shells
+        run: node scripts/migrate_upper_english_static_final.mjs
+
+      - name: Apply locked F-10 English authoring standard
+        run: python scripts/upgrade_english_topic_pages.py
+
+      - name: Finalize Year 10 Science Inquiry pages
+        run: python scripts/finalize_year10_science_inquiry_pages.py
+
+      - name: Validate English F-10 topic pages
+        run: python scripts/validate_english_topic_pages.py
+
+      - name: Validate Year 10 Science Inquiry pages
+        run: python scripts/validate_year10_science_inquiry_pages.py
+
+      - name: Guard static, lightweight topic pages
+        shell: bash
+        run: |
+          if grep -R -E 'upper-english-render|MathJax|KaTeX|mathjax|katex' foundation/english/year-not-present 2>/dev/null; then exit 1; fi
+          if grep -R -E 'upper-english-render|MathJax|KaTeX|mathjax|katex' year8/english year9/english year10/english year10/science/ac9s10i*/index.html; then
+            echo 'Runtime topic renderer or external math renderer found in finalized pages.'
+            exit 1
+          fi
+          git diff --check
+
+      - name: Commit generated topic pages
+        shell: bash
+        run: |
+          if git diff --quiet -- foundation/english year1/english year2/english year3/english year4/english year5/english year6/english year7/english year8/english year9/english year10/english year10/science; then
+            echo 'Topic pages are already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add foundation/english year1/english year2/english year3/english year4/english year5/english year6/english year7/english year8/english year9/english year10/english
+          git add year10/science/ac9s10i*/index.html
+          git commit -m 'Complete F-10 English and Year 10 Science Inquiry topic pages'
+          git push origin HEAD:${{ github.head_ref || github.ref_name }}
