@@ -1,0 +1,139 @@
+name: Author Year 8 Science H01-H03 homework
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/author-year8-science-h1-h3-homework.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  author:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write authored homework pages
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const esc = (s) => String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+          const lineBlock = (n) => `<div class="answer-lines">${'<span></span>'.repeat(n)}</div>`;
+          const style = `<style>:root{--blue:#2457d6;--ink:#18324f;--muted:#62748a;--line:#dce5f1;--soft:#f5f8ff}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif}.hw-shell{max-width:980px;margin:auto;padding:24px}.hw-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}.hw-nav a,.hw-print{border:1px solid #cbd8ea;border-radius:999px;background:#fff;color:var(--blue);font-weight:800;text-decoration:none;padding:8px 12px}.hw-print{cursor:pointer}.hw-hero,.hw-section,.hw-task{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:22px;margin:14px 0}.hw-kicker{color:var(--blue);font-size:.78rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3rem);line-height:1.08;margin:0 0 10px}h2{margin:0 0 12px}.hw-meta{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}.hw-meta div{background:var(--soft);border-radius:12px;padding:12px}.hw-questions{padding-left:1.2rem}.hw-questions li{break-inside:avoid;margin:0 0 18px}.hw-questions p{font-weight:700}.answer-lines{display:grid;gap:10px;margin-top:10px}.answer-lines span{display:block;border-bottom:1px solid #9fb0c5;min-height:24px}.hw-task{border-left:6px solid var(--blue)}.hw-footer{color:var(--muted);font-size:.9rem;text-align:center;margin:24px 0}@media print{body{background:#fff}.hw-shell{max-width:none;padding:0}.hw-nav,.hw-print{display:none}.hw-hero,.hw-section,.hw-task{box-shadow:none;border-radius:0;border-left:0}.answer-lines span{min-height:22px}}</style>`;
+          const data = {
+            ac9s8h01: {
+              code: 'AC9S8H01',
+              title: 'Evidence Changes Scientific Ideas',
+              guide: '/year8/science/ac9s8h01-explain-how-new-evidence-or-different-perspectives-can-lead-to/',
+              intro: 'Explain how scientific ideas can change when new evidence is found, existing evidence is reinterpreted, or different perspectives reveal a limitation in an earlier explanation.',
+              short: [
+                'What is scientific evidence?',
+                'Why can a scientific explanation change over time?',
+                'Give one example of a type of evidence that could make scientists revise an idea.',
+                'Explain the difference between an opinion and evidence-based reasoning.',
+                'Why is repeatable evidence stronger than a single observation?',
+                'What does it mean to reinterpret existing evidence?',
+                'Why should scientists be willing to update a model?',
+                'Name one limitation that an old scientific model might have.',
+                'How can improved technology lead to new scientific evidence?',
+                'Write one sentence explaining why changing a scientific idea is a strength, not a weakness, of science.'
+              ],
+              long: [
+                'Describe a situation where new evidence causes scientists to change an earlier explanation. Explain the old idea, the new evidence and the improved explanation.',
+                'Compare a scientific claim supported by strong evidence with a claim supported only by personal belief. Explain how you would tell the difference.',
+                'A student says, “Science keeps changing, so it cannot be trusted.” Write a response that explains why change can make scientific knowledge stronger.',
+                'Explain how a new instrument, such as a microscope, telescope, satellite or sensor, can change what scientists understand.',
+                'Choose one scientific model and explain how it could be useful even if it is not a perfect copy of reality.',
+                'Describe how peer review, repeated testing and open discussion help scientists decide whether a new idea should replace an old one.',
+                'Explain why scientists may disagree about the meaning of evidence before reaching a stronger conclusion.',
+                'Use an example from cells, geology, energy or matter to show how evidence can support or challenge a scientific idea.',
+                'Create a short timeline showing how one scientific idea changed over time. Include at least three stages and the evidence behind the change.',
+                'Evaluate this claim: “Once a scientific theory is accepted, it should never be questioned.” State your position and justify it with evidence-based reasoning.'
+              ],
+              task: 'Research one historical example where scientific understanding changed because of new evidence or a new perspective, such as cell theory, plate tectonics, germ theory or models of the atom. Summarise the earlier idea, the evidence that challenged it and the current explanation.'
+            },
+            ac9s8h02: {
+              code: 'AC9S8H02',
+              title: 'World Views Shape Scientific Knowledge',
+              guide: '/year8/science/ac9s8h02-investigate-how-cultural-perspectives-and-world-views-influence/',
+              intro: 'Investigate how cultural perspectives, world views and different knowledge systems can influence the questions people ask, the evidence they value and the way scientific knowledge is applied.',
+              short: [
+                'What is meant by a world view?',
+                'What is a cultural perspective?',
+                'How can a person’s background influence the science questions they ask?',
+                'Why is it useful for science to include more than one perspective?',
+                'Give one example of knowledge about Country or place that could support scientific investigation.',
+                'What is the difference between respecting cultural knowledge and copying it without permission?',
+                'Why should scientists consider who is affected by their work?',
+                'How can local knowledge improve an environmental investigation?',
+                'What does collaboration mean in a scientific context?',
+                'Write one sentence explaining why science should listen to communities as well as collect data.'
+              ],
+              long: [
+                'Explain how cultural knowledge and scientific investigation could work together to understand a local ecosystem.',
+                'Describe a situation where ignoring community perspectives could lead to a poor scientific or environmental decision.',
+                'Compare two different perspectives on the same science issue, such as water use, fire management, land care or health advice.',
+                'Explain why ethical collaboration is important when scientists work with Aboriginal and Torres Strait Islander knowledge holders or local communities.',
+                'A student says, “Only laboratory data matters in science.” Write a response that explains why observations, place-based knowledge and community experience can also matter.',
+                'Describe how a research question might change when scientists consult the people affected by the issue.',
+                'Explain how world views can influence what counts as a problem worth investigating.',
+                'Use an example to show how science can be strengthened when different groups share knowledge respectfully.',
+                'Evaluate a science project that affects a local community. What evidence should be collected, and whose perspectives should be considered?',
+                'Design a respectful investigation into a local environmental issue. Include the question, scientific data needed, community input needed and how findings should be shared.'
+              ],
+              task: 'Research one example where Indigenous knowledge, local community knowledge or cultural perspectives have contributed to environmental management, health, astronomy, agriculture or climate understanding. Explain the science involved and how respectful collaboration was important.'
+            },
+            ac9s8h03: {
+              code: 'AC9S8H03',
+              title: 'Evaluate Scientific Responses',
+              guide: '/year8/science/ac9s8h03-examine-how-proposed-scientific-responses-to-contemporary/',
+              intro: 'Evaluate proposed scientific responses to contemporary issues by considering evidence, benefits, limitations, risks, ethics and social or environmental impacts.',
+              short: [
+                'What is a contemporary science issue?',
+                'What does it mean to evaluate a scientific response?',
+                'Name two types of evidence that could help judge whether a response is effective.',
+                'Why should benefits and risks both be considered?',
+                'What is a limitation of a proposed solution?',
+                'How can cost influence whether a scientific response is used?',
+                'Why might two groups disagree about the same scientific response?',
+                'What is one ethical question that might be asked about a new technology?',
+                'Why is long-term impact important when evaluating a response?',
+                'Write one sentence explaining why a solution can be useful even if it is not perfect.'
+              ],
+              long: [
+                'Choose a science-based response to a current issue, such as renewable energy, vaccination, plastic waste, water treatment or food production. Explain the problem and how the response is meant to help.',
+                'Evaluate the strengths and limitations of one scientific response. Include evidence, possible benefits and possible unintended consequences.',
+                'Compare two possible responses to the same issue. Explain which one you think is more suitable and why.',
+                'Explain why scientific evidence alone may not decide what action society takes. Include social, economic or ethical factors.',
+                'A student says, “If scientists invented it, everyone should use it.” Write a balanced response that considers evidence, risk, access and choice.',
+                'Describe how data could be collected to test whether a proposed response is working.',
+                'Explain how misinformation could affect public acceptance of a scientific response.',
+                'Evaluate a response that helps one group but may create a problem for another group. How should decision-makers respond?',
+                'Create a decision table for a science response, with columns for evidence, benefits, risks, cost and fairness.',
+                'Write a recommendation to a school, council or community group about a science-based response. Justify your recommendation using evidence and balanced reasoning.'
+              ],
+              task: 'Research one proposed scientific response to a current issue, such as solar panels, electric vehicles, vaccines, recycling technologies, desalination, carbon capture or disease control. Explain the evidence for it, the benefits, the limitations and your overall judgement.'
+            }
+          };
+          function page(d) {
+            const short = d.short.map((q,i)=>`<li><p>${i+1}. ${esc(q)}</p>${lineBlock(4)}</li>`).join('');
+            const long = d.long.map((q,i)=>`<li><p>${i+1}. ${esc(q)}</p>${lineBlock(8)}</li>`).join('');
+            return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>${d.code} Authored Homework | ${esc(d.title)}</title><meta name="description" content="Authored SkillrHub homework for Year 8 Science ${d.code} with short-answer, long-answer and research/application tasks."><link rel="canonical" href="https://skillrhub.com/quiz/year-8/science/${d.code.toLowerCase()}/homework/"><link rel="stylesheet" href="/style.css">${style}</head><body><main class="hw-shell"><nav class="hw-nav" aria-label="Homework navigation"><a href="/">Home</a><a href="${d.guide}">Topic guide</a><a href="../practice/">Practice</a><a href="../test/">Test</a><button class="hw-print" type="button" onclick="window.print()">Print or save as PDF</button></nav><header class="hw-hero"><p class="hw-kicker">Year 8 Science • ${d.code} • Authored homework</p><h1>${esc(d.title)}</h1><p>${esc(d.intro)} Answer in full sentences where useful, and use evidence or examples in longer responses.</p><div class="hw-meta"><div><strong>10</strong><br>Short-answer questions</div><div><strong>10</strong><br>Long-answer questions</div><div><strong>1</strong><br>Research/application task</div></div></header><section class="hw-section"><p class="hw-kicker">Part A</p><h2>Short-answer questions</h2><ol class="hw-questions">${short}</ol></section><section class="hw-section"><p class="hw-kicker">Part B</p><h2>Long-answer questions</h2><ol class="hw-questions">${long}</ol></section><section class="hw-task"><p class="hw-kicker">Part C</p><h2>Research and understanding task</h2><p>${esc(d.task)}</p>${lineBlock(10)}</section><p class="hw-footer">SkillrHub • Authored Year 8 Science homework • Print or save as PDF</p></main></body></html>`;
+          }
+          for (const [code, d] of Object.entries(data)) {
+            const file = path.join('quiz','year-8','science',code,'homework','index.html');
+            fs.writeFileSync(file, page(d));
+          }
+          NODE
+      - name: Commit authored homework pages
+        run: |
+          if git diff --quiet; then echo "No changes needed"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quiz/year-8/science/ac9s8h01/homework/index.html quiz/year-8/science/ac9s8h02/homework/index.html quiz/year-8/science/ac9s8h03/homework/index.html
+          git commit -m "Author Year 8 Science H01-H03 homework"
+          git push
+          NODE
