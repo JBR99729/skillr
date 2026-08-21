@@ -1,0 +1,95 @@
+name: Author Year 9 Science topic depth U01-U03
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/author-year9-science-topic-depth-u01-u03.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deepen-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rewrite Year 9 Science topic pages U01-U03
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from html import escape
+
+          css = ":root{--blue:#2457d6;--ink:#18324f;--muted:#5f728a;--line:#dce5f1;--soft:#f5f8ff;--green:#0b7a53;--amber:#8a5a00}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif;line-height:1.6}.page{max-width:1040px;margin:0 auto;padding:24px}.crumbs{font-size:.9rem;margin:0 0 14px;color:var(--muted)}.crumbs a{color:var(--blue);font-weight:700;text-decoration:none}.hero,.card,.grid-card{background:#fff;border:1px solid var(--line);border-radius:20px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:24px;margin:16px 0}.kicker{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--blue);font-weight:900;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3.2rem);line-height:1.05;margin:0 0 12px}h2{font-size:1.55rem;margin:0 0 12px}h3{font-size:1.1rem;margin:0 0 8px}.hero p{font-size:1.08rem;color:#304963;max-width:840px}.cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.cta a{display:inline-block;border-radius:999px;padding:10px 14px;text-decoration:none;font-weight:900;border:1px solid #cbd8ea;background:#fff;color:var(--blue)}.cta a.primary{background:var(--blue);color:#fff;border-color:var(--blue)}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.three{grid-template-columns:repeat(3,minmax(0,1fr))}.grid-card{margin:0}.worked{border-left:6px solid var(--green)}.warning{border-left:6px solid var(--amber)}.formula{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:#eef4ff;border:1px solid #d6e4ff;border-radius:12px;padding:10px 12px;display:inline-block}.steps{padding-left:1.3rem}.steps li{margin:8px 0}.checklist li{margin:6px 0}.note{background:var(--soft);border:1px solid var(--line);border-radius:14px;padding:14px}.footer{color:var(--muted);font-size:.9rem;margin:28px 0;text-align:center}@media(max-width:760px){.grid,.three{grid-template-columns:1fr}.page{padding:16px}h1{font-size:2.1rem}}"
+
+          pages = [
+            {
+              'code':'AC9S9U01',
+              'path':'year9/science/ac9s9u01-the-role-of-body-systems-in-regulating-and-coordinating-the/index.html',
+              'canonical':'https://skillrhub.com/year9/science/ac9s9u01-the-role-of-body-systems-in-regulating-and-coordinating-the/',
+              'title':'Body systems, coordination and regulation',
+              'description':'Year 9 Australian Curriculum Science topic guide for AC9S9U01: explain how body systems regulate and coordinate responses, including nervous and endocrine control.',
+              'intro':'This topic helps students understand how the human body detects change, communicates information and coordinates responses. It connects body systems to homeostasis, feedback and everyday examples such as temperature control and blood glucose regulation.',
+              'ideas':['The nervous system sends fast electrical messages through neurons.','The endocrine system sends slower chemical messages called hormones through the blood.','Receptors detect changes and effectors carry out responses.','Homeostasis means keeping internal conditions within a suitable range.'],
+              'rules':['stimulus → receptor → coordinator → effector → response','negative feedback reduces change and helps restore balance','nervous responses are usually faster than hormonal responses','body systems work together rather than acting separately'],
+              'worked_title':'Worked example: temperature regulation',
+              'worked':['Body temperature rises during exercise.','Receptors detect the change and send information to the brain.','The brain coordinates responses such as sweating and increased blood flow to the skin.','Sweating and heat loss help lower body temperature.','This is negative feedback because the response reduces the original change.'],
+              'misconceptions':['Thinking one organ system works alone without interacting with others.','Confusing hormones with nerves.','Thinking homeostasis means the body never changes.','Describing a response without explaining the stimulus or feedback pathway.'],
+              'quick':['Name one body condition that is regulated.','Compare nervous and hormonal communication.','Explain why sweating is part of a feedback response.'],
+              'tip':'Use familiar examples such as feeling hot, being hungry or reacting to danger. Ask students to identify the stimulus, receptor, coordinator, effector and response.',
+            },
+            {
+              'code':'AC9S9U02',
+              'path':'year9/science/ac9s9u02-the-form-and-function-of-reproductive-cells-and-organs-in/index.html',
+              'canonical':'https://skillrhub.com/year9/science/ac9s9u02-the-form-and-function-of-reproductive-cells-and-organs-in/',
+              'title':'Reproductive cells, organs and function',
+              'description':'Year 9 Australian Curriculum Science topic guide for AC9S9U02: connect the structure and function of reproductive cells and organs in animals and plants.',
+              'intro':'This topic links biological structure to function. Students compare reproductive cells and organs, explain how features support fertilisation and development, and use respectful scientific language when discussing reproduction.',
+              'ideas':['Structure and function are closely connected in reproductive systems.','Sperm cells are adapted for movement and delivering genetic material.','Egg cells contain genetic material and resources for early development.','Flower structures support pollination, fertilisation and seed formation.'],
+              'rules':['gametes carry genetic information from parents','fertilisation combines genetic material from two gametes','reproductive organs support production, transfer or development of gametes','plant and animal reproduction have similarities and differences'],
+              'worked_title':'Worked example: linking structure and function',
+              'worked':['A sperm cell has a tail for movement.','It has genetic material in its head.','It is small and streamlined so it can move towards an egg cell.','These features support its role in fertilisation.','The answer links the structure to the function, not just a label.'],
+              'misconceptions':['Listing body parts without explaining their function.','Using informal wording instead of scientific vocabulary.','Thinking plant reproduction is completely unrelated to animal reproduction.','Confusing pollination with fertilisation.'],
+              'quick':['Give one structural feature of a sperm cell and its function.','Explain how an egg cell differs from a sperm cell.','What is the difference between pollination and fertilisation?'],
+              'tip':'Keep the focus scientific and respectful: structure, function, cells, organs, fertilisation and development. Diagrams help students explain without relying on vague wording.',
+            },
+            {
+              'code':'AC9S9U03',
+              'path':'year9/science/ac9s9u03-represent-the-carbon-cycle-and-examine-how-key-processes/index.html',
+              'canonical':'https://skillrhub.com/year9/science/ac9s9u03-represent-the-carbon-cycle-and-examine-how-key-processes/',
+              'title':'Carbon cycle processes and human impacts',
+              'description':'Year 9 Australian Curriculum Science topic guide for AC9S9U03: represent the carbon cycle and explain how photosynthesis, respiration, decomposition and combustion move carbon.',
+              'intro':'This topic develops systems thinking. Students represent carbon moving between the atmosphere, organisms, soil, oceans and fossil fuels, then examine how human activities can change the balance of the cycle.',
+              'ideas':['Carbon moves between stores through processes.','Photosynthesis removes carbon dioxide from the atmosphere and stores carbon in biomass.','Respiration, decomposition and combustion release carbon dioxide.','Human activities can increase carbon dioxide release or reduce carbon storage.'],
+              'rules':['photosynthesis: carbon dioxide + water → glucose + oxygen','respiration releases energy and carbon dioxide','combustion releases carbon stored in fuels','a carbon-cycle diagram should show stores and arrows for processes'],
+              'worked_title':'Worked example: explaining an arrow in the carbon cycle',
+              'worked':['An arrow from atmosphere to plants represents photosynthesis.','Plants take in carbon dioxide from the air.','Carbon becomes part of glucose and plant biomass.','This moves carbon from an atmospheric store to a living store.','A strong explanation names both the process and the stores.'],
+              'misconceptions':['Drawing arrows without naming the process.','Thinking carbon is created or destroyed in the cycle.','Confusing respiration with breathing only.','Ignoring long-term stores such as fossil fuels and oceans.'],
+              'quick':['Name two carbon stores.','Which process moves carbon dioxide from air into plants?','Explain how burning fossil fuels affects the carbon cycle.'],
+              'tip':'Ask students to label every arrow with a process. This turns a diagram from decoration into a scientific explanation.',
+            },
+          ]
+
+          def cards(items):
+              return ''.join(f'<div class="grid-card"><h3>Key idea</h3><p>{escape(i)}</p></div>' for i in items)
+          def formulas(items):
+              return ''.join(f'<div class="grid-card"><span class="formula">{escape(i)}</span></div>' for i in items)
+          def lis(items):
+              return ''.join(f'<li>{escape(i)}</li>' for i in items)
+
+          def render(p):
+              slug = p['code'].lower()
+              return f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{escape(p['title'])} | {p['code']} Year 9 Science | SkillrHub</title><meta name="description" content="{escape(p['description'])}"><link rel="canonical" href="{p['canonical']}"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><link rel="stylesheet" href="/style.css"><style>{css}</style></head><body><main class="page"><p class="crumbs"><a href="/">Home</a> › <a href="/year9/curriculum/science/">Year 9 Science</a> › {p['code']}</p><section class="hero"><p class="kicker">Year 9 Science • {p['code']} • Topic guide</p><h1>{escape(p['title'])}</h1><p>{escape(p['intro'])}</p><div class="cta"><a class="primary" href="/quiz/year-9/science/{slug}/practice/">Start practice</a><a href="/quiz/year-9/science/{slug}/test/">Take test</a><a href="/quiz/year-9/science/{slug}/homework/">Open homework</a></div></section><section class="card"><p class="kicker">Core understanding</p><h2>What students need to know</h2><div class="grid three">{cards(p['ideas'])}</div></section><section class="card"><p class="kicker">Scientific language and representations</p><h2>Useful rules and ways to represent the idea</h2><div class="grid">{formulas(p['rules'])}</div></section><section class="card worked"><p class="kicker">Worked example</p><h2>{escape(p['worked_title'])}</h2><ol class="steps">{lis(p['worked'])}</ol></section><section class="card warning"><p class="kicker">Common misconceptions</p><h2>What to watch for</h2><ul class="checklist">{lis(p['misconceptions'])}</ul></section><section class="card"><p class="kicker">Quick check</p><h2>Try these before moving on</h2><ol class="steps">{lis(p['quick'])}</ol></section><section class="card"><p class="kicker">Support tip</p><h2>For parents and teachers</h2><p class="note">{escape(p['tip'])}</p></section><section class="card"><p class="kicker">Next steps</p><h2>Practise this skill</h2><p>Use the linked homework, practice and test to move from recognition to independent explanation.</p><div class="cta"><a href="/quiz/year-9/science/{slug}/homework/">Homework</a><a class="primary" href="/quiz/year-9/science/{slug}/practice/">Practice</a><a href="/quiz/year-9/science/{slug}/test/">Test</a></div></section><p class="footer">SkillrHub • Australian Curriculum aligned Year 9 Science topic guide</p></main></body></html>'''
+
+          for page in pages:
+              Path(page['path']).write_text(render(page), encoding='utf-8')
+          PY
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add year9/science/ac9s9u01-the-role-of-body-systems-in-regulating-and-coordinating-the/index.html year9/science/ac9s9u02-the-form-and-function-of-reproductive-cells-and-organs-in/index.html year9/science/ac9s9u03-represent-the-carbon-cycle-and-examine-how-key-processes/index.html
+          git diff --cached --quiet && exit 0
+          git commit -m "Deepen Year 9 Science U01-U03 topic pages"
+          git push
