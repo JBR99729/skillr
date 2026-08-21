@@ -1,0 +1,57 @@
+name: Fix homework double numbering
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/fix-homework-double-numbering.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove manual question numbers inside ordered lists
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const root = 'quiz';
+          const changed = [];
+          function walk(dir){
+            if(!fs.existsSync(dir)) return;
+            for(const entry of fs.readdirSync(dir,{withFileTypes:true})){
+              const p = path.join(dir, entry.name);
+              if(entry.isDirectory()) walk(p);
+              else if(entry.isFile() && p.endsWith(path.join('homework','index.html'))){
+                let s = fs.readFileSync(p,'utf8');
+                const before = s;
+                // Ordered lists already display numbers. Remove duplicated leading numbers inside question text.
+                // Matches examples like <li><p>1. Expand ... but avoids decimals like 3.2 because a space is required after the dot.
+                s = s.replace(/(<li>\s*<p>)(\s*)(\d{1,2})\.\s+/g, '$1');
+                if(s !== before){
+                  fs.writeFileSync(p,s);
+                  changed.push(p);
+                }
+              }
+            }
+          }
+          walk(root);
+          console.log(`Updated ${changed.length} homework files`);
+          for (const file of changed) console.log(file);
+          NODE
+      - name: Commit changes
+        run: |
+          git config user.name "skillr-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No double numbering found."
+            exit 0
+          fi
+          git add quiz
+          git commit -m "Fix homework double numbering"
+          git push
