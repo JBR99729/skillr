@@ -1,0 +1,137 @@
+name: Author Year 9 Maths ST01-ST03 homework
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/author-year9-maths-st01-st03-homework.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  author:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write authored homework pages
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const esc = s => String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+          const lineBlock = n => `<div class="answer-lines">${'<span></span>'.repeat(n)}</div>`;
+          const style = `<style>:root{--blue:#2457d6;--ink:#18324f;--muted:#62748a;--line:#dce5f1;--soft:#f5f8ff}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif}.hw-shell{max-width:980px;margin:auto;padding:24px}.hw-brand{display:flex;align-items:center;gap:12px;margin:0 0 14px;padding:12px 14px;border:1px solid #cbd8ea;border-radius:16px;background:#fff}.hw-brand__mark{display:grid;place-items:center;width:42px;height:42px;border-radius:12px;background:var(--blue);color:#fff;font-weight:900;font-size:1.35rem}.hw-brand strong{display:block;color:var(--blue);font-size:1.15rem}.hw-brand span{display:block;color:var(--muted);font-size:.9rem}.hw-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}.hw-nav a,.hw-print{border:1px solid #cbd8ea;border-radius:999px;background:#fff;color:var(--blue);font-weight:800;text-decoration:none;padding:8px 12px}.hw-print{cursor:pointer}.hw-hero,.hw-section,.hw-task{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:22px;margin:14px 0}.hw-kicker{color:var(--blue);font-size:.78rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3rem);line-height:1.08;margin:0 0 10px}.hw-meta{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}.hw-meta div{background:var(--soft);border-radius:12px;padding:12px}.hw-questions{padding-left:1.2rem}.hw-questions li{break-inside:avoid;margin:0 0 18px}.hw-questions p{font-weight:700}.answer-lines{display:grid;gap:10px;margin-top:10px}.answer-lines span{display:block;border-bottom:1px solid #9fb0c5;min-height:24px}.hw-task{border-left:6px solid var(--blue)}.hw-footer{color:var(--muted);font-size:.9rem;text-align:center;margin:24px 0}@media print{body{background:#fff}.hw-shell{max-width:none;padding:0}.hw-nav,.hw-print{display:none}.hw-brand{display:flex!important;border:0;border-bottom:2px solid #2457d6;border-radius:0;margin:0 0 10px;padding:8px 0;background:#fff;box-shadow:none}.hw-brand__mark{background:#2457d6!important;color:#fff!important}.hw-hero,.hw-section,.hw-task{box-shadow:none;border-radius:0;border-left:0}.answer-lines span{min-height:22px}}</style>`;
+          const pages = [
+            {
+              code:'AC9M9ST01',
+              title:'Reading Survey Reports',
+              guide:'/year9/maths/ac9m9st01-analyse-reports-of-surveys-in-digital-media-and-elsewhere-for/',
+              intro:'Analyse reports of surveys in digital media and other sources by checking sample size, sampling method, question wording, graphs, percentages and claims. Explain whether the reported conclusion is reasonable.',
+              short:[
+                'What is the population in a survey context?',
+                'What is a sample?',
+                'Why does sample size matter when reading a survey report?',
+                'Give one example of a biased survey question.',
+                'What information should a reliable survey report include?',
+                'A headline says “90% agree” but only 10 people were surveyed. What concern should you raise?',
+                'Why should survey percentages be checked against the number of people surveyed?',
+                'Explain why the wording of a question can affect the results.',
+                'Name one way a graph in a survey report could be misleading.',
+                'Correct this misconception: “A survey result is reliable just because it uses a percentage.”'
+              ],
+              long:[
+                'A survey report says 72% of students prefer online homework. Explain what extra information you need before trusting the claim.',
+                'Compare two survey methods: asking only friends versus randomly sampling students across a school. Which is more reliable and why?',
+                'A media article reports that “most teenagers want longer school days”. The survey was completed by 35 students from one after-school club. Evaluate the claim.',
+                'Create a checklist for analysing a survey report. Include sample, population, question wording, graph choice and conclusion.',
+                'A survey asks: “Do you agree that the excellent new park should be kept open longer?” Explain why the question is biased and rewrite it neutrally.',
+                'A report uses a bar graph with a cut y-axis to make a small difference look large. Explain the issue and how to fix the graph.',
+                'Given a survey of 250 people where 145 support a proposal, calculate the percentage and write a cautious conclusion.',
+                'Explain how non-response can affect survey results using a realistic example.',
+                'Write a short critique of a survey claim that does not identify who was surveyed or how the sample was chosen.',
+                'Design a fair survey to investigate a school issue, including the population, sampling method, question wording and how results will be reported.'
+              ],
+              task:'Find a real survey report or media poll. Record the headline claim, sample size, population, sampling method if stated, graph or percentage used, and one reason the claim is strong or weak.'
+            },
+            {
+              code:'AC9M9ST02',
+              title:'Sampling bias and data representation',
+              guide:'/year9/maths/ac9m9st02-analyse-how-different-sampling-methods-can-affect-the-results-of/',
+              intro:'Analyse how sampling methods can affect results and how data displays can support or distort conclusions. Focus on bias, representativeness, random sampling and appropriate graphs.',
+              short:[
+                'Define sampling bias.',
+                'What does representative sample mean?',
+                'Why is a random sample often better than a convenience sample?',
+                'Give one example of convenience sampling.',
+                'What is one problem with surveying only volunteers?',
+                'Why can a poorly chosen graph distort data?',
+                'When is a bar graph suitable?',
+                'When is a histogram suitable?',
+                'What is one warning sign that a data display may be misleading?',
+                'Correct this misconception: “A bigger sample is always unbiased.”'
+              ],
+              long:[
+                'A school surveys only Year 9 students to decide what the whole school wants for lunch. Explain the sampling issue and improve the method.',
+                'Compare random sampling, stratified sampling and convenience sampling using a school survey example.',
+                'A website poll asks visitors whether the website is useful. Explain why the results may not represent all students.',
+                'Design a better sample for a survey about transport to school. Include groups that should be represented.',
+                'A graph shows two bars that differ by 2%, but the y-axis starts at 80%. Explain how this can mislead readers.',
+                'Choose an appropriate display for categorical survey data and justify your choice.',
+                'Choose an appropriate display for numerical measurements such as reaction times and justify your choice.',
+                'Evaluate a claim based on a sample of 500 people if the sample was selected only from one suburb.',
+                'Create a survey plan that reduces bias in question wording, sampling and data display.',
+                'Write a full response explaining how both sampling method and representation affect the reliability of conclusions.'
+              ],
+              task:'Design a survey for a real school or community question. State the population, choose a sampling method, write two neutral questions, and describe how you would display the data without distortion.'
+            },
+            {
+              code:'AC9M9ST03',
+              title:'Comparing Data Distributions',
+              guide:'/year9/maths/ac9m9st03-represent-the-distribution-of-multiple-data-sets-for-numerical/',
+              intro:'Represent and compare multiple numerical data sets using measures of centre, spread and shape. Use dot plots, box plots, histograms or summary statistics to justify comparisons.',
+              short:[
+                'What is a distribution in statistics?',
+                'What does the median tell you about a data set?',
+                'What does the mean tell you about a data set?',
+                'What does range measure?',
+                'What does interquartile range measure?',
+                'Why can an outlier affect the mean more than the median?',
+                'Name one graph that can compare two numerical data sets.',
+                'What does spread mean when comparing data?',
+                'What does overlap between two distributions suggest?',
+                'Correct this misconception: “The higher mean always means every value is higher.”'
+              ],
+              long:[
+                'Two classes have test-score medians of 68 and 72. Explain why you still need spread information before judging performance.',
+                'Create two small data sets with the same mean but different ranges. Explain what this shows.',
+                'Compare two data sets using median and interquartile range rather than only the mean.',
+                'A data set has one very large outlier. Explain how the mean, median and range are affected.',
+                'Describe how a box plot can show median, quartiles, range and possible outliers.',
+                'A sports coach compares sprint times for two teams. Explain which team is more consistent using spread.',
+                'Interpret a pair of overlapping distributions and explain why conclusions should be cautious.',
+                'Choose the best graph to compare two sets of reaction-time data and justify your choice.',
+                'Write a comparison paragraph for two data sets, including centre, spread, shape and outliers.',
+                'Design a small investigation that collects two numerical data sets and explain how you would compare their distributions.'
+              ],
+              task:'Collect or invent two related numerical data sets, such as screen time for two groups or reaction times before and after practice. Display both sets and compare centre, spread and any outliers.'
+            }
+          ];
+          function page(p){
+            const short = p.short.map(q=>`<li><p>${esc(q)}</p>${lineBlock(4)}</li>`).join('');
+            const long = p.long.map(q=>`<li><p>${esc(q)}</p>${lineBlock(8)}</li>`).join('');
+            return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>${p.code} Authored Homework | ${esc(p.title)}</title><meta name="description" content="Authored SkillrHub homework for Year 9 Maths ${p.code} with 10 short-answer questions, 10 long-answer questions and one research task."><link rel="canonical" href="https://skillrhub.com/quiz/year-9/math/${p.code.toLowerCase()}/homework/"><link rel="stylesheet" href="/style.css">${style}</head><body><main class="hw-shell"><header class="hw-brand" aria-label="SkillrHub homework branding"><div class="hw-brand__mark" aria-hidden="true">S</div><div><strong>SkillrHub</strong><span>Free Australian Curriculum homework • skillrhub.com</span></div></header><nav class="hw-nav" aria-label="Homework navigation"><a href="/">Home</a><a href="${p.guide}">Topic guide</a><a href="../practice/">Practice</a><a href="../test/">Test</a><button class="hw-print" type="button" onclick="window.print()">Print or save as PDF</button></nav><header class="hw-hero"><p class="hw-kicker">Year 9 Maths • ${p.code} • Authored homework</p><h1>${esc(p.title)}</h1><p>${esc(p.intro)} Show working, use correct statistical language, and justify conclusions.</p><div class="hw-meta"><div><strong>10</strong><br>Short-answer questions</div><div><strong>10</strong><br>Long-answer questions</div><div><strong>1</strong><br>Research/application task</div></div></header><section class="hw-section"><p class="hw-kicker">Part A</p><h2>Short-answer questions</h2><ol class="hw-questions">${short}</ol></section><section class="hw-section"><p class="hw-kicker">Part B</p><h2>Long-answer questions</h2><ol class="hw-questions">${long}</ol></section><section class="hw-task"><p class="hw-kicker">Part C</p><h2>Research and understanding task</h2><p>${esc(p.task)}</p>${lineBlock(10)}</section><p class="hw-footer">SkillrHub • Authored Year 9 Maths homework • Print or save as PDF</p></main></body></html>`;
+          }
+          for (const p of pages) {
+            const file = `quiz/year-9/math/${p.code.toLowerCase()}/homework/index.html`;
+            fs.writeFileSync(file, page(p));
+          }
+          NODE
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add quiz/year-9/math/ac9m9st01/homework/index.html quiz/year-9/math/ac9m9st02/homework/index.html quiz/year-9/math/ac9m9st03/homework/index.html
+          git diff --cached --quiet && exit 0
+          git commit -m "Author Year 9 Maths ST01-ST03 homework"
+          git push
