@@ -1,0 +1,93 @@
+name: Author Year 9 Science topic depth H01-H03
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/author-year9-science-topic-depth-h01-h03.trigger'
+
+permissions:
+  contents: write
+
+jobs:
+  author:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deepen H01-H03 topic pages
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from html import escape
+
+          css = ":root{--blue:#2457d6;--ink:#18324f;--muted:#5f728a;--line:#dce5f1;--soft:#f5f8ff;--green:#0b7a53;--amber:#8a5a00}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif;line-height:1.6}.page{max-width:1040px;margin:0 auto;padding:24px}.crumbs{font-size:.9rem;margin:0 0 14px;color:var(--muted)}.crumbs a{color:var(--blue);font-weight:700;text-decoration:none}.hero,.card,.grid-card{background:#fff;border:1px solid var(--line);border-radius:20px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:24px;margin:16px 0}.kicker{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--blue);font-weight:900;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3.2rem);line-height:1.05;margin:0 0 12px}h2{font-size:1.55rem;margin:0 0 12px}h3{font-size:1.1rem;margin:0 0 8px}.hero p{font-size:1.08rem;color:#304963;max-width:840px}.cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.cta a{display:inline-block;border-radius:999px;padding:10px 14px;text-decoration:none;font-weight:900;border:1px solid #cbd8ea;background:#fff;color:var(--blue)}.cta a.primary{background:var(--blue);color:#fff;border-color:var(--blue)}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.three{grid-template-columns:repeat(3,minmax(0,1fr))}.grid-card{margin:0}.worked{border-left:6px solid var(--green)}.warning{border-left:6px solid var(--amber)}.formula{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:#eef4ff;border:1px solid #d6e4ff;border-radius:12px;padding:10px 12px;display:inline-block}.steps{padding-left:1.3rem}.steps li{margin:8px 0}.checklist li{margin:6px 0}.note{background:var(--soft);border:1px solid var(--line);border-radius:14px;padding:14px}.footer{color:var(--muted);font-size:.9rem;margin:28px 0;text-align:center}@media(max-width:760px){.grid,.three{grid-template-columns:1fr}.page{padding:16px}h1{font-size:2.1rem}}"
+
+          pages = [
+            {
+              'code':'AC9S9H01',
+              'path':'year9/science/ac9s9h01-explain-how-scientific-knowledge-is-validated-and-refined/index.html',
+              'slug':'ac9s9h01',
+              'title':'Validating and refining scientific knowledge',
+              'meta':'Year 9 Australian Curriculum Science topic guide for AC9S9H01: explain how scientific knowledge is validated, tested, refined and strengthened through evidence and peer review.',
+              'intro':'This topic shows science as a careful, self-correcting process. Students learn that scientific claims become stronger when evidence is checked, methods are repeated and explanations are refined when new evidence appears.',
+              'ideas':['Scientific knowledge is based on evidence, not opinion alone.','Replication and reproducibility help scientists check whether results are reliable.','Peer review allows other experts to question methods, evidence and conclusions.','Models and explanations can change when better evidence becomes available.'],
+              'representations':['claim + evidence + reasoning','peer review checks method, data and interpretation','replication means repeating a method to see whether results are consistent','refinement means improving an explanation rather than simply replacing all knowledge'],
+              'example_title':'Worked example: why peer review matters',
+              'example':['A scientist makes a claim about a new material.','Other scientists examine the method, measurements and conclusion.','They check whether the evidence actually supports the claim.','If weaknesses are found, the method or explanation may be revised.','This makes the accepted knowledge more reliable.'],
+              'misconceptions':['Thinking one experiment is enough to prove a claim forever.','Confusing peer review with a popularity vote.','Assuming scientific knowledge changes because scientists are guessing.','Ignoring uncertainty, limitations and sample size.'],
+              'quick':['Why is replication important in science?','What does peer review check?','Explain how new evidence can refine a scientific model.'],
+              'tip':'Ask students to separate claim, evidence and reasoning. A strong science-history answer should explain how evidence changed the accepted explanation.'
+            },
+            {
+              'code':'AC9S9H02',
+              'path':'year9/science/ac9s9h02-investigate-how-advances-in-technologies-enable-advances-in/index.html',
+              'slug':'ac9s9h02',
+              'title':'How technology enables scientific advances',
+              'meta':'Year 9 Australian Curriculum Science topic guide for AC9S9H02: investigate how advances in technology enable advances in scientific understanding and scientific investigation.',
+              'intro':'This topic connects scientific discovery with tools. Students investigate how microscopes, telescopes, sensors, satellites, imaging technologies and data systems allow scientists to observe, measure and analyse things that were previously hidden.',
+              'ideas':['Technology extends human senses and allows more precise measurements.','New tools can reveal evidence that was previously unavailable.','Scientific advances can also lead to new technologies, so the relationship works both ways.','Digital tools allow large data sets to be collected, stored, modelled and shared.'],
+              'representations':['microscopes reveal cells and microorganisms','telescopes extend observation beyond Earth','sensors collect data over time or in dangerous locations','DNA sequencing and imaging technologies can change biological and medical explanations'],
+              'example_title':'Worked example: microscopes and cells',
+              'example':['Before microscopes, cells could not be directly observed.','Improved lenses allowed scientists to see cells and tissues.','This provided evidence that living things are made of cells.','Better microscopes later revealed organelles and microorganisms.','Technology changed what scientists could observe and explain.'],
+              'misconceptions':['Thinking technology only means computers.','Forgetting that better measurement can change scientific explanations.','Assuming technology always gives perfect data.','Ignoring ethical and practical limits of new technologies.'],
+              'quick':['Give one example of a technology that extended scientific observation.','How can sensors improve an investigation?','Explain how a new technology can lead to a new scientific question.'],
+              'tip':'Use a before-and-after structure: what could scientists observe before the technology, what changed after it, and how did the explanation improve?'
+            },
+            {
+              'code':'AC9S9H03',
+              'path':'year9/science/ac9s9h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and/index.html',
+              'slug':'ac9s9h03',
+              'title':'How science knowledge and practices are adopted by society',
+              'meta':'Year 9 Australian Curriculum Science topic guide for AC9S9H03: analyse factors that influence whether scientific knowledge and practices are adopted more broadly by society.',
+              'intro':'This topic helps students evaluate why some scientific ideas, technologies and practices are adopted quickly while others are debated or delayed. Students consider evidence, communication, cost, safety, ethics, cultural values and practical usefulness.',
+              'ideas':['Strong evidence is important, but adoption also depends on social, ethical and economic factors.','Clear communication affects whether people understand and trust scientific advice.','New practices may require technology, funding, regulation or behaviour change.','Different groups may weigh risks and benefits differently.'],
+              'representations':['adoption depends on evidence, trust, cost, access and values','risk-benefit analysis compares possible advantages and harms','scientific consensus can support decision-making','policy and regulation can shape how science is used'],
+              'example_title':'Worked example: adopting a public health practice',
+              'example':['Scientists gather evidence that a practice reduces disease spread.','The evidence is reviewed and communicated to health authorities.','Decision-makers consider cost, access, safety and public trust.','The practice may be recommended, regulated or adapted for different communities.','Adoption depends on both science evidence and social factors.'],
+              'misconceptions':['Thinking good evidence automatically means immediate adoption.','Ignoring cost, access, ethics and public trust.','Treating disagreement as proof that the science is worthless.','Assuming one community’s response applies everywhere.'],
+              'quick':['Name two non-scientific factors that affect adoption of a science-based practice.','Why does communication matter when science informs society?','Explain why a useful technology might not be adopted immediately.'],
+              'tip':'Ask students to use “evidence plus context”. They should identify the science evidence, then explain the social or practical factors that influence adoption.'
+            }
+          ]
+
+          def cards(items):
+              return ''.join(f'<div class="grid-card"><h3>Key idea</h3><p>{escape(x)}</p></div>' for x in items)
+          def formula(items):
+              return ''.join(f'<div class="grid-card"><span class="formula">{escape(x)}</span></div>' for x in items)
+          def lis(items):
+              return ''.join(f'<li>{escape(x)}</li>' for x in items)
+
+          for p in pages:
+              html = f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{escape(p['title'])} | {p['code']} Year 9 Science | SkillrHub</title><meta name="description" content="{escape(p['meta'])}"><link rel="canonical" href="https://skillrhub.com/{p['path'].replace('index.html','')}"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><link rel="stylesheet" href="/style.css"><style>{css}</style></head><body><main class="page"><p class="crumbs"><a href="/">Home</a> › <a href="/year9/curriculum/science/">Year 9 Science</a> › {p['code']}</p><section class="hero"><p class="kicker">Year 9 Science • {p['code']} • Topic guide</p><h1>{escape(p['title'])}</h1><p>{escape(p['intro'])}</p><div class="cta"><a class="primary" href="/quiz/year-9/science/{p['slug']}/practice/">Start practice</a><a href="/quiz/year-9/science/{p['slug']}/test/">Take test</a><a href="/quiz/year-9/science/{p['slug']}/homework/">Open homework</a></div></section><section class="card"><p class="kicker">Core understanding</p><h2>What students need to know</h2><div class="grid three">{cards(p['ideas'])}</div></section><section class="card"><p class="kicker">Scientific language and representations</p><h2>Useful terms and ways to represent the idea</h2><div class="grid">{formula(p['representations'])}</div></section><section class="card worked"><p class="kicker">Worked example</p><h2>{escape(p['example_title'])}</h2><ol class="steps">{lis(p['example'])}</ol></section><section class="card warning"><p class="kicker">Common misconceptions</p><h2>What to watch for</h2><ul class="checklist">{lis(p['misconceptions'])}</ul></section><section class="card"><p class="kicker">Quick check</p><h2>Try these before moving on</h2><ol class="steps">{lis(p['quick'])}</ol></section><section class="card"><p class="kicker">Support tip</p><h2>For parents and teachers</h2><p class="note">{escape(p['tip'])}</p></section><section class="card"><p class="kicker">Next steps</p><h2>Practise this skill</h2><p>Use the linked homework, practice and test to move from recognition to independent explanation.</p><div class="cta"><a href="/quiz/year-9/science/{p['slug']}/homework/">Homework</a><a class="primary" href="/quiz/year-9/science/{p['slug']}/practice/">Practice</a><a href="/quiz/year-9/science/{p['slug']}/test/">Test</a></div></section><p class="footer">SkillrHub • Australian Curriculum aligned Year 9 Science topic guide</p></main></body></html>'''
+              Path(p['path']).write_text(html, encoding='utf-8')
+
+          PY
+      - name: Commit changes
+        run: |
+          git config user.name "Skillr Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add year9/science/ac9s9h01-explain-how-scientific-knowledge-is-validated-and-refined/index.html \
+                  year9/science/ac9s9h02-investigate-how-advances-in-technologies-enable-advances-in/index.html \
+                  year9/science/ac9s9h03-analyse-the-key-factors-that-contribute-to-science-knowledge-and/index.html
+          git commit -m "Deepen Year 9 Science H01-H03 topic pages"
+          git push
