@@ -1,0 +1,81 @@
+name: Author Year 9 Maths topic depth SP01-SP03
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/author-year9-maths-topic-depth-sp01-sp03.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  author:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write deeper topic pages
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const esc = s => String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+          const style = `:root{--blue:#2457d6;--ink:#18324f;--muted:#5f728a;--line:#dce5f1;--soft:#f5f8ff;--green:#0b7a53;--amber:#8a5a00}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif;line-height:1.6}.page{max-width:1040px;margin:0 auto;padding:24px}.crumbs{font-size:.9rem;margin:0 0 14px;color:var(--muted)}.crumbs a{color:var(--blue);font-weight:700;text-decoration:none}.hero,.card,.grid-card{background:#fff;border:1px solid var(--line);border-radius:20px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:24px;margin:16px 0}.kicker{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--blue);font-weight:900;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3.2rem);line-height:1.05;margin:0 0 12px}h2{font-size:1.55rem;margin:0 0 12px}h3{font-size:1.1rem;margin:0 0 8px}.hero p{font-size:1.08rem;color:#304963;max-width:840px}.cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.cta a{display:inline-block;border-radius:999px;padding:10px 14px;text-decoration:none;font-weight:900;border:1px solid #cbd8ea;background:#fff;color:var(--blue)}.cta a.primary{background:var(--blue);color:#fff;border-color:var(--blue)}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.three{grid-template-columns:repeat(3,minmax(0,1fr))}.grid-card{margin:0}.worked{border-left:6px solid var(--green)}.warning{border-left:6px solid var(--amber)}.formula{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:#eef4ff;border:1px solid #d6e4ff;border-radius:12px;padding:10px 12px;display:inline-block}.steps{padding-left:1.3rem}.steps li{margin:8px 0}.checklist li{margin:6px 0}.mini-table{width:100%;border-collapse:collapse;margin-top:10px}.mini-table th,.mini-table td{border:1px solid var(--line);padding:10px;text-align:left;vertical-align:top}.mini-table th{background:var(--soft)}.note{background:var(--soft);border:1px solid var(--line);border-radius:14px;padding:14px}.footer{color:var(--muted);font-size:.9rem;margin:28px 0;text-align:center}@media(max-width:760px){.grid,.three{grid-template-columns:1fr}.page{padding:16px}h1{font-size:2.1rem}}`;
+          const pages = [
+            {
+              code:'AC9M9SP01',
+              path:'year9/maths/ac9m9sp01-the-constancy-of-the-sine-cosine-and-tangent-ratios-for/index.html',
+              title:'Trigonometric ratios in similar right triangles',
+              desc:'Year 9 Australian Curriculum Maths topic guide for AC9M9SP01: understand why sine, cosine and tangent ratios stay constant for the same angle in similar right triangles.',
+              intro:'This topic introduces the reason trigonometry works. Students learn that for any fixed acute angle, similar right triangles have the same side ratios, so sine, cosine and tangent can be used to find unknown sides and angles.',
+              ideas:['Similar right triangles have equal corresponding angles and proportional corresponding sides.','For a fixed angle, opposite/hypotenuse, adjacent/hypotenuse and opposite/adjacent stay constant.','The hypotenuse is always opposite the right angle and is the longest side.','The ratio needed depends on which sides are known and which side or angle is required.'],
+              formulas:['sin θ = opposite ÷ hypotenuse','cos θ = adjacent ÷ hypotenuse','tan θ = opposite ÷ adjacent','SOH CAH TOA helps match sides to ratios'],
+              exampleTitle:'Worked example: identify the correct ratio',
+              steps:['A right triangle has angle θ, opposite side 7 cm and hypotenuse 12 cm.','The sides involved are opposite and hypotenuse.','The matching ratio is sine.','sin θ = 7 ÷ 12.','This ratio is the same for any similar right triangle with the same angle θ.'],
+              misconceptions:['Using the side opposite the right angle as the opposite side for every angle.','Choosing a ratio before identifying opposite, adjacent and hypotenuse.','Thinking sine, cosine and tangent change when a similar triangle is enlarged.','Forgetting that the adjacent side depends on the chosen acute angle.'],
+              quick:['Label opposite, adjacent and hypotenuse for an angle of 35° in a right triangle.','Which ratio uses adjacent and hypotenuse?','Explain why enlarging a right triangle does not change the sine ratio for a fixed angle.'],
+              tip:'Ask students to mark the angle first, then label sides. Most errors in early trigonometry come from labelling sides before choosing the reference angle.'
+            },
+            {
+              code:'AC9M9SP02',
+              path:'year9/maths/ac9m9sp02-apply-the-enlargement-transformation-to-shapes-and-objects/index.html',
+              title:'Enlargement, similarity and scale factor',
+              desc:'Year 9 Australian Curriculum Maths topic guide for AC9M9SP02: apply enlargement transformations, use scale factor and explain similarity between shapes and objects.',
+              intro:'This topic develops spatial reasoning through enlargement. Students compare shapes before and after enlargement, identify scale factor, and explain why similar figures keep the same shape even when their size changes.',
+              ideas:['An enlargement changes lengths by a scale factor but preserves angles.','A scale factor greater than 1 enlarges a shape; a scale factor between 0 and 1 reduces it.','Similar figures have equal corresponding angles and proportional corresponding side lengths.','Area changes by the square of the scale factor, not just the scale factor.'],
+              formulas:['new length = original length × scale factor','scale factor = image length ÷ original length','if length scale factor is k, area scale factor is k²','corresponding sides must be matched carefully'],
+              exampleTitle:'Worked example: use a scale factor',
+              steps:['A rectangle is enlarged by scale factor 3. Its original length is 5 cm and width is 2 cm.','New length = 5 × 3 = 15 cm.','New width = 2 × 3 = 6 cm.','The angles are unchanged, so the new rectangle is similar to the original.','The area scale factor is 3² = 9.'],
+              misconceptions:['Multiplying angles by the scale factor.','Using different scale factors for different corresponding sides.','Assuming area and length scale by the same factor.','Matching the wrong pair of corresponding sides when finding scale factor.'],
+              quick:['A triangle side changes from 4 cm to 10 cm. What is the scale factor?','If a shape is enlarged by scale factor 2, what happens to its angles?','Explain why a 6 cm by 9 cm rectangle is similar to a 2 cm by 3 cm rectangle.'],
+              tip:'Use tracing paper, grids or digital graphing tools so students can see that enlargement changes distance from a centre but preserves angle size.'
+            },
+            {
+              code:'AC9M9SP03',
+              path:'year9/maths/ac9m9sp03-design-test-and-refine-algorithms-involving-a-sequence-of-steps/index.html',
+              title:'Geometric algorithms and step-by-step reasoning',
+              desc:'Year 9 Australian Curriculum Maths topic guide for AC9M9SP03: design, test and refine algorithms involving sequences of geometric and spatial reasoning steps.',
+              intro:'This topic connects geometry with computational thinking. Students write clear step-by-step methods, test whether the steps work, and refine algorithms when a diagram, construction or calculation does not produce the intended result.',
+              ideas:['An algorithm is a clear sequence of steps that can be followed and checked.','A good geometric algorithm states inputs, actions, decisions and outputs.','Testing means trying the steps on simple, boundary and tricky cases.','Refining an algorithm means improving unclear, incomplete or incorrect steps.'],
+              formulas:['input → process → output','use precise instructions: draw, measure, compare, classify, repeat','decision step: if condition is true, then do the next action','test case: choose values or diagrams that reveal possible errors'],
+              exampleTitle:'Worked example: refine a classification algorithm',
+              steps:['Goal: classify a triangle from its side lengths.','First check whether the three lengths can form a triangle.','If all three sides are equal, classify it as equilateral.','If exactly two sides are equal, classify it as isosceles.','Otherwise classify it as scalene.','Test with 5, 5, 10 and refine the algorithm because those lengths do not form a triangle.'],
+              misconceptions:['Writing vague steps such as “work it out” instead of precise actions.','Forgetting to test special cases, such as equal sides or impossible shapes.','Assuming an algorithm works after testing only one easy example.','Leaving out the final interpretation or output.'],
+              quick:['Write three steps for constructing a perpendicular bisector.','Why should an algorithm be tested on more than one example?','What extra check is needed before classifying side lengths as a triangle?'],
+              tip:'Encourage students to swap algorithms with a partner. If another student cannot follow the steps exactly, the algorithm needs clearer language or more detail.'
+            }
+          ];
+          function page(p){
+            const codeLower = p.code.toLowerCase();
+            return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(p.title)} | ${p.code} Year 9 Maths | SkillrHub</title><meta name="description" content="${esc(p.desc)}"><link rel="canonical" href="https://skillrhub.com/${p.path.replace('/index.html','')}/"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><link rel="stylesheet" href="/style.css"><style>${style}</style></head><body><main class="page"><p class="crumbs"><a href="/">Home</a> › <a href="/year9/curriculum/maths/">Year 9 Maths</a> › ${p.code}</p><section class="hero"><p class="kicker">Year 9 Maths • ${p.code} • Topic guide</p><h1>${esc(p.title)}</h1><p>${esc(p.intro)}</p><div class="cta"><a class="primary" href="/quiz/year-9/math/${codeLower}/practice/">Start practice</a><a href="/quiz/year-9/math/${codeLower}/test/">Take test</a><a href="/quiz/year-9/math/${codeLower}/homework/">Open homework</a></div></section><section class="card"><p class="kicker">Core understanding</p><h2>What students need to know</h2><div class="grid three">${p.ideas.map(x=>`<div class="grid-card"><h3>Key idea</h3><p>${esc(x)}</p></div>`).join('')}</div></section><section class="card"><p class="kicker">Formulas and representations</p><h2>Useful rules and ways to represent the idea</h2><div class="grid">${p.formulas.map(x=>`<div class="grid-card"><span class="formula">${esc(x)}</span></div>`).join('')}</div></section><section class="card worked"><p class="kicker">Worked example</p><h2>${esc(p.exampleTitle)}</h2><ol class="steps">${p.steps.map(x=>`<li>${esc(x)}</li>`).join('')}</ol></section><section class="card warning"><p class="kicker">Common misconceptions</p><h2>What to watch for</h2><ul class="checklist">${p.misconceptions.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></section><section class="card"><p class="kicker">Quick check</p><h2>Try these before moving on</h2><ol class="steps">${p.quick.map(x=>`<li>${esc(x)}</li>`).join('')}</ol></section><section class="card"><p class="kicker">Support tip</p><h2>For parents and teachers</h2><p class="note">${esc(p.tip)}</p></section><section class="card"><p class="kicker">Next steps</p><h2>Practise this skill</h2><p>Use the linked homework, practice and test to move from recognition to independent problem solving.</p><div class="cta"><a href="/quiz/year-9/math/${codeLower}/homework/">Homework</a><a class="primary" href="/quiz/year-9/math/${codeLower}/practice/">Practice</a><a href="/quiz/year-9/math/${codeLower}/test/">Test</a></div></section><p class="footer">SkillrHub • Australian Curriculum aligned Year 9 Maths topic guide</p></main></body></html>`;
+          }
+          for (const p of pages) fs.writeFileSync(p.path, page(p));
+          NODE
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add year9/maths/ac9m9sp01-the-constancy-of-the-sine-cosine-and-tangent-ratios-for/index.html year9/maths/ac9m9sp02-apply-the-enlargement-transformation-to-shapes-and-objects/index.html year9/maths/ac9m9sp03-design-test-and-refine-algorithms-involving-a-sequence-of-steps/index.html
+          git diff --cached --quiet && exit 0
+          git commit -m "Deepen Year 9 Maths SP01-SP03 topic pages"
+          git push
