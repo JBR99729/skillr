@@ -1,236 +1,44 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m7m01-p-001",
-    "curriculumCode": "AC9M7M01",
-    "bank": "practice",
-    "skill": "find a triangle area",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving find a triangle area. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving find a triangle area. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "For b=12 cm and h=7 cm, triangle area=42 cm²",
-      "Sloping side used as height",
-      "Locate or construct the perpendicular distance",
-      "Shortest distance at right angles to the base"
-    ],
-    "correct": 0,
-    "explanation": "For b=12 cm and h=7 cm, triangle area=42 cm²\nHint: Locate or construct the perpendicular distance.",
-    "structuredExplanation": {
-      "summary": "For b=12 cm and h=7 cm, triangle area=42 cm²",
-      "hint": "Locate or construct the perpendicular distance."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m01-p-002",
-    "curriculumCode": "AC9M7M01",
-    "bank": "practice",
-    "skill": "choose perpendicular height",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving choose perpendicular height. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving choose perpendicular height. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Triangle factor one-half omitted",
-      "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
-      "Two congruent triangles form a parallelogram",
-      "Shortest distance at right angles to the base"
-    ],
-    "correct": 1,
-    "explanation": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.\nHint: Two congruent triangles form a parallelogram.",
-    "structuredExplanation": {
-      "summary": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
-      "hint": "Two congruent triangles form a parallelogram."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m01-p-003",
-    "curriculumCode": "AC9M7M01",
-    "bank": "practice",
-    "skill": "find a missing dimension",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving find a missing dimension. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving find a missing dimension. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mixed length units multiplied",
-      "Convert first",
-      "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
-      "Shortest distance at right angles to the base"
-    ],
-    "correct": 2,
-    "explanation": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.\nHint: Convert first.",
-    "structuredExplanation": {
-      "summary": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
-      "hint": "Convert first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m01-p-004",
-    "curriculumCode": "AC9M7M01",
-    "bank": "practice",
-    "skill": "decompose a composite shape",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving decompose a composite shape. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving decompose a composite shape. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Perimeter calculated instead of area",
-      "Identify whether boundary or surface is required",
-      "Shortest distance at right angles to the base",
-      "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area."
-    ],
-    "correct": 3,
-    "explanation": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.\nHint: Identify whether boundary or surface is required.",
-    "structuredExplanation": {
-      "summary": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
-      "hint": "Identify whether boundary or surface is required."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m01-p-005",
-    "curriculumCode": "AC9M7M01",
-    "bank": "practice",
-    "skill": "use correct units",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies base in area of triangles and parallelograms?",
-    "audioPrompt": "Which statement correctly identifies base in area of triangles and parallelograms?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "For b=12 cm and h=7 cm, triangle area=42 cm²",
-      "Sloping side used as height",
-      "Locate or construct the perpendicular distance",
-      "Shortest distance at right angles to the base"
-    ],
-    "correct": 0,
-    "explanation": "For b=12 cm and h=7 cm, triangle area=42 cm²\nHint: Locate or construct the perpendicular distance.",
-    "structuredExplanation": {
-      "summary": "For b=12 cm and h=7 cm, triangle area=42 cm²",
-      "hint": "Locate or construct the perpendicular distance."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m01-p-006",
-    "curriculumCode": "AC9M7M01",
-    "bank": "practice",
-    "skill": "find a triangle area",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes square unit in area of triangles and parallelograms?",
-    "audioPrompt": "Which choice best describes square unit in area of triangles and parallelograms?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Triangle factor one-half omitted",
-      "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
-      "Two congruent triangles form a parallelogram",
-      "Shortest distance at right angles to the base"
-    ],
-    "correct": 1,
-    "explanation": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.\nHint: Two congruent triangles form a parallelogram.",
-    "structuredExplanation": {
-      "summary": "The height must be perpendicular to the chosen base. Sloping side length is not automatically the height.",
-      "hint": "Two congruent triangles form a parallelogram."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m01-p-007",
-    "curriculumCode": "AC9M7M01",
-    "bank": "practice",
-    "skill": "choose perpendicular height",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for perpendicular height in area of triangles and parallelograms?",
-    "audioPrompt": "What does correct use require for perpendicular height in area of triangles and parallelograms?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mixed length units multiplied",
-      "Convert first",
-      "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
-      "Shortest distance at right angles to the base"
-    ],
-    "correct": 2,
-    "explanation": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.\nHint: Convert first.",
-    "structuredExplanation": {
-      "summary": "Any side can be a base if its corresponding perpendicular height is used. Convert lengths before applying formulas.",
-      "hint": "Convert first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m01-p-008",
-    "curriculumCode": "AC9M7M01",
-    "bank": "practice",
-    "skill": "find a missing dimension",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving find a missing dimension. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving find a missing dimension. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Perimeter calculated instead of area",
-      "Identify whether boundary or surface is required",
-      "Shortest distance at right angles to the base",
-      "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area."
-    ],
-    "correct": 3,
-    "explanation": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.\nHint: Identify whether boundary or surface is required.",
-    "structuredExplanation": {
-      "summary": "A parallelogram has area base×perpendicular height, and a triangle with the same base and height has half that area.",
-      "hint": "Identify whether boundary or surface is required."
-    },
-    "qualitySchema": "production-v1"
-  }
-];
-window.quizQuestions = window.skillrPracticeQuestions;
+const q=(id,skill,question,answers,correct,summary,hint)=>({id,curriculumCode:"AC9M7M01",bank:"practice",skill,printable:true,type:"single",question,audioPrompt:question,answers,correct,explanation:`${summary}\nHint: ${hint}`,structuredExplanation:{summary,hint},qualitySchema:"production-v2"});
+window.skillrPracticeQuestions=[
+q("ac9m7m01-p-001","triangle formula","Why is the area of a triangle with base b and perpendicular height h equal to 1/2 bh?",["It is half the area of a matching parallelogram or rectangle","It is twice the area of a rectangle","Its perimeter is half a rectangle's","Its sloping sides are equal"],0,"A duplicate triangle can form a parallelogram or rectangle of area bh, so one triangle has half that area.","Think about doubling the triangle."),
+q("ac9m7m01-p-002","parallelogram formula","Which formula gives the area of a parallelogram?",["A=bh","A=1/2 bh","A=b+s","A=2(b+h)"],0,"Parallelogram area is base × perpendicular height.","Use the perpendicular height, not the slanted side."),
+q("ac9m7m01-p-003","rectangle to triangle","A rectangle is cut along a diagonal. What is the area of each triangle?",["Half the rectangle's area","The same as the rectangle","Twice the rectangle's area","One quarter of the rectangle's area"],0,"A diagonal splits a rectangle into two congruent triangles.","The two triangles exactly fill the rectangle."),
+q("ac9m7m01-p-004","perpendicular height","Which measurement must be used as h in A=1/2 bh?",["The perpendicular distance from base to opposite vertex","Any sloping side","The longest side","The perimeter divided by 3"],0,"Height is always perpendicular to the chosen base.","Look for a right angle to the base."),
+q("ac9m7m01-p-005","parallelogram rearrangement","A parallelogram is cut and rearranged into a rectangle. Which measurements stay relevant to area?",["Base and perpendicular height","Base and slanted side","Perimeter and angle","Diagonal and slanted side"],0,"The rearranged rectangle has the same base and perpendicular height.","Area is preserved by rearrangement."),
+q("ac9m7m01-p-006","units","A triangle has measurements in metres. What units should its area use?",["m²","m","m³","cm²"],0,"Area is measured in square units.","Area counts two-dimensional coverage."),
+q("ac9m7m01-p-007","triangle invariance","A triangle's base stays 12 cm and its top vertex slides along a line parallel to the base. What happens to its area?",["It stays constant","It always increases","It always decreases","It becomes zero"],0,"The base and perpendicular height are unchanged, so the area is unchanged.","Use A=1/2 bh."),
+q("ac9m7m01-p-008","parallelogram invariance","A parallelogram's base is fixed and its top edge slides sideways while remaining parallel to the base. Its perpendicular height stays fixed. What happens to area?",["It stays constant","It doubles","It halves","It depends on the slanted side"],0,"Area depends on base and perpendicular height, not slant.","Use A=bh."),
+q("ac9m7m01-p-009","triangle scaling","A triangle's base doubles while its height stays fixed. How does area change?",["It doubles","It quadruples","It stays the same","It halves"],0,"Area is directly proportional to base when height is fixed.","Compare 1/2 bh with 1/2 (2b)h."),
+q("ac9m7m01-p-010","triangle scaling","A triangle's base doubles and its height halves. What happens to its area?",["It stays the same","It doubles","It halves","It quadruples"],0,"The factors 2 and 1/2 cancel in 1/2 bh.","Track both scale factors."),
+q("ac9m7m01-p-011","triangle area","Find the area of a triangle with base 12 cm and perpendicular height 9 cm.",["54 cm²","108 cm²","42 cm²","21 cm²"],0,"A=1/2×12×9=54 cm².","Halve the product bh."),
+q("ac9m7m01-p-012","parallelogram area","Find the area of a parallelogram with base 15 m and perpendicular height 8 m.",["120 m²","60 m²","46 m²","23 m²"],0,"A=15×8=120 m².","Do not halve a parallelogram area."),
+q("ac9m7m01-p-013","shade sail cost","A triangular shade sail has area 32 m² and material costs $12 per m². What is the material cost?",["$384","$320","$256","$512"],0,"32×12=$384.","Multiply area by cost per square metre."),
+q("ac9m7m01-p-014","triangle comparison","Which triangle has the greatest area?",["b=16,h=8","b=10,h=12","b=8,h=15","b=12,h=10"],0,"Their areas are 64, 60, 60 and 60 square units respectively.","Compare bh; the factor 1/2 is common."),
+q("ac9m7m01-p-015","parallelogram comparison","Which parallelogram has the smallest area?",["b=8,h=7","b=20,h=3","b=12,h=5","b=10,h=6"],0,"The areas are 56, 60, 60 and 60 square units.","Calculate b×h for each."),
+q("ac9m7m01-p-016","reverse triangle","A triangle has area 40 cm² and base 10 cm. What is its perpendicular height?",["8 cm","4 cm","10 cm","5 cm"],0,"40=1/2×10×h=5h, so h=8 cm.","Rearrange A=1/2 bh."),
+q("ac9m7m01-p-017","reverse parallelogram","A parallelogram has area 96 cm² and base 12 cm. What is its height?",["8 cm","6 cm","12 cm","4 cm"],0,"h=96÷12=8 cm.","Use h=A÷b."),
+q("ac9m7m01-p-018","equal area","Which pair has equal area?",["Triangle b=10,h=12 and parallelogram b=5,h=12","Triangle b=8,h=10 and parallelogram b=8,h=10","Triangle b=20,h=5 and parallelogram b=10,h=5","Triangle b=12,h=8 and parallelogram b=4,h=8"],0,"The triangle area is 60 and the parallelogram area is 60.","Remember the triangle has the 1/2 factor."),
+q("ac9m7m01-p-019","dimension combinations","Which triangle has area 50 cm²?",["b=20,h=5","b=10,h=5","b=25,h=2","b=12,h=9"],0,"1/2×20×5=50 cm².","Check 1/2 bh."),
+q("ac9m7m01-p-020","dimension combinations","Which parallelogram has area 84 cm²?",["b=12,h=7","b=14,h=5","b=8,h=9","b=21,h=3"],0,"12×7=84 cm².","Use base × perpendicular height."),
+q("ac9m7m01-p-021","error analysis","A student uses the 13 cm slanted side as the height of a parallelogram with base 10 cm. Why may this be wrong?",["Height must be perpendicular to the base","Height must equal the base","Slanted sides are never measured","Area cannot use centimetres"],0,"The height in A=bh is the perpendicular distance between parallel sides.","Look for the right angle."),
+q("ac9m7m01-p-022","error analysis","A student calculates a triangle's area as 12×7=84 cm². What is the likely error?",["They forgot to multiply by 1/2","They used square units","They should add base and height","They should double 84"],0,"Triangle area requires half of base × height.","Compare triangle and parallelogram formulas."),
+q("ac9m7m01-p-023","dynamic geometry","A triangle is dragged so its shape changes but base and perpendicular height remain 10 cm and 6 cm. What area should the software continue to show?",["30 cm²","60 cm²","16 cm²","20 cm²"],0,"A=1/2×10×6=30 cm² regardless of slant.","Shape can change while b and h stay fixed."),
+q("ac9m7m01-p-024","dynamic geometry","A parallelogram has base 9 cm and height 5 cm. Its slant changes. What area remains invariant?",["45 cm²","22.5 cm²","28 cm²","14 cm²"],0,"A=9×5=45 cm².","Slant is irrelevant when b and h are fixed."),
+q("ac9m7m01-p-025","design","A triangular sail must have area 48 m² and base 12 m. What height is required?",["8 m","4 m","6 m","12 m"],0,"48=1/2×12×h=6h, so h=8 m.","Solve for h."),
+q("ac9m7m01-p-026","design","A parallelogram paving section must cover 150 m² with base 25 m. What perpendicular height is needed?",["6 m","5 m","12 m","25 m"],0,"h=150÷25=6 m.","Use A=bh."),
+q("ac9m7m01-p-027","composite reasoning","A 20 cm × 12 cm rectangle is split diagonally. What is the area of one triangle?",["120 cm²","240 cm²","64 cm²","32 cm²"],0,"Rectangle area is 240 cm²; each diagonal triangle is half, 120 cm².","Find rectangle area first."),
+q("ac9m7m01-p-028","cost application","Shade cloth costs $15 per m². A triangular sail has base 10 m and height 6 m. What is the cost?",["$450","$900","$150","$300"],0,"Area=30 m², so cost=30×15=$450.","Area first, then cost."),
+q("ac9m7m01-p-029","reasoning","Two triangles have the same base and the same perpendicular height but different sloping sides. Which statement is true?",["They have equal area","The one with longer sloping sides has larger area","They must have equal perimeter","They must be congruent"],0,"Triangle area depends only on base and perpendicular height.","Do not confuse area with side lengths."),
+q("ac9m7m01-p-030","reasoning","Two parallelograms have the same base and perpendicular height but different angles. Which statement is true?",["They have equal area","The more slanted one has less area","The more rectangular one has more area","Their areas depend on perimeter"],0,"A=bh for both, so their areas are equal.","Angle does not appear in the area formula."),
+q("ac9m7m01-p-031","scale reasoning","A triangle's base is multiplied by 3 and height by 2. By what factor does area change?",["6","5","3","2"],0,"Area scales by the product 3×2=6.","The 1/2 factor stays unchanged."),
+q("ac9m7m01-p-032","scale reasoning","A parallelogram's base is halved and height tripled. By what factor does area change?",["3/2","1/2","3","6"],0,"Area factor=(1/2)×3=3/2.","Multiply the scale factors."),
+q("ac9m7m01-p-033","comparison","A triangle and parallelogram share base 14 cm and height 8 cm. How are their areas related?",["The parallelogram has twice the triangle's area","They have equal area","The triangle has twice the parallelogram's area","Their areas cannot be compared"],0,"Triangle area is half bh; parallelogram area is bh.","Same b and h makes the comparison immediate."),
+q("ac9m7m01-p-034","reverse reasoning","A triangle has area 72 cm² and height 12 cm. What is its base?",["12 cm","6 cm","24 cm","18 cm"],0,"72=1/2×b×12=6b, so b=12 cm.","Rearrange for b."),
+q("ac9m7m01-p-035","multi-step","A triangular garden has base 18 m and height 10 m. Fertiliser covers 30 m² per bag. How many whole bags are needed?",["3","6","2","4"],0,"Area=90 m²; 90÷30=3 bags.","Calculate area before coverage."),
+q("ac9m7m01-p-036","multi-step","A parallelogram floor has base 14 m and height 9 m. Tiles cover 7 m² per box. How many boxes are needed?",["18","9","14","21"],0,"Area=126 m²; 126÷7=18 boxes.","Find area then divide by coverage."),
+q("ac9m7m01-p-037","area invariance","Which condition guarantees a triangle keeps the same area while its top vertex moves?",["Base and perpendicular height remain fixed","Perimeter remains fixed","One sloping side remains fixed","One angle remains fixed"],0,"A=1/2 bh depends on base and perpendicular height.","Identify the quantities in the formula."),
+q("ac9m7m01-p-038","area invariance","Which condition guarantees a parallelogram keeps the same area while its slant changes?",["Base and perpendicular height remain fixed","Perimeter remains fixed","Slanted side remains fixed","Angles remain fixed"],0,"A=bh depends only on base and perpendicular height.","Ignore dimensions not in the formula."),
+q("ac9m7m01-p-039","reasonableness","A triangle has base 20 cm and height 5 cm. A student reports area 100 cm². Which evaluation is correct?",["Incorrect; the area is 50 cm²","Correct","Incorrect; the area is 25 cm²","Incorrect; the area is 200 cm²"],0,"Triangle area is half of 20×5, which is 50 cm².","Remember the 1/2 factor."),
+q("ac9m7m01-p-040","reasoning","A triangle's height increases from 6 cm to 9 cm while base stays fixed. By what factor does area change?",["1.5","3","0.5","2"],0,"With base fixed, area scales in direct proportion to height: 9/6=1.5.","Compare the heights." )];
+window.quizQuestions=window.skillrPracticeQuestions;
