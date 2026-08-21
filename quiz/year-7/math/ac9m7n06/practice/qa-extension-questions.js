@@ -1,0 +1,14 @@
+"use strict";
+const qx=(id,skill,question,answers,correct,summary,hint)=>({id,curriculumCode:"AC9M7N06",bank:"practice",skill,printable:true,type:"single",question,audioPrompt:question,answers,correct,explanation:`${summary}\nHint: ${hint}`,structuredExplanation:{summary,hint},qualitySchema:"production-v2"});
+window.skillrPracticeQuestions=window.skillrPracticeQuestions||[];
+window.skillrPracticeQuestions.push(
+qx("ac9m7n06-p-033","unit rate division","A 2.4 L drink is poured equally into 0.3 L servings. How many servings are made?",["8","0.8","6","12"],0,"2.4 ÷ 0.3 = 8.","Scale both decimals by 10."),
+qx("ac9m7n06-p-034","fraction scaling","A 3/5 kg packet is split into 4 equal portions. What is the mass of each portion?",["3/20 kg","3/9 kg","12/5 kg","1/5 kg"],0,"3/5 ÷ 4 = 3/5 × 1/4 = 3/20 kg.","Dividing by 4 is multiplying by 1/4."),
+qx("ac9m7n06-p-035","percent fraction connection","Which calculation gives 45% of 180 most directly?",["0.45 × 180","45 × 180","180 ÷ 45","1.45 × 180"],0,"45% = 0.45, so 0.45 × 180 gives the required part.","Convert percent to a multiplier."),
+qx("ac9m7n06-p-036","reasoning about multiplication","Without calculating exactly, which statement about 5/6 × 72 is true?",["The answer is less than 72 but greater than 36","The answer is greater than 72","The answer is less than 12","The answer must equal 72"],0,"5/6 is between 1/2 and 1, so the product is between half of 72 and 72.","Use the size of the fraction as a multiplier."),
+qx("ac9m7n06-p-037","inverse operations","Which calculation checks that 2.1 ÷ 0.7 = 3?",["3 × 0.7 = 2.1","3 + 0.7 = 3.7","2.1 × 0.7 = 1.47","2.1 − 0.7 = 1.4"],0,"Multiplication is the inverse of division: 3 × 0.7 = 2.1.","Undo the division with multiplication."),
+qx("ac9m7n06-p-038","multi-step money","A $60 item is discounted by 20%, then a $5 voucher is applied. What is the final price?",["$43","$48","$35","$55"],0,"20% of $60 is $12, so $48 remains; subtract $5 to get $43.","Apply the percentage change before the fixed-dollar voucher."),
+qx("ac9m7n06-p-039","fraction decimal comparison","Which expression has the greatest value?",["3/4 + 0.4","0.6 + 1/2","5/8 + 0.45","0.9 + 1/5"],0,"The values are 1.15, 1.10, 1.075 and 1.10, so 3/4 + 0.4 is greatest.","Convert each expression to the same form."),
+qx("ac9m7n06-p-040","planning strategy","A student needs to calculate 62.5% of 48. Which strategy is most efficient?",["Use 62.5% = 5/8, then 48 ÷ 8 × 5","Multiply 62.5 × 48","Round 62.5% to 60%","Convert 48 to 48%"],0,"62.5% = 5/8, so 48 ÷ 8 × 5 = 30.","Recognise the common fraction equivalent 5/8.")
+);
+window.quizQuestions=window.skillrPracticeQuestions;
