@@ -1,0 +1,92 @@
+name: Author Year 9 Science topic depth U04-U06
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/author-year9-science-topic-depth-u04-u06.trigger'
+
+permissions:
+  contents: write
+
+jobs:
+  update-pages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write deeper Year 9 Science topic pages
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          
+          CSS = ":root{--blue:#2457d6;--ink:#18324f;--muted:#5f728a;--line:#dce5f1;--soft:#f5f8ff;--green:#0b7a53;--amber:#8a5a00}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif;line-height:1.6}.page{max-width:1040px;margin:0 auto;padding:24px}.crumbs{font-size:.9rem;margin:0 0 14px;color:var(--muted)}.crumbs a{color:var(--blue);font-weight:700;text-decoration:none}.hero,.card,.grid-card{background:#fff;border:1px solid var(--line);border-radius:20px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:24px;margin:16px 0}.kicker{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--blue);font-weight:900;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3.2rem);line-height:1.05;margin:0 0 12px}h2{font-size:1.55rem;margin:0 0 12px}h3{font-size:1.1rem;margin:0 0 8px}.hero p{font-size:1.08rem;color:#304963;max-width:840px}.cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.cta a{display:inline-block;border-radius:999px;padding:10px 14px;text-decoration:none;font-weight:900;border:1px solid #cbd8ea;background:#fff;color:var(--blue)}.cta a.primary{background:var(--blue);color:#fff;border-color:var(--blue)}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.three{grid-template-columns:repeat(3,minmax(0,1fr))}.grid-card{margin:0}.worked{border-left:6px solid var(--green)}.warning{border-left:6px solid var(--amber)}.formula{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:#eef4ff;border:1px solid #d6e4ff;border-radius:12px;padding:10px 12px;display:inline-block}.steps{padding-left:1.3rem}.steps li{margin:8px 0}.checklist li{margin:6px 0}.note{background:var(--soft);border:1px solid var(--line);border-radius:14px;padding:14px}.footer{color:var(--muted);font-size:.9rem;margin:28px 0;text-align:center}@media(max-width:760px){.grid,.three{grid-template-columns:1fr}.page{padding:16px}h1{font-size:2.1rem}}"
+          
+          def page(code, title, description, canonical, hero, ideas, formulas, worked_title, worked_steps, misconceptions, checks, tip):
+              qcode = code.lower()
+              idea_html = ''.join(f'<div class="grid-card"><h3>Key idea</h3><p>{x}</p></div>' for x in ideas)
+              formula_html = ''.join(f'<div class="grid-card"><span class="formula">{x}</span></div>' for x in formulas)
+              worked_html = ''.join(f'<li>{x}</li>' for x in worked_steps)
+              misconception_html = ''.join(f'<li>{x}</li>' for x in misconceptions)
+              check_html = ''.join(f'<li>{x}</li>' for x in checks)
+              return f'''<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{title} | {code} Year 9 Science | SkillrHub</title><meta name="description" content="{description}"><link rel="canonical" href="https://skillrhub.com/{canonical}"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><link rel="stylesheet" href="/style.css"><style>{CSS}</style></head><body><main class="page"><p class="crumbs"><a href="/">Home</a> › <a href="/year9/curriculum/science/">Year 9 Science</a> › {code}</p><section class="hero"><p class="kicker">Year 9 Science • {code} • Topic guide</p><h1>{title}</h1><p>{hero}</p><div class="cta"><a class="primary" href="/quiz/year-9/science/{qcode}/practice/">Start practice</a><a href="/quiz/year-9/science/{qcode}/test/">Take test</a><a href="/quiz/year-9/science/{qcode}/homework/">Open homework</a></div></section><section class="card"><p class="kicker">Core understanding</p><h2>What students need to know</h2><div class="grid three">{idea_html}</div></section><section class="card"><p class="kicker">Scientific language and representations</p><h2>Useful rules and ways to represent the idea</h2><div class="grid">{formula_html}</div></section><section class="card worked"><p class="kicker">Worked example</p><h2>{worked_title}</h2><ol class="steps">{worked_html}</ol></section><section class="card warning"><p class="kicker">Common misconceptions</p><h2>What to watch for</h2><ul class="checklist">{misconception_html}</ul></section><section class="card"><p class="kicker">Quick check</p><h2>Try these before moving on</h2><ol class="steps">{check_html}</ol></section><section class="card"><p class="kicker">Support tip</p><h2>For parents and teachers</h2><p class="note">{tip}</p></section><section class="card"><p class="kicker">Next steps</p><h2>Practise this skill</h2><p>Use the linked homework, practice and test to move from recognition to independent explanation.</p><div class="cta"><a href="/quiz/year-9/science/{qcode}/homework/">Homework</a><a class="primary" href="/quiz/year-9/science/{qcode}/practice/">Practice</a><a href="/quiz/year-9/science/{qcode}/test/">Test</a></div></section><p class="footer">SkillrHub • Australian Curriculum aligned Year 9 Science topic guide</p></main></body></html>'''
+          
+          pages = {
+            'year9/science/ac9s9u04-wave-and-particle-models-to-describe-energy-transfer-through/index.html': page(
+              'AC9S9U04',
+              'Wave and particle models of energy transfer',
+              'Year 9 Australian Curriculum Science topic guide for AC9S9U04: use wave and particle models to explain energy transfer through different materials and systems.',
+              'year9/science/ac9s9u04-wave-and-particle-models-to-describe-energy-transfer-through/',
+              'This topic helps students use models to explain how energy moves. Students compare wave models for light and sound with particle models for heating, conduction and energy transfer in matter.',
+              ['Waves transfer energy without transporting matter overall.', 'Sound needs particles in a medium, while light can travel through a vacuum.', 'Heating by conduction can be explained by particles transferring kinetic energy through collisions.', 'Models are useful because they show unseen processes, but every model has limits.'],
+              ['wave model: energy travels as oscillations', 'particle model: particles collide, vibrate or move to transfer energy', 'sound energy needs a medium', 'thermal conduction transfers energy from hotter particles to cooler particles'],
+              'Worked example: explaining why sound does not travel through space',
+              ['Sound is a mechanical wave.', 'Mechanical waves need particles to vibrate and pass energy along.', 'Space is close to a vacuum, so there are very few particles to vibrate.', 'Therefore, sound cannot travel through space in the same way it travels through air.', 'A strong answer names the model and links it to the evidence.'],
+              ['Saying waves always move matter from one place to another.', 'Thinking light and sound travel in the same way through all materials.', 'Using a particle model without explaining particle collisions or vibrations.', 'Forgetting that models simplify real systems and can have limitations.'],
+              ['Why can light travel from the Sun to Earth through space?', 'Use the particle model to explain conduction in a metal spoon.', 'Give one limitation of a simple wave diagram.'],
+              'Ask students to describe what is happening at the invisible level: what is moving, what is transferring energy, and what evidence supports the model?'
+            ),
+            'year9/science/ac9s9u05-apply-the-law-of-conservation-of-energy-to-analyse-system/index.html': page(
+              'AC9S9U05',
+              'Conservation of energy in systems',
+              'Year 9 Australian Curriculum Science topic guide for AC9S9U05: apply the law of conservation of energy to analyse energy transfers and transformations in systems.',
+              'year9/science/ac9s9u05-apply-the-law-of-conservation-of-energy-to-analyse-system/',
+              'This topic develops system thinking. Students identify energy stores, transfers and transformations, then use the law of conservation of energy to explain where energy goes in practical situations.',
+              ['Energy cannot be created or destroyed in a closed system.', 'Energy can be transferred between objects or transformed from one form to another.', 'Some energy is often dissipated to the surroundings as thermal energy or sound.', 'A system boundary helps decide what is being analysed and what counts as the surroundings.'],
+              ['total energy before = total energy after', 'useful energy output + wasted energy output = total input', 'efficiency = useful energy output ÷ total energy input × 100%', 'energy-flow diagrams show stores, transfers and transformations'],
+              'Worked example: analysing a falling ball',
+              ['At the top, the ball has gravitational potential energy.', 'As it falls, gravitational potential energy decreases.', 'The ball gains kinetic energy as its speed increases.', 'Some energy may be transferred to the surroundings through air resistance as thermal energy and sound.', 'The total energy is conserved when the system and surroundings are included.'],
+              ['Saying energy is “used up” instead of transferred or transformed.', 'Ignoring energy dissipated to the surroundings.', 'Forgetting to define the system being analysed.', 'Thinking conservation of energy means every device is perfectly efficient.'],
+              ['What energy transformation occurs when a battery powers a torch?', 'Why does a moving object slow down when friction acts?', 'Explain why “energy is lost” is not precise scientific language.'],
+              'Make students finish energy explanations with “where did the energy go?” This pushes them beyond naming energy forms into conservation reasoning.'
+            ),
+            'year9/science/ac9s9u06-explain-how-the-model-of-the-atom-changed-following-the/index.html': page(
+              'AC9S9U06',
+              'How the atomic model changed with evidence',
+              'Year 9 Australian Curriculum Science topic guide for AC9S9U06: explain how the model of the atom changed after new evidence from experiments and scientific reasoning.',
+              'year9/science/ac9s9u06-explain-how-the-model-of-the-atom-changed-following-the/',
+              'This topic shows science as a changing body of knowledge. Students examine how atomic models developed when new evidence challenged older explanations.',
+              ['Scientific models change when new evidence explains observations better.', 'Dalton described atoms as tiny indivisible particles.', 'Thomson’s electron evidence showed atoms contain smaller charged particles.', 'Rutherford’s gold-foil evidence led to a nuclear model with a small dense positive nucleus.'],
+              ['model: a simplified explanation of something difficult to observe directly', 'evidence can support, refine or replace a model', 'Rutherford model: mostly empty space with a small positive nucleus', 'electrons are negatively charged particles within atoms'],
+              'Worked example: explaining Rutherford’s evidence',
+              ['Alpha particles were fired at thin gold foil.', 'Most passed straight through, suggesting atoms are mostly empty space.', 'A few were strongly deflected or bounced back.', 'This suggested positive charge and most mass were concentrated in a small nucleus.', 'The earlier plum-pudding model could not explain these rare large deflections well.'],
+              ['Thinking scientific models are guesses without evidence.', 'Saying Rutherford discovered that all particles bounced back.', 'Forgetting that most alpha particles passed through the foil.', 'Treating model change as failure rather than improvement.'],
+              ['What evidence showed atoms contain electrons?', 'Why did Rutherford infer that atoms are mostly empty space?', 'Explain why scientific models can change over time.'],
+              'Use a timeline and ask: what evidence did this model explain, and what could it not explain? This keeps the focus on evidence rather than memorising names.'
+            ),
+          }
+          
+          for path, html in pages.items():
+              Path(path).parent.mkdir(parents=True, exist_ok=True)
+              Path(path).write_text(html, encoding='utf-8')
+          PY
+      - name: Commit changes
+        run: |
+          git config user.name "skillr-bot"
+          git config user.email "skillr-bot@users.noreply.github.com"
+          git add year9/science/ac9s9u04-wave-and-particle-models-to-describe-energy-transfer-through/index.html year9/science/ac9s9u05-apply-the-law-of-conservation-of-energy-to-analyse-system/index.html year9/science/ac9s9u06-explain-how-the-model-of-the-atom-changed-following-the/index.html
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Deepen Year 9 Science U04-U06 topic pages"
+            git push
+          fi
