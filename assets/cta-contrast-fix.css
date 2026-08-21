@@ -1,0 +1,35 @@
+/* Ensure text stays readable on filled blue CTA surfaces. */
+a.button-link,
+a.curriculum-button.primary,
+.unit-action-row a.primary,
+.unit-action-row a[href*="/practice/"],
+.unit-action-row a[href*="/test/"],
+.topic-action-row a.primary,
+.topic-action-row a[href*="/practice/"],
+.topic-action-row a[href*="/test/"],
+a.learning-hub__button--primary,
+a.y10-primary,
+a.btn.p,
+.quick a,
+.sample .btn {
+  color: #fff;
+}
+
+.quick a,
+.sample .btn {
+  color: #1a3a72;
+}
+
+a.button-link:visited,
+a.curriculum-button.primary:visited,
+.unit-action-row a.primary:visited,
+.unit-action-row a[href*="/practice/"]:visited,
+.unit-action-row a[href*="/test/"]:visited,
+.topic-action-row a.primary:visited,
+.topic-action-row a[href*="/practice/"]:visited,
+.topic-action-row a[href*="/test/"]:visited,
+a.learning-hub__button--primary:visited,
+a.y10-primary:visited,
+a.btn.p:visited {
+  color: #fff;
+}
