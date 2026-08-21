@@ -1,6 +1,6 @@
 name: Refresh sitemaps
 
-# Manual rebuild marker: 2026-08-22
+# Manual rebuild marker: 2026-08-22 articles
 on:
   workflow_dispatch:
   schedule:
