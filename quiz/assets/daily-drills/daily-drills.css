@@ -1,41 +1,24 @@
-
-.daily-shell{width:min(100% - 28px,1180px);margin:0 auto;padding:26px 0 52px}
-.daily-hero{max-width:850px;margin:10px auto 28px;text-align:center}
-.daily-hero h1{margin:.25rem 0 .55rem;font-size:clamp(2rem,5vw,3.1rem);line-height:1.06}
-.daily-hero p{color:var(--muted,#5d6878);line-height:1.65;margin:.45rem auto}
-.daily-section{margin-top:34px}.daily-section h2{font-size:1.5rem;margin:0 0 14px}
-.daily-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
-.daily-card{display:flex;flex-direction:column;padding:19px;border:1px solid var(--border,#dfe4eb);border-radius:18px;background:#fff;box-shadow:0 5px 18px rgba(20,30,50,.05)}
-.daily-card h3{margin:7px 0 8px;font-size:1.14rem;line-height:1.3}.daily-card p{margin:0 0 15px;color:var(--muted,#5d6878);line-height:1.55}
-.daily-card .button{margin-top:auto;align-self:flex-start}.daily-pill{display:inline-flex;align-self:flex-start;padding:5px 9px;border-radius:999px;background:#eef4ff;font-size:.76rem;font-weight:800}
-.daily-note{margin:28px 0;padding:17px 19px;border:1px solid var(--border,#dfe4eb);background:#f8fafc;border-radius:15px;line-height:1.6;color:var(--muted,#5d6878)}
+/* SkillrHub Daily Drills — shared F–10 UX */
+.daily-shell{width:min(100% - 28px,1180px);margin:0 auto;padding:22px 0 52px;color:var(--text,#1f2937)}
+.daily-shell .quiz-breadcrumb{margin:10px 0 18px}.daily-shell .quiz-breadcrumb ol{display:flex;flex-wrap:wrap;gap:6px;margin:0;padding:0;list-style:none}.daily-shell .quiz-breadcrumb li+li:before{content:"›";margin-right:6px;color:#94a3b8}
+.daily-hero{position:relative;max-width:none;margin:8px auto 24px;padding:clamp(26px,5vw,48px);overflow:hidden;border:1px solid var(--border,#dbe5f2);border-radius:24px;background:linear-gradient(135deg,#fff 0%,#f3f7ff 100%);box-shadow:0 16px 40px rgba(15,23,42,.065);text-align:left}
+.daily-hero:after{position:absolute;right:-80px;top:-110px;width:280px;height:280px;border-radius:50%;background:rgba(36,87,214,.07);content:"";pointer-events:none}
+.daily-hero .eyebrow{position:relative;z-index:1;margin:0 0 8px;color:#2457d6;font-size:.78rem;font-weight:900;letter-spacing:.07em;text-transform:uppercase}
+.daily-hero h1{position:relative;z-index:1;max-width:850px;margin:.2rem 0 .65rem;font-size:clamp(2rem,5vw,3.6rem);line-height:1.04;text-wrap:balance}
+.daily-hero p{position:relative;z-index:1;max-width:800px;margin:.35rem 0;color:var(--muted,#5d6878);font-size:clamp(1rem,2vw,1.16rem);line-height:1.62}
+.daily-index-nav{position:sticky;z-index:20;top:8px;display:flex;gap:9px;flex-wrap:wrap;justify-content:flex-start;margin:0 0 26px;padding:10px;border:1px solid var(--border,#dbe5f2);border-radius:14px;background:rgba(255,255,255,.94);box-shadow:0 8px 24px rgba(15,23,42,.06);backdrop-filter:blur(10px)}
+.daily-index-nav .button{min-height:42px;padding:9px 16px;border-radius:9px;font-weight:850}.daily-index-nav .button-primary,.daily-index-nav .button-primary:visited{background:#1a3a72!important;border-color:#1a3a72!important;color:#fff!important}.daily-index-nav .button-primary:hover{background:#2457d6!important;border-color:#2457d6!important;color:#fff!important}
+.daily-section{margin-top:34px;scroll-margin-top:88px}.daily-section>h2{display:flex;align-items:center;gap:9px;margin:0 0 14px;color:#173968;font-size:clamp(1.4rem,3vw,1.75rem)}.daily-section>h2:after{height:1px;flex:1;background:#dbe5f2;content:""}
+.daily-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px}
+.daily-card{display:flex;min-height:250px;padding:19px;flex-direction:column;border:1px solid var(--border,#dfe4eb);border-radius:17px;background:#fff;box-shadow:0 8px 24px rgba(20,30,50,.045);transition:transform .18s ease,border-color .18s ease,box-shadow .18s ease}.daily-card:hover{border-color:#b8cbef;box-shadow:0 14px 32px rgba(20,30,50,.08);transform:translateY(-2px)}
+.daily-card h3{margin:8px 0 8px;font-size:1.16rem;line-height:1.3}.daily-card h3 a{color:#173968;text-decoration:none}.daily-card h3 a:hover{color:#2457d6;text-decoration:underline;text-underline-offset:3px}.daily-card p{margin:0 0 13px;color:var(--muted,#5d6878);line-height:1.52}.daily-card .button{align-self:stretch;margin-top:auto;text-align:center}.daily-card .button-primary,.daily-card .button-primary:visited{background:#1a3a72!important;border-color:#1a3a72!important;color:#fff!important}.daily-card .button-primary:hover{background:#2457d6!important;border-color:#2457d6!important;color:#fff!important}
+.daily-pill{display:inline-flex;align-self:flex-start;padding:5px 9px;border-radius:999px;background:#eef4ff;color:#2457d6;font-size:.73rem;font-weight:900;letter-spacing:.04em}.daily-bank-badge{display:inline-flex;align-self:flex-start;margin-top:auto!important;margin-bottom:12px!important;padding:5px 8px;border-radius:8px;background:#f8fafc;color:#64748b!important;font-size:.79rem;font-weight:800}
+.daily-note{margin:30px 0 0;padding:18px 20px;border:1px solid var(--border,#dfe4eb);border-radius:15px;background:#f8fbff;color:var(--muted,#5d6878);line-height:1.6}.daily-note strong{color:#173968}
 .daily-seo-copy{max-width:850px;margin:28px auto;color:var(--muted,#5d6878);line-height:1.7}.daily-seo-copy h2,.daily-seo-copy h3{color:var(--text,#1f2937)}
-.daily-topic-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.daily-topic-links a{padding:7px 10px;border:1px solid var(--border,#dfe4eb);border-radius:999px;text-decoration:none}
-.daily-practice-actions{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:17px}
-.daily-quick-support{max-width:780px;margin:18px auto 4px;border:1px solid var(--border,#dfe4eb);border-radius:16px;background:#f8fafc;text-align:left;overflow:hidden}
-.daily-quick-summary{cursor:pointer;padding:15px 17px;font-weight:800;list-style:none}.daily-quick-summary::-webkit-details-marker{display:none}
-.daily-quick-body{padding:0 17px 17px;border-top:1px solid var(--border,#dfe4eb)}.daily-quick-title{font-size:1.18rem;margin:15px 0 6px}
-.daily-quick-text,.daily-mode-note{line-height:1.65;color:var(--text,#344054)}.daily-quick-subtitle{font-size:1rem;margin:13px 0 6px}
-.daily-quick-list{padding-left:21px;line-height:1.55}.daily-keyword-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}
-.daily-keyword{background:#fff;border:1px solid var(--border,#e3e8ef);border-radius:9px;padding:8px 9px;line-height:1.4;font-size:.91rem}
-.daily-formula-box,.daily-example,.daily-trap{background:#fff;border:1px solid var(--border,#e3e8ef);border-radius:9px;padding:9px 10px;line-height:1.5}
-.daily-trap{border-left:4px solid var(--primary,#356ae6)}.daily-mode-note{font-size:.88rem;color:var(--muted,#667085)}
-.daily-bank-badge{font-weight:700}.daily-index-nav{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin:16px 0}
-@media(max-width:900px){.daily-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:640px){.daily-shell{width:min(100% - 18px,1180px);padding-top:18px}.daily-grid{grid-template-columns:1fr}.daily-keyword-grid{grid-template-columns:1fr}.daily-practice-actions{display:grid;grid-template-columns:1fr}.daily-practice-actions .button{width:100%}}
-
-.english-passage-card{max-width:860px;margin:18px auto;padding:20px;text-align:left}
-.english-passage-card h2{margin:.25rem 0 .75rem;font-size:1.35rem}
-.english-passage-text{white-space:normal;line-height:1.75;color:var(--text,#263244);font-size:1rem}
-@media(max-width:640px){.english-passage-card{padding:16px}.english-passage-text{line-height:1.68}}
-
-/* Compact directory density while keeping touch targets comfortable */
-.daily-shell{padding:16px 0 34px}
-.daily-hero{margin:6px auto 18px}
-.daily-hero h1{margin:.15rem 0 .35rem}
-.daily-section{margin-top:22px}.daily-section h2{margin-bottom:10px}
-.daily-grid{gap:11px}
-.daily-card{padding:15px;border-radius:14px}
-.daily-card h3{margin:5px 0 6px}.daily-card p{margin-bottom:11px}
-.daily-note,.daily-seo-copy{margin:20px auto}
-.daily-quick-support{margin-top:13px}.daily-quick-summary{padding:12px 14px}.daily-quick-body{padding:0 14px 14px}
+.daily-topic-links{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.daily-topic-links a{padding:7px 10px;border:1px solid var(--border,#dfe4eb);border-radius:999px;background:#fff;text-decoration:none}.daily-topic-links a:hover{border-color:#2457d6;background:#f3f7ff}
+.daily-practice-actions{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-top:17px}.daily-practice-actions .button-primary,.daily-practice-actions .button-primary:visited{color:#fff!important}
+.daily-quick-support{max-width:780px;margin:18px auto 4px;overflow:hidden;border:1px solid var(--border,#dfe4eb);border-radius:16px;background:#f8fafc;text-align:left}.daily-quick-summary{padding:15px 17px;cursor:pointer;font-weight:800;list-style:none}.daily-quick-summary::-webkit-details-marker{display:none}.daily-quick-body{padding:0 17px 17px;border-top:1px solid var(--border,#dfe4eb)}.daily-quick-title{margin:15px 0 6px;font-size:1.18rem}.daily-quick-text,.daily-mode-note{color:var(--text,#344054);line-height:1.65}.daily-quick-subtitle{margin:13px 0 6px;font-size:1rem}.daily-quick-list{padding-left:21px;line-height:1.55}.daily-keyword-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}.daily-keyword{padding:8px 9px;border:1px solid var(--border,#e3e8ef);border-radius:9px;background:#fff;font-size:.91rem;line-height:1.4}.daily-formula-box,.daily-example,.daily-trap{padding:9px 10px;border:1px solid var(--border,#e3e8ef);border-radius:9px;background:#fff;line-height:1.5}.daily-trap{border-left:4px solid var(--primary,#356ae6)}.daily-mode-note{color:var(--muted,#667085);font-size:.88rem}
+.english-passage-card{max-width:860px;margin:18px auto;padding:20px;text-align:left}.english-passage-card h2{margin:.25rem 0 .75rem;font-size:1.35rem}.english-passage-text{color:var(--text,#263244);font-size:1rem;line-height:1.75;white-space:normal}
+.daily-shell a:focus-visible,.daily-shell button:focus-visible,.daily-shell summary:focus-visible{outline:3px solid rgba(36,87,214,.35);outline-offset:3px}
+@media(max-width:900px){.daily-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.daily-index-nav{position:static}}
+@media(max-width:640px){.daily-shell{width:min(100% - 18px,1180px);padding-top:14px}.daily-hero{padding:24px 19px;border-radius:19px}.daily-grid{grid-template-columns:1fr}.daily-card{min-height:0}.daily-keyword-grid{grid-template-columns:1fr}.daily-practice-actions{display:grid;grid-template-columns:1fr}.daily-practice-actions .button{width:100%}.daily-index-nav{display:grid;grid-template-columns:repeat(3,1fr);padding:7px}.daily-index-nav .button{padding:8px 6px}.english-passage-card{padding:16px}.english-passage-text{line-height:1.68}}
