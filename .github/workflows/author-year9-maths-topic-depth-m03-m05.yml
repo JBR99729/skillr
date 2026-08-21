@@ -1,0 +1,79 @@
+name: Author Year 9 Maths topic depth M03-M05
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/author-year9-maths-topic-depth-m03-m05.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  author:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write deeper Year 9 Maths topic pages
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const esc = s => String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+          const style = `<style>:root{--blue:#2457d6;--ink:#18324f;--muted:#5f728a;--line:#dce5f1;--soft:#f5f8ff;--green:#0b7a53;--amber:#8a5a00}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif;line-height:1.6}.page{max-width:1040px;margin:0 auto;padding:24px}.crumbs{font-size:.9rem;margin:0 0 14px;color:var(--muted)}.crumbs a{color:var(--blue);font-weight:700;text-decoration:none}.hero,.card,.grid-card{background:#fff;border:1px solid var(--line);border-radius:20px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:24px;margin:16px 0}.kicker{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--blue);font-weight:900;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3.2rem);line-height:1.05;margin:0 0 12px}h2{font-size:1.55rem;margin:0 0 12px}h3{font-size:1.1rem;margin:0 0 8px}.hero p{font-size:1.08rem;color:#304963;max-width:840px}.cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}.cta a{display:inline-block;border-radius:999px;padding:10px 14px;text-decoration:none;font-weight:900;border:1px solid #cbd8ea;background:#fff;color:var(--blue)}.cta a.primary{background:var(--blue);color:#fff;border-color:var(--blue)}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.three{grid-template-columns:repeat(3,minmax(0,1fr))}.grid-card{margin:0}.worked{border-left:6px solid var(--green)}.warning{border-left:6px solid var(--amber)}.formula{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;background:#eef4ff;border:1px solid #d6e4ff;border-radius:12px;padding:10px 12px;display:inline-block}.steps{padding-left:1.3rem}.steps li{margin:8px 0}.checklist li{margin:6px 0}.mini-table{width:100%;border-collapse:collapse;margin-top:10px}.mini-table th,.mini-table td{border:1px solid var(--line);padding:10px;text-align:left;vertical-align:top}.mini-table th{background:var(--soft)}.note{background:var(--soft);border:1px solid var(--line);border-radius:14px;padding:14px}.footer{color:var(--muted);font-size:.9rem;margin:28px 0;text-align:center}@media(max-width:760px){.grid,.three{grid-template-columns:1fr}.page{padding:16px}h1{font-size:2.1rem}}</style>`;
+          const pages = [
+            {
+              code:'AC9M9M03', slug:'ac9m9m03-solve-spatial-problems-applying-angle-properties-scale', title:'Spatial problem solving with angle properties, scale and similarity',
+              desc:'Year 9 Australian Curriculum Maths topic guide for AC9M9M03: solve spatial problems using angle properties, scale factors, similarity, Pythagoras and introductory trigonometry.',
+              intro:'This topic brings geometry, scale and measurement together. Students learn to build a diagram, identify the useful triangle or angle relationship, choose a method and explain whether the answer is reasonable.',
+              ideas:['Angle properties help find missing information before calculation.','Scale factors connect drawings, maps, models and real objects.','Similar triangles keep equal angles and proportional side lengths.','Pythagoras and right-triangle trigonometry help solve height and distance problems.'],
+              formulas:['Scale factor = new length ÷ original length','Similar triangles: corresponding sides have the same ratio','Pythagoras: a² + b² = c²','tan(θ) = opposite ÷ adjacent'],
+              exampleTitle:'Worked example: estimate a tree height',
+              steps:['A student stands 12 m from a tree and measures the angle of elevation to the top as 35°.', 'Draw a right triangle: adjacent side = 12 m, opposite side = tree height.', 'Choose tangent because opposite and adjacent are involved.', 'height = 12 × tan(35°) ≈ 8.4 m.', 'The tree is about 8.4 m tall, assuming level ground and accurate angle measurement.'],
+              misconceptions:['Using the wrong trigonometric ratio because the sides are not labelled from the chosen angle.','Applying a scale factor to angles; scale changes lengths, not angle sizes.','Forgetting to check whether a triangle is right-angled before using Pythagoras.','Rounding too early in a multi-step spatial problem.'],
+              checks:['A model uses scale 1 cm : 2 m. What real distance is shown by 6.5 cm?','A right triangle has legs 5 m and 12 m. Find the hypotenuse.','Explain why similar triangles can be used to estimate a height.'],
+              tip:'Ask students to draw and label the diagram before calculating. Most errors happen before the first calculation, when the wrong side, angle or scale is chosen.'
+            },
+            {
+              code:'AC9M9M04', slug:'ac9m9m04-calculate-and-interpret-absolute-relative-and-percentage-errors', title:'Absolute, relative and percentage error',
+              desc:'Year 9 Australian Curriculum Maths topic guide for AC9M9M04: calculate and interpret absolute error, relative error and percentage error in measurement contexts.',
+              intro:'This topic helps students judge how accurate a measurement or estimate is. The focus is not only calculating error, but explaining what the error means in a real situation.',
+              ideas:['Absolute error measures the size of the difference in original units.','Relative error compares the error to the accepted or exact value.','Percentage error expresses relative error as a percentage.','A small absolute error may still be large if the true value is very small.'],
+              formulas:['absolute error = |measured value − true value|','relative error = absolute error ÷ true value','percentage error = relative error × 100%','use consistent units before comparing measurements'],
+              exampleTitle:'Worked example: calculate percentage error',
+              steps:['A length is measured as 48 cm. The actual length is 50 cm.', 'Absolute error = |48 − 50| = 2 cm.', 'Relative error = 2 ÷ 50 = 0.04.', 'Percentage error = 0.04 × 100% = 4%.', 'The measurement is 2 cm low, which is a 4% error.'],
+              misconceptions:['Subtracting in the wrong order and reporting a negative error when absolute error is required.','Forgetting to divide by the true or accepted value when finding relative error.','Using different units in the same calculation.','Thinking the smallest absolute error always means the most accurate comparison.'],
+              checks:['A mass is recorded as 9.8 kg but the actual mass is 10 kg. Find the absolute error.','Find the percentage error for a 3 mm error in a true length of 60 mm.','Explain why percentage error is useful when comparing two measurements of different size.'],
+              tip:'Use measurement examples from science, cooking, sport or construction. Students should always finish with a sentence: what does the error mean in context?'
+            },
+            {
+              code:'AC9M9M05', slug:'ac9m9m05-mathematical-modelling-to-solve-practical-problems-involving', title:'Modelling with proportion, scale and rates',
+              desc:'Year 9 Australian Curriculum Maths topic guide for AC9M9M05: use direct proportion, scale factors, unit rates and mathematical modelling to solve practical problems.',
+              intro:'This topic develops practical modelling skills. Students translate a real situation into a proportional relationship, calculate with units and check whether the model makes sense.',
+              ideas:['Direct proportion means one quantity is a constant multiple of another.','Unit rates compare per 1 item, per 1 hour, per 1 kilometre or per 1 unit.','Scale factors help connect drawings, maps, recipes and models.','A mathematical model is useful only when its assumptions are reasonable.'],
+              formulas:['y = kx for direct proportion','unit rate = quantity ÷ number of units','real distance = map distance × scale factor','average speed = distance ÷ time'],
+              exampleTitle:'Worked example: recipe scaling',
+              steps:['A recipe uses 300 g of flour for 4 serves.', 'Find the unit rate: 300 ÷ 4 = 75 g per serve.', 'For 10 serves: 75 × 10 = 750 g.', 'Check: 10 serves is 2.5 times 4 serves, and 300 × 2.5 = 750.', 'The model assumes the recipe scales directly.'],
+              misconceptions:['Adding instead of multiplying when scaling a proportional relationship.','Forgetting to use a unit rate when comparing value or speed.','Treating every real-life relationship as directly proportional.','Leaving out units, making the final answer hard to interpret.'],
+              checks:['A car travels 180 km in 3 hours. Find its average speed.','A map scale is 1 cm : 5 km. What real distance is 7 cm?','Explain one situation where direct proportion may not be a good model.'],
+              tip:'Encourage students to name the quantities and units first. Then ask, “Does doubling one quantity double the other?” before choosing a direct proportion model.'
+            }
+          ];
+          function page(p){
+            const cards = p.ideas.map(x=>`<div class="grid-card"><h3>Key idea</h3><p>${esc(x)}</p></div>`).join('');
+            const formulas = p.formulas.map(x=>`<div class="grid-card"><span class="formula">${esc(x)}</span></div>`).join('');
+            const steps = p.steps.map(x=>`<li>${esc(x)}</li>`).join('');
+            const mis = p.misconceptions.map(x=>`<li>${esc(x)}</li>`).join('');
+            const checks = p.checks.map(x=>`<li>${esc(x)}</li>`).join('');
+            return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(p.title)} | ${p.code} Year 9 Maths | SkillrHub</title><meta name="description" content="${esc(p.desc)}"><link rel="canonical" href="https://skillrhub.com/year9/maths/${p.slug}/"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><link rel="stylesheet" href="/style.css">${style}</head><body><main class="page"><p class="crumbs"><a href="/">Home</a> › <a href="/year9/curriculum/maths/">Year 9 Maths</a> › ${p.code}</p><section class="hero"><p class="kicker">Year 9 Maths • ${p.code} • Topic guide</p><h1>${esc(p.title)}</h1><p>${esc(p.intro)}</p><div class="cta"><a class="primary" href="/quiz/year-9/math/${p.code.toLowerCase()}/practice/">Start practice</a><a href="/quiz/year-9/math/${p.code.toLowerCase()}/test/">Take test</a><a href="/quiz/year-9/math/${p.code.toLowerCase()}/homework/">Open homework</a></div></section><section class="card"><p class="kicker">Core understanding</p><h2>What students need to know</h2><div class="grid three">${cards}</div></section><section class="card"><p class="kicker">Formulas and representations</p><h2>Useful rules and ways to represent the idea</h2><div class="grid">${formulas}</div></section><section class="card worked"><p class="kicker">Worked example</p><h2>${esc(p.exampleTitle)}</h2><ol class="steps">${steps}</ol></section><section class="card warning"><p class="kicker">Common misconceptions</p><h2>What to watch for</h2><ul class="checklist">${mis}</ul></section><section class="card"><p class="kicker">Quick check</p><h2>Try these before moving on</h2><ol class="steps">${checks}</ol></section><section class="card"><p class="kicker">Support tip</p><h2>For parents and teachers</h2><p class="note">${esc(p.tip)}</p></section><section class="card"><p class="kicker">Next steps</p><h2>Practise this skill</h2><p>Use the linked homework, practice and test to move from recognition to independent problem solving.</p><div class="cta"><a href="/quiz/year-9/math/${p.code.toLowerCase()}/homework/">Homework</a><a class="primary" href="/quiz/year-9/math/${p.code.toLowerCase()}/practice/">Practice</a><a href="/quiz/year-9/math/${p.code.toLowerCase()}/test/">Test</a></div></section><p class="footer">SkillrHub • Australian Curriculum aligned Year 9 Maths topic guide</p></main></body></html>`;
+          }
+          for (const p of pages) fs.writeFileSync(`year9/maths/${p.slug}/index.html`, page(p));
+          NODE
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add year9/maths/ac9m9m03-solve-spatial-problems-applying-angle-properties-scale/index.html year9/maths/ac9m9m04-calculate-and-interpret-absolute-relative-and-percentage-errors/index.html year9/maths/ac9m9m05-mathematical-modelling-to-solve-practical-problems-involving/index.html
+          git diff --cached --quiet && exit 0
+          git commit -m "Deepen Year 9 Maths M03-M05 topic pages"
+          git push
