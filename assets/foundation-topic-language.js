@@ -6,6 +6,21 @@
 
   const path = window.location.pathname;
 
+  // Site-wide additive UX layer. CSS is tightly scoped to curriculum pages and
+  // the JS only enhances year landing/curriculum hubs; quiz engines are untouched.
+  if (!document.querySelector('link[href*="/assets/multi-audience-ux.css"]')) {
+    const uxStyle = document.createElement("link");
+    uxStyle.rel = "stylesheet";
+    uxStyle.href = "/assets/multi-audience-ux.css?v=1";
+    document.head.appendChild(uxStyle);
+  }
+  if (!document.querySelector('script[src*="/assets/multi-audience-ux.js"]')) {
+    const uxScript = document.createElement("script");
+    uxScript.src = "/assets/multi-audience-ux.js?v=1";
+    uxScript.async = false;
+    document.head.appendChild(uxScript);
+  }
+
   // This bootstrap is loaded site-wide by pwa-register.js. Use it to ensure
   // every standard Practice/Test page gets learning analytics, including older
   // generated pages that do not explicitly load production-question-ui.js.
