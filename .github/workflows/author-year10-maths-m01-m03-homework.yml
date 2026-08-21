@@ -1,0 +1,134 @@
+name: Author Year 10 Maths M01-M03 homework
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/author-year10-maths-m01-m03-homework.trigger'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  author:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write authored homework pages
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const esc = s => String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+          const lineBlock = n => `<div class="answer-lines">${'<span></span>'.repeat(n)}</div>`;
+          const style = `<style>:root{--blue:#2457d6;--ink:#18324f;--muted:#62748a;--line:#dce5f1;--soft:#f5f8ff}body{margin:0;background:#f6f8fc;color:var(--ink);font-family:Arial,Helvetica,sans-serif}.hw-shell{max-width:980px;margin:auto;padding:24px}.hw-brand{display:flex;align-items:center;gap:12px;margin:0 0 14px;padding:12px 14px;border:1px solid #cbd8ea;border-radius:16px;background:#fff}.hw-brand__mark{display:grid;place-items:center;width:42px;height:42px;border-radius:12px;background:var(--blue);color:#fff;font-weight:900;font-size:1.35rem}.hw-brand strong{display:block;color:var(--blue);font-size:1.15rem}.hw-brand span{display:block;color:var(--muted);font-size:.9rem}.hw-nav{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:16px}.hw-nav a,.hw-print{border:1px solid #cbd8ea;border-radius:999px;background:#fff;color:var(--blue);font-weight:800;text-decoration:none;padding:8px 12px}.hw-print{cursor:pointer}.hw-hero,.hw-section,.hw-task{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 28px rgba(26,55,99,.06);padding:22px;margin:14px 0}.hw-kicker{color:var(--blue);font-size:.78rem;font-weight:900;letter-spacing:.08em;text-transform:uppercase;margin:0 0 8px}h1{font-size:clamp(2rem,5vw,3rem);line-height:1.08;margin:0 0 10px}.hw-meta{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:16px}.hw-meta div{background:var(--soft);border-radius:12px;padding:12px}.hw-questions{padding-left:1.2rem}.hw-questions li{break-inside:avoid;margin:0 0 18px}.hw-questions p{font-weight:700}.answer-lines{display:grid;gap:10px;margin-top:10px}.answer-lines span{display:block;border-bottom:1px solid #9fb0c5;min-height:24px}.hw-task{border-left:6px solid var(--blue)}.hw-footer{color:var(--muted);font-size:.9rem;text-align:center;margin:24px 0}@media print{body{background:#fff}.hw-shell{max-width:none;padding:0}.hw-nav,.hw-print{display:none}.hw-brand{display:flex!important;border:0;border-bottom:2px solid #2457d6;border-radius:0;margin:0 0 10px;padding:8px 0;background:#fff;box-shadow:none}.hw-brand__mark{background:#2457d6!important;color:#fff!important}.hw-hero,.hw-section,.hw-task{box-shadow:none;border-radius:0;border-left:0}.answer-lines span{min-height:22px}}</style>`;
+          const pages = [
+            {
+              code:'AC9M10M01',
+              title:'Composite surface area and volume',
+              guide:'/year10/maths/ac9m10m01-solve-problems-involving-the-surface-area-and-volume-of/',
+              intro:'Solve problems involving surface area and volume of composite solids by decomposing shapes, selecting suitable formulae and interpreting units in context.',
+              short:[
+                'State the difference between surface area and volume.',
+                'Find the volume of a rectangular prism measuring 5 cm by 4 cm by 3 cm.',
+                'Find the surface area of a cube with side length 6 cm.',
+                'Write the formula for the volume of a cylinder.',
+                'Write the formula for the curved surface area of a cylinder.',
+                'Explain why hidden internal faces are not counted in exposed surface area.',
+                'A cylinder has radius 3 cm and height 10 cm. Write, but do not evaluate, its volume expression.',
+                'Convert 2.5 L to cubic centimetres.',
+                'Name one common unit error in volume problems.',
+                'Give one real situation involving composite volume.'
+              ],
+              long:[
+                'A solid is made from two rectangular prisms: 8 cm by 5 cm by 4 cm and 4 cm by 5 cm by 3 cm. Find the total volume.',
+                'A cylinder of radius 4 cm and height 12 cm is attached to a hemisphere of radius 4 cm. Write an expression for the total volume.',
+                'A shipping box is 40 cm by 30 cm by 25 cm. Find its surface area and explain which faces are counted.',
+                'A water tank is a rectangular prism with a half-cylinder top. Describe how you would calculate its capacity.',
+                'A composite solid has overlapping faces where two prisms join. Explain how to avoid double-counting surface area.',
+                'Find the amount of paint needed to cover the outside of a cuboid shed, excluding the base, if the coverage is 1 L per 8 m^2.',
+                'A student uses square centimetres for volume. Explain the error and correct the units.',
+                'Design a composite object using at least two simple solids and calculate its volume.',
+                'Compare two packages with the same volume but different surface areas and explain why packaging material changes.',
+                'Solve a full practical problem involving a composite solid, including diagram description, formulae, calculation, units and interpretation.'
+              ],
+              task:'Find or design a real composite object, such as a tank, playground shape, package, building feature or container. Break it into simple solids, calculate approximate volume and surface area, and explain assumptions.'
+            },
+            {
+              code:'AC9M10M02',
+              title:'Logarithmic scales in context',
+              guide:'/year10/maths/ac9m10m02-interpret-and-use-logarithmic-scales-in-applied-contexts/',
+              intro:'Interpret and use logarithmic scales in applied contexts involving very small and very large quantities, such as pH, sound intensity, earthquakes and scientific measurement.',
+              short:[
+                'Explain why logarithmic scales are useful for very large ranges of values.',
+                'What does one unit increase on a base-10 logarithmic scale usually represent?',
+                'On the Richter-style earthquake scale, what does a difference of 1 magnitude suggest about scale size?',
+                'State whether pH 3 is more acidic or less acidic than pH 5.',
+                'How many times greater is 10^6 than 10^4?',
+                'Write 1000 as a power of 10.',
+                'Write 0.001 as a power of 10.',
+                'Explain why equal spacing on a logarithmic graph does not mean equal additive increases.',
+                'Name one real logarithmic scale.',
+                'Correct this misconception: “A logarithmic scale increases by adding the same amount each step.”'
+              ],
+              long:[
+                'Compare values of 10^2, 10^4 and 10^6 and explain how they would appear on a logarithmic scale.',
+                'Explain why pH 4 is ten times more acidic than pH 5, using the idea of powers of ten.',
+                'A sound is 100 times more intense than another. Express this as a difference of powers of ten.',
+                'A graph uses a logarithmic vertical scale for population. Explain why this may make exponential growth easier to compare.',
+                'Compare an earthquake of magnitude 6 with magnitude 4 in terms of scale steps, stating any assumptions.',
+                'Create a small table of values from 10^-3 to 10^3 and describe their spacing on a logarithmic axis.',
+                'Explain the difference between multiplying by 10 and adding 10 on an ordinary scale.',
+                'A student reads a logarithmic graph as if it were linear. Describe the mistake and its likely effect on interpretation.',
+                'Choose an applied context where data varies over many powers of ten and justify why a logarithmic scale helps.',
+                'Write a full explanation of a logarithmic scale using one applied example, including powers of ten and interpretation.'
+              ],
+              task:'Research one logarithmic scale, such as pH, decibels, earthquake magnitude or astronomical brightness. Explain what each step means, give two example values, and describe why a linear scale would be less useful.'
+            },
+            {
+              code:'AC9M10M03',
+              title:'Practical Pythagoras and right-triangle trigonometry',
+              guide:'/year10/maths/ac9m10m03-solve-practical-problems-applying-pythagoras-theorem-and/',
+              intro:'Solve practical problems using Pythagoras’ theorem and right-angled triangle trigonometry, including angles of elevation/depression, bearings-style diagrams and measurement contexts.',
+              short:[
+                'Write Pythagoras’ theorem for a right-angled triangle.',
+                'Find the hypotenuse when the shorter sides are 6 m and 8 m.',
+                'State the sine ratio in words.',
+                'State the cosine ratio in words.',
+                'State the tangent ratio in words.',
+                'Identify the opposite side to a given angle in a right triangle.',
+                'Choose the correct trig ratio when the opposite and adjacent sides are involved.',
+                'Explain what an angle of elevation is.',
+                'Explain why the hypotenuse must be the longest side.',
+                'Give one real situation that uses right-triangle trigonometry.'
+              ],
+              long:[
+                'A ladder 5 m long leans against a wall with its foot 1.2 m from the wall. Find how high it reaches.',
+                'A ramp rises 0.8 m over a horizontal distance of 6 m. Find the angle the ramp makes with the ground.',
+                'A tree casts a 14 m shadow when the angle of elevation of the Sun is 35°. Estimate the height of the tree.',
+                'A student uses sine when adjacent and hypotenuse are known. Explain how to choose the correct ratio.',
+                'A drone is 120 m horizontally from a marker and the angle of elevation is 28°. Estimate its height.',
+                'Solve a two-step problem where Pythagoras is needed before applying a trigonometric ratio.',
+                'Draw and label a right-triangle model for a practical height or distance problem, then solve it.',
+                'Explain how rounding too early can affect a trigonometry answer.',
+                'Create a practical problem involving an inaccessible height and solve it with tangent.',
+                'Write a full worked solution for a practical right-triangle problem, including diagram description, ratio choice, equation, calculation, units and reasonableness check.'
+              ],
+              task:'Find a real height or distance that could be estimated using right-triangle trigonometry, such as a tree, building, ramp, drone or flagpole. Draw the triangle model, state assumptions and calculate the unknown measurement.'
+            }
+          ];
+          function page(p){
+            const short = p.short.map(q=>`<li><p>${esc(q)}</p>${lineBlock(4)}</li>`).join('');
+            const long = p.long.map(q=>`<li><p>${esc(q)}</p>${lineBlock(8)}</li>`).join('');
+            return `<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,follow"><meta name="google-adsense-account" content="ca-pub-7734963540104771"><title>${p.code} Authored Homework | ${esc(p.title)}</title><meta name="description" content="Authored SkillrHub homework for Year 10 Maths ${p.code} with 10 short-answer questions, 10 long-answer questions and one research task."><link rel="canonical" href="https://skillrhub.com/quiz/year-10/math/${p.code.toLowerCase()}/homework/"><link rel="stylesheet" href="/style.css">${style}</head><body><main class="hw-shell"><header class="hw-brand" aria-label="SkillrHub homework branding"><div class="hw-brand__mark" aria-hidden="true">S</div><div><strong>SkillrHub</strong><span>Free Australian Curriculum homework • skillrhub.com</span></div></header><nav class="hw-nav" aria-label="Homework navigation"><a href="/">Home</a><a href="${p.guide}">Topic guide</a><a href="../practice/">Practice</a><a href="../test/">Test</a><button class="hw-print" type="button" onclick="window.print()">Print or save as PDF</button></nav><header class="hw-hero"><p class="hw-kicker">Year 10 Maths • ${p.code} • Authored homework</p><h1>${esc(p.title)}</h1><p>${esc(p.intro)} Show working, use correct units and check reasonableness.</p><div class="hw-meta"><div><strong>10</strong><br>Short-answer questions</div><div><strong>10</strong><br>Long-answer questions</div><div><strong>1</strong><br>Research/application task</div></div></header><section class="hw-section"><p class="hw-kicker">Part A</p><h2>Short-answer questions</h2><ol class="hw-questions">${short}</ol></section><section class="hw-section"><p class="hw-kicker">Part B</p><h2>Long-answer questions</h2><ol class="hw-questions">${long}</ol></section><section class="hw-task"><p class="hw-kicker">Part C</p><h2>Research and understanding task</h2><p>${esc(p.task)}</p>${lineBlock(10)}</section><p class="hw-footer">SkillrHub • Authored Year 10 Maths homework • Print or save as PDF</p></main></body></html>`;
+          }
+          for (const p of pages) fs.writeFileSync(`quiz/year-10/math/${p.code.toLowerCase()}/homework/index.html`, page(p));
+          NODE
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add quiz/year-10/math/ac9m10m01/homework/index.html quiz/year-10/math/ac9m10m02/homework/index.html quiz/year-10/math/ac9m10m03/homework/index.html
+          git diff --cached --quiet && exit 0
+          git commit -m "Author Year 10 Maths M01-M03 homework"
+          git push
