@@ -160,22 +160,10 @@ def render_page(source: str, code: str, title: str) -> str:
     card = feedback_card(code, title)
     index = insertion_index(clean)
 
-    # Preserve existing indentation without turning it into a whitespace-only
-    # added line. insertion_index points at the opening "<" of the next block,
-    # so any trailing spaces/tabs in prefix are that block's indentation.
-    prefix = clean[:index]
-    suffix = clean[index:]
-    indent_match = re.search(r"[ \t]+$", prefix)
-    indent = indent_match.group(0) if indent_match else ""
-    if indent:
-        prefix = prefix[: -len(indent)]
-    if prefix and not prefix.endswith(("\n", "\r")):
-        prefix += "\n"
-
-    if indent:
-        indented_card = card.replace("\n", f"\n{indent}")
-        return f"{prefix}{indent}{indented_card}\n{indent}{suffix}"
-    return f"{prefix}{card}\n{suffix}"
+    # The feedback card is the only byte-level addition. Keeping every byte on
+    # either side unchanged makes the rollout truly idempotent and lets CI prove
+    # that no curriculum teaching content was altered by this sitewide UI change.
+    return f"{clean[:index]}{card}{clean[index:]}"
 
 
 def validate_page(path: Path, source: str) -> list[str]:
