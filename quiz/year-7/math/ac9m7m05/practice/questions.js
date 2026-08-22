@@ -1,236 +1,45 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m7m05-p-001",
-    "curriculumCode": "AC9M7M05",
-    "bank": "practice",
-    "skill": "demonstrate 180",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
-      "Angles read from diagram appearance",
-      "Use given markings and relationships",
-      "Angle inside a polygon at a vertex"
-    ],
-    "correct": 0,
-    "explanation": "In an isosceles triangle with vertex angle 40°, each base angle is 70°\nHint: Use given markings and relationships.",
-    "structuredExplanation": {
-      "summary": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
-      "hint": "Use given markings and relationships."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m05-p-002",
-    "curriculumCode": "AC9M7M05",
-    "bank": "practice",
-    "skill": "find a missing angle",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Isosceles equality applied to wrong angles",
-      "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
-      "Equal sides face equal angles",
-      "Angle inside a polygon at a vertex"
-    ],
-    "correct": 1,
-    "explanation": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.\nHint: Equal sides face equal angles.",
-    "structuredExplanation": {
-      "summary": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
-      "hint": "Equal sides face equal angles."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m05-p-003",
-    "curriculumCode": "AC9M7M05",
-    "bank": "practice",
-    "skill": "use isosceles property",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exterior angle added as a fourth interior angle",
-      "Relate it to a straight line or remote interior angles",
-      "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
-      "Angle inside a polygon at a vertex"
-    ],
-    "correct": 2,
-    "explanation": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.\nHint: Relate it to a straight line or remote interior angles.",
-    "structuredExplanation": {
-      "summary": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
-      "hint": "Relate it to a straight line or remote interior angles."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m05-p-004",
-    "curriculumCode": "AC9M7M05",
-    "bank": "practice",
-    "skill": "use exterior angle theorem",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "180° rule extended to non-Euclidean surfaces without qualification",
-      "The code concerns Euclidean space",
-      "Angle inside a polygon at a vertex",
-      "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships."
-    ],
-    "correct": 3,
-    "explanation": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.\nHint: The code concerns Euclidean space.",
-    "structuredExplanation": {
-      "summary": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
-      "hint": "The code concerns Euclidean space."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m05-p-005",
-    "curriculumCode": "AC9M7M05",
-    "bank": "practice",
-    "skill": "write a deductive reason",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies exterior angle in triangle angle sum and unknown angles?",
-    "audioPrompt": "Which statement correctly identifies exterior angle in triangle angle sum and unknown angles?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
-      "Angles read from diagram appearance",
-      "Use given markings and relationships",
-      "Angle inside a polygon at a vertex"
-    ],
-    "correct": 0,
-    "explanation": "In an isosceles triangle with vertex angle 40°, each base angle is 70°\nHint: Use given markings and relationships.",
-    "structuredExplanation": {
-      "summary": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
-      "hint": "Use given markings and relationships."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m05-p-006",
-    "curriculumCode": "AC9M7M05",
-    "bank": "practice",
-    "skill": "demonstrate 180",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes Euclidean geometry in triangle angle sum and unknown angles?",
-    "audioPrompt": "Which choice best describes Euclidean geometry in triangle angle sum and unknown angles?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Isosceles equality applied to wrong angles",
-      "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
-      "Equal sides face equal angles",
-      "Angle inside a polygon at a vertex"
-    ],
-    "correct": 1,
-    "explanation": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.\nHint: Equal sides face equal angles.",
-    "structuredExplanation": {
-      "summary": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
-      "hint": "Equal sides face equal angles."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m05-p-007",
-    "curriculumCode": "AC9M7M05",
-    "bank": "practice",
-    "skill": "find a missing angle",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for interior angle in triangle angle sum and unknown angles?",
-    "audioPrompt": "What does correct use require for interior angle in triangle angle sum and unknown angles?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exterior angle added as a fourth interior angle",
-      "Relate it to a straight line or remote interior angles",
-      "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
-      "Angle inside a polygon at a vertex"
-    ],
-    "correct": 2,
-    "explanation": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.\nHint: Relate it to a straight line or remote interior angles.",
-    "structuredExplanation": {
-      "summary": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
-      "hint": "Relate it to a straight line or remote interior angles."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m05-p-008",
-    "curriculumCode": "AC9M7M05",
-    "bank": "practice",
-    "skill": "use isosceles property",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "180° rule extended to non-Euclidean surfaces without qualification",
-      "The code concerns Euclidean space",
-      "Angle inside a polygon at a vertex",
-      "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships."
-    ],
-    "correct": 3,
-    "explanation": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.\nHint: The code concerns Euclidean space.",
-    "structuredExplanation": {
-      "summary": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
-      "hint": "The code concerns Euclidean space."
-    },
-    "qualitySchema": "production-v1"
-  }
+const Q=(n,question,answers,correct,explanation,skill="triangle and polygon angles")=>({id:`ac9m7m05-p-${String(n).padStart(3,"0")}`,curriculumCode:"AC9M7M05",bank:"practice",skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation,structuredExplanation:{summary:explanation,hint:"Use the triangle sum of 180° or polygon sum 180(n−2), then check your result."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q(1,"The sum of the interior angles of any triangle is:",["90°","180°","270°","360°"],1,"Every triangle in the plane has an interior angle sum of 180°."),
+Q(2,"A triangle has angles 50°, 60° and x°. Find x.",["60°","70°","80°","90°"],1,"50+60+x=180, so x=70°."),
+Q(3,"A triangle has angles 35°, 75° and x°. Find x.",["60°","70°","80°","90°"],1,"35+75=110, so x=180−110=70°."),
+Q(4,"A triangle has angles 90°, 45° and x°. Find x.",["35°","45°","55°","60°"],1,"90+45+x=180, so x=45°."),
+Q(5,"A triangle has angles 2x°, 3x° and 4x°. Find x.",["10°","12°","15°","20°"],3,"2x+3x+4x=180, so 9x=180 and x=20°."),
+Q(6,"A triangle has angles x°, x° and 40°. Find x.",["60°","70°","80°","90°"],1,"2x+40=180, so 2x=140 and x=70°."),
+Q(7,"A triangle has angles 3x°, 3x° and 6x°. Find x.",["10°","15°","20°","30°"],1,"12x=180, so x=15°."),
+Q(8,"A triangle has angles 40°, x° and (x+20)°. Find x.",["40°","50°","60°","70°"],2,"40+x+x+20=180, so 2x=120 and x=60°."),
+Q(9,"A triangle has angles 2x°, 4x° and 6x°. What is the angle measuring 4x°?",["40°","60°","80°","100°"],1,"12x=180 gives x=15°, so 4x=60°."),
+Q(10,"A triangle has angles 30°, 70° and x°. Find x.",["70°","80°","90°","100°"],1,"30+70=100, so x=80°."),
+Q(11,"Tearing the three corners off a paper triangle and placing them together shows they form:",["A right angle","A straight line","A reflex angle","A full turn"],1,"The three corners fit along a straight line, visually demonstrating a total of 180°.","concrete demonstration"),
+Q(12,"The straight line formed by the three angles of a triangle represents:",["90°","180°","270°","360°"],1,"A straight angle measures 180°.","concrete demonstration"),
+Q(13,"The triangle angle sum is used as a basis to find angle sums of:",["Circles","Polygons","Sectors","Arcs"],1,"Polygons can be decomposed into triangles, so the triangle sum is the basis of polygon angle sums.","polygon decomposition"),
+Q(14,"The triangle angle sum is an example of:",["Measurement only","Geometric reasoning","Probability","Statistics"],1,"The 180° result is a geometric property used to reason about unknown angles."),
+Q(15,"Angles located inside a polygon at its vertices are called:",["Exterior angles","Interior angles","Reflex turns","Central angles"],1,"Interior angles lie inside the polygon at each vertex."),
+Q(16,"Why is the interior-angle sum 180° for every triangle in the plane?",["All triangles are congruent","It is a geometric property of the Euclidean plane","It depends on side length","It changes with area"],1,"The result is independent of the triangle's size or shape in Euclidean geometry."),
+Q(17,"Using several paper triangles to investigate angle sums is an example of:",["Algebraic factorisation","Concrete modelling","Probability simulation","Data coding"],1,"Physical triangles provide a concrete model of the 180° relationship.","concrete demonstration"),
+Q(18,"The triangle angle-sum rule holds for:",["Only right triangles","Only isosceles triangles","Only scalene triangles","All triangles in the plane"],3,"Right, acute, obtuse, scalene and isosceles triangles all have interior angles summing to 180°."),
+Q(19,"A triangle with angles 0°, 90° and 90° is:",["Possible","Impossible","Isosceles","Right"],1,"A triangle cannot have a 0° interior angle; it would be degenerate."),
+Q(20,"A triangle with angles 100°, 50° and 40° is:",["Possible","Impossible","Right","Isosceles"],1,"The angles total 190°, not 180°, so the triangle is impossible."),
+Q(21,"The interior angle sum of a quadrilateral is:",["180°","270°","360°","540°"],2,"180(4−2)=360°.","polygon angle sum"),
+Q(22,"The interior angle sum of a pentagon is:",["360°","540°","720°","900°"],1,"180(5−2)=540°.","polygon angle sum"),
+Q(23,"The interior angle sum of a hexagon is:",["360°","540°","720°","900°"],2,"180(6−2)=720°.","polygon angle sum"),
+Q(24,"The general formula for the interior angle sum of an n-sided polygon is:",["90n","180n","180(n−2)","360n"],2,"An n-gon can be decomposed into n−2 triangles, each contributing 180°.","polygon angle sum"),
+Q(25,"The interior angle sum of an octagon is:",["720°","900°","1080°","1260°"],2,"180(8−2)=1080°.","polygon angle sum"),
+Q(26,"A polygon has interior angle sum 900°. How many sides does it have?",["5","6","7","8"],2,"180(n−2)=900 gives n−2=5, so n=7.","reverse polygon formula"),
+Q(27,"A polygon has interior angle sum 1260°. How many sides does it have?",["8","9","10","11"],1,"180(n−2)=1260 gives n−2=7, so n=9.","reverse polygon formula"),
+Q(28,"The interior angle sum of a triangle can be written as:",["180(3−2)","180(3−1)","180(3−3)","180(3−4)"],0,"180(3−2)=180°, matching the triangle angle sum.","polygon angle sum"),
+Q(29,"The interior angle sum of a decagon is:",["1080°","1260°","1440°","1620°"],2,"180(10−2)=1440°.","polygon angle sum"),
+Q(30,"The expression 180n−360 is equivalent to:",["180(n+2)","180(n−2)","360(n−2)","90(n−2)"],1,"Factoring 180 from 180n−360 gives 180(n−2).","polygon formula algebra"),
+Q(31,"A quadrilateral has angles 90°, 80°, 70° and x°. Find x.",["90°","100°","120°","130°"],2,"A quadrilateral totals 360°. The known angles total 240°, so x=120°.","unknown polygon angle"),
+Q(32,"A pentagon has angles 100°, 120°, 95°, 85° and x°. Find x.",["120°","130°","140°","150°"],2,"A pentagon totals 540°. The known angles total 400°, so x=140°.","unknown polygon angle"),
+Q(33,"A hexagon has angles 100°, 110°, 120°, 130°, 140° and x°. Find x.",["60°","80°","100°","120°"],3,"A hexagon totals 720°. The five known angles total 600°, so x=120°.","unknown polygon angle"),
+Q(34,"A quadrilateral has angles x°, x°, 90° and 120°. Find x.",["60°","75°","80°","85°"],1,"2x+90+120=360, so 2x=150 and x=75°.","algebraic polygon angle"),
+Q(35,"A pentagon has angles 3x°, 3x°, 4x°, 5x° and 6x°. Find x to the nearest tenth of a degree.",["20.0°","25.7°","27.0°","30.0°"],1,"The pentagon total is 540°. Thus 21x=540 and x≈25.7°.","algebraic polygon angle"),
+Q(36,"A quadrilateral has angles 2x°, 3x°, 4x° and 5x°. Find x to the nearest tenth of a degree.",["20.0°","24.0°","25.7°","30.0°"],2,"The quadrilateral total is 360°. Thus 14x=360 and x≈25.7°.","algebraic polygon angle"),
+Q(37,"A quadrilateral has angles 90°, 90°, 90° and x°. Find x.",["60°","90°","120°","180°"],1,"A quadrilateral totals 360°, so x=360−270=90°.","unknown polygon angle"),
+Q(38,"A regular pentagon has equal interior angles. Each interior angle is:",["90°","100°","108°","120°"],2,"The sum is 540°. Dividing by 5 gives 108°.","regular polygon"),
+Q(39,"A regular hexagon has equal interior angles. Each interior angle is:",["100°","110°","120°","130°"],2,"The sum is 720°. Dividing by 6 gives 120°.","regular polygon"),
+Q(40,"A regular octagon has equal interior angles. Each interior angle is:",["120°","135°","140°","150°"],1,"The sum is 1080°. Dividing by 8 gives 135°.","regular polygon")
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
