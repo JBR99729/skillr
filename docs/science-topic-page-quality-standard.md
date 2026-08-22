@@ -34,7 +34,8 @@ Every Science topic page should contain, in age-appropriate depth:
 - Common misconceptions specific to the code.
 - Apply-and-transfer prompts using new contexts.
 - Australian Curriculum content description and elaboration coverage.
-- Direct links to Teacher Slides, Worksheet, Practice and Test.
+- Direct links to Teacher Slides, the year-level written resource, Practice and Test.
+- **Year 7 Science resource rule:** Homework is the sole written/printable resource. Do not expose a separate Worksheet link; legacy `/worksheet/` URLs may remain as redirects to Homework for compatibility.
 
 ## Year-level depth
 
