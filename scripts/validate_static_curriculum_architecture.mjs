@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { execSync } from 'node:child_process';
+import { execFileSync, execSync } from 'node:child_process';
 import fs from 'node:fs';
 
 const base = process.env.GITHUB_BASE_REF ? `origin/${process.env.GITHUB_BASE_REF}` : 'HEAD~1';
@@ -16,10 +16,35 @@ const errors = [];
 const publicDownload = /href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i;
 const runtimeDeck = /(?:teachingSlides|\.slides\.forEach|render.*slide|lower-materials-render|year\d+.*slides\.js|topic-modules-render|lesson-render)/i;
 
+// The feedback-card generator is additive UI, not curriculum teaching content.
+// When that marker-delimited block is the *only* difference from the PR base,
+// do not force an unrelated legacy topic page through a full architecture
+// migration. Any change outside the generated block still receives every
+// architecture check below.
+const generatedFeedback = /<!--\s*skillr-facebook-feedback:start\s*-->[\s\S]*?<!--\s*skillr-facebook-feedback:end\s*-->(?:\r?\n)?/gi;
+const legacyFeedbackPrototype = /<section\b[^>]*aria-labelledby=["']skillr-feedback-title(?:-[^"']*)?["'][^>]*>[\s\S]*?<\/section>(?:\r?\n)?/gi;
+
+function stripFeedback(html) {
+  return html.replace(generatedFeedback, '').replace(legacyFeedbackPrototype, '');
+}
+
+function isFeedbackOnlyChange(file, currentHtml) {
+  try {
+    const baseHtml = execFileSync('git', ['show', `${base}:${file}`], {
+      encoding: 'utf8',
+      maxBuffer: 20 * 1024 * 1024,
+    });
+    return stripFeedback(baseHtml) === stripFeedback(currentHtml);
+  } catch {
+    return false;
+  }
+}
+
 for (const file of changed) {
   if (!fs.existsSync(file)) continue;
   if (topicPath.test(file)) {
     const html = fs.readFileSync(file, 'utf8');
+    if (isFeedbackOnlyChange(file, html)) continue;
     if (!/<details\b/i.test(html) || !/<summary\b/i.test(html)) errors.push(`${file}: migrated topic pages must use native <details>/<summary> sections`);
     if (/id=["'](?:topicRoot|year\d+Topic|slideRoot)["'][^>]*>\s*(?:<p[^>]*>)?\s*Loading/i.test(html)) errors.push(`${file}: curriculum teaching content cannot be a runtime Loading shell`);
     if (/(?:year\d+-(?:maths|science|english)-(?:render|topic)|topic-modules-render|lesson-render|lower-materials-render|foundation-.*render)\.js/i.test(html)) errors.push(`${file}: canonical topic teaching content must not depend on a curriculum renderer`);
