@@ -1,237 +1,39 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9s7u03-t-001",
-    "curriculumCode": "AC9S7U03",
-    "bank": "test",
-    "skill": "use relative positions",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating use relative positions. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating use relative positions. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
-      "Phases caused by Earth’s shadow",
-      "Only lunar eclipses use Earth’s shadow",
-      "Visible fraction of the Moon’s sunlit half"
-    ],
-    "correct": 0,
-    "explanation": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit\nHint: Only lunar eclipses use Earth’s shadow.",
-    "structuredExplanation": {
-      "summary": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
-      "hint": "Only lunar eclipses use Earth’s shadow."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u03-t-002",
-    "curriculumCode": "AC9S7U03",
-    "bank": "test",
-    "skill": "state model limitations",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Seasons caused by changing Earth–Sun distance",
-      "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
-      "Axial tilt changes Sun angle and day length",
-      "Visible fraction of the Moon’s sunlit half"
-    ],
-    "correct": 1,
-    "explanation": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.\nHint: Axial tilt changes Sun angle and day length.",
-    "structuredExplanation": {
-      "summary": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
-      "hint": "Axial tilt changes Sun angle and day length."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u03-t-003",
-    "curriculumCode": "AC9S7U03",
-    "bank": "test",
-    "skill": "explain a crescent phase",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Every new/full Moon creates eclipse",
-      "The Moon’s orbital plane is tilted",
-      "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
-      "Visible fraction of the Moon’s sunlit half"
-    ],
-    "correct": 2,
-    "explanation": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.\nHint: The Moon’s orbital plane is tilted.",
-    "structuredExplanation": {
-      "summary": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
-      "hint": "The Moon’s orbital plane is tilted."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u03-t-004",
-    "curriculumCode": "AC9S7U03",
-    "bank": "test",
-    "skill": "distinguish eclipse types",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating distinguish eclipse types. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating distinguish eclipse types. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Model size treated as scale",
-      "Most classroom models preserve geometry, not true distances",
-      "Visible fraction of the Moon’s sunlit half",
-      "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light."
-    ],
-    "correct": 3,
-    "explanation": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.\nHint: Most classroom models preserve geometry, not true distances.",
-    "structuredExplanation": {
-      "summary": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
-      "hint": "Most classroom models preserve geometry, not true distances."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u03-t-005",
-    "curriculumCode": "AC9S7U03",
-    "bank": "test",
-    "skill": "explain seasons with tilt",
-    "printable": true,
-    "type": "single",
-    "question": "What should be checked when applying explain seasons with tilt in earth–sun–moon cycles?",
-    "audioPrompt": "What should be checked when applying explain seasons with tilt in earth–sun–moon cycles?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
-      "Phases caused by Earth’s shadow",
-      "Only lunar eclipses use Earth’s shadow",
-      "Visible fraction of the Moon’s sunlit half"
-    ],
-    "correct": 0,
-    "explanation": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit\nHint: Only lunar eclipses use Earth’s shadow.",
-    "structuredExplanation": {
-      "summary": "A solar eclipse requires the Moon between Sun and Earth near a node of its tilted orbit",
-      "hint": "Only lunar eclipses use Earth’s shadow."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u03-t-006",
-    "curriculumCode": "AC9S7U03",
-    "bank": "test",
-    "skill": "use relative positions",
-    "printable": true,
-    "type": "single",
-    "question": "Which response best uses use relative positions in earth–sun–moon cycles?",
-    "audioPrompt": "Which response best uses use relative positions in earth–sun–moon cycles?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Seasons caused by changing Earth–Sun distance",
-      "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
-      "Axial tilt changes Sun angle and day length",
-      "Visible fraction of the Moon’s sunlit half"
-    ],
-    "correct": 1,
-    "explanation": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.\nHint: Axial tilt changes Sun angle and day length.",
-    "structuredExplanation": {
-      "summary": "Half the Moon is illuminated by the Sun at nearly all times; phases describe how much of that lit half is visible from Earth.",
-      "hint": "Axial tilt changes Sun angle and day length."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u03-t-007",
-    "curriculumCode": "AC9S7U03",
-    "bank": "test",
-    "skill": "state model limitations",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating state model limitations. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Every new/full Moon creates eclipse",
-      "The Moon’s orbital plane is tilted",
-      "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
-      "Visible fraction of the Moon’s sunlit half"
-    ],
-    "correct": 2,
-    "explanation": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.\nHint: The Moon’s orbital plane is tilted.",
-    "structuredExplanation": {
-      "summary": "Use scale cautiously: classroom models exaggerate object size and compress distances. State which relationship the model preserves.",
-      "hint": "The Moon’s orbital plane is tilted."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u03-t-008",
-    "curriculumCode": "AC9S7U03",
-    "bank": "test",
-    "skill": "explain a crescent phase",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating explain a crescent phase. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Model size treated as scale",
-      "Most classroom models preserve geometry, not true distances",
-      "Visible fraction of the Moon’s sunlit half",
-      "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light."
-    ],
-    "correct": 3,
-    "explanation": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.\nHint: Most classroom models preserve geometry, not true distances.",
-    "structuredExplanation": {
-      "summary": "Observable cycles arise from changing relative positions, illumination and viewing geometry—not from objects producing changing amounts of light.",
-      "hint": "Most classroom models preserve geometry, not true distances."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["A student models Earth at four positions around the Sun but keeps Earth's axis pointing in a constant direction. Why is this important?",["It represents the nearly fixed orientation of Earth's tilted axis as Earth orbits","It makes Earth-Sun distance constant","It causes the Moon's phases","It removes day and night"],0,"Seasonal geometry depends on the tilted axis keeping approximately the same orientation in space during the orbit."],
+["At one position in a model, the Southern Hemisphere receives a higher Sun angle and longer daylight than the Northern Hemisphere. What season is most likely in southern Australia?",["summer","winter","autumn only","an eclipse season"],0,"Higher Sun angle and longer days are characteristic of summer."],
+["Two identical lamps illuminate flat cards. One card faces the lamp directly; the other is tilted. Why does the directly facing card receive greater intensity per unit area?",["The light is concentrated over a smaller area","The lamp emits more energy toward that card","The tilted card creates gravity","The distance must be different"],0,"This models how Sun angle changes the concentration of incoming energy."],
+["Earth is near perihelion in early January. Which observation most strongly shows distance is not the main cause of seasons?",["It is winter in the Northern Hemisphere while summer occurs in the Southern Hemisphere","The Moon is sometimes full","Tides occur twice daily in many places","Earth rotates once per day"],0,"Opposite seasons occur while both hemispheres are essentially the same distance from the Sun."],
+["A seasonal model correctly shows axial tilt but uses a tennis ball for Earth and a lamp 1 m away for the Sun. What should a student say about the model?",["It can represent geometry but not true sizes and distances","It is useless because scale is imperfect","It gives exact temperatures","It proves Earth is 1 m from the Sun"],0,"Scientific models can be useful while simplifying scale."],
+["A coastal tide chart shows especially large differences between high and low tide near a full moon. Which explanation best fits?",["Solar and lunar tidal effects reinforce near alignment","Earth is much closer to the Moon only at full moon","The Moon produces more gravity when fully lit","Wind must be absent"],0,"Spring tides occur near full and new moon because the tidal effects reinforce."],
+["At first quarter moon, a coast records a smaller tidal range than it did at full moon. Why?",["Solar and lunar tidal effects partly oppose because the directions are roughly at right angles","The Moon has no gravity at quarter phase","Earth's oceans shrink","The Sun stops affecting tides"],0,"Quarter phases are associated with neap tides."],
+["Which statement about high tides is most scientifically accurate for Year 7?",["Tidal bulges form on both the near and far sides because gravitational effects differ across Earth","Only the ocean nearest the Moon can have high tide","The far-side high tide is caused solely by the Sun","High tides are caused only by wind"],0,"Tides arise from differential gravity within the Earth-Moon system."],
+["A model uses arrows showing the Moon's gravity as identical everywhere on Earth. What important feature of tides does this fail to represent?",["The change in gravitational effect across Earth","Earth's axial tilt","the Moon's reflected light","the sequence of seasons"],0,"Tidal effects depend on differences in gravitational attraction across Earth's diameter."],
+["A Moon model is half-painted white to represent the side lit by the Sun. As the model moves around Earth, what creates the observed phases?",["The observer sees different fractions of the white half","The painted white area changes size","Earth's shadow covers the model every orbit","The model generates light"],0,"Phases are a viewing-geometry effect."],
+["An observer sees a full moon. Which arrangement is closest to correct?",["Sun — Earth — Moon, with the Moon opposite the Sun in the sky","Sun — Moon — Earth","Earth — Sun — Moon","Sun, Moon and Earth at a right angle"],0,"At full moon, Earth is approximately between the Sun and Moon, though usually not exactly aligned for an eclipse."],
+["An observer sees a new moon. Which arrangement is closest to correct?",["Sun — Moon — Earth","Sun — Earth — Moon","Earth — Sun — Moon","Sun and Moon at right angles from Earth"],0,"At new moon, the Moon lies approximately between Earth and the Sun."],
+["Why can a new moon occur without a solar eclipse?",["The Moon usually passes above or below exact Sun-Earth alignment because its orbit is tilted","The Moon has no shadow at new moon","Solar eclipses require full moon","The Sun changes position randomly"],0,"A new moon is necessary but not sufficient for a solar eclipse."],
+["Why can a full moon occur without a lunar eclipse?",["The Moon usually passes above or below Earth's shadow because its orbit is tilted","Earth has no shadow at full moon","Lunar eclipses require new moon","The Moon stops reflecting sunlight"],0,"Exact alignment near an orbital node is also required."],
+["A partial solar eclipse is visible from one region while another nearby region sees a total eclipse. Which model feature explains this?",["Different locations lie in the penumbra or umbra of the Moon's shadow","The Sun changes brightness by region","Earth's seasons differ over a few kilometres","The Moon produces two types of light"],0,"The central umbra produces totality, while the penumbra produces a partial eclipse."],
+["A student confuses the 29.5-day phase cycle with the Moon's orbit relative to distant stars. Which correction is best?",["The phase cycle is about 29.5 days, while the sidereal orbit is about 27.3 days","Both are exactly 29.5 days","The Moon does not orbit Earth","The phase cycle is one year"],0,"Earth's motion around the Sun makes the phase cycle slightly longer than the sidereal orbital period."],
+["If Earth had no axial tilt but still orbited the Sun in the same way, what major seasonal effect would be reduced?",["Yearly changes in Sun angle and day length caused by tilt","daily rotation","the Moon's phases","all ocean tides"],0,"Without axial tilt, the main mechanism for strong seasonal contrasts would be absent."],
+["If Earth's axis were tilted more strongly, what would likely happen to seasonal contrasts at many latitudes?",["They would become greater","They would disappear","The Moon would stop orbiting","Tides would cease"],0,"A larger tilt would generally produce larger annual changes in Sun angle and day length."],
+["Which observation best supports the idea that the Moon reflects sunlight rather than producing its own visible light?",["The illuminated portion changes predictably with Sun-Moon-Earth geometry","The Moon is visible only at night","The Moon has craters","The Moon orbits Earth"],0,"The phase pattern follows predictable illumination geometry."],
+["A model predicts spring tides at both new and full moon. Why can both phases produce spring tides even though the Moon is on opposite sides of Earth?",["In both cases the Sun, Earth and Moon are aligned, so their tidal effects reinforce","The Moon's gravity reverses at full moon","The Sun has no gravity at new moon","Tides depend on Moon brightness"],0,"Alignment, not which side the Moon is on, is the key geometry."],
+["A local seasonal calendar uses flowering of one plant, arrival of a bird and a particular star position. What is the strongest interpretation?",["The calendar combines recurring local ecological and astronomical indicators","It must be inaccurate because it has no fixed date","It is a universal calendar for all Australia","It is based only on mythology rather than observation"],0,"Place-based seasonal calendars can integrate multiple recurring environmental indicators."],
+["Why should a school avoid saying 'First Nations Australians use six seasons'?",["Seasonal systems vary among Peoples and Countries/Places","Six seasons are scientifically impossible","No First Nations seasonal knowledge exists","Every community uses four seasons"],0,"There is no single national First Nations seasonal calendar."],
+["A source describes a specific coastal community linking lunar observations with tidal conditions. What is the best classroom use?",["Present the source with its community and place attribution and compare observations with tidal models","Generalise it to every First Nations community","Remove the community name","Invent additional fishing rules"],0,"Respectful teaching preserves place, source and cultural authority."],
+["When comparing an eclipse oral tradition with a contemporary astronomical model, which approach is strongest?",["Compare observed features and patterns while distinguishing cultural meaning from physical-model explanation","Rank the tradition and science without evidence","Assume the tradition is a scientific equation","Ignore the cultural context"],0,"The comparison should respect both observational knowledge and differences in explanatory frameworks."],
+["A student says a classroom eclipse model proves the real Sun, Earth and Moon are the same relative sizes as the objects used. What is wrong?",["The model may preserve alignment and shadow geometry while greatly distorting scale","Any model is an exact copy","Eclipses do not depend on geometry","The Sun is actually smaller than Earth"],0,"Models must be evaluated for what they represent and what they simplify."],
+["Which feature is necessary in a useful eclipse model?",["Correct relative alignment of Sun, Earth and Moon for the eclipse being modelled","True interplanetary distances to the millimetre","Real gravitational forces","Actual solar temperature"],0,"The essential explanatory feature is the relative position and resulting shadow geometry."],
+["A digital simulation shows that most new moons do not cross the Sun from Earth's viewpoint. Which concept does this demonstrate?",["The Moon's orbital inclination prevents monthly eclipses","Earth's tilt causes Moon phases","The Moon stops orbiting during new moon","Solar eclipses are random"],0,"The tilted lunar orbital plane usually prevents exact alignment."],
+["A tide model predicts one exact water height everywhere on a coastline. Why is this limited?",["Real tides are also affected by coastline shape, ocean depth, weather and local basin dynamics","Gravity has no effect on tides","Tides occur only in deep ocean","Moon phase is irrelevant"],0,"The astronomical tide model explains the cycle but local geography and weather affect actual heights and times."],
+["Which conclusion is justified if a virtual model shows the Southern Hemisphere tilted toward the Sun?",["Southern latitudes generally receive more direct sunlight and longer days than six months later","Every southern location has the same temperature","Earth must be closest to the Sun","Northern tides stop"],0,"A model supports the seasonal mechanism, not identical weather everywhere."],
+["A student observes that the Moon rises later on successive days. Which motion contributes to this shift?",["The Moon's eastward orbit around Earth","Earth's axis changing tilt daily","The Sun orbiting Earth","the lunar surface changing brightness"],0,"Because the Moon moves along its orbit, Earth must rotate a little farther for the Moon to rise again."],
+["Which statement best distinguishes prediction from explanation in AC9S7U03?",["A model explains the geometry and can then be used to predict repeating phases, eclipse opportunities and tidal patterns","Prediction means guessing without a model","Explanation requires exact scale only","Cycles cannot be predicted"],0,"Regular cycles allow models to support both explanation and prediction."],
+["Which answer best evaluates a model of Earth-Sun-Moon cycles?",["State which relationships it represents well and which features, such as scale or local tide details, it simplifies","Accept every part as exact","Reject every simplified model","Judge only by appearance"],0,"Scientific models are evaluated by usefulness and limitations."],
+["Which statement best captures high-level AC9S7U03 reasoning?",["Use relative positions, illumination, gravity and model limitations to explain and predict seasons, tides, phases and eclipses","Memorise phase names without geometry","Explain all cycles using Earth's shadow","Treat First Nations knowledge as one uniform system"],0,"The code requires model-based explanation, prediction and respectful knowledge comparison."]
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
+window.skillrTestQuestions=raw.map((q,i)=>({id:`ac9s7u03-t-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S7U03",bank:"test",skill:"Earth-Sun-Moon reasoning",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Identify the geometry or gravitational interaction, then check what the model can and cannot justify."},qualitySchema:"production-v1"}));
+window.skillrExamQuestions=window.skillrTestQuestions;
+window.quizQuestions=window.skillrTestQuestions;
