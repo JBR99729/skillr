@@ -4,233 +4,58 @@ window.skillrPracticeQuestions = [
     "id": "ac9m7m04-p-001",
     "curriculumCode": "AC9M7M04",
     "bank": "practice",
-    "skill": "name corresponding pair",
+    "skill": "angles in parallel lines",
     "printable": true,
     "type": "single",
-    "question": "A Year 7 student is solving a problem involving name corresponding pair. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving name corresponding pair. Which option is mathematically valid?",
+    "question": "Angles in matching corners when a transversal crosses parallel lines are called:",
+    "audioPrompt": "Angles in matching corners when a transversal crosses parallel lines are called:",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "If one co-interior angle is 118°, the other is 62°",
-      "Co-interior angles declared equal",
-      "They sum to 180°",
-      "Line crossing two or more other lines"
-    ],
-    "correct": 0,
-    "explanation": "If one co-interior angle is 118°, the other is 62°\nHint: They sum to 180°.",
-    "structuredExplanation": {
-      "summary": "If one co-interior angle is 118°, the other is 62°",
-      "hint": "They sum to 180°."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m04-p-002",
-    "curriculumCode": "AC9M7M04",
-    "bank": "practice",
-    "skill": "use alternate equality",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving use alternate equality. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving use alternate equality. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Parallel assumption omitted",
-      "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
-      "These relationships require parallel lines",
-      "Line crossing two or more other lines"
-    ],
+    "visualMeta": {"type": "none", "alt_text": ""},
+    "answers": ["Alternate", "Corresponding", "Co-interior", "Vertical"],
     "correct": 1,
-    "explanation": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.\nHint: These relationships require parallel lines.",
-    "structuredExplanation": {
-      "summary": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
-      "hint": "These relationships require parallel lines."
-    },
+    "explanation": "Corresponding angles occupy matching positions at the two intersections.",
+    "structuredExplanation": {"summary": "Corresponding angles occupy matching positions at the two intersections.", "hint": "Identify the angle position first."},
     "qualitySchema": "production-v1"
   },
-  {
-    "id": "ac9m7m04-p-003",
-    "curriculumCode": "AC9M7M04",
-    "bank": "practice",
-    "skill": "find co interior supplement",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving find co interior supplement. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving find co interior supplement. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Angle positions memorised from one orientation",
-      "Rotate or tilt the diagram and use structural location",
-      "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
-      "Line crossing two or more other lines"
-    ],
-    "correct": 2,
-    "explanation": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.\nHint: Rotate or tilt the diagram and use structural location.",
-    "structuredExplanation": {
-      "summary": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
-      "hint": "Rotate or tilt the diagram and use structural location."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m04-p-004",
-    "curriculumCode": "AC9M7M04",
-    "bank": "practice",
-    "skill": "add vertical opposite step",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving add vertical opposite step. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving add vertical opposite step. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Measurement used instead of reasoning",
-      "Apply geometric facts and stated conditions",
-      "Line crossing two or more other lines",
-      "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°."
-    ],
-    "correct": 3,
-    "explanation": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.\nHint: Apply geometric facts and stated conditions.",
-    "structuredExplanation": {
-      "summary": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
-      "hint": "Apply geometric facts and stated conditions."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m04-p-005",
-    "curriculumCode": "AC9M7M04",
-    "bank": "practice",
-    "skill": "write a reasoned solution",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies alternate angles in angles in parallel lines?",
-    "audioPrompt": "Which statement correctly identifies alternate angles in angles in parallel lines?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "If one co-interior angle is 118°, the other is 62°",
-      "Co-interior angles declared equal",
-      "They sum to 180°",
-      "Line crossing two or more other lines"
-    ],
-    "correct": 0,
-    "explanation": "If one co-interior angle is 118°, the other is 62°\nHint: They sum to 180°.",
-    "structuredExplanation": {
-      "summary": "If one co-interior angle is 118°, the other is 62°",
-      "hint": "They sum to 180°."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m04-p-006",
-    "curriculumCode": "AC9M7M04",
-    "bank": "practice",
-    "skill": "name corresponding pair",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes co-interior angles in angles in parallel lines?",
-    "audioPrompt": "Which choice best describes co-interior angles in angles in parallel lines?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Parallel assumption omitted",
-      "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
-      "These relationships require parallel lines",
-      "Line crossing two or more other lines"
-    ],
-    "correct": 1,
-    "explanation": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.\nHint: These relationships require parallel lines.",
-    "structuredExplanation": {
-      "summary": "The relationship depends on lines being parallel. Vertically opposite and supplementary straight-line facts may also be needed in a reasoning chain.",
-      "hint": "These relationships require parallel lines."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m04-p-007",
-    "curriculumCode": "AC9M7M04",
-    "bank": "practice",
-    "skill": "use alternate equality",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for transversal in angles in parallel lines?",
-    "audioPrompt": "What does correct use require for transversal in angles in parallel lines?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Angle positions memorised from one orientation",
-      "Rotate or tilt the diagram and use structural location",
-      "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
-      "Line crossing two or more other lines"
-    ],
-    "correct": 2,
-    "explanation": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.\nHint: Rotate or tilt the diagram and use structural location.",
-    "structuredExplanation": {
-      "summary": "Write reasons, not only values. A diagram drawn to scale is not proof of parallelism or equality.",
-      "hint": "Rotate or tilt the diagram and use structural location."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m04-p-008",
-    "curriculumCode": "AC9M7M04",
-    "bank": "practice",
-    "skill": "find co interior supplement",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving find co interior supplement. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving find co interior supplement. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Measurement used instead of reasoning",
-      "Apply geometric facts and stated conditions",
-      "Line crossing two or more other lines",
-      "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°."
-    ],
-    "correct": 3,
-    "explanation": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.\nHint: Apply geometric facts and stated conditions.",
-    "structuredExplanation": {
-      "summary": "For parallel lines, corresponding and alternate angles are equal, while co-interior angles on the same side sum to 180°.",
-      "hint": "Apply geometric facts and stated conditions."
-    },
-    "qualitySchema": "production-v1"
-  }
+  {"id":"ac9m7m04-p-002","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"Angles on opposite sides of the transversal and inside the parallel lines are:","audioPrompt":"Angles on opposite sides of the transversal and inside the parallel lines are:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Corresponding","Alternate interior","Co-interior","Adjacent"],"correct":1,"explanation":"Alternate interior angles lie between the parallel lines on opposite sides of the transversal.","structuredExplanation":{"summary":"Alternate interior angles lie between the parallel lines on opposite sides of the transversal.","hint":"Look inside the parallel lines and on opposite sides."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-003","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"Angles on the same side of the transversal and inside the parallel lines are:","audioPrompt":"Angles on the same side of the transversal and inside the parallel lines are:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Alternate","Corresponding","Co-interior","Vertical"],"correct":2,"explanation":"Co-interior angles lie between the parallel lines on the same side of the transversal.","structuredExplanation":{"summary":"Co-interior angles lie between the parallel lines on the same side of the transversal.","hint":"Look inside the parallel lines and on the same side."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-004","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"Corresponding angles are always:","audioPrompt":"Corresponding angles are always:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Supplementary","Equal","Complementary","Reflex"],"correct":1,"explanation":"For parallel lines cut by a transversal, corresponding angles are equal.","structuredExplanation":{"summary":"For parallel lines cut by a transversal, corresponding angles are equal.","hint":"Use the corresponding-angle rule."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-005","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"Alternate interior angles are always:","audioPrompt":"Alternate interior angles are always:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Equal","180°","Complementary","Acute"],"correct":0,"explanation":"For parallel lines cut by a transversal, alternate interior angles are equal.","structuredExplanation":{"summary":"For parallel lines cut by a transversal, alternate interior angles are equal.","hint":"Use the alternate-angle rule."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-006","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"Co-interior angles always sum to:","audioPrompt":"Co-interior angles always sum to:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["90°","180°","270°","Equal values"],"correct":1,"explanation":"Co-interior angles between parallel lines are supplementary, so they sum to 180°.","structuredExplanation":{"summary":"Co-interior angles between parallel lines are supplementary, so they sum to 180°.","hint":"Supplementary means 180°."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-007","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"Which angle pair is supplementary?","audioPrompt":"Which angle pair is supplementary?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Alternate","Corresponding","Co-interior","Vertical"],"correct":2,"explanation":"Co-interior angles formed by a transversal across parallel lines sum to 180°.","structuredExplanation":{"summary":"Co-interior angles formed by a transversal across parallel lines sum to 180°.","hint":"Supplementary angles add to 180°."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-008","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"Vertical angles are:","audioPrompt":"Vertical angles are:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Equal","Supplementary","Complementary","Reflex"],"correct":0,"explanation":"Vertically opposite angles formed by two intersecting lines are equal.","structuredExplanation":{"summary":"Vertically opposite angles formed by two intersecting lines are equal.","hint":"Opposite angles at an intersection are equal."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-009","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"Which angle pair can be used to prove lines are parallel when the pair is equal?","audioPrompt":"Which angle pair can be used to prove lines are parallel when the pair is equal?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Adjacent angles","Corresponding angles","Co-interior angles","Reflex angles"],"correct":1,"explanation":"Equal corresponding angles provide a converse test for parallel lines.","structuredExplanation":{"summary":"Equal corresponding angles provide a converse test for parallel lines.","hint":"Use the converse corresponding-angle rule."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-010","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If alternate interior angles are not equal, the lines are:","audioPrompt":"If alternate interior angles are not equal, the lines are:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Parallel","Perpendicular","Not parallel","Reflex"],"correct":2,"explanation":"Equal alternate interior angles are required for parallel lines; if they are unequal, the lines are not parallel.","structuredExplanation":{"summary":"Equal alternate interior angles are required for parallel lines; if they are unequal, the lines are not parallel.","hint":"Use the converse alternate-angle test."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-011","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If a corresponding angle is 75°, the matching corresponding angle is:","audioPrompt":"If a corresponding angle is 75°, the matching corresponding angle is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["105°","75°","45°","180°"],"correct":1,"explanation":"Corresponding angles are equal.","structuredExplanation":{"summary":"Corresponding angles are equal.","hint":"Equal means the measure is unchanged."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-012","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If an alternate interior angle is 48°, the other alternate interior angle is:","audioPrompt":"If an alternate interior angle is 48°, the other alternate interior angle is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["132°","48°","24°","180°"],"correct":1,"explanation":"Alternate interior angles are equal for parallel lines.","structuredExplanation":{"summary":"Alternate interior angles are equal for parallel lines.","hint":"Use the alternate-angle rule."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-013","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If one co-interior angle is 110°, the other is:","audioPrompt":"If one co-interior angle is 110°, the other is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["110°","70°","50°","180°"],"correct":1,"explanation":"Co-interior angles sum to 180°, so 180° − 110° = 70°.","structuredExplanation":{"summary":"Co-interior angles sum to 180°, so 180° − 110° = 70°.","hint":"Subtract from 180°."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-014","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If a transversal creates a 130° angle, the adjacent angle on the straight line is:","audioPrompt":"If a transversal creates a 130° angle, the adjacent angle on the straight line is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["50°","130°","180°","90°"],"correct":0,"explanation":"Adjacent angles on a straight line sum to 180°, so 180° − 130° = 50°.","structuredExplanation":{"summary":"Adjacent angles on a straight line sum to 180°, so 180° − 130° = 50°.","hint":"Use the straight-line angle sum."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-015","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If one angle in an equal corresponding pair is 40°, the co-interior angle on the same side is:","audioPrompt":"If one angle in an equal corresponding pair is 40°, the co-interior angle on the same side is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["40°","140°","80°","180°"],"correct":1,"explanation":"The co-interior angle is supplementary to 40°, so it is 140°.","structuredExplanation":{"summary":"The co-interior angle is supplementary to 40°, so it is 140°.","hint":"Co-interior angles total 180°."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-016","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If a vertical angle is 92°, its opposite angle is:","audioPrompt":"If a vertical angle is 92°, its opposite angle is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["88°","92°","46°","180°"],"correct":1,"explanation":"Vertically opposite angles are equal.","structuredExplanation":{"summary":"Vertically opposite angles are equal.","hint":"Opposite angles at an intersection are equal."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-017","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If one co-interior angle is 150°, the other co-interior angle is:","audioPrompt":"If one co-interior angle is 150°, the other co-interior angle is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["30°","150°","180°","75°"],"correct":0,"explanation":"Co-interior angles sum to 180°, so 180° − 150° = 30°.","structuredExplanation":{"summary":"Co-interior angles sum to 180°, so 180° − 150° = 30°.","hint":"Subtract from 180°."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-018","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If an angle is 120°, its supplementary adjacent angle is:","audioPrompt":"If an angle is 120°, its supplementary adjacent angle is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["60°","120°","30°","180°"],"correct":0,"explanation":"A straight line totals 180°, so the adjacent angle is 60°.","structuredExplanation":{"summary":"A straight line totals 180°, so the adjacent angle is 60°.","hint":"Subtract from 180°."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-019","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If an alternate interior angle is 65°, the corresponding angle in the same equal-angle family is:","audioPrompt":"If an alternate interior angle is 65°, the corresponding angle in the same equal-angle family is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["115°","65°","45°","180°"],"correct":1,"explanation":"Equal-angle relationships across parallel lines preserve the 65° measure.","structuredExplanation":{"summary":"Equal-angle relationships across parallel lines preserve the 65° measure.","hint":"Track equal angle positions."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-020","curriculumCode":"AC9M7M04","bank":"practice","skill":"angles in parallel lines","printable":true,"type":"single","question":"If one co-interior angle is 95°, the other is:","audioPrompt":"If one co-interior angle is 95°, the other is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["95°","85°","45°","180°"],"correct":1,"explanation":"Co-interior angles sum to 180°, so 180° − 95° = 85°.","structuredExplanation":{"summary":"Co-interior angles sum to 180°, so 180° − 95° = 85°.","hint":"Use 180° as the total."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-021","curriculumCode":"AC9M7M04","bank":"practice","skill":"construction","printable":true,"type":"single","question":"Which tool is most useful for constructing parallel lines by sliding without rotating?","audioPrompt":"Which tool is most useful for constructing parallel lines by sliding without rotating?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Protractor","Compass","Set square","Divider"],"correct":2,"explanation":"A set square can be slid along a ruler while keeping its direction fixed.","structuredExplanation":{"summary":"A set square can be slid along a ruler while keeping its direction fixed.","hint":"Choose the tool that preserves direction."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-022","curriculumCode":"AC9M7M04","bank":"practice","skill":"construction","printable":true,"type":"single","question":"Which tool directly provides a 90° corner for constructing perpendicular lines?","audioPrompt":"Which tool directly provides a 90° corner for constructing perpendicular lines?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Compass","Set square","Ruler","String"],"correct":1,"explanation":"A set square contains a right angle, so it is useful for constructing perpendicular lines.","structuredExplanation":{"summary":"A set square contains a right angle, so it is useful for constructing perpendicular lines.","hint":"Perpendicular lines meet at 90°."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-023","curriculumCode":"AC9M7M04","bank":"practice","skill":"dynamic geometry","printable":true,"type":"single","question":"Dynamic geometry software is useful for this topic because students can:","audioPrompt":"Dynamic geometry software is useful for this topic because students can:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Measure area only","Drag lines while testing angle relationships","Remove the transversal","Avoid measuring angles"],"correct":1,"explanation":"Dragging a constrained diagram shows which angle relationships remain true as the figure changes.","structuredExplanation":{"summary":"Dragging a constrained diagram shows which angle relationships remain true as the figure changes.","hint":"Look for movement while preserving constraints."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-024","curriculumCode":"AC9M7M04","bank":"practice","skill":"dynamic geometry","printable":true,"type":"single","question":"Dragging a transversal across two fixed parallel lines shows that corresponding angles:","audioPrompt":"Dragging a transversal across two fixed parallel lines shows that corresponding angles:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Change randomly relative to each other","Remain equal to each other","Always become 90°","Become reflex"],"correct":1,"explanation":"Their numerical values may change, but each corresponding pair remains equal.","structuredExplanation":{"summary":"Their numerical values may change, but each corresponding pair remains equal.","hint":"Focus on the relationship between the pair."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-025","curriculumCode":"AC9M7M04","bank":"practice","skill":"parallel line test","printable":true,"type":"single","question":"Which observation can establish that two lines cut by a transversal are parallel?","audioPrompt":"Which observation can establish that two lines cut by a transversal are parallel?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["A pair of co-interior angles are equal","A pair of corresponding angles are equal","A pair of vertical angles are equal","Two adjacent angles are equal"],"correct":1,"explanation":"Equal corresponding angles give a converse test for parallel lines.","structuredExplanation":{"summary":"Equal corresponding angles give a converse test for parallel lines.","hint":"Vertical angles are equal even without parallel lines."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-026","curriculumCode":"AC9M7M04","bank":"practice","skill":"dynamic geometry","printable":true,"type":"single","question":"Dynamic geometry helps students generalise angle rules because it:","audioPrompt":"Dynamic geometry helps students generalise angle rules because it:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Hides angle values","Allows movement while preserving defining relationships","Removes transversals","Changes constraints randomly"],"correct":1,"explanation":"A valid dynamic construction preserves defining constraints while the diagram moves.","structuredExplanation":{"summary":"A valid dynamic construction preserves defining constraints while the diagram moves.","hint":"Generalisation comes from what stays true."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-027","curriculumCode":"AC9M7M04","bank":"practice","skill":"construction","printable":true,"type":"single","question":"Which construction method is reliable for drawing parallel lines?","audioPrompt":"Which construction method is reliable for drawing parallel lines?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Use a set square against a ruler and slide it without rotating","Draw two lines that look parallel","Measure two unrelated angles","Use only a protractor without checking direction"],"correct":0,"explanation":"Sliding a set square along a ruler preserves direction and produces parallel lines.","structuredExplanation":{"summary":"Sliding a set square along a ruler preserves direction and produces parallel lines.","hint":"Preserve the line direction."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-028","curriculumCode":"AC9M7M04","bank":"practice","skill":"construction","printable":true,"type":"single","question":"Which construction produces perpendicular lines?","audioPrompt":"Which construction produces perpendicular lines?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Two lines with equal lengths","Two lines meeting at 90°","Two lines with equal corresponding angles only","Two curves crossing"],"correct":1,"explanation":"Perpendicular lines meet at a right angle of 90°.","structuredExplanation":{"summary":"Perpendicular lines meet at a right angle of 90°.","hint":"Perpendicular means 90°."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-029","curriculumCode":"AC9M7M04","bank":"practice","skill":"dynamic geometry","printable":true,"type":"single","question":"When a valid dynamic construction is dragged, parallel lines should:","audioPrompt":"When a valid dynamic construction is dragged, parallel lines should:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Stop being parallel","Remain parallel","Become perpendicular","Meet at a point"],"correct":1,"explanation":"A constrained parallel relationship remains true while the diagram is dragged.","structuredExplanation":{"summary":"A constrained parallel relationship remains true while the diagram is dragged.","hint":"The software preserves the defined constraint."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-030","curriculumCode":"AC9M7M04","bank":"practice","skill":"reasoning","printable":true,"type":"single","question":"Why is measuring just one static diagram not enough to prove an angle rule?","audioPrompt":"Why is measuring just one static diagram not enough to prove an angle rule?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The diagram may not be exact and one case does not establish a general rule","Angles cannot be measured","Parallel lines have no angles","All diagrams are exact"],"correct":0,"explanation":"Geometric reasoning must rely on properties and stated conditions, not appearance alone.","structuredExplanation":{"summary":"Geometric reasoning must rely on properties and stated conditions, not appearance alone.","hint":"One measured case is evidence, not a proof."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-031","curriculumCode":"AC9M7M04","bank":"practice","skill":"application","printable":true,"type":"single","question":"Scissor-lift linkages use repeated angle relationships mainly to support:","audioPrompt":"Scissor-lift linkages use repeated angle relationships mainly to support:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Colour changes","Controlled, even movement","Increased mass","Random rotation"],"correct":1,"explanation":"Repeated linkage geometry helps a scissor lift extend predictably.","structuredExplanation":{"summary":"Repeated linkage geometry helps a scissor lift extend predictably.","hint":"Engineering mechanisms need controlled movement."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-032","curriculumCode":"AC9M7M04","bank":"practice","skill":"application","printable":true,"type":"single","question":"Folding umbrella linkages are designed so repeated bars open with:","audioPrompt":"Folding umbrella linkages are designed so repeated bars open with:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Random movement","Symmetrical movement","No angle relationships","Uneven opening"],"correct":1,"explanation":"Repeated linkage geometry supports symmetrical movement.","structuredExplanation":{"summary":"Repeated linkage geometry supports symmetrical movement.","hint":"The mechanism should behave predictably on each side."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-033","curriculumCode":"AC9M7M04","bank":"practice","skill":"application","printable":true,"type":"single","question":"Toolbox linkages with paired arms use geometry mainly to:","audioPrompt":"Toolbox linkages with paired arms use geometry mainly to:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Keep linked parts moving in a coordinated way","Change colour","Increase temperature","Remove all angles"],"correct":0,"explanation":"Parallel and linked members create predictable angle relationships and coordinated motion.","structuredExplanation":{"summary":"Parallel and linked members create predictable angle relationships and coordinated motion.","hint":"Think about coordinated linkage motion."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-034","curriculumCode":"AC9M7M04","bank":"practice","skill":"application","printable":true,"type":"single","question":"Cherry-picker linkages use angle relationships so that their motion is:","audioPrompt":"Cherry-picker linkages use angle relationships so that their motion is:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Controlled and stable","Random","Independent of geometry","Always circular"],"correct":0,"explanation":"Geometric constraints support controlled, stable movement.","structuredExplanation":{"summary":"Geometric constraints support controlled, stable movement.","hint":"Choose the engineered, predictable behaviour."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-035","curriculumCode":"AC9M7M04","bank":"practice","skill":"application","printable":true,"type":"single","question":"Parallel bars in mechanical linkages create predictable:","audioPrompt":"Parallel bars in mechanical linkages create predictable:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Angle relationships","Colours","Textures","Weights"],"correct":0,"explanation":"Parallel members cut by connecting bars create repeatable angle relationships.","structuredExplanation":{"summary":"Parallel members cut by connecting bars create repeatable angle relationships.","hint":"This topic concerns geometry."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-036","curriculumCode":"AC9M7M04","bank":"practice","skill":"application","printable":true,"type":"single","question":"Which statement best describes the role of corresponding angles in a parallel linkage?","audioPrompt":"Which statement best describes the role of corresponding angles in a parallel linkage?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Matching positions can maintain equal angles","They are always supplementary","They eliminate movement","They make every angle 90°"],"correct":0,"explanation":"Corresponding angles in parallel structures occupy matching positions and are equal.","structuredExplanation":{"summary":"Corresponding angles in parallel structures occupy matching positions and are equal.","hint":"Matching positions are corresponding."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-037","curriculumCode":"AC9M7M04","bank":"practice","skill":"application","printable":true,"type":"single","question":"Which statement best describes the role of co-interior angles in a parallel linkage?","audioPrompt":"Which statement best describes the role of co-interior angles in a parallel linkage?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["They are always equal","They sum to 180° on the same side of a transversal","They are always 90°","They are unrelated"],"correct":1,"explanation":"Co-interior angles are supplementary when the lines are parallel.","structuredExplanation":{"summary":"Co-interior angles are supplementary when the lines are parallel.","hint":"Co-interior means same side inside."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-038","curriculumCode":"AC9M7M04","bank":"practice","skill":"application","printable":true,"type":"single","question":"Why can geometry help engineers predict linkage movement?","audioPrompt":"Why can geometry help engineers predict linkage movement?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Geometric constraints restrict the possible positions of connected members","It changes the material strength","It removes pivots","It makes motion random"],"correct":0,"explanation":"Geometric constraints make the positions and movement of connected members predictable.","structuredExplanation":{"summary":"Geometric constraints make the positions and movement of connected members predictable.","hint":"Constraints limit possible positions."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-039","curriculumCode":"AC9M7M04","bank":"practice","skill":"application","printable":true,"type":"single","question":"Which real-world device is explicitly suitable for exploring parallel-line angle relationships?","audioPrompt":"Which real-world device is explicitly suitable for exploring parallel-line angle relationships?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Scissor lift","Thermometer","Beaker","Number line"],"correct":0,"explanation":"Scissor lifts use linked bars whose motion can be analysed using repeated angle relationships.","structuredExplanation":{"summary":"Scissor lifts use linked bars whose motion can be analysed using repeated angle relationships.","hint":"Choose the linkage mechanism."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m04-p-040","curriculumCode":"AC9M7M04","bank":"practice","skill":"application","printable":true,"type":"single","question":"Which statement is the best geometric conclusion when a mechanism preserves two parallel rails while a crossbar rotates?","audioPrompt":"Which statement is the best geometric conclusion when a mechanism preserves two parallel rails while a crossbar rotates?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Corresponding angle pairs remain equal","All angles remain numerically fixed","Every angle becomes acute","No angle relationships apply"],"correct":0,"explanation":"As the crossbar rotates, corresponding pairs can change in size but remain equal because the rails stay parallel.","structuredExplanation":{"summary":"As the crossbar rotates, corresponding pairs can change in size but remain equal because the rails stay parallel.","hint":"Focus on what remains invariant."},"qualitySchema":"production-v1"}
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
