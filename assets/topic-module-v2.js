@@ -74,10 +74,21 @@
       </form>
     </div>`;
 
-  const sidebar = document.querySelector(".curriculum-sidebar");
-  const layout = document.querySelector("main.curriculum-layout");
-  if (sidebar) sidebar.prepend(section);
-  else if (layout) layout.insertAdjacentElement("afterend", section);
+  function mountDiscussion() {
+    const sidebar = document.querySelector(".curriculum-sidebar");
+    const layout = document.querySelector("main.curriculum-layout");
+    if (sidebar) {
+      if (section.parentElement !== sidebar) sidebar.prepend(section);
+      else if (sidebar.firstElementChild !== section) sidebar.prepend(section);
+      return true;
+    }
+    if (layout && !section.isConnected) {
+      layout.insertAdjacentElement("afterend", section);
+      return true;
+    }
+    return false;
+  }
+  mountDiscussion();
 
   const key = "skillr-discussion-prototype-ac9m7n06";
   const helpfulKey = "skillr-discussion-helpful-ac9m7n06";
@@ -141,4 +152,17 @@
     form.reset();
     success.style.display = "block";
   });
+
+  let mountQueued = false;
+  const remountObserver = new MutationObserver(() => {
+    if (mountQueued) return;
+    mountQueued = true;
+    queueMicrotask(() => {
+      mountQueued = false;
+      mountDiscussion();
+    });
+  });
+  remountObserver.observe(document.body, {childList:true, subtree:true});
+  window.setTimeout(() => mountDiscussion(), 4000);
+  window.setTimeout(() => remountObserver.disconnect(), 10000);
 })();
