@@ -1,0 +1,17 @@
+name: Validate F-10 topic layout
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  topic-layout-contract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Validate locked topic-page action layout
+        run: node scripts/validate_f10_topic_layout_contract.mjs
