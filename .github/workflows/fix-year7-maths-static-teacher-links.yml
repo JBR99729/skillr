@@ -23,11 +23,11 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/fix_year7_maths_static_teacher_links.mjs
-      - name: Commit corrected static pages only
+      - name: Commit corrected static pages and fixed viewers
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add year7/maths/*/index.html
+          git add year7/maths/*/index.html year7/maths/*/teacher-slides
           git rm scripts/fix_year7_maths_static_teacher_links.mjs .github/workflows/fix-year7-maths-static-teacher-links.yml
           git commit -m "Use fixed local Teacher Slides on Year 7 Maths Learn pages"
           git push origin HEAD:fix/year7-maths-static-learn-content
