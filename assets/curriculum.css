@@ -749,3 +749,8 @@
   }
 }
 
+/* Year 7 Science has one written resource: Homework.
+   Legacy Worksheet URLs remain as redirects for old links/bookmarks. */
+a[href^="/quiz/year-7/science/"][href*="/worksheet/"] {
+  display: none !important;
+}
