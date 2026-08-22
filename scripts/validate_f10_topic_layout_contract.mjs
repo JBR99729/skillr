@@ -12,12 +12,15 @@ const requiredJs = [
   'Test',
   'More resources',
   'topic-action-row',
+  'skillr-topic-primary-action',
+  'skillr-more-resources',
   'MutationObserver'
 ];
 
 const requiredCss = [
-  'skillr-topic-primary-actions',
-  'skillr-topic-more-resources'
+  'skillr-topic-primary-action',
+  'skillr-more-resources',
+  'grid-template-columns:repeat(3,minmax(0,1fr))'
 ];
 
 const missing = [];
