@@ -1,5 +1,8 @@
 (() => {
   "use strict";
+  if (window.__skillrTopicModuleV2TopicLoaded) return;
+  window.__skillrTopicModuleV2TopicLoaded = true;
+
   const e = value => String(value ?? "").replace(/[&<>\"]/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[char]));
   const routedYear7Topic = /^\/year7\/(maths|science|english)\/ac9/i.test(location.pathname);
   const routerHasRendered = () => Boolean(document.querySelector("#skillr-year7-page-css"));
