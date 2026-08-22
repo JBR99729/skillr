@@ -4,233 +4,42 @@ window.skillrPracticeQuestions = [
     "id": "ac9m7m03-p-001",
     "curriculumCode": "AC9M7M03",
     "bank": "practice",
-    "skill": "find c from radius",
+    "skill": "circle relationships and circumference",
     "printable": true,
     "type": "single",
-    "question": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
+    "question": "Which statement about the radius and diameter is always true?",
+    "audioPrompt": "Which statement about the radius and diameter is always true?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "For r=5 cm, C=2πr≈31.4 cm",
-      "Radius and diameter interchanged",
-      "Label centre and endpoints",
-      "Distance from circle centre to circumference"
-    ],
+    "visualMeta": {"type": "none", "alt_text": ""},
+    "answers": ["Radius is half the diameter", "Diameter is half the radius", "Radius is twice the diameter", "Radius equals circumference"],
     "correct": 0,
-    "explanation": "For r=5 cm, C=2πr≈31.4 cm\nHint: Label centre and endpoints.",
-    "structuredExplanation": {
-      "summary": "For r=5 cm, C=2πr≈31.4 cm",
-      "hint": "Label centre and endpoints."
-    },
+    "explanation": "The diameter is twice the radius, so the radius is half the diameter.",
+    "structuredExplanation": {"summary": "The diameter is twice the radius, so the radius is half the diameter.", "hint": ""},
     "qualitySchema": "production-v1"
   },
-  {
-    "id": "ac9m7m03-p-002",
-    "curriculumCode": "AC9M7M03",
-    "bank": "practice",
-    "skill": "find radius from diameter",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Π treated as an area unit",
-      "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
-      "It is a dimensionless ratio",
-      "Distance from circle centre to circumference"
-    ],
-    "correct": 1,
-    "explanation": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.\nHint: It is a dimensionless ratio.",
-    "structuredExplanation": {
-      "summary": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
-      "hint": "It is a dimensionless ratio."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m03-p-003",
-    "curriculumCode": "AC9M7M03",
-    "bank": "practice",
-    "skill": "estimate wheel travel",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Circumference written in square units",
-      "Use linear units",
-      "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
-      "Distance from circle centre to circumference"
-    ],
-    "correct": 2,
-    "explanation": "Circumference is a length. Preserve full calculator precision until the requested rounding step.\nHint: Use linear units.",
-    "structuredExplanation": {
-      "summary": "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
-      "hint": "Use linear units."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m03-p-004",
-    "curriculumCode": "AC9M7M03",
-    "bank": "practice",
-    "skill": "explain as ratio",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Early rounding of π",
-      "Round final result as requested",
-      "Distance from circle centre to circumference",
-      "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles."
-    ],
-    "correct": 3,
-    "explanation": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.\nHint: Round final result as requested.",
-    "structuredExplanation": {
-      "summary": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
-      "hint": "Round final result as requested."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m03-p-005",
-    "curriculumCode": "AC9M7M03",
-    "bank": "practice",
-    "skill": "use correct units and accuracy",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies diameter in circle features and circumference?",
-    "audioPrompt": "Which statement correctly identifies diameter in circle features and circumference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "For r=5 cm, C=2πr≈31.4 cm",
-      "Radius and diameter interchanged",
-      "Label centre and endpoints",
-      "Distance from circle centre to circumference"
-    ],
-    "correct": 0,
-    "explanation": "For r=5 cm, C=2πr≈31.4 cm\nHint: Label centre and endpoints.",
-    "structuredExplanation": {
-      "summary": "For r=5 cm, C=2πr≈31.4 cm",
-      "hint": "Label centre and endpoints."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m03-p-006",
-    "curriculumCode": "AC9M7M03",
-    "bank": "practice",
-    "skill": "find c from radius",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes circumference in circle features and circumference?",
-    "audioPrompt": "Which choice best describes circumference in circle features and circumference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Π treated as an area unit",
-      "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
-      "It is a dimensionless ratio",
-      "Distance from circle centre to circumference"
-    ],
-    "correct": 1,
-    "explanation": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.\nHint: It is a dimensionless ratio.",
-    "structuredExplanation": {
-      "summary": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
-      "hint": "It is a dimensionless ratio."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m03-p-007",
-    "curriculumCode": "AC9M7M03",
-    "bank": "practice",
-    "skill": "find radius from diameter",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for radius in circle features and circumference?",
-    "audioPrompt": "What does correct use require for radius in circle features and circumference?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Circumference written in square units",
-      "Use linear units",
-      "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
-      "Distance from circle centre to circumference"
-    ],
-    "correct": 2,
-    "explanation": "Circumference is a length. Preserve full calculator precision until the requested rounding step.\nHint: Use linear units.",
-    "structuredExplanation": {
-      "summary": "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
-      "hint": "Use linear units."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m03-p-008",
-    "curriculumCode": "AC9M7M03",
-    "bank": "practice",
-    "skill": "estimate wheel travel",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Early rounding of π",
-      "Round final result as requested",
-      "Distance from circle centre to circumference",
-      "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles."
-    ],
-    "correct": 3,
-    "explanation": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.\nHint: Round final result as requested.",
-    "structuredExplanation": {
-      "summary": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
-      "hint": "Round final result as requested."
-    },
-    "qualitySchema": "production-v1"
-  }
+  {"id":"ac9m7m03-p-002","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"The diameter of a circle is 18 cm. What is the radius?","audioPrompt":"The diameter of a circle is 18 cm. What is the radius?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3 cm","6 cm","9 cm","12 cm"],"correct":2,"explanation":"Radius = diameter ÷ 2 = 18 ÷ 2 = 9 cm.","structuredExplanation":{"summary":"Radius = diameter ÷ 2 = 18 ÷ 2 = 9 cm.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-003","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"Which feature of a circle is the distance around it?","audioPrompt":"Which feature of a circle is the distance around it?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Radius","Diameter","Circumference","Centre"],"correct":2,"explanation":"The circumference is the distance around a circle.","structuredExplanation":{"summary":"The circumference is the distance around a circle.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-004","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"If the radius is 7 cm, what is the diameter?","audioPrompt":"If the radius is 7 cm, what is the diameter?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3.5 cm","7 cm","14 cm","21 cm"],"correct":2,"explanation":"Diameter = 2 × radius = 14 cm.","structuredExplanation":{"summary":"Diameter = 2 × radius = 14 cm.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-005","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"Which pair shows correctly related circle features?","audioPrompt":"Which pair shows correctly related circle features?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Circumference = radius × 2","Diameter = radius ÷ 2","Radius = diameter ÷ 2","Circumference = diameter ÷ 2"],"correct":2,"explanation":"Radius is half the diameter.","structuredExplanation":{"summary":"Radius is half the diameter.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-006","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"The centre of a circle is best described as:","audioPrompt":"The centre of a circle is best described as:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The point where the circumference begins","The midpoint of the radius","The point equidistant from all points on the circle","The longest chord"],"correct":2,"explanation":"Every point on the circumference is the same distance from the centre.","structuredExplanation":{"summary":"Every point on the circumference is the same distance from the centre.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-007","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"When comparing circles using string, the string wrapped once around a circle represents its:","audioPrompt":"When comparing circles using string, the string wrapped once around a circle represents its:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Radius","Diameter","Circumference","Area"],"correct":2,"explanation":"A string wrapped once around the boundary measures the circumference.","structuredExplanation":{"summary":"A string wrapped once around the boundary measures the circumference.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-008","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"If two circles have different radii, the circle with the larger radius will always have:","audioPrompt":"If two circles have different radii, the circle with the larger radius will always have:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["A smaller circumference","A larger circumference","The same circumference","No circumference"],"correct":1,"explanation":"Because C = 2πr, circumference increases as radius increases.","structuredExplanation":{"summary":"Because C = 2πr, circumference increases as radius increases.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-009","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"A student draws circles with radii 3 cm, 5 cm and 8 cm. Which circle has the greatest circumference?","audioPrompt":"A student draws circles with radii 3 cm, 5 cm and 8 cm. Which circle has the greatest circumference?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3 cm radius","5 cm radius","8 cm radius","All have equal circumference"],"correct":2,"explanation":"The 8 cm radius is largest, so its circumference is largest.","structuredExplanation":{"summary":"The 8 cm radius is largest, so its circumference is largest.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-010","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"How does circumference change as radius increases?","audioPrompt":"How does circumference change as radius increases?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It increases linearly","It increases quadratically","It changes randomly","It stays constant"],"correct":0,"explanation":"C = 2πr is a direct linear relationship between circumference and radius.","structuredExplanation":{"summary":"C = 2πr is a direct linear relationship between circumference and radius.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-011","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"If the diameter of a circle doubles, its circumference:","audioPrompt":"If the diameter of a circle doubles, its circumference:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Halves","Doubles","Triples","Stays the same"],"correct":1,"explanation":"Since C = πd, doubling d doubles C.","structuredExplanation":{"summary":"Since C = πd, doubling d doubles C.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-012","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"A circle has diameter 10 cm. Approximate its circumference using π ≈ 3.14.","audioPrompt":"A circle has diameter 10 cm. Approximate its circumference using π ≈ 3.14.","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["15.7 cm","20 cm","31.4 cm","62.8 cm"],"correct":2,"explanation":"C = πd = 3.14 × 10 = 31.4 cm.","structuredExplanation":{"summary":"C = πd = 3.14 × 10 = 31.4 cm.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-013","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"π represents the ratio between:","audioPrompt":"π represents the ratio between:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Radius and area","Circumference and diameter","Diameter and radius","Area and circumference"],"correct":1,"explanation":"π = circumference ÷ diameter.","structuredExplanation":{"summary":"π = circumference ÷ diameter.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-014","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"Which value is a well-known Babylonian approximation of π?","audioPrompt":"Which value is a well-known Babylonian approximation of π?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3.125","3.5","3.75","4"],"correct":0,"explanation":"A Babylonian approximation of π was 25/8 = 3.125.","structuredExplanation":{"summary":"A Babylonian approximation of π was 25/8 = 3.125.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-015","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"An ancient Egyptian approximation derived from the Rhind Mathematical Papyrus is closest to:","audioPrompt":"An ancient Egyptian approximation derived from the Rhind Mathematical Papyrus is closest to:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3.00","3.14","3.16","3.50"],"correct":2,"explanation":"The method gives a value close to 3.1605.","structuredExplanation":{"summary":"The method gives a value close to 3.1605.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-016","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"Archimedes showed that π lies approximately:","audioPrompt":"Archimedes showed that π lies approximately:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Between 2.9 and 3.0","Between 3.1408 and 3.1429","Between 3.4 and 3.5","Exactly at 3.14"],"correct":1,"explanation":"Archimedes bounded π between 223/71 and 22/7, approximately 3.1408 and 3.1429.","structuredExplanation":{"summary":"Archimedes bounded π between 223/71 and 22/7, approximately 3.1408 and 3.1429.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-017","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"Which statement about π is true?","audioPrompt":"Which statement about π is true?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["π changes for different circles","π is constant for all circles","π depends on the radius","π depends on the diameter"],"correct":1,"explanation":"The ratio C ÷ d is the same for every circle.","structuredExplanation":{"summary":"The ratio C ÷ d is the same for every circle.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-018","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"Aryabhata's approximation of π was close to:","audioPrompt":"Aryabhata's approximation of π was close to:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3.14","3.1416","3.125","3.1605"],"correct":1,"explanation":"Aryabhata gave an approximation close to 3.1416.","structuredExplanation":{"summary":"Aryabhata gave an approximation close to 3.1416.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-019","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"In a circular woven design, which measurements can be used to describe its size accurately?","audioPrompt":"In a circular woven design, which measurements can be used to describe its size accurately?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Radius and centre only","Radius, diameter and circumference","Area only","Angles only"],"correct":1,"explanation":"Radius, diameter and circumference are all useful measurements of a circular form.","structuredExplanation":{"summary":"Radius, diameter and circumference are all useful measurements of a circular form.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-020","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"Why is identifying the centre useful when constructing a circular design?","audioPrompt":"Why is identifying the centre useful when constructing a circular design?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It helps keep points on the boundary an equal distance from the middle","It changes the value of π","It removes the need for a radius","It makes the diameter shorter"],"correct":0,"explanation":"A circle is defined by points that are all the same distance from its centre.","structuredExplanation":{"summary":"A circle is defined by points that are all the same distance from its centre.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-021","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"For a circular shelter footprint, the radius is the distance:","audioPrompt":"For a circular shelter footprint, the radius is the distance:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Around the outside edge","Across the full circle without passing through the centre","From the centre to the boundary","From one corner to another"],"correct":2,"explanation":"Radius is the distance from the centre to the circumference.","structuredExplanation":{"summary":"Radius is the distance from the centre to the circumference.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-022","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"If you need to know the distance around a circular meeting area, which measurement do you need?","audioPrompt":"If you need to know the distance around a circular meeting area, which measurement do you need?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Chord","Tangent","Circumference","Sector"],"correct":2,"explanation":"Circumference is the distance around a circle.","structuredExplanation":{"summary":"Circumference is the distance around a circle.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-023","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"In some First Nations Australian visual traditions, circles may be used to represent:","audioPrompt":"In some First Nations Australian visual traditions, circles may be used to represent:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Only mathematical formulas","Meeting places or camps, depending on context","Only weather patterns","A universal symbol with one fixed meaning"],"correct":1,"explanation":"Meanings vary by community and context; circles can represent meeting places or camps in some visual traditions.","structuredExplanation":{"summary":"Meanings vary by community and context; circles can represent meeting places or camps in some visual traditions.","hint":""},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m03-p-024","curriculumCode":"AC9M7M03","bank":"practice","skill":"circle relationships and circumference","printable":true,"type":"single","question":"If the radius of a circular woven mat increases while its shape remains circular, what happens to its circumference?","audioPrompt":"If the radius of a circular woven mat increases while its shape remains circular, what happens to its circumference?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It decreases","It increases","It stays constant","It becomes zero"],"correct":1,"explanation":"C = 2πr, so a larger radius gives a larger circumference.","structuredExplanation":{"summary":"C = 2πr, so a larger radius gives a larger circumference.","hint":""},"qualitySchema":"production-v1"}
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
