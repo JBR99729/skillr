@@ -1,0 +1,33 @@
+name: Restore Year 7 Maths analytics wiring
+
+on:
+  push:
+    branches:
+      - fix/year7-maths-static-learn-content
+    paths:
+      - scripts/restore_year7_maths_analytics.mjs
+      - .github/workflows/restore-year7-maths-analytics.yml
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/year7-maths-static-learn-content
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/restore_year7_maths_analytics.mjs
+      - name: Commit static page preservation only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add year7/maths/*/index.html
+          git rm scripts/restore_year7_maths_analytics.mjs .github/workflows/restore-year7-maths-analytics.yml
+          git commit -m "Restore analytics on Year 7 Maths Learn pages"
+          git push origin HEAD:fix/year7-maths-static-learn-content
