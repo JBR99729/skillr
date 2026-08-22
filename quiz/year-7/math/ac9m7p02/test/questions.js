@@ -1,237 +1,57 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9m7p02-t-001",
-    "curriculumCode": "AC9M7P02",
-    "bank": "test",
-    "skill": "audit a simulation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving audit a simulation. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving audit a simulation. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
-      "Small sample required to match theory",
-      "Variation can be large",
-      "Observed count divided by total trials"
-    ],
-    "correct": 0,
-    "explanation": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5\nHint: Variation can be large.",
-    "structuredExplanation": {
-      "summary": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
-      "hint": "Variation can be large."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p02-t-002",
-    "curriculumCode": "AC9M7P02",
-    "bank": "test",
-    "skill": "explain variation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving explain variation. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving explain variation. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Results adjusted to fit expectation",
-      "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
-      "Record all valid outcomes",
-      "Observed count divided by total trials"
-    ],
-    "correct": 1,
-    "explanation": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.\nHint: Record all valid outcomes.",
-    "structuredExplanation": {
-      "summary": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
-      "hint": "Record all valid outcomes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p02-t-003",
-    "curriculumCode": "AC9M7P02",
-    "bank": "test",
-    "skill": "calculate relative frequency",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving calculate relative frequency. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving calculate relative frequency. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Raw counts compared across different totals",
-      "Use relative frequencies",
-      "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
-      "Observed count divided by total trials"
-    ],
-    "correct": 2,
-    "explanation": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.\nHint: Use relative frequencies.",
-    "structuredExplanation": {
-      "summary": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
-      "hint": "Use relative frequencies."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p02-t-004",
-    "curriculumCode": "AC9M7P02",
-    "bank": "test",
-    "skill": "find expected count",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving find expected count. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving find expected count. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Digital random process not audited",
-      "Check code, settings and output totals",
-      "Observed count divided by total trials",
-      "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness."
-    ],
-    "correct": 3,
-    "explanation": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.\nHint: Check code, settings and output totals.",
-    "structuredExplanation": {
-      "summary": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
-      "hint": "Check code, settings and output totals."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p02-t-005",
-    "curriculumCode": "AC9M7P02",
-    "bank": "test",
-    "skill": "compare sample sizes",
-    "printable": true,
-    "type": "single",
-    "question": "What should be checked when applying compare sample sizes in repeated experiments and probability simulation?",
-    "audioPrompt": "What should be checked when applying compare sample sizes in repeated experiments and probability simulation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
-      "Small sample required to match theory",
-      "Variation can be large",
-      "Observed count divided by total trials"
-    ],
-    "correct": 0,
-    "explanation": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5\nHint: Variation can be large.",
-    "structuredExplanation": {
-      "summary": "103 heads in 200 tosses gives relative frequency 0.515, close to but not equal to 0.5",
-      "hint": "Variation can be large."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p02-t-006",
-    "curriculumCode": "AC9M7P02",
-    "bank": "test",
-    "skill": "audit a simulation",
-    "printable": true,
-    "type": "single",
-    "question": "Which response best uses audit a simulation in repeated experiments and probability simulation?",
-    "audioPrompt": "Which response best uses audit a simulation in repeated experiments and probability simulation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Results adjusted to fit expectation",
-      "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
-      "Record all valid outcomes",
-      "Observed count divided by total trials"
-    ],
-    "correct": 1,
-    "explanation": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.\nHint: Record all valid outcomes.",
-    "structuredExplanation": {
-      "summary": "The results need not move steadily toward 0.5. Stability means fluctuations typically become smaller relative to the sample.",
-      "hint": "Record all valid outcomes."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p02-t-007",
-    "curriculumCode": "AC9M7P02",
-    "bank": "test",
-    "skill": "explain variation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving explain variation. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving explain variation. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Raw counts compared across different totals",
-      "Use relative frequencies",
-      "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
-      "Observed count divided by total trials"
-    ],
-    "correct": 2,
-    "explanation": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.\nHint: Use relative frequencies.",
-    "structuredExplanation": {
-      "summary": "A simulation is only as valid as its programmed probability model and randomisation. Verify with a small trace and total-count checks.",
-      "hint": "Use relative frequencies."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p02-t-008",
-    "curriculumCode": "AC9M7P02",
-    "bank": "test",
-    "skill": "calculate relative frequency",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving calculate relative frequency. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving calculate relative frequency. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Digital random process not audited",
-      "Check code, settings and output totals",
-      "Observed count divided by total trials",
-      "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness."
-    ],
-    "correct": 3,
-    "explanation": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.\nHint: Check code, settings and output totals.",
-    "structuredExplanation": {
-      "summary": "Relative frequency estimates probability through repeated trials; larger samples usually stabilise the estimate but do not remove randomness.",
-      "hint": "Check code, settings and output totals."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["A fair coin is tossed 200 times. Expected heads are 100; observed heads are 94. Which comparison is correct?",["observed is 6 below expected","observed is 94 below expected","the model is disproved","relative frequency is 0.94"],0,"94−100=−6."],
+["The relative frequency of heads in that experiment is:",["0.47","0.50","0.94","0.06"],0,"94÷200=0.47."],
+["A 2000-trial fair-coin simulation gives 1012 heads. Relative frequency:",["0.506","0.500","0.494","0.1012"],0,"1012÷2000=0.506."],
+["Which of the two relative frequencies 0.47 and 0.506 is closer to 0.5?",["0.506","0.47","equally close","cannot compare"],0,"Differences are 0.006 and 0.03."],
+["Why should you avoid saying the 2000-trial simulation is closer solely because it is digital?",["it also has ten times as many trials, and model quality matters","digital simulations have no randomness","physical coins have no probability","0.506 equals 0.5 exactly"],0,"Trial count is a major confounding factor in that comparison."],
+["A fair die is simulated 300 times with counts 44,52,49,51,54,50. Do the counts pass a basic total check?",["Yes, they sum to 300","No, they sum to 294","No, they sum to 306","No, each must equal 50"],0,"44+52+49+51+54+50=300."],
+["For that simulation, relative frequency of rolling 5 is:",["0.18","0.167","0.54","0.05"],0,"54÷300=0.18."],
+["Difference from theoretical 1/6≈0.1667 is approximately:",["0.0133","0.1667","0.18","0.3467"],0,"0.18−0.1667≈0.0133."],
+["Which conclusion is justified?",["The observed result is reasonably close to the fair-die prediction","the die is definitely biased","all six counts must be identical","theoretical probability has become 0.18"],0,"Small differences are expected in random trials."],
+["A five-colour equal spinner gives counts 78,82,75,85,80 in 400 spins. What basic check should be done first?",["verify counts total 400","force every count to 80","remove the largest count","calculate only Yellow"],0,"78+82+75+85+80=400, so all trials are accounted for."],
+["Relative frequency of Yellow is:",["0.2125","0.20","0.85","0.1875"],0,"85÷400=0.2125."],
+["Expected Yellow count is:",["80","85","100","20"],0,"400×1/5=80."],
+["Observed Yellow exceeds expected by:",["5","0.0125","80","85"],0,"85−80=5."],
+["Which statement best explains that difference?",["random variation can produce counts above or below expectation","the spinner must be unfair","theoretical probability increases after Yellow occurs","large samples have no variation"],0,"Expected count is not an exact quota."],
+["A two-dice simulation records sum 8 on 78 of 600 trials. Relative frequency:",["0.13","0.1389","0.78","0.05"],0,"78÷600=0.13."],
+["Theoretical probability of sum 8 with two fair dice is 5/36≈0.1389. Difference from observed is about:",["0.0089","0.13","0.1389","0.2689"],0,"0.1389−0.13≈0.0089."],
+["Is this two-dice question a single-stage event?",["No; it involves a compound experiment, but it is a useful extension for simulation","Yes; two dice are one number","Yes because only one sum is recorded","No because probability cannot use dice"],0,"AC9M7P02 can extend simulation reasoning beyond the single-stage foundation."],
+["A simulator is intended to model a fair die but generates random integers 0 to 5 and reports them directly as die faces. What is wrong?",["the labels do not match die outcomes 1–6 unless remapped","nothing","0 is a fair die face","6 must never occur"],0,"The simulation needs a correct mapping to the intended sample space."],
+["A simulator is intended to model a fair coin but produces heads with programmed probability 0.6. What will more trials do?",["stabilise relative frequency near 0.6, not repair the wrong model","force it toward 0.5","remove the programming error","make heads and tails equal"],0,"Large numbers reveal the programmed probability; they do not fix model bias."],
+["This demonstrates that the law of large numbers:",["does not guarantee convergence to the probability you intended if the model itself is wrong","fixes incorrect code","makes all simulations fair","eliminates validation"],0,"Convergence is to the actual underlying model probability."],
+["A class compares 20, 200 and 2000 fair-coin trials. Which pattern is reasonable?",["relative frequencies generally become more stable around 0.5 as trial count grows","each larger sample must be closer than every smaller sample","all three must equal 0.5","the 20-trial result is always best"],0,"Stability is a tendency, not a monotonic guarantee."],
+["Which sequence is possible for running relative frequency of heads?",["0.60 after 20, 0.48 after 200, 0.51 after 2000","it must decrease steadily","it must equal 0.5 after 200","it cannot cross 0.5"],0,"Random running proportions can move above and below the theoretical value."],
+["A student says 'relative frequency got farther from 0.5 after one extra toss, so the law of large numbers is false.' Best response:",["the law concerns long-run tendency, not improvement after every trial","the student is correct","one toss changes theoretical probability","large numbers means exactly 100 trials"],0,"Short-term fluctuations are compatible with long-run stabilisation."],
+["Which sample gives the more stable estimate in general?",["5000 independent trials rather than 50, assuming the same valid model","50 trials always","sample size is irrelevant","the sample with the prettiest graph"],0,"Larger independent samples generally reduce relative random fluctuation."],
+["A simulation result is 0.27 for an event with theoretical probability 0.25. Which information is essential before judging the discrepancy?",["number of trials","colour of the interface","order of outcome labels","screen size"],0,"A difference of 0.02 means very different things in 20 versus 200,000 trials."],
+["If only 20 trials were run, 0.27 is impossible because counts must be whole numbers. Why?",["relative frequencies in 20 trials occur in steps of 1/20=0.05","probability cannot be decimal","20 is too large","0.27>0.25"],0,"Observed count/20 must be a multiple of 0.05."],
+["Which relative frequency is possible in exactly 20 trials?",["0.30","0.27","0.333","0.42"],0,"0.30=6/20; the others are not integer multiples of 0.05."],
+["A fair coin gives 11 tails in 30 tosses. Relative frequency tails:",["11/30≈0.367","0.5","19/30","11"],0,"Experimental probability uses observed 11/30."],
+["Expected tails are 15. Does observing 11 imply the coin is unfair?",["No; one small sample can vary substantially","Yes","only if heads=19","theoretical probability becomes 11/30"],0,"More evidence would be needed."],
+["Which investigation better tests fairness?",["repeat many controlled tosses and compare both outcome proportions with 0.5","stop after 3 tosses","choose only trials with heads","change coins every toss without recording"],0,"Controlled repeated trials give stronger evidence."],
+["A digital random generator is seeded so the exact sequence repeats each run. Can it still be useful for teaching?",["Yes, but repeated identical runs are not independent new evidence; the setup should be understood","No simulation can use a seed","Yes and it proves randomness","it changes theoretical probability"],0,"Reproducibility can be useful, but identical replay should not be mistaken for additional independent trials."],
+["A simulation accidentally omits one outcome category from its report. What is a strong diagnostic?",["sum reported counts and compare with requested total trials","increase trials until it disappears","force probabilities to sum by editing results","ignore the missing outcomes"],0,"Total-count checks reveal unrecorded outcomes."],
+["A class predicts 100 heads in 200 tosses but gets 103. Which reporting sentence is best?",["Observed 103 is 3 above expected and RF=0.515, close to 0.5","the experiment failed","the coin has probability 0.515 exactly","heads were guaranteed 100 times"],0,"Good reporting quantifies both observed count and relative frequency without overclaiming."],
+["Why compare relative frequencies rather than raw counts when trial totals differ?",["relative frequencies put results on the same proportional scale","raw counts are never useful","probabilities cannot use counts","relative frequencies remove randomness"],0,"A proportion adjusts for sample size."],
+["Experiment A: 51 heads/100. Experiment B: 510 heads/1000. Their relative frequencies are:",["both 0.51","0.51 and 0.5100 but different probabilities","51 and 510","0.5 and 0.51"],0,"Both observed proportions equal 0.51."],
+["Which experiment provides more data about long-run behaviour?",["B with 1000 trials","A with 100","both have identical evidence because RF matches","neither"],0,"The larger sample contains more repeated observations."],
+["Does matching relative frequency prove two simulations use the same underlying model?",["No; different models or chance samples can produce the same observed proportion","Yes","only if RF=0.5","only for dice"],0,"Observed summaries do not uniquely identify the generating mechanism."],
+["A fair six-sided die simulator records 100,101,99,100,100,100 across 600 rolls. Is this 'too close' to expected to be possible?",["No; such counts are possible, though any specific pattern has some chance","Yes, random results must be uneven","Yes, every count must differ","No because simulators are deterministic"],0,"Randomness does not require visibly irregular counts."],
+["Which statement about 'accuracy' is best?",["larger trial counts usually make relative frequency a more stable estimate, but simulation validity also matters","more trials guarantee correct code","accuracy means exact equality with theory","physical trials are always less accurate"],0,"Sample size and model quality are separate issues."],
+["A culturally specific game is used for a probability investigation. What should be verified before assigning theoretical probabilities?",["authentic rules/chance mechanism from a reliable source and whether outcomes are equally likely","only the game's name","that all labels have equal probability","that students can alter rules silently"],0,"Correct probability modelling depends on accurate rules and respectful sourcing."],
+["Why should students distinguish mathematical analysis from cultural claims about a game?",["probability results come from the stated chance mechanism; broader cultural meanings require reliable source support","mathematics proves all cultural meanings","cultural context is irrelevant","all games share the same traditions"],0,"This keeps both the mathematics and cultural representation accurate."],
+["If an accurately sourced game's event has observed RF 0.28 over 200 plays, can you predict exactly 280 events in 1000 future plays?",["No; 280 is an estimate based on 0.28, not a guarantee","Yes","only if digital","only if the game is traditional"],0,"Expected counts remain uncertain."],
+["Using RF=0.28, the estimated count in 1000 similar plays is:",["280","28","720","1000"],0,"1000×0.28=280."],
+["A class runs five separate 100-trial simulations. Why might the five relative frequencies differ?",["independent random variation","theoretical probability changes each run","sample space disappears","one run must be wrong"],0,"Repeated samples from the same model can differ."],
+["Would averaging evidence across the five runs effectively use more trials?",["Yes, if the runs are comparable and independent, together they represent 500 trials","No","only if every RF is equal","only for coins"],0,"Combining counts across comparable runs increases the total evidence."],
+["Which conclusion is too strong after 10,000 simulated fair-coin tosses give RF=0.498?",["the next toss is almost certainly heads","the result is close to 0.5","large-trial behaviour is consistent with the fair model","random variation remains"],0,"Long-run frequency does not determine an individual next outcome."],
+["Which conclusion is too strong after 10,000 tosses give exactly 5000 heads?",["randomness has disappeared","the relative frequency equals 0.5 in this sample","the result is compatible with a fair model","future samples can differ"],0,"Exact agreement in one sample does not remove chance."],
+["A student changes simulated outcomes to make them match expected counts. Why is this invalid?",["it destroys the experimental evidence and hides random variation","it improves the simulation","expected counts are required outputs","probability demands equal counts"],0,"Observed data should be recorded honestly."],
+["Which is the best complete workflow for AC9M7P02?",["state model and prediction, run/verify many trials, record counts, calculate relative frequencies, compare, explain variation and limitations","run trials and edit them to theory","calculate expected count only","use the largest raw count as probability"],0,"This captures the experiment/simulation cycle."],
+["Which statement best captures the law of large numbers for Year 7?",["with many repeated trials, relative frequency tends to become more stable near the underlying probability, while random variation remains","every large sample equals theory exactly","probability depends on sample size","small samples are invalid"],0,"This wording avoids the common exact-match misconception."],
+["Which statement best summarises higher-level AC9M7P02 reasoning?",["Use repeated physical/digital trials to evaluate probability predictions, while checking sample size, randomness and model validity","digital results are automatically correct","observed and expected counts must match","large trials eliminate uncertainty"],0,"The topic combines computation, simulation and evaluation."]
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
+window.skillrTestQuestions=raw.map((q,i)=>({id:`ac9m7p02-t-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M7P02",bank:"test",skill:"reason about simulations",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Check trial count, model validity and the difference between expected and observed relative frequency."},qualitySchema:"production-v1"}));
+window.skillrExamQuestions=window.skillrTestQuestions;
+window.quizQuestions=window.skillrTestQuestions;
