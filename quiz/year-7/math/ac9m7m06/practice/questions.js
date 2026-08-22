@@ -4,233 +4,67 @@ window.skillrPracticeQuestions = [
     "id": "ac9m7m06-p-001",
     "curriculumCode": "AC9M7M06",
     "bank": "practice",
-    "skill": "formulate a site model",
+    "skill": "ratio modelling",
     "printable": true,
     "type": "single",
-    "question": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
+    "question": "Ratio 4:9 represents how many total parts?",
+    "audioPrompt": "Ratio 4:9 represents how many total parts?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "Diagram not linked to calculations",
-      "Label every used dimension",
-      "Representation with proportional lengths"
-    ],
-    "correct": 0,
-    "explanation": "A 20 m² bed with 8% allowance needs 21.6 m² of material\nHint: Label every used dimension.",
-    "structuredExplanation": {
-      "summary": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "hint": "Label every used dimension."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-p-002",
-    "curriculumCode": "AC9M7M06",
-    "bank": "practice",
-    "skill": "choose formulas and units",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Area, perimeter and volume units mixed",
-      "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "Match attribute and formula",
-      "Representation with proportional lengths"
-    ],
-    "correct": 1,
-    "explanation": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.\nHint: Match attribute and formula.",
-    "structuredExplanation": {
-      "summary": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "hint": "Match attribute and formula."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-p-003",
-    "curriculumCode": "AC9M7M06",
-    "bank": "practice",
-    "skill": "add a material allowance",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Waste percentage added to a dimension rather than total material",
-      "Apply it to the relevant quantity",
-      "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "Representation with proportional lengths"
-    ],
+    "visualMeta": {"type":"none","alt_text":""},
+    "answers": ["4","9","13","36"],
     "correct": 2,
-    "explanation": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.\nHint: Apply it to the relevant quantity.",
-    "structuredExplanation": {
-      "summary": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "hint": "Apply it to the relevant quantity."
-    },
+    "explanation": "Total parts are found by adding the ratio terms: 4 + 9 = 13.",
+    "structuredExplanation": {"summary":"Total parts are found by adding the ratio terms: 4 + 9 = 13.","hint":"Add the parts when you need the whole."},
     "qualitySchema": "production-v1"
   },
-  {
-    "id": "ac9m7m06-p-004",
-    "curriculumCode": "AC9M7M06",
-    "bank": "practice",
-    "skill": "check scale and constraints",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Recommendation lacks alternatives",
-      "Compare at least one feasible option",
-      "Representation with proportional lengths",
-      "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision."
-    ],
-    "correct": 3,
-    "explanation": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.\nHint: Compare at least one feasible option.",
-    "structuredExplanation": {
-      "summary": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
-      "hint": "Compare at least one feasible option."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-p-005",
-    "curriculumCode": "AC9M7M06",
-    "bank": "practice",
-    "skill": "justify an alternative",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies allowance in measurement and geometry modelling?",
-    "audioPrompt": "Which statement correctly identifies allowance in measurement and geometry modelling?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "Diagram not linked to calculations",
-      "Label every used dimension",
-      "Representation with proportional lengths"
-    ],
-    "correct": 0,
-    "explanation": "A 20 m² bed with 8% allowance needs 21.6 m² of material\nHint: Label every used dimension.",
-    "structuredExplanation": {
-      "summary": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "hint": "Label every used dimension."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-p-006",
-    "curriculumCode": "AC9M7M06",
-    "bank": "practice",
-    "skill": "formulate a site model",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes geometric constraint in measurement and geometry modelling?",
-    "audioPrompt": "Which choice best describes geometric constraint in measurement and geometry modelling?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Area, perimeter and volume units mixed",
-      "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "Match attribute and formula",
-      "Representation with proportional lengths"
-    ],
-    "correct": 1,
-    "explanation": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.\nHint: Match attribute and formula.",
-    "structuredExplanation": {
-      "summary": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "hint": "Match attribute and formula."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-p-007",
-    "curriculumCode": "AC9M7M06",
-    "bank": "practice",
-    "skill": "choose formulas and units",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for scale drawing in measurement and geometry modelling?",
-    "audioPrompt": "What does correct use require for scale drawing in measurement and geometry modelling?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Waste percentage added to a dimension rather than total material",
-      "Apply it to the relevant quantity",
-      "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "Representation with proportional lengths"
-    ],
-    "correct": 2,
-    "explanation": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.\nHint: Apply it to the relevant quantity.",
-    "structuredExplanation": {
-      "summary": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "hint": "Apply it to the relevant quantity."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-p-008",
-    "curriculumCode": "AC9M7M06",
-    "bank": "practice",
-    "skill": "add a material allowance",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Recommendation lacks alternatives",
-      "Compare at least one feasible option",
-      "Representation with proportional lengths",
-      "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision."
-    ],
-    "correct": 3,
-    "explanation": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.\nHint: Compare at least one feasible option.",
-    "structuredExplanation": {
-      "summary": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
-      "hint": "Compare at least one feasible option."
-    },
-    "qualitySchema": "production-v1"
-  }
+  {"id":"ac9m7m06-p-002","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"In the ratio 2:7, what fraction of the whole is the first part?","audioPrompt":"In the ratio 2:7, what fraction of the whole is the first part?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["2/7","2/9","7/9","7/2"],"correct":1,"explanation":"There are 9 total parts, so the first part is 2/9 of the whole.","structuredExplanation":{"summary":"There are 9 total parts, so the first part is 2/9 of the whole.","hint":"Part-whole uses the sum of all ratio parts as the denominator."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-003","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Simplify 12:3.","audioPrompt":"Simplify 12:3.","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["4:1","3:1","1:4","12:1"],"correct":0,"explanation":"Divide both terms by 3 to get 4:1.","structuredExplanation":{"summary":"Divide both terms by 3 to get 4:1.","hint":"Divide both terms by the same common factor."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-004","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"In the ratio 5:5, what fraction of the whole is the first part?","audioPrompt":"In the ratio 5:5, what fraction of the whole is the first part?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1/2","1/5","5/10 only, not 1/2","10/5"],"correct":0,"explanation":"There are 10 total parts and 5 belong to the first part, so 5/10 = 1/2.","structuredExplanation":{"summary":"There are 10 total parts and 5 belong to the first part, so 5/10 = 1/2.","hint":"Simplify the part-whole fraction."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-005","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A:B = 3:2. What fraction of the whole is B?","audioPrompt":"A:B = 3:2. What fraction of the whole is B?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["2/3","2/5","3/5","5/2"],"correct":1,"explanation":"There are 5 total parts and B has 2 of them, so B is 2/5.","structuredExplanation":{"summary":"There are 5 total parts and B has 2 of them, so B is 2/5.","hint":"Add 3 + 2 to find the whole."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-006","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Simplify 9:6.","audioPrompt":"Simplify 9:6.","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3:2","2:3","9:3","6:9"],"correct":0,"explanation":"Divide both terms by 3 to get 3:2.","structuredExplanation":{"summary":"Divide both terms by 3 to get 3:2.","hint":"Use the greatest common factor."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-007","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"In the ratio 7:1, what fraction of the whole is the larger part?","audioPrompt":"In the ratio 7:1, what fraction of the whole is the larger part?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["7/8","1/8","7/1","1/7"],"correct":0,"explanation":"There are 8 total parts and the larger part has 7, so it is 7/8.","structuredExplanation":{"summary":"There are 8 total parts and the larger part has 7, so it is 7/8.","hint":"Use part over total parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-008","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Simplify 15:10.","audioPrompt":"Simplify 15:10.","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3:2","2:3","5:10","15:5"],"correct":0,"explanation":"Divide both terms by 5 to get 3:2.","structuredExplanation":{"summary":"Divide both terms by 5 to get 3:2.","hint":"Divide both terms by the same factor."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-009","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"In the ratio 4:1, what fraction of the whole is the second part?","audioPrompt":"In the ratio 4:1, what fraction of the whole is the second part?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1/4","1/5","4/5","5/4"],"correct":1,"explanation":"There are 5 total parts and the second part has 1, so it is 1/5.","structuredExplanation":{"summary":"There are 5 total parts and the second part has 1, so it is 1/5.","hint":"The whole contains 4 + 1 parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-010","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Simplify 2:8.","audioPrompt":"Simplify 2:8.","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1:4","4:1","2:4","8:2"],"correct":0,"explanation":"Divide both terms by 2 to get 1:4.","structuredExplanation":{"summary":"Divide both terms by 2 to get 1:4.","hint":"Simplify both terms together."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-011","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A class has boys:girls = 3:4. What fraction of the class are girls?","audioPrompt":"A class has boys:girls = 3:4. What fraction of the class are girls?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3/7","4/7","1/4","7/3"],"correct":1,"explanation":"There are 7 total parts and 4 are girls, so the fraction is 4/7.","structuredExplanation":{"summary":"There are 7 total parts and 4 are girls, so the fraction is 4/7.","hint":"Convert the part-part ratio to part-whole."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-012","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A mixture has red:blue = 5:1. What fraction of the mixture is red?","audioPrompt":"A mixture has red:blue = 5:1. What fraction of the mixture is red?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1/6","5/6","1/5","6/5"],"correct":1,"explanation":"There are 6 total parts and 5 are red, so the fraction is 5/6.","structuredExplanation":{"summary":"There are 6 total parts and 5 are red, so the fraction is 5/6.","hint":"Use first part over total parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-013","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Concrete uses cement:sand:gravel = 1:2:3. How many total parts are in the ratio?","audioPrompt":"Concrete uses cement:sand:gravel = 1:2:3. How many total parts are in the ratio?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3","5","6","7"],"correct":2,"explanation":"1 + 2 + 3 = 6 total parts.","structuredExplanation":{"summary":"1 + 2 + 3 = 6 total parts.","hint":"Add all ratio terms."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-014","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A 1:2:3 concrete mix has a total mass of 30 kg. How much cement is needed?","audioPrompt":"A 1:2:3 concrete mix has a total mass of 30 kg. How much cement is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["5 kg","10 kg","15 kg","20 kg"],"correct":0,"explanation":"One part is 30 ÷ 6 = 5 kg, so cement is 5 kg.","structuredExplanation":{"summary":"One part is 30 ÷ 6 = 5 kg, so cement is 5 kg.","hint":"Find the value of one part first."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-015","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Salad dressing uses oil:vinegar = 3:1. If the total volume is 200 mL, how much vinegar is used?","audioPrompt":"Salad dressing uses oil:vinegar = 3:1. If the total volume is 200 mL, how much vinegar is used?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["25 mL","50 mL","75 mL","100 mL"],"correct":1,"explanation":"There are 4 parts, so one part is 200 ÷ 4 = 50 mL.","structuredExplanation":{"summary":"There are 4 parts, so one part is 200 ÷ 4 = 50 mL.","hint":"Vinegar is one of four equal parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-016","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A dye mix uses red:yellow = 4:1. If the total is 250 mL, how much red dye is used?","audioPrompt":"A dye mix uses red:yellow = 4:1. If the total is 250 mL, how much red dye is used?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["50 mL","100 mL","200 mL","250 mL"],"correct":2,"explanation":"One part is 50 mL, so red is 4 × 50 = 200 mL.","structuredExplanation":{"summary":"One part is 50 mL, so red is 4 × 50 = 200 mL.","hint":"There are 5 total parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-017","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A recipe uses sugar:flour = 2:3. If flour is 600 g, how much sugar is needed?","audioPrompt":"A recipe uses sugar:flour = 2:3. If flour is 600 g, how much sugar is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["200 g","300 g","400 g","500 g"],"correct":2,"explanation":"Three parts equal 600 g, so one part is 200 g and sugar is 400 g.","structuredExplanation":{"summary":"Three parts equal 600 g, so one part is 200 g and sugar is 400 g.","hint":"Use the known component to find one part."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-018","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A rectangle is designed in the ratio short:long = 1:1.618. If the short side is 10 cm, what is the long side?","audioPrompt":"A rectangle is designed in the ratio short:long = 1:1.618. If the short side is 10 cm, what is the long side?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["12 cm","14 cm","16.18 cm","18 cm"],"correct":2,"explanation":"10 × 1.618 = 16.18 cm.","structuredExplanation":{"summary":"10 × 1.618 = 16.18 cm.","hint":"Scale the longer term by the short-side length."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-019","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A drink uses juice:water = 1:4. If the total is 500 mL, how much water is used?","audioPrompt":"A drink uses juice:water = 1:4. If the total is 500 mL, how much water is used?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["100 mL","200 mL","400 mL","450 mL"],"correct":2,"explanation":"There are 5 parts; one part is 100 mL, so water is 400 mL.","structuredExplanation":{"summary":"There are 5 parts; one part is 100 mL, so water is 400 mL.","hint":"Water is four of the five parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-020","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Sand:gravel = 2:5. If gravel is 20 kg, how much sand is needed?","audioPrompt":"Sand:gravel = 2:5. If gravel is 20 kg, how much sand is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["4 kg","8 kg","10 kg","12 kg"],"correct":1,"explanation":"Five parts equal 20 kg, so one part is 4 kg and sand is 8 kg.","structuredExplanation":{"summary":"Five parts equal 20 kg, so one part is 4 kg and sand is 8 kg.","hint":"Find one part from the gravel amount."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-021","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Cocoa:sugar = 1:3. If sugar is 150 g, how much cocoa is needed?","audioPrompt":"Cocoa:sugar = 1:3. If sugar is 150 g, how much cocoa is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["25 g","50 g","75 g","100 g"],"correct":1,"explanation":"Three parts equal 150 g, so one part is 50 g.","structuredExplanation":{"summary":"Three parts equal 150 g, so one part is 50 g.","hint":"Cocoa is one part."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-022","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Blue:white paint = 2:3. If the total is 250 mL, how much blue paint is needed?","audioPrompt":"Blue:white paint = 2:3. If the total is 250 mL, how much blue paint is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["50 mL","75 mL","100 mL","150 mL"],"correct":2,"explanation":"There are 5 parts; one part is 50 mL, so blue is 100 mL.","structuredExplanation":{"summary":"There are 5 parts; one part is 50 mL, so blue is 100 mL.","hint":"Blue is two parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-023","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A bar model has 6 equal blocks for A and 2 for B. What is the simplest ratio A:B?","audioPrompt":"A bar model has 6 equal blocks for A and 2 for B. What is the simplest ratio A:B?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["6:2","3:1","1:3","2:6"],"correct":1,"explanation":"6:2 simplifies by dividing both terms by 2, giving 3:1.","structuredExplanation":{"summary":"6:2 simplifies by dividing both terms by 2, giving 3:1.","hint":"Simplify the modelled ratio."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-024","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A diagram has 2 shaded parts and 3 unshaded parts. What is shaded:unshaded?","audioPrompt":"A diagram has 2 shaded parts and 3 unshaded parts. What is shaded:unshaded?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["2:3","3:2","2:5","5:2"],"correct":0,"explanation":"The diagram directly shows 2 shaded for every 3 unshaded parts.","structuredExplanation":{"summary":"The diagram directly shows 2 shaded for every 3 unshaded parts.","hint":"Keep the stated order shaded:unshaded."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-025","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A strip has 8 equal parts, with 3 shaded. What fraction is shaded?","audioPrompt":"A strip has 8 equal parts, with 3 shaded. What fraction is shaded?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3/8","5/8","3/5","8/3"],"correct":0,"explanation":"Three of the 8 equal parts are shaded, so the fraction is 3/8.","structuredExplanation":{"summary":"Three of the 8 equal parts are shaded, so the fraction is 3/8.","hint":"Shaded over total."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-026","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A pie model shows 1/4 shaded. What is the ratio shaded:unshaded?","audioPrompt":"A pie model shows 1/4 shaded. What is the ratio shaded:unshaded?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1:3","3:1","1:4","4:1"],"correct":0,"explanation":"If 1/4 is shaded, 3/4 is unshaded, giving 1:3.","structuredExplanation":{"summary":"If 1/4 is shaded, 3/4 is unshaded, giving 1:3.","hint":"Compare shaded parts with remaining parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-027","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A colour model uses 2 yellow counters and 6 red counters. What is the simplest ratio red:yellow?","audioPrompt":"A colour model uses 2 yellow counters and 6 red counters. What is the simplest ratio red:yellow?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1:3","2:6","3:1","6:1"],"correct":2,"explanation":"Red:yellow is 6:2, which simplifies to 3:1.","structuredExplanation":{"summary":"Red:yellow is 6:2, which simplifies to 3:1.","hint":"Keep the requested order red:yellow."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-028","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A bar model shows 10 equal blocks, 4 shaded. What is the simplest ratio shaded:unshaded?","audioPrompt":"A bar model shows 10 equal blocks, 4 shaded. What is the simplest ratio shaded:unshaded?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["4:10","4:6","2:3","3:2"],"correct":2,"explanation":"There are 4 shaded and 6 unshaded blocks; 4:6 simplifies to 2:3.","structuredExplanation":{"summary":"There are 4 shaded and 6 unshaded blocks; 4:6 simplifies to 2:3.","hint":"Find unshaded first, then simplify."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-029","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A colour mix uses red:yellow = 1:5 and totals 180 mL. How much red is needed?","audioPrompt":"A colour mix uses red:yellow = 1:5 and totals 180 mL. How much red is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["20 mL","30 mL","36 mL","45 mL"],"correct":1,"explanation":"There are 6 parts, so each part is 30 mL; red is 30 mL.","structuredExplanation":{"summary":"There are 6 parts, so each part is 30 mL; red is 30 mL.","hint":"Red is one part."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-030","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A 12-part strip has 9 shaded parts. What fraction is shaded in simplest form?","audioPrompt":"A 12-part strip has 9 shaded parts. What fraction is shaded in simplest form?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["9/12","3/4","1/4","4/3"],"correct":1,"explanation":"9/12 simplifies by dividing by 3 to 3/4.","structuredExplanation":{"summary":"9/12 simplifies by dividing by 3 to 3/4.","hint":"Simplify the fraction."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-031","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A concrete mix uses 1:2:4 and totals 56 kg. How much cement is required?","audioPrompt":"A concrete mix uses 1:2:4 and totals 56 kg. How much cement is required?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["7 kg","8 kg","10 kg","14 kg"],"correct":1,"explanation":"There are 7 total parts, so one part is 56 ÷ 7 = 8 kg.","structuredExplanation":{"summary":"There are 7 total parts, so one part is 56 ÷ 7 = 8 kg.","hint":"Cement is one part."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-032","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Oil:vinegar = 5:2. If the total dressing is 210 mL, how much vinegar is used?","audioPrompt":"Oil:vinegar = 5:2. If the total dressing is 210 mL, how much vinegar is used?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["30 mL","42 mL","60 mL","70 mL"],"correct":2,"explanation":"There are 7 parts; one part is 30 mL, so vinegar is 60 mL.","structuredExplanation":{"summary":"There are 7 parts; one part is 30 mL, so vinegar is 60 mL.","hint":"Vinegar is two parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-033","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Blue:red dye = 3:1. If red is 40 mL, how much blue is used?","audioPrompt":"Blue:red dye = 3:1. If red is 40 mL, how much blue is used?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["40 mL","80 mL","120 mL","160 mL"],"correct":2,"explanation":"One part is 40 mL, so blue is 3 × 40 = 120 mL.","structuredExplanation":{"summary":"One part is 40 mL, so blue is 3 × 40 = 120 mL.","hint":"Red is one part."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-034","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Sugar:flour = 1:4. If sugar is 50 g, how much flour is needed?","audioPrompt":"Sugar:flour = 1:4. If sugar is 50 g, how much flour is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["100 g","150 g","200 g","250 g"],"correct":2,"explanation":"One part is 50 g, so flour is 4 × 50 = 200 g.","structuredExplanation":{"summary":"One part is 50 g, so flour is 4 × 50 = 200 g.","hint":"Scale both ratio terms by the same factor."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-035","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A golden-ratio design has long side 32.36 cm and ratio short:long = 1:1.618. What is the short side?","audioPrompt":"A golden-ratio design has long side 32.36 cm and ratio short:long = 1:1.618. What is the short side?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["20 cm","22 cm","24 cm","26 cm"],"correct":0,"explanation":"32.36 ÷ 1.618 = 20 cm.","structuredExplanation":{"summary":"32.36 ÷ 1.618 = 20 cm.","hint":"Reverse the scale using division."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-036","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Syrup:water = 1:5. If the drink totals 360 mL, how much syrup is used?","audioPrompt":"Syrup:water = 1:5. If the drink totals 360 mL, how much syrup is used?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["60 mL","72 mL","80 mL","90 mL"],"correct":0,"explanation":"There are 6 parts, so one part is 60 mL.","structuredExplanation":{"summary":"There are 6 parts, so one part is 60 mL.","hint":"Syrup is one part."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-037","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Gravel:sand = 7:3. If sand is 12 kg, how much gravel is needed?","audioPrompt":"Gravel:sand = 7:3. If sand is 12 kg, how much gravel is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["21 kg","24 kg","28 kg","30 kg"],"correct":2,"explanation":"Three parts equal 12 kg, so one part is 4 kg and gravel is 28 kg.","structuredExplanation":{"summary":"Three parts equal 12 kg, so one part is 4 kg and gravel is 28 kg.","hint":"Use the known component to find one part."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-038","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Cocoa:sugar = 2:5. If the mixture totals 350 g, how much cocoa is used?","audioPrompt":"Cocoa:sugar = 2:5. If the mixture totals 350 g, how much cocoa is used?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["50 g","70 g","100 g","140 g"],"correct":2,"explanation":"There are 7 parts; one part is 50 g, so cocoa is 100 g.","structuredExplanation":{"summary":"There are 7 parts; one part is 50 g, so cocoa is 100 g.","hint":"Cocoa is two parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-039","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"White:black paint = 4:1. If the total is 250 mL, how much black paint is used?","audioPrompt":"White:black paint = 4:1. If the total is 250 mL, how much black paint is used?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["25 mL","40 mL","50 mL","62.5 mL"],"correct":2,"explanation":"There are 5 parts; one part is 50 mL, so black is 50 mL.","structuredExplanation":{"summary":"There are 5 parts; one part is 50 mL, so black is 50 mL.","hint":"Black is one part."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-040","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A student represents 3:2 using counters. Which model is correct?","audioPrompt":"A student represents 3:2 using counters. Which model is correct?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3 red and 2 blue counters","2 red and 3 blue counters","3 red and 5 blue counters","5 red and 2 blue counters"],"correct":0,"explanation":"A ratio of 3:2 means 3 of the first type for every 2 of the second type.","structuredExplanation":{"summary":"A ratio of 3:2 means 3 of the first type for every 2 of the second type.","hint":"Keep the ratio order."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-041","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Which representation best shows a part-whole interpretation of 3:2?","audioPrompt":"Which representation best shows a part-whole interpretation of 3:2?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3/2","3/5","2/3","5/3"],"correct":1,"explanation":"The whole has 3 + 2 = 5 parts, so the first part is 3/5.","structuredExplanation":{"summary":"The whole has 3 + 2 = 5 parts, so the first part is 3/5.","hint":"Use first part over total parts."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-042","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Why is a bar model useful for ratio problems?","audioPrompt":"Why is a bar model useful for ratio problems?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It shows equal-sized parts and how quantities compare","It always gives the answer without calculation","It replaces units","It only works for fractions"],"correct":0,"explanation":"A bar model makes the equal parts and relative sizes visible.","structuredExplanation":{"summary":"A bar model makes the equal parts and relative sizes visible.","hint":"Think about what the diagram reveals."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-043","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A recipe is doubled from a ratio 2:3. Which ratio keeps the same proportions?","audioPrompt":"A recipe is doubled from a ratio 2:3. Which ratio keeps the same proportions?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["2:6","4:6","4:3","3:4"],"correct":1,"explanation":"Multiplying both terms by 2 gives the equivalent ratio 4:6.","structuredExplanation":{"summary":"Multiplying both terms by 2 gives the equivalent ratio 4:6.","hint":"Scale both terms by the same factor."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-044","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Which pair of ratios is equivalent?","audioPrompt":"Which pair of ratios is equivalent?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3:5 and 6:10","3:5 and 5:3","2:7 and 4:7","4:9 and 8:9"],"correct":0,"explanation":"Multiplying both terms of 3:5 by 2 gives 6:10.","structuredExplanation":{"summary":"Multiplying both terms of 3:5 by 2 gives 6:10.","hint":"Equivalent ratios use the same scale factor on both terms."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-045","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A model uses 4 parts extract and 6 parts water. What percentage of the mixture is extract?","audioPrompt":"A model uses 4 parts extract and 6 parts water. What percentage of the mixture is extract?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["40%","60%","66.7%","25%"],"correct":0,"explanation":"Extract is 4 out of 10 total parts, which is 40%.","structuredExplanation":{"summary":"Extract is 4 out of 10 total parts, which is 40%.","hint":"Convert the part-whole fraction to a percentage."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-046","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"A product formulation is scaled from 2:3 to a total of 25 L. How much belongs to the first part?","audioPrompt":"A product formulation is scaled from 2:3 to a total of 25 L. How much belongs to the first part?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["5 L","10 L","15 L","20 L"],"correct":1,"explanation":"There are 5 parts, so each part is 5 L and the first quantity is 10 L.","structuredExplanation":{"summary":"There are 5 parts, so each part is 5 L and the first quantity is 10 L.","hint":"Find one part before scaling."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-047","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Which statement best describes mathematical modelling with ratios?","audioPrompt":"Which statement best describes mathematical modelling with ratios?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Choose a ratio, calculate quantities, interpret the result in context, and justify the representation","Write any ratio and stop","Use only a calculator","Ignore units if the ratio is correct"],"correct":0,"explanation":"A model must connect the ratio to the real situation, calculations and interpretation.","structuredExplanation":{"summary":"A model must connect the ratio to the real situation, calculations and interpretation.","hint":"Modelling includes formulation, solving, interpretation and justification."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-048","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"When a ratio model gives 2.4 kg of an ingredient but the ingredient is sold only in whole-kilogram bags, what should you do?","audioPrompt":"When a ratio model gives 2.4 kg of an ingredient but the ingredient is sold only in whole-kilogram bags, what should you do?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Buy 2 kg","Buy 2.4 bags","Buy 3 kg and explain the practical constraint","Ignore the result"],"correct":2,"explanation":"The mathematical result must be interpreted in context; whole bags require rounding up to 3 kg.","structuredExplanation":{"summary":"The mathematical result must be interpreted in context; whole bags require rounding up to 3 kg.","hint":"Interpret the answer using the real-world constraint."},"qualitySchema":"production-v1"},
+  {"id":"ac9m7m06-p-049","curriculumCode":"AC9M7M06","bank":"practice","skill":"ratio modelling","printable":true,"type":"single","question":"Why should a ratio answer include units in a practical problem?","audioPrompt":"Why should a ratio answer include units in a practical problem?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Units identify what the quantities mean in the situation","Units change the ratio","Units are decorative","Ratios cannot use units"],"correct":0,"explanation":"Units connect the numerical result to the real quantity being modelled.","structuredExplanation":{"summary":"Units connect the numerical result to the real quantity being modelled.","hint":"Interpret the result in context."},"qualitySchema":"production-v1"}
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
