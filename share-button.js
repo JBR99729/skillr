@@ -106,6 +106,46 @@
     });
   }
 
+  function addFreeFirstHomepageHighlight() {
+    if (window.location.pathname !== "/" && window.location.pathname !== "/index.html") return;
+    if (document.getElementById("free-first-highlight")) return;
+
+    var hero = document.querySelector(".ux-hero");
+    if (!hero) return;
+
+    var highlight = document.createElement("aside");
+    highlight.id = "free-first-highlight";
+    highlight.setAttribute("aria-label", "Try SkillrHub free resources first");
+    highlight.style.margin = "clamp(14px, 2vw, 22px) 0";
+    highlight.style.padding = "clamp(16px, 2.5vw, 24px)";
+    highlight.style.border = "1px solid #d9e2ff";
+    highlight.style.borderRadius = "16px";
+    highlight.style.background = "#f7f9ff";
+    highlight.style.boxShadow = "0 6px 18px rgba(36, 87, 214, 0.06)";
+
+    var heading = document.createElement("h2");
+    heading.textContent = "Don’t spend a dollar on a paid learning subscription until you’ve used SkillrHub’s free resources.";
+    heading.style.margin = "0";
+    heading.style.fontSize = "clamp(1.15rem, 2.4vw, 1.55rem)";
+    heading.style.lineHeight = "1.3";
+
+    var supporting = document.createElement("p");
+    supporting.textContent = "Explore the free Maths, Science and English resources first. Then decide if you need anything else.";
+    supporting.style.margin = "8px 0 0";
+
+    var link = document.createElement("a");
+    link.href = "#choose-year";
+    link.textContent = "Explore free resources →";
+    link.style.display = "inline-block";
+    link.style.marginTop = "10px";
+    link.style.fontWeight = "700";
+
+    highlight.appendChild(heading);
+    highlight.appendChild(supporting);
+    highlight.appendChild(link);
+    hero.insertAdjacentElement("afterend", highlight);
+  }
+
   function loadFirstVisitOnboarding() {
     if (window.location.pathname !== "/" && window.location.pathname !== "/index.html") return;
     if (document.querySelector('script[data-skillr-onboarding]')) return;
@@ -121,6 +161,7 @@
     removeLegacyFloatingWidgets();
     ensureFooterLinks();
     initSharePrompts();
+    addFreeFirstHomepageHighlight();
     loadFirstVisitOnboarding();
   }
 
