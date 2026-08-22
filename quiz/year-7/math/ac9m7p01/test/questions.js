@@ -1,237 +1,57 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9m7p01-t-001",
-    "curriculumCode": "AC9M7P01",
-    "bank": "test",
-    "skill": "predict expected count",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving predict expected count. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving predict expected count. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "If P(red)=1/2, expected red in 200 trials is 100",
-      "Labels assumed equally likely",
-      "Inspect sectors, counts or rules",
-      "Set of all possible elementary outcomes"
-    ],
-    "correct": 0,
-    "explanation": "If P(red)=1/2, expected red in 200 trials is 100\nHint: Inspect sectors, counts or rules.",
-    "structuredExplanation": {
-      "summary": "If P(red)=1/2, expected red in 200 trials is 100",
-      "hint": "Inspect sectors, counts or rules."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p01-t-002",
-    "curriculumCode": "AC9M7P01",
-    "bank": "test",
-    "skill": "check probabilities sum to 1",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Compound event counted as one outcome",
-      "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
-      "Sum elementary outcome probabilities",
-      "Set of all possible elementary outcomes"
-    ],
-    "correct": 1,
-    "explanation": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.\nHint: Sum elementary outcome probabilities.",
-    "structuredExplanation": {
-      "summary": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
-      "hint": "Sum elementary outcome probabilities."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p01-t-003",
-    "curriculumCode": "AC9M7P01",
-    "bank": "test",
-    "skill": "list a sample space",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Complement found by changing numerator only",
-      "Use 1−P(event)",
-      "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
-      "Set of all possible elementary outcomes"
-    ],
-    "correct": 2,
-    "explanation": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.\nHint: Use 1−P(event).",
-    "structuredExplanation": {
-      "summary": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
-      "hint": "Use 1−P(event)."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p01-t-004",
-    "curriculumCode": "AC9M7P01",
-    "bank": "test",
-    "skill": "assign weighted probabilities",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving assign weighted probabilities. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving assign weighted probabilities. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Expected count treated as exact",
-      "Chance variation remains",
-      "Set of all possible elementary outcomes",
-      "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event."
-    ],
-    "correct": 3,
-    "explanation": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.\nHint: Chance variation remains.",
-    "structuredExplanation": {
-      "summary": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
-      "hint": "Chance variation remains."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p01-t-005",
-    "curriculumCode": "AC9M7P01",
-    "bank": "test",
-    "skill": "find a complement",
-    "printable": true,
-    "type": "single",
-    "question": "What should be checked when applying find a complement in sample spaces and single-stage probability?",
-    "audioPrompt": "What should be checked when applying find a complement in sample spaces and single-stage probability?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "If P(red)=1/2, expected red in 200 trials is 100",
-      "Labels assumed equally likely",
-      "Inspect sectors, counts or rules",
-      "Set of all possible elementary outcomes"
-    ],
-    "correct": 0,
-    "explanation": "If P(red)=1/2, expected red in 200 trials is 100\nHint: Inspect sectors, counts or rules.",
-    "structuredExplanation": {
-      "summary": "If P(red)=1/2, expected red in 200 trials is 100",
-      "hint": "Inspect sectors, counts or rules."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p01-t-006",
-    "curriculumCode": "AC9M7P01",
-    "bank": "test",
-    "skill": "predict expected count",
-    "printable": true,
-    "type": "single",
-    "question": "Which response best uses predict expected count in sample spaces and single-stage probability?",
-    "audioPrompt": "Which response best uses predict expected count in sample spaces and single-stage probability?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Compound event counted as one outcome",
-      "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
-      "Sum elementary outcome probabilities",
-      "Set of all possible elementary outcomes"
-    ],
-    "correct": 1,
-    "explanation": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.\nHint: Sum elementary outcome probabilities.",
-    "structuredExplanation": {
-      "summary": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
-      "hint": "Sum elementary outcome probabilities."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p01-t-007",
-    "curriculumCode": "AC9M7P01",
-    "bank": "test",
-    "skill": "check probabilities sum to 1",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Complement found by changing numerator only",
-      "Use 1−P(event)",
-      "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
-      "Set of all possible elementary outcomes"
-    ],
-    "correct": 2,
-    "explanation": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.\nHint: Use 1−P(event).",
-    "structuredExplanation": {
-      "summary": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
-      "hint": "Use 1−P(event)."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7p01-t-008",
-    "curriculumCode": "AC9M7P01",
-    "bank": "test",
-    "skill": "list a sample space",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Expected count treated as exact",
-      "Chance variation remains",
-      "Set of all possible elementary outcomes",
-      "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event."
-    ],
-    "correct": 3,
-    "explanation": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.\nHint: Chance variation remains.",
-    "structuredExplanation": {
-      "summary": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
-      "hint": "Chance variation remains."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["A spinner has sectors with probabilities Red 0.45, Blue 0.30, Green 0.25. Which check confirms a complete probability model?",["0.45+0.30+0.25=1","the colours are alphabetical","red is largest","there are three labels"],0,"Probabilities of all elementary outcomes must sum to 1."],
+["A spinner has P(red)=0.4 and P(blue)=0.35. If green is the only other outcome, P(green)=",["0.25","0.75","0.15","1.25"],0,"1−0.4−0.35=0.25."],
+["A bag contains 3 red, 5 blue and 2 green identical counters. P(not blue)=",["5/10=1/2","5/10 blue","2/10","8/10"],0,"Not blue means red or green: 3+2=5 of 10."],
+["For the same bag, expected blue counters in 120 draws with replacement are:",["60","50","40","72"],0,"P(blue)=5/10=1/2, so 120×1/2=60."],
+["Why is 'expected 60 blue' not a guarantee?",["random variation remains in finite trials","probability is not numerical","replacement changes blue to red","expected frequency must be an integer outcome"],0,"Expected frequency describes long-run average behaviour."],
+["A fair die is rolled 240 times. Expected results greater than 4:",["80","40","120","160"],0,"P(5 or 6)=2/6=1/3; 240÷3=80."],
+["A fair die is rolled 240 times and numbers greater than 4 occur 91 times. Relative frequency is approximately:",["0.379","0.333","0.091","0.621"],0,"91÷240≈0.379."],
+["Which conclusion is strongest?",["91/240 differs from 1/3 but finite-trial variation is expected","the die is definitely unfair","the theoretical probability becomes 91/240","91 outcomes are impossible"],0,"One finite experiment does not need to match the model exactly."],
+["A coin produces 520 heads in 1000 tosses. Which statement is best?",["0.52 is reasonably close to 0.5 and could occur by chance","the coin must be biased","P(heads) is now exactly 0.52 forever","heads are certain next toss"],0,"Relative frequency estimates probability but contains sampling variation."],
+["Which result gives stronger experimental evidence about a coin's long-run behaviour?",["520 heads in 1000 tosses","5 heads in 10 tosses","both equally informative","one toss"],0,"A larger number of trials generally gives a more stable relative frequency."],
+["A spinner has four equal sectors but labels R,R,B,G. What is P(R)?",["1/2","1/3","1/4","2/3"],0,"Two of four equal sectors are red."],
+["Why is the sample space {R,B,G} alone insufficient to infer equal probabilities in that spinner?",["the labels combine unequal numbers of elementary sectors","sample spaces cannot use letters","there are only three colours","probability cannot exceed 1/3"],0,"Named outcomes can aggregate different amounts of equally likely elementary outcomes."],
+["A lucky dip contains prize labels A,A,A,B,C. If each ticket is equally likely, P(A)=",["3/5","1/3","1/5","1/2"],0,"Three of five tickets produce A."],
+["For that lucky dip, which is the most useful elementary sample space if tickets are physically distinct?",["{A1,A2,A3,B1,C1}","{A,B,C} with equal probabilities","{A} only","{5}"],0,"Distinguishing equally likely tickets makes the weighting transparent."],
+["An event has probability 0.72. Its complement has probability:",["0.28","0.72","1.72","0.18"],0,"1−0.72=0.28."],
+["If P(not rain)=0.65, then P(rain)=",["0.35","0.65","1.65","0.25"],0,"Complement probabilities sum to 1."],
+["Which value cannot be a probability?",["1.08","0","0.37","1"],0,"Probability cannot exceed 1."],
+["Which fraction cannot be a probability?",["7/6","0/5","3/4","1/1"],0,"7/6>1."],
+["An event has 4 favourable outcomes among 10 equally likely outcomes. P(event)=",["2/5","4/5","1/4","6/10"],0,"4/10 simplifies to 2/5."],
+["If those 10 outcomes are not equally likely, can you still use 4/10 automatically?",["No; outcome probabilities or weights are needed","Yes, always","Only if 4 is even","Only for spinners"],0,"Counting favourable outcomes assumes equal likelihood."],
+["A fair spinner has sector probabilities 0.1,0.2,0.3 and x. Find x.",["0.4","0.6","0.3","1.6"],0,"x=1−0.6=0.4."],
+["Expected frequency is 45 in 150 trials. The model probability is:",["0.30","0.45","3.33","105"],0,"p=45/150=0.3."],
+["A model predicts 24 successes in 80 trials. The model probability is:",["0.30","0.24","0.80","3.33"],0,"24÷80=0.3."],
+["Observed successes are 18 in 60 trials. Experimental probability is:",["0.30","0.18","0.60","3.33"],0,"18÷60=0.3."],
+["A student says theoretical probability and relative frequency must always be equal. Best correction:",["relative frequency varies from sample to sample and tends to stabilise with many trials","they are never related","theoretical probability changes after each trial","relative frequency cannot be a decimal"],0,"Experimental proportions fluctuate around the underlying probability."],
+["A fair die experiment gives no sixes in 12 rolls. Is that possible?",["Yes","No","only if die is unfair","only if P(6)=0"],0,"A possible event need not occur in a small number of trials."],
+["Does getting no sixes in 12 rolls prove P(6)=0?",["No","Yes","only for fair dice","only if repeated twice"],0,"Observed zero frequency in a small sample does not make the theoretical event impossible."],
+["A probability model assigns A=0.2, B=0.3, C=0.4. What is wrong if these are all possible outcomes?",["the probabilities total 0.9, so 0.1 is unassigned","A is too small","C is too large","probabilities must all be equal"],0,"A complete sample-space model must total 1."],
+["A probability model assigns A=0.5, B=0.6. What is wrong if A and B are mutually exclusive and exhaustive?",["the total exceeds 1","they should both be 0.5 only because there are two labels","A must be 0","nothing"],0,"Mutually exclusive exhaustive outcome probabilities cannot sum above 1."],
+["A weather model gives probability of rain 0.3 each day. Over 100 similar days, 30 rainy days is:",["an expected count, not a certainty","a guaranteed result","the sample space","a relative frequency already observed"],0,"100×0.3=30 is a prediction."],
+["If 38 rainy days actually occur, relative frequency is:",["0.38","0.30","38","0.62"],0,"38/100=0.38."],
+["Which is a sensible comparison?",["compare observed 0.38 with model probability 0.30 while acknowledging variation","replace the model with 0.38 after one sample automatically","claim rain is certain","ignore the number of days"],0,"Model evaluation considers observed data and sample size."],
+["A predictive-text corpus contains 52 'the', 30 'and', 20 'to' among 1000 tokens. Which of these three has highest observed relative frequency?",["the","and","to","all equal"],0,"52/1000 is greatest."],
+["Can those three relative frequencies alone sum to 1?",["No; other words account for the remaining probability mass","Yes; every corpus has only three words","only if 52+30+20=1000","relative frequencies never sum"],0,"Their total is 0.102, leaving other words."],
+["What is a limitation of predicting the next word using only overall word frequency?",["the surrounding context is ignored","frequencies cannot be probabilities","large datasets have no value","words cannot repeat"],0,"Conditional context matters in realistic language prediction."],
+["Why can a larger relevant dataset improve a frequency estimate?",["random fluctuation in the proportion often becomes smaller","it guarantees the next outcome","it makes every outcome equally likely","it removes all bias automatically"],0,"More observations can stabilise estimates, provided the data are relevant."],
+["Which statement distinguishes theoretical and experimental probability?",["theoretical comes from a model; experimental comes from observed relative frequency","both are always identical","experimental is known before trials","theoretical is frequency ÷ trials"],0,"They are related but arise from different sources."],
+["A spinner is claimed fair with four equal sectors. In 20 spins red appears 10 times. Is this alone enough to prove the spinner unfair?",["No","Yes","only if red is labelled first","only if green never appears"],0,"Small samples can show substantial chance variation."],
+["What additional evidence would strengthen an investigation of spinner fairness?",["many more controlled spins and comparison of all outcome frequencies","one more spin","changing the spinner between trials","ignoring other colours"],0,"More controlled data provides a stronger test of the model."],
+["Which is a valid single-stage event?",["drawing one counter and recording its colour","rolling two dice and adding them","tossing a coin twice","drawing a card then spinning"],0,"It involves one chance action."],
+["A student lists {even,odd} as the sample space for a die when asked for face outcomes. Is it complete for that request?",["No; the requested elementary face outcomes are {1,2,3,4,5,6}","Yes, always","No because even is impossible","Yes because all outcomes must have six labels"],0,"Sample-space granularity should match the experiment and question."],
+["For the event 'even' on a die, which set correctly lists favourable elementary outcomes?",["{2,4,6}","{1,3,5}","{even}","{2,6}"],0,"These are the even face outcomes."],
+["If P(event)=3/8, expected occurrences in 400 trials are:",["150","120","200","375"],0,"400×3/8=150."],
+["If 164 occurrences are observed instead of expected 150, which statement is correct?",["the difference can arise from random variation","the model is automatically false","expected frequency must equal observed","probability is now 164"],0,"Expected counts are long-run predictions, not exact quotas."],
+["Which probability statement is logically equivalent to P(A)=0.2?",["P(not A)=0.8","P(not A)=0.2","A occurs exactly twice every ten trials","A must occur next after four failures"],0,"Complements sum to 1; probability does not impose a fixed sequence."],
+["After five failures of an independent event with P(success)=0.2, the probability of success on the next identical trial is:",["0.2","1.0","0.8","depends on the previous failures"],0,"For independent identical trials, previous outcomes do not change the model probability."],
+["Which reasoning error is shown by 'It hasn't landed on red for a while, so red is now guaranteed'?",["treating random outcomes as if they must balance immediately","using relative frequency correctly","listing a sample space","using a complement"],0,"Chance processes do not owe a particular next outcome."],
+["A student predicts 12 successes from p=0.3 over 40 trials. Calculation is:",["correct","incorrect; should be 3","incorrect; should be 30","impossible because expected counts cannot be whole"],0,"40×0.3=12."],
+["A student predicts 12 successes and then observes 9. Best interpretation:",["9 is a possible experimental result around the expected 12","the probability must be 9","the experiment failed","12 should be forced by fairness"],0,"Random variation causes observed counts to vary."],
+["Which is the strongest overall method for a single-stage probability problem?",["define outcomes, identify event, check likelihood assumptions, calculate probability, then interpret any prediction as uncertain","count labels and assume equality","use expected count as exact","ignore the sample space"],0,"This workflow avoids common modelling errors."],
+["Which statement best captures higher-level AC9M7P01 reasoning?",["Probability models describe uncertainty; experimental relative frequency can test or estimate them but does not make individual outcomes certain","probability predicts exact sequences","relative frequency replaces sample spaces","all named outcomes are equally likely"],0,"The topic connects formal probability with observed long-run behaviour."]
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
+window.skillrTestQuestions=raw.map((q,i)=>({id:`ac9m7p01-t-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M7P01",bank:"test",skill:"reason with probability models",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Check the sample space and likelihood assumptions before using probability or relative frequency."},qualitySchema:"production-v1"}));
+window.skillrExamQuestions=window.skillrTestQuestions;
+window.quizQuestions=window.skillrTestQuestions;
