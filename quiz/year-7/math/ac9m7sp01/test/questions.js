@@ -1,237 +1,52 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9m7sp01-t-001",
-    "curriculumCode": "AC9M7SP01",
-    "bank": "test",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving choose a representation. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving choose a representation. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A top and front view together communicate dimensions that either view alone hides",
-      "One view assumed to determine an object uniquely",
-      "Different objects can share a front view",
-      "2D view seen perpendicular to a face"
-    ],
-    "correct": 0,
-    "explanation": "A top and front view together communicate dimensions that either view alone hides\nHint: Different objects can share a front view.",
-    "structuredExplanation": {
-      "summary": "A top and front view together communicate dimensions that either view alone hides",
-      "hint": "Different objects can share a front view."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp01-t-002",
-    "curriculumCode": "AC9M7SP01",
-    "bank": "test",
-    "skill": "state a limitation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Perspective length measured as true length",
-      "Select a representation based on the question. Multiple views together reduce ambiguity.",
-      "Foreshortening may distort scale",
-      "2D view seen perpendicular to a face"
-    ],
-    "correct": 1,
-    "explanation": "Select a representation based on the question. Multiple views together reduce ambiguity.\nHint: Foreshortening may distort scale.",
-    "structuredExplanation": {
-      "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
-      "hint": "Foreshortening may distort scale."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp01-t-003",
-    "curriculumCode": "AC9M7SP01",
-    "bank": "test",
-    "skill": "draw three orthographic views",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hidden edges ignored when needed",
-      "Use conventions or another view",
-      "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
-      "2D view seen perpendicular to a face"
-    ],
-    "correct": 2,
-    "explanation": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.\nHint: Use conventions or another view.",
-    "structuredExplanation": {
-      "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
-      "hint": "Use conventions or another view."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp01-t-004",
-    "curriculumCode": "AC9M7SP01",
-    "bank": "test",
-    "skill": "interpret an isometric sketch",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving interpret an isometric sketch. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving interpret an isometric sketch. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Representation judged only by realism",
-      "Evaluate fitness for purpose",
-      "2D view seen perpendicular to a face",
-      "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features."
-    ],
-    "correct": 3,
-    "explanation": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.\nHint: Evaluate fitness for purpose.",
-    "structuredExplanation": {
-      "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
-      "hint": "Evaluate fitness for purpose."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp01-t-005",
-    "curriculumCode": "AC9M7SP01",
-    "bank": "test",
-    "skill": "identify ambiguity",
-    "printable": true,
-    "type": "single",
-    "question": "What should be checked when applying identify ambiguity in representing three-dimensional objects in two dimensions?",
-    "audioPrompt": "What should be checked when applying identify ambiguity in representing three-dimensional objects in two dimensions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A top and front view together communicate dimensions that either view alone hides",
-      "One view assumed to determine an object uniquely",
-      "Different objects can share a front view",
-      "2D view seen perpendicular to a face"
-    ],
-    "correct": 0,
-    "explanation": "A top and front view together communicate dimensions that either view alone hides\nHint: Different objects can share a front view.",
-    "structuredExplanation": {
-      "summary": "A top and front view together communicate dimensions that either view alone hides",
-      "hint": "Different objects can share a front view."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp01-t-006",
-    "curriculumCode": "AC9M7SP01",
-    "bank": "test",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "Which response best uses choose a representation in representing three-dimensional objects in two dimensions?",
-    "audioPrompt": "Which response best uses choose a representation in representing three-dimensional objects in two dimensions?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Perspective length measured as true length",
-      "Select a representation based on the question. Multiple views together reduce ambiguity.",
-      "Foreshortening may distort scale",
-      "2D view seen perpendicular to a face"
-    ],
-    "correct": 1,
-    "explanation": "Select a representation based on the question. Multiple views together reduce ambiguity.\nHint: Foreshortening may distort scale.",
-    "structuredExplanation": {
-      "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
-      "hint": "Foreshortening may distort scale."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp01-t-007",
-    "curriculumCode": "AC9M7SP01",
-    "bank": "test",
-    "skill": "state a limitation",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hidden edges ignored when needed",
-      "Use conventions or another view",
-      "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
-      "2D view seen perpendicular to a face"
-    ],
-    "correct": 2,
-    "explanation": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.\nHint: Use conventions or another view.",
-    "structuredExplanation": {
-      "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
-      "hint": "Use conventions or another view."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp01-t-008",
-    "curriculumCode": "AC9M7SP01",
-    "bank": "test",
-    "skill": "draw three orthographic views",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Representation judged only by realism",
-      "Evaluate fitness for purpose",
-      "2D view seen perpendicular to a face",
-      "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features."
-    ],
-    "correct": 3,
-    "explanation": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.\nHint: Evaluate fitness for purpose.",
-    "structuredExplanation": {
-      "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
-      "hint": "Evaluate fitness for purpose."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["A company must print artwork on every face of a carton before folding it. Which representation should the printer request?",["a dimensioned net","a perspective sketch","an aerial view","a front view only"],0,"A dimensioned net exposes every printable face before assembly."],
+["Two block structures have identical front and side views but different top views. What must be true?",["their horizontal arrangements differ","they are identical","their top views cannot differ","both are cubes"],0,"The differing top projection reveals a different footprint or arrangement."],
+["A top view shows four occupied grid squares. Can you conclude the object contains exactly four cubes?",["No; cubes may be stacked above those squares","Yes, always","Only if it is a sphere","Only if it has a net"],0,"A top view shows occupied positions, not hidden vertical stacks."],
+["A front view is a 3-by-2 rectangle and the top view is a 3-by-5 rectangle. Which dimensions are supported?",["width 3, height 2, depth 5","width 5, height 3, depth 2","width 2, height 5, depth 3","only height 2"],0,"Front gives width and height; top gives width and depth."],
+["Why can six connected squares still fail to be a cube net?",["their arrangement may cause overlap or prevent closure","a cube has fewer than six faces","squares cannot fold","nets must be circular"],0,"A valid net needs both the correct faces and a foldable arrangement."],
+["Which evidence is strongest that a proposed cube net is valid?",["a correct fold simulation showing six distinct faces close without overlap","it contains six squares","it looks symmetrical","it fits on one page"],0,"Successful folding is the decisive structural test."],
+["A triangular-prism package is cut from cardboard. Which face inventory must its net contain?",["2 congruent triangles and 3 rectangles","1 square and 4 triangles","6 squares","2 circles and 1 rectangle"],0,"Those are exactly the five faces of a triangular prism."],
+["A student chooses perspective instead of orthographic views for a workshop drawing. What is the main risk?",["apparent lengths may not be directly measurable as true lengths","the drawing cannot show depth","parallel edges can never be drawn","the object becomes 2D"],0,"Perspective communicates appearance well but can distort direct measurement."],
+["An architect wants a client to understand appearance and a builder to read dimensions. What is the best solution?",["provide perspective/isometric imagery plus dimensioned orthographic drawings","provide perspective only","provide a net only","provide one aerial photo"],0,"Different audiences need different spatial information."],
+["A structure is modelled as a rectangular prism although its roof is curved. What kind of decision is this?",["an approximation that preserves some features while simplifying others","a proof the roof is flat","an exact net","an orthographic error"],0,"Spatial models often simplify real structures for a chosen purpose."],
+["Which representation most directly reveals whether a building footprint is L-shaped?",["top/plan view","front view","side view","net"],0,"The footprint is visible from above."],
+["A tall cylinder and a short cylinder with equal base radii have identical top views. What does this demonstrate?",["a single view can hide height","the cylinders have equal height","top views show volume","cylinders have square footprints"],0,"Top projections cannot distinguish different heights when footprints match."],
+["A perspective drawing shows two rails converging in the distance. Are the real rails necessarily converging?",["No; parallel lines can appear to converge in perspective","Yes, always","Only in isometric drawings","Only if viewed from above"],0,"Perspective convergence is a visual convention for depth."],
+["Which feature is deliberately preserved in a standard isometric construction?",["parallelism along each principal direction","all true face angles as seen head-on","a single vanishing point","a flattened surface layout"],0,"Isometric axes remain parallel rather than converging."],
+["An object has a square front view and square side view. Which conclusion is safest?",["more information is needed to determine the 3D object uniquely","it must be a cube","it must be a sphere","it must have six square faces"],0,"Different solids or block arrangements can share these projections."],
+["A packaging designer needs to minimise cardboard waste around a net. What information does the net provide that an isometric sketch does not provide as directly?",["the flat arrangement and boundary of all faces","the assembled depth impression","the location of a vanishing point","the building footprint"],0,"A net is directly suited to sheet layout and cutting."],
+["Which statement is a valid disadvantage of a net?",["it can make the assembled orientation and depth harder to visualise","it cannot show faces","it always hides surface area","it is necessarily inaccurate"],0,"Flattening helps fabrication but removes the assembled 3D form."],
+["Which statement is a valid disadvantage of a single aerial view?",["vertical features and hidden levels may be unclear","it cannot show a footprint","it cannot show layout","it always uses vanishing points"],0,"Aerial views prioritise horizontal layout rather than height."],
+["Which statement is a valid advantage of orthographic views?",["they separate dimensions into clear face-on projections","they always look most realistic","they show every face in one picture","they eliminate the need for dimensions"],0,"Face-on views make widths, heights and depths easier to communicate precisely."],
+["Which statement is a valid advantage of perspective drawings?",["they communicate realistic spatial appearance and depth","they provide every true length automatically","they flatten all faces","they show only the footprint"],0,"Perspective is especially effective for visualisation."],
+["A cube is built from a valid net. Two squares share an edge in the net. What can you conclude after folding?",["those two faces will share an edge on the cube","they must become opposite faces","they overlap","they disappear"],0,"A fold along their common edge keeps them adjacent."],
+["Why is 'six rectangles' not a sufficient description of every rectangular-prism net?",["the dimensions and arrangement must match opposite faces and fold correctly","rectangular prisms have four faces","rectangles cannot form prisms","all six rectangles must be identical"],0,"Face sizes and connectivity matter, not just the count."],
+["A square pyramid and a cube can both have a square in a net. What additional information distinguishes them?",["the other faces: triangles for the pyramid, squares for the cube","the colour","the page size","the title"],0,"The complete face set identifies the solid."],
+["A student reconstructs a block object correctly from front, side and top views. Why were three views useful?",["together they constrain width, height, depth and arrangement","each view contains identical information","they convert the object into a net","they remove all hidden edges automatically"],0,"Multiple projections reduce ambiguity."],
+["A drawing is intended to show exact dimensions but uses strong perspective foreshortening without dimension labels. What improvement is best?",["add dimensioned orthographic views","make the perspective more colourful","remove all edges","replace it with an aerial photo only"],0,"Orthographic views are better suited to exact dimensional communication."],
+["Which representation would be least useful for deciding how a building occupies a parcel of land?",["a packaging net","a plan view","an aerial view","a scaled site map"],0,"A packaging net is unrelated to the building footprint."],
+["A footprint is circular. Which conclusion is NOT justified from that information alone?",["the structure is definitely a cylinder of a particular height","the base boundary is circular","a cylinder could be one approximation","the top view can be circular"],0,"Many structures can share a circular footprint, and height is unknown."],
+["A designer switches from isometric to perspective for a presentation. What is gained most directly?",["more realistic visual depth","a flat cutting layout","a guaranteed true scale on every edge","all orthographic views"],0,"Perspective enhances visual realism."],
+["A designer switches from perspective to orthographic drawings for manufacture. What is gained most directly?",["clear face-on dimensional information","more realistic convergence","a single artistic viewpoint","a flattened net automatically"],0,"Orthographic views support precise construction communication."],
+["When interpreting a First Nations cultural map of Country/Place, why should a student avoid assuming it follows Western scale-map conventions?",["the representation may encode cultural, relational and spatial knowledge using its own conventions","all cultural maps are inaccurate","Country/Place has no spatial meaning","symbols always have universal meanings"],0,"The curriculum asks students to explore different 2D representations respectfully and in context."],
+["What is the best way to discuss a First Nations artwork used as a spatial representation?",["use source-specific cultural information and describe what the representation communicates without inventing meanings","assign universal meanings to symbols","treat it as a technical blueprint","ignore its source community"],0,"Interpretation should be culturally grounded rather than assumed."],
+["A model maker has only a perspective sketch of an irregular object. Which extra information would most reduce ambiguity for construction?",["orthographic views and dimensions","another colour palette","a larger title","a decorative border"],0,"Multiple dimensioned projections provide missing construction information."],
+["Which scenario best demonstrates reasoning about advantages and disadvantages of representations?",["choosing a net for fabrication but an isometric view for assembly visualisation","always using perspective","always using a top view","choosing the prettiest drawing"],0,"Fitness for purpose is central to AC9M7SP01."],
+["An isometric block drawing appears to contain five cubes, but one cube may be hidden behind others. What should a careful student do?",["check all available views or structural clues before deciding","assume no hidden cubes","count visible top faces only","convert the answer to degrees"],0,"2D drawings can hide parts of 3D structures."],
+["A front view shows two columns of height 3. The top view shows each column is two cubes deep. If every position is fully filled, how many cubes are there?",["12","6","8","18"],0,"2 columns × 2 deep × 3 high = 12 cubes."],
+["A rectangular-prism net has faces 8×5, 8×3 and 5×3 cm, each appearing twice. What solid dimensions does it represent?",["8 cm × 5 cm × 3 cm","8 cm × 8 cm × 5 cm","5 cm × 5 cm × 3 cm","16 cm × 10 cm × 6 cm"],0,"The three edge dimensions are 8, 5 and 3 cm."],
+["A student says an isometric drawing is 'wrong' because a square face looks like a parallelogram. What is the best explanation?",["the 2D projection changes apparent angles while representing the 3D face","the face is no longer square in 3D","isometric drawings cannot show cubes","the object must be a pyramid"],0,"Projection changes appearance without changing the actual 3D face."],
+["A building's plan is rectangular, but its front elevation includes a triangular roof. Which pair of simple solids is a sensible approximation?",["rectangular prism and triangular prism","two spheres","cone and cylinder only","cube and sphere only"],0,"The rectangular body and pitched roof can be modelled separately."],
+["Which test question most directly assesses E5?",["Draw the front, side and top views of this block object on square grid paper","Name the colour of a cube","Calculate a circle's circumference","Simplify 12:18"],0,"E5 focuses on drawing multiple views using isometric and square grids."],
+["Which task most directly assesses E1?",["Open a package carefully and sketch the resulting net","calculate a ratio","measure an angle","draw a line graph"],0,"E1 uses deconstructed packaging to identify shapes and nets."],
+["Which task most directly assesses E3?",["Use an aerial view to identify a building footprint and choose prisms that approximate it","fold a cube net only","solve a percentage problem","measure circumference"],0,"E3 links aerial views, footprints and prism approximations."],
+["Which task most directly assesses E4?",["Build an object by interpreting an isometric or perspective drawing","simplify a fraction","measure a circle","construct a frequency table"],0,"E4 is about constructing objects from 2D spatial drawings."],
+["Which task most directly assesses E6?",["Explore how a source-supported First Nations artwork or cultural map represents objects or relationships in Country/Place","invent symbols for a culture","assume all maps use one scale","copy a generic cube net"],0,"E6 asks students to explore different 2D representations in First Nations contexts."],
+["A representation is accurate for its purpose even though it omits some information. Which principle does this illustrate?",["a representation can be fit for purpose without reproducing every feature","all omissions are errors","only photographs are accurate","2D representations must contain volume"],0,"Representations select information according to purpose."],
+["A student needs to communicate both the footprint and the heights of different sections of a building. Which approach is best?",["combine a plan view with elevations or labelled heights","use an unlabelled top view only","use a net only","use a single decorative perspective"],0,"Combining complementary views communicates both horizontal layout and vertical dimensions."],
+["Which statement best summarises AC9M7SP01?",["Choose, interpret and compare 2D representations according to what spatial information they communicate","memorise one drawing type","use perspective for every task","study only cube nets"],0,"The curriculum emphasises representation, interpretation and reasoning about fitness for purpose."]
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
+window.skillrTestQuestions=raw.map((q,i)=>({id:`ac9m7sp01-t-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M7SP01",bank:"test",skill:"spatial reasoning and representation",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Identify what information the representation preserves and what it hides."},qualitySchema:"production-v1"}));
+window.skillrExamQuestions=window.skillrTestQuestions;
+window.quizQuestions=window.skillrTestQuestions;
