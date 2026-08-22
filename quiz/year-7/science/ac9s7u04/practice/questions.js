@@ -1,236 +1,56 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s7u04-p-001",
-    "curriculumCode": "AC9S7U04",
-    "bank": "practice",
-    "skill": "calculate net force",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating calculate net force. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating calculate net force. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "75 N right and 45 N left give net 30 N right",
-      "Balanced forces mean no motion",
-      "They mean no change in velocity",
-      "Vector sum of forces on an object"
-    ],
-    "correct": 0,
-    "explanation": "75 N right and 45 N left give net 30 N right\nHint: They mean no change in velocity.",
-    "structuredExplanation": {
-      "summary": "75 N right and 45 N left give net 30 N right",
-      "hint": "They mean no change in velocity."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u04-p-002",
-    "curriculumCode": "AC9S7U04",
-    "bank": "practice",
-    "skill": "draw a balanced diagram",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating draw a balanced diagram. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating draw a balanced diagram. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Action and reaction forces cancel on one object",
-      "An object can move at constant velocity while forces are balanced. Motion does not prove a forward net force.",
-      "They act on different objects",
-      "Vector sum of forces on an object"
-    ],
-    "correct": 1,
-    "explanation": "An object can move at constant velocity while forces are balanced. Motion does not prove a forward net force.\nHint: They act on different objects.",
-    "structuredExplanation": {
-      "summary": "An object can move at constant velocity while forces are balanced. Motion does not prove a forward net force.",
-      "hint": "They act on different objects."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u04-p-003",
-    "curriculumCode": "AC9S7U04",
-    "bank": "practice",
-    "skill": "explain constant speed",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating explain constant speed. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating explain constant speed. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Gravity disappears when supported",
-      "Support balances weight; gravity remains",
-      "Force arrows should begin on the object, point in force direction and use relative length to show magnitude. Name the interacting object where possible.",
-      "Vector sum of forces on an object"
-    ],
-    "correct": 2,
-    "explanation": "Force arrows should begin on the object, point in force direction and use relative length to show magnitude. Name the interacting object where possible.\nHint: Support balances weight; gravity remains.",
-    "structuredExplanation": {
-      "summary": "Force arrows should begin on the object, point in force direction and use relative length to show magnitude. Name the interacting object where possible.",
-      "hint": "Support balances weight; gravity remains."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u04-p-004",
-    "curriculumCode": "AC9S7U04",
-    "bank": "practice",
-    "skill": "analyse terminal velocity",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating analyse terminal velocity. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating analyse terminal velocity. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Arrow direction shows object travel only",
-      "It shows force direction",
-      "Vector sum of forces on an object",
-      "Balanced forces produce zero net force and no acceleration; an unbalanced net force changes velocity by changing speed, direction or both."
-    ],
-    "correct": 3,
-    "explanation": "Balanced forces produce zero net force and no acceleration; an unbalanced net force changes velocity by changing speed, direction or both.\nHint: It shows force direction.",
-    "structuredExplanation": {
-      "summary": "Balanced forces produce zero net force and no acceleration; an unbalanced net force changes velocity by changing speed, direction or both.",
-      "hint": "It shows force direction."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u04-p-005",
-    "curriculumCode": "AC9S7U04",
-    "bank": "practice",
-    "skill": "name force interactions",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies balanced forces in balanced and unbalanced forces?",
-    "audioPrompt": "Which statement correctly identifies balanced forces in balanced and unbalanced forces?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "75 N right and 45 N left give net 30 N right",
-      "Balanced forces mean no motion",
-      "They mean no change in velocity",
-      "Vector sum of forces on an object"
-    ],
-    "correct": 0,
-    "explanation": "75 N right and 45 N left give net 30 N right\nHint: They mean no change in velocity.",
-    "structuredExplanation": {
-      "summary": "75 N right and 45 N left give net 30 N right",
-      "hint": "They mean no change in velocity."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u04-p-006",
-    "curriculumCode": "AC9S7U04",
-    "bank": "practice",
-    "skill": "calculate net force",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes acceleration in balanced and unbalanced forces?",
-    "audioPrompt": "Which choice best describes acceleration in balanced and unbalanced forces?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Action and reaction forces cancel on one object",
-      "An object can move at constant velocity while forces are balanced. Motion does not prove a forward net force.",
-      "They act on different objects",
-      "Vector sum of forces on an object"
-    ],
-    "correct": 1,
-    "explanation": "An object can move at constant velocity while forces are balanced. Motion does not prove a forward net force.\nHint: They act on different objects.",
-    "structuredExplanation": {
-      "summary": "An object can move at constant velocity while forces are balanced. Motion does not prove a forward net force.",
-      "hint": "They act on different objects."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u04-p-007",
-    "curriculumCode": "AC9S7U04",
-    "bank": "practice",
-    "skill": "draw a balanced diagram",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for net force in balanced and unbalanced forces?",
-    "audioPrompt": "What does correct use require for net force in balanced and unbalanced forces?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Gravity disappears when supported",
-      "Support balances weight; gravity remains",
-      "Force arrows should begin on the object, point in force direction and use relative length to show magnitude. Name the interacting object where possible.",
-      "Vector sum of forces on an object"
-    ],
-    "correct": 2,
-    "explanation": "Force arrows should begin on the object, point in force direction and use relative length to show magnitude. Name the interacting object where possible.\nHint: Support balances weight; gravity remains.",
-    "structuredExplanation": {
-      "summary": "Force arrows should begin on the object, point in force direction and use relative length to show magnitude. Name the interacting object where possible.",
-      "hint": "Support balances weight; gravity remains."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u04-p-008",
-    "curriculumCode": "AC9S7U04",
-    "bank": "practice",
-    "skill": "explain constant speed",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating explain constant speed. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating explain constant speed. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Arrow direction shows object travel only",
-      "It shows force direction",
-      "Vector sum of forces on an object",
-      "Balanced forces produce zero net force and no acceleration; an unbalanced net force changes velocity by changing speed, direction or both."
-    ],
-    "correct": 3,
-    "explanation": "Balanced forces produce zero net force and no acceleration; an unbalanced net force changes velocity by changing speed, direction or both.\nHint: It shows force direction.",
-    "structuredExplanation": {
-      "summary": "Balanced forces produce zero net force and no acceleration; an unbalanced net force changes velocity by changing speed, direction or both.",
-      "hint": "It shows force direction."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["Balanced forces act on an object. What must be true about its velocity?",["Its velocity does not change","It must be zero","It must increase","It must reverse"],0,"Balanced forces give zero net force, so there is no acceleration. The object may be at rest or moving at constant velocity."],
+["What is the clearest sign that forces on an object are unbalanced?",["Its velocity changes","It has mass","Gravity acts on it","It is touching a surface"],0,"A non-zero net force changes velocity by changing speed, direction or both."],
+["The same horizontal force is applied to two carts. Which cart has the greater acceleration?",["The lower-mass cart","The higher-mass cart","Both always have the same acceleration","Neither cart can accelerate"],0,"For the same net force, the object with less mass has the greater acceleration."],
+["Two identical carts are pushed. Cart A is pushed harder than Cart B. Which statement is best?",["Cart A has the greater acceleration","Cart B has the greater acceleration","Both have zero acceleration","Mass must change before acceleration can change"],0,"For the same mass, a larger net force produces a larger acceleration."],
+["What unit is used to measure force?",["newton (N)","kilogram (kg)","joule (J)","metre per second (m/s)"],0,"Force is measured in newtons."],
+["In a force-arrow diagram, what does a longer arrow represent?",["A larger force magnitude","A faster object","A longer travel distance","A larger mass only"],0,"Arrow length represents relative force magnitude when the diagram uses a consistent scale."],
+["In a force-arrow diagram, what does the arrow direction show?",["The direction of the force","The direction the object must be moving","The direction of the nearest surface","The direction of the object's mass"],0,"Force arrows represent the direction in which each force acts."],
+["Near Earth's surface, Earth's gravitational force on an object points:",["toward Earth's centre","away from Earth","in the direction of motion","toward the Sun"],0,"Earth's gravity is attractive and acts toward Earth's centre."],
+["Weight is best described as:",["the gravitational force acting on an object","the amount of matter in an object","the volume of an object","the object's resistance to friction"],0,"Weight is a force caused by gravity; mass is the amount of matter."],
+["An astronaut travels from Earth to the Moon. Which quantity remains the same?",["mass","weight","gravitational field strength","force meter reading of weight"],0,"Mass stays the same, while weight changes because gravitational field strength changes."],
+["For the same object, a larger gravitational field strength produces:",["a larger weight","a smaller mass","a smaller weight","no gravitational force"],0,"Weight depends on both mass and gravitational field strength."],
+["For an ideal lever, moving the effort farther from the pivot generally:",["reduces the effort force needed","increases the load's weight","removes gravity","makes the load arm longer automatically"],0,"A longer effort arm increases mechanical advantage, trading a smaller force for a greater movement distance."],
+["What can a single fixed pulley do in an ideal system?",["Change the direction of the applied force","Remove the load's weight","Halve the work required","Make gravity weaker"],0,"A fixed pulley can change force direction; it does not by itself reduce the ideal effort force."],
+["Why can a pulley system with several supporting rope segments reduce the effort force?",["The load is shared among supporting rope segments","The load loses mass","Gravity stops acting","The rope creates energy"],0,"In an ideal pulley system, several rope segments can share the load, reducing effort force while increasing rope distance pulled."],
+["Why can a planet remain in orbit around a star?",["Gravity continually bends its forward motion into a curved path","There is no gravity in space","The star pushes the planet outward","Friction holds the planet in place"],0,"Orbital motion combines forward motion with inward gravitational acceleration."],
+["Which statement about black holes is scientifically sound?",["Their strong gravity is associated with a very large mass concentrated into a very small region","They have no mass","They pull only on light","Their gravity switches off beyond a fixed distance"],0,"Black holes contain concentrated mass and can create extremely strong gravitational fields nearby."],
+["A returning boomerang's curved flight can be modelled using:",["aerodynamic lift together with its rotation","magnetism from Earth","no forces after release","only its colour and mass"],0,"Airflow around the airfoil-shaped arms creates aerodynamic forces, and rotation affects how those forces change the flight path."],
+["Why is spinning important to a returning boomerang model?",["It helps stabilise orientation and makes aerodynamic effects act around the rotating body","It removes gravity","It prevents all drag","It makes both arms experience identical conditions at every instant"],0,"Rotation is central to the changing aerodynamic forces and stability of a returning boomerang."],
+["A spearthrower can increase projectile launch speed mainly because it:",["extends the effective lever arm of the throw","removes the spear's mass","cancels gravity","acts as a pulley"],0,"A spearthrower extends the effective arm length, allowing the projectile end to travel farther and reach a higher speed in an idealised lever model."],
+["What energy is stored when a bow is drawn?",["elastic potential energy","gravitational potential energy only","sound energy","nuclear energy"],0,"Drawing a bow stores elastic potential energy that can be transferred to the arrow."],
+["A box is pushed 45 N right while friction acts 30 N left. What is the net horizontal force?",["15 N right","15 N left","75 N right","0 N"],0,"45 N right − 30 N left = 15 N right."],
+["Two students pull a rope with 120 N in opposite directions. What is the net force on the rope?",["0 N","120 N left","120 N right","240 N right"],0,"Equal opposite forces give a net force of 0 N."],
+["A crate is pulled 40 N right while friction is 18 N left. What is the net force?",["22 N right","22 N left","58 N right","0 N"],0,"40−18=22 N to the right."],
+["A box experiences a 12 N push right and 4 N friction left. What is its net horizontal force?",["8 N right","8 N left","16 N right","3 N right"],0,"12−4=8 N right."],
+["A drone has 20 N upward thrust and 15 N downward weight. Its horizontal forces are 3 N left and 3 N right. What is the net force?",["5 N upward","5 N downward","6 N right","0 N"],0,"Vertical net force is 20−15=5 N upward; horizontal forces cancel."],
+["A skateboarder moves at constant speed. Applied force is 15 N forward and friction is 15 N backward. Why can the speed remain constant?",["The net force is zero","There are no forces","Gravity has stopped","Friction is larger than the applied force"],0,"Equal opposite horizontal forces give zero net force and therefore no acceleration."],
+["A skydiver has reached terminal velocity. Which force relationship is expected?",["Air resistance equals weight","Weight is zero","Air resistance is zero","Weight is larger than air resistance forever"],0,"At terminal velocity, upward drag balances downward weight, so net force and acceleration are zero."],
+["A book rests on a horizontal table. Which pair of vertical forces can balance?",["Downward weight and upward support force","Downward weight and downward support force","Upward weight and downward friction","Only gravity acts"],0,"The table's upward normal/support force can balance the book's downward weight."],
+["A book rests on a table. Does the upward support force mean gravity has disappeared?",["No; gravity still acts and is balanced by the support force","Yes; supported objects have no weight","Yes; only moving objects experience gravity","No; because the support force acts downward"],0,"Balanced forces can coexist; zero net force does not mean zero individual forces."],
+["Using F=ma as an extension model, the same 20 N net force acts on a 2 kg cart and a 10 kg cart. Which pair of accelerations is correct?",["10 m/s² and 2 m/s²","2 m/s² and 10 m/s²","20 m/s² and 20 m/s²","0.1 m/s² and 0.5 m/s²"],0,"a=F/m, so 20/2=10 m/s² and 20/10=2 m/s²."],
+["Using W=mg with g=9.8 N/kg, what is the weight of a 7 kg object on Earth?",["68.6 N","7 N","16.8 N","0.714 N"],0,"W=mg=7×9.8=68.6 N."],
+["Moon gravity is about 1.6 N/kg. What is the weight of a 50 kg astronaut on the Moon?",["80 N","50 N","31.25 N","490 N"],0,"W=mg=50×1.6=80 N."],
+["A 20 kg object is taken from Earth, where g=9.8 N/kg, to a planet where g=6 N/kg. What remains unchanged?",["Its mass of 20 kg","Its Earth weight of 196 N","Its weight on both worlds","The gravitational field strength"],0,"Mass remains 20 kg; weight changes with gravitational field strength."],
+["What are the weights of a 20 kg object on a planet where g=6 N/kg and on Earth where g=9.8 N/kg?",["120 N and 196 N","20 N and 20 N","6 N and 9.8 N","120 kg and 196 kg"],0,"W=mg gives 20×6=120 N and 20×9.8=196 N."],
+["A spring scale holding a bag reads 35 N. If this reading is the bag's weight and g=9.8 N/kg, what is its mass to 2 significant figures?",["3.6 kg","35 kg","340 kg","0.28 kg"],0,"m=W/g=35/9.8≈3.57 kg, which is 3.6 kg to 2 significant figures."],
+["An ideal lever lifts a 60 N load. The effort arm is 1.2 m and the load arm is 0.4 m. What is the mechanical advantage from the arm lengths?",["3","0.33","1.6","60"],0,"Mechanical advantage=effort arm/load arm=1.2/0.4=3."],
+["For the same ideal lever with mechanical advantage 3 lifting a 60 N load, what effort force is required?",["20 N","60 N","180 N","3 N"],0,"Effort=load/mechanical advantage=60/3=20 N."],
+["A lever has a 0.9 m effort arm and a 0.3 m load arm. If it lifts a 180 N load ideally, what effort is required?",["60 N","180 N","540 N","20 N"],0,"Mechanical advantage=0.9/0.3=3, so effort=180/3=60 N."],
+["An ideal pulley system has 2 supporting rope segments lifting a 100 N load. Ignoring friction, what effort force is needed?",["50 N","100 N","200 N","25 N"],0,"Two supporting segments share the 100 N load, so ideal effort is 100/2=50 N."],
+["A 200 N load is lifted by an ideal lever that reduces effort by a factor of 3 and then a pulley that reduces it by a factor of 2. What final effort is required?",["about 33.3 N","100 N","66.7 N","12 N"],0,"200÷3÷2=33.3 N approximately."],
+["An ideal lever has mechanical advantage 4 and an ideal pulley system has mechanical advantage 3. Together they lift 360 N. What effort force is required?",["30 N","120 N","90 N","12 N"],0,"Combined ideal mechanical advantage=4×3=12; 360/12=30 N."],
+["A constant net force acts on an object for longer. What changes if mass and force remain constant?",["Acceleration stays the same, but the change in velocity grows with time","Acceleration keeps increasing simply because time passes","Mass increases","Net force falls to zero"],0,"With constant force and mass, acceleration is constant; acting for longer produces a larger change in velocity."],
+["Which statement about friction is most accurate?",["Friction opposes relative sliding or the tendency to slide between contacting surfaces","Friction always points opposite an object's velocity in every situation","Friction always points downward","Friction acts only on stationary objects"],0,"Friction opposes relative motion or impending relative motion at a contact; for example, static friction on a walking foot can act forward."],
+["A runner changes from smooth soles to high-grip shoes. What is the main force-related benefit?",["Greater available friction can improve traction","Gravity becomes weaker","Mass decreases","Normal force disappears"],0,"Higher available friction can help the shoe push against the ground without slipping."],
+["Using F=ma, a 3 kg skateboard experiences a 9 N net force. What is its acceleration?",["3 m/s²","27 m/s²","0.33 m/s²","12 m/s²"],0,"a=F/m=9/3=3 m/s²."],
+["The 3 kg skateboard starts from rest and keeps accelerating at 3 m/s² for 4 s. What speed does it reach?",["12 m/s","7 m/s","3 m/s","0.75 m/s"],0,"For constant acceleration from rest, v=at=3×4=12 m/s."],
+["A 900 kg car experiences a 2700 N net braking force opposite its motion. Using F=ma, what is the acceleration?",["3 m/s² opposite the motion","0.33 m/s² opposite the motion","2700 m/s² opposite the motion","3 m/s² in the direction of motion"],0,"a=F/m=2700/900=3 m/s² in the direction of the net braking force."],
+["An elevator has 6000 N upward cable force and 4900 N downward weight. What is the net force?",["1100 N upward","1100 N downward","10 900 N upward","0 N"],0,"6000−4900=1100 N upward."],
+["When two surfaces slide against each other, friction can transfer mechanical energy mainly into:",["thermal energy","mass","gravitational field strength","new matter"],0,"Friction can convert mechanical energy into thermal energy in the interacting surfaces and surroundings."],
+["Which statement about ideal simple machines is correct?",["They can trade force for distance but do not create energy","They always reduce the total work to zero","They remove gravity","They make a load lose mass"],0,"An ideal simple machine can reduce effort force by increasing the distance over which the force acts; it does not create energy."],
+["When learning about a specific First Peoples or Torres Strait Islander technology, which approach is most scientifically and culturally sound?",["Use reliable, place-specific sources for the technology and then analyse the force or energy model","Assume every community used identical designs","Invent a traditional use to fit the physics lesson","Remove attribution and discuss it as generic technology"],0,"Reliable, place-specific sourcing supports both accurate cultural representation and accurate scientific analysis."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map((q,i)=>({id:`ac9s7u04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S7U04",bank:"practice",skill:"forces motion gravity and machines",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Identify all forces, compare their magnitudes and directions, and decide what the net force means for motion."},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
