@@ -1,237 +1,52 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9m7sp02-t-001",
-    "curriculumCode": "AC9M7SP02",
-    "bank": "test",
-    "skill": "define regular polygon",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving define regular polygon. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving define regular polygon. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Every square is a rectangle, but not every rectangle is a square",
-      "Square excluded from rectangles",
-      "A square satisfies the rectangle definition",
-      "Condition required for class membership"
-    ],
-    "correct": 0,
-    "explanation": "Every square is a rectangle, but not every rectangle is a square\nHint: A square satisfies the rectangle definition.",
-    "structuredExplanation": {
-      "summary": "Every square is a rectangle, but not every rectangle is a square",
-      "hint": "A square satisfies the rectangle definition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp02-t-002",
-    "curriculumCode": "AC9M7SP02",
-    "bank": "test",
-    "skill": "use a counterexample",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Shape orientation used as a property",
-      "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
-      "Rotation does not change side or angle relationships",
-      "Condition required for class membership"
-    ],
-    "correct": 1,
-    "explanation": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.\nHint: Rotation does not change side or angle relationships.",
-    "structuredExplanation": {
-      "summary": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
-      "hint": "Rotation does not change side or angle relationships."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp02-t-003",
-    "curriculumCode": "AC9M7SP02",
-    "bank": "test",
-    "skill": "classify a square fully",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exactly two substituted for at least two",
-      "Inclusive isosceles definitions include equilateral triangles",
-      "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
-      "Condition required for class membership"
-    ],
-    "correct": 2,
-    "explanation": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.\nHint: Inclusive isosceles definitions include equilateral triangles.",
-    "structuredExplanation": {
-      "summary": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
-      "hint": "Inclusive isosceles definitions include equilateral triangles."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp02-t-004",
-    "curriculumCode": "AC9M7SP02",
-    "bank": "test",
-    "skill": "compare kite rhombus",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving compare kite rhombus. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving compare kite rhombus. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Equal sides assumed from appearance",
-      "Use markings or measurement",
-      "Condition required for class membership",
-      "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class."
-    ],
-    "correct": 3,
-    "explanation": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.\nHint: Use markings or measurement.",
-    "structuredExplanation": {
-      "summary": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
-      "hint": "Use markings or measurement."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp02-t-005",
-    "curriculumCode": "AC9M7SP02",
-    "bank": "test",
-    "skill": "classify a right isosceles triangle",
-    "printable": true,
-    "type": "single",
-    "question": "What should be checked when applying classify a right isosceles triangle in classifying polygons by properties?",
-    "audioPrompt": "What should be checked when applying classify a right isosceles triangle in classifying polygons by properties?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Every square is a rectangle, but not every rectangle is a square",
-      "Square excluded from rectangles",
-      "A square satisfies the rectangle definition",
-      "Condition required for class membership"
-    ],
-    "correct": 0,
-    "explanation": "Every square is a rectangle, but not every rectangle is a square\nHint: A square satisfies the rectangle definition.",
-    "structuredExplanation": {
-      "summary": "Every square is a rectangle, but not every rectangle is a square",
-      "hint": "A square satisfies the rectangle definition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp02-t-006",
-    "curriculumCode": "AC9M7SP02",
-    "bank": "test",
-    "skill": "define regular polygon",
-    "printable": true,
-    "type": "single",
-    "question": "Which response best uses define regular polygon in classifying polygons by properties?",
-    "audioPrompt": "Which response best uses define regular polygon in classifying polygons by properties?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Shape orientation used as a property",
-      "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
-      "Rotation does not change side or angle relationships",
-      "Condition required for class membership"
-    ],
-    "correct": 1,
-    "explanation": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.\nHint: Rotation does not change side or angle relationships.",
-    "structuredExplanation": {
-      "summary": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
-      "hint": "Rotation does not change side or angle relationships."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp02-t-007",
-    "curriculumCode": "AC9M7SP02",
-    "bank": "test",
-    "skill": "use a counterexample",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Exactly two substituted for at least two",
-      "Inclusive isosceles definitions include equilateral triangles",
-      "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
-      "Condition required for class membership"
-    ],
-    "correct": 2,
-    "explanation": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.\nHint: Inclusive isosceles definitions include equilateral triangles.",
-    "structuredExplanation": {
-      "summary": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
-      "hint": "Inclusive isosceles definitions include equilateral triangles."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp02-t-008",
-    "curriculumCode": "AC9M7SP02",
-    "bank": "test",
-    "skill": "classify a square fully",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Equal sides assumed from appearance",
-      "Use markings or measurement",
-      "Condition required for class membership",
-      "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class."
-    ],
-    "correct": 3,
-    "explanation": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.\nHint: Use markings or measurement.",
-    "structuredExplanation": {
-      "summary": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
-      "hint": "Use markings or measurement."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["A hinged frame has sides 5, 7, 5 and 7 cm. It can be pushed into several shapes without changing side lengths. What is the best explanation?",["It is a quadrilateral, so its angles are not fixed by the four side lengths alone","Its sides are unequal","It violates triangle inequality","It must be a rectangle"],0,"Four side lengths alone do not generally fix a quadrilateral's angles."],
+["Why does adding one diagonal brace to a rectangular frame increase rigidity?",["It creates two triangles whose fixed sides constrain the frame","It removes two vertices","It makes every side equal","It makes the frame circular"],0,"Triangulation removes the quadrilateral's freedom to shear."],
+["A builder has rods 4 m, 6 m and x m. Which value of x cannot make a triangle?",["10 m","7 m","5 m","3 m"],0,"4 + 6 = 10, so x = 10 gives a degenerate straight line."],
+["Two sides of a triangle are 7 cm and 11 cm. Which range must the third side x satisfy?",["4 < x < 18","x > 18","x < 4","7 < x < 11 only"],0,"Triangle inequality gives |11−7| < x < 11+7."],
+["Which set forms a valid isosceles triangle?",["5, 5, 9","4, 4, 8","2, 2, 5","3, 3, 7"],0,"5 + 5 > 9; the other equal pairs sum to no more than the third side."],
+["A student claims 2, 5 and 7 cm make a triangle because 2 + 5 = 7. What is wrong?",["The sum must be strictly greater than the third side","The sum must equal the third side","All sides must be equal","Only integer sides fail"],0,"Equality produces a straight-line degenerate case, not a triangle."],
+["A triangle has angles 45°, 45°, 90°. Which classification is complete?",["right isosceles","right scalene","acute isosceles","equilateral"],0,"It has one right angle and two equal angles/sides."],
+["A triangle has angles 100°, 40°, 40°. Which classification is complete?",["obtuse isosceles","obtuse scalene","acute isosceles","right isosceles"],0,"One angle is obtuse and two angles are equal."],
+["A triangle is equilateral. Which additional classification must be true?",["acute","right","obtuse","scalene"],0,"Its three angles are each 60°."],
+["A triangle is right-angled. Which side-based classification is impossible?",["equilateral","isosceles","scalene","none; all are possible"],0,"An equilateral triangle has only 60° angles."],
+["Which observation alone is enough to classify a triangle as isosceles?",["two marked equal sides","it looks symmetrical","one 60° angle","one horizontal side"],0,"Two equal sides meet the defining side property."],
+["A triangle has three different side lengths. What can be concluded about its angles?",["All three angles are different","It must be right-angled","It must be acute","One angle must be 90°"],0,"In a triangle, unequal sides are opposite unequal angles."],
+["A quadrilateral has four right angles and four equal sides. Which list contains only valid classifications?",["square, rectangle, rhombus, parallelogram, quadrilateral","square only","square and kite only","rectangle and trapezium only"],0,"Under inclusive classification, a square belongs to all those broader classes."],
+["A quadrilateral has four equal sides and no right angles. Which statement is true?",["It is a rhombus and parallelogram but not a square","It is a rectangle","It is a square","It has exactly one pair of parallel sides"],0,"A non-square rhombus still has opposite sides parallel."],
+["A quadrilateral has four right angles and two different side lengths. Which statement is true?",["It is a rectangle and parallelogram but not a square","It is a rhombus","It is a kite only","It is not a parallelogram"],0,"Four right angles define rectangle; unequal adjacent sides exclude square/rhombus."],
+["Which property would turn a general parallelogram into a rectangle?",["one right angle","one pair of equal adjacent sides only","one diagonal","one acute angle"],0,"In a parallelogram, one right angle forces all four angles to be right angles."],
+["Which property would turn a general parallelogram into a rhombus?",["two adjacent sides equal","one right angle","equal diagonals only","one obtuse angle"],0,"Opposite sides are already equal, so one adjacent equality makes all four sides equal."],
+["A parallelogram has one right angle and two adjacent equal sides. What must it be?",["square","rectangle only","rhombus only","trapezium"],0,"The right angle makes it a rectangle and adjacent equal sides make it a rhombus; therefore it is a square."],
+["Which statement disproves 'All rectangles are squares'?",["A 3 cm by 5 cm rectangle has four right angles but not four equal sides","A square has four right angles","A rhombus has equal sides","A triangle has three sides"],0,"One valid non-square rectangle is enough as a counterexample."],
+["Which statement disproves 'All quadrilaterals are parallelograms'?",["A kite with no parallel opposite sides is a quadrilateral","A square is a parallelogram","A rectangle has parallel sides","A rhombus is a parallelogram"],0,"The kite is a quadrilateral that fails the parallelogram definition."],
+["A student calls a rotated square 'a rhombus, not a square'. What is the best correction?",["Rotation changes orientation, not side lengths or right angles, so it remains a square and also a rhombus","Rotation removes right angles","A square cannot be a rhombus","Only horizontal shapes can be squares"],0,"Geometric properties are invariant under rotation."],
+["Why is appearance alone unreliable for classifying quadrilaterals?",["Drawings may not be to scale; markings and stated properties are stronger evidence","Every drawing is exact","Orientation defines the shape","Colour changes side properties"],0,"Classification should use defining properties."],
+["A quadrilateral is known to be both a rectangle and a rhombus. What must it be?",["square","kite only","trapezium","non-square parallelogram"],0,"Four right angles plus four equal sides define a square."],
+["Under the exclusive trapezium convention used in this unit, why is a parallelogram not a trapezium?",["A parallelogram has two pairs of parallel sides, not exactly one pair","It has no parallel sides","It has five sides","It always has four equal sides"],0,"This unit distinguishes exactly one pair from two pairs of parallel sides."],
+["Which hierarchy is correct?",["square → rectangle → parallelogram → quadrilateral","parallelogram → square → rectangle","quadrilateral → parallelogram → all kites","rectangle → square → rhombus"],0,"Every square is a rectangle, every rectangle is a parallelogram, and every parallelogram is a quadrilateral."],
+["Which second hierarchy is correct?",["square → rhombus → parallelogram → quadrilateral","rhombus → square → rectangle","parallelogram → rhombus → square","kite → rectangle → square"],0,"Every square is a rhombus and every rhombus is a parallelogram."],
+["A regular quadrilateral is necessarily a:",["square","rectangle that is not a square","rhombus that is not a square","kite only"],0,"Equal sides and equal angles force four 90° angles and four equal sides."],
+["A quadrilateral has exactly one pair of parallel sides and the non-parallel sides are equal. Under this unit's convention it is best classified as:",["an isosceles trapezium","a parallelogram","a rectangle","a rhombus"],0,"It has exactly one pair of parallel sides and equal legs."],
+["A triangle has sides 7, 7, 12. Which statement is certain?",["It is isosceles and constructible","It is equilateral","It is right-angled","It is impossible"],0,"7 + 7 > 12 and two sides are equal."],
+["A triangle has sides 2, 3, 4. Which angle type is it?",["obtuse","right","acute","equilateral"],0,"4² = 16 > 2²+3² = 13, so the angle opposite 4 is obtuse."],
+["A triangle has sides 5, 6, 7. Which angle type is it?",["acute","right","obtuse","equilateral"],0,"7² = 49 < 5²+6² = 61, so the largest angle is acute."],
+["A triangle has sides 8, 15, 17. Which angle type is it?",["right","acute","obtuse","equilateral"],0,"8²+15²=17²."],
+["Which proposed side set should a student reject before trying compass construction?",["6, 8, 15","6, 8, 10","7, 7, 12","5, 9, 10"],0,"6 + 8 = 14 < 15, so the arcs cannot meet."],
+["When constructing a triangle from three side lengths using ruler and compasses, what indicates success?",["arcs with the required radii intersect at a third vertex","the arcs never meet","all sides look horizontal","one side is twice another"],0,"The arc intersection locates a point at both required distances."],
+["If construction arcs just touch at one point on the baseline extension, what does this indicate?",["a degenerate case where two side lengths sum to the third","an equilateral triangle","a unique acute triangle","a square"],0,"Equality in triangle inequality collapses the triangle to a line."],
+["Why are triangular trusses stable compared with unbraced four-sided frames?",["Fixed side lengths determine each triangular unit","Triangles always have right angles","Quadrilaterals have no sides","Triangles are always equilateral"],0,"Triangulation constrains changes in angle."],
+["A square frame is braced with one diagonal. If the side lengths and diagonal remain fixed, why can it no longer shear into a non-square rhombus?",["The diagonal fixes two triangles and therefore fixes their angles","The diagonal removes parallel sides","The frame becomes a triangle with three sides total","The diagonal changes every side length"],0,"The brace locks the geometry through two rigid triangles."],
+["A quadrilateral has two pairs of adjacent equal sides. Can you conclude it is not a rhombus?",["No; a rhombus also has adjacent equal sides, so more information may be needed","Yes, always","Only if rotated","Only if it has diagonals"],0,"Properties can overlap; classification depends on the definition being used and additional properties."],
+["Which statement shows the strongest geometric reasoning?",["The shape is a rectangle because four marked right angles satisfy the definition, regardless of orientation","It looks rectangular","It is blue so it is a rectangle","Its longest side is at the bottom"],0,"A definition-based justification is stronger than visual appearance."],
+["A student says, 'Every shape with four equal sides is a square.' Which missing condition corrects the claim?",["All four angles must also be 90°","It must point upward","It must have no diagonals","It must have exactly one parallel pair"],0,"Four equal sides alone describe a rhombus; square additionally requires four right angles."],
+["A student says, 'Every shape with four right angles is a square.' Which missing condition corrects the claim?",["All four sides must also be equal","It must have one diagonal","It must be rotated 45°","It must have no parallel sides"],0,"Four right angles define a rectangle; equal sides make it a square."],
+["Which pair of classifications can describe the same triangle?",["isosceles and obtuse","acute and obtuse","right and acute","scalene and equilateral"],0,"Side-based and angle-based categories can overlap; an isosceles triangle may be obtuse."],
+["Which pair cannot describe the same triangle?",["acute and obtuse","isosceles and right","scalene and acute","isosceles and obtuse"],0,"A triangle cannot simultaneously have all angles below 90° and one above 90°."],
+["Which conclusion follows from a quadrilateral having four equal sides and one right angle?",["It is a square","It is only a rhombus","It is a trapezium","No classification is possible"],0,"A rhombus with one right angle has all right angles, making it a square."],
+["Which conclusion follows from a parallelogram having equal diagonals?",["It is a rectangle (and could be a square)","It must be a non-square rhombus","It is a kite only","It cannot have right angles"],0,"Equal diagonals in a parallelogram imply rectangle; a square is a special case."],
+["What is the best final check when classifying a shape from a diagram?",["Verify every defining property required by the claimed class","Choose the name that looks closest","Ignore markings","Use orientation as the main property"],0,"A classification is justified only when its defining conditions are supported."]
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
+window.skillrTestQuestions=raw.map((q,i)=>({id:`ac9m7sp02-t-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M7SP02",bank:"test",skill:"reason about polygon properties",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Check the definition, then test whether all required properties are guaranteed."},qualitySchema:"production-v1"}));
+window.skillrExamQuestions=window.skillrTestQuestions;
+window.quizQuestions=window.skillrTestQuestions;
