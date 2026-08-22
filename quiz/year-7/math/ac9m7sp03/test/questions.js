@@ -1,237 +1,61 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9m7sp03-t-001",
-    "curriculumCode": "AC9M7SP03",
-    "bank": "test",
-    "skill": "identify orientation change",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving identify orientation change. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving identify orientation change. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reflection in the y-axis maps (4,−2) to (−4,−2)",
-      "Only one vertex transformed",
-      "Apply the rule to every point",
-      "Transformed result of an original object"
-    ],
-    "correct": 0,
-    "explanation": "Reflection in the y-axis maps (4,−2) to (−4,−2)\nHint: Apply the rule to every point.",
-    "structuredExplanation": {
-      "summary": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
-      "hint": "Apply the rule to every point."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp03-t-002",
-    "curriculumCode": "AC9M7SP03",
-    "bank": "test",
-    "skill": "check invariants",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving check invariants. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving check invariants. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Rotation direction or centre omitted",
-      "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
-      "Both determine the image",
-      "Transformed result of an original object"
-    ],
-    "correct": 1,
-    "explanation": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.\nHint: Both determine the image.",
-    "structuredExplanation": {
-      "summary": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
-      "hint": "Both determine the image."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp03-t-003",
-    "curriculumCode": "AC9M7SP03",
-    "bank": "test",
-    "skill": "translate a triangle",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reflection coordinates swapped incorrectly",
-      "Match the stated axis or line",
-      "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
-      "Transformed result of an original object"
-    ],
-    "correct": 2,
-    "explanation": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.\nHint: Match the stated axis or line.",
-    "structuredExplanation": {
-      "summary": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
-      "hint": "Match the stated axis or line."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp03-t-004",
-    "curriculumCode": "AC9M7SP03",
-    "bank": "test",
-    "skill": "reflect in y axis",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving reflect in y axis. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving reflect in y axis. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Congruence assumed without checking a non-rigid change",
-      "These rules are rigid, but other transformations may not be",
-      "Transformed result of an original object",
-      "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence."
-    ],
-    "correct": 3,
-    "explanation": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.\nHint: These rules are rigid, but other transformations may not be.",
-    "structuredExplanation": {
-      "summary": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
-      "hint": "These rules are rigid, but other transformations may not be."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp03-t-005",
-    "curriculumCode": "AC9M7SP03",
-    "bank": "test",
-    "skill": "rotate 90",
-    "printable": true,
-    "type": "single",
-    "question": "What should be checked when applying rotate 90° in coordinate transformations?",
-    "audioPrompt": "What should be checked when applying rotate 90° in coordinate transformations?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reflection in the y-axis maps (4,−2) to (−4,−2)",
-      "Only one vertex transformed",
-      "Apply the rule to every point",
-      "Transformed result of an original object"
-    ],
-    "correct": 0,
-    "explanation": "Reflection in the y-axis maps (4,−2) to (−4,−2)\nHint: Apply the rule to every point.",
-    "structuredExplanation": {
-      "summary": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
-      "hint": "Apply the rule to every point."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp03-t-006",
-    "curriculumCode": "AC9M7SP03",
-    "bank": "test",
-    "skill": "identify orientation change",
-    "printable": true,
-    "type": "single",
-    "question": "Which response best uses identify orientation change in coordinate transformations?",
-    "audioPrompt": "Which response best uses identify orientation change in coordinate transformations?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Rotation direction or centre omitted",
-      "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
-      "Both determine the image",
-      "Transformed result of an original object"
-    ],
-    "correct": 1,
-    "explanation": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.\nHint: Both determine the image.",
-    "structuredExplanation": {
-      "summary": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
-      "hint": "Both determine the image."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp03-t-007",
-    "curriculumCode": "AC9M7SP03",
-    "bank": "test",
-    "skill": "check invariants",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving check invariants. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving check invariants. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Reflection coordinates swapped incorrectly",
-      "Match the stated axis or line",
-      "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
-      "Transformed result of an original object"
-    ],
-    "correct": 2,
-    "explanation": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.\nHint: Match the stated axis or line.",
-    "structuredExplanation": {
-      "summary": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
-      "hint": "Match the stated axis or line."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp03-t-008",
-    "curriculumCode": "AC9M7SP03",
-    "bank": "test",
-    "skill": "translate a triangle",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Congruence assumed without checking a non-rigid change",
-      "These rules are rigid, but other transformations may not be",
-      "Transformed result of an original object",
-      "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence."
-    ],
-    "correct": 3,
-    "explanation": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.\nHint: These rules are rigid, but other transformations may not be.",
-    "structuredExplanation": {
-      "summary": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
-      "hint": "These rules are rigid, but other transformations may not be."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["A translation maps P(−3,4) to P'(5,−2). Which rule describes it?",["(x,y)→(x+8,y−6)","(x,y)→(x−8,y+6)","(x,y)→(x+2,y−8)","(x,y)→(x−6,y+8)"],0,"The displacement is (5−(−3), −2−4)=(8,−6)."],
+["Triangle A(−2,1), B(1,1), C(0,4) is translated by (+5,−3). What is C'?",["(5,1)","(−5,7)","(3,4)","(5,7)"],0,"C(0,4)→(5,1)."],
+["A point is translated by vector (a,b) and then by (−a,−b). Net effect:",["identity","reflection","180° rotation","dilation"],0,"The displacement vectors add to (0,0)."],
+["Which information uniquely describes a translation?",["a displacement vector","a mirror line","a centre only","an angle only"],0,"A translation is determined by direction and distance, represented by its vector."],
+["Reflect (−6,3) in the y-axis, then in the x-axis. Final point:",["(6,−3)","(−6,−3)","(6,3)","(−3,6)"],0,"First →(6,3), then →(6,−3)."],
+["The previous two reflections are equivalent to:",["180° rotation about origin","90° rotation","translation","reflection in y=x"],0,"Both coordinate signs are reversed."],
+["Reflecting a point in x=2 then x=7 gives what horizontal translation?",["10 units right","5 units right","14 units right","10 units left"],0,"Parallel mirrors are 5 units apart; two reflections translate by twice that distance."],
+["Reflecting first in x=7 then x=2 gives:",["10 units left","10 units right","5 units left","180° rotation"],0,"The direction is from the first mirror line toward the second."],
+["A point (4,1) is reflected in x=2. Its image is:",["(0,1)","(−4,1)","(4,−1)","(2,1)"],0,"It is 2 units right of x=2, so the image is 2 units left."],
+["Then reflect (0,1) in x=7. The image is:",["(14,1)","(7,1)","(−14,1)","(0,−1)"],0,"0 is 7 units left of x=7, so its mirror is x=14."],
+["Rotate (2,5) 90° clockwise about the origin.",["(5,−2)","(−5,2)","(−2,−5)","(2,−5)"],0,"90° clockwise uses (x,y)→(y,−x)."],
+["Rotate (−3,−4) 90° anticlockwise.",["(4,−3)","(−4,3)","(3,4)","(−3,4)"],0,"(x,y)→(−y,x) gives (4,−3)."],
+["A 90° anticlockwise rotation followed by another 90° anticlockwise rotation equals:",["180° rotation","270° rotation","reflection","translation"],0,"Rotation angles about the same centre add."],
+["A 270° anticlockwise rotation followed by 90° anticlockwise about the same centre equals:",["identity","180° rotation","reflection","translation"],0,"270°+90°=360°."],
+["Which point remains fixed under any rotation about the origin?",["(0,0)","(1,0)","(0,1)","(1,1)"],0,"The centre of rotation does not move."],
+["A point (3,4) and its 90° rotated image are both how far from the origin?",["5 units","7 units","1 unit","25 units"],0,"Rotation preserves distance from its centre; √(3²+4²)=5."],
+["A shape is reflected. Which quantity is not preserved?",["orientation","side length","angle measure","area"],0,"Reflection reverses orientation but is otherwise rigid."],
+["A shape is rotated. Which quantity is preserved?",["all corresponding lengths and angles","all x-coordinates","all y-coordinates","orientation relative to the page"],0,"Rotation is rigid."],
+["A student transforms only two of a triangle's three vertices. Why is this invalid?",["The same transformation must map every point of the figure","Triangles need four vertices","Only x-coordinates should move","Transformations apply only to edges"],0,"A transformation is a rule on the entire set of points."],
+["A student writes 'rotate 90°' as a complete instruction. What is missing?",["centre and direction","translation vector","mirror line only","side lengths"],0,"A rotation needs centre, angle and direction."],
+["A student writes 'reflect the triangle' as a complete instruction. What is missing?",["the mirror line or axis","a rotation centre","a translation vector","the triangle's area"],0,"A reflection is determined by its mirror line."],
+["Which sequence maps (x,y) to (−x,−y)?",["reflect in x-axis then y-axis","translate right then left by unequal amounts","reflect twice in the same axis","90° rotation then inverse 90°"],0,"Successive perpendicular-axis reflections negate both coordinates."],
+["Reflecting twice in the same line is equivalent to:",["identity","translation","180° rotation","dilation"],0,"The second reflection undoes the first."],
+["Two reflections in lines intersecting at 45° produce a rotation of:",["90°","45°","180°","22.5°"],0,"The rotation angle is twice the angle between the mirror lines."],
+["Two reflections in perpendicular axes produce a rotation of:",["180°","90°","270°","360° only"],0,"Twice 90° is 180°."],
+["A pattern repeats by vector (+6,0). Which points could be corresponding motif points?",["(1,2) and (7,2)","(1,2) and (1,8)","(1,2) and (−5,2) only","(1,2) and (7,8)"],0,"The second point is 6 units right with unchanged y."],
+["A motif has rotational symmetry of order 4. Smallest positive rotation mapping it to itself:",["90°","45°","180°","270°"],0,"360°÷4=90°."],
+["A motif has rotational symmetry of order 6. Smallest positive angle:",["60°","30°","90°","120°"],0,"360°÷6=60°."],
+["Which transformation combination can produce a repeated footprint-like border pattern while reversing motif orientation?",["glide reflection","translation only","rotation by 360°","identity only"],0,"A glide reflection combines a flip with a slide."],
+["A point A(2,1) is reflected in y-axis, translated (+4,+3), rotated 90° anticlockwise, then reflected in x-axis. Final point:",["(−4,−2)","(4,2)","(−2,−4)","(2,4)"],0,"Sequence: (2,1)→(−2,1)→(2,4)→(−4,2)→(−4,−2)."],
+["In that sequence, after the translation step the point is:",["(2,4)","(−6,4)","(2,−2)","(−2,4)"],0,"After y-axis reflection it is (−2,1), then add (4,3)."],
+["Triangle vertices P(2,3), Q(5,3), R(5,7) are reflected in y-axis. Which set is correct?",["P'(−2,3), Q'(−5,3), R'(−5,7)","P'(2,−3), Q'(5,−3), R'(5,−7)","P'(−3,2), Q'(−3,5), R'(−7,5)","P'(−2,−3), Q'(−5,−3), R'(−5,−7)"],0,"Negate every x-coordinate and keep y."],
+["After that reflection, which property changes?",["orientation","side lengths","area","angle sizes"],0,"Mirror reflection reverses orientation only among these choices."],
+["Triangle A(1,2), B(4,2), C(4,6) is translated (+3,−1). Which set is correct?",["(4,1),(7,1),(7,5)","(−2,3),(1,3),(1,7)","(4,3),(7,3),(7,7)","(2,1),(5,1),(5,5)"],0,"Apply (+3,−1) to each vertex."],
+["What is the strongest check that the previous image is a translation?",["Each vertex has the same displacement vector and corresponding lengths are preserved","It looks similar","Only one vertex moved right","The image lies in a different quadrant"],0,"Translations require a common displacement for all points."],
+["A shape is rotated 180° then translated (−3,+2). Original point (6,−1) finishes at:",["(−9,3)","(−3,3)","(9,−3)","(3,−9)"],0,"(6,−1)→(−6,1)→(−9,3)."],
+["Could a different single rigid transformation map one particular point to that same final point?",["Yes; one point alone is not enough to uniquely identify a transformation","No; sequences are always unique","Only if it is a dilation","Only if coordinates are positive"],0,"Many transformations can send a single point to the same location; more information is needed."],
+["Why are digital tools useful for investigating equivalent transformations?",["They let students repeat, drag and compare images while recording exact coordinates","They make coordinate rules unnecessary","They change geometric definitions","They guarantee every guess is correct"],0,"Dynamic experimentation supports conjecture and verification."],
+["Which result would provide evidence that two different transformation sequences are equivalent for a figure?",["Every corresponding vertex finishes at the same coordinate","One vertex matches","The colours match","The sequences use the same number of steps"],0,"Equivalent transformations produce the same image for all points."],
+["If two parallel reflection lines are d units apart, the magnitude of the resulting translation is:",["2d","d","d/2","d²"],0,"Two reflections in parallel lines translate by twice their separation."],
+["If two intersecting reflection lines meet at angle θ, the resulting rotation angle is:",["2θ","θ","θ/2","360°−θ always"],0,"The composition theorem gives twice the directed angle between mirror lines."],
+["Which sequence returns every point to its original position?",["reflect in y-axis twice","reflect in y-axis then x-axis","translate (+2,0) once","rotate 90° once"],0,"A reflection is its own inverse."],
+["A repeated tile is translated (+4,0), then the whole pattern is translated (+4,0) again. Net translation:",["(+8,0)","(+4,0)","(0,0)","(+4,+4)"],0,"Translation vectors add."],
+["A 60° rotation is repeated six times about the same centre. Net effect:",["identity","60° rotation","180° rotation","reflection"],0,"Six times 60° is 360°."],
+["A reflection followed by a translation parallel to its mirror line is called a:",["glide reflection","half-turn","dilation","shear"],0,"That combination is the defining construction of a glide reflection."],
+["Which explanation best communicates a transformation solution?",["State the rule, apply it to every relevant point, record the image and check invariants","Give only the final picture","Give only one coordinate","Name a transformation without its required parameters"],0,"AC9M7SP03 emphasises describing and recording transformations precisely."],
+["A pattern can be recreated in more than one way. What matters when claiming two methods are equivalent?",["They map every original point to the same final point","They have the same number of steps","They use the same colours","They begin with a reflection"],0,"Equivalence is determined by the mapping, not the procedure length."],
+["Which transformation is its own inverse?",["reflection","translation by (+3,0)","90° rotation","120° rotation"],0,"Applying the same reflection twice returns the original."],
+["Which rotation is its own inverse?",["180°","90°","120°","270°"],0,"Two 180° rotations make a full 360° turn."],
+["Which translation is its own inverse?",["only the zero translation","every horizontal translation","every vertical translation","translation (+1,+1)"],0,"A non-zero translation needs the opposite vector to undo it."],
+["What is invariant under all translations, reflections and rotations?",["distance between any pair of corresponding original points","orientation","x-coordinate","distance to x-axis"],0,"Rigid transformations preserve pairwise distances."],
+["Which transformation definitely changes orientation?",["reflection","translation","180° rotation","90° rotation"],0,"Rotations preserve orientation; reflections reverse it."],
+["A student uses (x,y)→(y,x) and calls it reflection in the y-axis. What is wrong?",["Reflection in y-axis is (−x,y); swapping coordinates corresponds to reflection in y=x","The rule is a translation","The rule is a 180° rotation","Nothing is wrong"],0,"The mirror line determines the coordinate rule."],
+["A student uses (x,y)→(−y,x) for a 90° clockwise rotation. Correct the claim.",["That rule is 90° anticlockwise","That rule is 180°","That rule is reflection in y-axis","The claim is correct"],0,"90° clockwise is (y,−x)."],
+["Which is the best high-level description of AC9M7SP03?",["Use coordinates to describe rigid transformations, investigate equivalent compositions and create/recreate patterns","Calculate polygon area only","Classify quadrilaterals only","Study enlargements only"],0,"This captures E1–E3." ]
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
+window.skillrTestQuestions=raw.map((q,i)=>({id:`ac9m7sp03-t-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M7SP03",bank:"test",skill:"reason about coordinate transformations",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Work step-by-step; for compositions, use the image from one step as the input to the next."},qualitySchema:"production-v1"}));
+window.skillrExamQuestions=window.skillrTestQuestions;
+window.quizQuestions=window.skillrTestQuestions;
