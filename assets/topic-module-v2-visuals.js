@@ -1,32 +1,30 @@
 (() => {
   "use strict";
-  const esc = value => String(value ?? "").replace(/[&<>\"]/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[char]));
-  function conciseCaption(spec) {
-    const explicit = String(spec.caption || "").trim();
-    if (explicit) return explicit;
-    const alt = String(spec.alt || "").trim();
-    const match = alt.match(/^A code-specific (visual|application) model for ([^:]+):/i);
-    if (match) {
-      const label = match[1].toLowerCase() === "application" ? "Application model" : "Visual model";
-      return `${label}: ${match[2].trim()}`;
-    }
-    const firstSentence = alt.split(/(?<=[.!?])\s/)[0] || "Mathematical visual model";
-    return firstSentence.length <= 140 ? firstSentence : `${firstSentence.slice(0, 137).replace(/\s+\S*$/, "")}…`;
+  const esc=value=>String(value??"").replace(/[&<>\"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+  const codeOf=spec=>String(spec?.id||"").match(/ac9m7(?:n|a|m|sp|st|p)\d{2}/i)?.[0]?.toUpperCase()||"";
+  const svg=body=>`<svg class="tmv2-instructional-svg" viewBox="0 0 520 260" aria-hidden="true">${body}</svg>`;
+  const axes=()=>`<line x1="55" y1="215" x2="475" y2="215"/><line x1="55" y1="215" x2="55" y2="35"/><text x="485" y="220">x</text><text x="47" y="25">y</text>`;
+  const grid=()=>Array.from({length:8},(_,i)=>`<line class="grid" x1="${55+i*52}" y1="35" x2="${55+i*52}" y2="215"/>`).join("")+Array.from({length:5},(_,i)=>`<line class="grid" x1="55" y1="${215-i*45}" x2="475" y2="${215-i*45}"/>`).join("");
+  const scene={
+    AC9M7A03:{caption:"Balance model: perform the same operation on both sides",html:svg(`<text class="title" x="260" y="28">3x + 5 = 26</text><line x1="90" y1="142" x2="430" y2="142"/><polygon points="260,142 235,190 285,190"/><rect x="120" y="82" width="110" height="48"/><rect x="290" y="82" width="110" height="48"/><text class="big" x="175" y="114">3x + 5</text><text class="big" x="345" y="114">26</text><text x="260" y="230">Subtract 5 from both sides, then divide both sides by 3.</text>`)},
+    AC9M7A04:{caption:"Distance–time graph: steeper segments mean a greater rate of change",html:svg(`${grid()}${axes()}<polyline class="accent" points="55,215 160,125 265,125 370,35"/><circle cx="160" cy="125" r="6"/><circle cx="265" cy="125" r="6"/><text x="105" y="105">moving</text><text x="212" y="112">stopped</text><text x="335" y="70">faster</text><text x="260" y="248">time</text><text transform="translate(18 150) rotate(-90)">distance</text>`)},
+    AC9M7A05:{caption:"Coordinate graph for y = 3x + 1",html:svg(`${grid()}${axes()}<polyline class="accent" points="55,170 107,125 159,80 211,35"/><circle cx="55" cy="170" r="6"/><circle cx="107" cy="125" r="6"/><circle cx="159" cy="80" r="6"/><circle cx="211" cy="35" r="6"/><text x="70" y="162">(0,1)</text><text x="118" y="118">(1,4)</text><text x="170" y="73">(2,7)</text><text class="call" x="360" y="70">rise 3</text><text class="call" x="360" y="95">run 1</text>`)},
+    AC9M7A06:{caption:"Controlled variation: area grows linearly when width is fixed",html:svg(`${grid()}${axes()}<polyline class="accent" points="107,170 159,125 211,80 263,35"/><circle cx="107" cy="170" r="6"/><circle cx="159" cy="125" r="6"/><circle cx="211" cy="80" r="6"/><circle cx="263" cy="35" r="6"/><text x="300" y="70">A = 4l</text><text x="300" y="95">width fixed at 4 cm</text>`)},
+    AC9M7ST01:{caption:"Same centre can hide different spread",html:svg(`<text class="title" x="260" y="28">Centre and spread</text><line x1="55" y1="95" x2="465" y2="95"/><line x1="55" y1="185" x2="465" y2="185"/>${[4,5,5,7,9,10,16].map((v,i)=>`<circle class="accentFill" cx="${80+v*20}" cy="95" r="7"/>`).join("")}<text x="260" y="125">data set</text><path class="accent" d="M160 185 H400"/><circle cx="260" cy="185" r="8"/><text x="260" y="225">median marks centre; endpoints show spread</text>`)},
+    AC9M7ST02:{caption:"Stem-and-leaf display with ordered leaves and key",html:svg(`<text class="title" x="260" y="28">Stem-and-leaf plot</text><line x1="235" y1="55" x2="235" y2="205"/><text class="big" x="180" y="85">5</text><text x="280" y="85">2 6 8</text><text class="big" x="180" y="125">6</text><text x="280" y="125">1 4 4 9</text><text class="big" x="180" y="165">7</text><text x="280" y="165">0 3</text><text x="260" y="220">Key: 6 | 4 = 64</text>`)},
+    AC9M7P01:{caption:"Probability model: sector size represents likelihood",html:svg(`<text class="title" x="260" y="28">8 equal spinner sectors</text><circle cx="190" cy="135" r="80"/><line x1="190" y1="135" x2="190" y2="55"/><line x1="190" y1="135" x2="247" y2="78"/><line x1="190" y1="135" x2="270" y2="135"/><line x1="190" y1="135" x2="247" y2="192"/><line x1="190" y1="135" x2="190" y2="215"/><line x1="190" y1="135" x2="133" y2="192"/><line x1="190" y1="135" x2="110" y2="135"/><line x1="190" y1="135" x2="133" y2="78"/><text x="350" y="100">Red: 3/8</text><text x="350" y="135">Blue: 2/8</text><text x="350" y="170">Green: 3/8</text>`)},
+    AC9M7P02:{caption:"Relative frequency tends to stabilise with more trials",html:svg(`${grid()}${axes()}<polyline class="accent" points="70,75 120,155 170,110 220,135 270,120 320,128 370,124 420,126"/><line class="reference" x1="55" y1="125" x2="475" y2="125"/><text x="350" y="112">theoretical 0.5</text><text x="260" y="248">number of trials increases →</text>`) }
+  };
+  function conciseCaption(spec){const explicit=String(spec.caption||"").trim();if(explicit)return explicit;const alt=String(spec.alt||"").trim();const first=alt.split(/(?<=[.!?])\s/)[0]||"Mathematical visual model";return first.length<=140?first:`${first.slice(0,137).replace(/\s+\S*$/,"")}…`;}
+  function wrap(spec,html,caption){return `<figure class="tmv2-visual" role="img" aria-label="${esc(spec.alt||caption)}">${html}<figcaption>${esc(caption)}</figcaption></figure>`;}
+  function render(spec){
+    if(!spec)return "";
+    const code=codeOf(spec), special=scene[code];
+    if(special && /-model$/i.test(spec.id||"")) return wrap(spec,special.html,special.caption);
+    if(spec.type==="legacyHtml") return `<figure class="tmv2-visual" role="img" aria-label="${esc(spec.alt)}"><div class="tmv2-preserved-visual" aria-hidden="true">${spec.html||""}</div><figcaption>${esc(conciseCaption(spec))}</figcaption></figure>`;
+    if(spec.type==="squareArray"){const side=Number(spec.parameters.side);return wrap(spec,`<div class="tmv2-array" style="--side:${side}">${Array.from({length:side*side},()=>"<i></i>").join("")}</div>`,`${side}² = ${esc(spec.parameters.total)} and √${esc(spec.parameters.total)} = ${side}`);}
+    if(spec.type==="rootBounds"){const p=spec.parameters;return wrap(spec,`<div class="tmv2-bounds"><b>${esc(p.lower)} = ${esc(p.lowerRoot)}²</b><strong>${esc(p.value)}</strong><b>${esc(p.upper)} = ${esc(p.upperRoot)}²</b></div>`,`${esc(p.lowerRoot)} < √${esc(p.value)} < ${esc(p.upperRoot)}`);}
+    return wrap(spec,"",conciseCaption(spec));
   }
-  function render(spec) {
-    if (!spec) return "";
-    if (spec.type === "legacyHtml") {
-      return `<figure class="tmv2-visual" role="img" aria-label="${esc(spec.alt)}"><div class="tmv2-preserved-visual" aria-hidden="true">${spec.html || ""}</div><figcaption aria-hidden="true">${esc(conciseCaption(spec))}</figcaption></figure>`;
-    }
-    if (spec.type === "squareArray") {
-      const side = Number(spec.parameters.side);
-      return `<figure class="tmv2-visual" role="img" aria-label="${esc(spec.alt)}"><div class="tmv2-array" style="--side:${side}">${Array.from({length:side * side}, () => "<i></i>").join("")}</div><figcaption>${side}² = ${esc(spec.parameters.total)} and √${esc(spec.parameters.total)} = ${side}</figcaption></figure>`;
-    }
-    if (spec.type === "rootBounds") {
-      const p = spec.parameters;
-      return `<figure class="tmv2-visual" role="img" aria-label="${esc(spec.alt)}"><div class="tmv2-bounds"><b>${esc(p.lower)} = ${esc(p.lowerRoot)}²</b><strong>${esc(p.value)}</strong><b>${esc(p.upper)} = ${esc(p.upperRoot)}²</b></div><figcaption>${esc(p.lowerRoot)} &lt; √${esc(p.value)} &lt; ${esc(p.upperRoot)}</figcaption></figure>`;
-    }
-    return `<figure class="tmv2-visual" role="img" aria-label="${esc(spec.alt)}"><figcaption aria-hidden="true">${esc(conciseCaption(spec))}</figcaption></figure>`;
-  }
-  window.SkillrTopicModuleV2Visuals = {render};
+  window.SkillrTopicModuleV2Visuals={render};
 })();
