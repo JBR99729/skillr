@@ -1,237 +1,51 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9s7u06-t-001",
-    "curriculumCode": "AC9S7U06",
-    "bank": "test",
-    "skill": "design a separation sequence",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating design a separation sequence. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating design a separation sequence. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
-      "Clear means pure",
-      "Dissolved substances may be invisible",
-      "Material containing one particle type or chemical substance"
-    ],
-    "correct": 0,
-    "explanation": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water\nHint: Dissolved substances may be invisible.",
-    "structuredExplanation": {
-      "summary": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
-      "hint": "Dissolved substances may be invisible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u06-t-002",
-    "curriculumCode": "AC9S7U06",
-    "bank": "test",
-    "skill": "state exploited properties",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating state exploited properties. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating state exploited properties. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Filtration removes dissolved salt",
-      "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
-      "Dissolved particles pass ordinary filter paper",
-      "Material containing one particle type or chemical substance"
-    ],
-    "correct": 1,
-    "explanation": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.\nHint: Dissolved particles pass ordinary filter paper.",
-    "structuredExplanation": {
-      "summary": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
-      "hint": "Dissolved particles pass ordinary filter paper."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u06-t-003",
-    "curriculumCode": "AC9S7U06",
-    "bank": "test",
-    "skill": "classify particle diagrams",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating classify particle diagrams. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating classify particle diagrams. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Evaporation and distillation confused",
-      "Distillation collects the vaporised component after condensation",
-      "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
-      "Material containing one particle type or chemical substance"
-    ],
-    "correct": 2,
-    "explanation": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.\nHint: Distillation collects the vaporised component after condensation.",
-    "structuredExplanation": {
-      "summary": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
-      "hint": "Distillation collects the vaporised component after condensation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u06-t-004",
-    "curriculumCode": "AC9S7U06",
-    "bank": "test",
-    "skill": "choose filtration",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating choose filtration. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating choose filtration. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Method chosen by mixture name only",
-      "Identify relevant property differences",
-      "Material containing one particle type or chemical substance",
-      "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically."
-    ],
-    "correct": 3,
-    "explanation": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.\nHint: Identify relevant property differences.",
-    "structuredExplanation": {
-      "summary": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
-      "hint": "Identify relevant property differences."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u06-t-005",
-    "curriculumCode": "AC9S7U06",
-    "bank": "test",
-    "skill": "explain distillation",
-    "printable": true,
-    "type": "single",
-    "question": "What should be checked when applying explain distillation in pure substances, mixtures and separation?",
-    "audioPrompt": "What should be checked when applying explain distillation in pure substances, mixtures and separation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
-      "Clear means pure",
-      "Dissolved substances may be invisible",
-      "Material containing one particle type or chemical substance"
-    ],
-    "correct": 0,
-    "explanation": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water\nHint: Dissolved substances may be invisible.",
-    "structuredExplanation": {
-      "summary": "Use magnetism for iron, dissolve salt, filter sand, then evaporate or distil water",
-      "hint": "Dissolved substances may be invisible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u06-t-006",
-    "curriculumCode": "AC9S7U06",
-    "bank": "test",
-    "skill": "design a separation sequence",
-    "printable": true,
-    "type": "single",
-    "question": "Which response best uses design a separation sequence in pure substances, mixtures and separation?",
-    "audioPrompt": "Which response best uses design a separation sequence in pure substances, mixtures and separation?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Filtration removes dissolved salt",
-      "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
-      "Dissolved particles pass ordinary filter paper",
-      "Material containing one particle type or chemical substance"
-    ],
-    "correct": 1,
-    "explanation": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.\nHint: Dissolved particles pass ordinary filter paper.",
-    "structuredExplanation": {
-      "summary": "Purity is about particle composition, not visual cleanliness. A clear colourless liquid may still be a mixture.",
-      "hint": "Dissolved particles pass ordinary filter paper."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u06-t-007",
-    "curriculumCode": "AC9S7U06",
-    "bank": "test",
-    "skill": "state exploited properties",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating state exploited properties. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating state exploited properties. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Evaporation and distillation confused",
-      "Distillation collects the vaporised component after condensation",
-      "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
-      "Material containing one particle type or chemical substance"
-    ],
-    "correct": 2,
-    "explanation": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.\nHint: Distillation collects the vaporised component after condensation.",
-    "structuredExplanation": {
-      "summary": "A sequence may be required. Explain which property each step exploits and what remains in residue, filtrate or distillate.",
-      "hint": "Distillation collects the vaporised component after condensation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u06-t-008",
-    "curriculumCode": "AC9S7U06",
-    "bank": "test",
-    "skill": "classify particle diagrams",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating classify particle diagrams. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating classify particle diagrams. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Method chosen by mixture name only",
-      "Identify relevant property differences",
-      "Material containing one particle type or chemical substance",
-      "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically."
-    ],
-    "correct": 3,
-    "explanation": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.\nHint: Identify relevant property differences.",
-    "structuredExplanation": {
-      "summary": "A pure substance contains one type of particle with characteristic properties; a mixture contains two or more substances that can often be separated physically.",
-      "hint": "Identify relevant property differences."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["A particle diagram shows only identical AB molecules, each made of one A atom bonded to one B atom. How should the sample be classified?",["A pure compound","A mixture because two elements appear","A suspension","A solution with two solutes"],"Every particle is the same compound particle, so the sample is a pure substance."],
+["A particle diagram contains three different particle types randomly intermingled. What is the strongest conclusion?",["The sample is a mixture","The sample must be a pure compound","The sample contains no solvent","The particles must be chemically bonded"],"More than one particle type is present in the sample."],
+["A clear liquid contains dissolved sodium chloride. Which statement is correct?",["It is a mixture even though it looks uniform","It is pure because it is transparent","It must be distilled water","It can be separated by sieving"],"Dissolved particles can make a homogeneous mixture that still appears clear."],
+["A student filters saltwater and expects salt crystals on the filter paper. What is wrong with the plan?",["Dissolved salt passes through ordinary filter paper with the water","The water will be trapped and salt will pass","Salt becomes magnetic when dissolved","Filtering converts salt to a gas"],"Filtration removes suspended solids, not ordinary dissolved solute particles."],
+["A saline solution contains 5 g salt in 100 g water. Which component is the solvent?",["Water","Salt","Both are solutes","Neither because it is a mixture"],"Water is the liquid medium in which the salt is dissolved."],
+["A soft drink contains water, dissolved sugar and dissolved carbon dioxide. Which description is best?",["Water is the main solvent; sugar and carbon dioxide are solutes","Sugar is the only solvent","Carbon dioxide is the solvent because it is a gas","The drink is a pure substance"],"The dissolved sugar and carbon dioxide are solutes in the mainly aqueous solution."],
+["Sand is shaken into water and later settles. Why is this different from a salt solution?",["Sand remains as larger undissolved particles, while dissolved salt is dispersed through the solvent","Sand chemically reacts with water","Salt particles are larger than sand grains","Both mixtures are pure substances"],"A suspension contains undissolved particles that can settle, unlike a true solution."],
+["A dry mixture contains sand and salt. Which plan uses selective solubility correctly?",["Add water to dissolve salt, filter out sand, then recover salt from the filtrate","Filter the dry mixture through ordinary filter paper","Use a magnet on both solids","Distil the dry mixture without a solvent"],"Water dissolves salt but not sand, creating a difference that filtration can exploit."],
+["A mixture contains iron filings, sand and salt. Which sequence best separates all three?",["Magnet for iron; add water to dissolve salt; filter sand; evaporate or crystallise salt from filtrate","Evaporate first; then use chromatography","Use one sieve only","Decant the dry mixture"],"The sequence exploits magnetism, solubility and particle size in a logical order."],
+["You must recover sand, salt and water from a sand–saltwater mixture. Which sequence is best?",["Filter sand, then distil the filtrate so water is collected and salt remains","Evaporate the whole mixture before filtering","Use chromatography only","Decant once and stop"],"Filtration recovers sand; distillation then collects water while nonvolatile salt remains."],
+["A mixture contains two miscible liquids with boiling points 78°C and 100°C. Which technique uses that property difference?",["Distillation","Filtration","Sieving","Hand-picking"],"Different boiling points allow preferential vaporisation and condensation."],
+["A black ink sample forms several coloured bands during paper chromatography. Why?",["Its components partition differently between the moving solvent and stationary paper","The paper chemically creates new colours","The dyes all have identical attraction","The dyes are separated by magnetism"],"Different affinities for the two phases produce different travel distances."],
+["In paper chromatography, what is the mobile phase?",["The solvent moving through the paper","The paper itself","The pencil baseline","The sample container"],"The solvent carries soluble components along the stationary paper."],
+["Two dyes start at the same baseline. Dye X travels farther than dye Y. Which explanation is most defensible?",["X is relatively more strongly carried by the mobile phase and/or less strongly retained by the paper","X must have larger particles","X must be denser","Y must be magnetic"],"Chromatographic distance depends on relative affinity for mobile and stationary phases."],
+["A chromatography sample produces one spot. Does that prove the original material is pure?",["No; different components can sometimes travel together under the chosen conditions","Yes, one spot always proves purity","Yes, chromatography cannot miss components","No, because pure substances always make many spots"],"A single spot is evidence of one detected component under those conditions, not absolute proof of purity."],
+["Oil and water form two distinct layers. Which method directly uses this behaviour?",["Careful decantation or a separating funnel","Ordinary filtration of dissolved particles","Paper chromatography only","Crystallisation"],"Immiscible liquids form separate layers that can be physically separated."],
+["Muddy water has been left until sediment settles. Which sequence can improve clarity before any treatment of dissolved substances?",["Decant the upper water and then filter remaining suspended particles","Distil the mud first","Add more sediment","Use chromatography on the whole volume"],"Settling, decantation and filtration target suspended material."],
+["Plastic A floats in a chosen liquid while plastic B sinks. What property difference is being used?",["Density relative to the liquid","Boiling point","Magnetism","Colour"],"Float-sink separation relies on density differences."],
+["A recycling stream contains steel cans, floating plastic and sinking glass. Which plan uses two suitable properties?",["Remove magnetic steel first, then use density-based float-sink separation","Use chromatography for all three","Evaporate the stream","Use only hand-picking regardless of scale"],"Magnetism and density provide independent physical differences for separation."],
+["Why can filtration improve muddy water but not desalinate saltwater?",["Suspended mud can be trapped by pores, while dissolved salt passes through ordinary filters","Salt is too dense to filter","Mud is a solvent","Filtration changes boiling points"],"The method works on suspended particle size, not ordinary dissolved ions."],
+["Which physical separation technique can produce fresh water from saltwater without chemically changing the water?",["Distillation","Sieving","Magnetic separation","Hand-picking"],"Water is vaporised and condensed while dissolved nonvolatile salt remains."],
+["A hot saturated solution is cooled and crystals appear. What caused the separation?",["Solubility decreased so excess dissolved solute formed an ordered solid","The solute became magnetic","The solvent turned into filter paper","The solute was destroyed"],"Changing solubility conditions can cause dissolved particles to crystallise."],
+["Why might crystallisation be preferred over evaporating a solution completely to dryness?",["It can form recoverable crystals under controlled conditions without needing to remove every last bit of solvent","It always uses a magnet","It separates only gases","It requires no property difference"],"Crystallisation controls solution conditions to form a solid product."],
+["Which statement about volatility is correct?",["A more volatile substance enters the vapour phase more readily under the same conditions","A more volatile substance can never evaporate","Volatility is the same as density","Only solids are volatile"],"Volatility describes ease of vaporisation."],
+["Why can winnowing separate husks from seeds?",["Moving air affects the components differently because of their mass, density, size and shape","The husks have a lower boiling point","The seeds are magnetic","The husks dissolve in air"],"Different aerodynamic responses allow one component to be carried farther than another."],
+["How does yandying work as a physical separation method?",["Rocking and controlled movement allow materials with different physical behaviour to sort within a shallow dish","It chemically converts seeds into flour","It distils water from oil","It uses only magnetism"],"Particle size, density, shape and motion can affect how materials move and settle during yandying."],
+["What is the scientific principle behind cold-pressing plant material for oil?",["Mechanical pressure physically expresses liquid oil from the solid material","A new oil molecule is created by chemical reaction","All water must boil first","Oil is removed by magnetism"],"Cold pressing is a physical extraction driven by applied force."],
+["When studying First Nations Australian separation practices such as yandying or filtering, which approach is strongest?",["Use reliable community or curriculum sources for the specific practice, then connect the observed method to relevant physical properties","Assume every community used identical methods","Invent a traditional explanation to fit the lesson","Remove cultural attribution and present it as generic"],"Specific practices should be taught accurately and respectfully, with source-aware scientific analysis."],
+["What is a limitation of simple particle diagrams for pure substances and mixtures?",["They simplify scale, spacing and three-dimensional motion, so dots should not be treated as literal-sized particles","They show every atom at true scale","They prove purity from colour","They make experimental evidence unnecessary"],"Particle diagrams are useful models but are simplified representations."],
+["A student says, 'A compound cannot be pure because each molecule contains different elements.' What is the correction?",["A pure compound can consist entirely of identical compound particles with fixed composition","All compounds are mixtures","Purity means only one element may be present","Compounds cannot be represented by particles"],"Purity refers to one chemical substance, not necessarily one element."],
+["Why do mixture components often retain useful physical properties for separation?",["They remain distinct substances in the mixture, so properties such as solubility, density or magnetism can differ","They merge into one new element","They lose all physical properties","Every mixture has identical components"],"Physical property differences are the basis of separation techniques."],
+["Separating a mixture by filtration, distillation or chromatography is usually classified as:",["a physical change because no new substances need to be formed","a nuclear reaction","always combustion","always a chemical decomposition"],"Physical separation changes arrangement or location of substances rather than their chemical identity."],
+["Why can a salt solution be uniform throughout even though it is a mixture?",["Dissolved solute particles are dispersed throughout the solvent at microscopic scale","The salt has ceased to exist","The solution contains only water particles","Uniform appearance proves purity"],"Homogeneous mixtures can have evenly distributed components."],
+["A mixture contains insoluble chalk powder in water and several dissolved food dyes. Which combination best separates both types?",["Filter the chalk, then use chromatography to separate the dissolved dyes","Use a magnet for everything","Use only sieving","Crystallise the chalk from the paper"],"Filtration removes suspended solid; chromatography can then separate dissolved coloured components."],
+["A salt solution looks exactly like pure water. What evidence would distinguish them better than appearance?",["A suitable physical test such as evaporating a sample to check for dissolved residue","Colour alone","Container shape","Whether the liquid is clear"],"A dissolved solute can be invisible, so a property-based test is needed."],
+["Why does a filter need pores smaller than the suspended particles it is meant to trap?",["Particles larger than the pores are retained while the fluid passes through","Pores create new substances","Smaller pores increase boiling point","Pores make dissolved ions magnetic"],"Filtration depends on particle size relative to the filter openings."],
+["What is the purpose of the condenser in simple distillation?",["Cool vapour so it changes back to liquid for collection","Heat the residue","Filter suspended solids","Separate by magnetism"],"The condenser removes heat from vapour and produces the collected liquid distillate."],
+["Saltwater is distilled. Which statement correctly identifies products?",["Water can be collected as distillate while salt remains in the flask","Salt is the distillate and water is the residue","Both components pass through filter paper","Salt becomes a gas before water"],"Water is more volatile under these conditions and is condensed after vaporising."],
+["Why should the chromatography solvent level begin below the sample spot on the baseline?",["Otherwise the sample may dissolve directly into the solvent reservoir instead of travelling with the solvent front through the paper","The paper would become magnetic","It changes the boiling point","It makes all dyes pure"],"The sample should be carried upward by the moving solvent through the stationary phase."],
+["Students compare two filter materials for removing suspended clay. What makes the comparison fairer?",["Use equal volumes and similar starting turbidity, change only filter material, and measure the same outcome","Use different water samples and different volumes","Judge only by filter colour","Change filter material and settling time together"],"A controlled comparison changes one main variable and measures results consistently."],
+["A sample contains muddy saltwater. Which sequence targets both suspended mud and dissolved salt?",["Settle/decant or filter mud first, then use evaporation or distillation for the dissolved saltwater","Use a sieve only","Use a magnet only","Use chromatography before removing mud"],"Different particle states require a sequence of methods based on different properties."],
+["Solid A dissolves in water but solid B does not. How can this property difference separate them?",["Add water, filter B, then recover A from the filtrate","Use a magnet even if neither is magnetic","Distil both dry solids directly","Use only hand-picking at microscopic scale"],"Selective solubility followed by filtration and solvent removal can recover both solids."],
+["Two miscible liquids boil at 65°C and 118°C. Which method is most suitable at Year 7 level?",["Distillation based on their different boiling points","Filtration based on pore size","Sieving","Winnowing"],"Their volatility difference allows separation by vaporisation and condensation."],
+["A student claims every mixture can be completely separated using one technique. Which evaluation is best?",["The claim is false; complex mixtures may require a sequence of methods using different property differences","The claim is always true","The claim is true only for clear liquids","Mixtures cannot be separated physically"],"A mixture can contain components requiring different separation principles."],
+["What is the strongest justification for choosing any separation method?",["Identify a physical-property difference between components that the method can exploit","Choose the method with the longest name","Choose based only on mixture colour","Use the same method for every mixture"],"Separation is effective when the chosen technique matches a relevant property difference."]
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
+window.skillrTestQuestions=raw.map((q,i)=>({id:`ac9s7u06-t-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S7U06",bank:"test",skill:"reason about mixtures and separation",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:0,explanation:q[2],structuredExplanation:{summary:q[2],hint:"Identify the property difference, then choose or evaluate the technique that actually uses it."},qualitySchema:"production-v1"}));
+window.skillrExamQuestions=window.skillrTestQuestions;
+window.quizQuestions=window.skillrTestQuestions;
