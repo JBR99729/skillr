@@ -38,6 +38,14 @@ for (const file of changed) {
   }
 }
 
+const year7RouterPath = 'assets/year7-router.js';
+if (fs.existsSync(year7RouterPath)) {
+  const router = fs.readFileSync(year7RouterPath, 'utf8');
+  if (/year7-curriculum-render\.js/i.test(router)) {
+    errors.push(`${year7RouterPath}: canonical Year 7 topic pages must not load a curriculum-content renderer`);
+  }
+}
+
 if (errors.length) {
   console.error('Static Curriculum Architecture v2 validation failed:\n');
   for (const error of errors) console.error(`- ${error}`);
