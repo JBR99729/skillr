@@ -1,236 +1,55 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m7st03-p-001",
-    "curriculumCode": "AC9M7ST03",
-    "bank": "practice",
-    "skill": "write a statistical question",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
-      "Large sample assumed unbiased",
-      "A large biased sample remains biased",
-      "Complete group of interest"
-    ],
-    "correct": 0,
-    "explanation": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification\nHint: A large biased sample remains biased.",
-    "structuredExplanation": {
-      "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
-      "hint": "A large biased sample remains biased."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st03-p-002",
-    "curriculumCode": "AC9M7ST03",
-    "bank": "practice",
-    "skill": "define population sample",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving define population sample. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving define population sample. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Population and sample interchanged",
-      "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
-      "The sample provides evidence about the population",
-      "Complete group of interest"
-    ],
-    "correct": 1,
-    "explanation": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.\nHint: The sample provides evidence about the population.",
-    "structuredExplanation": {
-      "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
-      "hint": "The sample provides evidence about the population."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st03-p-003",
-    "curriculumCode": "AC9M7ST03",
-    "bank": "practice",
-    "skill": "compare sampling methods",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Nonresponse ignored",
-      "Missing responses may differ systematically",
-      "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
-      "Complete group of interest"
-    ],
-    "correct": 2,
-    "explanation": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.\nHint: Missing responses may differ systematically.",
-    "structuredExplanation": {
-      "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
-      "hint": "Missing responses may differ systematically."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st03-p-004",
-    "curriculumCode": "AC9M7ST03",
-    "bank": "practice",
-    "skill": "analyse distribution",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving analyse distribution. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving analyse distribution. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Causal claim from observational data",
-      "Limit to association unless design supports cause",
-      "Complete group of interest",
-      "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim."
-    ],
-    "correct": 3,
-    "explanation": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.\nHint: Limit to association unless design supports cause.",
-    "structuredExplanation": {
-      "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
-      "hint": "Limit to association unless design supports cause."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st03-p-005",
-    "curriculumCode": "AC9M7ST03",
-    "bank": "practice",
-    "skill": "write a limited conclusion",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies sample in statistical investigations and sampling?",
-    "audioPrompt": "Which statement correctly identifies sample in statistical investigations and sampling?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
-      "Large sample assumed unbiased",
-      "A large biased sample remains biased",
-      "Complete group of interest"
-    ],
-    "correct": 0,
-    "explanation": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification\nHint: A large biased sample remains biased.",
-    "structuredExplanation": {
-      "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
-      "hint": "A large biased sample remains biased."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st03-p-006",
-    "curriculumCode": "AC9M7ST03",
-    "bank": "practice",
-    "skill": "write a statistical question",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes sampling bias in statistical investigations and sampling?",
-    "audioPrompt": "Which choice best describes sampling bias in statistical investigations and sampling?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Population and sample interchanged",
-      "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
-      "The sample provides evidence about the population",
-      "Complete group of interest"
-    ],
-    "correct": 1,
-    "explanation": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.\nHint: The sample provides evidence about the population.",
-    "structuredExplanation": {
-      "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
-      "hint": "The sample provides evidence about the population."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st03-p-007",
-    "curriculumCode": "AC9M7ST03",
-    "bank": "practice",
-    "skill": "define population sample",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for population in statistical investigations and sampling?",
-    "audioPrompt": "What does correct use require for population in statistical investigations and sampling?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Nonresponse ignored",
-      "Missing responses may differ systematically",
-      "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
-      "Complete group of interest"
-    ],
-    "correct": 2,
-    "explanation": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.\nHint: Missing responses may differ systematically.",
-    "structuredExplanation": {
-      "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
-      "hint": "Missing responses may differ systematically."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st03-p-008",
-    "curriculumCode": "AC9M7ST03",
-    "bank": "practice",
-    "skill": "compare sampling methods",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Causal claim from observational data",
-      "Limit to association unless design supports cause",
-      "Complete group of interest",
-      "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim."
-    ],
-    "correct": 3,
-    "explanation": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.\nHint: Limit to association unless design supports cause.",
-    "structuredExplanation": {
-      "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
-      "hint": "Limit to association unless design supports cause."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["What is the first step in a statistical investigation?",["Plan a clear question","Collect data immediately","Calculate the mean","Write the conclusion"],0,"A good investigation begins with a clear question."],
+["Which is the strongest investigation question?",["Do teenagers have faster reaction times than adults?","Is maths hard?","Why are people different?","Is sport good?"],0,"It identifies groups and a measurable variable."],
+["Reaction time is usually:",["continuous numerical data","discrete count data","categorical data","binary data"],0,"Reaction time is measured on a continuous scale."],
+["Number of successful robot-arm lifts is:",["discrete numerical data","continuous data","categorical data","secondary data only"],0,"It is a count."],
+["Which type of data is obtained by measurement?",["continuous","discrete","nominal only","binary only"],0,"Measurements such as time, height and temperature are continuous."],
+["Which variable is discrete?",["number of goals","height","temperature","reaction time"],0,"Goals are counted in whole numbers."],
+["Which variable is continuous?",["height in cm","number of pets","number of siblings","number of attempts"],0,"Height is measured on a continuum."],
+["A survey response on a 1–5 agreement scale is best described as:",["ordinal data","continuous data","ratio measurement only","a physical measurement"],0,"The categories have an order but equal spacing is not guaranteed."],
+["Which is an example of secondary data?",["a published national survey","your own reaction-time measurements","your own robot tests","a class survey you conduct"],0,"Secondary data were collected previously by another source."],
+["A good investigation plan should identify:",["question, variables, data source and method","the answer in advance","only the mean","only the graph type"],0,"Planning should specify what will be investigated and how evidence will be collected."],
+["What does the mean describe?",["arithmetic centre","largest value","spread only","most frequent category"],0,"Mean is the arithmetic average."],
+["What does the median describe?",["middle ordered value","sum divided by count","maximum minus minimum","most frequent value"],0,"Median is based on ordered position."],
+["What does the mode describe?",["most frequent value or category","middle value","arithmetic average","range"],0,"Mode identifies the most common observation."],
+["What does the range describe?",["maximum-to-minimum spread","middle position","average","frequency"],0,"Range = maximum − minimum."],
+["Which statistic is usually most affected by an extreme outlier?",["mean","median","mode","none"],0,"The mean uses every value's magnitude."],
+["A symmetric distribution commonly has:",["mean close to median","mean much greater than median","mean much less than median","two peaks necessarily"],0,"In roughly symmetric data, mean and median are often close."],
+["A right-skewed distribution has:",["a long tail toward high values","a long tail toward low values","no tail","two equal peaks"],0,"Skew is named for the direction of the longer tail."],
+["A left-skewed distribution has:",["a long tail toward low values","a long tail toward high values","no variation","a guaranteed outlier"],0,"Left skew means the lower-value tail is longer."],
+["A bimodal distribution has:",["two peaks or modes","no mode","one peak only","zero range"],0,"Bi means two."],
+["An outlier often appears as:",["an isolated value away from the main cluster","the median","every repeated value","the first value collected"],0,"Outliers are unusually distant from most observations."],
+["Which measure is often more representative when a distribution is strongly skewed?",["median","mean","range","maximum"],0,"Median is resistant to extreme tails."],
+["Which simple statistic helps compare consistency?",["range","mean only","median only","mode only"],0,"A smaller range indicates less max-to-min variation."],
+["Two groups have the same median but different ranges. What differs?",["spread","middle value","necessarily sample size","necessarily mode"],0,"Equal medians can occur with different variability."],
+["Two groups have different means but the same range. What differs?",["arithmetic centre","spread by range","necessarily skewness","necessarily sample size"],0,"Mean compares centre; range compares simple spread."],
+["If one group has a lower median reaction time, that group is:",["typically faster","typically slower","necessarily more variable","necessarily larger"],0,"Lower reaction time means faster response."],
+["A long right tail in reaction-time data may indicate:",["some unusually slow reactions","some unusually fast reactions only","no variation","all values equal"],0,"Large reaction times sit on the right."],
+["In a before-and-after STEM investigation, what should be kept as consistent as possible?",["testing conditions","the conclusion","the data values","the graph labels only"],0,"Fair comparison requires comparable conditions."],
+["If completion time decreases after a design modification, performance may have:",["improved","worsened","stayed exactly the same","become categorical"],0,"For a task where lower time is better, reduced time indicates improvement."],
+["If range decreases after a design modification, the performance became:",["more consistent","less consistent","necessarily slower","necessarily biased"],0,"Smaller range means less spread."],
+["Which conclusion is strongest?",["The modified design had a lower median and smaller range, suggesting faster and more consistent performance","The modified design is better because I like it","The graph looks nicer","One trial was fast"],0,"Conclusions should cite statistics and context."],
+["What belongs in a complete statistical report?",["question, method, statistics, distribution, conclusion and limitations","only a graph","only the mean","only raw data"],0,"A complete report communicates the full investigation cycle."],
+["Why should limitations be reported?",["They affect how confidently results can be generalised or interpreted","They make the mean larger","They remove outliers","They guarantee causation"],0,"Sample size, measurement error and design choices affect conclusions."],
+["A small sample mainly limits:",["confidence and generalisability","the definition of mean","whether data can be ordered","whether a variable is continuous"],0,"Small samples may not represent broader populations well."],
+["Measurement error is a limitation because it can:",["add variation or bias to recorded values","make all data categorical","guarantee symmetry","remove the median"],0,"Poor measurement quality affects analysis."],
+["Why is it important to state how data were collected?",["The method affects reliability, bias and interpretation","It changes the formula for median","It guarantees no outliers","It makes secondary data primary"],0,"Collection method is part of evaluating evidence quality."],
+["Which conclusion is appropriately cautious?",["In this sample, Group A had a lower median reaction time than Group B","Group A is always faster everywhere","The result proves causation","The result proves a universal law"],0,"Statistical conclusions should match the scope of the evidence."],
+["A published large-scale survey can be useful because it:",["provides secondary data for investigation","eliminates all bias","proves causation","never needs context"],0,"External datasets can support investigation but still require source evaluation."],
+["When using published survey data, students should:",["report the source, measures and limitations accurately","invent explanations for differences","ignore sample design","treat group averages as individual facts"],0,"Context and accurate reporting are essential."],
+["Which is inappropriate when interpreting group data?",["Making claims about individuals from group averages","Reporting medians","Comparing ranges","Stating limitations"],0,"Group summaries do not determine individual values."],
+["Which display is useful for showing individual numerical values and clusters?",["dot plot","pie chart only","pictograph only","flow chart"],0,"Dot plots reveal individual values, clusters, gaps and possible outliers."],
+["Which display is useful for comparing distribution summaries between groups?",["side-by-side box plots","a single pie chart","a flow chart","a compass diagram"],0,"Box plots can compare centre and spread compactly."],
+["Which statement about histograms is correct?",["They show frequencies across numerical intervals","They show exact raw values individually","They are only for categorical data","They cannot show distribution shape"],0,"Histograms summarise numerical distributions by bins."],
+["Which statement about stem-and-leaf plots is correct?",["They retain individual values while showing distribution shape","They only show proportions","They cannot show the median","They are for categorical labels only"],0,"Stem-and-leaf plots preserve raw values."],
+["Why is context necessary when interpreting an outlier?",["It may be an error or a genuine important observation","Every outlier should be deleted","Outliers never affect conclusions","Outliers are always the largest value"],0,"The cause and meaning of an extreme value depend on context."],
+["If mean and median differ greatly, what should you investigate?",["skewness and outliers","only the mode","only the sample name","the graph colour"],0,"Large differences can signal asymmetry or extremes."],
+["What does 'centre' refer to in a distribution?",["a typical or central location such as mean or median","the range","the sample size","the axis label"],0,"Centre summarises where values tend to lie."],
+["What does 'spread' refer to?",["how variable the data are","which value is most common","the title of the graph","the independent variable only"],0,"Spread describes variability."],
+["A conclusion should be based on:",["the collected evidence and calculated statistics","personal opinion","the expected answer","one interesting value only"],0,"Statistics support evidence-based conclusions."],
+["Which sequence best represents a statistical investigation cycle?",["Question → plan/collect → analyse → interpret → report","Report → collect → guess → stop","Mean → question → delete outliers","Graph → conclusion → collect"],0,"The cycle begins with a question and ends with evidence-based reporting."],
+["Which statement best summarises AC9M7ST03?",["Plan and conduct complete statistical investigations, analyse distributions and report justified findings","Calculate mean only","Draw graphs only","Study probability only"],0,"The topic integrates the complete investigation process."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map((q,i)=>({id:`ac9m7st03-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M7ST03",bank:"practice",skill:"statistical investigations",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Connect the question, data type, collection method, distribution and conclusion."},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
