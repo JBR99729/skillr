@@ -1,237 +1,37 @@
 "use strict";
 window.skillrTestQuestions = [
-  {
-    "id": "ac9m7m06-t-001",
-    "curriculumCode": "AC9M7M06",
-    "bank": "test",
-    "skill": "check scale and constraints",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "Diagram not linked to calculations",
-      "Label every used dimension",
-      "Representation with proportional lengths"
-    ],
-    "correct": 0,
-    "explanation": "A 20 m² bed with 8% allowance needs 21.6 m² of material\nHint: Label every used dimension.",
-    "structuredExplanation": {
-      "summary": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "hint": "Label every used dimension."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-t-002",
-    "curriculumCode": "AC9M7M06",
-    "bank": "test",
-    "skill": "justify an alternative",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Area, perimeter and volume units mixed",
-      "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "Match attribute and formula",
-      "Representation with proportional lengths"
-    ],
-    "correct": 1,
-    "explanation": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.\nHint: Match attribute and formula.",
-    "structuredExplanation": {
-      "summary": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "hint": "Match attribute and formula."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-t-003",
-    "curriculumCode": "AC9M7M06",
-    "bank": "test",
-    "skill": "formulate a site model",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Waste percentage added to a dimension rather than total material",
-      "Apply it to the relevant quantity",
-      "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "Representation with proportional lengths"
-    ],
-    "correct": 2,
-    "explanation": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.\nHint: Apply it to the relevant quantity.",
-    "structuredExplanation": {
-      "summary": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "hint": "Apply it to the relevant quantity."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-t-004",
-    "curriculumCode": "AC9M7M06",
-    "bank": "test",
-    "skill": "choose formulas and units",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Recommendation lacks alternatives",
-      "Compare at least one feasible option",
-      "Representation with proportional lengths",
-      "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision."
-    ],
-    "correct": 3,
-    "explanation": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.\nHint: Compare at least one feasible option.",
-    "structuredExplanation": {
-      "summary": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
-      "hint": "Compare at least one feasible option."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-t-005",
-    "curriculumCode": "AC9M7M06",
-    "bank": "test",
-    "skill": "add a material allowance",
-    "printable": true,
-    "type": "single",
-    "question": "What should be checked when applying add a material allowance in measurement and geometry modelling?",
-    "audioPrompt": "What should be checked when applying add a material allowance in measurement and geometry modelling?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "Diagram not linked to calculations",
-      "Label every used dimension",
-      "Representation with proportional lengths"
-    ],
-    "correct": 0,
-    "explanation": "A 20 m² bed with 8% allowance needs 21.6 m² of material\nHint: Label every used dimension.",
-    "structuredExplanation": {
-      "summary": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "hint": "Label every used dimension."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-t-006",
-    "curriculumCode": "AC9M7M06",
-    "bank": "test",
-    "skill": "check scale and constraints",
-    "printable": true,
-    "type": "single",
-    "question": "Which response best uses check scale and constraints in measurement and geometry modelling?",
-    "audioPrompt": "Which response best uses check scale and constraints in measurement and geometry modelling?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Area, perimeter and volume units mixed",
-      "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "Match attribute and formula",
-      "Representation with proportional lengths"
-    ],
-    "correct": 1,
-    "explanation": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.\nHint: Match attribute and formula.",
-    "structuredExplanation": {
-      "summary": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "hint": "Match attribute and formula."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-t-007",
-    "curriculumCode": "AC9M7M06",
-    "bank": "test",
-    "skill": "justify an alternative",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Waste percentage added to a dimension rather than total material",
-      "Apply it to the relevant quantity",
-      "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "Representation with proportional lengths"
-    ],
-    "correct": 2,
-    "explanation": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.\nHint: Apply it to the relevant quantity.",
-    "structuredExplanation": {
-      "summary": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "hint": "Apply it to the relevant quantity."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7m06-t-008",
-    "curriculumCode": "AC9M7M06",
-    "bank": "test",
-    "skill": "formulate a site model",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Recommendation lacks alternatives",
-      "Compare at least one feasible option",
-      "Representation with proportional lengths",
-      "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision."
-    ],
-    "correct": 3,
-    "explanation": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.\nHint: Compare at least one feasible option.",
-    "structuredExplanation": {
-      "summary": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
-      "hint": "Compare at least one feasible option."
-    },
-    "qualitySchema": "production-v1"
-  }
+{"id":"ac9m7m06-t-001","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A paint mix uses red:blue = 3:5. If 320 mL of paint is made, how much red paint is required?","audioPrompt":"A paint mix uses red:blue = 3:5. If 320 mL of paint is made, how much red paint is required?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["100 mL","120 mL","160 mL","200 mL"],"correct":1,"explanation":"There are 8 parts, so one part is 40 mL and red is 3 × 40 = 120 mL.","structuredExplanation":{"summary":"There are 8 parts, so one part is 40 mL and red is 3 × 40 = 120 mL.","hint":"Find one part first."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-002","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A recipe uses flour:sugar = 7:2. If 560 g of flour is used, how much sugar is needed?","audioPrompt":"A recipe uses flour:sugar = 7:2. If 560 g of flour is used, how much sugar is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["120 g","140 g","160 g","180 g"],"correct":2,"explanation":"Seven parts equal 560 g, so one part is 80 g and sugar is 160 g.","structuredExplanation":{"summary":"Seven parts equal 560 g, so one part is 80 g and sugar is 160 g.","hint":"Use the known component to find one part."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-003","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A concrete mix has cement:sand:gravel = 2:3:5 and totals 80 kg. How much gravel is used?","audioPrompt":"A concrete mix has cement:sand:gravel = 2:3:5 and totals 80 kg. How much gravel is used?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["24 kg","32 kg","40 kg","48 kg"],"correct":2,"explanation":"There are 10 parts, so one part is 8 kg and gravel is 40 kg.","structuredExplanation":{"summary":"There are 10 parts, so one part is 8 kg and gravel is 40 kg.","hint":"Add the three ratio terms."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-004","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A drink uses concentrate:water = 2:7. If 630 mL of water is used, what is the total volume?","audioPrompt":"A drink uses concentrate:water = 2:7. If 630 mL of water is used, what is the total volume?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["720 mL","810 mL","900 mL","990 mL"],"correct":1,"explanation":"Seven parts equal 630 mL, so one part is 90 mL; concentrate is 180 mL and total volume is 810 mL.","structuredExplanation":{"summary":"Seven parts equal 630 mL, so one part is 90 mL; concentrate is 180 mL and total volume is 810 mL.","hint":"Find the missing component, then total."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-005","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A ratio 5:3 is scaled so the first quantity becomes 45. What is the second quantity?","audioPrompt":"A ratio 5:3 is scaled so the first quantity becomes 45. What is the second quantity?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["18","24","27","30"],"correct":2,"explanation":"The scale factor is 45 ÷ 5 = 9, so the second quantity is 3 × 9 = 27.","structuredExplanation":{"summary":"The scale factor is 45 ÷ 5 = 9, so the second quantity is 3 × 9 = 27.","hint":"Use one common scale factor."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-006","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"The ratio A:B is 4:7. If B is 21, what fraction of the whole is A?","audioPrompt":"The ratio A:B is 4:7. If B is 21, what fraction of the whole is A?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["4/7","4/11","7/11","12/21"],"correct":1,"explanation":"The part-whole fraction for A is 4/(4+7) = 4/11.","structuredExplanation":{"summary":"The part-whole fraction for A is 4/(4+7) = 4/11.","hint":"The actual scale does not change the fraction of the whole."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-007","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A mixture is 30% blue and the rest white. What is the simplest ratio blue:white?","audioPrompt":"A mixture is 30% blue and the rest white. What is the simplest ratio blue:white?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3:7","3:10","7:3","30:100"],"correct":0,"explanation":"Blue:white = 30:70, which simplifies to 3:7.","structuredExplanation":{"summary":"Blue:white = 30:70, which simplifies to 3:7.","hint":"The remaining percentage is 70%."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-008","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A 2:5 ratio is represented by 42 counters in total. How many counters represent the larger part?","audioPrompt":"A 2:5 ratio is represented by 42 counters in total. How many counters represent the larger part?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["12","18","24","30"],"correct":3,"explanation":"There are 7 parts, so each part is 6 counters and the larger part is 5 × 6 = 30.","structuredExplanation":{"summary":"There are 7 parts, so each part is 6 counters and the larger part is 5 × 6 = 30.","hint":"Find the value of one part."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-009","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"Which equation correctly models a 3:4 ratio with a total of 56?","audioPrompt":"Which equation correctly models a 3:4 ratio with a total of 56?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["3x + 4x = 56","3 + 4x = 56","12x = 56","3x = 4x + 56"],"correct":0,"explanation":"The two quantities are 3x and 4x, so their total is 7x = 56.","structuredExplanation":{"summary":"The two quantities are 3x and 4x, so their total is 7x = 56.","hint":"Represent each ratio part with the same unit value x."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-010","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"For 3x + 4x = 56, what is x?","audioPrompt":"For 3x + 4x = 56, what is x?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["7","8","12","14"],"correct":1,"explanation":"7x = 56, so x = 8.","structuredExplanation":{"summary":"7x = 56, so x = 8.","hint":"Combine like terms first."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-011","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A 1:1.618 design has a short side of 18 cm. Which is the best estimate for the long side?","audioPrompt":"A 1:1.618 design has a short side of 18 cm. Which is the best estimate for the long side?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["22.6 cm","25.4 cm","29.1 cm","36 cm"],"correct":2,"explanation":"18 × 1.618 ≈ 29.1 cm.","structuredExplanation":{"summary":"18 × 1.618 ≈ 29.1 cm.","hint":"Multiply the short side by 1.618."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-012","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A designer wants the long side to be about 48.54 cm in a 1:1.618 ratio. What should the short side be?","audioPrompt":"A designer wants the long side to be about 48.54 cm in a 1:1.618 ratio. What should the short side be?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["20 cm","25 cm","30 cm","35 cm"],"correct":2,"explanation":"48.54 ÷ 1.618 = 30 cm.","structuredExplanation":{"summary":"48.54 ÷ 1.618 = 30 cm.","hint":"Reverse the ratio scale by division."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-013","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A model predicts 126 mL of dye, but measuring equipment is marked every 5 mL. Which practical amount is most reasonable?","audioPrompt":"A model predicts 126 mL of dye, but measuring equipment is marked every 5 mL. Which practical amount is most reasonable?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["120 mL","125 mL","126 mL exactly","130 mL"],"correct":1,"explanation":"With 5 mL graduations, 125 mL is the closest practical measurement.","structuredExplanation":{"summary":"With 5 mL graduations, 125 mL is the closest practical measurement.","hint":"Interpret the result using the measurement constraint."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-014","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A recipe is written as oil:vinegar = 4:1. A student uses 300 mL oil and 100 mL vinegar. What should they conclude?","audioPrompt":"A recipe is written as oil:vinegar = 4:1. A student uses 300 mL oil and 100 mL vinegar. What should they conclude?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The mixture is correct","The ratio used is 3:1, so it does not match 4:1","The ratio used is 4:1","The total must be 500 mL"],"correct":1,"explanation":"300:100 simplifies to 3:1, so the recipe proportion was not maintained.","structuredExplanation":{"summary":"300:100 simplifies to 3:1, so the recipe proportion was not maintained.","hint":"Simplify the actual ratio and compare it with the target."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-015","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A mixture uses A:B:C = 2:3:5. Which fraction of the mixture is B?","audioPrompt":"A mixture uses A:B:C = 2:3:5. Which fraction of the mixture is B?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["2/10","3/10","3/5","5/10"],"correct":1,"explanation":"There are 10 total parts, and B has 3, so B is 3/10.","structuredExplanation":{"summary":"There are 10 total parts, and B has 3, so B is 3/10.","hint":"Add all three parts."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-016","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A 2:3:5 mixture totals 1.5 kg. How much is the smallest component?","audioPrompt":"A 2:3:5 mixture totals 1.5 kg. How much is the smallest component?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["0.15 kg","0.30 kg","0.45 kg","0.75 kg"],"correct":1,"explanation":"There are 10 parts, so one part is 0.15 kg; the smallest component is 2 parts = 0.30 kg.","structuredExplanation":{"summary":"There are 10 parts, so one part is 0.15 kg; the smallest component is 2 parts = 0.30 kg.","hint":"Find one part, then multiply by 2."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-017","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"Two students model 6:9. Student A simplifies it to 2:3. Student B says the ratio has changed because the numbers are smaller. Who is correct?","audioPrompt":"Two students model 6:9. Student A simplifies it to 2:3. Student B says the ratio has changed because the numbers are smaller. Who is correct?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Student A only","Student B only","Both","Neither"],"correct":0,"explanation":"Dividing both terms by the same factor preserves the proportion, so 6:9 and 2:3 are equivalent.","structuredExplanation":{"summary":"Dividing both terms by the same factor preserves the proportion, so 6:9 and 2:3 are equivalent.","hint":"Equivalent ratios represent the same proportion."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-018","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A bar model for A:B has 4 blocks for A and 6 blocks for B. Which statement is correct?","audioPrompt":"A bar model for A:B has 4 blocks for A and 6 blocks for B. Which statement is correct?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["A is 40% of the whole","A is 60% of the whole","A:B simplifies to 3:2","B is 40% of the whole"],"correct":0,"explanation":"A is 4 out of 10 blocks, which is 40% of the whole.","structuredExplanation":{"summary":"A is 4 out of 10 blocks, which is 40% of the whole.","hint":"Convert part-whole to a percentage."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-019","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A strip diagram shows 5 shaded and 15 unshaded equal parts. Which two statements are both true?","audioPrompt":"A strip diagram shows 5 shaded and 15 unshaded equal parts. Which two statements are both true?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["shaded:unshaded = 1:3 and shaded fraction = 1/4","shaded:unshaded = 1:4 and shaded fraction = 1/3","shaded:total = 1:3 and shaded fraction = 1/4","shaded:unshaded = 3:1 and shaded fraction = 3/4"],"correct":0,"explanation":"5:15 simplifies to 1:3, and shaded is 5 out of 20 total parts = 1/4.","structuredExplanation":{"summary":"5:15 simplifies to 1:3, and shaded is 5 out of 20 total parts = 1/4.","hint":"Check both the part-part ratio and the part-whole fraction."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-020","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A colour model uses 6 red and 9 blue counters. Which simplified ratio and red fraction are correct?","audioPrompt":"A colour model uses 6 red and 9 blue counters. Which simplified ratio and red fraction are correct?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["2:3 and 2/5","3:2 and 3/5","2:5 and 2/3","6:9 and 6/9 only"],"correct":0,"explanation":"6:9 simplifies to 2:3, and red is 6/15 = 2/5 of the total.","structuredExplanation":{"summary":"6:9 simplifies to 2:3, and red is 6/15 = 2/5 of the total.","hint":"Simplify the ratio and then use red over total."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-021","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A product is formulated in ratio extract:binder = 5:2. If 14 L of binder is required, how much extract is required?","audioPrompt":"A product is formulated in ratio extract:binder = 5:2. If 14 L of binder is required, how much extract is required?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["28 L","35 L","42 L","70 L"],"correct":1,"explanation":"Two parts equal 14 L, so one part is 7 L and extract is 35 L.","structuredExplanation":{"summary":"Two parts equal 14 L, so one part is 7 L and extract is 35 L.","hint":"Use the binder amount to find one part."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-022","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A model requires plant extract:carrier = 3:7. If the final product must be 2 L, how much extract is needed?","audioPrompt":"A model requires plant extract:carrier = 3:7. If the final product must be 2 L, how much extract is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["0.3 L","0.6 L","0.7 L","1.4 L"],"correct":1,"explanation":"There are 10 parts, so one part is 0.2 L and extract is 0.6 L.","structuredExplanation":{"summary":"There are 10 parts, so one part is 0.2 L and extract is 0.6 L.","hint":"Extract is three of the ten parts."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-023","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"Why is it important to distinguish part-part from part-whole when interpreting a ratio?","audioPrompt":"Why is it important to distinguish part-part from part-whole when interpreting a ratio?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Because the denominator or total changes depending on what is being compared","Because part-part ratios cannot be simplified","Because part-whole ratios never use fractions","Because the two forms are always identical"],"correct":0,"explanation":"A part-part ratio compares components, while a part-whole fraction uses the sum of all parts as the whole.","structuredExplanation":{"summary":"A part-part ratio compares components, while a part-whole fraction uses the sum of all parts as the whole.","hint":"Ask what the comparison is between."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-024","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"Which representation is best for showing how a 2:3 ratio becomes 10:15?","audioPrompt":"Which representation is best for showing how a 2:3 ratio becomes 10:15?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["A scale-factor table","A pie chart only","A compass construction","A histogram"],"correct":0,"explanation":"A scale-factor table clearly shows both terms multiplied by the same factor.","structuredExplanation":{"summary":"A scale-factor table clearly shows both terms multiplied by the same factor.","hint":"Choose a representation that makes proportional scaling visible."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-025","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A recipe for 6 people uses rice:water = 2:3 and needs 500 mL water. For 9 people, assuming direct scaling, how much water is needed?","audioPrompt":"A recipe for 6 people uses rice:water = 2:3 and needs 500 mL water. For 9 people, assuming direct scaling, how much water is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["650 mL","700 mL","750 mL","900 mL"],"correct":2,"explanation":"Scaling from 6 to 9 people multiplies quantities by 1.5, so 500 × 1.5 = 750 mL.","structuredExplanation":{"summary":"Scaling from 6 to 9 people multiplies quantities by 1.5, so 500 × 1.5 = 750 mL.","hint":"Find the scale factor 9/6."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-026","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A builder compares two mixes: Mix A = 1:2:3 and Mix B = 2:4:6. Which statement is correct?","audioPrompt":"A builder compares two mixes: Mix A = 1:2:3 and Mix B = 2:4:6. Which statement is correct?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Mix B has twice the concentration of every ingredient","The mixes have the same proportions","Mix A has more gravel proportionally","They cannot be compared"],"correct":1,"explanation":"2:4:6 is obtained by multiplying every term of 1:2:3 by 2, so the proportions are the same.","structuredExplanation":{"summary":"2:4:6 is obtained by multiplying every term of 1:2:3 by 2, so the proportions are the same.","hint":"Check whether one ratio is a scaled version of the other."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-027","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A student says, 'In 3:7, the first part is 3/7 of the whole.' What is the best correction?","audioPrompt":"A student says, 'In 3:7, the first part is 3/7 of the whole.' What is the best correction?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Correct; ratios are already fractions of the whole","The first part is 3/10 because there are 10 total parts","The first part is 7/10","The first part is 3/4"],"correct":1,"explanation":"For part-whole interpretation, the total is 3 + 7 = 10, so the first part is 3/10.","structuredExplanation":{"summary":"For part-whole interpretation, the total is 3 + 7 = 10, so the first part is 3/10.","hint":"The denominator is the whole, not the second ratio term."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-028","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A ratio model gives 2.75 m of fabric, but fabric is sold in 0.5 m increments. What amount should be purchased?","audioPrompt":"A ratio model gives 2.75 m of fabric, but fabric is sold in 0.5 m increments. What amount should be purchased?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["2.5 m","2.75 m","3.0 m","3.5 m"],"correct":2,"explanation":"The next available 0.5 m increment that meets the requirement is 3.0 m.","structuredExplanation":{"summary":"The next available 0.5 m increment that meets the requirement is 3.0 m.","hint":"Apply the purchasing constraint to the mathematical answer."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-029","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"Which conclusion best communicates a ratio-model result?","audioPrompt":"Which conclusion best communicates a ratio-model result?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["'x = 8'","'8'","'Use 8 kg of sand so the 2:3 mix keeps the required proportion'","'The calculator says 8'"],"correct":2,"explanation":"A modelling solution should interpret the numerical result in the context and include units.","structuredExplanation":{"summary":"A modelling solution should interpret the numerical result in the context and include units.","hint":"Communicate what the number means in the situation."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-030","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"The Australian Curriculum elaboration asks students to investigate commercialised substances founded on First Nations Australians' knowledges. Which classroom approach is most appropriate?","audioPrompt":"The Australian Curriculum elaboration asks students to investigate commercialised substances founded on First Nations Australians' knowledges. Which classroom approach is most appropriate?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Invent a traditional medicine recipe and claim it is authentic","Use a verified case study, acknowledge the knowledge source, and focus on how ratios are used in development","Assume all First Nations communities use the same mixtures","Avoid discussing attribution"],"correct":1,"explanation":"A respectful investigation should use verified examples, acknowledge knowledge holders and avoid inventing or generalising cultural practices.","structuredExplanation":{"summary":"A respectful investigation should use verified examples, acknowledge knowledge holders and avoid inventing or generalising cultural practices.","hint":"Use verified sources and respectful attribution."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-031","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"Which statement best reflects the role of ratios in developing a commercial formulation from a verified source?","audioPrompt":"Which statement best reflects the role of ratios in developing a commercial formulation from a verified source?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Ratios help maintain consistent proportions when a formulation is scaled","Ratios prove the source is safe","Ratios replace testing and quality control","Ratios determine cultural ownership"],"correct":0,"explanation":"Ratios support consistent scaling of proportions; they do not replace safety, testing, attribution or cultural protocols.","structuredExplanation":{"summary":"Ratios support consistent scaling of proportions; they do not replace safety, testing, attribution or cultural protocols.","hint":"Separate the mathematical role of ratios from other responsibilities."},"qualitySchema":"production-v1"},
+{"id":"ac9m7m06-t-032","curriculumCode":"AC9M7M06","bank":"test","skill":"ratio modelling","printable":true,"type":"single","question":"A formulation uses 4 parts ingredient A, 1 part B and 5 parts carrier. If the total is 300 mL, how much carrier is needed?","audioPrompt":"A formulation uses 4 parts ingredient A, 1 part B and 5 parts carrier. If the total is 300 mL, how much carrier is needed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["30 mL","120 mL","150 mL","180 mL"],"correct":2,"explanation":"There are 10 total parts; each part is 30 mL and carrier is 5 × 30 = 150 mL.","structuredExplanation":{"summary":"There are 10 total parts; each part is 30 mL and carrier is 5 × 30 = 150 mL.","hint":"Carrier is half of the total parts."},"qualitySchema":"production-v1"}
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;
