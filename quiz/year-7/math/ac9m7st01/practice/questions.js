@@ -1,236 +1,59 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m7st01-p-001",
-    "curriculumCode": "AC9M7ST01",
-    "bank": "practice",
-    "skill": "classify variable type",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
-      "Median found before ordering",
-      "Sort values first",
-      "Sum of values divided by number of values"
-    ],
-    "correct": 0,
-    "explanation": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5\nHint: Sort values first.",
-    "structuredExplanation": {
-      "summary": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
-      "hint": "Sort values first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st01-p-002",
-    "curriculumCode": "AC9M7ST01",
-    "bank": "practice",
-    "skill": "calculate mean median mode range",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving calculate mean median mode range. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving calculate mean median mode range. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mode assumed unique",
-      "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
-      "A set can have multiple modes or none",
-      "Sum of values divided by number of values"
-    ],
-    "correct": 1,
-    "explanation": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.\nHint: A set can have multiple modes or none.",
-    "structuredExplanation": {
-      "summary": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
-      "hint": "A set can have multiple modes or none."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st01-p-003",
-    "curriculumCode": "AC9M7ST01",
-    "bank": "practice",
-    "skill": "interpret an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Range called a centre",
-      "It describes spread",
-      "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
-      "Sum of values divided by number of values"
-    ],
-    "correct": 2,
-    "explanation": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.\nHint: It describes spread.",
-    "structuredExplanation": {
-      "summary": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
-      "hint": "It describes spread."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st01-p-004",
-    "curriculumCode": "AC9M7ST01",
-    "bank": "practice",
-    "skill": "clean a data table",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving clean a data table. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving clean a data table. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mean compared across incompatible units or groups",
-      "Check context and sample size",
-      "Sum of values divided by number of values",
-      "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful."
-    ],
-    "correct": 3,
-    "explanation": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.\nHint: Check context and sample size.",
-    "structuredExplanation": {
-      "summary": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
-      "hint": "Check context and sample size."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st01-p-005",
-    "curriculumCode": "AC9M7ST01",
-    "bank": "practice",
-    "skill": "audit a spreadsheet formula",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies median in acquiring numerical data and measures of centre?",
-    "audioPrompt": "Which statement correctly identifies median in acquiring numerical data and measures of centre?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
-      "Median found before ordering",
-      "Sort values first",
-      "Sum of values divided by number of values"
-    ],
-    "correct": 0,
-    "explanation": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5\nHint: Sort values first.",
-    "structuredExplanation": {
-      "summary": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
-      "hint": "Sort values first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st01-p-006",
-    "curriculumCode": "AC9M7ST01",
-    "bank": "practice",
-    "skill": "classify variable type",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes range in acquiring numerical data and measures of centre?",
-    "audioPrompt": "Which choice best describes range in acquiring numerical data and measures of centre?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mode assumed unique",
-      "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
-      "A set can have multiple modes or none",
-      "Sum of values divided by number of values"
-    ],
-    "correct": 1,
-    "explanation": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.\nHint: A set can have multiple modes or none.",
-    "structuredExplanation": {
-      "summary": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
-      "hint": "A set can have multiple modes or none."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st01-p-007",
-    "curriculumCode": "AC9M7ST01",
-    "bank": "practice",
-    "skill": "calculate mean median mode range",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for mean in acquiring numerical data and measures of centre?",
-    "audioPrompt": "What does correct use require for mean in acquiring numerical data and measures of centre?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Range called a centre",
-      "It describes spread",
-      "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
-      "Sum of values divided by number of values"
-    ],
-    "correct": 2,
-    "explanation": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.\nHint: It describes spread.",
-    "structuredExplanation": {
-      "summary": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
-      "hint": "It describes spread."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7st01-p-008",
-    "curriculumCode": "AC9M7ST01",
-    "bank": "practice",
-    "skill": "interpret an outlier",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mean compared across incompatible units or groups",
-      "Check context and sample size",
-      "Sum of values divided by number of values",
-      "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful."
-    ],
-    "correct": 3,
-    "explanation": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.\nHint: Check context and sample size.",
-    "structuredExplanation": {
-      "summary": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
-      "hint": "Check context and sample size."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["What is the mean of a numerical data set?",["sum of all values divided by the number of values","middle ordered value","most frequent value","largest minus smallest"],0,"The mean is the arithmetic average."],
+["What is the median?",["middle value when the data are ordered","most frequent value","sum divided by count","largest value"],0,"Order the values first, then locate the middle."],
+["What is the mode?",["most frequent value","middle value","arithmetic average","largest minus smallest"],0,"A data set can have one mode, multiple modes or no mode."],
+["What does the range measure?",["spread from minimum to maximum","central location","frequency only","sample size"],0,"Range = maximum − minimum."],
+["Which measure of centre is usually most affected by an extreme outlier?",["mean","median","mode","all equally"],0,"The mean uses every numerical value."],
+["Which measure of centre is often preferred for strongly skewed data?",["median","mean","range","maximum"],0,"The median is resistant to extreme values."],
+["Which measure is meaningful for identifying the most common category?",["mode","mean","median","range"],0,"The mode can be used with categorical as well as numerical data."],
+["Which calculation requires adding every numerical value?",["mean","median","mode","range"],0,"The numerator of the mean is the sum of all observations."],
+["Find the median of 4, 7, 9, 10, 12.",["9","7","10","8.4"],0,"There are five ordered values, so the third is the median."],
+["Find the mode of 3, 5, 5, 6, 7.",["5","3","6","no mode"],0,"5 occurs more often than any other value."],
+["Find the range of 2, 8, 11, 15.",["13","11","8","17"],0,"15−2=13."],
+["Find the mean of 10, 20, 30.",["20","15","25","30"],0,"(10+20+30)÷3=20."],
+["Find the mean of 12, 14, 15, 15, 18.",["14.8","15","14","16"],0,"74÷5=14.8."],
+["Find the median of 12, 14, 15, 15, 18.",["15","14.8","14","18"],0,"The middle ordered value is 15."],
+["Find the mode and range of 3, 5, 5, 7, 10.",["mode 5, range 7","mode 7, range 5","mode 5, range 10","no mode, range 7"],0,"5 occurs twice; 10−3=7."],
+["Which data set has range 0?",["8,8,8,8","5,6,7","0,8","3,3,4"],0,"Range is zero only when maximum equals minimum."],
+["Which data set has no mode?",["2,4,6,8","2,2,4,6","3,3,5,5,5","1,1,2,2"],0,"Every value occurs once in the first set."],
+["Which data set is bimodal?",["1,1,2,2,3","1,2,3,4","2,2,2,3","5,6,6,7,8"],0,"1 and 2 share the highest frequency."],
+["The data 5,7,7,8,9,10,10,11,12,12,13,30 contain an obvious high outlier. Which measure is likely to better represent a typical value?",["median","mean","range","maximum"],0,"The median is less influenced by the extreme value 30."],
+["Adding a very large value to a data set will usually:",["increase the mean and range","leave the mean unchanged","decrease the range","guarantee the median doubles"],0,"A high extreme contributes to the sum and raises the maximum."],
+["Which statement about the median and outliers is most accurate?",["The median is generally less sensitive to extreme values than the mean","The median can never change","The median always equals the mode","The median measures spread"],0,"Median depends on ordered position rather than the size of every observation."],
+["A distribution has a long tail to the right. It is:",["right-skewed","left-skewed","necessarily symmetric","uniform"],0,"Skewness is named for the direction of the longer tail."],
+["In a strongly right-skewed distribution, which relationship is common?",["mean greater than median","mean less than median","mean always equals median","range equals mean"],0,"Large high values pull the mean to the right."],
+["In a strongly left-skewed distribution, which relationship is common?",["mean less than median","mean greater than median","mean always equals mode","range is zero"],0,"Low extreme values pull the mean left."],
+["A data set has mean 20 and median 12. What does this suggest?",["possible right skew or high extreme values","definitely left skew","range must be 8","there are no outliers"],0,"A mean well above the median is evidence consistent with a right tail."],
+["A data set has mean 50 and median 50. Can its range still be 120?",["Yes","No","Only with categorical data","Only if all values are 50"],0,"Measures of centre do not determine spread."],
+["Two data sets have the same mean. What is guaranteed?",["their arithmetic averages are equal","their ranges are equal","their shapes are equal","their medians are equal"],0,"Same mean alone says nothing definite about spread or shape."],
+["Two data sets have the same median. What is guaranteed?",["their middle ordered value or midpoint is equal","their means are equal","their ranges are equal","their frequencies match"],0,"Median equality only establishes the same central ordered position value."],
+["Data sets 8,10,12 and 1,10,19 both have mean and median 10. Which has greater spread by range?",["1,10,19","8,10,12","same range","cannot determine"],0,"Their ranges are 18 and 4 respectively."],
+["Which measure is most directly used here to compare simple spread?",["range","mean","median","mode"],0,"Range compares maximum-to-minimum spread."],
+["Which variable is discrete?",["number of pets in a household","temperature","height","reaction time"],0,"A count takes separate countable values."],
+["Which variable is continuous?",["temperature in °C","number of siblings","number of books","number of goals"],0,"Temperature is measured on a continuum."],
+["Reaction times 0.45, 0.48, 0.50 and 0.52 seconds are:",["continuous numerical data","categorical data","discrete counts","ordinal categories"],0,"Time is measured continuously."],
+["Plant heights measured in centimetres are normally treated as:",["continuous numerical data","categorical data","discrete counts only","nominal data"],0,"Height is a measurement that can take values within intervals."],
+["A science experiment records 22.1,22.3,22.4,22.5,22.4,22.3,30.0 °C. Which value is anomalous?",["30.0","22.1","22.4","22.5"],0,"30.0 is far from the cluster near 22–23°C."],
+["What should a student do with an anomalous measurement?",["investigate its cause before deciding whether to exclude it","always delete it","always keep it without comment","replace it with the mean"],0,"An anomaly may be error or genuine variation; context matters."],
+["For 0.45,0.48,0.47,0.46,0.49,1.20 seconds, why may the median be preferable?",["1.20 is an extreme value that pulls the mean upward","median uses every value more strongly","range is a centre","the data are categorical"],0,"Median is more resistant to the extreme reaction time."],
+["Class A: 4000,4500,4700,4800,5000. Class B replaces 5000 with 20000. Which class is more consistent by range?",["Class A","Class B","same","cannot compare"],0,"Class B has a much larger range due to 20000."],
+["A movie system records viewing times 10,12,15,15,20,22,25,200. Which statistic is most inflated by 200?",["mean","median","mode","middle positions only"],0,"The mean includes the full magnitude of the outlier."],
+["For those viewing times, the median is:",["17.5","15","39.875","190"],0,"The middle values are 15 and 20, so median=(15+20)/2=17.5."],
+["For those viewing times, the mode is:",["15","17.5","200","no mode"],0,"15 occurs twice."],
+["For those viewing times, the range is:",["190","185","200","17.5"],0,"200−10=190."],
+["How can descriptive statistics help an AI or recommendation system?",["summarise typical behaviour, variation and unusual observations","guarantee perfect predictions","remove the need for data quality checks","prove every outlier is an error"],0,"Statistics summarise data but still require context and careful interpretation."],
+["Why should an AI system not automatically delete every outlier?",["an outlier may represent genuine important behaviour","outliers never affect statistics","outliers are always the median","range cannot detect extremes"],0,"Extreme observations can be errors or meaningful rare cases."],
+["A customer-ratings set is 4,4,5,5,5,5,1. What is the mode?",["5","4","1","4.14"],0,"5 appears four times."],
+["Which statement about a large range is valid?",["the maximum and minimum are far apart","the mean must be large","the median must be small","the data must be right-skewed"],0,"Range measures only the distance between extremes."],
+["Which statement about a small range is valid?",["the maximum and minimum are close together","there are no outliers under every definition","the mean equals median","the distribution is symmetric"],0,"A small range indicates limited max-to-min spread."],
+["Which pair of statistics is useful when discussing possible skewness?",["mean and median","mode and sample name","range and units only","maximum and label"],0,"Their relative positions can provide evidence about skewness."],
+["Which conclusion is safest if two groups have equal means but different ranges?",["they have equal arithmetic centre but different max-to-min spread","they are identical","their medians are equal","their shapes must be opposite"],0,"Mean and range describe different features."],
+["What is the best interpretation of 'typical' in statistics?",["It depends on distribution shape, outliers and context; no single measure is always best","It always means mean","It always means median","It always means mode"],0,"Choosing a representative measure requires reasoning about the data."],
+["Which calculation is correct for mean?",["sum ÷ number of observations","maximum − minimum","middle after ordering","most frequent value"],0,"This is the arithmetic mean formula."],
+["Which calculation is correct for range?",["maximum − minimum","sum ÷ count","middle after ordering","Q3−Q1 always"],0,"This unit uses range as a simple measure of spread."],
+["A data set with all values equal has:",["range 0","no mean","no median","necessarily no mode"],0,"Maximum equals minimum."],
+["Which statement best summarises AC9M7ST01?",["Acquire and analyse numerical data using measures of centre, range and distribution features, including effects of anomalies","Study only categorical graphs","Calculate probability only","Use mean without considering context"],0,"The topic connects data type, summary statistics and interpretation."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map((q,i)=>({id:`ac9m7st01-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M7ST01",bank:"practice",skill:"descriptive statistics",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Calculate carefully, then interpret the statistic in the context and check for extreme values."},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
