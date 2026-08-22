@@ -1,237 +1,59 @@
 "use strict";
-window.skillrTestQuestions = [
-  {
-    "id": "ac9m7sp04-t-001",
-    "curriculumCode": "AC9M7SP04",
-    "bank": "test",
-    "skill": "trace an iteration",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Repeat a 90° rotation about the origin until four images including the original are present",
-      "Transformation centre omitted",
-      "The output becomes ambiguous",
-      "Finite ordered instructions"
-    ],
-    "correct": 0,
-    "explanation": "Repeat a 90° rotation about the origin until four images including the original are present\nHint: The output becomes ambiguous.",
-    "structuredExplanation": {
-      "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
-      "hint": "The output becomes ambiguous."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp04-t-002",
-    "curriculumCode": "AC9M7SP04",
-    "bank": "test",
-    "skill": "debug ambiguous wording",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Original and latest image confused",
-      "The result depends on transformation centre and whether each step uses the original or previous image.",
-      "Specify which object is transformed each iteration",
-      "Finite ordered instructions"
-    ],
-    "correct": 1,
-    "explanation": "The result depends on transformation centre and whether each step uses the original or previous image.\nHint: Specify which object is transformed each iteration.",
-    "structuredExplanation": {
-      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
-      "hint": "Specify which object is transformed each iteration."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp04-t-003",
-    "curriculumCode": "AC9M7SP04",
-    "bank": "test",
-    "skill": "write a translation algorithm",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Loop has no stop",
-      "Define count or geometric condition",
-      "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
-      "Finite ordered instructions"
-    ],
-    "correct": 2,
-    "explanation": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.\nHint: Define count or geometric condition.",
-    "structuredExplanation": {
-      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
-      "hint": "Define count or geometric condition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp04-t-004",
-    "curriculumCode": "AC9M7SP04",
-    "bank": "test",
-    "skill": "add a decision branch",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Digital picture accepted without coordinate check",
-      "Trace representative points",
-      "Finite ordered instructions",
-      "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible."
-    ],
-    "correct": 3,
-    "explanation": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.\nHint: Trace representative points.",
-    "structuredExplanation": {
-      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
-      "hint": "Trace representative points."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp04-t-005",
-    "curriculumCode": "AC9M7SP04",
-    "bank": "test",
-    "skill": "set a stopping condition",
-    "printable": true,
-    "type": "single",
-    "question": "What should be checked when applying set a stopping condition in spatial algorithms and decision processes?",
-    "audioPrompt": "What should be checked when applying set a stopping condition in spatial algorithms and decision processes?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Repeat a 90° rotation about the origin until four images including the original are present",
-      "Transformation centre omitted",
-      "The output becomes ambiguous",
-      "Finite ordered instructions"
-    ],
-    "correct": 0,
-    "explanation": "Repeat a 90° rotation about the origin until four images including the original are present\nHint: The output becomes ambiguous.",
-    "structuredExplanation": {
-      "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
-      "hint": "The output becomes ambiguous."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp04-t-006",
-    "curriculumCode": "AC9M7SP04",
-    "bank": "test",
-    "skill": "trace an iteration",
-    "printable": true,
-    "type": "single",
-    "question": "Which response best uses trace an iteration in spatial algorithms and decision processes?",
-    "audioPrompt": "Which response best uses trace an iteration in spatial algorithms and decision processes?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Original and latest image confused",
-      "The result depends on transformation centre and whether each step uses the original or previous image.",
-      "Specify which object is transformed each iteration",
-      "Finite ordered instructions"
-    ],
-    "correct": 1,
-    "explanation": "The result depends on transformation centre and whether each step uses the original or previous image.\nHint: Specify which object is transformed each iteration.",
-    "structuredExplanation": {
-      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
-      "hint": "Specify which object is transformed each iteration."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp04-t-007",
-    "curriculumCode": "AC9M7SP04",
-    "bank": "test",
-    "skill": "debug ambiguous wording",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Loop has no stop",
-      "Define count or geometric condition",
-      "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
-      "Finite ordered instructions"
-    ],
-    "correct": 2,
-    "explanation": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.\nHint: Define count or geometric condition.",
-    "structuredExplanation": {
-      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
-      "hint": "Define count or geometric condition."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9m7sp04-t-008",
-    "curriculumCode": "AC9M7SP04",
-    "bank": "test",
-    "skill": "write a translation algorithm",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
-    "audioPrompt": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Digital picture accepted without coordinate check",
-      "Trace representative points",
-      "Finite ordered instructions",
-      "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible."
-    ],
-    "correct": 3,
-    "explanation": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.\nHint: Trace representative points.",
-    "structuredExplanation": {
-      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
-      "hint": "Trace representative points."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["A triangle algorithm checks 'all sides equal?' then 'two sides equal?'. Why is this order efficient?",["It separates equilateral before the broader isosceles case","It avoids checking sides","It classifies angles first","It makes every triangle scalene"],0,"Equilateral triangles also have at least two equal sides, so testing the more specific case first avoids ambiguity."],
+["A triangle has sides 7,7,7 and angles 60°,60°,60°. A complete algorithm should output:",["equilateral acute","isosceles only","scalene acute","right equilateral"],0,"It is equilateral by sides and acute by angles."],
+["A triangle has sides 5,5,8 and one 100° angle. The best combined output is:",["isosceles obtuse","isosceles acute","scalene obtuse","equilateral obtuse"],0,"Two equal sides and one obtuse angle."],
+["A student writes: IF one angle is 90° THEN right ELSE acute. What case is missing?",["obtuse","equilateral","isosceles","scalene"],0,"The ELSE branch wrongly groups obtuse triangles with acute triangles."],
+["A student writes: IF all sides equal THEN equilateral ELSE scalene. What case is missing?",["isosceles","right","obtuse","acute"],0,"Triangles with exactly two equal sides are not covered."],
+["Which decision tree is logically complete for side classification?",["all equal? yes→equilateral; no→two equal? yes→isosceles; no→scalene","two equal? yes→scalene; no→equilateral","all equal? no→equilateral","count angles only"],0,"It partitions all possible side-equality cases."],
+["A quadrilateral has two parallel pairs, all sides equal, but no right angles. A correct hierarchy outputs:",["rhombus","square","rectangle","trapezium"],0,"It is a parallelogram refined by four equal sides, but not by right angles."],
+["A quadrilateral has two parallel pairs and four right angles, but adjacent sides differ. Output:",["rectangle","square","rhombus","kite"],0,"Right angles make it a rectangle; unequal adjacent sides rule out square."],
+["A quadrilateral has two parallel pairs, four equal sides and four right angles. Which output is most specific?",["square","parallelogram","rectangle","rhombus"],0,"Square is the most specific class satisfying all properties."],
+["Why should a hierarchy allow a square to pass through both rectangle and rhombus branches?",["Because square satisfies both sets of defining properties","Because square has no unique properties","Because all quadrilaterals do","Because orientation changes its class"],0,"Inclusive classification recognises overlapping subclasses."],
+["An algorithm checks parallel pairs first. It sees 0 pairs, then checks two pairs of adjacent equal sides. Why?",["To distinguish a kite from a general irregular quadrilateral","To find a square","To find a rectangle","To test concavity only"],0,"With no parallel pairs, adjacent side equality can identify a kite in this scheme."],
+["Under the exclusive trapezium convention used in this unit, which branch should a shape with two parallel pairs follow?",["parallelogram","trapezium","kite","irregular"],0,"Exactly one pair is reserved for trapezium; two pairs lead to parallelogram."],
+["A square is misclassified as rectangle and the algorithm stops. What improvement is best?",["After rectangle, test whether all sides are equal","Remove the right-angle test","Check concavity","Count sides again"],0,"A further side-equality check refines rectangle to square."],
+["A rhombus is misclassified as square. Which likely test is faulty?",["The algorithm assumed equal sides imply right angles","It counted four sides","It checked parallelism","It checked equal sides"],0,"Equal sides alone do not guarantee right angles."],
+["A polygon has 7 sides, unequal sides/angles, all interior angles below 180°. Output:",["irregular convex heptagon","regular convex heptagon","irregular concave heptagon","regular concave heptagon"],0,"Seven sides gives heptagon; unequal measures give irregular; all angles below 180° gives convex."],
+["A polygon has 6 sides and one reflex interior angle. What can you conclude immediately?",["It is a concave hexagon","It is regular","It is convex","It is a parallelogram"],0,"Side count and reflex angle are sufficient for hexagon + concave."],
+["A polygon has all equal sides but one angle differs from the others. Classification by regularity:",["irregular","regular","cannot be a polygon","always concave"],0,"Regularity requires both equal sides and equal angles."],
+["Why is 'regular concave polygon' a useful algorithm test case even if impossible in the standard simple-polygon context?",["It checks whether the algorithm wrongly allows contradictory properties","It is a common regular polygon","It proves all concave polygons are regular","It removes the need for definitions"],0,"Testing impossible combinations helps debug logic."],
+["Which order most efficiently identifies a named polygon and then its finer properties?",["count sides → regularity → concavity","concavity → colour → perimeter","area → side count → colour","symmetry only"],0,"The first decision establishes the polygon family before refinements."],
+["If a polygon algorithm checks concavity before side count, is it necessarily wrong?",["No, but side count first is often clearer for naming and then refining","Yes, mathematically impossible","Yes, concavity is not a property","Only for triangles"],0,"Different valid algorithms can exist; clarity and efficiency matter."],
+["Which statement about algorithms is strongest?",["Different correct decision orders can classify the same inputs if all branches are complete and consistent","There is only one correct flow chart","A flow chart must start with side length","Algorithms cannot use hierarchies"],0,"Equivalent logical structures can produce the same classifications."],
+["A decision tree has a YES branch but no NO branch. Main problem:",["Some inputs may have no defined path","The tree is too short","All shapes become regular","Diamonds cannot branch twice"],0,"A complete decision needs outcomes for all relevant cases."],
+["A flow chart asks 'Is it regular?' before defining regular. Why is this weak?",["The decision criterion is ambiguous unless equal-side and equal-angle conditions are clear","Regularity cannot be tested","All polygons are regular","Only triangles can be regular"],0,"Algorithms must use precise conditions."],
+["Which condition is most testable in an algorithm?",["All four interior angles equal 90°","Looks rectangular","Seems symmetrical","Looks almost regular"],0,"Exact measurable properties are reproducible."],
+["Which input would best test whether a quadrilateral algorithm handles overlap correctly?",["a square","a generic trapezium","an irregular quadrilateral","a kite with no parallel sides"],0,"Square belongs to several nested classes and tests refinement logic."],
+["Which input would best test the 'one pair versus two pairs parallel' distinction?",["a trapezium and a parallelogram","two squares only","two triangles","a circle and a pentagon"],0,"The contrasting cases target that branch."],
+["Which input would best test concave/convex classification?",["one convex pentagon and one dart-shaped concave pentagon","two regular hexagons","two squares","two circles"],0,"Matched side counts isolate the concavity decision."],
+["A flow chart classifies a square as rhombus, rectangle and square along one path. Is that necessarily a problem?",["No; intermediate classifications can be valid if the final most-specific output is clear","Yes; a shape can have one class only","Yes; square is not a rectangle","Yes; square is not a rhombus"],0,"Hierarchical algorithms may record broader and narrower classes."],
+["A teacher wants one final label only. For a square, which label should be returned?",["square","quadrilateral","parallelogram","rectangle"],0,"Use the most specific supported class when one output is required."],
+["A polygon has equal sides and equal angles. What extra test is still needed to output 'regular convex'?",["convexity","number of colours","area","orientation"],0,"Regularity does not by itself name the convex/concave category in the requested output structure."],
+["A student says every regular polygon is convex. In standard simple Euclidean polygons, this is:",["true","false","true only for quadrilaterals","undefined"],0,"Standard regular simple polygons are convex."],
+["Which flow-chart symbol is best for 'Are all sides equal?'",["decision diamond","process rectangle","start/end oval only","connector arrow only"],0,"It is a yes/no decision."],
+["Which flow-chart symbol is best for 'Count the sides'?",["process rectangle","decision diamond","end oval only","arrow only"],0,"Counting is an action/process."],
+["Which statement describes a hierarchy rather than a simple sequence?",["Square is a subtype of both rectangle and rhombus, which are subtypes of parallelogram","Count sides then stop","Measure one angle","Draw the shape"],0,"Hierarchies represent inclusion relationships."],
+["What does 'debug an algorithm' mean in this topic?",["Find and correct logical branches that misclassify shapes","Redraw every polygon","Change correct answers randomly","Remove all decisions"],0,"Debugging checks and repairs classification logic."],
+["An algorithm says: if 4 equal sides → square. Which counterexample exposes the bug?",["a non-square rhombus","a rectangle","a trapezium","a pentagon"],0,"A rhombus has four equal sides without four right angles."],
+["An algorithm says: if 4 right angles → square. Which counterexample exposes the bug?",["a non-square rectangle","a rhombus","a kite","a pentagon"],0,"A rectangle can have unequal adjacent side lengths."],
+["An algorithm says: if one interior angle >180° → irregular. Why is this incomplete?",["It identifies concavity, but irregularity requires checking side and angle equality too","Concave polygons are always regular","Reflex angles cannot occur","It should classify as triangle"],0,"Concavity and regularity are different properties."],
+["An algorithm says: if all sides equal → regular. Counterexample:",["a rhombus","a square","an equilateral triangle","a regular pentagon"],0,"A rhombus can have equal sides but unequal angles."],
+["Which is the better way to explain an algorithm?",["State each decision, its branches, and why each property narrows the possible classes","List answers only","Say 'follow the chart'","Describe only the final shape"],0,"The curriculum asks students to describe how algorithms work."],
+["Why can two different classification algorithms both be correct?",["They may test properties in different orders but still partition all inputs consistently","Geometry has no definitions","Outputs need not match","Algorithms are subjective"],0,"Logical equivalence does not require identical ordering."],
+["Which criterion should never be used as a defining branch here?",["colour of the shape","number of sides","parallel side pairs","angle equality"],0,"Colour is irrelevant to geometric class."],
+["A classification algorithm gives different outputs for the same unchanged input on repeated runs. Main issue:",["It is not deterministic/reproducible","It is too geometric","It has too many correct branches","It is a hierarchy"],0,"A well-defined algorithm should give consistent output."],
+["Which final classification is most informative for a 4-sided shape with two parallel pairs, equal sides, right angles?",["square","regular quadrilateral","parallelogram","rectangle"],0,"Square is the most specific standard class."],
+["Which final classification is most informative for a 4-sided shape with exactly one parallel pair?",["trapezium","quadrilateral","polygon","parallelogram"],0,"Trapezium is the specific class under this convention."],
+["Which final classification is most informative for a 5-sided shape with all equal sides/angles?",["regular pentagon","pentagon","convex polygon","regular polygon"],0,"It combines side count and regularity."],
+["Which final classification is most informative for a 6-sided shape with unequal sides and one reflex angle?",["irregular concave hexagon","concave polygon","hexagon","irregular polygon"],0,"It combines all available classification dimensions."],
+["A good enriched classification algorithm should include:",["input properties, ordered decisions, complete branches, final outputs and an explanation","shape names only","one decision only","pictures with no rules"],0,"That makes the method reproducible and explainable."],
+["Which statement best captures higher-order reasoning in AC9M7SP04?",["Design, test and debug decision processes so geometric properties lead reliably to classifications","Memorise one flow chart exactly","Use appearance as the main criterion","Avoid overlapping shape classes"],0,"The topic is about algorithm design and reasoning, not rote naming."],
+["A student changes the order from side count→regularity→concavity to concavity→side count→regularity and gets the same final outputs for all inputs. Conclusion:",["Both algorithms can be valid","The second must be wrong","Only the first is mathematical","Order never matters in any algorithm"],0,"Order may vary when logic remains complete and consistent."],
+["When does order matter critically?",["When an early branch stops too soon and prevents a more specific correct classification","Never","Only when colours differ","Only for triangles"],0,"Premature stopping can produce incomplete or wrong outputs."],
+["Which debugging strategy is strongest?",["Trace diverse test shapes through every decision and compare outputs with definitions","Look only at the diagram style","Test one easy shape","Assume the flow chart is correct"],0,"Systematic test cases reveal missing and faulty branches."],
+["Which statement best summarises the relationship between geometry and algorithms here?",["Geometric definitions become precise decision rules for sorting shapes","Algorithms replace geometric definitions","Geometry is irrelevant to flow charts","Only computers can classify shapes"],0,"The mathematical properties drive the algorithm." ]
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
+window.skillrTestQuestions=raw.map((q,i)=>({id:`ac9m7sp04-t-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M7SP04",bank:"test",skill:"reason about classification algorithms",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Trace the branch carefully and check whether a more specific class should be tested before stopping."},qualitySchema:"production-v1"}));
+window.skillrExamQuestions=window.skillrTestQuestions;
+window.quizQuestions=window.skillrTestQuestions;
