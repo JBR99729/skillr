@@ -1,5 +1,7 @@
 (() => {
   "use strict";
+  if (window.__skillrTopicModuleV2RegistryLoaded) return;
+  window.__skillrTopicModuleV2RegistryLoaded = true;
 
   const modules = new Map();
   function register(module) {
@@ -18,6 +20,8 @@
   // Single-page prototype: moderated Questions & Discussion for AC9M7N06 only.
   const meta = window.skillrPageMeta || {};
   if (String(meta.curriculumCode || "").toUpperCase() !== "AC9M7N06" || meta.pageType !== "topic guide") return;
+  if (window.__skillrDiscussionAC9M7N06Loaded) return;
+  window.__skillrDiscussionAC9M7N06Loaded = true;
 
   const style = document.createElement("style");
   style.textContent = `
@@ -79,7 +83,6 @@
     const layout = document.querySelector("main.curriculum-layout");
     if (sidebar) {
       if (section.parentElement !== sidebar) sidebar.prepend(section);
-      else if (sidebar.firstElementChild !== section) sidebar.prepend(section);
       return true;
     }
     if (layout && !section.isConnected) {
@@ -155,11 +158,11 @@
 
   let mountQueued = false;
   const remountObserver = new MutationObserver(() => {
-    if (mountQueued) return;
+    if (mountQueued || section.isConnected) return;
     mountQueued = true;
     queueMicrotask(() => {
       mountQueued = false;
-      mountDiscussion();
+      if (!section.isConnected) mountDiscussion();
     });
   });
   remountObserver.observe(document.body, {childList:true, subtree:true});
