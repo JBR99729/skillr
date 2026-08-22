@@ -1,236 +1,45 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s7u01-p-001",
-    "curriculumCode": "AC9S7U01",
-    "bank": "practice",
-    "skill": "choose a useful feature",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "At each step choose one of two mutually exclusive observable features",
-      "Habitat used as proof of close relationship",
-      "Unrelated organisms can live in similar habitats",
-      "Organisation into groups using shared criteria"
-    ],
-    "correct": 0,
-    "explanation": "At each step choose one of two mutually exclusive observable features\nHint: Unrelated organisms can live in similar habitats.",
-    "structuredExplanation": {
-      "summary": "At each step choose one of two mutually exclusive observable features",
-      "hint": "Unrelated organisms can live in similar habitats."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u01-p-002",
-    "curriculumCode": "AC9S7U01",
-    "bank": "practice",
-    "skill": "follow a key",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating follow a key. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating follow a key. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Key choices overlap",
-      "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
-      "Use mutually exclusive alternatives",
-      "Organisation into groups using shared criteria"
-    ],
-    "correct": 1,
-    "explanation": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.\nHint: Use mutually exclusive alternatives.",
-    "structuredExplanation": {
-      "summary": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
-      "hint": "Use mutually exclusive alternatives."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u01-p-003",
-    "curriculumCode": "AC9S7U01",
-    "bank": "practice",
-    "skill": "find an ambiguous split",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One specimen excluded",
-      "Every valid input needs a path",
-      "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
-      "Organisation into groups using shared criteria"
-    ],
-    "correct": 2,
-    "explanation": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.\nHint: Every valid input needs a path.",
-    "structuredExplanation": {
-      "summary": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
-      "hint": "Every valid input needs a path."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u01-p-004",
-    "curriculumCode": "AC9S7U01",
-    "bank": "practice",
-    "skill": "create paired statements",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating create paired statements. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating create paired statements. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Classification treated as permanent truth",
-      "Systems are models revised with evidence",
-      "Organisation into groups using shared criteria",
-      "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable."
-    ],
-    "correct": 3,
-    "explanation": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.\nHint: Systems are models revised with evidence.",
-    "structuredExplanation": {
-      "summary": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
-      "hint": "Systems are models revised with evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u01-p-005",
-    "curriculumCode": "AC9S7U01",
-    "bank": "practice",
-    "skill": "explain why classification may change",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies dichotomous key in biological classification and dichotomous keys?",
-    "audioPrompt": "Which statement correctly identifies dichotomous key in biological classification and dichotomous keys?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "At each step choose one of two mutually exclusive observable features",
-      "Habitat used as proof of close relationship",
-      "Unrelated organisms can live in similar habitats",
-      "Organisation into groups using shared criteria"
-    ],
-    "correct": 0,
-    "explanation": "At each step choose one of two mutually exclusive observable features\nHint: Unrelated organisms can live in similar habitats.",
-    "structuredExplanation": {
-      "summary": "At each step choose one of two mutually exclusive observable features",
-      "hint": "Unrelated organisms can live in similar habitats."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u01-p-006",
-    "curriculumCode": "AC9S7U01",
-    "bank": "practice",
-    "skill": "choose a useful feature",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes taxon in biological classification and dichotomous keys?",
-    "audioPrompt": "Which choice best describes taxon in biological classification and dichotomous keys?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Key choices overlap",
-      "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
-      "Use mutually exclusive alternatives",
-      "Organisation into groups using shared criteria"
-    ],
-    "correct": 1,
-    "explanation": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.\nHint: Use mutually exclusive alternatives.",
-    "structuredExplanation": {
-      "summary": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
-      "hint": "Use mutually exclusive alternatives."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u01-p-007",
-    "curriculumCode": "AC9S7U01",
-    "bank": "practice",
-    "skill": "follow a key",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for classification in biological classification and dichotomous keys?",
-    "audioPrompt": "What does correct use require for classification in biological classification and dichotomous keys?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One specimen excluded",
-      "Every valid input needs a path",
-      "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
-      "Organisation into groups using shared criteria"
-    ],
-    "correct": 2,
-    "explanation": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.\nHint: Every valid input needs a path.",
-    "structuredExplanation": {
-      "summary": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
-      "hint": "Every valid input needs a path."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7u01-p-008",
-    "curriculumCode": "AC9S7U01",
-    "bank": "practice",
-    "skill": "find an ambiguous split",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Classification treated as permanent truth",
-      "Systems are models revised with evidence",
-      "Organisation into groups using shared criteria",
-      "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable."
-    ],
-    "correct": 3,
-    "explanation": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.\nHint: Systems are models revised with evidence.",
-    "structuredExplanation": {
-      "summary": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
-      "hint": "Systems are models revised with evidence."
-    },
-    "qualitySchema": "production-v1"
-  }
+const raw=[
+["What is the main reason scientists classify living things?",["To identify, name and group organisms","To increase the number of species","To remove unwanted species","To make organisms look more organised"],0,"Classification helps organise biodiversity so organisms can be identified and communicated about consistently."],
+["Which feature is most useful for classifying animals?",["Body covering","Favourite food","Colour preference","Size of habitat"],0,"Body covering is an observable biological feature that can reliably separate groups."],
+["A dichotomous key uses:",["two contrasting choices at each step","three choices at each step","random questions","DNA evidence only"],0,"Dichotomous means two-part: each step presents two alternatives."],
+["Which Linnaean rank is most specific?",["Species","Family","Order","Class"],0,"Species is the most specific of the seven ranks listed in this topic."],
+["The scientific name Canis lupus contains:",["genus and species","family and genus","species only","genus only"],0,"Binomial nomenclature uses a genus name followed by a species epithet."],
+["Why did microscopy improve biological classification?",["It revealed cells and microscopic structures","It showed weather patterns","It measured habitats","It changed common names"],0,"Microscopes provided new biological evidence that was previously invisible."],
+["Which statement best reflects First Nations Australian classification knowledge?",["It can be ecological, relational and place-based","It is one fixed national hierarchy","It always uses Latin names","It is based only on DNA"],0,"First Nations knowledge systems are diverse and connected to particular Peoples, Countries/Places and purposes."],
+["Which sequence is correct from broader to more specific?",["Kingdom → Phylum → Class","Species → Genus → Family","Order → Class → Phylum","Family → Order → Class"],0,"Kingdom is broader than phylum, which is broader than class."],
+["When using a dichotomous key in fieldwork, the best first action is to:",["observe the organism's features carefully","guess if unsure","skip confusing steps","change the key immediately"],0,"Reliable identification depends on accurate observation."],
+["Animals with backbones are called:",["vertebrates","invertebrates","arthropods","molluscs"],0,"Vertebrates have a backbone or vertebral column."],
+["Which feature can be useful for classifying plants?",["Leaf shape and reproductive structures","Favourite soil","Age alone","Height alone"],0,"Leaf and reproductive features can distinguish plant groups."],
+["To add a new organism to a dichotomous key, you would usually:",["add or revise paired statements","remove every existing step","change all scientific names","ignore the new organism"],0,"The key should be modified so every organism has a clear path."],
+["A commonly taught definition of a species is a group of organisms that:",["can interbreed and produce fertile offspring","live in the same place","look identical","eat the same food"],0,"This reproductive definition is useful for many sexually reproducing organisms, though it has limitations."],
+["Why can classification change over time?",["New evidence can reveal different relationships","Species stop evolving","Scientists get bored","Scientific names become too long"],0,"Scientific classifications are revised when better evidence supports a different grouping."],
+["Why are scientific names useful?",["They provide a standard international naming system","They change every year","They are always easier to pronounce","They replace all local names"],0,"Scientific names reduce ambiguity across languages and regions."],
+["Which is the safest way to describe First Nations Australian systems of classifying living things?",["They vary among Peoples and places and may reflect ecological and cultural relationships","They are identical across Australia","They copy the Linnaean system","They are based only on body shape"],0,"The systems are diverse, place-aware and culturally situated."],
+["A common mistake when using a dichotomous key is:",["misinterpreting an observable feature","following each step","checking both choices","recording the final identification"],0,"Misreading a feature can send the user down the wrong branch."],
+["Which group includes animals with exoskeletons and jointed legs?",["Arthropods","Chordates","Molluscs","Echinoderms"],0,"Arthropods are characterised by jointed appendages and an exoskeleton."],
+["Microscopy led directly to the discovery of:",["microorganisms","new planets","fossil fuels","weather systems"],0,"Microscopes made microscopic organisms observable."],
+["Grouping organisms can help scientists:",["predict some traits of related organisms","increase biodiversity","create new species","remove variation"],0,"Shared classification can suggest likely shared characteristics."],
+["Which statement best describes why classification is useful?",["It helps organise and study biodiversity","It increases organism numbers","It removes unwanted species","It is mainly for memorising names"],0,"Classification provides an organised framework for studying diversity."],
+["Which feature is least useful for a scientific classification key?",["Favourite food","Number of legs","Body covering","Leaf margin"],0,"A subjective or unknown preference is not a reliable observable classification feature."],
+["A good dichotomous-key split should use:",["two mutually exclusive statements","two overlapping statements","three vague choices","one statement only"],0,"Each organism should fit one and only one option at each step."],
+["Which sequence is correctly ordered?",["Class → Order → Family","Genus → Species → Family","Phylum → Kingdom → Class","Species → Genus → Order"],0,"Class is broader than order, which is broader than family."],
+["Scientific names are commonly derived from:",["Latin or Latinised forms","English only","local slang only","abbreviations only"],0,"Modern scientific nomenclature traditionally uses Latin or Latinised names."],
+["Microscopy allowed organisms to be compared using:",["cell structures","weather patterns","habitat size only","fossil colour"],0,"Microscopic cell features added new evidence for classification."],
+["When using a dichotomous key, you should:",["choose the statement that matches the organism and follow its direction","start at any step","skip difficult choices","change the key while identifying"],0,"Keys are followed sequentially from the starting step."],
+["Which Linnaean rank groups organisms by very broad shared body-plan features?",["Phylum","Species","Genus","Family"],0,"Phylum is a broad rank below kingdom."],
+["Which statement about a species is most accurate at Year 7 level?",["The interbreeding-and-fertile-offspring definition works for many organisms but is not universal","Every species looks identical","Species are defined only by habitat","Species never change classification"],0,"The reproductive definition is useful but has limits for asexual organisms, fossils and other cases."],
+["Which feature is useful for classifying plants?",["Leaf shape","Soil colour only","Plant age only","Exact height only"],0,"Leaf shape is a repeatable observable characteristic."],
+["Scientific names help global communication because they:",["use agreed conventions","depend on local nicknames","change between countries","identify habitat only"],0,"Standardised naming reduces confusion."],
+["Classification systems change because:",["new observations and technology provide new evidence","all old classifications are careless","organisms stop evolving","taxonomy has no rules"],0,"Science revises models and groupings in response to evidence."],
+["Animals without backbones are called:",["invertebrates","vertebrates","mammals","chordates only"],0,"Invertebrates lack a vertebral column."],
+["Which is a good fieldwork use of classification?",["Use a provided key to identify an unfamiliar organism","Rename organisms freely","Ignore observable traits","Predict weather"],0,"Dichotomous keys support systematic field identification."],
+["Which wording is best for a dichotomous-key choice?",["Has feathers / does not have feathers","Looks nice / looks strange","Large / small with no size boundary","Lives somewhere wet / maybe dry"],0,"Good choices are observable, clear and mutually exclusive."],
+["Why can habitat alone be a weak feature for showing close biological relationship?",["Unrelated organisms can occupy similar habitats","Habitat is never observable","All related organisms share one habitat","Habitat determines genus"],0,"Similar environments can contain distantly related organisms."],
+["In Homo sapiens, Homo is the:",["genus","species epithet","family","order"],0,"The first word of a binomial name is the genus."],
+["Which statement about formatting a scientific name is correct?",["Genus capitalised, species lowercase, both italicised when typed","Both words capitalised","Both words lowercase and not italicised","Species written before genus"],0,"That is the standard binomial formatting convention."],
+["A new microscope reveals a major cell-structure difference between two organisms previously grouped together. What is the most scientific response?",["Reconsider their classification using the new evidence","Ignore the evidence","Keep classification permanent","Rename them using common names only"],0,"Classification is evidence-based and revisable."],
+["Which statement best summarises AC9S7U01?",["Use observable evidence and classification tools to organise biodiversity and identify organisms","Memorise animal names only","Use habitat as the only classification rule","Treat classification as permanently fixed"],0,"The topic combines classification purpose, tools, naming, evidence and changing systems."]
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.skillrPracticeQuestions=raw.map((q,i)=>({id:`ac9s7u01-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9S7U01",bank:"practice",skill:"biological classification",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Use observable evidence and the definition of the classification tool or rank."},qualitySchema:"production-v1"}));
+window.quizQuestions=window.skillrPracticeQuestions;
