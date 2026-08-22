@@ -5,6 +5,7 @@ on:
     paths:
       - 'foundation/**/index.html'
       - 'year*/**/index.html'
+      - 'assets/year7-router.js'
       - 'docs/static-curriculum-architecture-v2.md'
       - 'AGENTS.md'
       - 'scripts/validate_static_curriculum_architecture.mjs'
