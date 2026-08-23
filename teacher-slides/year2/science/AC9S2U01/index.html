@@ -9,14 +9,14 @@
 <style>
 :root{--topbar:52px;--slides-controls:64px}
 *{box-sizing:border-box}
-html,body{margin:0;min-height:100%;background:#000;color:#fff;font-family:Arial,sans-serif}
-body{overflow:hidden}
-.top{height:var(--topbar);display:flex;gap:.75rem;align-items:center;justify-content:space-between;padding:.55rem .85rem;background:#111827;border-bottom:1px solid #24344f;position:relative;z-index:2}
+html,body{margin:0;min-height:100%;background:#f4f7fb;color:#fff;font-family:Arial,sans-serif}
+body{overflow:auto}
+.top{min-height:var(--topbar);display:flex;gap:.75rem;align-items:center;justify-content:space-between;padding:.55rem .85rem;background:#111827;border-bottom:1px solid #24344f;position:relative;z-index:2}
 .top a{color:#fff;text-decoration:none;font-weight:700;white-space:nowrap}.meta{font-size:.86rem;color:#d1d5db;text-align:right;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.stage{height:calc(100dvh - var(--topbar));width:100%;display:flex;align-items:flex-start;justify-content:center;background:#000;overflow:hidden}
-.deck{display:block;border:0;width:min(100vw,calc((100dvh - var(--topbar) - var(--slides-controls))*16/9));height:min(calc(56.25vw + var(--slides-controls)),calc(100dvh - var(--topbar)));max-width:100%;background:#000}
-@media (orientation:landscape){.stage{align-items:center}}
-@media (max-width:560px){:root{--topbar:46px;--slides-controls:62px}.top{padding:.45rem .6rem}.top a{font-size:.78rem}.meta{font-size:.72rem}}
+.stage{width:100%;display:flex;align-items:flex-start;justify-content:center;background:#f4f7fb;overflow:hidden}
+.deck{display:block;border:0;width:100%;height:calc(56.25vw + var(--slides-controls));max-width:100%;background:#000}
+@media (orientation:landscape){html,body{background:#000}body{overflow:hidden}.stage{height:calc(100dvh - var(--topbar));align-items:center;background:#000}.deck{width:min(100vw,calc((100dvh - var(--topbar) - var(--slides-controls))*16/9));height:min(calc(56.25vw + var(--slides-controls)),calc(100dvh - var(--topbar)));max-width:100%}}
+@media (max-width:560px){:root{--topbar:46px;--slides-controls:62px}.top{padding:.45rem .6rem;flex-wrap:wrap;gap:.25rem .6rem}.top a{font-size:.78rem}.meta{font-size:.72rem;flex:1 1 100%;text-align:left}.stage{height:auto}.deck{height:calc(56.25vw + var(--slides-controls))}}
 </style>
 </head>
 <body>
