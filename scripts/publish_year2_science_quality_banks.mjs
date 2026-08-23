@@ -11,6 +11,12 @@ vm.runInContext(fs.readFileSync(path.join(ROOT, "assets/year2-science-data.js"),
 const units = context.window.SkillrYear2ScienceData;
 const titles = Object.fromEntries(Object.entries(units).map(([code, unit]) => [code, unit.title]));
 
+// AC9S2U01 has a separately authored expanded live release (49 Practice / 32 Test
+// plus custom worksheets and topic guide). Do not let the generic 24/16 publisher
+// overwrite that reviewed release. The remaining Year 2 Science codes still use
+// the standard pipeline below.
+const PROTECTED_LIVE_CODES = new Set(["AC9S2U01"]);
+
 function filesUnder(root) {
   const files = [];
   for (const entry of fs.readdirSync(root, { withFileTypes: true })) {
@@ -31,7 +37,13 @@ function identity(relative, code, title) {
   return { browser: `${code} ${title} ${bank} | SkillrHub`, heading: title };
 }
 
+let published = 0;
+const skipped = [];
 for (const [code, title] of Object.entries(titles)) {
+  if (PROTECTED_LIVE_CODES.has(code)) {
+    skipped.push(code);
+    continue;
+  }
   const lower = code.toLowerCase();
   const route = path.join(ROOT, "quiz", "year-2", "science", lower);
   execFileSync(NODE, ["scripts/publish_production_question_bank.mjs", `assets/assessment-banks/year2/science/${lower}.json`], { cwd: ROOT, stdio: "inherit" });
@@ -66,6 +78,7 @@ for (const [code, title] of Object.entries(titles)) {
       .replace(/Try the same eight curriculum questions again in a newly shuffled answer order\./g, "Start a fresh rotating attempt from the full question bank.");
     fs.writeFileSync(file, html);
   }
+  published += 1;
 }
 
-console.log(JSON.stringify({ codes: Object.keys(titles).length, practiceAttempt: 8, testAttempt: 12, status: "PUBLISHED" }, null, 2));
+console.log(JSON.stringify({ codesPublished: published, protectedLiveCodes: skipped, defaultPracticeAttempt: 8, defaultTestAttempt: 12, status: "PUBLISHED" }, null, 2));
