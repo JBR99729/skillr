@@ -124,3 +124,5 @@ jobs:
                   teacher-slides/year3/maths/ac9m3m03/index.html
           git commit -m 'Fix AC9M3M03 lesson slide visuals'
           git push
+
+# trigger: 2026-08-23T18:16+10:00
