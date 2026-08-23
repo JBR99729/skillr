@@ -6,6 +6,18 @@ document.addEventListener("DOMContentLoaded", () => {
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;");
 
+  function getResultActionUrl(action, storedUrl) {
+    const match = window.location.pathname.match(
+      /^(.*\/(?:practice|test)\/)result(?:\/index\.html|\/?)$/i
+    );
+
+    if (match) {
+      return `${match[1]}${action}/`;
+    }
+
+    return storedUrl || `../${action}/`;
+  }
+
   const certificateBrandMark = `<svg class="certificate-mark" viewBox="0 0 96 96" role="img" aria-label="SkillrHub Learn and Grow"><path class="mark-book" d="M12 60V24c14-2 26 2 36 12 10-10 22-14 36-12v36c-14-2-26 2-36 12-10-10-22-14-36-12Z"/><path class="mark-fold" d="M48 36v36"/><path class="mark-s" d="M38 35c-3-4-12-4-14 1-3 8 17 5 14 15-2 7-13 7-18 2"/><path class="mark-h" d="M58 33v22m16-22v22M58 44h16"/></svg>`;
 
   const certificateFooter = `<footer class="certificate-footer" aria-label="SkillrHub values">
@@ -185,8 +197,8 @@ document.addEventListener("DOMContentLoaded", () => {
   if (name && data.studentName) name.textContent = data.studentName;
   const review = document.getElementById("resultReviewLink");
   const retake = document.getElementById("resultRetakeLink");
-  if (review) review.href = data.reviewUrl;
-  if (retake) retake.href = data.retakeUrl;
+  if (review) review.href = getResultActionUrl("review", data.reviewUrl);
+  if (retake) retake.href = getResultActionUrl("retake", data.retakeUrl);
 
   const certificateButton = document.getElementById("certificateButton");
   if (certificateButton) {
