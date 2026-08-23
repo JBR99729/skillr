@@ -11,7 +11,7 @@
   if (!document.querySelector('link[href*="/assets/multi-audience-ux.css"]')) {
     const uxStyle = document.createElement("link");
     uxStyle.rel = "stylesheet";
-    uxStyle.href = "/assets/multi-audience-ux.css?v=1";
+    uxStyle.href = "/assets/multi-audience-ux.css?v=2";
     document.head.appendChild(uxStyle);
   }
   if (!document.querySelector('script[src*="/assets/multi-audience-ux.js"]')) {
