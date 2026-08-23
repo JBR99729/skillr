@@ -11,12 +11,15 @@ if (!Array.isArray(window.quizQuestions) || window.quizQuestions.length === 0) {
   }
 }
 
-// Hotfix legacy quiz configs whose Review/Retake routes point one directory too high.
-// On /practice/ and /test/ pages the review and retake folders are children of the
-// current directory, so use review/ and retake/ rather than ../review/ and ../retake/.
-if (window.quizConfig && /\/(?:practice|test)\/(?:index\.html)?$/i.test(window.location.pathname)) {
-  if (window.quizConfig.reviewUrl === "../review/") window.quizConfig.reviewUrl = "review/";
-  if (window.quizConfig.retakeUrl === "../retake/") window.quizConfig.retakeUrl = "retake/";
+// Store Review/Retake as absolute activity paths. Result pages live one level
+// deeper under /result/, so relative values such as review/ and retake/ would
+// otherwise resolve to /result/review/ and /result/retake/.
+if (window.quizConfig && /\/(?:practice|test)(?:\/index\.html|\/?)$/i.test(window.location.pathname)) {
+  const activityPath = window.location.pathname
+    .replace(/index\.html$/i, "")
+    .replace(/\/?$/, "/");
+  window.quizConfig.reviewUrl = `${activityPath}review/`;
+  window.quizConfig.retakeUrl = `${activityPath}retake/`;
 }
 
-document.write('<script src="/quiz/assets/script-runtime-v115.js?v=20260822-hotfix1"><\/script>');
+document.write('<script src="/quiz/assets/script-runtime-v115.js?v=20260823-retake-hotfix"><\/script>');
