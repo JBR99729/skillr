@@ -1,0 +1,1 @@
+This AC9S2U01 page is the isolated WebP teacher-slide viewer pilot. It is designed so the viewer API can later be promoted to a shared site-wide asset without changing existing teacher-slide routes.
