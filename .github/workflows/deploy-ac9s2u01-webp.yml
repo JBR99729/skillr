@@ -1,0 +1,38 @@
+name: Deploy AC9S2U01 WebP slides
+
+on:
+  push:
+    paths:
+      - '.github/ac9s2u01-slides.zip.b64'
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Decode and install slides
+        shell: bash
+        run: |
+          set -euo pipefail
+          TARGET='teacher-slides/year2/science/AC9S2U01/slides'
+          mkdir -p "$TARGET"
+          base64 -d .github/ac9s2u01-slides.zip.b64 > /tmp/ac9s2u01-slides.zip
+          rm -f "$TARGET"/slide-*.webp
+          unzip -oq /tmp/ac9s2u01-slides.zip -d "$TARGET"
+          COUNT=$(find "$TARGET" -maxdepth 1 -type f -name 'slide-*.webp' | wc -l | tr -d ' ')
+          test "$COUNT" = '27'
+      - name: Commit slide deck
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add teacher-slides/year2/science/AC9S2U01/slides
+          git rm .github/ac9s2u01-slides.zip.b64
+          git commit -m 'Add 27 AC9S2U01 WebP teacher slides'
+          git push
