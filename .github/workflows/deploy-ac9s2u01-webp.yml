@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '.github/ac9s2u01-slides.zip.b64'
+      - 'teacher-slides/year2/science/AC9S2U01/deploy-status.txt'
 
 permissions:
   contents: write
