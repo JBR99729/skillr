@@ -1,6 +1,9 @@
 name: Deploy AC9S2U01 WebP slides
 
 on:
+  pull_request:
+    paths:
+      - 'teacher-slides/year2/science/AC9S2U01/deploy-status.txt'
   push:
     paths:
       - '.github/ac9s2u01-slides.zip.b64'
@@ -15,6 +18,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: ${{ github.head_ref || github.ref_name }}
           fetch-depth: 0
       - name: Decode and install slides
         shell: bash
@@ -36,4 +40,4 @@ jobs:
           git add teacher-slides/year2/science/AC9S2U01/slides
           git rm .github/ac9s2u01-slides.zip.b64
           git commit -m 'Add 27 AC9S2U01 WebP teacher slides'
-          git push
+          git push origin HEAD:${{ github.head_ref || github.ref_name }}
