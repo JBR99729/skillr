@@ -19,15 +19,44 @@ SUBJECTS = (
     ("English", "english", "English"),
 )
 
+YEAR3_MATHS_DISPLAY_TITLES = {
+    "AC9M3N01": "Numbers beyond 10,000",
+    "AC9M3N02": "Unit fractions and completing a whole",
+    "AC9M3N03": "Addition and subtraction with place value",
+    "AC9M3N04": "Multiplication and division strategies",
+    "AC9M3N05": "Estimation and checking reasonableness",
+    "AC9M3N06": "Mathematical modelling with practical and money problems",
+    "AC9M3N07": "Number algorithms and patterns",
+    "AC9M3A01": "Addition and subtraction as inverse operations",
+    "AC9M3A02": "Mental addition and subtraction strategies",
+    "AC9M3A03": "Multiplication and division facts: 3, 4, 5 and 10",
+    "AC9M3M01": "Choosing metric units and estimating measurements",
+    "AC9M3M02": "Measuring length, mass and capacity",
+    "AC9M3M03": "Time units and duration",
+    "AC9M3M04": "Analog and digital time to the nearest minute",
+    "AC9M3M05": "Angles and turns",
+    "AC9M3M06": "Dollars and cents",
+    "AC9M3SP01": "Classifying objects by features and uses",
+    "AC9M3SP02": "Maps, landmarks and relative position",
+    "AC9M3ST01": "Collecting and recording data",
+    "AC9M3ST02": "Creating and comparing graphs",
+    "AC9M3ST03": "Statistical investigations",
+    "AC9M3P01": "Chance: likely, unlikely, certain and impossible",
+    "AC9M3P02": "Repeated chance experiments and variation",
+}
+
 
 def esc(value: object) -> str:
     return html.escape(str(value), quote=True)
 
 
 def display_title(unit: dict) -> str:
-    if unit["code"].startswith("AC9MF"):
+    code = unit["code"]
+    if code in YEAR3_MATHS_DISPLAY_TITLES:
+        return YEAR3_MATHS_DISPLAY_TITLES[code]
+    if code.startswith("AC9MF"):
         return unit["title"]
-    if unit["code"] == "AC9M10P01":
+    if code == "AC9M10P01":
         return "Conditional probability language: if-then, given, of and knowing that"
     description = str(unit.get("description") or unit.get("title") or "").strip().rstrip(" .")
     return description[:1].upper() + description[1:]
