@@ -12,7 +12,8 @@
   const DEFAULT_EMAIL = "skillrhublearning@gmail.com";
 
   function loadSharedEnhancement(src, dataAttribute) {
-    if (!window.skillrPageMeta?.curriculumCode || document.querySelector(`script[${dataAttribute}]`)) return;
+    const isCurriculumTopic = /\/(?:foundation|year\d+)\/(?:maths|science|english)\/ac9[a-z0-9]/i.test(window.location.pathname);
+    if ((!window.skillrPageMeta?.curriculumCode && !isCurriculumTopic) || document.querySelector(`script[${dataAttribute}]`)) return;
     const script = document.createElement("script");
     script.src = src;
     script.defer = true;
@@ -21,6 +22,7 @@
   }
 
   function loadCurriculumEnhancements() {
+    loadSharedEnhancement("/assets/student-learning-layer.js?v=1", "data-skillr-student-learning-layer");
     loadSharedEnhancement("/assets/international-curriculum-seo.js?v=1", "data-skillr-international-alignment");
     loadSharedEnhancement("/assets/curriculum-progression.js?v=1", "data-skillr-curriculum-progression");
     loadSharedEnhancement("/assets/f10-learning-path-links-loader.js?v=1", "data-skillr-learning-path-links");
