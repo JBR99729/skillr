@@ -36,10 +36,10 @@ for (const [code, spec] of Object.entries(specs)) {
   for (const bank of ["practice", "test"]) {
     const file = path.join(route, bank, "index.html");
     let html = fs.readFileSync(file, "utf8");
-    const attempt = bank === "practice" ? 8 : 12;
+    const attempt = 8;
     const count = bank === "practice" ? 24 : 16;
     html = html
-      .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${bank === "practice" ? `Practise ${spec.title} with 8 rotating questions from a 24-question bank.` : `Take a 12-question ${spec.title} test drawn from a separate 16-question bank.`}">`)
+      .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${bank === "practice" ? `Practise ${spec.title} with 8 rotating questions from a 24-question bank.` : `Take an 8-question ${spec.title} test drawn from a separate 16-question bank.`}">`)
       .replace(/<div class="quiz-summary">[\s\S]*?<\/div><button class="button button-primary"/, `<div class="quiz-summary"><div><span class="summary-number" id="questionCount">${attempt}</span><span class="summary-label">Questions this attempt</span></div><div><span class="summary-number">${count}</span><span class="summary-label">Question bank</span></div><div><span class="summary-number" id="bestScore">0</span><span class="summary-label">Best score</span></div></div><button class="button button-primary"`)
       .replace(/"maxQuestions":\d+/, `"maxQuestions":${attempt}`)
       .replace(/"shuffleQuestions":(?:true|false)/, `"shuffleQuestions":true`)
@@ -62,4 +62,4 @@ for (const [code, spec] of Object.entries(specs)) {
   }
 }
 
-console.log(JSON.stringify({ codes: Object.keys(specs).length, practiceAttempt: 8, testAttempt: 12, status: "PUBLISHED" }, null, 2));
+console.log(JSON.stringify({ codes: Object.keys(specs).length, practiceAttempt: 8, testAttempt: 8, status: "PUBLISHED" }, null, 2));

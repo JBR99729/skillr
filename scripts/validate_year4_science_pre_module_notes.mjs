@@ -82,7 +82,7 @@ for (const code of codes) {
     if (!configMatch) continue;
     const config = JSON.parse(configMatch[1]);
     const isPractice = mode === "practice";
-    const expectedQuestionCount = isPractice ? 8 : 12;
+    const expectedQuestionCount = 8;
     assert(config.skillCode === code, `${code} ${mode}: skill code mismatch`);
     assert(config.preModuleNotesRequired === true, `${code} ${mode}: mandatory gate not enabled`);
     assert(config.preReadSeconds === 0, `${code} ${mode}: artificial countdown must remain disabled`);
@@ -125,4 +125,4 @@ if (errors.length) {
 }
 console.log(`Year 4 Science pre-module notes: ${codes.length}/${codes.length} passing`);
 console.log(`Prose word counts: ${Object.entries(counts).map(([code, count]) => `${code} ${count}`).join(", ")}`);
-console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, 24 mandatory live launches, 8/12 selections, preserved 24/16 banks, shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");
+console.log("PASS: final visible-deck provenance, schema, 120–160 words, 60–75 seconds, 24 mandatory live launches, 8/8 selections, preserved 24/16 banks, shared source, TTS-safe prose, Quick Read preservation, worksheet exclusion and network-first freshness.");

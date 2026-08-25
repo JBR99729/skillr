@@ -15,7 +15,7 @@ const SUBJECT_FILTER = process.argv.find(value => value.startsWith("--subject=")
 const ACTIVE_SUBJECTS = SUBJECT_FILTER ? SUBJECTS.filter(([subject]) => subject === SUBJECT_FILTER) : SUBJECTS;
 if (SUBJECT_FILTER && !ACTIVE_SUBJECTS.length) throw new Error(`Unknown subject: ${SUBJECT_FILTER}`);
 const MINIMUM = { practice: 24, test: 16 };
-const ATTEMPT = { practice: 8, test: 12 };
+const ATTEMPT = { practice: 8, test: 8 };
 const GENERIC = [
   /which option best describes the skill being practised/i,
   /which task gives the best practice for this skill/i,
