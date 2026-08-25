@@ -1,0 +1,67 @@
+name: Clean Year 10 Worksheet CTA
+
+on:
+  push:
+    branches:
+      - fix/year10-homework-only
+    paths:
+      - '.github/workflows/cleanup-year10-worksheet-cta.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/year10-homework-only
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Remove visible Worksheet links and protect builder
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          removed = 0
+          pattern = re.compile(r'<a\b[^>]*href=["\']/quiz/year-10/math/ac9m10[^"\']+/worksheet/["\'][^>]*>\s*Worksheet\s*</a>', re.I)
+          for page in Path('year10/maths').glob('*/index.html'):
+              text = page.read_text()
+              new, n = pattern.subn('', text)
+              if n:
+                  page.write_text(new)
+                  removed += n
+
+          builder = Path('scripts/build_year10_static_v2.py')
+          text = builder.read_text()
+          replacement = '''    # Homework is the single visible written-work resource. Legacy worksheet\n    # routes remain noindex redirects to Homework for old links and bookmarks.\n    text = re.sub(\n        r'<a\\b[^>]*href=["\\\']/quiz/year-10/math/' + re.escape(code.lower()) + r'/worksheet/["\\\'][^>]*>\\s*Worksheet\\s*</a>',\n        '',\n        text,\n        flags=re.I,\n    )\n\n'''
+          text, n = re.subn(
+              r'    # Preserve existing resource links and add the existing worksheet route when absent\.\n[\s\S]*?(?=    # Existing 10-question bank)',
+              replacement,
+              text,
+              count=1,
+          )
+          if n != 1:
+              raise SystemExit('Could not replace Year 10 worksheet-link builder block')
+          builder.write_text(text)
+          print(f'Removed {removed} visible Worksheet links')
+          PY
+      - name: Guard diff
+        run: git diff --check
+      - name: Commit cleanup
+        shell: bash
+        run: |
+          git add year10/maths scripts/build_year10_static_v2.py
+          if git diff --cached --quiet; then
+            echo 'No cleanup changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Keep Homework as Year 10 written-work resource'
+          git push origin HEAD:fix/year10-homework-only
