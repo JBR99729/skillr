@@ -1,81 +1,31 @@
-# Year 9 STEM quality audit — August 2026
-
-## Scope and decision
-
-This preservation-first pass audited all 42 Year 9 Australian Curriculum v9 STEM codes: 23 Mathematics codes (104 elaborations) and 19 Science codes. The authored curriculum models, diagrams, explanations and resource wiring were retained unless a measurable learning or assessment problem was found.
-
-**Audit-before overall score: 8.2/10.** Mathematics Topic Guides had exact elaboration mappings and useful models, but several pages lacked concise revision notes and prominent question-and-answer consolidation. Eleven Mathematics question stems were duplicated or too close to another item, and one prompt contained malformed ellipsis punctuation. Science Topic Guides and banks were already strong. Dedicated daily drills existed at subject-skill level rather than one route per curriculum code.
-
-### Audit-before scores
-
-| Area | Mathematics | Science | Main finding |
-|---|---:|---:|---|
-| Topic Page | 7.9 | 8.8 | Maths needed stronger standalone consolidation; Science was already well sequenced and model-rich. |
-| Practice Bank | 8.2 | 8.8 | Full 24-item pools; a small number of Maths duplicate/near-duplicate stems needed correction. |
-| Test Bank | 8.3 | 8.8 | Separate 16-item pools; three Maths graph-transformation overlaps and one repeated triangle stem needed correction. |
-| Drill Bank | 8.6 | 8.7 | Ten Maths and ten Science skill drills, each with an eight-question attempt and 240-question rotating pool. |
-
-### What was already strong — KEEP AS IS
-
-- Exact AC v9 content descriptions and 104 Mathematics elaborations were mapped one-to-one to models, teaching steps and checkpoints.
-- All 19 Science units had explicit concept boundaries, elaboration teaching, worked examples, misconceptions, accessible model descriptions and mastery feedback.
-- Practice and Test were already separate and correctly sized: 24 Practice and 16 Test questions per code.
-- The runtime already selects exactly eight questions, balances coverage keys and inferred difficulty, and does not repeat an item until the eligible pool is exhausted.
-- Fixed Teacher Slides, branded Practice Sheets, breadcrumbs, Practice/Test links, feedback links and related-topic navigation were already wired.
-- Existing diagrams and model visuals were educational rather than decorative; adding stock imagery would not improve learning.
-
-### Weaknesses and worthwhile changes
-
-- Add code-specific Revision Notes and important questions with answers to all 23 Mathematics Topic Guides.
-- Replace generic/grammatically weak Maths success criteria with observable explanation, application and verification goals.
-- Present two high-value worked examples prominently on each Maths page while retaining the elaboration-level teaching models.
-- Rewrite only the 11 duplicated or near-duplicate Maths stems and repair the malformed statistics prompt.
-- Add a year selector to the upper-Maths builder so Year 9 can be regenerated without touching Year 10.
-
-### Changes not worth making
-
-- No wholesale Science rewrite: it would replace strong authored material without measurable benefit.
-- No question-count inflation: the 24/16 pools already support three Practice attempts and two Test attempts before repetition.
-- No decorative imagery. Existing labelled graphs, number lines, geometric models, tables and scientific diagrams are sufficient.
-- No per-code drill duplication. The skill-level drills deliberately combine prerequisite micro-skills and complement code-level Practice/Test.
-
-## Implementation report
-
-**Codes completed:** all 42 Year 9 STEM codes.
-
-- **Topic Page improvements:** all 23 Maths pages now include improved success criteria, two prominent code-specific worked examples, three Revision Notes and three important questions with answers. All 19 Science pages were retained.
-- **Practice Bank:** 1,008 → 1,008 questions (552 Maths; 456 Science).
-- **Test Bank:** 672 → 672 questions (368 Maths; 304 Science).
-- **Drill Bank:** 20 skill banks → 20 skill banks (10 Maths; 10 Science; 4,800 rotating questions in total).
-- **Questions retained:** 1,668 unchanged.
-- **Questions rewritten:** 12 Maths stems (11 duplicate/near-duplicate stems and one malformed prompt); answer keys and teaching explanations were retained where already correct.
-- **Questions removed:** 0.
-- **Questions added:** 0.
-- **Elaboration coverage:** Mathematics E1–En: 104/104 explicitly mapped; Science E1–En: all canonical Year 9 focuses represented.
-- **Diagrams/images:** no new images. Existing labelled mathematical and scientific model visuals were retained because they explain relationships; decorative assets were avoided.
-- **Homework/Practice Sheet:** existing branded printable resources and links retained.
-- **Other fixes:** Year 9-only generation option added; fixed slides regenerated from the canonical Maths data.
-- **Remaining concern:** repeated stem-family warnings remain in nine Maths fluency banks. These are deliberate variations of essential procedures rather than exact duplicates; the balanced eight-question selector reduces same-session clustering. Review again only if student-use analytics show fatigue.
-
-## Post-clean scoring
-
-| Major area | Score /10 | What prevents 10/10 |
-|---|---:|---|
-| Curriculum alignment | 9.2 | Classroom evidence across jurisdictions is still needed. |
-| Accuracy | 9.0 | Full human moderation of every numerical variant remains desirable before a formal school procurement claim. |
-| Question quality | 8.6 | Some procedural stem families are intentionally similar. |
-| Difficulty progression | 8.5 | Difficulty metadata is inferred in parts of the legacy Maths bank. |
-| Practice quality | 8.8 | Analytics should confirm the intended variation in real student sessions. |
-| Topic-page teaching quality | 8.8 | Some Maths elaboration explanations remain concise rather than full mini-lessons. |
-| Visual/diagram usage | 8.8 | Visual QA on the full device/browser matrix remains outstanding. |
-| Student experience | 8.7 | Needs student usability evidence. |
-| Teacher confidence | 8.8 | External teacher moderation would strengthen confidence further. |
-| Parent confidence | 8.7 | Parent-facing progress summaries are outside this content pass. |
-| Consistency | 8.8 | Maths and Science use different but appropriate canonical page systems. |
-| **Overall professional quality** | **8.8** | Strong and launch-credible; evidence from real classrooms, accessibility testing and analytics is required for 10/10. |
-
-## Priorities
-
-- **P0:** completed — exact/near duplicate stems and malformed punctuation repaired; eight-question/no-repeat runtime verified.
-- **P1:** completed — Maths standalone-learning consolidation added; authored Science retained.
-- **P2:** use student analytics to decide whether any deliberate procedural families feel repetitive; do not rewrite pre-emptively.
+"use strict";
+const raw=[
+[1,"Section A — Second differences and quadratic recognition","Second differences","A table has x-values 1, 2, 3, 4 and y-values 4, 7, 12, 19. What do the second differences show?",["Constant → quadratic","Constant → linear","Increasing → exponential","Zero → constant"],0,"The first differences are 3, 5, 7, so the second differences are 2 and 2. Constant second differences indicate a quadratic relation.","Find first differences first, then compare the second differences."],
+[2,"Section A — Second differences and quadratic recognition","Second differences","For y-values 2, 5, 10, 17, what is the constant second difference?",["2","3","4","5"],0,"The first differences are 3, 5, 7. The second differences are 2 and 2.","Subtract consecutive first differences."],
+[3,"Section A — Second differences and quadratic recognition","Quadratic recognition","If the first differences are 3, 5, 7, 9, what type of relation is suggested?",["Quadratic","Linear","Exponential","Constant"],0,"The first differences increase by a constant amount, so the second differences are constant. That suggests a quadratic relation.","Linear relations have constant first differences; quadratics have constant second differences."],
+[4,"Section A — Second differences and quadratic recognition","Leading coefficient","If the second differences are constant at 6 for consecutive x-values, what is the leading coefficient of the quadratic?",["3","6","2","1"],0,"For y = ax² + bx + c with unit x-steps, the constant second difference is 2a. If 2a = 6, then a = 3.","Second difference equals twice the coefficient of x²."],
+[5,"Section A — Second differences and quadratic recognition","Square-number pattern","The y-values 1, 4, 9, 16 come from which type of relation?",["Quadratic","Linear","Exponential","Cubic"],0,"These are square numbers: 1², 2², 3², 4², so they follow a quadratic pattern.","Square-number growth is quadratic."],
+[6,"Section A — Second differences and quadratic recognition","Second differences","For y-values 10, 7, 6, 7, what do the second differences show?",["Constant → quadratic","Zero → linear","Not constant → not quadratic","Constant → exponential"],0,"The first differences are −3, −1, 1. The second differences are 2 and 2, so the pattern is quadratic.","Negative first differences can still have constant second differences."],
+[7,"Section B — Graphing quadratics and features","Parabola opening","The graph of y = x² opens which way?",["Up","Down","Left","Right"],0,"The coefficient of x² is positive, so the parabola opens upward.","Positive x² coefficient means opens up."],
+[8,"Section B — Graphing quadratics and features","Parabola opening","The graph of y = −x² opens which way?",["Down","Up","Left","Right"],0,"The coefficient of x² is negative, so the parabola opens downward.","Negative x² coefficient means opens down."],
+[9,"Section B — Graphing quadratics and features","Turning point form","What is the turning point of y = (x − 3)² + 5?",["(3, 5)","(−3, 5)","(3, −5)","(5, 3)"],0,"In y = (x − h)² + k, the turning point is (h, k). Here h = 3 and k = 5.","Remember the sign inside the bracket is reversed."],
+[10,"Section B — Graphing quadratics and features","Axis of symmetry","What is the axis of symmetry of y = x² − 6x + 8?",["x = 3","x = 6","x = −3","x = 8"],0,"For ax² + bx + c, the axis is x = −b/(2a). Here x = −(−6)/(2×1) = 3.","The axis passes through the turning point."],
+[11,"Section B — Graphing quadratics and features","Minimum value","What is the minimum value of y = (x + 2)² − 7?",["−7","2","7","−2"],0,"The square term is always at least 0, so the smallest value is −7.","In turning point form, k is the minimum if the graph opens upward."],
+[12,"Section B — Graphing quadratics and features","Maximum value","What is the maximum value of y = −(x − 4)² + 9?",["9","−9","4","−4"],0,"The graph opens downward and has vertex (4, 9), so its maximum y-value is 9.","For a downward parabola, the vertex gives the maximum."],
+[13,"Section B — Graphing quadratics and features","Vertical shifts","Compared with y = x² − 4x + 10, how far below is y = x² − 4x + 3?",["7 units","3 units","10 units","4 units"],0,"The expressions differ only in the constant term: 10 − 3 = 7. The second graph is 7 units lower.","Compare the constant terms when the x² and x terms match."],
+[14,"Section B — Graphing quadratics and features","Perfect-square form","What is the turning point of y = x² + 2x + 1?",["(−1, 0)","(1, 0)","(−2, 1)","(0, −1)"],0,"x² + 2x + 1 = (x + 1)², so the turning point is (−1, 0).","Factor or complete the square."],
+[15,"Section B — Graphing quadratics and features","Minimum or maximum","The graph of y = x² + 5x + 6 has which feature?",["Minimum","Maximum","No turning point","Constant value"],0,"The coefficient of x² is positive, so the parabola opens upward and has a minimum.","Positive x² coefficient means a minimum turning point."],
+[16,"Section B — Graphing quadratics and features","Minimum or maximum","The graph of y = −x² + 4x − 1 has which feature?",["Maximum","Minimum","No turning point","Constant value"],0,"The coefficient of x² is negative, so the parabola opens downward and has a maximum.","Negative x² coefficient means a maximum turning point."],
+[17,"Section C — Solving quadratics algebraically","Solving by factorising","Solve x² − 5x + 6 = 0.",["x = 2, 3","x = −2, −3","x = 1, 6","No real solutions"],0,"x² − 5x + 6 = (x − 2)(x − 3), so x = 2 or x = 3.","Find two numbers that multiply to 6 and add to −5."],
+[18,"Section C — Solving quadratics algebraically","Solving by factorising","Solve x² + 3x − 10 = 0.",["x = 2, −5","x = −2, 5","x = 10, −1","No real solutions"],0,"x² + 3x − 10 = (x + 5)(x − 2), so x = −5 or x = 2.","Opposite signs mean one positive and one negative root."],
+[19,"Section C — Solving quadratics algebraically","Difference of squares","Solve x² − 9 = 0.",["x = ±3","x = 3 only","x = −3 only","No real solutions"],0,"x² − 9 = 0 gives x² = 9, so x = ±3.","Both positive and negative values square to 9."],
+[20,"Section C — Solving quadratics algebraically","Common factor","Solve x² − 4x = 0.",["x = 0, 4","x = −4, 0","x = 2","No real solutions"],0,"x² − 4x = x(x − 4), so x = 0 or x = 4.","Factor out the common x."],
+[21,"Section C — Solving quadratics algebraically","No real solutions","Solve x² + 1 = 0 over the real numbers.",["No real solutions","x = ±1","x = 0","x = ±i"],0,"x² = −1 has no real solution because no real number squares to −1.","Stay within the real number system for Year 9."],
+[22,"Section C — Solving quadratics algebraically","Solving by factorising","Solve x² − 7x + 12 = 0.",["x = 3, 4","x = −3, −4","x = 6, 2","No real solutions"],0,"x² − 7x + 12 = (x − 3)(x − 4), so x = 3 or x = 4.","Find two numbers that multiply to 12 and add to −7."],
+[23,"Section C — Solving quadratics algebraically","Difference of squares","Solve x² − 1 = 0.",["x = ±1","x = 1","x = −1","No real solutions"],0,"x² − 1 = (x − 1)(x + 1), so x = 1 or x = −1.","This is a difference of squares."],
+[24,"Section C — Solving quadratics algebraically","Repeated root","Solve x² − 10x + 25 = 0.",["x = 5","x = −5","x = ±5","No real solutions"],0,"x² − 10x + 25 = (x − 5)², so the repeated root is x = 5.","A perfect-square quadratic can touch the x-axis once."]
+];
+window.skillrPracticeQuestions=raw.map((q,i)=>({id:`ac9m9a04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M9A04",bank:"practice",section:q[1],sourceNumber:q[0],skill:q[2],printable:true,type:"single",question:q[3],audioPrompt:q[3],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[4],correct:q[5],explanation:`${q[6]}\nHint: ${q[7]}`,structuredExplanation:{summary:q[6],hint:q[7]},qualitySchema:"production-v1"}));
+window.skillrPracticeQuestions[7].question="A quadratic has leading coefficient −1. In which direction does its parabola open?";
+window.skillrPracticeQuestions[7].audioPrompt=window.skillrPracticeQuestions[7].question;
+window.quizQuestions=window.skillrPracticeQuestions;
