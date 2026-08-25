@@ -68,10 +68,10 @@ for (const [code, unit] of Object.entries(units)) {
     const file = path.join(route, bankName, "index.html");
     let html = fs.readFileSync(file, "utf8");
     const isTest = bankName === "test";
-    const attempt = isTest ? 12 : 8;
+    const attempt = 8;
     const bankCount = isTest ? testBankCount : practiceBankCount;
     const description = isTest
-      ? `Take a 12-question Year 3 ${unit.title} test drawn from a separate ${testBankCount}-question bank.`
+      ? `Take an 8-question Year 3 ${unit.title} test drawn from a separate ${testBankCount}-question bank.`
       : `Practise Year 3 ${unit.title} with rotating questions from a ${practiceBankCount}-question bank.`;
     html = html
       .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${description}">`)
@@ -99,4 +99,4 @@ for (const [code, unit] of Object.entries(units)) {
   }
 }
 
-console.log(JSON.stringify({ codes: Object.keys(units).length, defaultBanks: "24 Practice / 16 Test", AC9S3U04: "28 Practice / 28 Test", practiceAttempt: 8, testAttempt: 12, status: "PUBLISHED" }, null, 2));
+console.log(JSON.stringify({ codes: Object.keys(units).length, defaultBanks: "24 Practice / 16 Test", AC9S3U04: "28 Practice / 28 Test", practiceAttempt: 8, testAttempt: 8, status: "PUBLISHED" }, null, 2));

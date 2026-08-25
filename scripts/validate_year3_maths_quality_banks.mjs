@@ -10,6 +10,7 @@ const totals = { practice: 0, test: 0 };
 const allIds = new Set();
 const allPrompts = new Set();
 const norm = (value) => String(value).toLowerCase().replace(/[“”'’".,:;!?—–-]/g, " ").replace(/\s+/g, " ").trim();
+const liveCountOverrides = { AC9M3M03: { practice: 100, test: 28 }, AC9M3M04: { practice: 32, test: 24 } };
 
 for (const code of codes) {
   const file = path.join(BANK_ROOT, `${code.toLowerCase()}.json`);
@@ -50,10 +51,11 @@ for (const code of codes) {
   const practicePrompts = new Set(byBank.practice.map((item) => norm(item.question)));
   for (const item of byBank.test) if (practicePrompts.has(norm(item.question))) problems.push(`${code}: Practice/Test prompt overlap at ${item.id}`);
   const route = path.join(ROOT, "quiz", "year-3", "math", code.toLowerCase());
-  for (const [bank, attempt, count] of [["practice", 8, 24], ["test", 12, 16]]) {
+  for (const [bank, attempt, standardCount] of [["practice", 8, 24], ["test", 8, 16]]) {
+    const count = liveCountOverrides[code]?.[bank] || standardCount;
     const html = fs.readFileSync(path.join(route, bank, "index.html"), "utf8");
-    if (!html.includes(`"maxQuestions":${attempt}`) || !html.includes('"shuffleQuestions":true') || !html.includes('"questionCycle":true')) problems.push(`${code} ${bank}: attempt rotation config mismatch`);
-    if (!html.includes(`>${count}</span><span class="summary-label">Question bank`)) problems.push(`${code} ${bank}: bank count presentation mismatch`);
+    if (!new RegExp(`maxQuestions["']?\\s*:\\s*${attempt}`).test(html) || !/shuffleQuestions["']?\s*:\s*true/.test(html) || !/questionCycle["']?\s*:\s*true/.test(html)) problems.push(`${code} ${bank}: attempt rotation config mismatch`);
+    if (!new RegExp(`>${count}<\\/span><span class="summary-label">(?:Curated )?Question bank`, "i").test(html)) problems.push(`${code} ${bank}: bank count presentation mismatch`);
     if (/\.\.\.|…/.test((html.match(/<h1[^>]*>(.*?)<\/h1>/) || [])[1] || "")) problems.push(`${code} ${bank}: truncated heading`);
     for (const script of [path.join(route, bank, "questions.js"), ...(bank === "practice" ? [path.join(route, bank, "practice-questions.js")] : [])]) {
       try { execFileSync(process.execPath, ["--check", script], { stdio: "pipe" }); } catch { problems.push(`${code} ${bank}: invalid generated JavaScript ${path.basename(script)}`); }
@@ -69,4 +71,4 @@ if (problems.length) {
   console.error(problems.join("\n"));
   process.exit(1);
 }
-console.log(JSON.stringify({ status: "PASS", codes: `${codes.length}/${codes.length}`, totals, combined: totals.practice + totals.test, checks: ["schema", "syntax", "unique IDs", "unique prompts", "Practice/Test separation", "3 options", "answer keys", "balanced correct positions", "visual paths", "SVG symbols", "alt text", "audio prompts", "full headings", "8/12 rotation"] }, null, 2));
+console.log(JSON.stringify({ status: "PASS", codes: `${codes.length}/${codes.length}`, totals, combined: totals.practice + totals.test, checks: ["schema", "syntax", "unique IDs", "unique prompts", "Practice/Test separation", "3 options", "answer keys", "balanced correct positions", "visual paths", "SVG symbols", "alt text", "audio prompts", "full headings", "8/8 rotation"] }, null, 2));
