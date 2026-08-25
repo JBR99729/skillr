@@ -18,5 +18,7 @@ const raw=[
 [40,"Section F — Biltmore stick, density and autonomous systems","Scaled maps","Why do autonomous vehicles use scale?",["Maps must be scaled representations","Scale is irrelevant","Scale breaks sensors","Sensors use only colours"],0,"Digital maps represent real distances using scale, so the vehicle can relate map distances to real-world movement.","A map is not life-size; it uses scale."]
 ];
 window.skillrTestQuestions=raw.map(([sourceNumber,section,skill,question,answers,correct,explanation,hint])=>({id:`ac9m9m03-t-${String(sourceNumber-24).padStart(3,"0")}`,curriculumCode:"AC9M9M03",bank:"test",section,sourceNumber,skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation:`${explanation}\nHint: ${hint}`,structuredExplanation:{summary:explanation,hint},qualitySchema:"production-v1"}));
+window.skillrTestQuestions[11].question="A triangle has side lengths 5 cm, 6 cm and 9 cm. Since 9² > 5² + 6², how is the triangle classified?";
+window.skillrTestQuestions[11].audioPrompt=window.skillrTestQuestions[11].question;
 window.skillrExamQuestions=window.skillrTestQuestions;
 window.quizQuestions=window.skillrTestQuestions;

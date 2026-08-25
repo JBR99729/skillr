@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import html
 import json
+import sys
 from pathlib import Path
 
 from upper_maths_authored import AUTHORED, CORE, HEADINGS
@@ -35,6 +36,32 @@ def build_year(all_units: list[dict], year: int) -> None:
     for code, unit in units.items():
         title, anchor = CORE[code]
         output[code] = build_spec(unit, title, anchor, HEADINGS[code], AUTHORED.get(code))
+        spec = output[code]
+        first = spec["teachingSlides"][0]
+        last = spec["teachingSlides"][-1]
+        spec["successCriteria"] = [
+            f"Explain the central relationship in {title.lower()} using correct mathematical language.",
+            f"Apply the worked methods for {first['heading'].lower()} and {last['heading'].lower()} to unfamiliar examples.",
+            "Check the result using substitution, estimation, an inverse operation or another representation.",
+        ]
+        spec["workedExamples"] = [
+            {
+                "title": first["heading"],
+                "example": first["highlight"],
+                "teacherLanguage": first["ask"],
+            },
+            {
+                "title": last["heading"],
+                "example": last["highlight"],
+                "teacherLanguage": last["ask"],
+            },
+        ]
+        spec["revisionNotes"] = [anchor, first["highlight"], last["highlight"]]
+        spec["importantQuestions"] = [
+            {"question": f"What is the central idea in {title}?", "answer": anchor},
+            {"question": first["ask"], "answer": first["answer"]},
+            {"question": last["ask"], "answer": last["answer"]},
+        ]
     payload = json.dumps(output, ensure_ascii=False, separators=(",", ":"))
     (ROOT / f"assets/year{year}-maths-data.js").write_text(f"window.SkillrUpperMathsData={payload};\n")
     for code, unit in units.items():
@@ -58,7 +85,10 @@ def build_year(all_units: list[dict], year: int) -> None:
 
 def build() -> None:
     source = json.loads((ROOT / "data/curriculum-units.json").read_text())
-    for year in (9, 10):
+    requested = next((int(arg.split("=", 1)[1]) for arg in sys.argv[1:] if arg.startswith("--year=")), None)
+    if requested not in (None, 9, 10):
+        raise ValueError("Use --year=9 or --year=10")
+    for year in ((requested,) if requested else (9, 10)):
         build_year(source["units"], year)
 
 

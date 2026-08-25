@@ -26,3 +26,5 @@ const Q=[
 ["total","Final energy values are solar 150, wind 120 and hydro 210 GWh. What is the total?",["480 GWh","450 GWh","420 GWh","500 GWh"],0,"150 + 120 + 210 = 480 GWh.","Add the components." ]
 ];
 window.skillrPracticeQuestions=Q.map((q,i)=>({id:`ac9m9st04-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M9ST04",bank:"practice",skill:q[0],printable:true,type:"single",question:q[1],audioPrompt:q[1],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[2],correct:q[3],explanation:q[4],hint:q[5]}));
+window.skillrPracticeQuestions[10].question="A class records how many siblings each student has, with values such as 0, 1, 2 and 3. Which display is especially useful for showing the individual distribution in this small dataset?";
+window.skillrPracticeQuestions[10].audioPrompt=window.skillrPracticeQuestions[10].question;
