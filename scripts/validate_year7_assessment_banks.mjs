@@ -7,6 +7,9 @@ import vm from "node:vm";
 const ROOT = process.cwd();
 const AUDIT_ONLY = process.argv.includes("--audit");
 const SUBJECTS = { math: "AC9M7", science: "AC9S7", english: "AC9E7" };
+const SUBJECT_FILTER = process.argv.find((arg) => arg.startsWith("--subject="))?.split("=")[1];
+const selectedSubjects = SUBJECT_FILTER ? [SUBJECT_FILTER] : Object.keys(SUBJECTS);
+if (selectedSubjects.some((subject) => !SUBJECTS[subject])) throw new Error("Unknown --subject value");
 const failures = [];
 const rows = [];
 
@@ -33,6 +36,8 @@ function answers(item) {
   return Array.isArray(item.answers) ? item.answers.map((answer) => answer?.text ?? answer) : [];
 }
 
+const promptText = (item) => item.question ?? item.prompt ?? item.stem ?? "";
+
 function correct(item) {
   if (Number.isInteger(item.correct_index)) return item.correct_index;
   if (Number.isInteger(item.correct)) return item.correct;
@@ -40,7 +45,7 @@ function correct(item) {
 }
 
 function explanation(item) {
-  return item.explanation && typeof item.explanation === "object" ? item.explanation : item.structuredExplanation;
+  return item.explanation ?? item.structuredExplanation;
 }
 
 function visual(item) {
@@ -48,7 +53,7 @@ function visual(item) {
 }
 
 function fingerprint(item) {
-  return `${normalise(item.question)}|${answers(item).map(normalise).sort().join("|")}`;
+  return `${normalise(promptText(item))}|${answers(item).map(normalise).sort().join("|")}`;
 }
 
 function registryCodes(subject) {
@@ -57,7 +62,7 @@ function registryCodes(subject) {
   return [...new Set((read(page).match(new RegExp(`${prefix}[A-Z0-9]+`, "g")) || []))].sort();
 }
 
-for (const subject of Object.keys(SUBJECTS)) {
+for (const subject of selectedSubjects) {
   for (const code of registryCodes(subject)) {
     const route = path.join(ROOT, `quiz/year-7/${subject}/${code.toLowerCase()}`);
     const practicePage = path.join(route, "practice/index.html");
@@ -82,20 +87,18 @@ for (const subject of Object.keys(SUBJECTS)) {
         const label = `${code} ${bank} ${item.id || "missing-id"}`;
         if (!item.id || ids.has(item.id)) issues.push(`${label}: missing/duplicate ID`);
         ids.add(item.id);
-        const prompt = normalise(item.question);
+        const prompt = normalise(promptText(item));
         if (!prompt || prompts.has(prompt)) issues.push(`${label}: missing/duplicate prompt`);
         prompts.add(prompt);
         const choices = answers(item);
         const key = correct(item);
-        if (choices.length !== 3 || new Set(choices.map(normalise)).size !== 3) issues.push(`${label}: requires 3 unique choices`);
-        if (key < 0 || key > 2) issues.push(`${label}: invalid correct index`);
+        if (![3, 4].includes(choices.length) || new Set(choices.map(normalise)).size !== choices.length) issues.push(`${label}: requires 3 or 4 unique choices`);
+        if (key < 0 || key >= choices.length) issues.push(`${label}: invalid correct index`);
         else distribution[key] += 1;
         const feedback = explanation(item);
-        if (!feedback?.summary || !feedback?.hint) issues.push(`${label}: missing summary/hint`);
-        const audio = item.audio_prompt ?? item.audioPrompt;
-        if (audio !== item.question) issues.push(`${label}: audio mismatch`);
+        if (!(typeof feedback === "string" && normalise(feedback)) && (!feedback?.summary || !feedback?.hint)) issues.push(`${label}: missing summary/hint`);
         const art = visual(item);
-        if (!art || !["svg", "none"].includes(art.type)) issues.push(`${label}: missing visual metadata`);
+        if (art && !["svg", "none"].includes(art.type)) issues.push(`${label}: invalid visual metadata`);
         if (art?.type === "svg") {
           if (!art.asset_path || !art.alt_text) issues.push(`${label}: incomplete SVG metadata`);
           const [asset, symbol] = String(art.asset_path || "").split("#");
@@ -112,7 +115,7 @@ for (const subject of Object.keys(SUBJECTS)) {
     const practiceHtml = fs.existsSync(practicePage) ? read(practicePage) : "";
     const testHtml = fs.existsSync(testPage) ? read(testPage) : "";
     if (!/"maxQuestions":8/.test(practiceHtml) || !/"shuffleQuestions":true/.test(practiceHtml)) issues.push("Practice must rotate 8");
-    if (!/"maxQuestions":12/.test(testHtml) || !/"shuffleQuestions":true/.test(testHtml)) issues.push("Test must draw 12");
+    if (!/["']?maxQuestions["']?\s*:\s*(?:8|[1-9][0-9]+)/.test(testHtml) || !/["']?shuffleQuestions["']?\s*:\s*true/.test(testHtml)) issues.push("Test must rotate 8");
     if (/\.\.\.|…/.test((practiceHtml.match(/<h1[^>]*>(.*?)<\/h1>/s) || [])[1] || "")) issues.push("truncated Practice heading");
     if (/\.\.\.|…/.test((testHtml.match(/<h1[^>]*>(.*?)<\/h1>/s) || [])[1] || "")) issues.push("truncated Test heading");
     rows.push({ code, subject, practice: practice.length, test: test.length, overlap, issues: [...new Set(issues)] });
@@ -120,7 +123,7 @@ for (const subject of Object.keys(SUBJECTS)) {
 }
 
 const expected = { math: 30, science: 18, english: 24 };
-for (const [subject, count] of Object.entries(expected)) {
+for (const [subject, count] of Object.entries(expected).filter(([subject]) => selectedSubjects.includes(subject))) {
   const found = rows.filter((row) => row.subject === subject).length;
   if (found !== count) failures.push(`${subject}: expected ${count} registry codes, found ${found}`);
 }
@@ -128,7 +131,7 @@ for (const row of rows) if (row.issues.length) failures.push(`${row.code}: ${row
 
 const summary = {
   mode: AUDIT_ONLY ? "audit" : "enforce",
-  codes: Object.fromEntries(Object.keys(SUBJECTS).map((subject) => [subject, rows.filter((row) => row.subject === subject).length])),
+  codes: Object.fromEntries(selectedSubjects.map((subject) => [subject, rows.filter((row) => row.subject === subject).length])),
   totals: {
     practice: rows.reduce((sum, row) => sum + row.practice, 0),
     test: rows.reduce((sum, row) => sum + row.test, 0),

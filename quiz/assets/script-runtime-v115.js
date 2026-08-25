@@ -307,6 +307,23 @@ document.addEventListener("DOMContentLoaded", () => {
   );
   const isEightQuestionActivity = Boolean(activityMatch);
 
+  // Year 7 legacy launch pages include some stale generated copy. Preserve the
+  // authored banks and Topic Guides, but do not show unrelated English notes
+  // or a "Maths" label on Science.
+  if (/\/quiz\/year-7\/(?:math|science)\//i.test(window.location.pathname)) {
+    const quickRead = document.querySelector(".pre-read-notes");
+    if (quickRead?.textContent?.includes("Formality is a continuum")) {
+      quickRead.remove();
+    }
+    if (/\/quiz\/year-7\/science\//i.test(window.location.pathname)) {
+      document.querySelectorAll(".quiz-breadcrumb a").forEach((link) => {
+        if (/AC9S7[A-Z0-9]+ Maths/.test(link.textContent || "")) {
+          link.textContent = link.textContent.replace(/ Maths$/, " Science");
+        }
+      });
+    }
+  }
+
   if (isWarmupMode) {
     config.maxQuestions = 1;
     config.questionCycle = false;
@@ -318,6 +335,8 @@ document.addEventListener("DOMContentLoaded", () => {
     config.maxQuestions = 8;
     config.shuffleQuestions = true;
     config.questionCycle = questions.length > 8;
+    const displayedCount = document.getElementById("questionCount");
+    if (displayedCount) displayedCount.textContent = "8";
   }
 
   if (/\/daily-drills\//i.test(window.location.pathname)) {
