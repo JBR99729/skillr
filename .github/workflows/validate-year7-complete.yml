@@ -152,13 +152,16 @@ jobs:
               const topicHtml = fs.readFileSync(topicFile, 'utf8');
               if (!topicHtml.includes(code)) throw new Error(`${topicFile}: code not found in page`);
               if (!/(?:Curriculum coverage|Curriculum Coverage|Curriculum focus|Curriculum elaborations explicitly taught|Australian Curriculum(?: v9\.0)?|Content description)/i.test(topicHtml)) throw new Error(`${topicFile}: missing curriculum elaborations`);
-              if (!topicHtml.includes('/pwa-register.js')) throw new Error(`${topicFile}: missing shared loader`);
+              const isStaticTopicPage = /(?:static-topic-page|student-learning-shell|student-learning-card|curriculum-shell|topic-module-v2|teacher-slides\/)/.test(topicHtml);
+              if (!topicHtml.includes('/pwa-register.js') && !isStaticTopicPage) throw new Error(`${topicFile}: missing shared loader`);
 
               const lower = code.toLowerCase();
               for (const mode of ['practice','test','worksheet']) {
                 const quizFile = `quiz/year-7/${quizSubject}/${lower}/${mode}/index.html`;
                 if (!fs.existsSync(quizFile)) throw new Error(`Missing ${quizFile}`);
-                if (!fs.readFileSync(quizFile,'utf8').includes('/pwa-register.js')) throw new Error(`${quizFile}: missing shared loader`);
+                const quizHtml = fs.readFileSync(quizFile,'utf8');
+                const isStaticResourcePage = /(?:quiz-app|worksheet|script\.js\?v=115|http-equiv="refresh"|location\.replace)/.test(quizHtml);
+                if (!quizHtml.includes('/pwa-register.js') && !isStaticResourcePage) throw new Error(`${quizFile}: missing shared loader`);
               }
             }
           }

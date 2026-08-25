@@ -332,11 +332,16 @@ document.addEventListener("DOMContentLoaded", () => {
     config.preReadSeconds = 0;
     config.resultUrl = "";
   } else if (isEightQuestionActivity) {
-    config.maxQuestions = 8;
+    const configuredQuestionCount = Number(config.maxQuestions);
+    const selectedQuestionCount =
+      Number.isInteger(configuredQuestionCount) && configuredQuestionCount > 0
+        ? configuredQuestionCount
+        : 8;
+    config.maxQuestions = selectedQuestionCount;
     config.shuffleQuestions = true;
-    config.questionCycle = questions.length > 8;
+    config.questionCycle = questions.length > selectedQuestionCount;
     const displayedCount = document.getElementById("questionCount");
-    if (displayedCount) displayedCount.textContent = "8";
+    if (displayedCount) displayedCount.textContent = String(selectedQuestionCount);
   }
 
   if (/\/daily-drills\//i.test(window.location.pathname)) {
