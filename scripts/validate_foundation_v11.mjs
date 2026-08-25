@@ -7,6 +7,8 @@ import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const errors = [];
+// Keep this validator in the Foundation workflow trigger list because the
+// pre-module release gate re-runs the canonical v1.1 rollout checks.
 
 globalThis.window = globalThis;
 globalThis.location = { pathname: "/", search: "" };
