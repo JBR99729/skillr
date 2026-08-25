@@ -3,6 +3,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { profiles } from './upper_science_profiles.mjs';
 import { year10ScienceConfig as config } from './year10_science_static_v2_config.mjs';
+import { year10ScienceQuestions as questionConfig } from './year10_science_static_v2_questions.mjs';
 
 const ROOT = process.cwd();
 const INDEX = path.join(ROOT, 'year10/curriculum/science/index.html');
@@ -104,12 +105,16 @@ function renderPage(u){
   const learnBody = `<p>${esc(profile.subtitle)}</p><h3>By the end of this lesson, you should be able to:</h3>${bullets(profile.mustTeach.map(x=>esc(x)))}`;
   const teachingBody = `<p><strong>Learning sequence:</strong> ${esc(profile.progression.join(' → '))}</p><h3>Core teaching</h3>${bullets(profile.mustTeach.map(x=>esc(x)))}<h3>Key vocabulary and ideas</h3>${bullets(profile.labels.map(x=>`<strong>${esc(x)}</strong>`))}${cheat ? `<h3>Useful legacy quick-reference material</h3>${cheat}` : ''}`;
   const examplesBody = `${diagramFor(u.code)}${workedLegacy || `<article class="curriculum-worked-example"><h3>Worked reasoning model</h3>${numbered(profile.worked.map(x=>esc(x)))}</article>`}`;
-  const misconceptionsBody = `${misconceptionLegacy || bullets(profile.misconceptions.map(([a,b])=>`<strong>${esc(a)}:</strong> ${esc(b)}`))}<p class="science-v2-note"><strong>Keep the Year 10 boundary:</strong> ${esc(profile.mustNot.join(' '))}</p>`;
+  const misconceptionsBody = `${misconceptionLegacy || bullets(profile.misconceptions.map(([a,b])=>`<strong>${esc(String(a).replace(/[.:]+$/,''))}:</strong> ${esc(b)}`))}<p class="science-v2-note"><strong>Keep the Year 10 boundary:</strong> ${esc(profile.mustNot.join(' '))}</p>`;
   const guidedBody = `${numbered(profile.warmUp.map(x=>esc(x)))}${learningSequence ? `<h3>Retained teaching sequence</h3>${learningSequence}` : `<p>Work through the sequence <strong>${esc(profile.progression.join(' → '))}</strong>, explaining the evidence or mechanism at each step before moving on.</p>`}`;
-  const independentBody = independent.length ? `<ol>${independent.map(x=>`<li>${x}</li>`).join('')}</ol>` : bullets(profile.mustTeach.map(x=>`Explain and apply: ${esc(x)}`));
+  const authoredIndependent = questionConfig[u.code]?.independent || [];
+const independentBody = independent.length ? `<ol>${independent.map(x=>`<li>${x}</li>`).join('')}</ol>` : (authoredIndependent.length ? numbered(authoredIndependent.map(x=>esc(x))) : bullets(profile.mustTeach.map(x=>`Explain and apply: ${esc(x)}`)));
   const reasoningBody = `<p>${esc(cfg.reasoning)}</p><p class="science-v2-note"><strong>Reasoning standard:</strong> state the claim, use relevant evidence or a scientific mechanism, and explain why the evidence supports the conclusion without overclaiming.</p>`;
-  const importantBody = `<dl><dt><strong>What is the central idea?</strong></dt><dd>${esc(profile.subtitle)}</dd><dt><strong>What should a strong response do?</strong></dt><dd>Follow ${esc(profile.progression.join(' → '))} and connect the evidence, mechanism or data to the claim.</dd><dt><strong>What common trap should I avoid?</strong></dt><dd>${esc(profile.misconceptions?.[0]?.[0] || profile.mustNot?.[0] || 'Do not overclaim beyond the evidence.')}: ${esc(profile.misconceptions?.[0]?.[1] || '')}</dd></dl>`;
-  const assessmentQs = assessment.length ? assessment : (profile.assignment?.extendedResponse || []).slice(0,4).map(q=>esc(q.prompt));
+  const trapTitle = String(profile.misconceptions?.[0]?.[0] || profile.mustNot?.[0] || 'Do not overclaim beyond the evidence').replace(/[.:]+$/,'');
+const trapFix = profile.misconceptions?.[0]?.[1] || 'Check the claim against the evidence and state any limitation.';
+const importantBody = `<dl><dt><strong>What is the central idea?</strong></dt><dd>${esc(profile.subtitle)}</dd><dt><strong>What should a strong response do?</strong></dt><dd>Use the sequence ${esc(profile.progression.join(' → '))}. Connect the evidence, mechanism or data to the claim.</dd><dt><strong>What common trap should I avoid?</strong></dt><dd><strong>${esc(trapTitle)}:</strong> ${esc(trapFix)}</dd></dl>`;
+  const authoredAssessment = questionConfig[u.code]?.assessment || [];
+const assessmentQs = assessment.length ? assessment : (authoredAssessment.length ? authoredAssessment.map(x=>esc(x)) : (profile.assignment?.extendedResponse || []).slice(0,4).map(q=>esc(q.prompt)));
   const answerKey = solutionItems.length ? `<details class="science-answer-key"><summary>Model answers to the retained legacy question set</summary><ol>${solutionItems.map(x=>`<li>${x}</li>`).join('')}</ol></details>` : '';
   const assessmentBody = `${assessmentQs.length ? `<ol>${assessmentQs.map(x=>`<li>${x}</li>`).join('')}</ol>` : `<p>Write a short evidence-based response applying the lesson idea to an unfamiliar Year 10 context.</p>`}<p><strong>Review hint:</strong> Use precise scientific vocabulary, show the relevant mechanism or evidence, and state any limitation or uncertainty when the evidence does not justify a stronger claim.</p>${answerKey}`;
   const masteryBody = `${masteryLegacy || `<ul class="curriculum-check-list">${profile.mustTeach.map(x=>`<li>I can ${esc(x.charAt(0).toLowerCase()+x.slice(1))}</li>`).join('')}</ul>`}<p><strong>Exit ticket:</strong> Explain the core idea in 3–5 sentences and apply it to one new example without copying the worked model.</p>`;
