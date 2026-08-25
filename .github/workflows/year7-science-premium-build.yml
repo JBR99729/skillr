@@ -9,6 +9,14 @@ on:
       - scripts/run_year7_science_premium.py
       - assets/year7-science-premium.css
       - .github/workflows/year7-science-premium-build.yml
+  pull_request:
+    branches:
+      - main
+    paths:
+      - scripts/upgrade_year7_science_premium.py
+      - scripts/run_year7_science_premium.py
+      - assets/year7-science-premium.css
+      - .github/workflows/year7-science-premium-build.yml
   workflow_dispatch:
 
 permissions:
