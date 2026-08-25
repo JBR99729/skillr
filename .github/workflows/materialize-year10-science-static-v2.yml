@@ -22,68 +22,31 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Align durable builder with authored question supplements
+      - name: Polish durable Year 10 Science builder
         run: |
           python - <<'PY'
           from pathlib import Path
           p = Path('scripts/build_year10_science_static_v2.mjs')
           s = p.read_text()
-
-          marker = "import { year10ScienceConfig as config } from './year10_science_static_v2_config.mjs';"
-          qimport = "import { year10ScienceQuestions as questionConfig } from './year10_science_static_v2_questions.mjs';"
-          if qimport not in s:
-              if marker not in s:
-                  raise SystemExit('Year 10 Science config import marker not found')
-              s = s.replace(marker, marker + "\n" + qimport)
-
-          s = s.replace(
-              "section('learn','What you will learn',learnBody,true)",
-              "section('learn','Learning goals: What you will learn',learnBody,true)"
-          )
-
-          old_independent = """  const independentBody = independent.length ? `<ol>${independent.map(x=>`<li>${x}</li>`).join('')}</ol>` : bullets(profile.mustTeach.map(x=>`Explain and apply: ${esc(x)}`));"""
-          new_independent = """  const authoredIndependent = questionConfig[u.code]?.independent || [];
-          const independentBody = independent.length ? `<ol>${independent.map(x=>`<li>${x}</li>`).join('')}</ol>` : (authoredIndependent.length ? numbered(authoredIndependent.map(x=>esc(x))) : bullets(profile.mustTeach.map(x=>`Explain and apply: ${esc(x)}`)));"""
-          if old_independent in s:
-              s = s.replace(old_independent, new_independent)
-          elif 'const authoredIndependent = questionConfig[u.code]?.independent || [];' not in s:
-              raise SystemExit('Independent-practice builder marker not found')
-
-          old_assessment = """  const assessmentQs = assessment.length ? assessment : (profile.assignment?.extendedResponse || []).slice(0,4).map(q=>esc(q.prompt));"""
-          new_assessment = """  const authoredAssessment = questionConfig[u.code]?.assessment || [];
-          const assessmentQs = assessment.length ? assessment : (authoredAssessment.length ? authoredAssessment.map(x=>esc(x)) : (profile.assignment?.extendedResponse || []).slice(0,4).map(q=>esc(q.prompt)));"""
-          if old_assessment in s:
-              s = s.replace(old_assessment, new_assessment)
-          elif 'const authoredAssessment = questionConfig[u.code]?.assessment || [];' not in s:
-              raise SystemExit('Assessment builder marker not found')
-
-          s = s.replace(
-              "bullets(profile.misconceptions.map(([a,b])=>`<strong>${esc(a)}:</strong> ${esc(b)}`))",
-              "bullets(profile.misconceptions.map(([a,b])=>`<strong>${esc(String(a).replace(/[.:]+$/,''))}:</strong> ${esc(b)}`))"
-          )
-
-          old_important = """  const importantBody = `<dl><dt><strong>What is the central idea?</strong></dt><dd>${esc(profile.subtitle)}</dd><dt><strong>What should a strong response do?</strong></dt><dd>Follow ${esc(profile.progression.join(' → '))} and connect the evidence, mechanism or data to the claim.</dd><dt><strong>What common trap should I avoid?</strong></dt><dd>${esc(profile.misconceptions?.[0]?.[0] || profile.mustNot?.[0] || 'Do not overclaim beyond the evidence.')}: ${esc(profile.misconceptions?.[0]?.[1] || '')}</dd></dl>`;"""
-          new_important = """  const trapTitle = String(profile.misconceptions?.[0]?.[0] || profile.mustNot?.[0] || 'Do not overclaim beyond the evidence').replace(/[.:]+$/,'');
-          const trapFix = profile.misconceptions?.[0]?.[1] || 'Check the claim against the evidence and state any limitation.';
-          const importantBody = `<dl><dt><strong>What is the central idea?</strong></dt><dd>${esc(profile.subtitle)}</dd><dt><strong>What should a strong response do?</strong></dt><dd>Use the sequence ${esc(profile.progression.join(' → '))}. Connect the evidence, mechanism or data to the claim.</dd><dt><strong>What common trap should I avoid?</strong></dt><dd><strong>${esc(trapTitle)}:</strong> ${esc(trapFix)}</dd></dl>`;"""
-          if old_important in s:
-              s = s.replace(old_important, new_important)
-          elif 'const trapTitle =' not in s:
-              raise SystemExit('Important-question builder marker not found')
-
+          old = "profile.mustTeach.map(x=>`<li>I can ${esc(x.charAt(0).toLowerCase()+x.slice(1))}</li>`)"
+          new = "profile.mustTeach.map(x=>`<li><strong>I can explain and apply:</strong> ${esc(x)}</li>`)"
+          if old in s:
+              s = s.replace(old, new)
+          elif '<strong>I can explain and apply:</strong>' not in s:
+              raise SystemExit('Mastery-list builder marker not found')
           p.write_text(s)
           PY
       - name: Build Year 10 Science static v2 pages
         run: node scripts/build_year10_science_static_v2.mjs
       - name: Guard generated diff
         run: git diff --check
-      - name: Commit generated Year 10 Science pages and durable builder locally
+      - name: Commit polished Year 10 Science pages and durable builder locally
         shell: bash
         run: |
           git add year10/science scripts/build_year10_science_static_v2.mjs
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Strengthen Year 10 Science static v2 learning tasks'
+          git commit -m 'Polish Year 10 Science mastery wording'
       - name: Validate static curriculum architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
       - name: Validate locked F-10 topic learning order
