@@ -1,0 +1,58 @@
+name: Build Year 7 Science premium topic pages
+
+on:
+  push:
+    branches:
+      - agent/year7-science-premium-topic-pages
+    paths:
+      - scripts/upgrade_year7_science_premium.py
+      - scripts/run_year7_science_premium.py
+      - assets/year7-science-premium.css
+      - .github/workflows/year7-science-premium-build.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: agent/year7-science-premium-topic-pages
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image dependency
+        run: python -m pip install --disable-pip-version-check pillow==11.3.0
+      - name: Generate static HTML and WebP teaching diagrams
+        run: python scripts/run_year7_science_premium.py
+      - name: Verify changed scope and image payloads
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          files=list(Path('assets/illustrations/science').glob('*.webp'))
+          assert files, 'No WebP diagrams generated'
+          for f in files:
+              assert f.stat().st_size <= 60*1024, f'{f} exceeds 60 KB'
+          print('WebP payload check PASS')
+          PY
+          git diff --check
+      - name: Commit generated static outputs
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add year7/science assets/illustrations/science
+          if git diff --cached --quiet; then
+            echo 'No generated changes to commit'
+          else
+            git commit -m 'Upgrade all Year 7 Science topic pages'
+            git push origin HEAD:agent/year7-science-premium-topic-pages
+          fi
