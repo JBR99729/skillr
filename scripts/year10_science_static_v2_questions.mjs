@@ -1,4 +1,95 @@
 export const year10ScienceQuestions = {
+  AC9S10U01: {
+    independent: [
+      'Distinguish DNA, a gene and a chromosome, and explain how the three ideas are related.',
+      'Compare mitosis and meiosis in terms of purpose, number of divisions and genetic similarity of the resulting cells.',
+      'For a cross Aa × Aa, determine the expected genotype ratio and explain why this is a probability rather than a guaranteed family outcome.',
+      'Explain how meiosis contributes to genetic variation in sexually reproducing populations.'
+    ],
+    assessment: [
+      'A student says, “A child receives half of each gene from each parent.” Correct the statement using chromosomes, alleles and meiosis.',
+      'Use a Punnett square and a short explanation to predict the possible offspring from two heterozygous parents, then state one limitation of the prediction.',
+      'Explain how mitosis maintains genetic information for growth while meiosis and fertilisation contribute to inheritance and variation.'
+    ]
+  },
+  AC9S10U02: {
+    independent: [
+      'Explain why heritable variation must exist before natural selection can change a population.',
+      'Distinguish a selection pressure from an adaptation using one biological example.',
+      'Explain antibiotic resistance without saying that individual bacteria changed because they needed to survive.',
+      'Name two independent lines of evidence for evolution and explain what each contributes to the theory.'
+    ],
+    assessment: [
+      'A drought leaves mainly hard seeds in a bird population’s habitat. Birds vary in beak depth and deeper-beaked birds reproduce more successfully. Explain how the population could change over several generations.',
+      'Evaluate the statement, “Natural selection is random.” Separate the origin of variation from differential survival and reproduction.',
+      'Use fossil, anatomical, biogeographical or molecular evidence to construct an evidence-based argument supporting evolutionary relatedness.'
+    ]
+  },
+  AC9S10U03: {
+    independent: [
+      'Explain how galaxy redshift supports the conclusion that the universe is expanding.',
+      'Describe what the cosmic microwave background is evidence for in the Big Bang model.',
+      'Explain why the observed abundance of light elements is relevant to models of the early universe.',
+      'Distinguish an observation made today from an inference about the early universe.'
+    ],
+    assessment: [
+      'Explain how galaxy redshift, cosmic microwave background radiation and light-element abundance provide independent evidence for the Big Bang model.',
+      'A student says, “The Big Bang is proven because galaxies are moving away.” Evaluate this claim using the language of scientific models and converging evidence.',
+      'New astronomical observations do not match one prediction of a cosmological model. Explain how scientists should use the new evidence to test, refine or challenge the model.'
+    ]
+  },
+  AC9S10U04: {
+    independent: [
+      'Trace the main path of energy from incoming solar radiation to outgoing infrared radiation from Earth.',
+      'Explain how greenhouse gases alter the transfer of outgoing infrared energy without saying they simply “trap heat like a blanket”.',
+      'Distinguish weather variability from long-term climate change.',
+      'Identify one feedback or Earth-system interaction that can amplify or reduce climate change and explain the direction of its effect.'
+    ],
+    assessment: [
+      'Use an energy-balance explanation to show how an increase in greenhouse-gas concentration can change Earth’s climate system.',
+      'A graph shows atmospheric carbon dioxide and global mean temperature both increasing. Explain why the graph is important evidence but is not, by itself, the complete causal explanation.',
+      'Evaluate a proposed climate response by linking the action to greenhouse-gas emissions, energy flow or another relevant Earth-system mechanism.'
+    ]
+  },
+  AC9S10U05: {
+    independent: [
+      'Draw or describe a free-body diagram for a book resting on a table and explain why its acceleration is zero.',
+      'A 4 kg object experiences a net force of 12 N. Calculate its acceleration and include the correct unit.',
+      'Two objects experience the same net force. Explain how their accelerations compare if one has twice the mass of the other.',
+      'Use Newton’s third law to explain the force pair when a swimmer pushes water backwards.'
+    ],
+    assessment: [
+      'A 1200 kg car accelerates at 2.5 m/s². Calculate the net force, then explain why the engine force must be greater than this value if resistive forces act on the car.',
+      'A student says, “If an object is moving, there must be a net force in the direction of motion.” Evaluate the statement using Newton’s first and second laws.',
+      'Analyse an unfamiliar force diagram, determine the net force and acceleration, and justify the direction of the acceleration.'
+    ]
+  },
+  AC9S10U06: {
+    independent: [
+      'For a neutral atom, relate atomic number to the numbers of protons and electrons.',
+      'Explain how period number is related to occupied electron shells in a simple Bohr model.',
+      'Explain why elements in the same group often show similar chemical properties.',
+      'Compare two elements in the same group but different periods, predicting one similarity and one difference from their electron structures.'
+    ],
+    assessment: [
+      'An element has atomic number 17. Use a simple electron-shell model to predict its period, its broad group behaviour and one likely similarity to another element in the same group.',
+      'Evaluate the statement, “The periodic table is arranged only by increasing atomic mass.” Use modern atomic structure and periodic organisation in your response.',
+      'Use atomic structure and position in the periodic table to explain a broad pattern in element properties without extending beyond the Year 10 model.'
+    ]
+  },
+  AC9S10U07: {
+    independent: [
+      'Classify a given reaction from its reactants and products, and identify the evidence you used for the classification.',
+      'Explain why increasing temperature usually increases reaction rate using particle collisions.',
+      'Explain why powdered calcium carbonate reacts faster than the same mass of large chips under otherwise identical conditions.',
+      'Describe how a catalyst changes the reaction pathway and explain what it does not change about the overall reaction.'
+    ],
+    assessment: [
+      'Design a fair investigation to test the effect of concentration on reaction rate, identifying the independent, dependent and controlled variables and how rate will be measured.',
+      'A student doubles temperature and surface area at the same time and concludes that temperature caused the faster reaction. Evaluate the investigation and redesign it to support a valid conclusion.',
+      'Compare the effects of temperature, concentration, surface area and a catalyst on reaction rate, explaining each using an appropriate particle or activation-energy mechanism.'
+    ]
+  },
   AC9S10H01: {
     independent: [
       'Distinguish publication, peer review and replication. State one function of each.',
