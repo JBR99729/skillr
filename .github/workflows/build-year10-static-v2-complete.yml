@@ -1,0 +1,41 @@
+name: Materialise Year 10 Maths Static Curriculum v2
+
+on:
+  push:
+    branches:
+      - feat/year10-static-curriculum-v2-complete
+    paths:
+      - 'scripts/build_year10_static_v2.py'
+      - 'data/year10-maths-v2/**'
+
+permissions:
+  contents: write
+
+jobs:
+  materialise:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/year10-static-curriculum-v2-complete
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build static Year 10 lessons and state hubs
+        run: python scripts/build_year10_static_v2.py
+      - name: Guard generated diff
+        run: git diff --check
+      - name: Commit generated pages
+        shell: bash
+        run: |
+          git add year10/maths victoria nsw sitemap-year10.xml sitemap-site.xml
+          if git diff --cached --quiet; then
+            echo 'No generated changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Complete Year 10 Maths Static Curriculum v2 pages'
+          git push origin HEAD:feat/year10-static-curriculum-v2-complete
