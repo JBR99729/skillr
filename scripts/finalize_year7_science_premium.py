@@ -10,10 +10,10 @@ for path in PAGES:
     if 'science-premium-layer:' not in text:
         continue
 
-    # Make the additive teaching snapshot a native, visible details section so
-    # touched legacy pages satisfy the repository's static architecture rules.
+    # Keep the teaching snapshot visible while using the repository's native
+    # static <details>/<summary> section convention.
     pattern = re.compile(
-        r'(<\!-- science-premium-layer:AC9S7[A-Z0-9]+ --\>)'
+        r'(<!-- science-premium-layer:AC9S7[A-Z0-9]+ -->)'
         r'<section class="science-premium-layer curriculum-topic-section" aria-labelledby="([^"]+)">'
         r'<div id="\2">([\s\S]*?)</div></section>'
     )
@@ -25,8 +25,8 @@ for path in PAGES:
     if n != 1:
         raise RuntimeError(f'Could not convert premium layer in {path}')
 
-    # AC9S7U04 already has a fixed teacher-slides directory; expose the same
-    # viewer link pattern used by the other Year 7 Science topic pages.
+    # AC9S7U04 already has a fixed teacher-slides directory; expose it through
+    # the same local viewer link pattern used by the other Year 7 Science pages.
     if 'ac9s7u04-' in path.parent.name and 'href="teacher-slides/"' not in text2:
         needle = '<a class="primary" href="#topic-guide">Topic guide</a>'
         if needle not in text2:
