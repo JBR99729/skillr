@@ -10,8 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
       - name: Validate locked topic-page action layout
         run: node scripts/validate_f10_topic_layout_contract.mjs
+      - name: Validate locked F-10 topic learning order
+        env:
+          GITHUB_BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: node scripts/validate_f10_topic_learning_order.mjs --base "$GITHUB_BASE_SHA"
