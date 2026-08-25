@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s7i06-p-001",
-    "curriculumCode": "AC9S7I06",
-    "bank": "practice",
-    "skill": "identify an assumption",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating identify an assumption. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating identify an assumption. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "If volunteers differ from non-volunteers, the sample may bias a population claim",
-      "Limitation listed without impact",
-      "Explain how direction or confidence may change",
-      "Condition accepted without direct test in the argument"
-    ],
-    "correct": 0,
-    "explanation": "If volunteers differ from non-volunteers, the sample may bias a population claim\nHint: Explain how direction or confidence may change.",
-    "structuredExplanation": {
-      "summary": "If volunteers differ from non-volunteers, the sample may bias a population claim",
-      "hint": "Explain how direction or confidence may change."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i06-p-002",
-    "curriculumCode": "AC9S7I06",
-    "bank": "practice",
-    "skill": "classify error bias",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating classify error bias. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating classify error bias. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Correlation accepted as cause",
-      "Error is not the same as wrongdoing. Random uncertainty, systematic bias, design weakness and selective reporting have different effects.",
-      "Check confounding and design",
-      "Condition accepted without direct test in the argument"
-    ],
-    "correct": 1,
-    "explanation": "Error is not the same as wrongdoing. Random uncertainty, systematic bias, design weakness and selective reporting have different effects.\nHint: Check confounding and design.",
-    "structuredExplanation": {
-      "summary": "Error is not the same as wrongdoing. Random uncertainty, systematic bias, design weakness and selective reporting have different effects.",
-      "hint": "Check confounding and design."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i06-p-003",
-    "curriculumCode": "AC9S7I06",
-    "bank": "practice",
-    "skill": "find confounding",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating find confounding. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating find confounding. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One source considered enough for broad claim",
-      "Seek converging evidence",
-      "Conflicting evidence may arise from different populations, conditions or methods. Compare compatibility before declaring one result false.",
-      "Condition accepted without direct test in the argument"
-    ],
-    "correct": 2,
-    "explanation": "Conflicting evidence may arise from different populations, conditions or methods. Compare compatibility before declaring one result false.\nHint: Seek converging evidence.",
-    "structuredExplanation": {
-      "summary": "Conflicting evidence may arise from different populations, conditions or methods. Compare compatibility before declaring one result false.",
-      "hint": "Seek converging evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i06-p-004",
-    "curriculumCode": "AC9S7I06",
-    "bank": "practice",
-    "skill": "evaluate conclusion scope",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating evaluate conclusion scope. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating evaluate conclusion scope. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Conflict resolved by authority only",
-      "Compare methods and relevance",
-      "Condition accepted without direct test in the argument",
-      "A strong evaluation traces a claim back through data, processing and method, identifying assumptions and whether limitations could change the conclusion."
-    ],
-    "correct": 3,
-    "explanation": "A strong evaluation traces a claim back through data, processing and method, identifying assumptions and whether limitations could change the conclusion.\nHint: Compare methods and relevance.",
-    "structuredExplanation": {
-      "summary": "A strong evaluation traces a claim back through data, processing and method, identifying assumptions and whether limitations could change the conclusion.",
-      "hint": "Compare methods and relevance."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i06-p-005",
-    "curriculumCode": "AC9S7I06",
-    "bank": "practice",
-    "skill": "reconcile conflicting evidence",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies bias in evaluating methods, conclusions and claims?",
-    "audioPrompt": "Which statement correctly identifies bias in evaluating methods, conclusions and claims?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "If volunteers differ from non-volunteers, the sample may bias a population claim",
-      "Limitation listed without impact",
-      "Explain how direction or confidence may change",
-      "Condition accepted without direct test in the argument"
-    ],
-    "correct": 0,
-    "explanation": "If volunteers differ from non-volunteers, the sample may bias a population claim\nHint: Explain how direction or confidence may change.",
-    "structuredExplanation": {
-      "summary": "If volunteers differ from non-volunteers, the sample may bias a population claim",
-      "hint": "Explain how direction or confidence may change."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i06-p-006",
-    "curriculumCode": "AC9S7I06",
-    "bank": "practice",
-    "skill": "identify an assumption",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes confounding variable in evaluating methods, conclusions and claims?",
-    "audioPrompt": "Which choice best describes confounding variable in evaluating methods, conclusions and claims?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Correlation accepted as cause",
-      "Error is not the same as wrongdoing. Random uncertainty, systematic bias, design weakness and selective reporting have different effects.",
-      "Check confounding and design",
-      "Condition accepted without direct test in the argument"
-    ],
-    "correct": 1,
-    "explanation": "Error is not the same as wrongdoing. Random uncertainty, systematic bias, design weakness and selective reporting have different effects.\nHint: Check confounding and design.",
-    "structuredExplanation": {
-      "summary": "Error is not the same as wrongdoing. Random uncertainty, systematic bias, design weakness and selective reporting have different effects.",
-      "hint": "Check confounding and design."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i06-p-007",
-    "curriculumCode": "AC9S7I06",
-    "bank": "practice",
-    "skill": "classify error bias",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for assumption in evaluating methods, conclusions and claims?",
-    "audioPrompt": "What does correct use require for assumption in evaluating methods, conclusions and claims?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One source considered enough for broad claim",
-      "Seek converging evidence",
-      "Conflicting evidence may arise from different populations, conditions or methods. Compare compatibility before declaring one result false.",
-      "Condition accepted without direct test in the argument"
-    ],
-    "correct": 2,
-    "explanation": "Conflicting evidence may arise from different populations, conditions or methods. Compare compatibility before declaring one result false.\nHint: Seek converging evidence.",
-    "structuredExplanation": {
-      "summary": "Conflicting evidence may arise from different populations, conditions or methods. Compare compatibility before declaring one result false.",
-      "hint": "Seek converging evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i06-p-008",
-    "curriculumCode": "AC9S7I06",
-    "bank": "practice",
-    "skill": "find confounding",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating find confounding. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating find confounding. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Conflict resolved by authority only",
-      "Compare methods and relevance",
-      "Condition accepted without direct test in the argument",
-      "A strong evaluation traces a claim back through data, processing and method, identifying assumptions and whether limitations could change the conclusion."
-    ],
-    "correct": 3,
-    "explanation": "A strong evaluation traces a claim back through data, processing and method, identifying assumptions and whether limitations could change the conclusion.\nHint: Compare methods and relevance.",
-    "structuredExplanation": {
-      "summary": "A strong evaluation traces a claim back through data, processing and method, identifying assumptions and whether limitations could change the conclusion.",
-      "hint": "Compare methods and relevance."
-    },
-    "qualitySchema": "production-v1"
-  }
+window.skillrPracticeQuestions=[
+{id:"ac9s7i06-p-001",curriculumCode:"AC9S7I06",bank:"practice",skill:"data quality",printable:true,type:"single",question:"Which result set is the strongest indicator of precise repeated measurements?",audioPrompt:"Which result set is the strongest indicator of precise repeated measurements?",answers:["10.1, 10.2, 10.1, 10.2","9.0, 10.5, 12.0, 8.5","10.0, 15.0, 5.0, 10.0","One measurement of 10.1"],correct:0,explanation:"Closely clustered repeated values have a small spread, indicating high precision. Precision alone does not prove accuracy.",structuredExplanation:{summary:"Small spread across repeated measurements indicates high precision.",hint:"Look for repeated values that cluster closely."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-002",curriculumCode:"AC9S7I06",bank:"practice",skill:"spread",printable:true,type:"single",question:"What is the range of 12.1 s, 12.0 s, 12.3 s, 12.2 s and 12.1 s?",audioPrompt:"What is the range?",answers:["0.1 s","0.2 s","0.3 s","12.3 s"],correct:2,explanation:"Range = maximum − minimum = 12.3 − 12.0 = 0.3 s.",structuredExplanation:{summary:"The range is 0.3 s.",hint:"Subtract the smallest value from the largest."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-003",curriculumCode:"AC9S7I06",bank:"practice",skill:"outliers",printable:true,type:"single",question:"A marble-roll dataset is 1.8, 1.7, 1.9, 3.2, 1.8 and 1.7 s. Which value should be investigated as a possible outlier?",audioPrompt:"Which value is a possible outlier?",answers:["1.7 s","1.8 s","1.9 s","3.2 s"],correct:3,explanation:"3.2 s is far from the cluster of the other measurements. It should be investigated, not automatically deleted.",structuredExplanation:{summary:"3.2 s is the clear unusual value.",hint:"Look for the value farthest from the cluster."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-004",curriculumCode:"AC9S7I06",bank:"practice",skill:"reliability",printable:true,type:"single",question:"Which change most directly helps a student judge the reliability of repeated measurements?",audioPrompt:"Which change most directly helps judge reliability?",answers:["Repeat the measurement several times","Change two variables at once","Remove every unusual result","Rewrite the hypothesis after seeing the data"],correct:0,explanation:"Repeated trials reveal variation and show whether similar results can be obtained consistently.",structuredExplanation:{summary:"Repeating trials helps assess reliability.",hint:"Reliability is about consistency across repeats."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-005",curriculumCode:"AC9S7I06",bank:"practice",skill:"assumptions",printable:true,type:"single",question:"Which statement is an assumption in a dissolving investigation?",audioPrompt:"Which statement is an assumption?",answers:["The water volume was measured as 100 mL","The sugar took 45 s to dissolve","The thermometer remained accurate throughout the test","The results were entered in a table"],correct:2,explanation:"An assumption is a condition accepted as true without being directly tested. Instrument accuracy may be assumed unless checked.",structuredExplanation:{summary:"Assuming the thermometer stayed accurate is an assumption.",hint:"Find the condition taken for granted rather than measured."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-006",curriculumCode:"AC9S7I06",bank:"practice",skill:"controlled variables",printable:true,type:"single",question:"A student tests how water temperature affects dissolving time but stirs each trial at a different speed. What is the main problem?",audioPrompt:"What is the main problem?",answers:["Stirring speed is an uncontrolled variable","Temperature is no longer the independent variable","Dissolving time cannot be measured","The investigation has too many repeats"],correct:0,explanation:"Different stirring speeds could also change dissolving time, so the effect of temperature is harder to isolate.",structuredExplanation:{summary:"Stirring speed should be controlled.",hint:"Ask what else could affect the dependent variable."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-007",curriculumCode:"AC9S7I06",bank:"practice",skill:"method evaluation",printable:true,type:"single",question:"Which improvement best increases validity in a fair-test investigation?",audioPrompt:"Which improvement best increases validity?",answers:["Control relevant variables while changing only the independent variable","Add more decimal places to the results","Use a different measuring tool each trial","Remove all values that disagree with the hypothesis"],correct:0,explanation:"Validity improves when the method isolates the variable being tested and measures the intended effect.",structuredExplanation:{summary:"Control other relevant variables so the method tests the intended relationship.",hint:"Validity asks whether the method tests what it is supposed to test."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-008",curriculumCode:"AC9S7I06",bank:"practice",skill:"random error",printable:true,type:"single",question:"Which is most likely a random source of measurement variation?",audioPrompt:"Which is most likely random variation?",answers:["A stopwatch user reacts slightly differently each trial","A balance always reads 0.5 g too high","A thermometer scale is printed incorrectly","A ruler starts at 2 mm instead of zero"],correct:0,explanation:"Small differences in human reaction time vary unpredictably between trials and are a common random source of variation.",structuredExplanation:{summary:"Changing reaction time from trial to trial is random variation.",hint:"Random errors vary unpredictably between measurements."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-009",curriculumCode:"AC9S7I06",bank:"practice",skill:"systematic error",printable:true,type:"single",question:"A balance reads 0.4 g too high for every sample. What type of problem is this?",audioPrompt:"What type of problem is this?",answers:["Random variation","Systematic error","An outlier","A controlled variable"],correct:1,explanation:"A consistent offset in the same direction is systematic error and will not disappear simply by repeating trials.",structuredExplanation:{summary:"A constant measurement bias is systematic error.",hint:"Does the error push every reading in the same direction?"},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-010",curriculumCode:"AC9S7I06",bank:"practice",skill:"error improvement",printable:true,type:"single",question:"What is the best response to a miscalibrated thermometer?",audioPrompt:"What is the best response?",answers:["Repeat the same measurement many times","Calibrate or replace the thermometer","Round the readings to whole numbers","Ignore the issue if the trend looks right"],correct:1,explanation:"Repeating a systematically biased measurement does not remove the bias. Calibration or replacement addresses the source.",structuredExplanation:{summary:"Fix the instrument causing the systematic error.",hint:"Systematic errors require correcting the source."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-011",curriculumCode:"AC9S7I06",bank:"practice",skill:"conclusions",printable:true,type:"single",question:"Which conclusion is scientifically strongest?",audioPrompt:"Which conclusion is strongest?",answers:["The hypothesis was correct, so the experiment worked","The data show a decrease in dissolving time as temperature increased, although variation limits confidence","One result matched our prediction, so the claim is proven","The conclusion must be true because the average changed"],correct:1,explanation:"A strong conclusion describes what the evidence supports and acknowledges relevant limitations.",structuredExplanation:{summary:"Evidence-based conclusions should match the data and state limitations.",hint:"Prefer cautious wording supported by the actual results."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-012",curriculumCode:"AC9S7I06",bank:"practice",skill:"premises",printable:true,type:"single",question:"A student claims, “The method was fair because all trials were fair.” What is wrong with this reasoning?",audioPrompt:"What is wrong with this reasoning?",answers:["It assumes the point it is trying to establish","It contains too much data","It describes a controlled variable","It is conflicting evidence"],correct:0,explanation:"The statement takes fairness for granted instead of giving evidence that variables were actually controlled.",structuredExplanation:{summary:"The claim relies on an unsupported premise.",hint:"Ask what has been assumed rather than demonstrated."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-013",curriculumCode:"AC9S7I06",bank:"practice",skill:"claim evidence",printable:true,type:"single",question:"What should you identify first when evaluating a scientific claim?",audioPrompt:"What should you identify first?",answers:["The evidence being used to support the claim","Whether you personally agree with it","How long the conclusion is","Whether the graph uses colour"],correct:0,explanation:"Evaluation starts by tracing the claim to its supporting evidence, then judging relevance and quality.",structuredExplanation:{summary:"Identify the supporting evidence before judging the claim.",hint:"Claims should be traced back to evidence."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-014",curriculumCode:"AC9S7I06",bank:"practice",skill:"conflicting evidence",printable:true,type:"single",question:"Two studies reach different conclusions. What should a student do?",audioPrompt:"What should the student do?",answers:["Compare their methods, samples, controls and data quality","Keep only the result that matches the hypothesis","Assume the larger number is correct","Ignore both studies"],correct:0,explanation:"Conflicting evidence should be evaluated by comparing how the evidence was produced and how reliable and relevant it is.",structuredExplanation:{summary:"Compare the quality and context of both evidence sets.",hint:"Disagreement is a reason to evaluate, not discard."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-015",curriculumCode:"AC9S7I06",bank:"practice",skill:"sample size",printable:true,type:"single",question:"Which evidence set generally provides a stronger basis for a broad claim, assuming methods are otherwise comparable?",audioPrompt:"Which evidence set is stronger?",answers:["One trial with one participant","Ten controlled trials with a larger relevant sample","A claim with no raw data","A result selected because it agrees with the prediction"],correct:1,explanation:"More relevant observations and repeated controlled trials usually provide a stronger basis for a general claim.",structuredExplanation:{summary:"Larger relevant samples and repeated controlled trials strengthen evidence.",hint:"Look for evidence that is less vulnerable to chance."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-016",curriculumCode:"AC9S7I06",bank:"practice",skill:"unanswered questions",printable:true,type:"single",question:"An investigation tests sugar dissolving at 20°C, 40°C and 60°C only. Which is a reasonable unanswered question?",audioPrompt:"Which is a reasonable unanswered question?",answers:["What happens above 60°C?","Was 40°C one of the tested temperatures?","Was dissolving time recorded?","Was sugar used?"],correct:0,explanation:"The original evidence does not address temperatures above the tested range.",structuredExplanation:{summary:"Unanswered questions identify gaps not resolved by the available evidence.",hint:"Choose something the investigation did not test."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-017",curriculumCode:"AC9S7I06",bank:"practice",skill:"data relevance",printable:true,type:"single",question:"Which dataset is most relevant to an aim asking how temperature affects dissolving time?",audioPrompt:"Which dataset is most relevant?",answers:["Water temperature and time taken to dissolve","Colour of beaker and student name","Room number and date","Brand of stopwatch and desk height"],correct:0,explanation:"Relevant data directly measure the independent and dependent variables in the investigation question.",structuredExplanation:{summary:"Use data that directly answer the aim.",hint:"Match the measurements to the variables in the question."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-018",curriculumCode:"AC9S7I06",bank:"practice",skill:"outlier handling",printable:true,type:"single",question:"What is the best first step when one repeated result is far from all the others?",audioPrompt:"What is the best first step?",answers:["Investigate possible reasons for the unusual result","Delete it immediately","Replace it with the mean","Change it so the range is smaller"],correct:0,explanation:"An outlier may reflect error or real variation. It should be investigated before deciding how to treat it.",structuredExplanation:{summary:"Investigate an outlier before excluding it.",hint:"Do not remove evidence simply because it is inconvenient."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-019",curriculumCode:"AC9S7I06",bank:"practice",skill:"precision accuracy",printable:true,type:"single",question:"Repeated measurements are very close to each other but all are far from a known reference value. They are best described as:",audioPrompt:"How are these measurements best described?",answers:["Precise but inaccurate","Accurate but imprecise","Both accurate and precise","Neither measurable nor repeatable"],correct:0,explanation:"Close agreement among repeats indicates precision; being far from the reference indicates poor accuracy.",structuredExplanation:{summary:"Measurements can be precise without being accurate.",hint:"Precision is closeness to each other; accuracy is closeness to a reference."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-020",curriculumCode:"AC9S7I06",bank:"practice",skill:"reliability validity",printable:true,type:"single",question:"Which statement is correct?",audioPrompt:"Which statement is correct?",answers:["A method can produce consistent results yet still fail to test the intended question","Reliable results are always accurate","A valid method never has random variation","More trials automatically remove systematic bias"],correct:0,explanation:"Reliability concerns consistency, while validity concerns whether the method appropriately tests the intended question.",structuredExplanation:{summary:"Reliability and validity are different qualities.",hint:"Consistent results can still come from a flawed design."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-021",curriculumCode:"AC9S7I06",bank:"practice",skill:"claim scope",printable:true,type:"single",question:"Twelve volunteers from one class are tested. Which conclusion is most appropriate?",audioPrompt:"Which conclusion is most appropriate?",answers:["The result describes these tested students and may not represent all Year 7 students","The result proves the same effect for every teenager","The sample size is irrelevant","Volunteer sampling guarantees an unbiased result"],correct:0,explanation:"A small volunteer sample from one class may not represent a wider population, so the conclusion should be limited in scope.",structuredExplanation:{summary:"Match the scope of the conclusion to the evidence collected.",hint:"Do not generalise beyond the sample without justification."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-022",curriculumCode:"AC9S7I06",bank:"practice",skill:"method improvement",printable:true,type:"single",question:"A plant experiment uses one fertilised plant and one unfertilised plant. Which improvement best strengthens reliability?",audioPrompt:"Which improvement best strengthens reliability?",answers:["Use several plants in each treatment and repeat measurements","Move one plant to a different room","Change the fertiliser amount each day","Measure only the final height"],correct:0,explanation:"Replicates reduce the influence of individual variation and allow consistency to be assessed.",structuredExplanation:{summary:"Use replicates and repeated measurements.",hint:"Reliability improves when results are not based on a single specimen."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-023",curriculumCode:"AC9S7I06",bank:"practice",skill:"confounding",printable:true,type:"single",question:"Students find that plants receiving more fertiliser also received more sunlight. Why is the conclusion about fertiliser weakened?",audioPrompt:"Why is the conclusion weakened?",answers:["Sunlight is a confounding factor that could also affect growth","The dependent variable cannot be measured","Fertiliser is no longer a variable","The data automatically become systematic error"],correct:0,explanation:"When another factor changes with the independent variable, it becomes difficult to attribute the outcome to one cause.",structuredExplanation:{summary:"Sunlight could explain part of the observed growth difference.",hint:"Look for another factor changing alongside the independent variable."},qualitySchema:"production-v1"},
+{id:"ac9s7i06-p-024",curriculumCode:"AC9S7I06",bank:"practice",skill:"evaluation",printable:true,type:"single",question:"Which sentence best follows the evaluation structure problem → effect → improvement?",audioPrompt:"Which sentence best follows the evaluation structure?",answers:["Stirring speed varied, which may have affected dissolving time; use a mechanical stirrer at a fixed speed","The method had errors","More trials are always better","The hypothesis was wrong"],correct:0,explanation:"Strong evaluation names the limitation, explains its consequence and proposes a specific justified improvement.",structuredExplanation:{summary:"Link each flaw to its effect and a targeted fix.",hint:"Do more than list a limitation."},qualitySchema:"production-v1"}
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
