@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s7i07-p-001",
-    "curriculumCode": "AC9S7I07",
-    "bank": "practice",
-    "skill": "write a claim",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating write a claim. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating write a claim. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The data support a positive force–acceleration relationship under fixed-mass conditions",
-      "Evidence listed without reasoning",
-      "Explain the mechanism or logical connection",
-      "Claim supported by evidence and reasoning"
-    ],
-    "correct": 0,
-    "explanation": "The data support a positive force–acceleration relationship under fixed-mass conditions\nHint: Explain the mechanism or logical connection.",
-    "structuredExplanation": {
-      "summary": "The data support a positive force–acceleration relationship under fixed-mass conditions",
-      "hint": "Explain the mechanism or logical connection."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i07-p-002",
-    "curriculumCode": "AC9S7I07",
-    "bank": "practice",
-    "skill": "select relevant evidence",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating select relevant evidence. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating select relevant evidence. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Only supporting data selected",
-      "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
-      "Address relevant conflicting evidence",
-      "Claim supported by evidence and reasoning"
-    ],
-    "correct": 1,
-    "explanation": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.\nHint: Address relevant conflicting evidence.",
-    "structuredExplanation": {
-      "summary": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
-      "hint": "Address relevant conflicting evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i07-p-003",
-    "curriculumCode": "AC9S7I07",
-    "bank": "practice",
-    "skill": "add reasoning",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating add reasoning. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating add reasoning. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Certainty exceeds evidence",
-      "Qualify scope",
-      "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
-      "Claim supported by evidence and reasoning"
-    ],
-    "correct": 2,
-    "explanation": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.\nHint: Qualify scope.",
-    "structuredExplanation": {
-      "summary": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
-      "hint": "Qualify scope."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i07-p-004",
-    "curriculumCode": "AC9S7I07",
-    "bank": "practice",
-    "skill": "address counterargument",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating address counterargument. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating address counterargument. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Recommendation criteria hidden",
-      "Make value choices explicit",
-      "Claim supported by evidence and reasoning",
-      "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits."
-    ],
-    "correct": 3,
-    "explanation": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.\nHint: Make value choices explicit.",
-    "structuredExplanation": {
-      "summary": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
-      "hint": "Make value choices explicit."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i07-p-005",
-    "curriculumCode": "AC9S7I07",
-    "bank": "practice",
-    "skill": "qualify conclusion",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies counterargument in evidence-based scientific arguments?",
-    "audioPrompt": "Which statement correctly identifies counterargument in evidence-based scientific arguments?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "The data support a positive force–acceleration relationship under fixed-mass conditions",
-      "Evidence listed without reasoning",
-      "Explain the mechanism or logical connection",
-      "Claim supported by evidence and reasoning"
-    ],
-    "correct": 0,
-    "explanation": "The data support a positive force–acceleration relationship under fixed-mass conditions\nHint: Explain the mechanism or logical connection.",
-    "structuredExplanation": {
-      "summary": "The data support a positive force–acceleration relationship under fixed-mass conditions",
-      "hint": "Explain the mechanism or logical connection."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i07-p-006",
-    "curriculumCode": "AC9S7I07",
-    "bank": "practice",
-    "skill": "write a claim",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes qualification in evidence-based scientific arguments?",
-    "audioPrompt": "Which choice best describes qualification in evidence-based scientific arguments?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Only supporting data selected",
-      "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
-      "Address relevant conflicting evidence",
-      "Claim supported by evidence and reasoning"
-    ],
-    "correct": 1,
-    "explanation": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.\nHint: Address relevant conflicting evidence.",
-    "structuredExplanation": {
-      "summary": "Evidence should be selected for relevance, not quantity alone. Reasoning must connect data to the scientific model.",
-      "hint": "Address relevant conflicting evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i07-p-007",
-    "curriculumCode": "AC9S7I07",
-    "bank": "practice",
-    "skill": "select relevant evidence",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for scientific argument in evidence-based scientific arguments?",
-    "audioPrompt": "What does correct use require for scientific argument in evidence-based scientific arguments?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Certainty exceeds evidence",
-      "Qualify scope",
-      "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
-      "Claim supported by evidence and reasoning"
-    ],
-    "correct": 2,
-    "explanation": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.\nHint: Qualify scope.",
-    "structuredExplanation": {
-      "summary": "A counterargument is not a weak objection invented to dismiss. Address the strongest plausible alternative fairly.",
-      "hint": "Qualify scope."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i07-p-008",
-    "curriculumCode": "AC9S7I07",
-    "bank": "practice",
-    "skill": "add reasoning",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating add reasoning. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating add reasoning. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Recommendation criteria hidden",
-      "Make value choices explicit",
-      "Claim supported by evidence and reasoning",
-      "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits."
-    ],
-    "correct": 3,
-    "explanation": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.\nHint: Make value choices explicit.",
-    "structuredExplanation": {
-      "summary": "A scientific argument coordinates a clear claim, relevant evidence and reasoning that explains why the evidence supports the claim while addressing alternatives and limits.",
-      "hint": "Make value choices explicit."
-    },
-    "qualitySchema": "production-v1"
-  }
+window.skillrPracticeQuestions=[
+{id:"ac9s7i07-p-001",curriculumCode:"AC9S7I07",bank:"practice",skill:"claim evidence reasoning",printable:true,type:"single",question:"What is the main purpose of evidence in a scientific argument?",answers:["To support or challenge a claim using relevant data or observations","To make the argument longer","To replace reasoning","To show personal preference"],correct:0,explanation:"Evidence provides the observations, measurements or credible information used to support or challenge a claim.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-002",curriculumCode:"AC9S7I07",bank:"practice",skill:"hypothesis",printable:true,type:"single",question:"Which statement is a testable hypothesis?",answers:["If plants receive more light, then their mean growth over two weeks will increase","Plants are interesting","Sunlight is bright","Plants need resources"],correct:0,explanation:"A hypothesis states a testable relationship between variables.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-003",curriculumCode:"AC9S7I07",bank:"practice",skill:"claim",printable:true,type:"single",question:"Which statement is a scientific claim rather than a description of method?",answers:["Plants in the higher-light treatment grew faster over the test period","Three plants were measured each day","Plant height was recorded in centimetres","A ruler was used"],correct:0,explanation:"A claim is a statement about what the evidence indicates; the other options describe method or measurement.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-004",curriculumCode:"AC9S7I07",bank:"practice",skill:"evidence",printable:true,type:"single",question:"Which is NOT scientific evidence for a claim about plant growth?",answers:["A personal preference for one plant","Repeated height measurements","Photographs taken using the same scale","A graph of the measurements"],correct:0,explanation:"Personal preference is opinion, not evidence about growth.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-005",curriculumCode:"AC9S7I07",bank:"practice",skill:"conclusion",printable:true,type:"single",question:"Which feature most strengthens a conclusion from a classroom investigation?",answers:["Repeated relevant measurements collected using a controlled method","A conclusion that exactly matches the prediction","A colourful graph","A confident writing style"],correct:0,explanation:"Conclusions are strengthened by relevant, repeatable evidence and an appropriate method, not by presentation or certainty alone.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-006",curriculumCode:"AC9S7I07",bank:"practice",skill:"argument structure",printable:true,type:"single",question:"Which sequence best represents a simple scientific argument?",answers:["Claim → evidence → reasoning","Evidence → opinion → claim","Hypothesis → popularity → conclusion","Claim → repetition → decoration"],correct:0,explanation:"A strong argument states a claim, presents relevant evidence, then explains why that evidence supports the claim.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-007",curriculumCode:"AC9S7I07",bank:"practice",skill:"reasoning",printable:true,type:"single",question:"What is the role of reasoning in a scientific argument?",answers:["To explain why the evidence supports or challenges the claim","To list the equipment","To repeat the claim in different words","To remove uncertainty"],correct:0,explanation:"Reasoning provides the logical scientific connection between evidence and claim.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-008",curriculumCode:"AC9S7I07",bank:"practice",skill:"hypothesis evaluation",printable:true,type:"single",question:"What does it mean to reject a hypothesis?",answers:["The available evidence did not support it under the tested conditions","The experiment was useless","The student made a mistake","The hypothesis can never be reconsidered"],correct:0,explanation:"Rejecting a hypothesis means the collected evidence did not support it in that investigation; it does not imply misconduct or permanent certainty.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-009",curriculumCode:"AC9S7I07",bank:"practice",skill:"sample size",printable:true,type:"single",question:"Why can a very small sample weaken a broad scientific conclusion?",answers:["It may not represent the wider population and is more affected by chance variation","It always makes measurements inaccurate","It prevents any graph being drawn","It guarantees bias"],correct:0,explanation:"Small samples can be unrepresentative and more vulnerable to chance, so broad claims should be cautious.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-010",curriculumCode:"AC9S7I07",bank:"practice",skill:"limitations",printable:true,type:"single",question:"Which statement best acknowledges a limitation?",answers:["The trend supports the claim, but the small sample reduces confidence in applying it to all Year 7 students","The claim is proven because the average changed","The result must be wrong because one value differed","Limitations do not matter if the hypothesis was supported"],correct:0,explanation:"A good conclusion states what the evidence suggests while limiting the scope according to weaknesses in the method or sample.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-011",curriculumCode:"AC9S7I07",bank:"practice",skill:"data collection",printable:true,type:"single",question:"Which data-collection method best supports a claim about temperature change?",answers:["Using a suitable calibrated thermometer and a consistent method","Asking friends whether the sample felt warm","Estimating from memory","Using a different tool each trial without checking them"],correct:0,explanation:"Appropriate calibrated equipment and consistent procedures provide stronger measurement evidence.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-012",curriculumCode:"AC9S7I07",bank:"practice",skill:"claim significance",printable:true,type:"single",question:"When evaluating the significance of a scientific claim, what matters most?",answers:["The strength, relevance and limitations of the supporting evidence","How often the claim is shared online","How confident the author sounds","Whether the claim is surprising"],correct:0,explanation:"Scientific significance depends on evidence quality, context and the scope of the conclusion.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-013",curriculumCode:"AC9S7I07",bank:"practice",skill:"survey limitations",printable:true,type:"single",question:"Which is a possible limitation of survey evidence?",answers:["Participants may misunderstand questions or give inaccurate responses","Survey data can never be analysed","Surveys always include the whole population","Surveys automatically remove bias"],correct:0,explanation:"Survey responses can be affected by wording, memory, sampling and response bias.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-014",curriculumCode:"AC9S7I07",bank:"practice",skill:"method evaluation",printable:true,type:"single",question:"Why should you examine how evidence was collected before accepting a claim?",answers:["The method may introduce bias, uncontrolled variables or measurement limitations","The method determines whether the author is famous","A longer method proves the claim","Only secondary data require method checks"],correct:0,explanation:"Evidence quality depends partly on how data were generated and whether the method could distort the result.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-015",curriculumCode:"AC9S7I07",bank:"practice",skill:"logical conclusion",printable:true,type:"single",question:"Which is the most logical conclusion from limited evidence?",answers:["The data suggest a trend, but the short duration and small sample limit confidence","The result proves the claim for every situation","The evidence is inconvenient, so it should be ignored","The claim is true because it was predicted"],correct:0,explanation:"Logical conclusions match the strength and scope of the evidence and acknowledge relevant limitations.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-016",curriculumCode:"AC9S7I07",bank:"practice",skill:"uncontrolled variables",printable:true,type:"single",question:"How can an uncontrolled variable weaken an evidence-based argument?",answers:["It provides another possible explanation for the observed result","It makes the evidence more objective","It guarantees a systematic error","It changes a claim into a hypothesis"],correct:0,explanation:"If another relevant factor changes, the observed outcome may not be caused by the variable being tested.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-017",curriculumCode:"AC9S7I07",bank:"practice",skill:"source credibility",printable:true,type:"single",question:"Which source feature most strongly supports scientific credibility?",answers:["Transparent authorship, evidence, methods or references that can be checked","A large number of likes","Strong emotional language","No publication details"],correct:0,explanation:"Credibility is strengthened when authorship and evidence are transparent and claims can be checked against sources or methods.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-018",curriculumCode:"AC9S7I07",bank:"practice",skill:"source evidence",printable:true,type:"single",question:"Which is a warning sign when evaluating a scientific source?",answers:["It makes strong claims without showing evidence or references","It explains its data sources","It states limitations","It identifies its author and organisation"],correct:0,explanation:"Unsupported strong claims are difficult to verify and reduce confidence in the source.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-019",curriculumCode:"AC9S7I07",bank:"practice",skill:"bias",printable:true,type:"single",question:"What does bias in a source mean?",answers:["Its framing or selection of information may favour a particular viewpoint","The source is automatically false","The source contains numerical data","The author has expertise"],correct:0,explanation:"Bias can influence selection, framing or interpretation of information; it should be identified and considered rather than assumed to make every statement false.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-020",curriculumCode:"AC9S7I07",bank:"practice",skill:"publication date",printable:true,type:"single",question:"Why can publication date matter when judging a scientific source?",answers:["More recent evidence may update earlier understanding, although older primary evidence can still be important","Newer sources are always correct","Older sources are never useful","The date proves the author's expertise"],correct:0,explanation:"Science develops as evidence accumulates. Date matters, but credibility also depends on evidence, purpose, methods and context.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-021",curriculumCode:"AC9S7I07",bank:"practice",skill:"source comparison",printable:true,type:"single",question:"Which source would usually require the most careful verification before using it for a scientific claim?",answers:["An anonymous social-media post with no evidence links","A museum page citing research","A government scientific report with methods","A university research summary linked to the original study"],correct:0,explanation:"Anonymous unsupported posts are difficult to verify. Other sources still require evaluation, but provide stronger traceability.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-022",curriculumCode:"AC9S7I07",bank:"practice",skill:"source methodology",printable:true,type:"single",question:"What information makes a scientific source easier to evaluate?",answers:["How the evidence was collected and where the data or references came from","The author's favourite theory","Advertising slogans","The number of images"],correct:0,explanation:"Methods and traceable references allow readers to judge evidence quality and relevance.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-023",curriculumCode:"AC9S7I07",bank:"practice",skill:"cultural protocols",printable:true,type:"single",question:"When using First Nations knowledge from a secondary source, what is the most responsible approach?",answers:["Check cultural authority and permissions, follow relevant protocols, and acknowledge the knowledge holders appropriately","Assume anything online can be copied freely","Remove the community name to make the information neutral","Treat all First Nations knowledge as belonging to one national group"],correct:0,explanation:"First Nations knowledges are diverse and connected to particular peoples, Country/Place and cultural authority. Use requires appropriate permission, attribution and protocol.",qualitySchema:"production-v1"},
+{id:"ac9s7i07-p-024",curriculumCode:"AC9S7I07",bank:"practice",skill:"credible citation",printable:true,type:"single",question:"Why does clear authorship or organisational responsibility improve source evaluation?",answers:["It helps readers assess expertise, accountability and possible interests","It guarantees every statement is correct","It removes the need to inspect evidence","It proves the source is unbiased"],correct:0,explanation:"Authorship helps assess accountability and expertise, but evidence and possible bias still need evaluation.",qualitySchema:"production-v1"}
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
