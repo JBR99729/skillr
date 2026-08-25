@@ -11,6 +11,17 @@ on:
       - 'scripts/validate_static_curriculum_architecture.mjs'
       - 'scripts/migrate_runtime_topic_pages_static.mjs'
       - '.github/workflows/audit-static-curriculum-site.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'foundation/**'
+      - 'year*/**'
+      - 'assets/**'
+      - 'scripts/audit_static_curriculum_site.mjs'
+      - 'scripts/audit_static_teacher_slides.mjs'
+      - 'scripts/validate_static_curriculum_architecture.mjs'
+      - 'scripts/migrate_runtime_topic_pages_static.mjs'
+      - '.github/workflows/audit-static-curriculum-site.yml'
   workflow_dispatch:
 
 jobs:
