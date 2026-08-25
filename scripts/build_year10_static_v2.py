@@ -315,4 +315,6 @@ for code, item in cfg.items():
     upgrade_page(code, item)
 write_hubs()
 update_sitemaps()
-print(f'Year 10 Static Curriculum v2 materialised for {len(cfg)} remaining lessons + 4 state hubs.')
+from normalize_year10_math_section_order import normalize_all
+normalize_all()
+print(f'Year 10 Static Curriculum v2 materialised for {len(cfg)} remaining lessons + 4 state hubs in the AC9M10N01 section order.')
