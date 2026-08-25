@@ -1,236 +1,29 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s7i08-p-001",
-    "curriculumCode": "AC9S7I08",
-    "bank": "practice",
-    "skill": "choose a structure",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating choose a structure. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating choose a structure. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A public summary can define terms and simplify layout while preserving data, units and uncertainty",
-      "Communication becomes a data dump",
-      "Select and interpret evidence",
-      "Intended reader, viewer or listener"
-    ],
-    "correct": 0,
-    "explanation": "A public summary can define terms and simplify layout while preserving data, units and uncertainty\nHint: Select and interpret evidence.",
-    "structuredExplanation": {
-      "summary": "A public summary can define terms and simplify layout while preserving data, units and uncertainty",
-      "hint": "Select and interpret evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i08-p-002",
-    "curriculumCode": "AC9S7I08",
-    "bank": "practice",
-    "skill": "write a caption",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating write a caption. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating write a caption. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Audience adaptation changes results",
-      "Visuals must be labelled and interpreted; they should not be decorative or conceal uncertainty.",
-      "Change support, not facts",
-      "Intended reader, viewer or listener"
-    ],
-    "correct": 1,
-    "explanation": "Visuals must be labelled and interpreted; they should not be decorative or conceal uncertainty.\nHint: Change support, not facts.",
-    "structuredExplanation": {
-      "summary": "Visuals must be labelled and interpreted; they should not be decorative or conceal uncertainty.",
-      "hint": "Change support, not facts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i08-p-003",
-    "curriculumCode": "AC9S7I08",
-    "bank": "practice",
-    "skill": "define a term",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating define a term. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating define a term. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Technical terms removed rather than defined",
-      "Maintain precision with explanation",
-      "External evidence and media require attribution. Current claims should be dated or linked to stable sources where change is possible.",
-      "Intended reader, viewer or listener"
-    ],
-    "correct": 2,
-    "explanation": "External evidence and media require attribution. Current claims should be dated or linked to stable sources where change is possible.\nHint: Maintain precision with explanation.",
-    "structuredExplanation": {
-      "summary": "External evidence and media require attribution. Current claims should be dated or linked to stable sources where change is possible.",
-      "hint": "Maintain precision with explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i08-p-004",
-    "curriculumCode": "AC9S7I08",
-    "bank": "practice",
-    "skill": "adapt for audience",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating adapt for audience. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating adapt for audience. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Digital slide becomes full script",
-      "Use visual evidence and concise cues",
-      "Intended reader, viewer or listener",
-      "Effective scientific communication lets an audience follow the question, evidence, reasoning and limitations through an appropriate text structure and representation."
-    ],
-    "correct": 3,
-    "explanation": "Effective scientific communication lets an audience follow the question, evidence, reasoning and limitations through an appropriate text structure and representation.\nHint: Use visual evidence and concise cues.",
-    "structuredExplanation": {
-      "summary": "Effective scientific communication lets an audience follow the question, evidence, reasoning and limitations through an appropriate text structure and representation.",
-      "hint": "Use visual evidence and concise cues."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i08-p-005",
-    "curriculumCode": "AC9S7I08",
-    "bank": "practice",
-    "skill": "attribute a source",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies purpose in communicating scientific ideas, findings and arguments?",
-    "audioPrompt": "Which statement correctly identifies purpose in communicating scientific ideas, findings and arguments?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A public summary can define terms and simplify layout while preserving data, units and uncertainty",
-      "Communication becomes a data dump",
-      "Select and interpret evidence",
-      "Intended reader, viewer or listener"
-    ],
-    "correct": 0,
-    "explanation": "A public summary can define terms and simplify layout while preserving data, units and uncertainty\nHint: Select and interpret evidence.",
-    "structuredExplanation": {
-      "summary": "A public summary can define terms and simplify layout while preserving data, units and uncertainty",
-      "hint": "Select and interpret evidence."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i08-p-006",
-    "curriculumCode": "AC9S7I08",
-    "bank": "practice",
-    "skill": "choose a structure",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes scientific representation in communicating scientific ideas, findings and arguments?",
-    "audioPrompt": "Which choice best describes scientific representation in communicating scientific ideas, findings and arguments?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Audience adaptation changes results",
-      "Visuals must be labelled and interpreted; they should not be decorative or conceal uncertainty.",
-      "Change support, not facts",
-      "Intended reader, viewer or listener"
-    ],
-    "correct": 1,
-    "explanation": "Visuals must be labelled and interpreted; they should not be decorative or conceal uncertainty.\nHint: Change support, not facts.",
-    "structuredExplanation": {
-      "summary": "Visuals must be labelled and interpreted; they should not be decorative or conceal uncertainty.",
-      "hint": "Change support, not facts."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i08-p-007",
-    "curriculumCode": "AC9S7I08",
-    "bank": "practice",
-    "skill": "write a caption",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for audience in communicating scientific ideas, findings and arguments?",
-    "audioPrompt": "What does correct use require for audience in communicating scientific ideas, findings and arguments?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Technical terms removed rather than defined",
-      "Maintain precision with explanation",
-      "External evidence and media require attribution. Current claims should be dated or linked to stable sources where change is possible.",
-      "Intended reader, viewer or listener"
-    ],
-    "correct": 2,
-    "explanation": "External evidence and media require attribution. Current claims should be dated or linked to stable sources where change is possible.\nHint: Maintain precision with explanation.",
-    "structuredExplanation": {
-      "summary": "External evidence and media require attribution. Current claims should be dated or linked to stable sources where change is possible.",
-      "hint": "Maintain precision with explanation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i08-p-008",
-    "curriculumCode": "AC9S7I08",
-    "bank": "practice",
-    "skill": "define a term",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating define a term. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating define a term. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Digital slide becomes full script",
-      "Use visual evidence and concise cues",
-      "Intended reader, viewer or listener",
-      "Effective scientific communication lets an audience follow the question, evidence, reasoning and limitations through an appropriate text structure and representation."
-    ],
-    "correct": 3,
-    "explanation": "Effective scientific communication lets an audience follow the question, evidence, reasoning and limitations through an appropriate text structure and representation.\nHint: Use visual evidence and concise cues.",
-    "structuredExplanation": {
-      "summary": "Effective scientific communication lets an audience follow the question, evidence, reasoning and limitations through an appropriate text structure and representation.",
-      "hint": "Use visual evidence and concise cues."
-    },
-    "qualitySchema": "production-v1"
-  }
+function q(id,skill,question,answers,correct,explanation){return {id,curriculumCode:"AC9S7I08",bank:"practice",skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation,structuredExplanation:{summary:explanation,hint:"Use purpose, audience, evidence and appropriate text features."},qualitySchema:"production-v1"};}
+window.skillrPracticeQuestions=[
+q("ac9s7i08-p-001","purpose","What is the main purpose of a scientific investigation report?",["To entertain readers","To persuade readers to agree with an opinion","To present methods, data and findings clearly","To replace the experiment"],2,"A scientific investigation report communicates what was investigated, how it was done, the results and the conclusion."),
+q("ac9s7i08-p-002","audience","Which feature most strongly suggests a scientific text is written for an expert audience?",["Technical vocabulary used without basic definitions","Large colourful headings","Personal anecdotes","Very short sentences only"],0,"Expert texts often assume background knowledge and use specialised terminology precisely."),
+q("ac9s7i08-p-003","dichotomous key","A dichotomous key identifies organisms by using:",["Random guesses","A sequence of two-choice branching decisions","Long descriptive paragraphs only","A single photograph"],1,"Dichotomous keys use paired alternatives that progressively narrow the identification."),
+q("ac9s7i08-p-004","text type","Which text type best suits a student who wants to argue publicly for protection of a local wetland?",["Investigation report","Letter to the editor","Dichotomous key","Laboratory equipment list"],1,"A letter to the editor presents a viewpoint and persuades a public audience using evidence."),
+q("ac9s7i08-p-005","graphs","Why include a graph in an investigation report?",["To decorate the report","To show patterns or relationships in data clearly","To replace the method","To make the conclusion longer"],1,"Graphs help readers see trends, comparisons or relationships that may be less obvious in a table."),
+q("ac9s7i08-p-006","audience","Which clue is most useful for inferring the target audience of a scientific text?",["The level of technical language and assumed background knowledge","The colour of the paper","The number of pages","The file name"],0,"Language complexity and assumed knowledge are strong indicators of intended audience."),
+q("ac9s7i08-p-007","reproducibility","What does reproducibility mean in an investigation report?",["Another person can follow the method and obtain similar findings","The report uses the same font throughout","The hypothesis is changed after the experiment","The graph has repeated colours"],0,"Reproducibility concerns whether the investigation can be repeated using the described method with comparable results."),
+q("ac9s7i08-p-008","classification","What is the main purpose of a dichotomous key app prototype?",["Measure temperature","Help users classify organisms through branching choices","Predict weather","Store raw data only"],1,"The prototype should guide users through observable features to an identification."),
+q("ac9s7i08-p-009","persuasive language","Which sentence is most appropriate in an evidence-based letter to the editor?",["Protecting this habitat should be prioritised because monitoring shows a decline in native frog numbers.","This habitat is obviously the best place ever.","Everyone who disagrees is wrong.","No evidence is needed because the issue is important."],0,"Persuasive scientific communication combines a clear position with relevant evidence and respectful language."),
+q("ac9s7i08-p-010","younger audience","How should an explanation of seasons be adapted for Year 3 students?",["Use shorter sentences, define key ideas and include a simple diagram","Add more unexplained technical terms","Remove all scientific ideas","Use only equations"],0,"Audience adaptation changes the presentation, not the underlying science."),
+q("ac9s7i08-p-011","particle theory","Which statement correctly describes particle theory?",["Matter is made of particles whose arrangement and movement differ between states","Matter is made only of light","Particles exist only in gases","Particles stop existing during melting"],0,"Particle theory models matter as particles with different arrangements and motion in solids, liquids and gases."),
+q("ac9s7i08-p-012","solids","In a simple particle animation, particles in a solid should be shown as:",["Far apart and moving freely","Close together and vibrating about fixed positions","Completely motionless","Changing into light"],1,"In the particle model, solid particles are closely packed and vibrate about fixed positions."),
+q("ac9s7i08-p-013","text features","Headings, captions and labelled diagrams mainly help scientific communication by:",["Making structure and meaning easier to follow","Replacing evidence","Proving a claim automatically","Making the text longer"],0,"Text features organise information and help audiences interpret scientific ideas efficiently."),
+q("ac9s7i08-p-014","accuracy","Accuracy refers to:",["How close a measurement is to an accepted or reference value","How colourful a graph is","How many paragraphs a report contains","How persuasive a claim sounds"],0,"Accuracy describes closeness to an accepted or reference value."),
+q("ac9s7i08-p-015","letter","A strong letter to the editor about an environmental issue should include:",["A clear viewpoint supported by evidence","Only laboratory procedures","No acknowledgement of other views","Aggressive language"],0,"An effective letter states a position, supports it with evidence and uses a respectful persuasive tone."),
+q("ac9s7i08-p-016","seasons","Which factor is central to explaining Earth's seasons?",["Earth's axial tilt as Earth revolves around the Sun","Earth's daily rotation alone","Changes in Earth's distance from the Sun each day","The Moon blocking sunlight"],0,"Seasons result primarily from Earth's tilted axis changing the angle and duration of sunlight during its yearly revolution."),
+q("ac9s7i08-p-017","storyboard","What is the main purpose of a storyboard for a particle-theory animation?",["Plan the sequence of visuals, movement and explanations","Calculate the mean of a dataset","Replace the scientific model","Identify organisms"],0,"A storyboard plans how information will unfold across frames before the animation is built."),
+q("ac9s7i08-p-018","language feature","Which is a common feature of formal scientific reporting?",["Precise technical vocabulary","Unexplained slang","Rhyming couplets","Exaggerated claims"],0,"Scientific reports generally use precise, objective language appropriate to their audience."),
+q("ac9s7i08-p-019","key logic","A good dichotomous-key question should:",["Offer two clear, mutually exclusive choices based on observable features","Ask for a personal opinion","Offer six overlapping choices","Depend on hidden information"],0,"Each step should split possibilities into two clear alternatives."),
+q("ac9s7i08-p-020","rotation","Earth's rotation causes:",["Day and night","The yearly seasons by itself","The lunar cycle","Earth's axial tilt"],0,"Earth rotates once roughly every 24 hours, producing day and night."),
+q("ac9s7i08-p-021","report structure","Which section of an investigation report presents the measurements and observations?",["Results","Greeting","Call to action","Storyboard"],0,"The results section presents collected data and observations, often using tables or graphs."),
+q("ac9s7i08-p-022","line graph","Which representation is usually most suitable for showing a continuous change over time?",["Line graph","Dichotomous key","Letter to the editor","Photograph alone"],0,"A line graph is effective for showing how a measured quantity changes continuously with time."),
+q("ac9s7i08-p-023","digital tools","A digital tool improves scientific communication most when it:",["Adds a useful interactive, visual or analytical feature that helps the audience understand","Adds animations even when unrelated","Replaces all evidence with decoration","Makes the file larger"],0,"Digital features should serve the communication purpose and audience."),
+q("ac9s7i08-p-024","reproducibility","Which change most improves reproducibility of an investigation report?",["Write a clear, detailed method with controlled conditions and units","Hide key procedural details","Change the method between trials","Remove the equipment list"],0,"Another investigator needs enough detail to repeat the procedure consistently.")
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
