@@ -40,6 +40,13 @@ function isCanonicalTopicPage(file) {
   return TOPIC_RE.test(normalise(file));
 }
 
+function isCompatibilityRedirect(file) {
+  const html = fs.readFileSync(file, 'utf8');
+  const noindex = /<meta\b[^>]*name=["']robots["'][^>]*content=["'][^"']*noindex/i.test(html);
+  const redirects = /<meta\b[^>]*http-equiv=["']refresh["']/i.test(html) || /location\.replace\s*\(/i.test(html);
+  return noindex && redirects;
+}
+
 function startTags(html) {
   const tags = [];
   for (const match of html.matchAll(START_TAG_RE)) {
@@ -100,7 +107,7 @@ function directTopicPages(root) {
   for (const entry of fs.readdirSync(root, { withFileTypes: true })) {
     if (!entry.isDirectory()) continue;
     const candidate = normalise(path.join(root, entry.name, 'index.html'));
-    if (fs.existsSync(candidate) && isCanonicalTopicPage(candidate)) pages.push(candidate);
+    if (fs.existsSync(candidate) && isCanonicalTopicPage(candidate) && !isCompatibilityRedirect(candidate)) pages.push(candidate);
   }
   return pages;
 }
@@ -127,7 +134,7 @@ for (const root of PERMANENTLY_LOCKED_ROOTS) {
 
 const changedTopicPages = changedFiles(baseSha).filter(isCanonicalTopicPage);
 for (const page of changedTopicPages) {
-  if (fs.existsSync(page)) pages.add(page); // deleted pages are handled by other site/link audits
+  if (fs.existsSync(page) && !isCompatibilityRedirect(page)) pages.add(page); // deleted pages are handled by other site/link audits
 }
 
 const failures = [];
