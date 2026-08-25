@@ -1,236 +1,28 @@
 "use strict";
 window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s7i03-p-001",
-    "curriculumCode": "AC9S7I03",
-    "bank": "practice",
-    "skill": "choose resolution",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating choose resolution. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating choose resolution. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A 0.1 g balance should not normally support a mass reported as 12.347 g",
-      "Extra decimals interpreted as accuracy",
-      "They may be unsupported precision",
-      "Closeness to accepted or reference value"
-    ],
-    "correct": 0,
-    "explanation": "A 0.1 g balance should not normally support a mass reported as 12.347 g\nHint: They may be unsupported precision.",
-    "structuredExplanation": {
-      "summary": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
-      "hint": "They may be unsupported precision."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i03-p-002",
-    "curriculumCode": "AC9S7I03",
-    "bank": "practice",
-    "skill": "distinguish accuracy precision",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating distinguish accuracy precision. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating distinguish accuracy precision. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Repeated biased values averaged",
-      "Reporting more decimal places than the instrument supports creates false precision.",
-      "Systematic error remains",
-      "Closeness to accepted or reference value"
-    ],
-    "correct": 1,
-    "explanation": "Reporting more decimal places than the instrument supports creates false precision.\nHint: Systematic error remains.",
-    "structuredExplanation": {
-      "summary": "Reporting more decimal places than the instrument supports creates false precision.",
-      "hint": "Systematic error remains."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i03-p-003",
-    "curriculumCode": "AC9S7I03",
-    "bank": "practice",
-    "skill": "plan calibration",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating plan calibration. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating plan calibration. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Instrument range ignored",
-      "Over-range readings may be invalid",
-      "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
-      "Closeness to accepted or reference value"
-    ],
-    "correct": 2,
-    "explanation": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.\nHint: Over-range readings may be invalid.",
-    "structuredExplanation": {
-      "summary": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
-      "hint": "Over-range readings may be invalid."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i03-p-004",
-    "curriculumCode": "AC9S7I03",
-    "bank": "practice",
-    "skill": "read scale correctly",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating read scale correctly. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating read scale correctly. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Digital sensor considered automatic truth",
-      "Audit setup and calibration",
-      "Closeness to accepted or reference value",
-      "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail."
-    ],
-    "correct": 3,
-    "explanation": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.\nHint: Audit setup and calibration.",
-    "structuredExplanation": {
-      "summary": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
-      "hint": "Audit setup and calibration."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i03-p-005",
-    "curriculumCode": "AC9S7I03",
-    "bank": "practice",
-    "skill": "audit digital settings",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies precision in equipment, accuracy and precision?",
-    "audioPrompt": "Which statement correctly identifies precision in equipment, accuracy and precision?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A 0.1 g balance should not normally support a mass reported as 12.347 g",
-      "Extra decimals interpreted as accuracy",
-      "They may be unsupported precision",
-      "Closeness to accepted or reference value"
-    ],
-    "correct": 0,
-    "explanation": "A 0.1 g balance should not normally support a mass reported as 12.347 g\nHint: They may be unsupported precision.",
-    "structuredExplanation": {
-      "summary": "A 0.1 g balance should not normally support a mass reported as 12.347 g",
-      "hint": "They may be unsupported precision."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i03-p-006",
-    "curriculumCode": "AC9S7I03",
-    "bank": "practice",
-    "skill": "choose resolution",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes calibration in equipment, accuracy and precision?",
-    "audioPrompt": "Which choice best describes calibration in equipment, accuracy and precision?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Repeated biased values averaged",
-      "Reporting more decimal places than the instrument supports creates false precision.",
-      "Systematic error remains",
-      "Closeness to accepted or reference value"
-    ],
-    "correct": 1,
-    "explanation": "Reporting more decimal places than the instrument supports creates false precision.\nHint: Systematic error remains.",
-    "structuredExplanation": {
-      "summary": "Reporting more decimal places than the instrument supports creates false precision.",
-      "hint": "Systematic error remains."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i03-p-007",
-    "curriculumCode": "AC9S7I03",
-    "bank": "practice",
-    "skill": "distinguish accuracy precision",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for accuracy in equipment, accuracy and precision?",
-    "audioPrompt": "What does correct use require for accuracy in equipment, accuracy and precision?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Instrument range ignored",
-      "Over-range readings may be invalid",
-      "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
-      "Closeness to accepted or reference value"
-    ],
-    "correct": 2,
-    "explanation": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.\nHint: Over-range readings may be invalid.",
-    "structuredExplanation": {
-      "summary": "Digital equipment also requires units, calibration, sampling rate, sensor placement and data-export checks.",
-      "hint": "Over-range readings may be invalid."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i03-p-008",
-    "curriculumCode": "AC9S7I03",
-    "bank": "practice",
-    "skill": "plan calibration",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating plan calibration. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating plan calibration. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Digital sensor considered automatic truth",
-      "Audit setup and calibration",
-      "Closeness to accepted or reference value",
-      "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail."
-    ],
-    "correct": 3,
-    "explanation": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.\nHint: Audit setup and calibration.",
-    "structuredExplanation": {
-      "summary": "Instrument choice should match the quantity, range and required resolution; accuracy concerns closeness to a reference, while precision concerns repeatability and detail.",
-      "hint": "Audit setup and calibration."
-    },
-    "qualitySchema": "production-v1"
-  }
+  {"id":"ac9s7i03-p-001","curriculumCode":"AC9S7I03","bank":"practice","skill":"equipment range","printable":true,"type":"single","question":"Which thermometer is most suitable for water expected to heat from 22°C to 65°C?","audioPrompt":"Which thermometer is most suitable for water expected to heat from 22°C to 65°C?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["0–50°C thermometer","–10–110°C thermometer","50–150°C thermometer","A thermometer with no marked scale"],"correct":1,"explanation":"The chosen thermometer must cover the full expected range; –10–110°C does so.\nHint: Check the instrument range before considering anything else.","structuredExplanation":{"summary":"The chosen thermometer must cover the full expected range; –10–110°C does so.","hint":"Check the instrument range before considering anything else."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-002","curriculumCode":"AC9S7I03","bank":"practice","skill":"volume equipment","printable":true,"type":"single","question":"You need to measure 15 mL of acid accurately. Which tool is most appropriate?","audioPrompt":"You need to measure 15 mL of acid accurately. Which tool is most appropriate?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1 L beaker","10 mL measuring cylinder","25 mL measuring cylinder","500 mL flask"],"correct":2,"explanation":"A 25 mL measuring cylinder has enough capacity and finer graduations than a large beaker or flask.\nHint: Choose a capacity just above the volume needed.","structuredExplanation":{"summary":"A 25 mL measuring cylinder has enough capacity and finer graduations than a large beaker or flask.","hint":"Choose a capacity just above the volume needed."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-003","curriculumCode":"AC9S7I03","bank":"practice","skill":"resolution","printable":true,"type":"single","question":"A ruler marked every millimetre has a resolution of:","audioPrompt":"A ruler marked every millimetre has a resolution of:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1 m","1 cm","1 mm","0.1 mm"],"correct":2,"explanation":"Resolution is the smallest scale division that can be read directly.\nHint: Look at the smallest marked interval.","structuredExplanation":{"summary":"Resolution is the smallest scale division that can be read directly.","hint":"Look at the smallest marked interval."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-004","curriculumCode":"AC9S7I03","bank":"practice","skill":"precision definition","printable":true,"type":"single","question":"Which statement best describes measurement precision?","audioPrompt":"Which statement best describes measurement precision?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["How close a value is to a true or accepted value","How finely measurements can be distinguished and how consistently repeated values agree","How many different instruments are used","How quickly a reading is taken"],"correct":1,"explanation":"Precision concerns measurement detail and repeatability, not closeness to a true value.\nHint: Do not confuse precision with accuracy.","structuredExplanation":{"summary":"Precision concerns measurement detail and repeatability, not closeness to a true value.","hint":"Do not confuse precision with accuracy."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-005","curriculumCode":"AC9S7I03","bank":"practice","skill":"unsuitable range","printable":true,"type":"single","question":"You expect temperatures from 10°C to 40°C. Which thermometer is unsuitable?","audioPrompt":"You expect temperatures from 10°C to 40°C. Which thermometer is unsuitable?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["0–50°C","–10–50°C","0–100°C","40–100°C"],"correct":3,"explanation":"A 40–100°C thermometer cannot measure most of the expected range.\nHint: The entire expected range must be measurable.","structuredExplanation":{"summary":"A 40–100°C thermometer cannot measure most of the expected range.","hint":"The entire expected range must be measurable."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-006","curriculumCode":"AC9S7I03","bank":"practice","skill":"balance resolution","printable":true,"type":"single","question":"A powder sample is about 2.35 g. Which balance gives the most appropriate resolution?","audioPrompt":"A powder sample is about 2.35 g. Which balance gives the most appropriate resolution?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1 g resolution","0.1 g resolution","0.01 g resolution","10 g resolution"],"correct":2,"explanation":"A 0.01 g balance can resolve hundredths of a gram, matching the required detail.\nHint: Match resolution to the decimal detail needed.","structuredExplanation":{"summary":"A 0.01 g balance can resolve hundredths of a gram, matching the required detail.","hint":"Match resolution to the decimal detail needed."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-007","curriculumCode":"AC9S7I03","bank":"practice","skill":"timing tool","printable":true,"type":"single","question":"A reaction lasts about 5 seconds. Which tool is most appropriate for timing it?","audioPrompt":"A reaction lasts about 5 seconds. Which tool is most appropriate for timing it?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Wall clock","Digital stopwatch","Hourglass","Classroom clock"],"correct":1,"explanation":"A digital stopwatch gives much finer time resolution than clocks or an hourglass.\nHint: Short events require fine time resolution.","structuredExplanation":{"summary":"A digital stopwatch gives much finer time resolution than clocks or an hourglass.","hint":"Short events require fine time resolution."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-008","curriculumCode":"AC9S7I03","bank":"practice","skill":"measuring cylinder","printable":true,"type":"single","question":"Why is a 250 mL measuring cylinder usually better than a 1 L beaker for measuring 200 mL?","audioPrompt":"Why is a 250 mL measuring cylinder usually better than a 1 L beaker for measuring 200 mL?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It is always more accurate","It has finer, purpose-built volume graduations","It is always made of glass","It can always be heated"],"correct":1,"explanation":"Measuring cylinders are designed for volume measurement and usually have finer graduations than beakers.\nHint: Think about instrument purpose and scale markings.","structuredExplanation":{"summary":"Measuring cylinders are designed for volume measurement and usually have finer graduations than beakers.","hint":"Think about instrument purpose and scale markings."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-009","curriculumCode":"AC9S7I03","bank":"practice","skill":"digital stopwatch","printable":true,"type":"single","question":"A digital stopwatch may improve precision because it:","audioPrompt":"A digital stopwatch may improve precision because it:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Automatically makes the experiment accurate","Displays smaller time increments clearly","Removes all reaction-time error","Never needs checking"],"correct":1,"explanation":"Digital displays can provide finer resolution, but they do not remove all error.\nHint: Digital does not mean error-free.","structuredExplanation":{"summary":"Digital displays can provide finer resolution, but they do not remove all error.","hint":"Digital does not mean error-free."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-010","curriculumCode":"AC9S7I03","bank":"practice","skill":"digital scale resolution","printable":true,"type":"single","question":"A digital scale displays 12.35 g. Its display resolution is most likely:","audioPrompt":"A digital scale displays 12.35 g. Its display resolution is most likely:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["1 g","0.1 g","0.01 g","0.001 g"],"correct":2,"explanation":"Two decimal places in grams indicate 0.01 g display increments.\nHint: Read the place value of the last displayed digit.","structuredExplanation":{"summary":"Two decimal places in grams indicate 0.01 g display increments.","hint":"Read the place value of the last displayed digit."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-011","curriculumCode":"AC9S7I03","bank":"practice","skill":"sensor advantage","printable":true,"type":"single","question":"Which is a useful advantage of some digital sensors?","audioPrompt":"Which is a useful advantage of some digital sensors?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["They never need calibration","They are always accurate","They can log repeated measurements automatically","They are always cheaper"],"correct":2,"explanation":"Data logging can collect measurements at regular intervals without manual transcription.\nHint: Look for a real capability, not an absolute claim.","structuredExplanation":{"summary":"Data logging can collect measurements at regular intervals without manual transcription.","hint":"Look for a real capability, not an absolute claim."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-012","curriculumCode":"AC9S7I03","bank":"practice","skill":"light sensor","printable":true,"type":"single","question":"A light sensor measures:","audioPrompt":"A light sensor measures:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Temperature","Humidity","Light intensity","Soil pH"],"correct":2,"explanation":"Light sensors measure light intensity, commonly reported in lux.\nHint: Match the sensor to the abiotic factor.","structuredExplanation":{"summary":"Light sensors measure light intensity, commonly reported in lux.","hint":"Match the sensor to the abiotic factor."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-013","curriculumCode":"AC9S7I03","bank":"practice","skill":"identification app","printable":true,"type":"single","question":"A plant-identification app using photographs is mainly helping identify:","audioPrompt":"A plant-identification app using photographs is mainly helping identify:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["An abiotic factor","A biotic factor","A unit conversion","A measuring-cylinder capacity"],"correct":1,"explanation":"Plants are living components of an ecosystem, so they are biotic factors.\nHint: Biotic means living.","structuredExplanation":{"summary":"Plants are living components of an ecosystem, so they are biotic factors.","hint":"Biotic means living."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-014","curriculumCode":"AC9S7I03","bank":"practice","skill":"app reliability","printable":true,"type":"single","question":"An identification app suggests a plant species from one photo. What is the best next step?","audioPrompt":"An identification app suggests a plant species from one photo. What is the best next step?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Accept the result as certain","Cross-check with another reliable source or additional evidence","Delete the observation","Assume the app is wrong"],"correct":1,"explanation":"Image-recognition tools can misidentify organisms, so identifications should be checked.\nHint: Digital identification is evidence, not certainty.","structuredExplanation":{"summary":"Image-recognition tools can misidentify organisms, so identifications should be checked.","hint":"Digital identification is evidence, not certainty."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-015","curriculumCode":"AC9S7I03","bank":"practice","skill":"humidity unit","printable":true,"type":"single","question":"Relative humidity is commonly recorded as:","audioPrompt":"Relative humidity is commonly recorded as:","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["°C","%","mL","g"],"correct":1,"explanation":"Relative humidity is expressed as a percentage.\nHint: Match the quantity with its conventional unit.","structuredExplanation":{"summary":"Relative humidity is expressed as a percentage.","hint":"Match the quantity with its conventional unit."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-016","curriculumCode":"AC9S7I03","bank":"practice","skill":"soil moisture","printable":true,"type":"single","question":"Which is an abiotic factor that can be measured digitally in fieldwork?","audioPrompt":"Which is an abiotic factor that can be measured digitally in fieldwork?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Bird species","Plant name","Soil moisture","Insect species"],"correct":2,"explanation":"Soil moisture is a non-living environmental factor and can be measured with sensors.\nHint: Abiotic means non-living.","structuredExplanation":{"summary":"Soil moisture is a non-living environmental factor and can be measured with sensors.","hint":"Abiotic means non-living."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-017","curriculumCode":"AC9S7I03","bank":"practice","skill":"table iv","printable":true,"type":"single","question":"In a cooling experiment where temperature is measured every minute, which variable would usually go in the first column of the table?","audioPrompt":"In a cooling experiment where temperature is measured every minute, which variable would usually go in the first column of the table?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Temperature","Time","Instrument brand","Observer name"],"correct":1,"explanation":"Time is the independent variable and is conventionally placed first.\nHint: Place the variable you change or sequence first.","structuredExplanation":{"summary":"Time is the independent variable and is conventionally placed first.","hint":"Place the variable you change or sequence first."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-018","curriculumCode":"AC9S7I03","bank":"practice","skill":"table heading","printable":true,"type":"single","question":"Which column heading is best for measured temperature?","audioPrompt":"Which column heading is best for measured temperature?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Temperature","Temp","Temperature (°C)","Hotness"],"correct":2,"explanation":"A good heading names the quantity and includes its unit.\nHint: A reader should know both what and how it was measured.","structuredExplanation":{"summary":"A good heading names the quantity and includes its unit.","hint":"A reader should know both what and how it was measured."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-019","curriculumCode":"AC9S7I03","bank":"practice","skill":"spreadsheet use","printable":true,"type":"single","question":"Which task is a spreadsheet particularly useful for?","audioPrompt":"Which task is a spreadsheet particularly useful for?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Automatically calculating averages from entered data","Replacing the investigation","Guaranteeing correct measurements","Choosing the hypothesis"],"correct":0,"explanation":"Spreadsheets can calculate values and create graphs from recorded data.\nHint: Software can process data but cannot guarantee data quality.","structuredExplanation":{"summary":"Spreadsheets can calculate values and create graphs from recorded data.","hint":"Software can process data but cannot guarantee data quality."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-020","curriculumCode":"AC9S7I03","bank":"practice","skill":"graph choice","printable":true,"type":"single","question":"Which graph is generally most suitable for showing temperature changing continuously over time?","audioPrompt":"Which graph is generally most suitable for showing temperature changing continuously over time?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Pie chart","Line graph","Pictograph","Single bar"],"correct":1,"explanation":"A line graph is well suited to continuous change over time.\nHint: Think continuous relationship.","structuredExplanation":{"summary":"A line graph is well suited to continuous change over time.","hint":"Think continuous relationship."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-021","curriculumCode":"AC9S7I03","bank":"practice","skill":"flowchart","printable":true,"type":"single","question":"Which graphic organiser is best for showing the sequence of steps in a method?","audioPrompt":"Which graphic organiser is best for showing the sequence of steps in a method?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Flowchart","Pie chart","Scatter plot","Histogram"],"correct":0,"explanation":"A flowchart represents an ordered process clearly.\nHint: Choose the organiser built for sequence.","structuredExplanation":{"summary":"A flowchart represents an ordered process clearly.","hint":"Choose the organiser built for sequence."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-022","curriculumCode":"AC9S7I03","bank":"practice","skill":"unit conversion volume","printable":true,"type":"single","question":"Convert 500 mL to litres.","audioPrompt":"Convert 500 mL to litres.","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["0.05 L","0.5 L","5 L","50 L"],"correct":1,"explanation":"1000 mL = 1 L, so 500 mL = 0.5 L.\nHint: Divide millilitres by 1000.","structuredExplanation":{"summary":"1000 mL = 1 L, so 500 mL = 0.5 L.","hint":"Divide millilitres by 1000."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-023","curriculumCode":"AC9S7I03","bank":"practice","skill":"unit conversion length","printable":true,"type":"single","question":"Convert 2.5 m to centimetres.","audioPrompt":"Convert 2.5 m to centimetres.","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["25 cm","250 cm","2.5 cm","2500 cm"],"correct":1,"explanation":"1 m = 100 cm, so 2.5 m = 250 cm.\nHint: Multiply metres by 100.","structuredExplanation":{"summary":"1 m = 100 cm, so 2.5 m = 250 cm.","hint":"Multiply metres by 100."},"qualitySchema":"production-v1"},
+  {"id":"ac9s7i03-p-024","curriculumCode":"AC9S7I03","bank":"practice","skill":"standard units","printable":true,"type":"single","question":"Why are consistent standard units important when comparing data?","audioPrompt":"Why are consistent standard units important when comparing data?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["They make values larger","They reduce confusion and allow valid comparison","They remove measurement error","They remove the need for conversions"],"correct":1,"explanation":"Consistent units ensure like is compared with like and prevent interpretation errors.\nHint: Different units can make correct values look incompatible.","structuredExplanation":{"summary":"Consistent units ensure like is compared with like and prevent interpretation errors.","hint":"Different units can make correct values look incompatible."},"qualitySchema":"production-v1"}
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
