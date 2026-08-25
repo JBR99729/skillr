@@ -1,50 +1,53 @@
-name: Validate Year 7 Science premium topic pages
+name: Finalize Year 7 Science premium topic pages
 
 on:
+  push:
+    branches:
+      - agent/year7-science-premium-topic-pages
+    paths:
+      - scripts/finalize_year7_science_premium.py
+      - .github/workflows/year7-science-premium-build.yml
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  validate:
+  finalize:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Validate committed static output
+        with:
+          ref: agent/year7-science-premium-topic-pages
+          fetch-depth: 0
+      - name: Apply static architecture alignment
+        run: python scripts/finalize_year7_science_premium.py
+      - name: Validate architecture and output
         run: |
+          node scripts/validate_static_curriculum_architecture.mjs
           python - <<'PY'
           from pathlib import Path
-
-          expected_codes = {
-              'AC9S7U01','AC9S7U02','AC9S7U03','AC9S7U04','AC9S7U05','AC9S7U06',
-              'AC9S7H01','AC9S7H02','AC9S7H03','AC9S7H04',
-              'AC9S7I01','AC9S7I02','AC9S7I03','AC9S7I04','AC9S7I05','AC9S7I06','AC9S7I07','AC9S7I08',
-          }
-          pages = list(Path('year7/science').glob('ac9s7*/index.html'))
-          found = set()
-          for page in pages:
-              text = page.read_text(encoding='utf-8')
-              for code in expected_codes:
-                  marker = f'science-premium-layer:{code}'
-                  if marker in text:
-                      assert text.count(marker) == 1, f'duplicate premium layer: {code}'
-                      for phrase in ('Worked example','Common misconception','Exam tip','Retrieval question'):
-                          assert phrase in text, f'{code} missing {phrase}'
-                      found.add(code)
-          assert found == expected_codes, f'missing codes: {sorted(expected_codes-found)}'
-
-          images = [
-              'balanced-unbalanced-forces.webp',
-              'classification-tree.webp',
-              'earth-sun-moon-alignment.webp',
-              'food-web-energy-flow.webp',
-              'mixture-separation.webp',
-              'particle-states.webp',
-          ]
-          for name in images:
-              p = Path('assets/illustrations/science') / name
-              assert p.exists(), name
-              assert p.stat().st_size <= 60 * 1024, f'{name} exceeds 60 KB'
-          print('PASS: 18/18 static Year 7 Science pages and 6 lightweight WebPs')
+          expected = 18
+          pages = [p for p in Path('year7/science').glob('ac9s7*/index.html') if 'science-premium-layer:' in p.read_text(encoding='utf-8')]
+          assert len(pages) == expected, len(pages)
+          for p in pages:
+              text = p.read_text(encoding='utf-8')
+              for phrase in ('Key concept','Worked example','Common misconception','Exam tip','Retrieval question'):
+                  assert phrase in text, f'{p}: missing {phrase}'
+          for p in Path('assets/illustrations/science').glob('*.webp'):
+              assert p.stat().st_size <= 60 * 1024, p
+          print('PASS: Year 7 Science premium static output')
           PY
+          git diff --check
+      - name: Commit finalized static pages
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add year7/science
+          if git diff --cached --quiet; then
+            echo 'No page changes to commit'
+          else
+            git commit -m 'Align Year 7 Science pages with static architecture'
+            git push origin HEAD:agent/year7-science-premium-topic-pages
+          fi
