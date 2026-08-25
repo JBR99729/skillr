@@ -98,15 +98,15 @@ function validateLiveOverride(code, bank, expectedCount, attemptCount) {
 
 for (const code of codes) validateProductionJson(code);
 
-const livePractice = validateLiveOverride("AC9S2U01", "practice", 49, 10);
-const liveTest = validateLiveOverride("AC9S2U01", "test", 32, 15);
+const livePractice = validateLiveOverride("AC9S2U01", "practice", 49, 8);
+const liveTest = validateLiveOverride("AC9S2U01", "test", 32, 8);
 const livePracticePrompts = new Set(livePractice.map((item) => norm(item.question)));
 for (const item of liveTest) if (livePracticePrompts.has(norm(item.question))) problems.push(`AC9S2U01: live Practice/Test prompt overlap at ${item.id}`);
 
-// The remaining Year 2 Science routes continue to use the standard 24/16 banks and 8/12 attempts.
+// The remaining Year 2 Science routes use standard 24/16 banks and eight-question attempts.
 for (const code of codes.filter((value) => value !== "AC9S2U01")) {
   const route = path.join(ROOT, "quiz", "year-2", "science", code.toLowerCase());
-  for (const [bank, attempt, count] of [["practice", 8, 24], ["test", 12, 16]]) {
+  for (const [bank, attempt, count] of [["practice", 8, 24], ["test", 8, 16]]) {
     const html = fs.readFileSync(path.join(route, bank, "index.html"), "utf8");
     if (!html.includes(`"maxQuestions":${attempt}`) || !html.includes('"shuffleQuestions":true') || !html.includes('"questionCycle":true')) problems.push(`${code} ${bank}: attempt rotation config mismatch`);
     if (!html.includes(`>${count}</span><span class="summary-label">Question bank`)) problems.push(`${code} ${bank}: bank count presentation mismatch`);
@@ -125,6 +125,6 @@ console.log(JSON.stringify({
   status: "PASS",
   codes: `${codes.length}/${codes.length}`,
   legacyProductionJsonTotals: totals,
-  AC9S2U01Live: { practice: livePractice.length, practiceAttempt: 10, test: liveTest.length, testAttempt: 15 },
+  AC9S2U01Live: { practice: livePractice.length, practiceAttempt: 8, test: liveTest.length, testAttempt: 8 },
   checks: ["schema", "syntax", "unique IDs", "unique prompts", "Practice/Test separation", "answer keys", "balanced correct positions", "audio prompts", "question-specific explanations", "rotation config"]
 }, null, 2));
