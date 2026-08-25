@@ -17,6 +17,8 @@ jobs:
         with:
           ref: agent/year7-astronomy-high-yield-visuals
           fetch-depth: 2
+      - name: Install image dependency
+        run: python -m pip install pillow
       - name: Generate lightweight visuals and update AC9S7U03
         run: |
           python - <<'PY'
