@@ -4,7 +4,9 @@ import path from 'node:path';
 import vm from 'node:vm';
 
 const ROOT = process.cwd();
-const YEARS = [8, 9, 10];
+const requestedYear = Number(process.argv.find((arg) => arg.startsWith('--year='))?.split('=')[1]);
+const YEARS = requestedYear ? [requestedYear] : [8, 9, 10];
+if (requestedYear && ![8, 9, 10].includes(requestedYear)) throw new Error('Use --year=8, --year=9 or --year=10');
 
 const htmlEscape = (value = '') => String(value)
   .replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;')
@@ -45,7 +47,7 @@ function resourceUrl(year, code, type) {
 }
 
 function renderTopic(unit) {
-  const { code, year, title, subtitle, contentDescription, strand, successCriteria = [], conceptBoundary = {}, teachingProgression = {}, elaborations = [], workedExamples = [], misconceptions = [], differentiation = {}, warmUp = {} } = unit;
+  const { code, year, title, subtitle, contentDescription, strand, successCriteria = [], conceptBoundary = {}, teachingProgression = {}, elaborations = [], workedExamples = [], misconceptions = [], differentiation = {}, warmUp = {}, revisionNotes = [], importantQuestions = [] } = unit;
   const steps = asList(teachingProgression.steps);
   const elaborationHtml = asList(elaborations).map((e) => `<article class="curriculum-worked-example"><h3>${htmlEscape(e.id || '')}: ${htmlEscape(e.teachingPurpose || e.plainLanguageConcept || '')}</h3><p><strong>Curriculum:</strong> ${htmlEscape(e.curriculumWording || '')}</p><p>${htmlEscape(e.plainLanguageConcept || '')}</p>${e.teacherDoes ? `<p><strong>Teacher:</strong> ${htmlEscape(e.teacherDoes)}</p>` : ''}${e.teacherSaysOrAsks ? `<p><strong>Ask:</strong> ${htmlEscape(e.teacherSaysOrAsks)}</p>` : ''}${e.whatToLookFor ? `<p><strong>Look for:</strong> ${htmlEscape(e.whatToLookFor)}</p>` : ''}</article>`).join('');
   const examplesHtml = asList(workedExamples).map((e) => `<article class="curriculum-worked-example"><h3>${htmlEscape(e.title || 'Worked example')}</h3><p>${htmlEscape(e.example || '')}</p>${e.teacherLanguage ? `<p><strong>Teacher prompt:</strong> ${htmlEscape(e.teacherLanguage)}</p>` : ''}</article>`).join('');
@@ -68,6 +70,8 @@ function renderTopic(unit) {
 <details class="curriculum-topic-section"><summary><strong>Common misconceptions and quick fixes</strong></summary><div class="curriculum-detail-body"><ul>${misconceptionRows(misconceptions)}</ul></div></details>
 <details class="curriculum-topic-section"><summary><strong>Support, core and extend</strong></summary><div class="curriculum-detail-body">${diffHtml || '<p>Adjust numerical and representational load while preserving the same mathematical decision.</p>'}</div></details>
 <details class="curriculum-topic-section"><summary><strong>Quick check and mastery evidence</strong></summary><div class="curriculum-detail-body">${warmUp.prompt ? `<p><strong>Prompt:</strong> ${htmlEscape(warmUp.prompt)}</p>` : ''}${warmUp.expectedAnswer ? `<p><strong>Expected idea:</strong> ${htmlEscape(warmUp.expectedAnswer)}</p>` : ''}<p>Students should explain the relationship in their own words, apply it in a new case and verify the result using another representation, estimate or check.</p></div></details>
+${asList(revisionNotes).length ? `<details class="curriculum-topic-section"><summary><strong>Revision Notes</strong></summary><div class="curriculum-detail-body">${textList(revisionNotes)}</div></details>` : ''}
+${asList(importantQuestions).length ? `<details class="curriculum-topic-section"><summary><strong>Important questions and answers</strong></summary><div class="curriculum-detail-body">${asList(importantQuestions).map((item, index) => `<article class="curriculum-worked-example"><h3>${index + 1}. ${htmlEscape(item.question || '')}</h3><p><strong>Answer:</strong> ${htmlEscape(item.answer || '')}</p></article>`).join('')}</div></details>` : ''}
 <details class="curriculum-topic-section"><summary><strong>Resources</strong></summary><div class="curriculum-detail-body"><div class="curriculum-link-row"><a class="curriculum-button primary" href="teacher-slides/">Open Teacher Slides</a><a class="curriculum-button" href="${resourceUrl(year, code, 'worksheet')}">Practice Sheet</a><a class="curriculum-button" href="${resourceUrl(year, code, 'practice')}">Practice</a><a class="curriculum-button" href="${resourceUrl(year, code, 'test')}">Test</a></div></div></details>
 </div><aside class="curriculum-sidebar"><section class="curriculum-panel"><h2>Teacher resource</h2><p>Project the fixed branded deck one slide at a time.</p><a class="curriculum-button primary" href="teacher-slides/">Teacher Slides</a></section><section class="curriculum-panel"><h2>Curriculum code</h2><p><strong>${htmlEscape(code)}</strong><br>Year ${year} Mathematics${strand ? ` • ${htmlEscape(strand)}` : ''}</p></section></aside></main>
 </div><script>window.skillrPageMeta={curriculumCode:${JSON.stringify(code)},pageType:'topic guide',year:${JSON.stringify(`Year ${year}`)},subject:'Maths'};</script><script src="/assets/report-issue.js?v=1"></script><script src="/pwa-register.js"></script></body></html>\n`;
