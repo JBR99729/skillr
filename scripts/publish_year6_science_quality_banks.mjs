@@ -44,11 +44,11 @@ for (const [code, unit] of Object.entries(units)) {
 
   for (const mode of ["practice", "test"]) {
     const file = path.join(route, mode, "index.html");
-    const attempt = mode === "practice" ? 8 : 12;
+    const attempt = 8;
     const bankCount = mode === "practice" ? 24 : 16;
     let html = fs.readFileSync(file, "utf8");
     html = html
-      .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${mode === "practice" ? `Practise ${unit.title} with 8 rotating questions from a 24-question bank.` : `Take a 12-question ${unit.title} test drawn from a separate 16-question bank.`}">`)
+      .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${mode === "practice" ? `Practise ${unit.title} with 8 rotating questions from a 24-question bank.` : `Take an 8-question ${unit.title} test drawn from a separate 16-question bank.`}">`)
       .replace(/<div class="quiz-summary">[\s\S]*?<\/div><button class="button button-primary"/, `<div class="quiz-summary"><div><span class="summary-number" id="questionCount">${attempt}</span><span class="summary-label">Questions this attempt</span></div><div><span class="summary-number">${bankCount}</span><span class="summary-label">Question bank</span></div><div><span class="summary-number" id="bestScore">0</span><span class="summary-label">Best score</span></div></div><button class="button button-primary"`)
       .replace(/"maxQuestions":\d+/, `"maxQuestions":${attempt}`)
       .replace(/"shuffleQuestions":(?:true|false)/, `"shuffleQuestions":true`)

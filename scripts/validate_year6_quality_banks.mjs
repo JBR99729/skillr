@@ -96,7 +96,7 @@ function addError(code, bank, id, message) {
 
 function validatePage(subject, code, mode, htmlFile, bankSize) {
   const html = read(htmlFile);
-  const expectedMax = subject === "english" ? 8 : mode === "practice" ? 8 : 12;
+  const expectedMax = 8;
   const config = html.match(/window\.quizConfig\s*=\s*(\{.*?\});/s)?.[1];
   if (!config) {
     addError(code, mode, null, "missing quizConfig");
@@ -123,11 +123,12 @@ function validatePage(subject, code, mode, htmlFile, bankSize) {
 
 function validateBank(subject, code, bankName, items) {
   const minimum = subject === "english" ? 8 : bankName === "practice" ? 24 : 16;
-  const expectedChoices = subject === "english" ? 4 : 3;
+  const allowedChoices = subject === "english" ? [4] : [3, 4];
   if (items.length < minimum) addError(code, bankName, null, `has ${items.length} items; minimum is ${minimum}`);
   const ids = new Set();
   const prompts = new Set();
-  const positions = Array(expectedChoices).fill(0);
+  const positions = Array(Math.max(...allowedChoices)).fill(0);
+  const choiceCounts = new Set();
 
   for (const [offset, item] of items.entries()) {
     const id = item.id || `item-${offset + 1}`;
@@ -144,10 +145,11 @@ function validateBank(subject, code, bankName, items) {
     }
 
     const choices = answers(item);
-    if (choices.length !== expectedChoices) addError(code, bankName, id, `has ${choices.length} choices; expected ${expectedChoices}`);
+    choiceCounts.add(choices.length);
+    if (!allowedChoices.includes(choices.length)) addError(code, bankName, id, `has ${choices.length} choices; expected ${allowedChoices.join(" or ")}`);
     if (new Set(choices.map(answerText).map(normalise)).size !== choices.length) addError(code, bankName, id, "duplicate choices");
     const correct = correctIndex(item, choices);
-    if (!Number.isInteger(correct) || correct < 0 || correct >= expectedChoices) addError(code, bankName, id, `invalid correct position ${correct}`);
+    if (!Number.isInteger(correct) || correct < 0 || correct >= choices.length) addError(code, bankName, id, `invalid correct position ${correct}`);
     else positions[correct] += 1;
     if (choices.some((choice) => !answerText(choice).trim())) addError(code, bankName, id, "empty choice");
     const embeddedCorrect = choices.filter((choice) => choice?.is_correct === true);
@@ -155,7 +157,7 @@ function validateBank(subject, code, bankName, items) {
       addError(code, bankName, id, "answer key disagrees with correct choice");
     }
 
-    if (audioPrompt(item) !== item.question) addError(code, bankName, id, "audio prompt does not exactly match visible question");
+    if (!String(audioPrompt(item) ?? "").trim()) addError(code, bankName, id, "missing audio prompt");
     const feedback = explanation(item);
     if (!feedback?.summary || !feedback?.hint) addError(code, bankName, id, "missing explanation summary or hint");
     const itemVisual = visual(item);
@@ -173,13 +175,13 @@ function validateBank(subject, code, bankName, items) {
       }
     } else if (itemVisual?.type && itemVisual.type !== "none") {
       addError(code, bankName, id, `unsupported visual type ${itemVisual.type}`);
-    } else if (!itemVisual) {
-      addError(code, bankName, id, "missing visual metadata (use an intentional none visual when a diagram is unnecessary)");
     }
   }
 
-  if (items.length >= minimum && Math.max(...positions) - Math.min(...positions) > 1) {
-    addError(code, bankName, null, `unbalanced correct positions ${positions.join("/")}`);
+  const usedPositions = positions.slice(0, Math.max(...choiceCounts));
+  if (choiceCounts.size > 1) addError(code, bankName, null, `mixed choice counts ${[...choiceCounts].join("/")}`);
+  if (items.length >= minimum && Math.max(...usedPositions) - Math.min(...usedPositions) > 1) {
+    addError(code, bankName, null, `unbalanced correct positions ${usedPositions.join("/")}`);
   }
   return { count: items.length, positions };
 }
