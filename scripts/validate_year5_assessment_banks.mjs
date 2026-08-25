@@ -148,7 +148,7 @@ for (const subject of ACTIVE_SUBJECTS) {
     const practiceConfig = fs.readFileSync(practiceHtml, "utf8");
     const testConfig = fs.readFileSync(testHtml, "utf8");
     if (!/"maxQuestions":8/.test(practiceConfig) || !/"shuffleQuestions":true/.test(practiceConfig)) issues.push(`${code}: Practice is not configured to rotate 8 questions`);
-    if (!/"maxQuestions":12/.test(testConfig)) issues.push(`${code}: Test is not configured for 12 questions`);
+    if (!/"maxQuestions":8/.test(testConfig) || !/"shuffleQuestions":true/.test(testConfig)) issues.push(`${code}: Test is not configured to rotate 8 questions`);
     if (/QA complete|QA-complete|quality assured/i.test(`${practiceConfig}\n${testConfig}`)) issues.push(`${code}: QA-complete badge text remains`);
     for (const page of htmlFiles(codeDir)) {
       const html = fs.readFileSync(page, "utf8");
