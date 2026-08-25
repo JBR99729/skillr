@@ -242,9 +242,14 @@ def upgrade_page(code: str, item: dict) -> None:
         crumb = f'<nav aria-label="Breadcrumb" class="breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="/year10/">Year 10</a></li><li><a href="/year10/curriculum/maths/">Maths</a></li><li aria-current="page">{code}</li></ol></nav>'
         text = re.sub(r'(<nav class="main-nav"[\s\S]*?</nav>)', r'\1' + crumb, text, count=1)
 
-    # Preserve existing resource links and add the existing worksheet route when absent.
-    if f'/quiz/year-10/math/{code.lower()}/worksheet/' not in text:
-        text = re.sub(r'(<div class="topic-action-row">)', r'\1<a href="/quiz/year-10/math/' + code.lower() + r'/worksheet/">Worksheet</a>', text, count=1)
+    # Homework is the single visible written-work resource. Legacy worksheet
+    # routes remain noindex redirects to Homework for old links and bookmarks.
+    text = re.sub(
+        r'<a\b[^>]*href=["\']/quiz/year-10/math/' + re.escape(code.lower()) + r'/worksheet/["\'][^>]*>\s*Worksheet\s*</a>',
+        '',
+        text,
+        flags=re.I,
+    )
 
     # Existing 10-question bank becomes the explicit independent-practice section.
     text = text.replace('<summary><strong>10 important questions to solve</strong></summary>', '<summary><strong>Independent practice — 10 important questions to solve</strong></summary>')
