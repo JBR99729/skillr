@@ -16,6 +16,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: fix/year7-science-structural-layout
+          fetch-depth: 2
       - name: Move AC9S7U01 premium layer inside lesson wrapper
         run: |
           python - <<'PY'
