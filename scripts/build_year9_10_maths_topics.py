@@ -37,31 +37,62 @@ def build_year(all_units: list[dict], year: int) -> None:
         title, anchor = CORE[code]
         output[code] = build_spec(unit, title, anchor, HEADINGS[code], AUTHORED.get(code))
         spec = output[code]
-        first = spec["teachingSlides"][0]
-        last = spec["teachingSlides"][-1]
+        slides = spec["teachingSlides"]
+        first = slides[0]
+        last = slides[-1]
         spec["successCriteria"] = [
             f"Explain the central relationship in {title.lower()} using correct mathematical language.",
             f"Apply the worked methods for {first['heading'].lower()} and {last['heading'].lower()} to unfamiliar examples.",
+            "Show enough mathematical working that another student can follow the method.",
             "Check the result using substitution, estimation, an inverse operation or another representation.",
         ]
+
+        # Every curriculum elaboration is a student-facing worked model.  The old
+        # first/last-only rule made pages look complete while omitting most of the
+        # actual learning sequence.
         spec["workedExamples"] = [
             {
-                "title": first["heading"],
-                "example": first["highlight"],
-                "teacherLanguage": first["ask"],
-            },
-            {
-                "title": last["heading"],
-                "example": last["highlight"],
-                "teacherLanguage": last["ask"],
-            },
+                "title": slide["heading"],
+                "example": slide["highlight"],
+                "teacherLanguage": slide["ask"],
+                "answer": slide["answer"],
+            }
+            for slide in slides
         ]
-        spec["revisionNotes"] = [anchor, first["highlight"], last["highlight"]]
-        spec["importantQuestions"] = [
+
+        # Revision notes must cover the full learning progression rather than just
+        # repeat the anchor and two end points.
+        notes = [anchor] + [slide["highlight"] for slide in slides]
+        spec["revisionNotes"] = list(dict.fromkeys(notes))[:8]
+
+        # A useful topic page needs enough retrieval practice to check mastery.
+        # Keep the central-concept question, then turn each authored teaching check
+        # into an explicit Q&A. Add transfer/check questions where fewer than eight
+        # authored prompts exist.
+        questions = [
             {"question": f"What is the central idea in {title}?", "answer": anchor},
-            {"question": first["ask"], "answer": first["answer"]},
-            {"question": last["ask"], "answer": last["answer"]},
+            *[
+                {"question": slide["ask"], "answer": slide["answer"]}
+                for slide in slides
+            ],
         ]
+        if len(questions) < 8:
+            questions.extend([
+                {
+                    "question": "How can you check that your answer is reasonable without simply repeating the same calculation?",
+                    "answer": "Use an independent check such as estimation, substitution, an inverse operation, a graph, a table or another representation appropriate to the problem.",
+                },
+                {
+                    "question": "What is one common error a student could make in this topic, and how would you correct it?",
+                    "answer": "Name a specific misconception from the topic, identify the mathematical relationship it breaks, then redo the step using the correct relationship.",
+                },
+                {
+                    "question": "How would you explain the method to a student who has never seen this type of problem before?",
+                    "answer": "State what is known, identify the relationship or rule that connects the quantities, apply it one step at a time, and finish by checking the result.",
+                },
+            ])
+        spec["importantQuestions"] = questions[:10]
+
     payload = json.dumps(output, ensure_ascii=False, separators=(",", ":"))
     (ROOT / f"assets/year{year}-maths-data.js").write_text(f"window.SkillrUpperMathsData={payload};\n")
     for code, unit in units.items():
