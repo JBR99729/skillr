@@ -50,7 +50,6 @@
   }
 
   loadScript("/assets/display-only.js?v=1");
-  loadScript("/assets/student-learning-layer.js?v=1");
   loadScript("/assets/foundation-topic-language.js?v=1");
   loadScript("/assets/foundation-maths-professional-ui.js?v=5");
   loadSequence([
