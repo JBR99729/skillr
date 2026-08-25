@@ -49,9 +49,9 @@ for (const code of order) {
     const file = path.join(route, bank, "index.html");
     let html = fs.readFileSync(file, "utf8");
     const isTest = bank === "test";
-    const attempt = isTest ? 12 : 8;
+    const attempt = 8;
     const total = isTest ? 16 : 24;
-    const description = isTest ? `Take a 12-question Year 5 ${unit.title} test drawn from a separate 16-question bank.` : `Practise Year 5 ${unit.title} with rotating questions from a 24-question bank.`;
+    const description = isTest ? `Take an 8-question Year 5 ${unit.title} test drawn from a separate 16-question bank.` : `Practise Year 5 ${unit.title} with rotating questions from a 24-question bank.`;
     html = html
       .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${esc(description)}">`)
       .replace(/<section class="pre-read-notes">[\s\S]*?<\/section>/, `<section class="pre-read-notes"><h2>Quick preparation</h2>${list(notes)}</section>`)
