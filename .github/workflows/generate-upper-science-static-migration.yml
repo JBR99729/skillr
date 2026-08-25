@@ -23,27 +23,27 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Generate static topic pages and fixed slide viewers
-        run: node scripts/migrate_upper_science_static.mjs
+      - name: Generate Year 9 static topic pages and fixed slide viewers
+        run: node scripts/migrate_upper_science_static.mjs --year=9
       - name: Rewrite curriculum links to fixed viewers
         run: node scripts/fix_english_science_teacher_routes.mjs
       - name: Validate generated architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
-      - name: Verify no legacy upper Science live routes remain
+      - name: Verify no legacy Year 9 Science live routes remain
         run: |
-          if grep -R "worksheets/year\(8\|9\|10\)/science/teacher-slides/live.html" year8/curriculum/science year9/curriculum/science year10/curriculum/science; then
-            echo 'Legacy upper Science teacher-slide route remains.'
+          if grep -R "worksheets/year9/science/teacher-slides/live.html" year9/curriculum/science; then
+            echo 'Legacy Year 9 Science teacher-slide route remains.'
             exit 1
           fi
-      - name: Commit generated files to migration branch
+      - name: Commit generated Year 9 Science files
         shell: bash
         run: |
-          if git diff --quiet -- year8/science year9/science year10/science year8/curriculum/science/index.html year9/curriculum/science/index.html year10/curriculum/science/index.html; then
+          if git diff --quiet -- year9/science year9/curriculum/science/index.html; then
             echo 'Generated output is already current.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add year8/science year9/science year10/science year8/curriculum/science/index.html year9/curriculum/science/index.html year10/curriculum/science/index.html
-          git commit -m 'Generate static Years 8-10 Science curriculum pages'
+          git add year9/science year9/curriculum/science/index.html
+          git commit -m 'Raise Year 9 Science topic learning value'
           git push origin HEAD:${GITHUB_HEAD_REF}
