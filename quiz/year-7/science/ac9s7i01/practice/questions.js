@@ -1,236 +1,31 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s7i01-p-001",
-    "curriculumCode": "AC9S7I01",
-    "bank": "practice",
-    "skill": "operationalise a variable",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating operationalise a variable. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "How does applied force affect acceleration when mass is controlled?",
-      "Question contains desired answer",
-      "Use neutral wording",
-      "Question answerable through systematic evidence"
-    ],
-    "correct": 0,
-    "explanation": "How does applied force affect acceleration when mass is controlled?\nHint: Use neutral wording.",
-    "structuredExplanation": {
-      "summary": "How does applied force affect acceleration when mass is controlled?",
-      "hint": "Use neutral wording."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i01-p-002",
-    "curriculumCode": "AC9S7I01",
-    "bank": "practice",
-    "skill": "write a relationship question",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating write a relationship question. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating write a relationship question. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hypothesis cannot be challenged",
-      "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
-      "Make a falsifiable relationship",
-      "Question answerable through systematic evidence"
-    ],
-    "correct": 1,
-    "explanation": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.\nHint: Make a falsifiable relationship.",
-    "structuredExplanation": {
-      "summary": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
-      "hint": "Make a falsifiable relationship."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i01-p-003",
-    "curriculumCode": "AC9S7I01",
-    "bank": "practice",
-    "skill": "distinguish prediction hypothesis",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Variable named but not measurable",
-      "Define procedure and unit",
-      "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
-      "Question answerable through systematic evidence"
-    ],
-    "correct": 2,
-    "explanation": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.\nHint: Define procedure and unit.",
-    "structuredExplanation": {
-      "summary": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
-      "hint": "Define procedure and unit."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i01-p-004",
-    "curriculumCode": "AC9S7I01",
-    "bank": "practice",
-    "skill": "name controls",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating name controls. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating name controls. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Prediction rewritten after results",
-      "Record it before testing",
-      "Question answerable through systematic evidence",
-      "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship."
-    ],
-    "correct": 3,
-    "explanation": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.\nHint: Record it before testing.",
-    "structuredExplanation": {
-      "summary": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
-      "hint": "Record it before testing."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i01-p-005",
-    "curriculumCode": "AC9S7I01",
-    "bank": "practice",
-    "skill": "identify falsifiable evidence",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies prediction in investigable questions, predictions and hypotheses?",
-    "audioPrompt": "Which statement correctly identifies prediction in investigable questions, predictions and hypotheses?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "How does applied force affect acceleration when mass is controlled?",
-      "Question contains desired answer",
-      "Use neutral wording",
-      "Question answerable through systematic evidence"
-    ],
-    "correct": 0,
-    "explanation": "How does applied force affect acceleration when mass is controlled?\nHint: Use neutral wording.",
-    "structuredExplanation": {
-      "summary": "How does applied force affect acceleration when mass is controlled?",
-      "hint": "Use neutral wording."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i01-p-006",
-    "curriculumCode": "AC9S7I01",
-    "bank": "practice",
-    "skill": "operationalise a variable",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes hypothesis in investigable questions, predictions and hypotheses?",
-    "audioPrompt": "Which choice best describes hypothesis in investigable questions, predictions and hypotheses?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Hypothesis cannot be challenged",
-      "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
-      "Make a falsifiable relationship",
-      "Question answerable through systematic evidence"
-    ],
-    "correct": 1,
-    "explanation": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.\nHint: Make a falsifiable relationship.",
-    "structuredExplanation": {
-      "summary": "A hypothesis is not simply a prediction with ‘because’; it proposes a mechanism or relationship that evidence can support or challenge.",
-      "hint": "Make a falsifiable relationship."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i01-p-007",
-    "curriculumCode": "AC9S7I01",
-    "bank": "practice",
-    "skill": "write a relationship question",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for investigable question in investigable questions, predictions and hypotheses?",
-    "audioPrompt": "What does correct use require for investigable question in investigable questions, predictions and hypotheses?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Variable named but not measurable",
-      "Define procedure and unit",
-      "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
-      "Question answerable through systematic evidence"
-    ],
-    "correct": 2,
-    "explanation": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.\nHint: Define procedure and unit.",
-    "structuredExplanation": {
-      "summary": "Vague concepts must be translated into observable procedures and units before a reproducible investigation can be planned.",
-      "hint": "Define procedure and unit."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i01-p-008",
-    "curriculumCode": "AC9S7I01",
-    "bank": "practice",
-    "skill": "distinguish prediction hypothesis",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating distinguish prediction hypothesis. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Prediction rewritten after results",
-      "Record it before testing",
-      "Question answerable through systematic evidence",
-      "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship."
-    ],
-    "correct": 3,
-    "explanation": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.\nHint: Record it before testing.",
-    "structuredExplanation": {
-      "summary": "An investigable question defines measurable variables; a prediction states an expected outcome; a hypothesis offers a testable explanatory relationship.",
-      "hint": "Record it before testing."
-    },
-    "qualitySchema": "production-v1"
-  }
+const AC9S7I01_EXPLAIN={"investigable questions":"Investigable questions are answerable through systematic observations, measurements, experiments or appropriate evidence, and must be clear and feasible.","First Nations ecological knowledge":"Long-term, place-based First Nations ecological knowledges can help refine questions when used respectfully, with appropriate consultation, attribution and context.","scientific models":"Scientific models are simplified representations that help explain, predict and develop testable questions about systems.","testing relationships and variables":"A relationship question identifies something that can be varied or compared and an outcome that can be measured.","reasoned predictions":"A reasoned prediction is made before testing and uses relevant scientific knowledge or a model to justify the expected outcome."};
+const AC9S7I01_HINT={"investigable questions":"Ask whether systematic evidence can answer the question.","First Nations ecological knowledge":"Keep knowledge connected to the relevant community, place and context.","scientific models":"Ask what relationship or mechanism the model helps represent.","testing relationships and variables":"Identify what changes and what is measured.","reasoned predictions":"Look for an expected result plus a scientific reason."};
+const q=(n,skill,question,answers,correct)=>({id:`ac9s7i01-p-${String(n).padStart(3,"0")}`,curriculumCode:"AC9S7I01",bank:"practice",skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation:`${answers[correct]} ${AC9S7I01_EXPLAIN[skill]}\nHint: ${AC9S7I01_HINT[skill]}`,structuredExplanation:{summary:`${answers[correct]} ${AC9S7I01_EXPLAIN[skill]}`,hint:AC9S7I01_HINT[skill]},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+q(1,"investigable questions","Which question is most clearly investigable using systematic evidence?",["Why is the ocean beautiful?","How does water temperature affect evaporation rate?","Is science interesting?","Why do people like summer?"],1),
+q(2,"investigable questions","Which feature makes a question investigable?",["It is based on opinion","It can be measured","It is very broad","It cannot be repeated"],1),
+q(3,"investigable questions","Which question is NOT investigable as written?",["How does salt affect ice melting?","How does light affect plant growth?","Is chocolate the best-tasting food?","How does friction affect speed?"],2),
+q(4,"investigable questions","Which question is most feasible for a Year 7 classroom investigation?",["How old is Earth?","How does temperature affect balloon size?","What caused the formation of the Solar System?","What causes all earthquakes?"],1),
+q(5,"investigable questions","Which question produces measurable data most directly?",["Is rain annoying?","How does ramp height affect the time a trolley takes to travel 1 metre?","Why do people like rain?","Is water refreshing?"],1),
+q(6,"First Nations ecological knowledge","What kind of knowledge can help First Nations Australians predict or interpret environmental changes?",["A single short-term observation","Long-term, place-based ecological knowledge","Random guessing","Internet research only"],1),
+q(7,"First Nations ecological knowledge","Which best represents First Nations ecological knowledge?",["Using satellites only","Observing seasonal patterns and ecological relationships across generations","Reading one weather app","Using only digital sensors"],1),
+q(8,"First Nations ecological knowledge","Why can First Nations ecological knowledge help refine scientific questions?",["It can provide long-term, place-based observations and environmental context.","It replaces scientific testing.","It is identical across all First Nations communities.","It should be used without consultation or attribution."],0),
+q(9,"First Nations ecological knowledge","Which question could be refined using local First Nations ecological knowledge?",["How might an invasive species affect native plants important to a local community?","Why do people like native plants?","What colour are native plants?","Are native plants beautiful?"],0),
+q(10,"First Nations ecological knowledge","Long-term observations of tides could help refine questions about:",["Space travel","Changes in tide height across the lunar cycle","Cooking","Sports performance"],1),
+q(11,"scientific models","What is a scientific model?",["A perfect copy of reality","A simplified representation used to explain, predict or investigate a system","A random guess","A drawing with no scientific purpose"],1),
+q(12,"scientific models","Which model explains states of matter?",["Solar system model","Particle model","Cell model","Evolution model"],1),
+q(13,"scientific models","Which question uses the particle model to guide an investigation?",["Why do planets orbit?","How does temperature affect the volume of a trapped gas in a flexible container?","Why do animals migrate?","How do plants photosynthesise?"],1),
+q(14,"scientific models","Which model would best support questions about predictable tides?",["Particle model","Earth–Moon–Sun model","Cell model","Atomic model"],1),
+q(15,"scientific models","Which question explores a scientific model?",["How does the particle model explain gas compression?","Why do people like gases?","Are gases dangerous?","Why are gases invisible?"],0),
+q(16,"testing relationships and variables","Which question clearly tests a relationship?",["How does temperature affect balloon volume?","Why are balloons colourful?","Are balloons fun?","Why do balloons pop?"],0),
+q(17,"testing relationships and variables","What is the dependent variable in ‘How does light intensity affect plant height over 14 days?’",["Light intensity","Plant height","Soil type","Amount of water"],1),
+q(18,"testing relationships and variables","What is the independent variable in ‘How does the amount of salt affect the melting time of an ice cube?’",["Room temperature","Amount of salt","Melting time","Ice-cube mass"],1),
+q(19,"testing relationships and variables","Which question tests the effect of heating?",["How does heating affect balloon size?","Why do balloons exist?","Are balloons safe?","Why do balloons float?"],0),
+q(20,"testing relationships and variables","Which question involves measuring tide height?",["Why do tides exist?","How does tide height change during the lunar cycle?","Are tides dangerous?","Why do people visit beaches?"],1),
+q(21,"reasoned predictions","A reasoned prediction should be based on:",["Opinion","Relevant scientific knowledge or a scientific model","Guessing","Personal preference"],1),
+q(22,"reasoned predictions","Which is the strongest reasoned prediction?",["The balloon will expand because I feel like it.","The balloon will expand when heated because gas particles move faster and push outward more strongly.","The balloon will expand because balloons are stretchy.","The balloon will expand because I hope it does."],1),
+q(23,"reasoned predictions","When should a reasoned prediction normally be recorded?",["After seeing the results","Before collecting the results","Only after repeating the experiment","Only if the results are unexpected"],1),
+q(24,"reasoned predictions","Which prediction uses scientific knowledge appropriately?",["Plants will grow taller because they want to.","With other factors controlled, increasing light may increase plant growth because light provides energy for photosynthesis.","Plants will grow taller because green is a good colour.","Plants will grow taller because I like plants."],1)
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
