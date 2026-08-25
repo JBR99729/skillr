@@ -42,7 +42,7 @@ jobs:
           replacement = '''    # Homework is the single visible written-work resource. Legacy worksheet\n    # routes remain noindex redirects to Homework for old links and bookmarks.\n    text = re.sub(\n        r'<a\\b[^>]*href=["\\\']/quiz/year-10/math/' + re.escape(code.lower()) + r'/worksheet/["\\\'][^>]*>\\s*Worksheet\\s*</a>',\n        '',\n        text,\n        flags=re.I,\n    )\n\n'''
           text, n = re.subn(
               r'    # Preserve existing resource links and add the existing worksheet route when absent\.\n[\s\S]*?(?=    # Existing 10-question bank)',
-              replacement,
+              lambda _m: replacement,
               text,
               count=1,
           )
