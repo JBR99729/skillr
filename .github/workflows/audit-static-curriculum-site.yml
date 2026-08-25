@@ -9,6 +9,7 @@ on:
       - 'scripts/audit_static_curriculum_site.mjs'
       - 'scripts/audit_static_teacher_slides.mjs'
       - 'scripts/validate_static_curriculum_architecture.mjs'
+      - 'scripts/migrate_runtime_topic_pages_static.mjs'
       - '.github/workflows/audit-static-curriculum-site.yml'
   workflow_dispatch:
 
@@ -26,8 +27,8 @@ jobs:
         run: node scripts/validate_static_curriculum_architecture.mjs
       - name: Enforce static Teacher Slides architecture
         run: node scripts/audit_static_teacher_slides.mjs
-      - name: Inventory remaining sitewide violations
-        run: node scripts/audit_static_curriculum_site.mjs --json=artifacts/static-curriculum-audit.json
+      - name: Enforce static HTML curriculum topic pages and inventory remaining non-blocking issues
+        run: node scripts/audit_static_curriculum_site.mjs --fail-on-runtime-topics --json=artifacts/static-curriculum-audit.json
       - name: Upload audit report
         uses: actions/upload-artifact@v4
         with:
