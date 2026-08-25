@@ -1,0 +1,155 @@
+#!/usr/bin/env node
+import fs from 'node:fs';
+import path from 'node:path';
+import { execFileSync } from 'node:child_process';
+
+const EXPECTED_IDS = [
+  'learn',
+  'prerequisites',
+  'teaching',
+  'examples',
+  'misconceptions',
+  'guided-practice',
+  'independent-practice',
+  'reasoning',
+  'important-questions',
+  'assessment',
+  'mastery',
+  'guidance',
+  'alignment',
+  'resources',
+  'related',
+  'official-references',
+];
+
+// Entire roots move here only after every canonical page in that root has been
+// migrated. These roots are checked on every run, even when untouched.
+const PERMANENTLY_LOCKED_ROOTS = [
+  'year10/maths',
+];
+
+const TOPIC_RE = /^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/[^/]+\/index\.html$/i;
+const START_TAG_RE = /<(section|details)\b[^>]*>/gi;
+
+function normalise(p) {
+  return p.replaceAll('\\', '/').replace(/^\.\//, '');
+}
+
+function isCanonicalTopicPage(file) {
+  return TOPIC_RE.test(normalise(file));
+}
+
+function startTags(html) {
+  const tags = [];
+  for (const match of html.matchAll(START_TAG_RE)) {
+    const raw = match[0];
+    const id = raw.match(/\bid=["']([^"']+)["']/i)?.[1] ?? null;
+    const classes = raw.match(/\bclass=["']([^"']*)["']/i)?.[1]?.split(/\s+/).filter(Boolean) ?? [];
+    tags.push({ raw, id, classes, index: match.index });
+  }
+  return tags;
+}
+
+function validatePage(file) {
+  const html = fs.readFileSync(file, 'utf8');
+  const tags = startTags(html);
+  const contractTags = tags.filter(t => t.classes.includes('curriculum-topic-section'));
+  const problems = [];
+  const positions = [];
+
+  for (const id of EXPECTED_IDS) {
+    const matches = contractTags.filter(t => t.id === id);
+    if (matches.length !== 1) {
+      problems.push(`${id}: expected exactly once, found ${matches.length}`);
+      continue;
+    }
+    positions.push({ id, index: matches[0].index });
+  }
+
+  if (positions.length === EXPECTED_IDS.length) {
+    for (let i = 1; i < positions.length; i += 1) {
+      if (positions[i].index <= positions[i - 1].index) {
+        problems.push(`section order: ${positions[i].id} appears before ${positions[i - 1].id}`);
+      }
+    }
+
+    const first = positions[0].index;
+    const last = positions.at(-1).index;
+    const unknownBetween = contractTags.filter(
+      t => t.index > first && t.index < last && !EXPECTED_IDS.includes(t.id),
+    );
+    if (unknownBetween.length) {
+      problems.push(
+        `unapproved curriculum-topic-section block(s) interrupt locked sequence: ${unknownBetween.map(t => t.id ?? '(no id)').join(', ')}`,
+      );
+    }
+  }
+
+  const firstH1 = html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i);
+  if (!firstH1) problems.push('missing H1');
+  if (!/<link\b[^>]*rel=["']canonical["'][^>]*>/i.test(html)) problems.push('missing canonical link');
+  if (!/<meta\b[^>]*name=["']robots["'][^>]*>/i.test(html)) problems.push('missing robots meta');
+
+  return problems;
+}
+
+function directTopicPages(root) {
+  if (!fs.existsSync(root)) return [];
+  const pages = [];
+  for (const entry of fs.readdirSync(root, { withFileTypes: true })) {
+    if (!entry.isDirectory()) continue;
+    const candidate = normalise(path.join(root, entry.name, 'index.html'));
+    if (fs.existsSync(candidate) && isCanonicalTopicPage(candidate)) pages.push(candidate);
+  }
+  return pages;
+}
+
+function changedFiles(baseSha) {
+  if (!baseSha || /^0+$/.test(baseSha)) return [];
+  try {
+    const out = execFileSync('git', ['diff', '--name-only', `${baseSha}...HEAD`], { encoding: 'utf8' });
+    return out.split(/\r?\n/).map(normalise).filter(Boolean);
+  } catch (error) {
+    console.error(`Could not determine changed files from base ${baseSha}.`);
+    console.error(error.message);
+    process.exit(1);
+  }
+}
+
+const baseArgIndex = process.argv.indexOf('--base');
+const baseSha = baseArgIndex >= 0 ? process.argv[baseArgIndex + 1] : process.env.GITHUB_BASE_SHA;
+
+const pages = new Set();
+for (const root of PERMANENTLY_LOCKED_ROOTS) {
+  for (const page of directTopicPages(root)) pages.add(page);
+}
+
+const changedTopicPages = changedFiles(baseSha).filter(isCanonicalTopicPage);
+for (const page of changedTopicPages) {
+  if (fs.existsSync(page)) pages.add(page); // deleted pages are handled by other site/link audits
+}
+
+const failures = [];
+for (const page of [...pages].sort()) {
+  const problems = validatePage(page);
+  if (problems.length) failures.push({ page, problems });
+}
+
+if (failures.length) {
+  console.error('F–10 topic learning-order contract FAILED.');
+  console.error('Required order:');
+  EXPECTED_IDS.forEach((id, i) => console.error(`${i + 1}. ${id}`));
+  console.error('\nViolations:');
+  for (const { page, problems } of failures) {
+    console.error(`\n${page}`);
+    problems.forEach(problem => console.error(`- ${problem}`));
+  }
+  console.error('\nSee docs/TOPIC_PAGE_LAYOUT_STANDARD.md. New or edited F–10 topic pages must migrate to the locked macro layout before merge.');
+  process.exit(1);
+}
+
+console.log(`F–10 topic learning-order contract PASS: validated ${pages.size} page(s).`);
+if (changedTopicPages.length) {
+  console.log(`Changed canonical topic pages checked: ${changedTopicPages.length}.`);
+}
+console.log(`Permanently locked roots: ${PERMANENTLY_LOCKED_ROOTS.join(', ')}.`);
