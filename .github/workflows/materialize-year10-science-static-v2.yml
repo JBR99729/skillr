@@ -22,14 +22,26 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Align builder learning-goal heading
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/build_year10_science_static_v2.mjs')
+          s = p.read_text()
+          old = "section('learn','What you will learn',learnBody,true)"
+          new = "section('learn','Learning goals: What you will learn',learnBody,true)"
+          if old not in s and new not in s:
+              raise SystemExit('Expected Year 10 Science learn-section builder token not found')
+          p.write_text(s.replace(old, new))
+          PY
       - name: Build Year 10 Science static v2 pages
         run: node scripts/build_year10_science_static_v2.mjs
       - name: Guard generated diff
         run: git diff --check
-      - name: Commit generated Year 10 Science pages locally
+      - name: Commit generated Year 10 Science pages and durable builder locally
         shell: bash
         run: |
-          git add year10/science
+          git add year10/science scripts/build_year10_science_static_v2.mjs
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -m 'Materialize Year 10 Science static v2 pages'
