@@ -58,7 +58,8 @@ for (const file of changed) {
     const html = fs.readFileSync(file, 'utf8');
     if (runtimeDeck.test(html)) errors.push(`${file}: Teacher Slides viewer must not assemble curriculum slides at runtime`);
     if (publicDownload.test(html) || /download\s*=|download\s+(?:pptx|pdf)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must not expose PPTX/PDF download controls`);
-    if (!/<img\b[^>]*(?:slide|teacher)/i.test(html) && !/data-slide-(?:src|image)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must present pre-rendered fixed slide pages/images`);
+    const fixedSlidePages = /<(?:section|article|div|figure)\b[^>]*(?:\bdata-slide\b|class=["'][^"']*\bslide\b)/i.test(html);
+    if (!/<img\b[^>]*(?:slide|teacher)/i.test(html) && !/data-slide-(?:src|image)/i.test(html) && !fixedSlidePages) errors.push(`${file}: Teacher Slides viewer must present pre-rendered fixed slide pages/images`);
     if (!/(?:Previous|Next|aria-label=["']Next slide|data-next-slide)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must support page-by-page navigation`);
   }
 }

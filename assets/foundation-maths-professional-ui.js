@@ -62,7 +62,7 @@
   function teacherSlideUrl() {
     const code = currentCurriculumCode();
     return code
-      ? `/worksheets/foundation/maths/teacher-slides/live.html?code=${code}`
+      ? `${window.location.pathname.replace(/\/?$/, '/')}teacher-slides/`
       : null;
   }
 
