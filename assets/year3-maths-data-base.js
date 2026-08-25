@@ -178,9 +178,14 @@
         visual_html: visual(activity.visual)
       }));
       let fillIndex=0;
-      const selectedWorksheet = (s.worksheet || []).filter((item, index) => index < 6 || index === 7 || item.enrichment).slice(0, 9);
+      const worksheetSource = s.worksheet || [];
+      const selectedWorksheet = [
+        ...worksheetSource.filter((item) => !item.enrichment).slice(0, 8),
+        ...worksheetSource.filter((item) => item.enrichment).slice(0, 2)
+      ];
       const questions = selectedWorksheet.map((item, index) => {
-        const tier = index < 3 ? "warm-up" : index < 7 ? "core" : "extension";
+        const isExtension = item.enrichment === true;
+        const tier = isExtension ? "extension" : index < 3 ? "warm-up" : "core";
         const sheetNumber = index < 5 ? 1 : 2;
         const sheetIndex = sheetNumber === 1 ? index + 1 : index - 4;
         const alignment = index === 6
@@ -193,7 +198,7 @@
                 ? {kind:"vocabulary", target:vocabulary[code][index === 1 ? 0 : 1][0]}
                 : {kind:"concept", target:s.title};
         const answer = item.answer || (item.type === "single" ? item.answers?.[0] : item.type === "match" ? resolved[code].match : item.type === "fill-blank" ? resolved[code].fill[fillIndex++] : `A complete response should ${item.question.charAt(0).toLowerCase()}${item.question.slice(1).replace(/[?.]$/,"")}, show a correct representation or calculation, and justify the conclusion using ${vocabulary[code][0][0]}.`);
-        return {...item, id:`${code.toLowerCase()}-topic-practice-${sheetNumber}-q${sheetIndex}`, sheet_id:`${code.toLowerCase()}-topic-practice-${sheetNumber}`, enrichment:tier === "extension", tier, alignment, answer,
+        return {...item, id:`${code.toLowerCase()}-topic-practice-${sheetNumber}-q${sheetIndex}`, sheet_id:`${code.toLowerCase()}-topic-practice-${sheetNumber}`, enrichment:isExtension, tier, alignment, answer,
           summary:item.summary || `For “${item.question}”, ${answer} This follows the ${vocabulary[code][0][0]} relationship shown by the given information.`,
           hint:item.hint || `Underline the information in “${item.question}”, then use ${index < 3 ? s.model_title.toLowerCase() : s.apply_title.toLowerCase()} to complete one step at a time.`};
       });

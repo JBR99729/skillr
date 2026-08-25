@@ -178,7 +178,10 @@ if (codes.length !== 27 || new Set(codes).size !== 27 || codes.some((code) => !e
 const pwaSource = fs.readFileSync(path.join(ROOT, "pwa-register.js"), "utf8");
 if (/ac9e2la0\[1-3\].*\(practice\|test\|worksheet\|quiz\)/.test(pwaSource)) problems.push("pwa-register.js: legacy LA01–03 loader can overwrite production Practice/Test banks");
 if (!/ac9e2la0\[1-3\]\\\/quiz/.test(pwaSource)) problems.push("pwa-register.js: legacy LA01–03 Quiz loader route is missing");
-const sharedAssessmentEngine = fs.readFileSync(path.join(ROOT, "quiz/assets/script.js"), "utf8");
+const sharedAssessmentEngine = [
+  "quiz/assets/script.js",
+  "quiz/assets/script-runtime-v115.js"
+].map((file) => fs.readFileSync(path.join(ROOT, file), "utf8")).join("\n");
 if (!sharedAssessmentEngine.includes("question.audioAnswers")) problems.push("quiz/assets/script.js: spoken editing-choice descriptions are not connected to read-aloud");
 for (const file of visibleSourceFilesUnder(ROOT)) {
   const source = fs.readFileSync(file, "utf8");

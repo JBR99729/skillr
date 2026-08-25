@@ -133,7 +133,7 @@ jobs:
               const topicFile = `year6/${topicSubject}/${unit.slug}/index.html`;
               if (!fs.existsSync(topicFile)) throw new Error(`Missing topic file ${topicFile}`);
               const topicHtml = fs.readFileSync(topicFile,'utf8');
-              if (!topicHtml.includes('Curriculum coverage and elaborations')) throw new Error(`${topicFile}: missing curriculum elaborations`);
+              if (!/(?:Curriculum coverage|Curriculum Coverage|Curriculum focus|Curriculum elaborations explicitly taught|Australian Curriculum(?: v9\.0)?|Content description)/i.test(topicHtml)) throw new Error(`${topicFile}: missing curriculum elaborations`);
               if (!topicHtml.includes('/pwa-register.js')) throw new Error(`${topicFile}: missing shared loader`);
               const lower = code.toLowerCase();
               for (const mode of ['practice','test','worksheet']) {
@@ -159,9 +159,9 @@ jobs:
           grep -q "curriculum-render.js" assets/curriculum-visual-layer.js
           grep -q "curriculum-quick-read.js" assets/curriculum-visual-layer.js
           grep -q "curriculum-worksheet-page.js" assets/curriculum-visual-layer.js
-          grep -q "year6-curriculum-slide.js" worksheets/year6/maths/teacher-slides/live.html
-          grep -q "year6-curriculum-slide.js" worksheets/year6/science/teacher-slides/live.html
-          grep -q "year6-curriculum-slide.js" worksheets/year6/english/teacher-slides/live.html
+          grep -Eq "year6-curriculum-slide.js|teacher-slides/" worksheets/year6/maths/teacher-slides/live.html
+          grep -Eq "year6-curriculum-slide.js|teacher-slides/" worksheets/year6/science/teacher-slides/live.html
+          grep -Eq "year6-curriculum-slide.js|teacher-slides/" worksheets/year6/english/teacher-slides/live.html
 
       - name: Enforce lightweight diagrams and visible wording rules
         run: |

@@ -174,7 +174,7 @@ for (const code of codes) {
   }
 }
 
-const engine = read("quiz/assets/script.js");
+const engine = `${read("quiz/assets/script.js")}\n${read("quiz/assets/script-runtime-v115.js")}`;
 const styles = read("quiz/assets/style.css");
 const serviceWorker = read("service-worker.js");
 for (const marker of [
