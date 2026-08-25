@@ -302,7 +302,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const runtimeParams = new URLSearchParams(window.location.search);
   const isWarmupMode = runtimeParams.get("warmup") === "1";
   const isEmbedMode = runtimeParams.get("embed") === "1";
-  const requestedQuestions = Number(runtimeParams.get("questions"));
+  const activityMatch = window.location.pathname.match(
+    /\/(practice|test)\/(?:index\.html)?$/i
+  );
+  const isEightQuestionActivity = Boolean(activityMatch);
+
   if (isWarmupMode) {
     config.maxQuestions = 1;
     config.questionCycle = false;
@@ -310,18 +314,10 @@ document.addEventListener("DOMContentLoaded", () => {
     config.certificateOnPass = false;
     config.preReadSeconds = 0;
     config.resultUrl = "";
-  } else if (Number.isInteger(requestedQuestions) && requestedQuestions > 0 && requestedQuestions <= 10) {
-    config.maxQuestions = requestedQuestions;
-  }
-  if (!isWarmupMode) {
-    const maximumQuestions = Number(config.maxQuestions);
-    config.questionCycle = Number.isInteger(maximumQuestions) &&
-      maximumQuestions > 0 &&
-      questions.length > maximumQuestions;
-  }
-  if (/\/daily-drills\//i.test(window.location.pathname)) {
-    config.shuffleQuestions = false;
-    config.questionCycle = false;
+  } else if (isEightQuestionActivity) {
+    config.maxQuestions = 8;
+    config.shuffleQuestions = true;
+    config.questionCycle = questions.length > 8;
   }
 
   if (/\/daily-drills\//i.test(window.location.pathname)) {
@@ -352,10 +348,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (isPracticePage) {
     config.preReadSeconds = 0;
-    config.shuffleQuestions = false;
-    config.questionCycle = false;
-    config.shuffleQuestions = false;
-    config.questionCycle = false;
 
     const preparationNotes =
       document.querySelector(".pre-read-notes");
@@ -1105,10 +1097,11 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   function getQuestionCycleKey() {
+    const activity = activityMatch?.[1]?.toLowerCase() || "quiz";
     return `${
       config.questionCycleStorageKey ||
       config.storageKey
-    }:questionCycle`;
+    }:${activity}:questionCycle`;
   }
 
   function renderCycleProgress() {
@@ -1181,24 +1174,136 @@ document.addEventListener("DOMContentLoaded", () => {
       `${completedSets}/${totalSets} sets completed`;
   }
 
+  function getQuestionCoverageKeys(question) {
+    const explicit =
+      question.elaborations ??
+      question.elaborationCodes ??
+      question.elaborationCode ??
+      question.elaboration;
+
+    const values = Array.isArray(explicit)
+      ? explicit
+      : explicit
+        ? [explicit]
+        : question.skill
+          ? [question.skill]
+          : [];
+
+    return [...new Set(
+      values
+        .map((value) => String(value).trim().toLowerCase())
+        .filter(Boolean)
+    )];
+  }
+
+  function selectBalancedUnseenQuestions(
+    availableQuestions,
+    maximumQuestions
+  ) {
+    const remaining = availableQuestions.slice();
+    const selected = [];
+    const difficultyCounts = new Map();
+    const uncovered = new Set(
+      remaining.flatMap(getQuestionCoverageKeys)
+    );
+
+    while (
+      selected.length < maximumQuestions &&
+      remaining.length > 0 &&
+      uncovered.size > 0
+    ) {
+      let bestScore = 0;
+      let candidates = [];
+
+      remaining.forEach((question) => {
+        const score = getQuestionCoverageKeys(question)
+          .filter((key) => uncovered.has(key))
+          .length;
+
+        if (score > bestScore) {
+          bestScore = score;
+          candidates = [question];
+        } else if (score === bestScore && score > 0) {
+          candidates.push(question);
+        }
+      });
+
+      if (bestScore === 0) break;
+
+      const smallestDifficultyCount = Math.min(
+        ...candidates.map((question) =>
+          difficultyCounts.get(
+            inferQuestionDifficulty(question)
+          ) || 0
+        )
+      );
+      const balancedCandidates = candidates.filter(
+        (question) =>
+          (difficultyCounts.get(
+            inferQuestionDifficulty(question)
+          ) || 0) === smallestDifficultyCount
+      );
+      const chosen = shuffleArray(balancedCandidates)[0];
+      const difficulty = inferQuestionDifficulty(chosen);
+
+      selected.push(chosen);
+      difficultyCounts.set(
+        difficulty,
+        (difficultyCounts.get(difficulty) || 0) + 1
+      );
+      getQuestionCoverageKeys(chosen).forEach((key) =>
+        uncovered.delete(key)
+      );
+      remaining.splice(remaining.indexOf(chosen), 1);
+    }
+
+    while (
+      selected.length < maximumQuestions &&
+      remaining.length > 0
+    ) {
+      const smallestDifficultyCount = Math.min(
+        ...remaining.map((question) =>
+          difficultyCounts.get(
+            inferQuestionDifficulty(question)
+          ) || 0
+        )
+      );
+      const candidates = remaining.filter(
+        (question) =>
+          (difficultyCounts.get(
+            inferQuestionDifficulty(question)
+          ) || 0) === smallestDifficultyCount
+      );
+      const chosen = shuffleArray(candidates)[0];
+      const difficulty = inferQuestionDifficulty(chosen);
+
+      selected.push(chosen);
+      difficultyCounts.set(
+        difficulty,
+        (difficultyCounts.get(difficulty) || 0) + 1
+      );
+      remaining.splice(remaining.indexOf(chosen), 1);
+    }
+
+    return shuffleArray(selected);
+  }
+
   function selectQuestionCycle(
     prepared,
     maximumQuestions
   ) {
-    const allIds = prepared.map(
-      getQuestionIdentity
+    const questionById = new Map(
+      prepared.map((question) => [
+        getQuestionIdentity(question),
+        question
+      ])
     );
-
-    const signature =
-      allIds.join("||");
-
+    const allIds = [...questionById.keys()];
+    const signature = allIds.slice().sort().join("||");
     const totalSets = Math.max(
       1,
-      Math.ceil(
-        allIds.length / maximumQuestions
-      )
+      Math.ceil(allIds.length / maximumQuestions)
     );
-
     const key = getQuestionCycleKey();
     let state = storageGetJson(key, {});
 
@@ -1213,39 +1318,57 @@ document.addEventListener("DOMContentLoaded", () => {
     if (shouldReset) {
       state = {
         signature,
-        remainingIds: shuffleArray(allIds),
+        remainingIds: allIds.slice(),
         completedSets: 0,
         totalSets
       };
     }
 
-    const selectedIds = [];
+    const availableQuestions = state.remainingIds
+      .map((id) => questionById.get(id))
+      .filter(Boolean);
+    const selected = selectBalancedUnseenQuestions(
+      availableQuestions,
+      maximumQuestions
+    );
+    const selectedIds = new Set(
+      selected.map(getQuestionIdentity)
+    );
 
-    while (
-      selectedIds.length < maximumQuestions &&
-      state.remainingIds.length > 0
+    state.remainingIds = state.remainingIds.filter(
+      (id) => !selectedIds.has(id)
+    );
+
+    if (
+      selected.length < maximumQuestions &&
+      state.remainingIds.length === 0
     ) {
-      selectedIds.push(
-        state.remainingIds.shift()
+      const rolloverCandidates = prepared.filter(
+        (question) => !selectedIds.has(
+          getQuestionIdentity(question)
+        )
       );
+      const rollover = selectBalancedUnseenQuestions(
+        rolloverCandidates,
+        maximumQuestions - selected.length
+      );
+      const rolloverIds = new Set(
+        rollover.map(getQuestionIdentity)
+      );
+
+      selected.push(...rollover);
+      state.remainingIds = allIds.filter(
+        (id) => !rolloverIds.has(id)
+      );
+      state.completedSets = 0;
     }
 
     currentCycleKey = key;
     currentCycleTotalSets = totalSets;
-
     state.totalSets = totalSets;
     storageSetJson(key, state);
 
-    const questionById = new Map(
-      prepared.map((question) => [
-        getQuestionIdentity(question),
-        question
-      ])
-    );
-
-    return selectedIds
-      .map((id) => questionById.get(id))
-      .filter(Boolean);
+    return selected;
   }
 
   function markCurrentCycleSetComplete() {
@@ -1357,90 +1480,9 @@ document.addEventListener("DOMContentLoaded", () => {
     return /\/practice\/(?:index\.html)?$/i.test(path) || /\/daily-drills\//i.test(path);
   }
 
-  function difficultyNumber(value) {
-    if (typeof value === "number" && Number.isFinite(value)) {
-      return Math.max(1, Math.min(5, Math.round(value)));
-    }
-
-    const label = String(value || "").trim().toLowerCase();
-    if (["very easy", "beginner", "intro", "foundation"].includes(label)) return 1;
-    if (["easy", "basic", "recall"].includes(label)) return 2;
-    if (["medium", "standard", "core", "application"].includes(label)) return 3;
-    if (["hard", "challenging", "reasoning"].includes(label)) return 4;
-    if (["very hard", "advanced", "extension", "multi-step"].includes(label)) return 5;
-    return 0;
-  }
-
-  function inferQuestionDifficulty(question) {
-    const explicit = difficultyNumber(
-      question.difficulty ??
-      question.difficultyLevel ??
-      question.difficulty_level ??
-      question.level
-    );
-    if (explicit) return explicit;
-
-    const text = [
-      question.question,
-      question.skill,
-      question.explanation,
-      question.audioPrompt,
-      question.audio_prompt
-    ].filter(Boolean).join(" ").toLowerCase();
-
-    let score = 2;
-
-    if (/identify|name|recognise|recognize|select|match|which number|which word|what is|calculate|find the value/.test(text)) score -= 1;
-    if (/explain|compare|interpret|justify|reason|analyse|analyze|evaluate|predict/.test(text)) score += 1;
-    if (/multi[- ]?step|two[- ]?step|three[- ]?step|simultaneous|unfamiliar|investigate|prove|derive|optimise|optimize/.test(text)) score += 1;
-    if (/therefore|hence|best explains|most appropriate|which conclusion|which inference/.test(text)) score += 1;
-
-    const numberCount = (text.match(/\b\d+(?:\.\d+)?\b/g) || []).length;
-    if (numberCount >= 4) score += 1;
-
-    const questionLength = String(question.question || "").split(/\s+/).filter(Boolean).length;
-    if (questionLength > 45) score += 1;
-
-    if (question.visualMeta?.type && question.visualMeta.type !== "none") score += 0.5;
-
-    return Math.max(1, Math.min(5, Math.round(score)));
-  }
-
-  function shuffleDifficultyBucket(items) {
-    const copy = items.slice();
-    for (let i = copy.length - 1; i > 0; i -= 1) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [copy[i], copy[j]] = [copy[j], copy[i]];
-    }
-    return copy;
-  }
-
-  function orderQuestionsByProgressiveDifficulty(items) {
-    const buckets = new Map([[1, []], [2, []], [3, []], [4, []], [5, []]]);
-
-    items.forEach((question) => {
-      const difficulty = inferQuestionDifficulty(question);
-      question._skillrDifficulty = difficulty;
-      buckets.get(difficulty).push(question);
-    });
-
-    return [1, 2, 3, 4, 5].flatMap((difficulty) =>
-      shuffleDifficultyBucket(buckets.get(difficulty))
-    );
-  }
-
-  function shouldUseProgressiveDifficulty() {
-    const path = window.location.pathname;
-    return /\/practice\/(?:index\.html)?$/i.test(path) || /\/daily-drills\//i.test(path);
-  }
-
   function prepareQuestions() {
   let prepared = questions
     .map(cloneQuestion);
-
-  if (shouldUseProgressiveDifficulty()) {
-    prepared = orderQuestionsByProgressiveDifficulty(prepared);
-  }
 
   if (shouldUseProgressiveDifficulty()) {
     prepared = orderQuestionsByProgressiveDifficulty(prepared);

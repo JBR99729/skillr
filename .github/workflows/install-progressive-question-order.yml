@@ -27,7 +27,7 @@ jobs:
       - name: Verify progressive ordering patch is already present
         shell: bash
         run: |
-          if grep -q "function orderQuestionsByProgressiveDifficulty" quiz/assets/script.js; then
+          if grep -q "function orderQuestionsByProgressiveDifficulty" quiz/assets/script-runtime-v115.js; then
             echo "Progressive ordering is present."
           else
             echo "Progressive ordering is missing; review manually before changing runtime."
