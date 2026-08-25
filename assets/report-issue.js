@@ -26,6 +26,7 @@
   function loadCurriculumEnhancements() {
     loadSharedEnhancement("/assets/international-curriculum-seo.js?v=1", "data-skillr-international-alignment");
     loadSharedEnhancement("/assets/curriculum-progression.js?v=1", "data-skillr-curriculum-progression");
+    loadSharedEnhancement("/assets/f10-learning-path-links-loader.js?v=1", "data-skillr-learning-path-links");
   }
 
   function getPageMeta() {
