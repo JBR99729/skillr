@@ -1,47 +1,35 @@
-name: Repair AC9S7U01 topic structure
+name: Validate Year 7 Science premium topic pages
 
 on:
-  push:
-    branches:
-      - fix/year7-science-structural-layout
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  repair:
-    if: github.actor != 'github-actions[bot]'
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: fix/year7-science-structural-layout
-          fetch-depth: 2
-      - name: Move AC9S7U01 premium layer inside lesson wrapper
+      - name: Validate committed static output
         run: |
+          node scripts/validate_static_curriculum_architecture.mjs
           python - <<'PY'
           from pathlib import Path
-          import re
-
-          path = Path('year7/science/ac9s7u01-investigate-the-role-of-classification-in-ordering-and/index.html')
-          text = path.read_text(encoding='utf-8')
-          pattern = re.compile(
-              r'(<main class="curriculum-layout">)'
-              r'(<!-- science-premium-layer:AC9S7U01 --><details open class="science-premium-layer curriculum-topic-section">[\s\S]*?</details>)'
-              r'(<div id="learn">)'
-          )
-          fixed, n = pattern.subn(r'\1\3\2', text, count=1)
-          assert n == 1, 'AC9S7U01 structure pattern not found'
-          path.write_text(fixed, encoding='utf-8')
-          assert '<main class="curriculum-layout"><div id="learn"><!-- science-premium-layer:AC9S7U01 -->' in fixed
-          assert '</div><aside class="curriculum-sidebar">' in fixed
-          print('PASS: AC9S7U01 restored to main-content + sidebar structure')
+          expected = 18
+          pages = [p for p in Path('year7/science').glob('ac9s7*/index.html') if 'science-premium-layer:' in p.read_text(encoding='utf-8')]
+          assert len(pages) == expected, len(pages)
+          for p in pages:
+              text = p.read_text(encoding='utf-8')
+              for phrase in ('Key concept','Worked example','Common misconception','Exam tip','Retrieval question'):
+                  assert phrase in text, f'{p}: missing {phrase}'
+          images = [
+              'balanced-unbalanced-forces.webp','classification-tree.webp','earth-sun-moon-alignment.webp',
+              'food-web-energy-flow.webp','mixture-separation.webp','particle-states.webp',
+          ]
+          for name in images:
+              p = Path('assets/illustrations/science') / name
+              assert p.exists(), name
+              assert p.stat().st_size <= 60 * 1024, name
+          print('PASS: 18 static Year 7 Science pages and 6 lightweight WebPs')
           PY
-          node scripts/validate_static_curriculum_architecture.mjs
-      - name: Commit repaired page
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add year7/science/ac9s7u01-investigate-the-role-of-classification-in-ordering-and/index.html
-          git commit -m "Restore AC9S7U01 page structure"
-          git push
