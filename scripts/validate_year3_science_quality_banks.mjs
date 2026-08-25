@@ -52,7 +52,7 @@ for (const code of codes) {
   const practicePrompts = new Set(byBank.practice.map((item) => norm(item.question)));
   for (const item of byBank.test) if (practicePrompts.has(norm(item.question))) problems.push(`${code}: Practice/Test prompt overlap at ${item.id}`);
   const route = path.join(ROOT, "quiz", "year-3", "science", code.toLowerCase());
-  for (const [bank, attempt, count] of [["practice", 8, expected.practice], ["test", 12, expected.test]]) {
+  for (const [bank, attempt, count] of [["practice", 8, expected.practice], ["test", 8, expected.test]]) {
     const html = fs.readFileSync(path.join(route, bank, "index.html"), "utf8");
     if (!html.includes(`"maxQuestions":${attempt}`) || !html.includes('"shuffleQuestions":true') || !html.includes('"questionCycle":true')) problems.push(`${code} ${bank}: attempt rotation config mismatch`);
     if (!html.includes(`>${count}</span><span class="summary-label">Question bank`)) problems.push(`${code} ${bank}: bank count presentation mismatch`);
@@ -71,4 +71,4 @@ if (problems.length) {
   console.error(problems.join("\n"));
   process.exit(1);
 }
-console.log(JSON.stringify({ status: "PASS", codes: `${codes.length}/${codes.length}`, totals, combined: totals.practice + totals.test, checks: ["schema", "syntax", "unique IDs", "unique prompts", "Practice/Test separation", "code-specific option counts", "answer keys", "balanced correct positions", "visual paths", "SVG symbols", "alt text", "audio prompts", "AC9S3U04 year-level boundary", "full headings", "8/12 rotation"] }, null, 2));
+console.log(JSON.stringify({ status: "PASS", codes: `${codes.length}/${codes.length}`, totals, combined: totals.practice + totals.test, checks: ["schema", "syntax", "unique IDs", "unique prompts", "Practice/Test separation", "code-specific option counts", "answer keys", "balanced correct positions", "visual paths", "SVG symbols", "alt text", "audio prompts", "AC9S3U04 year-level boundary", "full headings", "8/8 rotation"] }, null, 2));
