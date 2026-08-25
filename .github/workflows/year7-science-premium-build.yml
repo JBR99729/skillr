@@ -1,35 +1,64 @@
-name: Validate Year 7 Science premium topic pages
+name: Repair Year 7 Science premium topic structure
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - fix/year7-science-structural-layout
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  validate:
+  repair:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Validate committed static output
+        with:
+          ref: fix/year7-science-structural-layout
+      - name: Move premium layer inside main lesson column
         run: |
-          node scripts/validate_static_curriculum_architecture.mjs
           python - <<'PY'
           from pathlib import Path
-          expected = 18
-          pages = [p for p in Path('year7/science').glob('ac9s7*/index.html') if 'science-premium-layer:' in p.read_text(encoding='utf-8')]
-          assert len(pages) == expected, len(pages)
-          for p in pages:
-              text = p.read_text(encoding='utf-8')
-              for phrase in ('Key concept','Worked example','Common misconception','Exam tip','Retrieval question'):
-                  assert phrase in text, f'{p}: missing {phrase}'
-          images = [
-              'balanced-unbalanced-forces.webp','classification-tree.webp','earth-sun-moon-alignment.webp',
-              'food-web-energy-flow.webp','mixture-separation.webp','particle-states.webp',
-          ]
-          for name in images:
-              p = Path('assets/illustrations/science') / name
-              assert p.exists(), name
-              assert p.stat().st_size <= 60 * 1024, name
-          print('PASS: 18 static Year 7 Science pages and 6 lightweight WebPs')
+          import re
+
+          pages = sorted(Path('year7/science').glob('ac9s7*/index.html'))
+          changed = 0
+          pattern = re.compile(
+              r'(<main class="curriculum-layout">)'
+              r'(<!-- science-premium-layer:AC9S7[A-Z0-9]+ --><details open class="science-premium-layer curriculum-topic-section">[\s\S]*?</details>)'
+              r'<div id="learn">'
+          )
+          for path in pages:
+              text = path.read_text(encoding='utf-8')
+              if 'science-premium-layer:' not in text:
+                  continue
+              fixed, n = pattern.subn(r'\1<div id="learn">\2', text, count=1)
+              if n != 1:
+                  raise RuntimeError(f'Could not repair structure in {path}')
+              path.write_text(fixed, encoding='utf-8')
+              changed += 1
+
+          assert changed == 18, f'Expected 18 repaired pages, got {changed}'
+          print('PASS: premium layer nested inside #learn on 18 Year 7 Science pages')
           PY
+      - name: Validate structure
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          for path in Path('year7/science').glob('ac9s7*/index.html'):
+              text = path.read_text(encoding='utf-8')
+              if 'science-premium-layer:' not in text:
+                  continue
+              assert '<main class="curriculum-layout"><div id="learn"><!-- science-premium-layer:' in text, path
+              assert '</div><aside class="curriculum-sidebar">' in text, path
+          print('PASS: original two-child curriculum grid restored')
+          PY
+          node scripts/validate_static_curriculum_architecture.mjs
+      - name: Commit repaired static pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add year7/science
+          git commit -m "Restore Year 7 Science topic page structure"
+          git push
