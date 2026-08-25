@@ -1,0 +1,49 @@
+name: Materialize Year 10 Science static v2
+
+on:
+  push:
+    branches:
+      - feat/year10-science-static-v2
+    paths:
+      - '.github/workflows/materialize-year10-science-static-v2.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/year10-science-static-v2
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build Year 10 Science static v2 pages
+        run: node scripts/build_year10_science_static_v2.mjs
+      - name: Guard generated diff
+        run: git diff --check
+      - name: Commit generated Year 10 Science pages locally
+        shell: bash
+        run: |
+          git add year10/science
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Materialize Year 10 Science static v2 pages'
+      - name: Validate static curriculum architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Validate locked F-10 topic learning order
+        run: node scripts/validate_f10_topic_learning_order.mjs --base origin/main
+      - name: Require zero runtime curriculum topics
+        run: node scripts/audit_static_curriculum_site.mjs --fail-on-runtime-topics
+      - name: Ensure Year 10 Science has no worksheet CTA
+        run: |
+          if grep -R -n -E '/worksheet/|>Worksheet<' year10/science/*/index.html; then
+            echo 'Year 10 Science worksheet CTA regression detected.'
+            exit 1
+          fi
+      - name: Push validated materialization
+        run: git push origin HEAD:feat/year10-science-static-v2
