@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s7i04-p-001",
-    "curriculumCode": "AC9S7I04",
-    "bank": "practice",
-    "skill": "choose a graph",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating choose a graph. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating choose a graph. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Use a scatter plot for paired numerical variables and retain the original data table",
-      "Graph type chosen for appearance",
-      "Match variables and purpose",
-      "Structured way of displaying data or ideas"
-    ],
-    "correct": 0,
-    "explanation": "Use a scatter plot for paired numerical variables and retain the original data table\nHint: Match variables and purpose.",
-    "structuredExplanation": {
-      "summary": "Use a scatter plot for paired numerical variables and retain the original data table",
-      "hint": "Match variables and purpose."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i04-p-002",
-    "curriculumCode": "AC9S7I04",
-    "bank": "practice",
-    "skill": "label axes",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating label axes. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating label axes. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Axes or units omitted",
-      "Graphs need titles, variables, units, consistent scales and transparent processing. Models need stated assumptions and limitations.",
-      "Readers cannot interpret magnitude",
-      "Structured way of displaying data or ideas"
-    ],
-    "correct": 1,
-    "explanation": "Graphs need titles, variables, units, consistent scales and transparent processing. Models need stated assumptions and limitations.\nHint: Readers cannot interpret magnitude.",
-    "structuredExplanation": {
-      "summary": "Graphs need titles, variables, units, consistent scales and transparent processing. Models need stated assumptions and limitations.",
-      "hint": "Readers cannot interpret magnitude."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i04-p-003",
-    "curriculumCode": "AC9S7I04",
-    "bank": "practice",
-    "skill": "audit scale",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating audit scale. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating audit scale. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Processed data replaces raw record",
-      "Retain traceability",
-      "A graph can reveal association; a model proposes or illustrates explanation. Do not let a smooth line hide sparse or variable data.",
-      "Structured way of displaying data or ideas"
-    ],
-    "correct": 2,
-    "explanation": "A graph can reveal association; a model proposes or illustrates explanation. Do not let a smooth line hide sparse or variable data.\nHint: Retain traceability.",
-    "structuredExplanation": {
-      "summary": "A graph can reveal association; a model proposes or illustrates explanation. Do not let a smooth line hide sparse or variable data.",
-      "hint": "Retain traceability."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i04-p-004",
-    "curriculumCode": "AC9S7I04",
-    "bank": "practice",
-    "skill": "explain model limit",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating explain model limit. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating explain model limit. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Model treated as exact copy",
-      "State simplifications",
-      "Structured way of displaying data or ideas",
-      "A representation is appropriate when it preserves relevant evidence, uses correct conventions and makes the question's relationship easier to inspect."
-    ],
-    "correct": 3,
-    "explanation": "A representation is appropriate when it preserves relevant evidence, uses correct conventions and makes the question's relationship easier to inspect.\nHint: State simplifications.",
-    "structuredExplanation": {
-      "summary": "A representation is appropriate when it preserves relevant evidence, uses correct conventions and makes the question's relationship easier to inspect.",
-      "hint": "State simplifications."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i04-p-005",
-    "curriculumCode": "AC9S7I04",
-    "bank": "practice",
-    "skill": "link pattern to evidence",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies scale in scientific representations and models?",
-    "audioPrompt": "Which statement correctly identifies scale in scientific representations and models?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Use a scatter plot for paired numerical variables and retain the original data table",
-      "Graph type chosen for appearance",
-      "Match variables and purpose",
-      "Structured way of displaying data or ideas"
-    ],
-    "correct": 0,
-    "explanation": "Use a scatter plot for paired numerical variables and retain the original data table\nHint: Match variables and purpose.",
-    "structuredExplanation": {
-      "summary": "Use a scatter plot for paired numerical variables and retain the original data table",
-      "hint": "Match variables and purpose."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i04-p-006",
-    "curriculumCode": "AC9S7I04",
-    "bank": "practice",
-    "skill": "choose a graph",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes model limitation in scientific representations and models?",
-    "audioPrompt": "Which choice best describes model limitation in scientific representations and models?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Axes or units omitted",
-      "Graphs need titles, variables, units, consistent scales and transparent processing. Models need stated assumptions and limitations.",
-      "Readers cannot interpret magnitude",
-      "Structured way of displaying data or ideas"
-    ],
-    "correct": 1,
-    "explanation": "Graphs need titles, variables, units, consistent scales and transparent processing. Models need stated assumptions and limitations.\nHint: Readers cannot interpret magnitude.",
-    "structuredExplanation": {
-      "summary": "Graphs need titles, variables, units, consistent scales and transparent processing. Models need stated assumptions and limitations.",
-      "hint": "Readers cannot interpret magnitude."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i04-p-007",
-    "curriculumCode": "AC9S7I04",
-    "bank": "practice",
-    "skill": "label axes",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for representation in scientific representations and models?",
-    "audioPrompt": "What does correct use require for representation in scientific representations and models?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Processed data replaces raw record",
-      "Retain traceability",
-      "A graph can reveal association; a model proposes or illustrates explanation. Do not let a smooth line hide sparse or variable data.",
-      "Structured way of displaying data or ideas"
-    ],
-    "correct": 2,
-    "explanation": "A graph can reveal association; a model proposes or illustrates explanation. Do not let a smooth line hide sparse or variable data.\nHint: Retain traceability.",
-    "structuredExplanation": {
-      "summary": "A graph can reveal association; a model proposes or illustrates explanation. Do not let a smooth line hide sparse or variable data.",
-      "hint": "Retain traceability."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i04-p-008",
-    "curriculumCode": "AC9S7I04",
-    "bank": "practice",
-    "skill": "audit scale",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating audit scale. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating audit scale. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Model treated as exact copy",
-      "State simplifications",
-      "Structured way of displaying data or ideas",
-      "A representation is appropriate when it preserves relevant evidence, uses correct conventions and makes the question's relationship easier to inspect."
-    ],
-    "correct": 3,
-    "explanation": "A representation is appropriate when it preserves relevant evidence, uses correct conventions and makes the question's relationship easier to inspect.\nHint: State simplifications.",
-    "structuredExplanation": {
-      "summary": "A representation is appropriate when it preserves relevant evidence, uses correct conventions and makes the question's relationship easier to inspect.",
-      "hint": "State simplifications."
-    },
-    "qualitySchema": "production-v1"
-  }
+window.skillrPracticeQuestions=[
+{id:"ac9s7i04-p-001",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"What is the main purpose of selecting an appropriate scientific representation?",answers:["To organise data so patterns and meaning are clear","To replace evidence with a diagram","To make every dataset look the same","To avoid analysing results"],correct:0,explanation:"The best representation makes the structure and meaning of data easier to interpret.",structuredExplanation:{summary:"The best representation makes the structure and meaning of data easier to interpret.",hint:"Match the representation to the data and purpose."}},
+{id:"ac9s7i04-p-002",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Which representation is usually best for organising raw measurements before graphing?",answers:["Food web","Table","Dichotomous key","Concept map"],correct:1,explanation:"Tables organise raw values systematically before further processing.",structuredExplanation:{summary:"Tables organise raw values systematically before further processing.",hint:"Think about rows, columns and headings."}},
+{id:"ac9s7i04-p-003",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Which graph is most suitable for showing temperature changing continuously over 24 hours?",answers:["Line graph","Pie chart","Dichotomous key","Food web"],correct:0,explanation:"A line graph shows continuous change over an ordered variable such as time.",structuredExplanation:{summary:"A line graph shows continuous change over an ordered variable such as time.",hint:"Temperature and time are continuous."}},
+{id:"ac9s7i04-p-004",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Which representation is most appropriate for comparing the number of insects found in four habitats?",answers:["Column graph","Line graph joining every category","Food web","Scatter plot"],correct:0,explanation:"Counts across separate categories are discrete and suit a column graph.",structuredExplanation:{summary:"Counts across separate categories are discrete and suit a column graph.",hint:"The habitats are separate categories."}},
+{id:"ac9s7i04-p-005",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"What is a scatter plot mainly used to show?",answers:["A possible relationship between two measured variables","The parts of a whole only","The steps in a dichotomous key","Energy flow in a food web"],correct:0,explanation:"Scatter plots are useful for examining relationships or correlations between paired variables.",structuredExplanation:{summary:"Scatter plots examine relationships between paired variables.",hint:"Think of two numerical variables measured together."}},
+{id:"ac9s7i04-p-006",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Why are scientific models useful?",answers:["They simplify complex systems to highlight important relationships","They reproduce every detail of reality","They remove the need for evidence","They guarantee predictions are correct"],correct:0,explanation:"Models simplify reality so key structures or relationships can be examined.",structuredExplanation:{summary:"Models simplify reality so key structures or relationships can be examined.",hint:"A useful model does not need every detail."}},
+{id:"ac9s7i04-p-007",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"What is a key advantage of using a spreadsheet formula?",answers:["It can calculate values such as means consistently","It makes raw data automatically accurate","It replaces the need to label units","It converts all data to continuous data"],correct:0,explanation:"Spreadsheet formulas can process data consistently, but the underlying data still need to be valid.",structuredExplanation:{summary:"Spreadsheet formulas can process data consistently.",hint:"Spreadsheets help calculate and organise; they do not guarantee good data."}},
+{id:"ac9s7i04-p-008",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Which spreadsheet feature can help reveal a trend in numerical data?",answers:["Creating an appropriate graph","Changing the font colour only","Merging every cell","Deleting unusual results"],correct:0,explanation:"Appropriate graphs can make trends or relationships easier to see.",structuredExplanation:{summary:"Appropriate graphs can make trends easier to see.",hint:"Choose a display that matches the variables."}},
+{id:"ac9s7i04-p-009",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"What can conditional formatting help a student do?",answers:["Highlight values that meet chosen rules","Prove a hypothesis automatically","Change discrete data into continuous data","Identify species without evidence"],correct:0,explanation:"Conditional formatting highlights selected patterns or unusual values based on rules.",structuredExplanation:{summary:"Conditional formatting highlights values using specified rules.",hint:"It changes display, not the underlying data."}},
+{id:"ac9s7i04-p-010",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"In a food web, an arrow from grass to grasshopper represents:",answers:["Energy and matter moving from grass to grasshopper","The grass eating the grasshopper","The grasshopper protecting the grass","Only the movement of the grasshopper"],correct:0,explanation:"Food-web arrows show transfer from the organism eaten to the consumer.",structuredExplanation:{summary:"Food-web arrows show the direction of energy and matter transfer.",hint:"Arrow: food → eater."}},
+{id:"ac9s7i04-p-011",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Which organism is a producer in a food web?",answers:["Grass","Frog","Snake","Hawk"],correct:0,explanation:"Producers make organic matter using an energy source, usually sunlight.",structuredExplanation:{summary:"Grass is a producer.",hint:"Producers make their own organic matter."}},
+{id:"ac9s7i04-p-012",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Why are decomposers important in ecosystem representations?",answers:["They break down dead material and return nutrients to the system","They create sunlight","They prevent all predation","They are always top consumers"],correct:0,explanation:"Decomposers recycle matter by breaking down dead organisms and wastes.",structuredExplanation:{summary:"Decomposers recycle matter and nutrients.",hint:"Think about what happens to dead material."}},
+{id:"ac9s7i04-p-013",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Why can a food web represent an ecosystem better than a single food chain?",answers:["It shows multiple feeding relationships","It always contains fewer organisms","It removes decomposers","It shows only one energy pathway"],correct:0,explanation:"Food webs show interconnected feeding pathways rather than one linear chain.",structuredExplanation:{summary:"Food webs show multiple interconnected feeding relationships.",hint:"Real organisms often have more than one food source or predator."}},
+{id:"ac9s7i04-p-014",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"What is the defining feature of a dichotomous key?",answers:["Each step offers two contrasting choices","Every step has at least four choices","It uses numerical measurements only","It must be drawn as a graph"],correct:0,explanation:"Dichotomous keys separate items through paired, contrasting choices.",structuredExplanation:{summary:"Each key step has two contrasting choices.",hint:"Di- means two."}},
+{id:"ac9s7i04-p-015",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Which question is best for a dichotomous key?",answers:["Does the leaf have a smooth edge?","Is the leaf nice?","Is the organism interesting?","Does the specimen look normal?"],correct:0,explanation:"Key choices should use observable, unambiguous characteristics.",structuredExplanation:{summary:"Observable features make classification repeatable.",hint:"Avoid subjective words."}},
+{id:"ac9s7i04-p-016",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Why should the two choices at each dichotomous-key step be mutually exclusive?",answers:["So a specimen follows only one pathway","So both choices can be selected","So subjective judgement is required","So fewer organisms can be classified"],correct:0,explanation:"Mutually exclusive choices prevent ambiguity.",structuredExplanation:{summary:"Mutually exclusive choices give one clear pathway.",hint:"A specimen should not fit both choices."}},
+{id:"ac9s7i04-p-017",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"What is secondary data?",answers:["Data collected previously by another source","Data that must be less reliable than primary data","Data collected twice by the same student","Data that cannot be graphed"],correct:0,explanation:"Secondary data come from existing datasets or sources and still need evaluation.",structuredExplanation:{summary:"Secondary data were collected by another source.",hint:"Check source, context and method."}},
+{id:"ac9s7i04-p-018",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"A repeating rise-and-fall pattern in tide height over time is best described as:",answers:["A periodic cycle","A category","A dichotomous split","A food web"],correct:0,explanation:"Periodic data repeat in a regular or approximately regular pattern.",structuredExplanation:{summary:"Repeated tide patterns are periodic cycles.",hint:"Look for recurring peaks and troughs."}},
+{id:"ac9s7i04-p-019",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"What does a correlation between two variables mean?",answers:["The variables show an association, not necessarily causation","One variable definitely causes the other","The variables must be identical","The data are automatically continuous"],correct:0,explanation:"Correlation indicates association; it does not by itself prove causation.",structuredExplanation:{summary:"Correlation is association, not proof of cause.",hint:"Changing together does not prove why."}},
+{id:"ac9s7i04-p-020",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Which dataset is discrete?",answers:["Number of frogs heard at each site","Air temperature each minute","Plant height measured daily","Tide height over a month"],correct:0,explanation:"Counts such as numbers of frogs take separate countable values.",structuredExplanation:{summary:"Counts are discrete data.",hint:"Can the values occur only as separate counts?"}},
+{id:"ac9s7i04-p-021",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Which dataset is continuous?",answers:["Water temperature","Number of nests","Species category","Number of leaves"],correct:0,explanation:"Temperature is measured on a continuous scale.",structuredExplanation:{summary:"Temperature is continuous data.",hint:"Measured quantities can take values between marked points."}},
+{id:"ac9s7i04-p-022",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Why should graph scales be chosen carefully?",answers:["A poor scale can exaggerate or hide patterns","A scale changes the original measurements","All graphs must start at zero","Scale choice determines the hypothesis"],correct:0,explanation:"Graph scaling affects visual interpretation and should not mislead.",structuredExplanation:{summary:"Graph scales should present patterns without distortion.",hint:"Check intervals and axis range."}},
+{id:"ac9s7i04-p-023",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"When analysing First Nations Australian astronomical observations, students should:",answers:["Acknowledge the specific knowledge source and interpret it in context","Treat all First Nations groups as having one identical astronomy system","Replace community knowledge with a generic textbook version","Assume cultural significance is irrelevant"],correct:0,explanation:"First Nations knowledges are diverse and should be acknowledged specifically and respectfully.",structuredExplanation:{summary:"Use specific attribution and cultural context.",hint:"Avoid treating First Nations knowledges as one uniform system."}},
+{id:"ac9s7i04-p-024",curriculumCode:"AC9S7I04",bank:"practice",type:"single",question:"Why can long-term astronomical observations be scientifically valuable?",answers:["They can reveal recurring seasonal and environmental patterns","They are useful only if they match modern instruments exactly","They eliminate the need for any further evidence","They are the same in every community"],correct:0,explanation:"Long-term observations can reveal robust recurring patterns while remaining culturally situated.",structuredExplanation:{summary:"Long-term observations can reveal recurring environmental patterns.",hint:"Consider repeated observations across seasons and generations."}}
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
