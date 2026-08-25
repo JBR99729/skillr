@@ -18,6 +18,12 @@ const raw=[
 [40,"Section D — Pattern recognition and generalisation","Parameter k in vertex form","In y = a(x − h)² + k, k controls:",["Vertical shift","Horizontal shift","Width","Reflection"],0,"The k-value controls the y-coordinate of the turning point, so it controls vertical shift.","The vertex is (h, k)."]
 ];
 window.skillrTestQuestions=raw.map((q,i)=>({id:`ac9m9a06-t-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M9A06",bank:"test",section:q[1],sourceNumber:q[0],skill:q[2],printable:true,type:"single",question:q[3],audioPrompt:q[3],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[4],correct:q[5],explanation:`${q[6]}\nHint: ${q[7]}`,structuredExplanation:{summary:q[6],hint:q[7]},qualitySchema:"production-v1"}));
+window.skillrTestQuestions[3].question="The starting point of y = √x moves from (0, 0) to (0, 5). Which transformation causes this change?";
+window.skillrTestQuestions[3].audioPrompt=window.skillrTestQuestions[3].question;
+window.skillrTestQuestions[4].question="For y = 2x³, each output of the parent cubic is doubled. What happens to the graph?";
+window.skillrTestQuestions[4].audioPrompt=window.skillrTestQuestions[4].question;
+window.skillrTestQuestions[5].question="The point (2, 8) on y = x³ becomes (2, −8) on y = −x³. Which transformation explains this?";
+window.skillrTestQuestions[5].audioPrompt=window.skillrTestQuestions[5].question;
 window.skillrTestQuestions=window.skillrTestQuestions;
 window.skillrExamQuestions=window.skillrTestQuestions;
 window.quizQuestions=window.skillrTestQuestions;

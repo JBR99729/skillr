@@ -26,4 +26,8 @@ const raw=[
 [24,"Section B — Transformations of y = x²","Vertex form","In y = a(x − h)² + k, what is the turning point?",["(h, k)","(k, h)","(a, k)","(a, h)"],0,"The turning point of a parabola in vertex form is (h, k).","The a-value changes width/reflection, not the vertex location."]
 ];
 window.skillrPracticeQuestions=raw.map((q,i)=>({id:`ac9m9a06-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M9A06",bank:"practice",section:q[1],sourceNumber:q[0],skill:q[2],printable:true,type:"single",question:q[3],audioPrompt:q[3],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[4],correct:q[5],explanation:`${q[6]}\nHint: ${q[7]}`,structuredExplanation:{summary:q[6],hint:q[7]},qualitySchema:"production-v1"}));
+window.skillrPracticeQuestions[13].question="Every y-value of y = x² is doubled to form y = 2x². Which transformation is this?";
+window.skillrPracticeQuestions[13].audioPrompt=window.skillrPracticeQuestions[13].question;
+window.skillrPracticeQuestions[14].question="The rule y = −2x² reverses and doubles the original y-values. How does its graph compare with y = x²?";
+window.skillrPracticeQuestions[14].audioPrompt=window.skillrPracticeQuestions[14].question;
 window.quizQuestions=window.skillrPracticeQuestions;
