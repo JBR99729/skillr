@@ -1,236 +1,28 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s7i02-p-001",
-    "curriculumCode": "AC9S7I02",
-    "bank": "practice",
-    "skill": "write reproducible steps",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating write reproducible steps. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating write reproducible steps. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Specify force levels, cart mass, sensor settings, track and five repeats per level",
-      "Equipment list treated as method",
-      "Specify setup and use",
-      "Ability for others to repeat an investigation from its method"
-    ],
-    "correct": 0,
-    "explanation": "Specify force levels, cart mass, sensor settings, track and five repeats per level\nHint: Specify setup and use.",
-    "structuredExplanation": {
-      "summary": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
-      "hint": "Specify setup and use."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i02-p-002",
-    "curriculumCode": "AC9S7I02",
-    "bank": "practice",
-    "skill": "identify variables",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating identify variables. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating identify variables. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Fair test assumed to require one trial",
-      "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
-      "Repeat to assess variation",
-      "Ability for others to repeat an investigation from its method"
-    ],
-    "correct": 1,
-    "explanation": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.\nHint: Repeat to assess variation.",
-    "structuredExplanation": {
-      "summary": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
-      "hint": "Repeat to assess variation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i02-p-003",
-    "curriculumCode": "AC9S7I02",
-    "bank": "practice",
-    "skill": "plan repeats",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating plan repeats. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating plan repeats. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Safety written as ‘be careful’",
-      "Name hazard and control",
-      "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
-      "Ability for others to repeat an investigation from its method"
-    ],
-    "correct": 2,
-    "explanation": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.\nHint: Name hazard and control.",
-    "structuredExplanation": {
-      "summary": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
-      "hint": "Name hazard and control."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i02-p-004",
-    "curriculumCode": "AC9S7I02",
-    "bank": "practice",
-    "skill": "control a hazard",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating control a hazard. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating control a hazard. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Method changed without record",
-      "Document and evaluate deviations",
-      "Ability for others to repeat an investigation from its method",
-      "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it."
-    ],
-    "correct": 3,
-    "explanation": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.\nHint: Document and evaluate deviations.",
-    "structuredExplanation": {
-      "summary": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
-      "hint": "Document and evaluate deviations."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i02-p-005",
-    "curriculumCode": "AC9S7I02",
-    "bank": "practice",
-    "skill": "use a pilot test",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies risk control in planning reproducible investigations?",
-    "audioPrompt": "Which statement correctly identifies risk control in planning reproducible investigations?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Specify force levels, cart mass, sensor settings, track and five repeats per level",
-      "Equipment list treated as method",
-      "Specify setup and use",
-      "Ability for others to repeat an investigation from its method"
-    ],
-    "correct": 0,
-    "explanation": "Specify force levels, cart mass, sensor settings, track and five repeats per level\nHint: Specify setup and use.",
-    "structuredExplanation": {
-      "summary": "Specify force levels, cart mass, sensor settings, track and five repeats per level",
-      "hint": "Specify setup and use."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i02-p-006",
-    "curriculumCode": "AC9S7I02",
-    "bank": "practice",
-    "skill": "write reproducible steps",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes controlled variable in planning reproducible investigations?",
-    "audioPrompt": "Which choice best describes controlled variable in planning reproducible investigations?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Fair test assumed to require one trial",
-      "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
-      "Repeat to assess variation",
-      "Ability for others to repeat an investigation from its method"
-    ],
-    "correct": 1,
-    "explanation": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.\nHint: Repeat to assess variation.",
-    "structuredExplanation": {
-      "summary": "Reproducible does not mean identical results; it means another investigator can implement the same defined method.",
-      "hint": "Repeat to assess variation."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i02-p-007",
-    "curriculumCode": "AC9S7I02",
-    "bank": "practice",
-    "skill": "identify variables",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for reproducibility in planning reproducible investigations?",
-    "audioPrompt": "What does correct use require for reproducibility in planning reproducible investigations?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Safety written as ‘be careful’",
-      "Name hazard and control",
-      "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
-      "Ability for others to repeat an investigation from its method"
-    ],
-    "correct": 2,
-    "explanation": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.\nHint: Name hazard and control.",
-    "structuredExplanation": {
-      "summary": "Document deviations rather than silently adjusting the method. Risk controls should be specific and proportionate.",
-      "hint": "Name hazard and control."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i02-p-008",
-    "curriculumCode": "AC9S7I02",
-    "bank": "practice",
-    "skill": "plan repeats",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating plan repeats. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating plan repeats. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Method changed without record",
-      "Document and evaluate deviations",
-      "Ability for others to repeat an investigation from its method",
-      "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it."
-    ],
-    "correct": 3,
-    "explanation": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.\nHint: Document and evaluate deviations.",
-    "structuredExplanation": {
-      "summary": "A reproducible investigation specifies materials, quantities, sequence, variable control, measurement, repetition, risk controls and data treatment so others can repeat it.",
-      "hint": "Document and evaluate deviations."
-    },
-    "qualitySchema": "production-v1"
-  }
+window.skillrPracticeQuestions=[
+{"id":"ac9s7i02-p-001","curriculumCode":"AC9S7I02","bank":"practice","skill":"variables","printable":true,"type":"single","question":"Which variable is deliberately changed in a fair investigation?","audioPrompt":"Which variable is deliberately changed in a fair investigation?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Dependent variable","Controlled variable","Independent variable","Assumption"],"correct":2,"explanation":"The independent variable is the factor deliberately changed by the investigator.\nHint: Identify what the investigator changes.","structuredExplanation":{"summary":"The independent variable is the factor deliberately changed by the investigator.","hint":"Identify what the investigator changes."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-002","curriculumCode":"AC9S7I02","bank":"practice","skill":"variables","printable":true,"type":"single","question":"Which variable is measured as the outcome of an investigation?","audioPrompt":"Which variable is measured as the outcome of an investigation?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Independent variable","Dependent variable","Controlled variable","Assumption"],"correct":1,"explanation":"The dependent variable is the outcome that is measured.\nHint: Think about what data are recorded.","structuredExplanation":{"summary":"The dependent variable is the outcome that is measured.","hint":"Think about what data are recorded."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-003","curriculumCode":"AC9S7I02","bank":"practice","skill":"method-hypothesis match","printable":true,"type":"single","question":"A hypothesis states, ‘Increasing the amount of salt in water increases its density.’ What should the method deliberately change?","audioPrompt":"A hypothesis states, increasing the amount of salt in water increases its density. What should the method deliberately change?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Water temperature","Amount of salt","Container shape","Measuring instrument"],"correct":1,"explanation":"The amount of salt is the independent variable named in the hypothesis.\nHint: Match the method to the proposed relationship.","structuredExplanation":{"summary":"The amount of salt is the independent variable named in the hypothesis.","hint":"Match the method to the proposed relationship."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-004","curriculumCode":"AC9S7I02","bank":"practice","skill":"validity","printable":true,"type":"single","question":"Why must a method be checked against the hypothesis before an investigation begins?","audioPrompt":"Why must a method be checked against the hypothesis before an investigation begins?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["To make the report longer","To ensure the method actually tests the proposed relationship","To remove all uncertainty","To guarantee the hypothesis is correct"],"correct":1,"explanation":"A valid method must directly test the relationship described in the hypothesis.\nHint: Ask whether the planned measurements can answer the hypothesis.","structuredExplanation":{"summary":"A valid method must directly test the relationship described in the hypothesis.","hint":"Ask whether the planned measurements can answer the hypothesis."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-005","curriculumCode":"AC9S7I02","bank":"practice","skill":"fair testing","printable":true,"type":"single","question":"Which action best supports a fair test?","audioPrompt":"Which action best supports a fair test?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Changing several factors at once","Keeping relevant controlled variables constant","Ignoring assumptions","Using different measuring methods each trial"],"correct":1,"explanation":"Controlled variables are kept as constant as practical so changes in the outcome can be linked to the independent variable.\nHint: Only one intended factor should drive the comparison.","structuredExplanation":{"summary":"Controlled variables are kept as constant as practical so changes in the outcome can be linked to the independent variable.","hint":"Only one intended factor should drive the comparison."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-006","curriculumCode":"AC9S7I02","bank":"practice","skill":"assumptions","printable":true,"type":"single","question":"Assuming room temperature stays approximately constant during an experiment is an example of:","audioPrompt":"Assuming room temperature stays approximately constant during an experiment is an example of what?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["An independent variable","A dependent variable","An assumption","A conclusion"],"correct":2,"explanation":"An assumption is a condition treated as true or constant for the purposes of the investigation.\nHint: It may be reasonable but still needs recognition.","structuredExplanation":{"summary":"An assumption is a condition treated as true or constant for the purposes of the investigation.","hint":"It may be reasonable but still needs recognition."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-007","curriculumCode":"AC9S7I02","bank":"practice","skill":"assumptions","printable":true,"type":"single","question":"Why should assumptions such as ‘the thermometer is accurate’ be identified?","audioPrompt":"Why should assumptions such as the thermometer is accurate be identified?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Because they can affect interpretation if they are wrong","Because they replace controlled variables","Because they make risks disappear","Because they prove the hypothesis"],"correct":0,"explanation":"If an assumption is wrong, measurements or conclusions may be affected.\nHint: Hidden assumptions can become hidden sources of error.","structuredExplanation":{"summary":"If an assumption is wrong, measurements or conclusions may be affected.","hint":"Hidden assumptions can become hidden sources of error."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-008","curriculumCode":"AC9S7I02","bank":"practice","skill":"measurement assumptions","printable":true,"type":"single","question":"Which is the best example of an assumption that could affect measurement accuracy?","audioPrompt":"Which is the best example of an assumption that could affect measurement accuracy?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The thermometer is correctly calibrated","Water is a liquid at room temperature","Gravity acts downward","The beaker has a label"],"correct":0,"explanation":"Calibration is often assumed; if it is wrong, recorded temperatures may be inaccurate.\nHint: Focus on something that may not actually be true.","structuredExplanation":{"summary":"Calibration is often assumed; if it is wrong, recorded temperatures may be inaccurate.","hint":"Focus on something that may not actually be true."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-009","curriculumCode":"AC9S7I02","bank":"practice","skill":"assumptions","printable":true,"type":"single","question":"What should investigators do with important assumptions?","audioPrompt":"What should investigators do with important assumptions?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Hide them","Identify and consider them","Treat them as proven facts","Remove them from the method"],"correct":1,"explanation":"Important assumptions should be stated and considered when evaluating validity and limitations.\nHint: Good planning makes assumptions explicit.","structuredExplanation":{"summary":"Important assumptions should be stated and considered when evaluating validity and limitations.","hint":"Good planning makes assumptions explicit."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-010","curriculumCode":"AC9S7I02","bank":"practice","skill":"reproducibility","printable":true,"type":"single","question":"A reproducible investigation should include:","audioPrompt":"A reproducible investigation should include what?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Vague instructions","Clear steps, quantities and measurement procedures","No controlled variables","Only one trial with no record"],"correct":1,"explanation":"Detailed methods allow another investigator to repeat the same procedure.\nHint: Another student should be able to follow the method.","structuredExplanation":{"summary":"Detailed methods allow another investigator to repeat the same procedure.","hint":"Another student should be able to follow the method."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-011","curriculumCode":"AC9S7I02","bank":"practice","skill":"reproducibility","printable":true,"type":"single","question":"What does reproducibility mean?","audioPrompt":"What does reproducibility mean?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Every repeat must give exactly the same number","Another investigator can use the stated method and obtain reasonably consistent findings","The hypothesis must always be supported","Only the original investigator can perform the method"],"correct":1,"explanation":"Reproducibility is about whether the method can be repeated and produce reasonably consistent findings, not identical numbers.\nHint: Allow for normal experimental variation.","structuredExplanation":{"summary":"Reproducibility is about whether the method can be repeated and produce reasonably consistent findings, not identical numbers.","hint":"Allow for normal experimental variation."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-012","curriculumCode":"AC9S7I02","bank":"practice","skill":"peer review","printable":true,"type":"single","question":"Why is reviewing another student’s method useful?","audioPrompt":"Why is reviewing another student’s method useful?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It can reveal unclear steps, missing controls or safety issues","It guarantees identical results","It removes the need for repeats","It proves the method is ethical"],"correct":0,"explanation":"Peer review can identify weaknesses before testing begins.\nHint: Look for clarity and completeness.","structuredExplanation":{"summary":"Peer review can identify weaknesses before testing begins.","hint":"Look for clarity and completeness."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-013","curriculumCode":"AC9S7I02","bank":"practice","skill":"method precision","printable":true,"type":"single","question":"Which method detail most improves reproducibility?","audioPrompt":"Which method detail most improves reproducibility?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Add some water","Measure 100 mL of water with a measuring cylinder","Heat it a bit","Record what happens somehow"],"correct":1,"explanation":"Specific quantities, equipment and procedures make a method repeatable.\nHint: Precise instructions are easier to reproduce.","structuredExplanation":{"summary":"Specific quantities, equipment and procedures make a method repeatable.","hint":"Precise instructions are easier to reproduce."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-014","curriculumCode":"AC9S7I02","bank":"practice","skill":"repeats","printable":true,"type":"single","question":"What is the main purpose of repeating trials?","audioPrompt":"What is the main purpose of repeating trials?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["To make data more variable","To assess variation and improve confidence in the pattern","To avoid measuring carefully","To change the hypothesis"],"correct":1,"explanation":"Repeated trials help reveal variation and make patterns more dependable.\nHint: One result may be unusual.","structuredExplanation":{"summary":"Repeated trials help reveal variation and make patterns more dependable.","hint":"One result may be unusual."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-015","curriculumCode":"AC9S7I02","bank":"practice","skill":"risk management","printable":true,"type":"single","question":"Identifying hazards before an investigation is mainly part of:","audioPrompt":"Identifying hazards before an investigation is mainly part of what?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Risk management","Hypothesis writing","Graphing","Classification"],"correct":0,"explanation":"Risk management begins by identifying hazards and considering how harm can be prevented or reduced.\nHint: Think safety planning.","structuredExplanation":{"summary":"Risk management begins by identifying hazards and considering how harm can be prevented or reduced.","hint":"Think safety planning."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-016","curriculumCode":"AC9S7I02","bank":"practice","skill":"risk controls","printable":true,"type":"single","question":"Which control best reduces the risk of chemical splashes to the eyes?","audioPrompt":"Which control best reduces the risk of chemical splashes to the eyes?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Ear protection","Safety goggles","Closed notebook","A larger beaker only"],"correct":1,"explanation":"Safety goggles protect the eyes from splashes.\nHint: Match the control to the hazard.","structuredExplanation":{"summary":"Safety goggles protect the eyes from splashes.","hint":"Match the control to the hazard."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-017","curriculumCode":"AC9S7I02","bank":"practice","skill":"heating risk","printable":true,"type":"single","question":"A heating experiment using hot water presents which likely hazard?","audioPrompt":"A heating experiment using hot water presents which likely hazard?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Burns or scalds","Hearing damage","Radiation exposure","Loss of biodiversity"],"correct":0,"explanation":"Hot water and heated equipment can cause burns or scalds.\nHint: Identify the direct harm.","structuredExplanation":{"summary":"Hot water and heated equipment can cause burns or scalds.","hint":"Identify the direct harm."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-018","curriculumCode":"AC9S7I02","bank":"practice","skill":"risk controls","printable":true,"type":"single","question":"Which is the strongest risk-management statement?","audioPrompt":"Which is the strongest risk-management statement?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Be careful","Wear safety goggles and use tongs when handling the heated beaker","Do the experiment quickly","Ignore small hazards"],"correct":1,"explanation":"Effective risk controls name the hazard and a specific action to reduce the risk.\nHint: Specific controls are stronger than vague warnings.","structuredExplanation":{"summary":"Effective risk controls name the hazard and a specific action to reduce the risk.","hint":"Specific controls are stronger than vague warnings."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-019","curriculumCode":"AC9S7I02","bank":"practice","skill":"biological safety","printable":true,"type":"single","question":"When working with biological materials, students should:","audioPrompt":"When working with biological materials, students should do what?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Assume no risks exist","Use appropriate safe-handling procedures","Always heat samples strongly","Avoid recording observations"],"correct":1,"explanation":"Biological materials can require hygiene, containment or other safe-handling procedures.\nHint: Safety depends on the material.","structuredExplanation":{"summary":"Biological materials can require hygiene, containment or other safe-handling procedures.","hint":"Safety depends on the material."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-020","curriculumCode":"AC9S7I02","bank":"practice","skill":"ethics living things","printable":true,"type":"single","question":"Which action best reflects ethical treatment of living things?","audioPrompt":"Which action best reflects ethical treatment of living things?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Minimising unnecessary harm and stress","Handling organisms roughly to save time","Exposing organisms to harmful conditions without need","Ignoring school guidelines"],"correct":0,"explanation":"Ethical investigations minimise unnecessary harm and follow relevant guidance.\nHint: Respect living things.","structuredExplanation":{"summary":"Ethical investigations minimise unnecessary harm and follow relevant guidance.","hint":"Respect living things."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-021","curriculumCode":"AC9S7I02","bank":"practice","skill":"ethics planning","printable":true,"type":"single","question":"When should ethical issues involving living organisms be considered?","audioPrompt":"When should ethical issues involving living organisms be considered?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Before and during planning, not only after the investigation","Only after results are collected","Only in chemistry","Only if an accident happens"],"correct":0,"explanation":"Ethical issues should shape the investigation before it begins and throughout its conduct.\nHint: Ethics is part of planning.","structuredExplanation":{"summary":"Ethical issues should shape the investigation before it begins and throughout its conduct.","hint":"Ethics is part of planning."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-022","curriculumCode":"AC9S7I02","bank":"practice","skill":"ethical alternatives","printable":true,"type":"single","question":"Why can using a non-animal alternative be ethically preferable when it can answer the same question?","audioPrompt":"Why can using a non-animal alternative be ethically preferable when it can answer the same question?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It may reduce unnecessary harm to living organisms","It always costs less","It guarantees better results","It removes the need for a method"],"correct":0,"explanation":"Where appropriate, alternatives can reduce or avoid unnecessary harm.\nHint: Consider the ethical principle of minimising harm.","structuredExplanation":{"summary":"Where appropriate, alternatives can reduce or avoid unnecessary harm.","hint":"Consider the ethical principle of minimising harm."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-023","curriculumCode":"AC9S7I02","bank":"practice","skill":"heritage responsibility","printable":true,"type":"single","question":"A student notices a possible cultural artefact during fieldwork on Country/Place. What is the best immediate action?","audioPrompt":"A student notices a possible cultural artefact during fieldwork on Country or Place. What is the best immediate action?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Pick it up for closer study","Leave it undisturbed and follow the relevant school, community and legal reporting process","Move it to a safer place","Take it home for identification"],"correct":1,"explanation":"Potential heritage material should not be disturbed; appropriate local protocols and legal requirements should be followed.\nHint: Do not remove or disturb possible artefacts.","structuredExplanation":{"summary":"Potential heritage material should not be disturbed; appropriate local protocols and legal requirements should be followed.","hint":"Do not remove or disturb possible artefacts."},"qualitySchema":"production-v1"},
+{"id":"ac9s7i02-p-024","curriculumCode":"AC9S7I02","bank":"practice","skill":"First Nations collaboration","printable":true,"type":"single","question":"Which statement best describes responsible ecosystem research with First Nations communities?","audioPrompt":"Which statement best describes responsible ecosystem research with First Nations communities?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The research should be planned collaboratively and aim for mutually beneficial outcomes","Students should collect knowledge first and ask permission later","Community perspectives are optional if scientific equipment is used","The same protocol applies on every Country or Place"],"correct":0,"explanation":"AC9S7I02 emphasises collaboration with First Nations communities and organisations and mutually beneficial outcomes.\nHint: Partnership, permission and local protocols matter.","structuredExplanation":{"summary":"AC9S7I02 emphasises collaboration with First Nations communities and organisations and mutually beneficial outcomes.","hint":"Partnership, permission and local protocols matter."},"qualitySchema":"production-v1"}
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
