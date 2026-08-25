@@ -1202,6 +1202,7 @@ document.addEventListener("DOMContentLoaded", () => {
   ) {
     const remaining = availableQuestions.slice();
     const selected = [];
+    const difficultyCounts = new Map();
     const uncovered = new Set(
       remaining.flatMap(getQuestionCoverageKeys)
     );
@@ -1229,20 +1230,62 @@ document.addEventListener("DOMContentLoaded", () => {
 
       if (bestScore === 0) break;
 
-      const chosen = shuffleArray(candidates)[0];
+      const smallestDifficultyCount = Math.min(
+        ...candidates.map((question) =>
+          difficultyCounts.get(
+            inferQuestionDifficulty(question)
+          ) || 0
+        )
+      );
+      const balancedCandidates = candidates.filter(
+        (question) =>
+          (difficultyCounts.get(
+            inferQuestionDifficulty(question)
+          ) || 0) === smallestDifficultyCount
+      );
+      const chosen = shuffleArray(balancedCandidates)[0];
+      const difficulty = inferQuestionDifficulty(chosen);
+
       selected.push(chosen);
+      difficultyCounts.set(
+        difficulty,
+        (difficultyCounts.get(difficulty) || 0) + 1
+      );
       getQuestionCoverageKeys(chosen).forEach((key) =>
         uncovered.delete(key)
       );
       remaining.splice(remaining.indexOf(chosen), 1);
     }
 
-    const fill = shuffleArray(remaining).slice(
-      0,
-      maximumQuestions - selected.length
-    );
+    while (
+      selected.length < maximumQuestions &&
+      remaining.length > 0
+    ) {
+      const smallestDifficultyCount = Math.min(
+        ...remaining.map((question) =>
+          difficultyCounts.get(
+            inferQuestionDifficulty(question)
+          ) || 0
+        )
+      );
+      const candidates = remaining.filter(
+        (question) =>
+          (difficultyCounts.get(
+            inferQuestionDifficulty(question)
+          ) || 0) === smallestDifficultyCount
+      );
+      const chosen = shuffleArray(candidates)[0];
+      const difficulty = inferQuestionDifficulty(chosen);
 
-    return shuffleArray([...selected, ...fill]);
+      selected.push(chosen);
+      difficultyCounts.set(
+        difficulty,
+        (difficultyCounts.get(difficulty) || 0) + 1
+      );
+      remaining.splice(remaining.indexOf(chosen), 1);
+    }
+
+    return shuffleArray(selected);
   }
 
   function selectQuestionCycle(
@@ -1325,7 +1368,7 @@ document.addEventListener("DOMContentLoaded", () => {
     state.totalSets = totalSets;
     storageSetJson(key, state);
 
-    return shuffleArray(selected);
+    return selected;
   }
 
   function markCurrentCycleSetComplete() {
