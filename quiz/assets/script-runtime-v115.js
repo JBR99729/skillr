@@ -1296,12 +1296,36 @@ document.addEventListener("DOMContentLoaded", () => {
       (id) => !selectedIds.has(id)
     );
 
+    if (
+      selected.length < maximumQuestions &&
+      state.remainingIds.length === 0
+    ) {
+      const rolloverCandidates = prepared.filter(
+        (question) => !selectedIds.has(
+          getQuestionIdentity(question)
+        )
+      );
+      const rollover = selectBalancedUnseenQuestions(
+        rolloverCandidates,
+        maximumQuestions - selected.length
+      );
+      const rolloverIds = new Set(
+        rollover.map(getQuestionIdentity)
+      );
+
+      selected.push(...rollover);
+      state.remainingIds = allIds.filter(
+        (id) => !rolloverIds.has(id)
+      );
+      state.completedSets = 0;
+    }
+
     currentCycleKey = key;
     currentCycleTotalSets = totalSets;
     state.totalSets = totalSets;
     storageSetJson(key, state);
 
-    return selected;
+    return shuffleArray(selected);
   }
 
   function markCurrentCycleSetComplete() {
