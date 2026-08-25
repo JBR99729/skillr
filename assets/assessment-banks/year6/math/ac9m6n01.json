@@ -1,42 +1,562 @@
 [
-{"id":"ac9m6n01-p-001","curriculum_code":"AC9M6N01","bank":"practice","question":"Which integer is furthest to the left on a number line?","answers":["3","−1","−4","0"],"correct_index":2,"explanation":"Numbers farther left are smaller. −4 is left of −1, 0 and 3."},
-{"id":"ac9m6n01-p-002","curriculum_code":"AC9M6N01","bank":"practice","question":"Which integer is greatest?","answers":["−7","−2","−9","−10"],"correct_index":1,"explanation":"Among negative integers, the value closer to zero is greater."},
-{"id":"ac9m6n01-p-003","curriculum_code":"AC9M6N01","bank":"practice","question":"Which list is ordered from least to greatest?","answers":["−5, −1, 0, 3","−1, −5, 0, 3","3, 0, −1, −5","0, −5, −1, 3"],"correct_index":0,"explanation":"Move from left to right on a number line."},
-{"id":"ac9m6n01-p-004","curriculum_code":"AC9M6N01","bank":"practice","question":"Which pair is the same distance from zero on opposite sides?","answers":["−3 and +3","−4 and −2","+1 and +3","−2 and +5"],"correct_index":0,"explanation":"−3 and +3 are each 3 units from zero."},
-{"id":"ac9m6n01-p-005","curriculum_code":"AC9M6N01","bank":"practice","question":"Which statement is true?","answers":["−2 > 1","−5 < −2","0 < −1","3 < −4"],"correct_index":1,"explanation":"−5 lies to the left of −2."},
-{"id":"ac9m6n01-p-006","curriculum_code":"AC9M6N01","bank":"practice","question":"A school stall earns $120 and spends $150. Which integer represents the net result?","answers":["+30","−30","+150","−120"],"correct_index":1,"explanation":"The event makes a $30 loss, represented by −30."},
-{"id":"ac9m6n01-p-007","curriculum_code":"AC9M6N01","bank":"practice","question":"A fundraiser makes a profit of $45. Which integer represents this?","answers":["−45","+45","0","+4.5"],"correct_index":1,"explanation":"Profit is represented by a positive integer."},
-{"id":"ac9m6n01-p-008","curriculum_code":"AC9M6N01","bank":"practice","question":"A stall makes a loss of $18. Which integer represents this?","answers":["+18","−18","0","−1.8"],"correct_index":1,"explanation":"Loss is represented by a negative integer."},
-{"id":"ac9m6n01-p-009","curriculum_code":"AC9M6N01","bank":"practice","question":"A club earns $75 and spends $40. Which integer represents the net result?","answers":["−35","+35","+115","−115"],"correct_index":1,"explanation":"The net gain is +35."},
-{"id":"ac9m6n01-p-010","curriculum_code":"AC9M6N01","bank":"practice","question":"A planned event earns exactly as much as it costs. Which integer represents the result?","answers":["+1","−1","0","+100"],"correct_index":2,"explanation":"Break-even is represented by zero."},
-{"id":"ac9m6n01-p-011","curriculum_code":"AC9M6N01","bank":"practice","question":"An elevator is 3 floors below ground level. Which integer represents its position?","answers":["+3","−3","0","−1"],"correct_index":1,"explanation":"Below the reference level is negative."},
-{"id":"ac9m6n01-p-012","curriculum_code":"AC9M6N01","bank":"practice","question":"A submarine is 120 m below sea level. Which integer represents its position?","answers":["+120","−120","−12","+12"],"correct_index":1,"explanation":"Below sea level is negative."},
-{"id":"ac9m6n01-p-013","curriculum_code":"AC9M6N01","bank":"practice","question":"A lookout is 40 m above sea level. Which integer represents its position?","answers":["−40","+40","+4","0"],"correct_index":1,"explanation":"Above sea level is positive."},
-{"id":"ac9m6n01-p-014","curriculum_code":"AC9M6N01","bank":"practice","question":"Which point is in Quadrant II?","answers":["(3, 2)","(−3, 2)","(−3, −2)","(3, −2)"],"correct_index":1,"explanation":"Quadrant II has negative x and positive y."},
-{"id":"ac9m6n01-p-015","curriculum_code":"AC9M6N01","bank":"practice","question":"Which point is in Quadrant IV?","answers":["(−2, −5)","(−2, 5)","(4, −3)","(4, 3)"],"correct_index":2,"explanation":"Quadrant IV has positive x and negative y."},
-{"id":"ac9m6n01-p-016","curriculum_code":"AC9M6N01","bank":"practice","question":"Which coordinate lies on the x-axis?","answers":["(0, 4)","(3, 0)","(−2, −3)","(1, 1)"],"correct_index":1,"explanation":"Points on the x-axis have y = 0."},
-{"id":"ac9m6n01-p-017","curriculum_code":"AC9M6N01","bank":"practice","question":"Which coordinate lies on the y-axis?","answers":["(0, −6)","(4, 0)","(3, −3)","(−2, 1)"],"correct_index":0,"explanation":"Points on the y-axis have x = 0."},
-{"id":"ac9m6n01-p-018","curriculum_code":"AC9M6N01","bank":"practice","question":"On a horizontal number line, what does −20 m mean if right is positive?","answers":["20 m right","20 m left","20 m up","20 m down"],"correct_index":1,"explanation":"Negative is the direction opposite to positive."},
-{"id":"ac9m6n01-p-019","curriculum_code":"AC9M6N01","bank":"practice","question":"On a vertical number line, a robot moves +8 units. Which direction does it move?","answers":["8 units down","8 units up","8 units left","8 units right"],"correct_index":1,"explanation":"Positive is upward on the chosen vertical number line."},
-{"id":"ac9m6n01-p-020","curriculum_code":"AC9M6N01","bank":"practice","question":"A location is 25 m left of a reference point. Which integer represents it?","answers":["+25","−25","0","−5"],"correct_index":1,"explanation":"Left is negative when right is positive."},
-{"id":"ac9m6n01-p-021","curriculum_code":"AC9M6N01","bank":"practice","question":"Which temperature is coldest?","answers":["−5°C","0°C","3°C","−1°C"],"correct_index":0,"explanation":"−5°C is the smallest temperature."},
-{"id":"ac9m6n01-p-022","curriculum_code":"AC9M6N01","bank":"practice","question":"Which temperature is warmest?","answers":["−12°C","−3°C","−20°C","−15°C"],"correct_index":1,"explanation":"−3°C is the greatest temperature."},
-{"id":"ac9m6n01-p-023","curriculum_code":"AC9M6N01","bank":"practice","question":"Which temperature is closest to zero?","answers":["−2°C","−10°C","5°C","−1°C"],"correct_index":3,"explanation":"−1°C is one degree from zero."},
-{"id":"ac9m6n01-p-024","curriculum_code":"AC9M6N01","bank":"practice","question":"A thermometer shows −7°C. What does this mean?","answers":["7°C above zero","7°C below zero","exactly 0°C","a positive temperature"],"correct_index":1,"explanation":"The negative sign means below zero."},
-{"id":"ac9m6n01-t-001","curriculum_code":"AC9M6N01","bank":"test","question":"Which list is correctly ordered from greatest to least?","answers":["5, 0, −3, −9","−1, −4, −7, −2","−2, −1, 0, 3","3, −1, −5, 2"],"correct_index":0,"explanation":"5 > 0 > −3 > −9."},
-{"id":"ac9m6n01-t-002","curriculum_code":"AC9M6N01","bank":"test","question":"Which integer is greater than −8 but less than −2?","answers":["−9","−1","−5","−12"],"correct_index":2,"explanation":"−8 < −5 < −2."},
-{"id":"ac9m6n01-t-003","curriculum_code":"AC9M6N01","bank":"test","question":"A stall earns $240, spends $315, then earns $50. What is the final net result?","answers":["−$25","−$75","+$25","+$75"],"correct_index":0,"explanation":"240 − 315 + 50 = −25."},
-{"id":"ac9m6n01-t-004","curriculum_code":"AC9M6N01","bank":"test","question":"A club starts at $0, loses $45, earns $120, then loses $30. What is its final balance?","answers":["+$45","−$45","+$75","−$75"],"correct_index":0,"explanation":"−45 + 120 − 30 = +45."},
-{"id":"ac9m6n01-t-005","curriculum_code":"AC9M6N01","bank":"test","question":"A fundraiser has +$180 one day and −$220 the next. What is the combined result?","answers":["−$40","+$40","−$400","+$400"],"correct_index":0,"explanation":"The loss exceeds the profit by $40."},
-{"id":"ac9m6n01-t-006","curriculum_code":"AC9M6N01","bank":"test","question":"Which coordinate has both x and y negative?","answers":["(−3, 2)","(3, −2)","(−4, −1)","(4, 1)"],"correct_index":2,"explanation":"(−4, −1) is in Quadrant III."},
-{"id":"ac9m6n01-t-007","curriculum_code":"AC9M6N01","bank":"test","question":"Which point is 5 units right and 7 units down from the origin?","answers":["(5, −7)","(−5, −7)","(7, −5)","(−7, 5)"],"correct_index":0,"explanation":"Right is positive x and down is negative y."},
-{"id":"ac9m6n01-t-008","curriculum_code":"AC9M6N01","bank":"test","question":"A point has negative x and positive y. Which quadrant is it in?","answers":["Quadrant I","Quadrant II","Quadrant III","Quadrant IV"],"correct_index":1,"explanation":"Negative x and positive y identify Quadrant II."},
-{"id":"ac9m6n01-t-009","curriculum_code":"AC9M6N01","bank":"test","question":"A robot starts at 0, moves 12 units left, then 5 units right. Where does it finish?","answers":["−17","−7","+7","+17"],"correct_index":1,"explanation":"0 → −12 → −7."},
-{"id":"ac9m6n01-t-010","curriculum_code":"AC9M6N01","bank":"test","question":"A robot starts at 0, moves 20 right, 35 left, then 10 right. Where does it finish?","answers":["−5","−15","−25","+5"],"correct_index":0,"explanation":"0 → +20 → −15 → −5."},
-{"id":"ac9m6n01-t-011","curriculum_code":"AC9M6N01","bank":"test","question":"A drone moves from −12 to +4. How far does it travel?","answers":["8 units","12 units","16 units","4 units"],"correct_index":2,"explanation":"12 units to zero plus 4 more = 16."},
-{"id":"ac9m6n01-t-012","curriculum_code":"AC9M6N01","bank":"test","question":"One planet is at −180°C and another at +120°C. What is the temperature difference?","answers":["60°C","120°C","180°C","300°C"],"correct_index":3,"explanation":"180 + 120 = 300°C."},
-{"id":"ac9m6n01-t-013","curriculum_code":"AC9M6N01","bank":"test","question":"A freezer is −18°C and a fridge is +4°C. Which statement is true?","answers":["The freezer is warmer","The fridge is warmer","They are equal","Both are below zero"],"correct_index":1,"explanation":"+4°C is greater than −18°C."},
-{"id":"ac9m6n01-t-014","curriculum_code":"AC9M6N01","bank":"test","question":"A bank balance is −$35. Which interpretation is best?","answers":["$35 above zero","$35 below the zero-balance reference","exactly $35 profit","the sign has no meaning"],"correct_index":1,"explanation":"The negative balance is $35 below zero."},
-{"id":"ac9m6n01-t-015","curriculum_code":"AC9M6N01","bank":"test","question":"Which pair is on opposite sides of zero but the same distance from zero?","answers":["−8 m and +8 m","−8 m and +5 m","+8 m and +5 m","−5 m and −5 m"],"correct_index":0,"explanation":"−8 and +8 are opposite positions at equal distance."},
-{"id":"ac9m6n01-t-016","curriculum_code":"AC9M6N01","bank":"test","question":"A point is at (0, −6). Which statement is correct?","answers":["It is in Quadrant III","It is in Quadrant IV","It lies on the y-axis below the origin","It lies on the x-axis left of the origin"],"correct_index":2,"explanation":"x = 0 places the point on the y-axis."}
+  {
+    "id": "ac9m6n01-p-001",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which integer is furthest to the left on a number line?",
+    "answers": [
+      "−4",
+      "3",
+      "−1",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "Numbers farther left are smaller. −4 is left of −1, 0 and 3."
+  },
+  {
+    "id": "ac9m6n01-p-002",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which integer is greatest?",
+    "answers": [
+      "−7",
+      "−2",
+      "−9",
+      "−10"
+    ],
+    "correct_index": 1,
+    "explanation": "Among negative integers, the value closer to zero is greater."
+  },
+  {
+    "id": "ac9m6n01-p-003",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which list is ordered from least to greatest?",
+    "answers": [
+      "−1, −5, 0, 3",
+      "3, 0, −1, −5",
+      "−5, −1, 0, 3",
+      "0, −5, −1, 3"
+    ],
+    "correct_index": 2,
+    "explanation": "Move from left to right on a number line."
+  },
+  {
+    "id": "ac9m6n01-p-004",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which pair is the same distance from zero on opposite sides?",
+    "answers": [
+      "−4 and −2",
+      "+1 and +3",
+      "−2 and +5",
+      "−3 and +3"
+    ],
+    "correct_index": 3,
+    "explanation": "−3 and +3 are each 3 units from zero."
+  },
+  {
+    "id": "ac9m6n01-p-005",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which statement is true?",
+    "answers": [
+      "−5 < −2",
+      "−2 > 1",
+      "0 < −1",
+      "3 < −4"
+    ],
+    "correct_index": 0,
+    "explanation": "−5 lies to the left of −2."
+  },
+  {
+    "id": "ac9m6n01-p-006",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "A school stall earns $120 and spends $150. Which integer represents the net result?",
+    "answers": [
+      "+30",
+      "−30",
+      "+150",
+      "−120"
+    ],
+    "correct_index": 1,
+    "explanation": "The event makes a $30 loss, represented by −30."
+  },
+  {
+    "id": "ac9m6n01-p-007",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "A fundraiser makes a profit of $45. Which integer represents this?",
+    "answers": [
+      "−45",
+      "0",
+      "+45",
+      "+4.5"
+    ],
+    "correct_index": 2,
+    "explanation": "Profit is represented by a positive integer."
+  },
+  {
+    "id": "ac9m6n01-p-008",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "A stall makes a loss of $18. Which integer represents this?",
+    "answers": [
+      "+18",
+      "0",
+      "−1.8",
+      "−18"
+    ],
+    "correct_index": 3,
+    "explanation": "Loss is represented by a negative integer."
+  },
+  {
+    "id": "ac9m6n01-p-009",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "A club earns $75 and spends $40. Which integer represents the net result?",
+    "answers": [
+      "+35",
+      "−35",
+      "+115",
+      "−115"
+    ],
+    "correct_index": 0,
+    "explanation": "The net gain is +35."
+  },
+  {
+    "id": "ac9m6n01-p-010",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "A planned event earns exactly as much as it costs. Which integer represents the result?",
+    "answers": [
+      "+1",
+      "0",
+      "−1",
+      "+100"
+    ],
+    "correct_index": 1,
+    "explanation": "Break-even is represented by zero."
+  },
+  {
+    "id": "ac9m6n01-p-011",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "An elevator is 3 floors below ground level. Which integer represents its position?",
+    "answers": [
+      "+3",
+      "0",
+      "−3",
+      "−1"
+    ],
+    "correct_index": 2,
+    "explanation": "Below the reference level is negative."
+  },
+  {
+    "id": "ac9m6n01-p-012",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "A submarine is 120 m below sea level. Which integer represents its position?",
+    "answers": [
+      "+120",
+      "−12",
+      "+12",
+      "−120"
+    ],
+    "correct_index": 3,
+    "explanation": "Below sea level is negative."
+  },
+  {
+    "id": "ac9m6n01-p-013",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "A lookout is 40 m above sea level. Which integer represents its position?",
+    "answers": [
+      "+40",
+      "−40",
+      "+4",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "Above sea level is positive."
+  },
+  {
+    "id": "ac9m6n01-p-014",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which point is in Quadrant II?",
+    "answers": [
+      "(3, 2)",
+      "(−3, 2)",
+      "(−3, −2)",
+      "(3, −2)"
+    ],
+    "correct_index": 1,
+    "explanation": "Quadrant II has negative x and positive y."
+  },
+  {
+    "id": "ac9m6n01-p-015",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which point is in Quadrant IV?",
+    "answers": [
+      "(−2, −5)",
+      "(−2, 5)",
+      "(4, −3)",
+      "(4, 3)"
+    ],
+    "correct_index": 2,
+    "explanation": "Quadrant IV has positive x and negative y."
+  },
+  {
+    "id": "ac9m6n01-p-016",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which coordinate lies on the x-axis?",
+    "answers": [
+      "(0, 4)",
+      "(−2, −3)",
+      "(1, 1)",
+      "(3, 0)"
+    ],
+    "correct_index": 3,
+    "explanation": "Points on the x-axis have y = 0."
+  },
+  {
+    "id": "ac9m6n01-p-017",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which coordinate lies on the y-axis?",
+    "answers": [
+      "(0, −6)",
+      "(4, 0)",
+      "(3, −3)",
+      "(−2, 1)"
+    ],
+    "correct_index": 0,
+    "explanation": "Points on the y-axis have x = 0."
+  },
+  {
+    "id": "ac9m6n01-p-018",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "On a horizontal number line, what does −20 m mean if right is positive?",
+    "answers": [
+      "20 m right",
+      "20 m left",
+      "20 m up",
+      "20 m down"
+    ],
+    "correct_index": 1,
+    "explanation": "Negative is the direction opposite to positive."
+  },
+  {
+    "id": "ac9m6n01-p-019",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "On a vertical number line, a robot moves +8 units. Which direction does it move?",
+    "answers": [
+      "8 units down",
+      "8 units left",
+      "8 units up",
+      "8 units right"
+    ],
+    "correct_index": 2,
+    "explanation": "Positive is upward on the chosen vertical number line."
+  },
+  {
+    "id": "ac9m6n01-p-020",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "A location is 25 m left of a reference point. Which integer represents it?",
+    "answers": [
+      "+25",
+      "0",
+      "−5",
+      "−25"
+    ],
+    "correct_index": 3,
+    "explanation": "Left is negative when right is positive."
+  },
+  {
+    "id": "ac9m6n01-p-021",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which temperature is coldest?",
+    "answers": [
+      "−5°C",
+      "0°C",
+      "3°C",
+      "−1°C"
+    ],
+    "correct_index": 0,
+    "explanation": "−5°C is the smallest temperature."
+  },
+  {
+    "id": "ac9m6n01-p-022",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which temperature is warmest?",
+    "answers": [
+      "−12°C",
+      "−3°C",
+      "−20°C",
+      "−15°C"
+    ],
+    "correct_index": 1,
+    "explanation": "−3°C is the greatest temperature."
+  },
+  {
+    "id": "ac9m6n01-p-023",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "Which temperature is closest to zero?",
+    "answers": [
+      "−2°C",
+      "−10°C",
+      "−1°C",
+      "5°C"
+    ],
+    "correct_index": 2,
+    "explanation": "−1°C is one degree from zero."
+  },
+  {
+    "id": "ac9m6n01-p-024",
+    "curriculum_code": "AC9M6N01",
+    "bank": "practice",
+    "question": "A thermometer shows −7°C. What does this mean?",
+    "answers": [
+      "7°C above zero",
+      "exactly 0°C",
+      "a positive temperature",
+      "7°C below zero"
+    ],
+    "correct_index": 3,
+    "explanation": "The negative sign means below zero."
+  },
+  {
+    "id": "ac9m6n01-t-001",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "Which list is correctly ordered from greatest to least?",
+    "answers": [
+      "5, 0, −3, −9",
+      "−1, −4, −7, −2",
+      "−2, −1, 0, 3",
+      "3, −1, −5, 2"
+    ],
+    "correct_index": 0,
+    "explanation": "5 > 0 > −3 > −9."
+  },
+  {
+    "id": "ac9m6n01-t-002",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "Which integer is greater than −8 but less than −2?",
+    "answers": [
+      "−9",
+      "−5",
+      "−1",
+      "−12"
+    ],
+    "correct_index": 1,
+    "explanation": "−8 < −5 < −2."
+  },
+  {
+    "id": "ac9m6n01-t-003",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "A stall earns $240, spends $315, then earns $50. What is the final net result?",
+    "answers": [
+      "−$75",
+      "+$25",
+      "−$25",
+      "+$75"
+    ],
+    "correct_index": 2,
+    "explanation": "240 − 315 + 50 = −25."
+  },
+  {
+    "id": "ac9m6n01-t-004",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "A club starts at $0, loses $45, earns $120, then loses $30. What is its final balance?",
+    "answers": [
+      "−$45",
+      "+$75",
+      "−$75",
+      "+$45"
+    ],
+    "correct_index": 3,
+    "explanation": "−45 + 120 − 30 = +45."
+  },
+  {
+    "id": "ac9m6n01-t-005",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "A fundraiser has +$180 one day and −$220 the next. What is the combined result?",
+    "answers": [
+      "−$40",
+      "+$40",
+      "−$400",
+      "+$400"
+    ],
+    "correct_index": 0,
+    "explanation": "The loss exceeds the profit by $40."
+  },
+  {
+    "id": "ac9m6n01-t-006",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "Which coordinate has both x and y negative?",
+    "answers": [
+      "(−3, 2)",
+      "(−4, −1)",
+      "(3, −2)",
+      "(4, 1)"
+    ],
+    "correct_index": 1,
+    "explanation": "(−4, −1) is in Quadrant III."
+  },
+  {
+    "id": "ac9m6n01-t-007",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "Which point is 5 units right and 7 units down from the origin?",
+    "answers": [
+      "(−5, −7)",
+      "(7, −5)",
+      "(5, −7)",
+      "(−7, 5)"
+    ],
+    "correct_index": 2,
+    "explanation": "Right is positive x and down is negative y."
+  },
+  {
+    "id": "ac9m6n01-t-008",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "A point has negative x and positive y. Which quadrant is it in?",
+    "answers": [
+      "Quadrant I",
+      "Quadrant III",
+      "Quadrant IV",
+      "Quadrant II"
+    ],
+    "correct_index": 3,
+    "explanation": "Negative x and positive y identify Quadrant II."
+  },
+  {
+    "id": "ac9m6n01-t-009",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "A robot starts at 0, moves 12 units left, then 5 units right. Where does it finish?",
+    "answers": [
+      "−7",
+      "−17",
+      "+7",
+      "+17"
+    ],
+    "correct_index": 0,
+    "explanation": "0 → −12 → −7."
+  },
+  {
+    "id": "ac9m6n01-t-010",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "A robot starts at 0, moves 20 right, 35 left, then 10 right. Where does it finish?",
+    "answers": [
+      "−15",
+      "−5",
+      "−25",
+      "+5"
+    ],
+    "correct_index": 1,
+    "explanation": "0 → +20 → −15 → −5."
+  },
+  {
+    "id": "ac9m6n01-t-011",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "A drone moves from −12 to +4. How far does it travel?",
+    "answers": [
+      "8 units",
+      "12 units",
+      "16 units",
+      "4 units"
+    ],
+    "correct_index": 2,
+    "explanation": "12 units to zero plus 4 more = 16."
+  },
+  {
+    "id": "ac9m6n01-t-012",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "One planet is at −180°C and another at +120°C. What is the temperature difference?",
+    "answers": [
+      "60°C",
+      "120°C",
+      "180°C",
+      "300°C"
+    ],
+    "correct_index": 3,
+    "explanation": "180 + 120 = 300°C."
+  },
+  {
+    "id": "ac9m6n01-t-013",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "A freezer is −18°C and a fridge is +4°C. Which statement is true?",
+    "answers": [
+      "The fridge is warmer",
+      "The freezer is warmer",
+      "They are equal",
+      "Both are below zero"
+    ],
+    "correct_index": 0,
+    "explanation": "+4°C is greater than −18°C."
+  },
+  {
+    "id": "ac9m6n01-t-014",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "A bank balance is −$35. Which interpretation is best?",
+    "answers": [
+      "$35 above zero",
+      "$35 below the zero-balance reference",
+      "exactly $35 profit",
+      "the sign has no meaning"
+    ],
+    "correct_index": 1,
+    "explanation": "The negative balance is $35 below zero."
+  },
+  {
+    "id": "ac9m6n01-t-015",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "Which pair is on opposite sides of zero but the same distance from zero?",
+    "answers": [
+      "−8 m and +5 m",
+      "+8 m and +5 m",
+      "−8 m and +8 m",
+      "−5 m and −5 m"
+    ],
+    "correct_index": 2,
+    "explanation": "−8 and +8 are opposite positions at equal distance."
+  },
+  {
+    "id": "ac9m6n01-t-016",
+    "curriculum_code": "AC9M6N01",
+    "bank": "test",
+    "question": "A point is at (0, −6). Which statement is correct?",
+    "answers": [
+      "It is in Quadrant III",
+      "It is in Quadrant IV",
+      "It lies on the x-axis left of the origin",
+      "It lies on the y-axis below the origin"
+    ],
+    "correct_index": 3,
+    "explanation": "x = 0 places the point on the y-axis."
+  }
 ]
