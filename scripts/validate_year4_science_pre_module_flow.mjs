@@ -22,7 +22,7 @@ validatePreModuleFlow({
   codes,
   noteAsset: "quiz/assets/year4-science-pre-module-notes.js",
   routePrefix: "/quiz/year-4/science",
-  expectedQuestionCounts: { practice: 8, test: 12 },
+  expectedQuestionCounts: { practice: 8, test: 8 },
   mobileChecks: [
     {
       code: "AC9S4H01",

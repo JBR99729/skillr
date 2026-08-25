@@ -26,7 +26,7 @@ function assertProtectedConfig(config, code, mode, relativePath) {
   const isPractice = mode === "practice";
   if (
     config.skillCode !== code ||
-    config.maxQuestions !== (isPractice ? 8 : 12) ||
+    config.maxQuestions !== 8 ||
     config.shuffleQuestions !== true ||
     config.shuffleAnswers !== true ||
     config.questionCycle !== true ||
