@@ -129,6 +129,22 @@ def build():
         title,anchor,model_title,model,apply_title,apply,ask,answer=row
         u=units[code]
         out[code]=build_spec(u,title,anchor,HEADINGS[code],TEACHING_SLIDES.get(code))
+        spec=out[code]
+        spec["successCriteria"]=[
+            f"Explain the central relationship in {title.lower()} using correct mathematical language.",
+            f"Use the worked methods for {model_title.lower()} and {apply_title.lower()} in unfamiliar examples.",
+            "Check the result using substitution, estimation, an inverse operation or another representation."
+        ]
+        spec["workedExamples"]=[
+            {"title":model_title,"example":model,"teacherLanguage":f"Explain why each step in this example preserves the mathematical relationship."},
+            {"title":apply_title,"example":apply,"teacherLanguage":ask},
+        ]
+        spec["revisionNotes"]=[anchor,model,apply]
+        spec["importantQuestions"]=[
+            {"question":f"What is the central idea in {title}?","answer":anchor},
+            {"question":f"How can you {model_title.lower()}?","answer":model},
+            {"question":ask,"answer":answer},
+        ]
     payload=json.dumps(out,ensure_ascii=False,separators=(",",":"))
     js="window.SkillrUpperMathsData="+payload+";window.SkillrYear8MathsData=window.SkillrUpperMathsData;\n"
     (ROOT/"assets/year8-maths-data.js").write_text(js)

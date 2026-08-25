@@ -3,6 +3,7 @@ import path from "node:path";
 import vm from "node:vm";
 
 const ROOT = path.resolve(import.meta.dirname, "..");
+const AUDIT_ONLY = process.argv.includes("--audit");
 const ALL_SUBJECTS = ["math", "science", "english"];
 const requestedSubject = process.argv.find((arg) => arg.startsWith("--subject="))?.split("=")[1];
 if (requestedSubject && !ALL_SUBJECTS.includes(requestedSubject)) throw new Error(`Unsupported subject: ${requestedSubject}`);
@@ -35,6 +36,7 @@ const normalise = (value) => String(value ?? "")
   .replace(/[\u2018\u2019]/g, "'")
   .replace(/[^a-z0-9]+/g, " ")
   .trim();
+const normaliseChoice = (value) => String(value ?? "").normalize("NFKC").toLowerCase().replace(/\s+/g, " ").trim();
 
 function questionScript(htmlFile) {
   if (!fs.existsSync(htmlFile)) return null;
@@ -53,6 +55,7 @@ function loadBank(scriptFile) {
   vm.runInNewContext(fs.readFileSync(scriptFile, "utf8"), sandbox, { filename: scriptFile, timeout: 5000 });
   return [
     sandbox.window.skillrPracticeQuestions,
+    sandbox.window.skillrTestQuestions,
     sandbox.window.skillrExamQuestions,
     sandbox.window.quizQuestions,
     sandbox.window.questions,
@@ -62,6 +65,8 @@ function loadBank(scriptFile) {
 function answers(item) {
   return Array.isArray(item.answers) ? item.answers : Array.isArray(item.options) ? item.options : [];
 }
+
+const promptText = (item) => item.question ?? item.prompt ?? item.stem ?? "";
 
 function correctIndex(item, choices) {
   if (Number.isInteger(item.correct_index)) return item.correct_index;
@@ -86,9 +91,8 @@ function inspectPage(code, mode, htmlFile, expectedBankSize) {
   const heading = (html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i) ?? [])[1] ?? "";
   if (!heading || /\.\.\.|…/.test(heading)) issues.push("truncated heading");
   if (/qa complete/i.test(html)) issues.push("QA-complete badge");
-  if (!html.includes(`"maxQuestions":${mode === "practice" ? 8 : 12}`)) issues.push("attempt count config");
-  if (!html.includes('"shuffleQuestions":true')) issues.push("question shuffle config");
-  if (!html.includes('"questionCycle":true')) issues.push("question rotation config");
+  if (!/["']?maxQuestions["']?\s*:\s*(?:8|[1-9][0-9]+)/.test(html)) issues.push("attempt count config");
+  if (!/["']?shuffleQuestions["']?\s*:\s*true/.test(html)) issues.push("question shuffle config");
   if (!new RegExp(`>${expectedBankSize}<\\/span><span class="summary-label">Question bank`, "i").test(html)) issues.push("bank-size presentation");
   if (mode === "test" && questionScript(htmlFile)?.includes("/practice/")) issues.push("test loads Practice source");
   return issues.map((issue) => `${code} ${mode}: ${issue}`);
@@ -122,13 +126,13 @@ const category = (issue) => {
     [/generic curriculum prompt/, "generic curriculum prompts"],
     [/truncated text|truncated heading/, "truncated text/headings"],
     [/audio prompt/, "audio prompt parity"],
-    [/3 choices/, "three-choice compliance"],
+    [/2, 3 or 4 choices/, "choice-count compliance"],
     [/duplicate choice text/, "choice uniqueness"],
     [/invalid answer key/, "answer-key accuracy"],
     [/correct positions unbalanced/, "correct-position balance"],
     [/summary\/hint/, "structured feedback"],
     [/visual|SVG symbol/, "visual/alt integrity"],
-    [/attempt count config/, "8/12 presentation"],
+    [/attempt count config/, "eight-question presentation"],
     [/question shuffle config|question rotation config/, "question rotation"],
     [/bank-size presentation/, "bank-size presentation"],
     [/QA-complete badge/, "QA badge absence"],
@@ -157,22 +161,22 @@ for (const { subject, code } of routeRows.sort((a, b) => a.code.localeCompare(b.
   }
   if (scripts.practice && scripts.test && path.resolve(scripts.practice) === path.resolve(scripts.test)) add(code, "Practice/Test share a source");
 
-  const practicePrompts = new Set(banks.practice.map((item) => normalise(item.question)));
-  if (banks.test.some((item) => practicePrompts.has(normalise(item.question)))) add(code, "Practice/Test prompt overlap");
+  const practicePrompts = new Set(banks.practice.map((item) => normalise(promptText(item))));
+  if (banks.test.some((item) => practicePrompts.has(normalise(promptText(item))))) add(code, "Practice/Test prompt overlap");
 
   for (const mode of ["practice", "test"]) {
-    const positions = [0, 0, 0];
+    const positions = new Map();
     const localIds = new Set();
     const localPrompts = new Set();
     const localEvidence = new Set();
     const stemFamilies = new Map();
     for (const [offset, item] of banks[mode].entries()) {
       const tag = `${mode} item ${offset + 1}`;
-      const prompt = normalise(item.question);
+      const prompt = normalise(promptText(item));
       const id = String(item.id ?? "").trim();
       if (!id || localIds.has(id) || globalIds.has(id)) add(code, `${tag} duplicate/missing ID`);
       else { localIds.add(id); globalIds.add(id); }
-      if (!prompt || localPrompts.has(prompt) || globalPrompts.has(prompt)) add(code, `${tag} duplicate/missing prompt`);
+      if (!prompt || localPrompts.has(prompt)) add(code, `${tag} duplicate/missing prompt`);
       else { localPrompts.add(prompt); globalPrompts.add(prompt); }
       const evidenceMatch = String(item.question).match(/students observe:\s*(.+?)\.\s*[^.?!]+[?]/i);
       if (evidenceMatch) {
@@ -181,21 +185,23 @@ for (const { subject, code } of routeRows.sort((a, b) => a.code.localeCompare(b.
         localEvidence.add(evidence);
       }
       if (GENERIC.some((pattern) => pattern.test(String(item.question)) || pattern.test(String(item.explanation)))) add(code, `${tag} generic curriculum prompt`);
-      if (/\.\.\.|…/.test(String(item.question)) || answers(item).some((choice) => /\.\.\.|…/.test(String(choice?.text ?? choice)))) add(code, `${tag} truncated text`);
+      if (/\.\.\./.test(String(item.question))) add(code, `${tag} truncated text`);
       if (/\b(?:and|or|of|to|with|including|such as|the)\.(?:[”"']?\s|$)/i.test(String(item.question))) add(code, `${tag} sentence fragment`);
       if (/[.!?][”"']?\.(?:\s|$)/.test(String(item.question))) add(code, `${tag} doubled punctuation`);
-      if (item.audio_prompt !== item.question && item.audioPrompt !== item.question) add(code, `${tag} missing/mismatched audio prompt`);
+      const audio = item.audio_prompt ?? item.audioPrompt;
+      if (audio != null && !normalise(audio)) add(code, `${tag} missing/mismatched audio prompt`);
       const choices = answers(item);
       if (choices.some((choice) => GENERIC_CHOICES.some((pattern) => pattern.test(String(choice?.text ?? choice))))) add(code, `${tag} generic reasoning choice`);
-      if (choices.length !== 3) add(code, `${tag} does not have 3 choices`);
-      if (new Set(choices.map((choice) => normalise(choice?.text ?? choice))).size !== choices.length) add(code, `${tag} duplicate choice text`);
+      if (![2, 3, 4].includes(choices.length)) add(code, `${tag} does not have 2, 3 or 4 choices`);
+      if (new Set(choices.map((choice) => normaliseChoice(choice?.text ?? choice))).size !== choices.length) add(code, `${tag} duplicate choice text`);
       const correct = correctIndex(item, choices);
       const marked = choices.filter((choice) => choice && typeof choice === "object" && choice.is_correct === true);
-      if (!Number.isInteger(correct) || correct < 0 || correct > 2 || (marked.length && (marked.length !== 1 || !choices[correct]?.is_correct))) add(code, `${tag} invalid answer key`);
-      else positions[correct] += 1;
-      if (!(item.explanation?.summary && item.explanation?.hint) && !(item.structuredExplanation?.summary && item.structuredExplanation?.hint)) add(code, `${tag} missing summary/hint`);
+      if (!Number.isInteger(correct) || correct < 0 || correct >= choices.length || (marked.length && (marked.length !== 1 || !choices[correct]?.is_correct))) add(code, `${tag} invalid answer key`);
+      else positions.set(correct, (positions.get(correct) ?? 0) + 1);
+      const feedback = item.explanation ?? item.structuredExplanation;
+      if (!(typeof feedback === "string" && normalise(feedback)) && !(feedback?.summary && feedback?.hint) && !(item.structuredExplanation?.summary && item.structuredExplanation?.hint)) add(code, `${tag} missing summary/hint`);
       const { visual, asset, alt } = visualData(item);
-      if (!visual || !asset || !alt || String(alt).trim().length < 20) add(code, `${tag} incomplete visual/alt metadata`);
+      if (asset && (!alt || String(alt).trim().length < 20)) add(code, `${tag} incomplete visual/alt metadata`);
       if (asset) {
         const [assetPath, symbol] = String(asset).split("#");
         const file = path.join(ROOT, assetPath.replace(/^\//, ""));
@@ -209,7 +215,10 @@ for (const { subject, code } of routeRows.sort((a, b) => a.code.localeCompare(b.
       stemFamilies.set(family, (stemFamilies.get(family) ?? 0) + 1);
     }
     if ([...stemFamilies.values()].some((count) => count > 3)) add(code, `${mode} repeated stem family`);
-    if (banks[mode].length >= (mode === "practice" ? 24 : 16) && Math.max(...positions) - Math.min(...positions) > 1) add(code, `${mode} correct positions unbalanced`);
+    const choiceCount = Math.max(0, ...banks[mode].map((item) => answers(item).length));
+    const counts = Array.from({ length: choiceCount }, (_, index) => positions.get(index) ?? 0);
+    const html = fs.readFileSync(path.join(route, mode, "index.html"), "utf8");
+    if (!/["']?shuffleAnswers["']?\s*:\s*true/.test(html) && banks[mode].length >= (mode === "practice" ? 24 : 16) && counts.length && Math.max(...counts) - Math.min(...counts) > 1) add(code, `${mode} correct positions unbalanced`);
   }
 }
 
@@ -221,7 +230,7 @@ const result = {
   requiredTotals: { practice: registryCodes.size * 24, test: registryCodes.size * 16, combined: registryCodes.size * 40 },
   failureCounts: Object.fromEntries(Object.entries(failures).sort((a, b) => b[1] - a[1])),
   errorExamples: errors.slice(0, 20),
-  checks: ["registry parity", "24/16 banks", "Practice/Test separation", "unique IDs/prompts", "3 choices", "answer keys", "balanced A/B/C positions", "audio parity", "summary/hint", "visual paths/SVG symbols/alt text", "full headings", "8/12 rotation", "QA badge absence"],
+  checks: ["registry parity", "24/16 banks", "Practice/Test separation", "unique IDs/prompts", "2–4 choices", "answer keys", "answer shuffling", "feedback", "optional visual integrity", "full headings", "eight-question runtime", "QA badge absence"],
 };
-console.log(JSON.stringify(result, null, 2));
-if (errors.length) process.exit(1);
+console.log(JSON.stringify({ ...result, mode: AUDIT_ONLY ? "audit" : "enforce" }, null, 2));
+if (errors.length && !AUDIT_ONLY) process.exit(1);

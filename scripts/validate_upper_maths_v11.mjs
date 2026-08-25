@@ -5,6 +5,9 @@ import vm from "node:vm";
 const root=path.resolve(import.meta.dirname,"..");
 const errors=[];
 const expected={8:[27,110],9:[23,104],10:[21,100]};
+const requestedYear=Number(process.argv.find(arg=>arg.startsWith("--year="))?.split("=")[1]);
+const years=requestedYear?[requestedYear]:[8,9,10];
+if(years.some(year=>!expected[year]))throw new Error("Use --year=8, --year=9 or --year=10");
 const required=["schemaVersion","code","year","subject","slug","strand","title","subtitle","contentDescription","lessonTime","learningIntention","successCriteria","materials","conceptBoundary","teachingProgression","models","elaborations","workedExamples","misconceptions","warmUp","differentiation","slides","masteryItems","references","resourceLinks","review","teachingSlides"];
 const noteKeys=["teacherDoes","teacherAsks","studentDoes","expectedEvidence","ifIncorrect","shortCheck"];
 const teacherKeys=["teacherDoes","teacherSaysOrAsks","studentDoes","whatToLookFor","ifIncorrect"];
@@ -19,7 +22,7 @@ const load=year=>{
 };
 const blank=value=>value==null||value===""||(Array.isArray(value)&&!value.length);
 
-for(const year of [8,9,10]){
+for(const year of years){
   const data=load(year),codes=Object.keys(data||{});
   Object.assign(allData,data);
   const [wantedCodes,wantedElabs]=expected[year];
@@ -61,7 +64,7 @@ for(const year of [8,9,10]){
     }
     const topic=path.join(root,u.resourceLinks.topic.replace(/^\//,""),"index.html");
     if(!fs.existsSync(topic))errors.push(`${code}: missing topic page`);
-    if(!hub.includes(`live.html?code=${code}`))errors.push(`${code}: hub not linked to live slides`);
+    if(!hub.includes(`${u.resourceLinks.topic}teacher-slides/`) && !hub.includes(`live.html?code=${code}`))errors.push(`${code}: hub not linked to fixed slides`);
     if(hub.includes(`${code.toLowerCase()}-teacher-slide.pdf`))errors.push(`${code}: legacy one-page slide still linked`);
   }
   if(yearElabs!==wantedElabs)errors.push(`Year ${year}: expected ${wantedElabs} elaborations; found ${yearElabs}`);
@@ -91,6 +94,8 @@ for(const [code,u] of Object.entries(allData)){
   if(!slideRoot.innerHTML||slideRoot.innerHTML.includes("undefined"))errors.push(`${code}: slide renderer runtime/parity failure`);
   if((slideRoot.innerHTML.match(/<section class="slide">/g)||[]).length!==u.teachingSlides.length+2)errors.push(`${code}: teacher-slide count mismatch`);
 }
-if(codeTotal!==71||elaborationTotal!==314)errors.push(`Total mismatch: ${codeTotal} codes and ${elaborationTotal} elaborations`);
+const expectedCodeTotal=years.reduce((sum,year)=>sum+expected[year][0],0);
+const expectedElaborationTotal=years.reduce((sum,year)=>sum+expected[year][1],0);
+if(codeTotal!==expectedCodeTotal||elaborationTotal!==expectedElaborationTotal)errors.push(`Total mismatch: ${codeTotal} codes and ${elaborationTotal} elaborations`);
 if(errors.length){console.error([...new Set(errors)].join("\n"));process.exit(1)}
-console.log(`PASS: ${codeTotal} Year 8–10 Maths codes; ${elaborationTotal} elaborations mapped one-to-one across canonical v1.1 topic, slide, model and checkpoint records.`);
+console.log(`PASS: ${codeTotal} selected upper-Maths codes; ${elaborationTotal} elaborations mapped one-to-one across canonical v1.1 topic, slide, model and checkpoint records.`);
