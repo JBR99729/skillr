@@ -3,6 +3,9 @@ name: Generate upper maths static migration
 on:
   pull_request:
     paths:
+      - 'scripts/build_year9_10_maths_topics.py'
+      - 'scripts/upper_maths_authoring.py'
+      - 'scripts/upper_maths_authored.py'
       - 'scripts/migrate_upper_maths_static.mjs'
       - 'scripts/fix_upper_maths_curriculum_teacher_links.mjs'
       - '.github/workflows/generate-upper-maths-static-migration.yml'
@@ -23,8 +26,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Rebuild Year 9 authored Maths registry
+        run: python scripts/build_year9_10_maths_topics.py --year=9
       - name: Generate static topic pages and fixed slide viewers
-        run: node scripts/migrate_upper_maths_static.mjs
+        run: node scripts/migrate_upper_maths_static.mjs --year=9
       - name: Fix curriculum Teacher Slide routes
         run: node scripts/fix_upper_maths_curriculum_teacher_links.mjs
       - name: Validate generated architecture
@@ -35,15 +43,15 @@ jobs:
             echo 'Legacy upper Maths Teacher Slide route remains.' >&2
             exit 1
           fi
-      - name: Commit generated files to migration branch
+      - name: Commit generated Year 9 Maths files
         shell: bash
         run: |
-          if git diff --quiet -- year8/maths year9/maths year10/maths year8/curriculum/maths year9/curriculum/maths year10/curriculum/maths; then
+          if git diff --quiet -- assets/year9-maths-data.js year9/maths year9/curriculum/maths; then
             echo 'Generated output is already current.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add year8/maths year9/maths year10/maths year8/curriculum/maths year9/curriculum/maths year10/curriculum/maths
-          git commit -m 'Generate static Years 8-10 Maths curriculum pages and routes'
+          git add assets/year9-maths-data.js year9/maths year9/curriculum/maths
+          git commit -m 'Raise Year 9 Maths topic learning value'
           git push origin HEAD:${GITHUB_HEAD_REF}
