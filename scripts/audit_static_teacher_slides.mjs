@@ -26,6 +26,28 @@ function fail(file, message) {
   errors.push(`${rel(file)}: ${message}`);
 }
 
+function inspectStaticDeck(file, html) {
+  if (runtimePatterns.some((pattern) => pattern.test(html))) fail(file, 'Teacher Slides must be fixed/static and must not assemble curriculum slide content at runtime');
+  const hasFixedPages = /data-slide\b/i.test(html) || /<img\b[^>]*(?:slide|teacher)/i.test(html) || /<svg\b/i.test(html) || /<(?:section|article|div)\b[^>]*class=["'][^"']*\bslide\b/i.test(html);
+  if (!hasFixedPages) fail(file, 'static Teacher Slides host must contain fixed slide pages, images or SVG content');
+  const hasNavigation = /data-slide-(?:previous|next)|\bPrevious\b|\bNext\b/i.test(html);
+  if (!hasNavigation) fail(file, 'static Teacher Slides host must provide page-by-page navigation');
+}
+
+function inspectStaticRedirect(file, html) {
+  const candidates = [...html.matchAll(/<(?:a|link)\b[^>]*href=["']([^"']*\/teacher-(?:slides|deck)\/[^"']*)["']/gi)].map((match) => match[1]);
+  const target = candidates.find((candidate) => candidate.startsWith('/'))
+    || html.match(/url\s*=\s*([^"'\s>]*\/teacher-(?:slides|deck)\/[^"'\s>]*)/i)?.[1];
+  if (!target || !target.startsWith('/')) return false;
+  const localTarget = path.join(ROOT, target.replace(/^\//, ''), 'index.html');
+  if (!fs.existsSync(localTarget)) {
+    fail(file, 'Teacher Slides redirect must target an existing fixed local deck');
+    return true;
+  }
+  inspectStaticDeck(localTarget, fs.readFileSync(localTarget, 'utf8'));
+  return true;
+}
+
 function isTeacherHtml(file) {
   const p = rel(file);
   return /\/teacher-(?:slides|deck)\/.*\.html$/i.test(p) || /\/teacher-(?:slides|deck)\/index\.html$/i.test(p);
@@ -55,14 +77,12 @@ for (const year of YEAR_ROOTS) {
       continue;
     }
 
+    if (inspectStaticRedirect(file, html)) {
+      redirectShims++;
+      continue;
+    }
     staticDecks++;
-    if (runtimePatterns.some((pattern) => pattern.test(html))) fail(file, 'Teacher Slides must be fixed/static and must not assemble curriculum slide content at runtime');
-
-    const hasFixedPages = /data-slide\b/i.test(html) || /<img\b[^>]*(?:slide|teacher)/i.test(html) || /<svg\b/i.test(html);
-    if (!hasFixedPages) fail(file, 'static Teacher Slides host must contain fixed slide pages, images or SVG content');
-
-    const hasNavigation = /data-slide-(?:previous|next)|\bPrevious\b|\bNext\b/i.test(html);
-    if (!hasNavigation) fail(file, 'static Teacher Slides host must provide page-by-page navigation');
+    inspectStaticDeck(file, html);
   }
 }
 
