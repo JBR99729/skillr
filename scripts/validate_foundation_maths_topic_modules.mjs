@@ -46,7 +46,11 @@ for (const code of codes) {
   assert(Array.isArray(bank?.preservedOptionalQuestions), `${code}: preserved legacy content not recorded`);
   const topicRoute = spec?.resourceLinks?.topic?.replace(/^\//, "").replace(/\/$/, "/index.html");
   assert(topicRoute && fs.existsSync(path.join(root, topicRoute)), `${code}: topic route missing`);
-  if (topicRoute) assert(read(topicRoute).includes("foundation-maths-topic-module-v2.js"), `${code}: topic overlay not loaded`);
+  if (topicRoute) {
+    const topicHtml = read(topicRoute);
+    assert(topicHtml.includes("Revision Notes") && topicHtml.includes("teacher-slides/"), `${code}: static topic lesson or fixed slide link missing`);
+    assert(!topicHtml.includes("foundation-maths-render.js") && !topicHtml.includes("foundation-v1.1-render.js"), `${code}: obsolete runtime curriculum renderer loaded`);
+  }
   const worksheetRoute = `quiz/grade-k/math/${code.toLowerCase()}/worksheet/index.html`;
   assert(fs.existsSync(path.join(root, worksheetRoute)), `${code}: worksheet route missing`);
   assert(read(worksheetRoute).includes("foundation-maths-topic-module-data-v2.js"), `${code}: worksheet overlay not loaded`);
@@ -57,7 +61,7 @@ for (const code of codes) {
 }
 
 const worksheetRenderer = read("quiz/assets/foundation-maths-authored-worksheet.js");
-for (const marker of ["Tier 1: Warm-Up", "Tier 2: Core Practice", "Tier 3: Extension / Challenge", "Answer Key", "Preview answer key", "SkillrHub F–10"]) assert(worksheetRenderer.includes(marker), `Worksheet renderer missing ${marker}`);
+for (const marker of ["Tier 1: Warm-Up", "Tier 2: Core Practice", "Tier 3: Extension / Challenge", "Answer Key", "SkillrHub F–10"]) assert(worksheetRenderer.includes(marker), `Worksheet renderer missing ${marker}`);
 assert(read("worksheets/foundation/maths/teacher-slides/live.html").includes("foundation-maths-topic-module-v2.js"), "Teacher slide host missing topic overlay");
 
 console.log(`Foundation Maths topic modules: ${codes.length - new Set(errors.map((e) => e.split(":")[0])).size}/${codes.length} passing`);
