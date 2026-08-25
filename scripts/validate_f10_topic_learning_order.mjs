@@ -26,6 +26,7 @@ const EXPECTED_IDS = [
 // migrated. These roots are checked on every run, even when untouched.
 const PERMANENTLY_LOCKED_ROOTS = [
   'year10/maths',
+  'year10/science',
 ];
 
 const TOPIC_RE = /^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/[^/]+\/index\.html$/i;
