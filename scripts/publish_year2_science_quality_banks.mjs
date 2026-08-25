@@ -50,10 +50,10 @@ for (const [code, title] of Object.entries(titles)) {
   for (const bank of ["practice", "test"]) {
     const file = path.join(route, bank, "index.html");
     let html = fs.readFileSync(file, "utf8");
-    const attempt = bank === "practice" ? 8 : 12;
+    const attempt = 8;
     const count = bank === "practice" ? 24 : 16;
     html = html
-      .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${bank === "practice" ? `Practise ${title} with 8 rotating questions from a 24-question bank.` : `Take a 12-question ${title} test drawn from a separate 16-question bank.`}">`)
+      .replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${bank === "practice" ? `Practise ${title} with 8 rotating questions from a 24-question bank.` : `Take an 8-question ${title} test drawn from a separate 16-question bank.`}">`)
       .replace(/<div class="quiz-summary">[\s\S]*?<\/div><button class="button button-primary"/, `<div class="quiz-summary"><div><span class="summary-number" id="questionCount">${attempt}</span><span class="summary-label">Questions this attempt</span></div><div><span class="summary-number">${count}</span><span class="summary-label">Question bank</span></div><div><span class="summary-number" id="bestScore">0</span><span class="summary-label">Best score</span></div></div><button class="button button-primary"`)
       .replace(/"maxQuestions":\d+/, `"maxQuestions":${attempt}`)
       .replace(/"shuffleQuestions":(?:true|false)/, `"shuffleQuestions":true`)
@@ -73,7 +73,7 @@ for (const [code, title] of Object.entries(titles)) {
     html = html
       .replace(/<title>[\s\S]*?<\/title>/, `<title>${page.browser}</title>`)
       .replace(/<h1([^>]*)>[\s\S]*?<\/h1>/, `<h1$1>${page.heading}</h1>`)
-      .replace(/Choose a learning activity\. Worksheet, Practice and Test use the same eight-question unit bank\./g, "Choose a learning activity. Practice rotates 8 questions from a 24-question bank; Test draws 12 from a separate 16-question bank.")
+      .replace(/Choose a learning activity\. Worksheet, Practice and Test use the same eight-question unit bank\./g, "Choose a learning activity. Practice rotates 8 questions from a 24-question bank; Test draws 8 from a separate 16-question bank.")
       .replace(/This QA-reviewed unit provides \d+ Practice questions, \d+ auto-marked Test questions[^<]*/g, "This QA-reviewed unit provides 24 Practice questions and 16 separate Test questions.")
       .replace(/Try the same eight curriculum questions again in a newly shuffled answer order\./g, "Start a fresh rotating attempt from the full question bank.");
     fs.writeFileSync(file, html);
@@ -81,4 +81,4 @@ for (const [code, title] of Object.entries(titles)) {
   published += 1;
 }
 
-console.log(JSON.stringify({ codesPublished: published, protectedLiveCodes: skipped, defaultPracticeAttempt: 8, defaultTestAttempt: 12, status: "PUBLISHED" }, null, 2));
+console.log(JSON.stringify({ codesPublished: published, protectedLiveCodes: skipped, defaultPracticeAttempt: 8, defaultTestAttempt: 8, status: "PUBLISHED" }, null, 2));
