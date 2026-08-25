@@ -5,38 +5,38 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A council poster states: “Every empty seat on the late bus costs our town a future.” What value is most strongly represented?",
+    "audio_prompt": "A council poster states: “Every empty seat on the late bus costs our town a future.” What value is most strongly represented?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "Public transport should be protected because it supports young people’s opportunities.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Buses should be removed from country towns.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Young people should not travel after school.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Empty seats are more important than passengers.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
+      "summary": "The emotive phrase “costs our town a future” positions the bus as an investment in young people and the community.",
+      "hint": "Link the loaded phrase to the policy the poster wants the audience to support."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty": 2,
+    "difficulty_tier": "core",
     "sequence_priority": 1
   },
   {
@@ -45,39 +45,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "Read the review: “The developer calls the wetland ‘unused land’—as if birds, frogs and families who walk there do not count.” Which attitude does the reviewer express?",
+    "audio_prompt": "Read the review: “The developer calls the wetland ‘unused land’—as if birds, frogs and families who walk there do not count.” Which attitude does the reviewer express?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Approval of the developer’s wording",
         "is_correct": false
       },
       {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "Scepticism about the developer’s framing",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Indifference to the wetland",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Humour about local wildlife",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
+      "summary": "The reviewer challenges “unused land” by listing who and what is overlooked, showing scepticism.",
+      "hint": "Notice quotation marks and the contrast after the dash."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 2
   },
   {
     "id": "ac9e10ly03-p-003",
@@ -85,38 +85,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "In a school newsletter, a principal writes, “We welcome every family’s voice in shaping our next chapter.” What belief is implied?",
+    "audio_prompt": "In a school newsletter, a principal writes, “We welcome every family’s voice in shaping our next chapter.” What belief is implied?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Only staff should make school decisions.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "A school community is strengthened by inclusive participation.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Families should avoid contacting the school.",
+        "is_correct": false
+      },
+      {
+        "text": "Change is always harmful.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
+      "summary": "“Every family’s voice” and “our” present inclusion and shared decision-making as valuable.",
+      "hint": "Look for inclusive pronouns and who is invited to participate."
     },
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty_tier": "core",
+    "sequence_priority": 3
   },
   {
     "id": "ac9e10ly03-p-004",
@@ -124,39 +125,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A campaign caption reads, “Don’t be the last one holding the hose while everyone else scrolls.” What does the image of “holding the hose” imply?",
+    "audio_prompt": "A campaign caption reads, “Don’t be the last one holding the hose while everyone else scrolls.” What does the image of “holding the hose” imply?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Climate action is someone else’s responsibility.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "Collective problems require people to act, not merely observe.",
         "is_correct": true
+      },
+      {
+        "text": "Phones should be banned during emergencies.",
+        "is_correct": false
+      },
+      {
+        "text": "Firefighters should work alone.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
+      "summary": "The contrast between action and “scrolls” criticises passive spectatorship and values shared responsibility.",
+      "hint": "Compare the role of the active person with the inactive group."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 4
   },
   {
     "id": "ac9e10ly03-p-005",
@@ -164,39 +165,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A columnist describes a proposed youth centre as “a handout for kids who should just work harder”. Which assumption is embedded in the phrase “just work harder”?",
+    "audio_prompt": "A columnist describes a proposed youth centre as “a handout for kids who should just work harder”. Which assumption is embedded in the phrase “just work harder”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "Young people face no structural barriers.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Community services are always expensive.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Youth centres provide too many jobs.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "All young people want identical careers.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
+      "summary": "The phrase reduces complex barriers to individual effort, implying that support is unnecessary.",
+      "hint": "Ask what the writer assumes about the cause of disadvantage."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 5
   },
   {
     "id": "ac9e10ly03-p-006",
@@ -204,39 +205,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "Compare: A: “Residents complained about the tower.” B: “Residents defended their right to sunlight.” How does version B position residents?",
+    "audio_prompt": "Compare: A: “Residents complained about the tower.” B: “Residents defended their right to sunlight.” How does version B position residents?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "As selfish and unreasonable",
         "is_correct": false
       },
       {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "As people protecting a legitimate need",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "As uninterested in the proposal",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "As experts in construction",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
+      "summary": "“Defended” and “right” give residents a principled, legitimate position rather than merely showing complaint.",
+      "hint": "Compare the connotations of the main verbs and nouns."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 6
   },
   {
     "id": "ac9e10ly03-p-007",
@@ -244,39 +245,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A cartoon shows a factory owner standing on a pile of coins saying, “We can’t afford cleaner air,” while smoke fills the sky. What criticism is most likely intended?",
+    "audio_prompt": "A cartoon shows a factory owner standing on a pile of coins saying, “We can’t afford cleaner air,” while smoke fills the sky. What criticism is most likely intended?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Clean air is too expensive for everyone.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "Profit is being prioritised over environmental responsibility.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Factories should produce more smoke.",
+        "is_correct": false
+      },
+      {
+        "text": "Coins are a reliable measure of air quality.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
+      "summary": "The visual contradiction between wealth and the claim of unaffordability satirises profit being placed above clean air.",
+      "hint": "Look for the contradiction created by the image and speech bubble."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 7
   },
   {
     "id": "ac9e10ly03-p-008",
@@ -284,39 +285,359 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A sports article calls a women’s team “surprisingly disciplined”. Why might “surprisingly” be significant?",
+    "audio_prompt": "A sports article calls a women’s team “surprisingly disciplined”. Why might “surprisingly” be significant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "It is neutral praise with no implication.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "It may reveal a low expectation of the team before evidence is given.",
         "is_correct": true
+      },
+      {
+        "text": "It proves the team has never trained.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the article’s target audience exactly.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
+      "summary": "“Surprisingly” can imply the writer did not expect discipline, so it may reproduce a limiting assumption.",
+      "hint": "Ask what had to be assumed for the result to be surprising."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 8
+  },
+  {
+    "id": "ac9e10ly03-p-009",
+    "curriculum_code": "AC9E10LY03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A charity advertisement says, “Choose dignity, not pity.” Which appeal is being made?",
+    "audio_prompt": "A charity advertisement says, “Choose dignity, not pity.” Which appeal is being made?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Support should respect people’s agency rather than treat them as helpless.",
+        "is_correct": true
+      },
+      {
+        "text": "Donations are unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "Pity is the only respectful response.",
+        "is_correct": false
+      },
+      {
+        "text": "People should hide hardship from others.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The contrast sets up dignity as the preferred value and rejects a patronising view of people receiving support.",
+      "hint": "Explain the values attached to each side of the contrast."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 9
+  },
+  {
+    "id": "ac9e10ly03-p-010",
+    "curriculum_code": "AC9E10LY03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A mayor says, “Our city is built by doers, not doubters.” Which group is positioned negatively?",
+    "audio_prompt": "A mayor says, “Our city is built by doers, not doubters.” Which group is positioned negatively?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "People who agree with every plan",
+        "is_correct": false
+      },
+      {
+        "text": "People who question the mayor’s proposal",
+        "is_correct": true
+      },
+      {
+        "text": "People who build physical structures",
+        "is_correct": false
+      },
+      {
+        "text": "People who live outside the city",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The antithesis presents “doubters” as opposed to useful “doers”, dismissing criticism.",
+      "hint": "Identify which label is given positive connotations."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 10
+  },
+  {
+    "id": "ac9e10ly03-p-011",
+    "curriculum_code": "AC9E10LY03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "Read the sentence: “The old library waited patiently for someone to notice its cracked windows.” What attitude toward the library is created by personification?",
+    "audio_prompt": "Read the sentence: “The old library waited patiently for someone to notice its cracked windows.” What attitude toward the library is created by personification?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is presented as disposable property.",
+        "is_correct": false
+      },
+      {
+        "text": "It is presented as neglected and deserving care.",
+        "is_correct": true
+      },
+      {
+        "text": "It is presented as dangerous to enter.",
+        "is_correct": false
+      },
+      {
+        "text": "It is presented as newly built.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Giving the library human patience creates sympathy and frames neglect as a concern.",
+      "hint": "Consider what a reader feels toward something that ‘waits patiently’."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 11
+  },
+  {
+    "id": "ac9e10ly03-p-012",
+    "curriculum_code": "AC9E10LY03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A headline reads, “Students demand safer crossings after another near miss.” What does “demand” suggest about the students’ stance?",
+    "audio_prompt": "A headline reads, “Students demand safer crossings after another near miss.” What does “demand” suggest about the students’ stance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They are politely unsure whether safety matters.",
+        "is_correct": false
+      },
+      {
+        "text": "They see safety as urgent and non-negotiable.",
+        "is_correct": true
+      },
+      {
+        "text": "They want fewer crossings.",
+        "is_correct": false
+      },
+      {
+        "text": "They are describing a historical event without opinion.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Demand” conveys urgency and a belief that the current situation is unacceptable.",
+      "hint": "Use the strength of the verb and the context together."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 12
+  },
+  {
+    "id": "ac9e10ly03-p-013",
+    "curriculum_code": "AC9E10LY03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "In a debate, a speaker calls a proposal “a shortcut dressed up as innovation”. What belief about the proposal is conveyed?",
+    "audio_prompt": "In a debate, a speaker calls a proposal “a shortcut dressed up as innovation”. What belief about the proposal is conveyed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is genuinely original and carefully planned.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides a simplistic solution behind positive branding.",
+        "is_correct": true
+      },
+      {
+        "text": "It is too expensive to explain.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no connection to language choices.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The metaphor contrasts the attractive label “innovation” with the dismissive “shortcut”, questioning the proposal’s substance.",
+      "hint": "Unpack the two parts of the metaphor."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 13
+  },
+  {
+    "id": "ac9e10ly03-p-014",
+    "curriculum_code": "AC9E10LY03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A tourism brochure says, “Discover a coastline untouched by modern life.” Why could “untouched” be problematic?",
+    "audio_prompt": "A tourism brochure says, “Discover a coastline untouched by modern life.” Why could “untouched” be problematic?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It suggests the place has no history, communities or ongoing care.",
+        "is_correct": true
+      },
+      {
+        "text": "It provides exact scientific evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the brochure too formal.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves tourism has no environmental impact.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Untouched” can erase First Nations custodianship and other human relationships with Country.",
+      "hint": "Ask whose connection to the place the wording leaves out."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 14
+  },
+  {
+    "id": "ac9e10ly03-p-015",
+    "curriculum_code": "AC9E10LY03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "Which response best analyses this slogan: “Real Australians fix problems; they don’t complain about them.”",
+    "audio_prompt": "Which response best analyses this slogan: “Real Australians fix problems; they don’t complain about them.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It uses a national label to define criticism as less Australian and less useful.",
+        "is_correct": true
+      },
+      {
+        "text": "It simply gives factual information about repair work.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves all Australians have the same opinion.",
+        "is_correct": false
+      },
+      {
+        "text": "It uses no language features.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The phrase “real Australians” creates an in-group and positions critics as outsiders.",
+      "hint": "Look for who is included and excluded by the label."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 15
+  },
+  {
+    "id": "ac9e10ly03-p-016",
+    "curriculum_code": "AC9E10LY03",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A report states, “The experiment failed.” A revised version states, “The trial produced results that did not support the prediction.” Why is the revision more appropriate?",
+    "audio_prompt": "A report states, “The experiment failed.” A revised version states, “The trial produced results that did not support the prediction.” Why is the revision more appropriate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It hides the outcome completely.",
+        "is_correct": false
+      },
+      {
+        "text": "It values evidence and precision rather than treating an unexpected result as worthless.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes science sound less reliable.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the prediction after the trial.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The revised wording treats the result as evidence, reflecting a scientific attitude of inquiry rather than blame.",
+      "hint": "Compare the values implied by ‘failed’ and ‘produced results’."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 16
   },
   {
     "id": "ac9e10ly03-t-001",
@@ -324,36 +645,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "What is the correct way to apply a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text?",
-    "audio_prompt": "What is the correct way to apply a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A cartoon shows two panels. In the first, a politician says, “Every voice matters.” In the second, security guards block a crowd from a meeting. What value is the cartoon most likely questioning?",
+    "audio_prompt": "A cartoon shows two panels. In the first, a politician says, “Every voice matters.” In the second, security guards block a crowd from a meeting. What value is the cartoon most likely questioning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "The value of public participation",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The value of private security",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The value of drawing cartoons",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The value of short speeches",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
-    }
+      "summary": "The contrast between the promise and the exclusion exposes a possible gap between stated democratic values and behaviour.",
+      "hint": "Use both panels: what does the second panel make the first statement mean?"
+    },
+    "difficulty": 4,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 1
   },
   {
     "id": "ac9e10ly03-t-002",
@@ -361,36 +685,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "Read the caption: “She was ‘too emotional’ to lead—until the crisis needed empathy.” What belief is challenged?",
+    "audio_prompt": "Read the caption: “She was ‘too emotional’ to lead—until the crisis needed empathy.” What belief is challenged?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Leadership requires no emotional awareness.",
         "is_correct": false
       },
       {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "Emotional expression makes people incapable of leadership.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Empathy should be limited to crises only.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Crises are caused by women leaders.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
-    }
+      "summary": "The caption exposes a double standard by showing that the trait dismissed earlier becomes valuable in a crisis.",
+      "hint": "Notice how the second clause overturns the first judgement."
+    },
+    "difficulty": 4,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 2
   },
   {
     "id": "ac9e10ly03-t-003",
@@ -398,36 +725,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A local article calls a protest “a noisy interruption”, while protesters call it “a necessary warning”. What should a strong analysis recognise?",
+    "audio_prompt": "A local article calls a protest “a noisy interruption”, while protesters call it “a necessary warning”. What should a strong analysis recognise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "The labels frame the event differently and reveal competing attitudes toward protest.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Only the article’s label can be analysed.",
+        "is_correct": false
+      },
+      {
+        "text": "Both labels are exactly neutral.",
+        "is_correct": false
+      },
+      {
+        "text": "The event cannot have more than one interpretation.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
-    }
+      "summary": "‘Interruption’ dismisses the protest, whereas ‘necessary warning’ frames it as responsible action.",
+      "hint": "Explain the connotations of each label before judging their effect."
+    },
+    "difficulty": 4,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 3
   },
   {
     "id": "ac9e10ly03-t-004",
@@ -435,36 +765,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A speech says, “We inherited this river; we do not own it.” What value is most clearly represented?",
+    "audio_prompt": "A speech says, “We inherited this river; we do not own it.” What value is most clearly represented?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "Stewardship for future generations",
         "is_correct": true
+      },
+      {
+        "text": "Private ownership of waterways",
+        "is_correct": false
+      },
+      {
+        "text": "Avoiding all environmental decisions",
+        "is_correct": false
+      },
+      {
+        "text": "The idea that rivers have no history",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
-    }
+      "summary": "The contrast rejects ownership and presents care for a shared inheritance as the preferred value.",
+      "hint": "Focus on the difference between ‘inherited’ and ‘own’."
+    },
+    "difficulty": 4,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 4
   },
   {
     "id": "ac9e10ly03-t-005",
@@ -472,36 +805,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A product advertises, “Because ordinary isn’t good enough for your child.” What attitude toward parents is used to persuade?",
+    "audio_prompt": "A product advertises, “Because ordinary isn’t good enough for your child.” What attitude toward parents is used to persuade?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "Parents should feel responsible for choosing exceptional products.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Parents should ignore advertising completely.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "All products are identical.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Children dislike ordinary objects.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
-    }
+      "summary": "The wording pressures parents by linking a product choice to whether they do enough for their child.",
+      "hint": "Ask what insecurity the phrase is designed to activate."
+    },
+    "difficulty": 4,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 5
   },
   {
     "id": "ac9e10ly03-t-006",
@@ -509,36 +845,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "In a novel, a narrator says, “I called the suburb ‘the estate’ until I realised that word made our homes sound temporary.” What does this reflection show?",
+    "audio_prompt": "In a novel, a narrator says, “I called the suburb ‘the estate’ until I realised that word made our homes sound temporary.” What does this reflection show?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "Language labels can shape belonging and social judgement.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Place names never affect meaning.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The narrator dislikes all suburbs.",
+        "is_correct": false
+      },
+      {
+        "text": "Temporary housing is always negative.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
-    }
+      "summary": "The narrator notices that a label carries assumptions about permanence and worth, affecting how residents are seen.",
+      "hint": "Connect the word choice to the social meaning it creates."
+    },
+    "difficulty": 4,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 6
   },
   {
     "id": "ac9e10ly03-t-007",
@@ -546,36 +885,39 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "A political cartoon labels an overflowing rubbish bin “tomorrow’s problem” while children stand beside it. What is the likely criticism?",
+    "audio_prompt": "A political cartoon labels an overflowing rubbish bin “tomorrow’s problem” while children stand beside it. What is the likely criticism?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "Adults are delaying responsibility and shifting consequences to younger people.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Children should collect more rubbish.",
+        "is_correct": false
+      },
+      {
+        "text": "Rubbish bins are too small to label.",
+        "is_correct": false
+      },
+      {
+        "text": "Tomorrow cannot be planned for.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
-    }
+      "summary": "The label and the children together criticise postponing action when younger generations will bear the effects.",
+      "hint": "Explain why placing children beside the bin matters."
+    },
+    "difficulty": 4,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 7
   },
   {
     "id": "ac9e10ly03-t-008",
@@ -583,35 +925,38 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_social_or_political_cartoons_to_identify_the_implicit_and_explicit_values_beliefs_and_attitudes_expressed_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values beliefs and attitudes expressed and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "analyse values, beliefs and attitudes using language evidence",
+    "question": "Which sentence is the strongest analytical claim about the phrase “illegal queue jumpers” in a headline?",
+    "audio_prompt": "Which sentence is the strongest analytical claim about the phrase “illegal queue jumpers” in a headline?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
+        "text": "The phrase combines legal judgement with a metaphor that can portray asylum seekers as unfair competitors rather than people seeking safety.",
         "is_correct": true
+      },
+      {
+        "text": "The phrase is neutral because all headlines are factual.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase only describes the length of a queue.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase proves every asylum seeker has acted illegally.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed",
-      "hint": "A writer or speaker can use purpose to shape analysing social or political cartoons to identify the implicit and explicit values, beliefs and attitudes expressed and influence how an audience understands the text."
-    }
+      "summary": "A strong response identifies the words, their connotations and how they position readers toward a group.",
+      "hint": "Do not stop at naming the metaphor; explain its social effect."
+    },
+    "difficulty": 4,
+    "difficulty_tier": "transfer",
+    "sequence_priority": 8
   }
 ]
