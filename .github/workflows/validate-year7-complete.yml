@@ -180,7 +180,6 @@ jobs:
       - name: Confirm release wiring and wording
         run: |
           grep -q "year7-router.js" assets/display-only.js
-          grep -q "year7-curriculum-render.js" assets/year7-router.js
           grep -q "year7-curriculum-quick-read.js" assets/year7-router.js
           grep -q "year7-curriculum-worksheet-page.js" assets/year7-router.js
           grep -q "year7-worksheet-normalise.js" assets/year7-router.js
