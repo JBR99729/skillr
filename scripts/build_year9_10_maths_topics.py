@@ -12,6 +12,56 @@ from upper_maths_authoring import build_spec
 
 ROOT = Path(__file__).resolve().parents[1]
 
+YEAR9_AUTHORED_OVERRIDES = {
+    "AC9M9N01": [
+        {
+            "heading": "Map the real number system",
+            "lead": "Real numbers split into rational and irrational numbers. Natural numbers sit inside integers, which sit inside rational numbers.",
+            "highlight": "Natural ⊂ Integer ⊂ Rational ⊂ Real; irrational numbers such as √2 and π are real but not rational.",
+            "visual": {"type": "relationship", "label": "Natural ⊂ Integer ⊂ Rational ⊂ Real; Irrational ⊂ Real and separate from Rational"},
+            "ask": "Where do 7, −3, 2/5, 0.125, √2 and π belong in the real number system?",
+            "answer": "7 is natural, integer, rational and real; −3 is integer, rational and real; 2/5 and 0.125 are rational and real; √2 and π are irrational and real.",
+            "notes": {"teacherDoes": "Build the nested number sets, then classify one example at a time.", "teacherAsks": "Why can one number belong to more than one set?", "studentDoes": "Classifies each number into the smallest set and all containing sets.", "expectedEvidence": "Uses the nesting Natural ⊂ Integer ⊂ Rational ⊂ Real correctly.", "ifIncorrect": "Start with the smallest set that describes the number, then move outward through the nesting.", "shortCheck": "Classify 0 and √9."}
+        },
+        {
+            "heading": "Recognise rational and irrational decimals",
+            "lead": "A rational number can be written as a fraction of integers and has a terminating or recurring decimal expansion. Irrational decimals neither terminate nor repeat in a fixed pattern.",
+            "highlight": "1/8 = 0.125 and 1/3 = 0.333… are rational; √2 = 1.4142135… is irrational because its decimal is non-terminating and non-recurring.",
+            "visual": {"type": "table", "label": "terminating decimal → rational | recurring decimal → rational | non-terminating non-recurring decimal → irrational"},
+            "ask": "Is 0.272727… rational or irrational, and what evidence proves it?",
+            "answer": "It is rational because the block 27 repeats forever; in fact 0.272727… = 3/11.",
+            "notes": {"teacherDoes": "Contrast terminating, recurring and non-recurring decimal forms.", "teacherAsks": "What feature of a decimal tells you it can be rational?", "studentDoes": "Uses terminating or recurring structure as evidence rather than decimal length.", "expectedEvidence": "States that terminating and recurring decimals are rational.", "ifIncorrect": "Compare 0.333… with √2 and ask which has a repeating block.", "shortCheck": "Is 0.1010010001… rational? Explain."}
+        },
+        {
+            "heading": "Keep exact values exact",
+            "lead": "Exact notation preserves the full value. A decimal approximation is useful for measurement or reporting but introduces rounding error.",
+            "highlight": "For diameter 5, circumference = 5π exactly. Using π ≈ 3.14159 gives C ≈ 15.71 to 2 d.p.; 15.71 is not equal to 5π.",
+            "visual": {"type": "equation", "label": "5π exact → calculate → 15.707963… → 15.71 to 2 d.p."},
+            "ask": "Why should π or √2 usually be kept exact until the final requested approximation?",
+            "answer": "Rounding early discards information and can make later calculations less accurate; exact notation preserves the value until a decimal is actually required.",
+            "notes": {"teacherDoes": "Run the same calculation once with π and once with 3.14, then compare the results.", "teacherAsks": "Where does rounding error first enter?", "studentDoes": "Identifies the first replacement of an exact value by a rounded decimal.", "expectedEvidence": "Distinguishes = from ≈ and delays rounding.", "ifIncorrect": "Mark every step as exact or approximate.", "shortCheck": "Which is exact: 3√5 or 6.708?"}
+        },
+        {
+            "heading": "Locate √2 on the real number line",
+            "lead": "The diagonal of a 1-by-1 square has length √2, so geometry gives an exact way to place √2 on a number line.",
+            "highlight": "A unit square has diagonal √(1²+1²)=√2. Transfer that diagonal length with an arc from 0 to locate √2 between 1 and 2.",
+            "visual": {"type": "numberline", "label": "1 < √2 < 2; unit-square diagonal transferred to the number line"},
+            "ask": "Without a calculator, how can you justify that √2 lies between 1 and 2?",
+            "answer": "Because 1² < 2 < 2², taking positive square roots gives 1 < √2 < 2; the unit-square construction locates the exact length geometrically.",
+            "notes": {"teacherDoes": "Draw a unit square, its diagonal, then transfer the diagonal length to the number line.", "teacherAsks": "Why is the point exact even though its decimal is non-terminating?", "studentDoes": "Links the Pythagorean length √2 to its number-line position.", "expectedEvidence": "Uses 1² < 2 < 2² and the geometric construction.", "ifIncorrect": "Compare squares of the neighbouring integers.", "shortCheck": "Between which integers does √7 lie?"}
+        },
+        {
+            "heading": "Use real numbers in unfamiliar problems",
+            "lead": "Choose exact or approximate form to suit the question, then check that the final representation and accuracy make sense.",
+            "highlight": "Area of a circle with radius 2.5: A = π(2.5)² = 6.25π exactly ≈ 19.63 square units to 2 d.p.",
+            "visual": {"type": "equation", "label": "substitute exact values → simplify exact form → approximate once if requested → state accuracy"},
+            "ask": "A question asks for an exact answer and then a value to 2 decimal places. What should your working look like?",
+            "answer": "Keep the exact form through the algebra, state it first, then evaluate and round once at the end using ≈ and the requested accuracy.",
+            "notes": {"teacherDoes": "Model exact-to-approximate working with a formula and explicitly distinguish = from ≈.", "teacherAsks": "Which line should contain the first rounded value?", "studentDoes": "Substitutes, simplifies exactly, approximates once and labels the accuracy.", "expectedEvidence": "Shows an exact result followed by a correctly rounded approximation.", "ifIncorrect": "Return to the first decimal in the working and replace it with the exact value.", "shortCheck": "Give exact and 2 d.p. values for 4√3."}
+        }
+    ]
+}
+
 
 def page_shell(unit: dict, spec: dict, year: int) -> str:
     code = unit["code"]
@@ -35,7 +85,8 @@ def build_year(all_units: list[dict], year: int) -> None:
     output = {}
     for code, unit in units.items():
         title, anchor = CORE[code]
-        output[code] = build_spec(unit, title, anchor, HEADINGS[code], AUTHORED.get(code))
+        authored = YEAR9_AUTHORED_OVERRIDES.get(code) or AUTHORED.get(code)
+        output[code] = build_spec(unit, title, anchor, HEADINGS[code], authored)
         spec = output[code]
         slides = spec["teachingSlides"]
         first = slides[0]
@@ -46,50 +97,21 @@ def build_year(all_units: list[dict], year: int) -> None:
             "Show enough mathematical working that another student can follow the method.",
             "Check the result using substitution, estimation, an inverse operation or another representation.",
         ]
-
-        # Every curriculum elaboration is a student-facing worked model.  The old
-        # first/last-only rule made pages look complete while omitting most of the
-        # actual learning sequence.
         spec["workedExamples"] = [
-            {
-                "title": slide["heading"],
-                "example": slide["highlight"],
-                "teacherLanguage": slide["ask"],
-                "answer": slide["answer"],
-            }
+            {"title": slide["heading"], "example": slide["highlight"], "teacherLanguage": slide["ask"], "answer": slide["answer"]}
             for slide in slides
         ]
-
-        # Revision notes must cover the full learning progression rather than just
-        # repeat the anchor and two end points.
         notes = [anchor] + [slide["highlight"] for slide in slides]
         spec["revisionNotes"] = list(dict.fromkeys(notes))[:8]
-
-        # A useful topic page needs enough retrieval practice to check mastery.
-        # Keep the central-concept question, then turn each authored teaching check
-        # into an explicit Q&A. Add transfer/check questions where fewer than eight
-        # authored prompts exist.
         questions = [
             {"question": f"What is the central idea in {title}?", "answer": anchor},
-            *[
-                {"question": slide["ask"], "answer": slide["answer"]}
-                for slide in slides
-            ],
+            *[{"question": slide["ask"], "answer": slide["answer"]} for slide in slides],
         ]
         if len(questions) < 8:
             questions.extend([
-                {
-                    "question": "How can you check that your answer is reasonable without simply repeating the same calculation?",
-                    "answer": "Use an independent check such as estimation, substitution, an inverse operation, a graph, a table or another representation appropriate to the problem.",
-                },
-                {
-                    "question": "What is one common error a student could make in this topic, and how would you correct it?",
-                    "answer": "Name a specific misconception from the topic, identify the mathematical relationship it breaks, then redo the step using the correct relationship.",
-                },
-                {
-                    "question": "How would you explain the method to a student who has never seen this type of problem before?",
-                    "answer": "State what is known, identify the relationship or rule that connects the quantities, apply it one step at a time, and finish by checking the result.",
-                },
+                {"question": "How can you check that your answer is reasonable without simply repeating the same calculation?", "answer": "Use an independent check such as estimation, substitution, an inverse operation, a graph, a table or another representation appropriate to the problem."},
+                {"question": "What is one common error a student could make in this topic, and how would you correct it?", "answer": "Name a specific misconception from the topic, identify the mathematical relationship it breaks, then redo the step using the correct relationship."},
+                {"question": "How would you explain the method to a student who has never seen this type of problem before?", "answer": "State what is known, identify the relationship or rule that connects the quantities, apply it one step at a time, and finish by checking the result."},
             ])
         spec["importantQuestions"] = questions[:10]
 
