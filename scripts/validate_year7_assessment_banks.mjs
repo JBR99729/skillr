@@ -72,6 +72,8 @@ for (const subject of selectedSubjects) {
     const practice = load(practiceSource);
     const test = load(testSource);
     const issues = [];
+    const practiceHtml = fs.existsSync(practicePage) ? read(practicePage) : "";
+    const testHtml = fs.existsSync(testPage) ? read(testPage) : "";
     if (practice.length < 24) issues.push(`Practice ${practice.length}/24`);
     if (test.length < 16) issues.push(`Test ${test.length}/16`);
     if (practiceSource && testSource && path.resolve(practiceSource) === path.resolve(testSource)) issues.push("shared source");
@@ -82,7 +84,7 @@ for (const subject of selectedSubjects) {
     const ids = new Set();
     const prompts = new Set();
     for (const [bank, items] of [["Practice", practice], ["Test", test]]) {
-      const distribution = [0, 0, 0];
+      const distribution = new Map();
       for (const item of items) {
         const label = `${code} ${bank} ${item.id || "missing-id"}`;
         if (!item.id || ids.has(item.id)) issues.push(`${label}: missing/duplicate ID`);
@@ -94,7 +96,7 @@ for (const subject of selectedSubjects) {
         const key = correct(item);
         if (![3, 4].includes(choices.length) || new Set(choices.map(normalise)).size !== choices.length) issues.push(`${label}: requires 3 or 4 unique choices`);
         if (key < 0 || key >= choices.length) issues.push(`${label}: invalid correct index`);
-        else distribution[key] += 1;
+        else distribution.set(key, (distribution.get(key) || 0) + 1);
         const feedback = explanation(item);
         if (!(typeof feedback === "string" && normalise(feedback)) && (!feedback?.summary || !feedback?.hint)) issues.push(`${label}: missing summary/hint`);
         const art = visual(item);
@@ -107,14 +109,15 @@ for (const subject of selectedSubjects) {
           else if (symbol && !read(diskAsset).includes(`id="${symbol}"`)) issues.push(`${label}: SVG symbol missing`);
         }
       }
-      if (items.length && (distribution.some((count) => count === 0) || Math.max(...distribution) - Math.min(...distribution) > 1)) {
-        issues.push(`${bank}: unbalanced correct positions ${distribution.join("/")}`);
+      const choiceCount = Math.max(0, ...items.map((item) => answers(item).length));
+      const counts = Array.from({ length: choiceCount }, (_, index) => distribution.get(index) || 0);
+      const bankHtml = bank === "Practice" ? practiceHtml : testHtml;
+      if (items.length && choiceCount && !/["']?shuffleAnswers["']?\s*:\s*true/.test(bankHtml) && (counts.some((count) => count === 0) || Math.max(...counts) - Math.min(...counts) > 1)) {
+        issues.push(`${bank}: unbalanced correct positions ${counts.join("/")}`);
       }
     }
 
-    const practiceHtml = fs.existsSync(practicePage) ? read(practicePage) : "";
-    const testHtml = fs.existsSync(testPage) ? read(testPage) : "";
-    if (!/"maxQuestions":8/.test(practiceHtml) || !/"shuffleQuestions":true/.test(practiceHtml)) issues.push("Practice must rotate 8");
+    if (!/["']?maxQuestions["']?\s*:\s*(?:8|[1-9][0-9]+)/.test(practiceHtml) || !/["']?shuffleQuestions["']?\s*:\s*true/.test(practiceHtml)) issues.push("Practice must rotate 8");
     if (!/["']?maxQuestions["']?\s*:\s*(?:8|[1-9][0-9]+)/.test(testHtml) || !/["']?shuffleQuestions["']?\s*:\s*true/.test(testHtml)) issues.push("Test must rotate 8");
     if (/\.\.\.|…/.test((practiceHtml.match(/<h1[^>]*>(.*?)<\/h1>/s) || [])[1] || "")) issues.push("truncated Practice heading");
     if (/\.\.\.|…/.test((testHtml.match(/<h1[^>]*>(.*?)<\/h1>/s) || [])[1] || "")) issues.push("truncated Test heading");
