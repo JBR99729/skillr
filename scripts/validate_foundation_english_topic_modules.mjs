@@ -291,6 +291,7 @@ for (const code of codes) {
     check(html.includes(`foundation-english-worksheet-page.js?v=${version}`), `${code}/sheet${sheetNumber}: current page loader`);
     check(html.includes(`foundation-english-topic-module-balance-v2.js?v=${version}`), `${code}/sheet${sheetNumber}: balanced answer-position transformer`);
     check(html.includes(canonicalUrl), `${code}/sheet${sheetNumber}: stable canonical`);
+    check(/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(html), `${code}/sheet${sheetNumber}: subordinate route noindex,follow`);
     check(html.includes("google-adsense-account") && html.includes("googletagmanager.com") && html.includes("pagead2.googlesyndication.com"), `${code}/sheet${sheetNumber}: latest-main SEO/analytics preserved`);
     check(!/QA complete/i.test(html), `${code}/sheet${sheetNumber}: QA badge text must not ship`);
   }
@@ -303,7 +304,7 @@ for (const [optionCount, positions] of correctPositions) {
 }
 
 function siteOriginPlaceholder(code, sheetNumber) {
-  return `https://skillrhub.com/quiz/grade-k/english/${code.toLowerCase()}/worksheet/topic-practice-${sheetNumber}/`;
+  return `https://skillrhub.com/quiz/grade-k/english/${code.toLowerCase()}/worksheet/`;
 }
 
 const slideHost = read("worksheets/foundation/english/teacher-slides/live.html");
