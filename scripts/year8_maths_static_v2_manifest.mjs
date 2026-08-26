@@ -23,5 +23,9 @@ export const YEAR8_MATHS_V2_MIGRATED = [
   {code:'AC9M8M04',slug:'ac9m8m04-solve-problems-involving-duration-including-using-12-and-24',differentiation:true,victoria:{code:'VC2M8M04',relationship:'Exact'},nsw:{code:'MA4-RAT-C-01; MAO-WM-01',relationship:'Supporting'}},
   {code:'AC9M8M05',slug:'ac9m8m05-and-use-rates-to-solve-problems-involving-the-comparison-of',differentiation:true,victoria:{code:'VC2M8M05',relationship:'Exact'},nsw:{code:'MA4-RAT-C-01; MAO-WM-01',relationship:'Exact'}},
   {code:'AC9M8M06',slug:'ac9m8m06-pythagoras-theorem-to-solve-problems-involving-the-side-lengths',differentiation:true,victoria:{code:'VC2M8M06',relationship:'Exact'},nsw:{code:'MA4-PYT-C-01; MAO-WM-01',relationship:'Exact'}},
-  {code:'AC9M8M07',slug:'ac9m8m07-mathematical-modelling-to-solve-practical-problems-involving',differentiation:true,victoria:{code:'VC2M8M07',relationship:'Exact'},nsw:{code:'MA4-RAT-C-01; MA4-FRC-C-01; MAO-WM-01',relationship:'Partial'}}
+  {code:'AC9M8M07',slug:'ac9m8m07-mathematical-modelling-to-solve-practical-problems-involving',differentiation:true,victoria:{code:'VC2M8M07',relationship:'Exact'},nsw:{code:'MA4-RAT-C-01; MA4-FRC-C-01; MAO-WM-01',relationship:'Partial'}},
+  {code:'AC9M8SP01',slug:'ac9m8sp01-the-conditions-for-congruence-and-similarity-of-triangles-and',differentiation:true,victoria:{code:'VC2M8SP01',relationship:'Exact'},nsw:{code:'MA4-GEO-C-01; MAO-WM-01',relationship:'Partial'}},
+  {code:'AC9M8SP02',slug:'ac9m8sp02-establish-properties-of-quadrilaterals-using-congruent',differentiation:true,victoria:{code:'VC2M8SP02',relationship:'Exact'},nsw:{code:'MA4-GEO-C-01; MAO-WM-01',relationship:'Partial'}},
+  {code:'AC9M8SP03',slug:'ac9m8sp03-the-position-and-location-of-objects-in-3-dimensions-in',differentiation:true,victoria:{code:'VC2M8SP03',relationship:'Exact'},nsw:{code:'MAO-WM-01',relationship:'Supporting'}},
+  {code:'AC9M8SP04',slug:'ac9m8sp04-design-create-and-test-algorithms-involving-a-sequence-of-steps',differentiation:true,victoria:{code:'VC2M8SP04',relationship:'Exact'},nsw:{code:'MA4-GEO-C-01; MAO-WM-01',relationship:'Partial'}}
 ];

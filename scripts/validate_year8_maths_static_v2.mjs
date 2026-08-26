@@ -51,7 +51,7 @@ for(const item of YEAR8_MATHS_V2_MIGRATED){
   if(!html.includes('G-8P22BET45N'))errors.push(`${item.code}: analytics missing`);
   if(!html.includes('ca-pub-7734963540104771'))errors.push(`${item.code}: AdSense readiness missing`);
   if(/year8-maths-render\.js|curriculum-renderer|topic-renderer/i.test(html))errors.push(`${item.code}: runtime curriculum renderer detected`);
-  if(/name the deciding relationship|Build the (?:equation|relationship|geometry|measurement|ratio|timeline|graph|numberline) model/i.test(html))errors.push(`${item.code}: legacy generic pedagogy detected`);
+  if(/name the deciding relationship|Build the (?:equation|relationship|geometry|measurement|ratio|timeline|graph|numberline|algorithm|network) model/i.test(html))errors.push(`${item.code}: legacy generic pedagogy detected`);
   if(countWithin(html,'examples',/class=["']curriculum-worked-example["']/gi)<3)errors.push(`${item.code}: fewer than 3 worked/modelled examples`);
   if(countWithin(html,'misconceptions',/<li>/gi)<4)errors.push(`${item.code}: fewer than 4 misconceptions`);
   if(countWithin(html,'independent-practice',/<li>/gi)<6)errors.push(`${item.code}: fewer than 6 independent questions`);
@@ -68,6 +68,10 @@ const byCode=new Map(YEAR8_MATHS_V2_MIGRATED.map(item=>[item.code,item]));
 function migratedHtml(code){const item=byCode.get(code);return item?fs.readFileSync(path.join(ROOT,'year8','maths',item.slug,'index.html'),'utf8'):'';}
 requireTokens('AC9M8N01',migratedHtml('AC9M8N01'),['A-series','golden ratio','historical','22/7'],'elaboration coverage');
 requireTokens('AC9M8N05',migratedHtml('AC9M8N05'),['temperature','sea depth','tax table','extended time'],'elaboration coverage');
+requireTokens('AC9M8SP01',migratedHtml('AC9M8SP01'),['enlargement','SSS','SAS','AAA','rotation','reflection','counterexample'],'elaboration coverage');
+requireTokens('AC9M8SP02',migratedHtml('AC9M8SP02'),['parallelogram','rhombus','trapezium','kite','scissor lift','360°'],'elaboration coverage');
+requireTokens('AC9M8SP03',migratedHtml('AC9M8SP03'),['drone','3D print','virtual map','first octant','car park','noughts-and-crosses','geospatial'],'elaboration coverage');
+requireTokens('AC9M8SP04',migratedHtml('AC9M8SP04'),['flowchart','congruent','similar','insufficient information','debug','test case'],'elaboration coverage');
 
 if(errors.length){
   console.error('Year 8 Maths static v2 validation FAILED:\n');
