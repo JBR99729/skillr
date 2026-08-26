@@ -1,7 +1,0 @@
-/* Static, student-first structure for curriculum topic guides. */
-.student-learning-start{margin:0 0 18px;padding:clamp(18px,3vw,26px);border:1px solid #b9d0ff;border-radius:18px;background:linear-gradient(135deg,#f4f8ff,#fff)}
-.student-learning-start h2{margin:.15rem 0 .45rem;color:#173968}.student-learning-start p{max-width:760px;margin:.3rem 0;line-height:1.55}.student-learning-kicker{font-size:.78rem;font-weight:850;text-transform:uppercase;letter-spacing:.06em;color:#2457d6}
-.student-learning-actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:14px}.student-learning-actions a{padding:9px 12px;border:1px solid #c9d8fb;border-radius:9px;background:#fff;color:#173968;font-weight:800;text-decoration:none}.student-learning-actions a:hover{border-color:#2457d6;background:#eef4ff}
-.student-lesson-section{scroll-margin-top:18px}.student-learn-the-idea{border-left:4px solid #2457d6}.student-learn-by-example{border-left:4px solid #13795b}.student-try-it-yourself{border-left:4px solid #9a6700}.student-avoid-this-trap{background:#fffaf2}
-.student-hint{margin:.75rem 0 0;padding:.65rem .8rem;border:1px solid #dbe5f2;border-radius:10px;background:#f8fbff}.student-hint summary{cursor:pointer;color:#173968;font-weight:800}.student-hint p{margin:.6rem 0}.student-hint a{font-weight:750}.skillr-optional-teacher-resource{opacity:.88}
-@media(max-width:620px){.student-learning-actions{display:grid;grid-template-columns:1fr}.student-learning-actions a{text-align:center}}

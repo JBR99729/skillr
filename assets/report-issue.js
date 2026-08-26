@@ -12,10 +12,7 @@
   const DEFAULT_EMAIL = "skillrhublearning@gmail.com";
 
   function loadSharedEnhancement(src, dataAttribute) {
-    const isCurriculumTopic = /\/(?:foundation|year\d+)\/(?:maths|science|english)\/ac9[a-z0-9]/i.test(window.location.pathname);
-    if ((!window.skillrPageMeta?.curriculumCode && !isCurriculumTopic) || document.querySelector(`script[${dataAttribute}]`)) return;
-    const base = src.split("?")[0];
-    if ([...document.scripts].some((script) => script.src.includes(base))) return;
+    if (!window.skillrPageMeta?.curriculumCode || document.querySelector(`script[${dataAttribute}]`)) return;
     const script = document.createElement("script");
     script.src = src;
     script.defer = true;
