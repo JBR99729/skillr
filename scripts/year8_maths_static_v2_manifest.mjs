@@ -31,5 +31,8 @@ export const YEAR8_MATHS_V2_MIGRATED = [
   {code:'AC9M8ST01',slug:'ac9m8st01-investigate-techniques-for-data-collection-including-census',differentiation:true,victoria:{code:'VC2M8ST01',relationship:'Exact'},nsw:{code:'MA4-DAT-C-01; MA4-DAT-C-02; MAO-WM-01',relationship:'Partial'}},
   {code:'AC9M8ST02',slug:'ac9m8st02-analyse-and-report-on-the-distribution-of-data-from-primary',differentiation:true,victoria:{code:'VC2M8ST02',relationship:'Exact'},nsw:{code:'MA4-DAT-C-01; MA4-DAT-C-02; MAO-WM-01',relationship:'Partial'}},
   {code:'AC9M8ST03',slug:'ac9m8st03-variations-in-distributions-and-proportions-obtained-from',differentiation:true,victoria:{code:'VC2M8ST03',relationship:'Exact'},nsw:{code:'MA4-DAT-C-02; MAO-WM-01',relationship:'Partial'}},
-  {code:'AC9M8ST04',slug:'ac9m8st04-plan-and-conduct-statistical-investigations-involving-samples',differentiation:true,victoria:{code:'VC2M8ST04',relationship:'Exact'},nsw:{code:'MA4-DAT-C-01; MA4-DAT-C-02; MAO-WM-01',relationship:'Partial'}}
+  {code:'AC9M8ST04',slug:'ac9m8st04-plan-and-conduct-statistical-investigations-involving-samples',differentiation:true,victoria:{code:'VC2M8ST04',relationship:'Exact'},nsw:{code:'MA4-DAT-C-01; MA4-DAT-C-02; MAO-WM-01',relationship:'Partial'}},
+  {code:'AC9M8P01',slug:'ac9m8p01-that-complementary-events-have-a-combined-probability-of-one-use',differentiation:true,victoria:{code:'VC2M8P01',relationship:'Exact'},nsw:{code:'MA4-PRO-C-01; MAO-WM-01',relationship:'Partial'}},
+  {code:'AC9M8P02',slug:'ac9m8p02-determine-all-possible-combinations-for-2-events-using-two-way',differentiation:true,victoria:{code:'VC2M8P02',relationship:'Exact'},nsw:{code:'MA4-PRO-C-01; MAO-WM-01',relationship:'Supporting'}},
+  {code:'AC9M8P03',slug:'ac9m8p03-conduct-repeated-chance-experiments-and-simulations-using',differentiation:true,victoria:{code:'VC2M8P03',relationship:'Exact'},nsw:{code:'MA4-PRO-C-01; MAO-WM-01',relationship:'Supporting'}}
 ];
