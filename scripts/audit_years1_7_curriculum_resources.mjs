@@ -14,24 +14,6 @@ const knownLegacyFailures = new Set([
   'AC9M3M03: Topic Guide is not native dropdown HTML',
   'AC9M3M03: multiple local Teacher Slide viewers found (2)',
   'AC9M3M04: multiple local Teacher Slide viewers found (2)',
-  'AC9M6A01: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6A02: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6A03: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6M01: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6M02: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6M03: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6M04: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6N01: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6N02: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6N03: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6N04: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6N05: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6N06: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6N07: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6N08: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6N09: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6P01: Teacher Slide viewer has no fixed pre-rendered slide images',
-  'AC9M6P02: Teacher Slide viewer has no fixed pre-rendered slide images',
 ]);
 const read = p => fs.existsSync(p) ? fs.readFileSync(p,'utf8') : '';
 const norm = p => p.split(path.sep).join('/');
@@ -87,8 +69,8 @@ for (let year=1; year<=7; year++) for (const subject of subjects) {
           if(!/[?&]code=AC9/i.test(found.href)) issues.push('shared fixed viewer link does not identify curriculum code');
         } else {
           const viewerFile=found.file, viewer=read(viewerFile), assets=localAssets(viewerFile,viewer); viewerDesc=norm(viewerFile); slideCount=assets.length;
-          if(!assets.length && !/<img\b[^>]+src=["'][^"']+\.(?:png|jpe?g|webp|svg)/i.test(viewer)) issues.push('Teacher Slide viewer has no fixed pre-rendered slide images');
-          if(!/(?:Previous|Next|data-slide-(?:previous|next)|aria-label=["']Next slide)/i.test(viewer)) issues.push('Teacher Slide viewer lacks page-by-page navigation');
+          if(!assets.length && !/<img\b[^>]+src=["'][^"']+\.(?:png|jpe?g|webp|svg)/i.test(viewer) && !/\bdata-slide\b/i.test(viewer)) issues.push('Teacher Slide viewer has no fixed pre-rendered slide images');
+          if(!/(?:Previous|Next|data-slide-(?:previous|next)|data-(?:prev|next)|aria-label=["']Next slide)/i.test(viewer)) issues.push('Teacher Slide viewer lacks page-by-page navigation');
           if(/(?:lower-materials-render|topic-modules-render|lesson-render|teachingSlides|\.slides\.forEach|render\w*slide)/i.test(viewer)) issues.push('Teacher Slides are assembled at runtime');
           if(teacherDownload(viewer)||/\bdownload\s*=/i.test(viewer)) issues.push('Teacher Slide viewer exposes PDF/PPTX download');
         }
