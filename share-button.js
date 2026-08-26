@@ -58,7 +58,8 @@
     [
       ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
       ["Worksheets", "/worksheets/"], ["About", "/about.html"],
-      ["Updates", "/updates.html"], ["Contact", "/contact.html"], ["Privacy", "/privacy-policy.html"],
+      ["Updates", "/updates.html"], ["Contact", "/contact.html"],
+      ["Support SkillrHub", "/support-skillrhub.html"], ["Privacy", "/privacy-policy.html"],
       ["Facebook", "https://www.facebook.com/1139028835969651", true]
     ].forEach(function (item) {
       var link = document.createElement("a");
