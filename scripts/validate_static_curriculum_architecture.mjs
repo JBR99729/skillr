@@ -12,6 +12,7 @@ try {
 
 const topicPath = /^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/[^/]+\/index\.html$/;
 const teacherViewerPath = /(?:\/teacher-deck\/index\.html$|\/teacher-slides\/live\.html$|\/teacher-slides\/index\.html$|\/teacher-slides\/[^/]+\/index\.html$)/;
+const compatibilityTeacherViewerPath = /^worksheets\/(?:foundation|year(?:[1-9]|10))\/(?:maths|science|english)\/teacher-slides\/(?:live\.html|viewer\/index\.html)$/;
 const errors = [];
 const publicDownload = /href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i;
 const runtimeDeck = /(?:teachingSlides|\.slides\.forEach|render.*slide|lower-materials-render|year\d+.*slides\.js|topic-modules-render|lesson-render)/i;
@@ -56,6 +57,11 @@ for (const file of changed) {
 
   if (teacherViewerPath.test(file)) {
     const html = fs.readFileSync(file, 'utf8');
+    // Legacy worksheet-level hosts use a query string to select one of many
+    // decks, so they cannot be the canonical teaching resource for any topic.
+    // Keep them available for old links, but do not apply canonical static-deck
+    // requirements once they are explicitly classified as noindex utilities.
+    if (compatibilityTeacherViewerPath.test(file) && /<meta\b[^>]*name=["']robots["'][^>]*content=["'][^"']*\bnoindex\b/i.test(html)) continue;
     if (runtimeDeck.test(html)) errors.push(`${file}: Teacher Slides viewer must not assemble curriculum slides at runtime`);
     if (publicDownload.test(html) || /download\s*=|download\s+(?:pptx|pdf)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must not expose PPTX/PDF download controls`);
     const fixedSlidePages = /<(?:section|article|div|figure)\b[^>]*(?:\bdata-slide\b|class=["'][^"']*\bslide\b)/i.test(html);
