@@ -51,7 +51,7 @@ for(const code of valid){const u=units[code];if(!u){fail(code,"missing canonical
   if(!staticTopic){for(const asset of topicAssets)if(!topicHtml.includes(`year3-maths-${asset}.js?v=${CACHE_VERSION}`))fail(code,`topic cache version missing for ${asset}`);}
   if(/year3-maths-(?:data-[a-z0-9]+|render)\.js\?v=(?!4\b)\d+/.test(topicHtml))fail(code,"topic contains stale Year 3 Maths asset version");
   if(!/year3-maths-worksheet-page\.js\?v=\d+/.test(sheetHtml))fail(code,"worksheet does not load current connected renderer");
-  for(const [number,direct] of [[1,direct1],[2,direct2]]){const html=fs.readFileSync(direct,"utf8");if(!html.includes(`Topic Practice ${number}`)||!html.includes(`/worksheet/topic-practice-${number}/`))fail(code,`direct Topic Practice ${number} route identity invalid`);if(!/year3-maths-worksheet-page\.js\?v=\d+/.test(html))fail(code,`direct Topic Practice ${number} cache version invalid`)}
+  for(const [number,direct] of [[1,direct1],[2,direct2]]){const html=fs.readFileSync(direct,"utf8"),canonical=`https://skillrhub.com/quiz/year-3/math/${code.toLowerCase()}/worksheet/`;if(!html.includes(`Topic Practice ${number}`)||!html.includes(`rel="canonical" href="${canonical}"`)||!/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(html))fail(code,`direct Topic Practice ${number} route identity invalid`);if(!/year3-maths-worksheet-page\.js\?v=\d+/.test(html))fail(code,`direct Topic Practice ${number} cache version invalid`)}
 }
 const normal=s=>String(s).toLowerCase().replace(/\d+/g,"#").replace(/[^a-z#]+/g," ").trim();
 for(const [label,values] of [

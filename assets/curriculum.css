@@ -171,6 +171,29 @@
   align-items: start;
 }
 
+/* Years 9–10 topic guides use one calm reading column. Some older guides
+   omitted the sidebar while retaining the two-column shell, leaving a large
+   blank rail; others squeezed long lesson content beside a utility panel. */
+.curriculum-layout--single {
+  grid-template-columns: minmax(0, 1fr);
+  width: 100%;
+  max-width: 980px;
+  margin-inline: auto;
+}
+
+.curriculum-layout--single > *,
+.curriculum-layout--single .curriculum-detail-body {
+  min-width: 0;
+}
+
+.curriculum-layout--single .curriculum-sidebar {
+  position: static;
+}
+
+.curriculum-layout--single .curriculum-sidebar .curriculum-panel {
+  margin-top: 12px;
+}
+
 .curriculum-sidebar {
   position: sticky;
   top: 16px;

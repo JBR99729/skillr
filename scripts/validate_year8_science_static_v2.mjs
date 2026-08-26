@@ -7,6 +7,9 @@ const ROOT=process.cwd();
 const ids=['learn','prerequisites','teaching','examples','misconceptions','guided-practice','independent-practice','reasoning','important-questions','assessment','mastery','guidance','alignment','resources','related','official-references'];
 const errors=[];
 const hub=fs.readFileSync(path.join(ROOT,'year8/curriculum/science/index.html'),'utf8');
+const topicCss=fs.readFileSync(path.join(ROOT,'assets/year8-science-topic-v2.css'),'utf8');
+if(!/\.curriculum-layout\s*\{[^}]*display\s*:\s*block/i.test(topicCss))errors.push('Year 8 Science topic layout must override the shared two-column grid with one reading column');
+if(!/\.science-v2-grid\s*\{[^}]*grid-template-columns\s*:\s*(?:minmax\(0\s*,\s*1fr\)|1fr)/i.test(topicCss))errors.push('Year 8 Science guidance cards must stack in one column');
 const hubCodes=[...hub.matchAll(/class=["']curriculum-badge["']>(AC9S8(?:U0[1-7]|H0[1-4]|I0[1-8]))</gi)].map(m=>m[1].toUpperCase());
 const expected=[...YEAR8_SCIENCE_EXPECTED_CODES].sort();
 const actual=[...new Set(hubCodes)].sort();
@@ -60,4 +63,4 @@ for(const item of YEAR8_SCIENCE_V2_MIGRATED){
   for(const token of item.preserve)if(!html.toLowerCase().includes(token.toLowerCase()))errors.push(`${item.code}: preserved concept missing: ${token}`);
 }
 if(errors.length){console.error('Year 8 Science static v2 validation FAILED:\n');errors.forEach(e=>console.error(`- ${e}`));process.exit(1);}
-console.log(`Year 8 Science static v2 PASS: full ${YEAR8_SCIENCE_EXPECTED_CODES.length}-code inventory verified; ${YEAR8_SCIENCE_V2_MIGRATED.length} migrated pages satisfy preservation, authored depth, locked order, SEO/resources/schema and state alignment.`);
+console.log(`Year 8 Science static v2 PASS: full ${YEAR8_SCIENCE_EXPECTED_CODES.length}-code inventory verified; ${YEAR8_SCIENCE_V2_MIGRATED.length} migrated pages satisfy preservation, authored depth, single-column layout, locked order, SEO/resources/schema and state alignment.`);
