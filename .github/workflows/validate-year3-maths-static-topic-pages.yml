@@ -1,0 +1,30 @@
+name: Validate Year 3 Maths static topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'year3/maths/**'
+      - 'quiz/year-3/math/**'
+      - 'assets/year3-maths-visuals.css'
+      - 'scripts/validate_year3_maths_static_topic_pages.mjs'
+      - '.github/workflows/validate-year3-maths-static-topic-pages.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'year3/maths/**'
+      - 'quiz/year-3/math/**'
+      - 'assets/year3-maths-visuals.css'
+      - 'scripts/validate_year3_maths_static_topic_pages.mjs'
+      - '.github/workflows/validate-year3-maths-static-topic-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Year 3 Maths static topic pages
+        run: node scripts/validate_year3_maths_static_topic_pages.mjs
