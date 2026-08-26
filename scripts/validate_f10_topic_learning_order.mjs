@@ -6,7 +6,7 @@ import { execFileSync } from 'node:child_process';
 const EXPECTED_IDS=['learn','prerequisites','teaching','examples','misconceptions','guided-practice','independent-practice','reasoning','important-questions','assessment','mastery','guidance','alignment','resources','related','official-references'];
 // Entire roots move here only after every canonical page in that root has been migrated.
 // These roots are checked on every run, even when untouched.
-const PERMANENTLY_LOCKED_ROOTS=['year10/maths','year10/science','year9/maths','year9/science','year8/maths'];
+const PERMANENTLY_LOCKED_ROOTS=['year10/maths','year10/science','year9/maths','year9/science','year8/maths','year8/science'];
 const TOPIC_RE=/^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/[^/]+\/index\.html$/i;
 const START_TAG_RE=/<(section|details)\b[^>]*>/gi;
 function normalise(p){return p.replaceAll('\\','/').replace(/^\.\//,'');}
