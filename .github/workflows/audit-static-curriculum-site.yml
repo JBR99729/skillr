@@ -6,8 +6,11 @@ on:
     paths:
       - 'foundation/**'
       - 'year*/**'
+      - 'quiz/**'
+      - 'worksheets/**'
       - 'assets/**'
       - 'scripts/audit_static_curriculum_site.mjs'
+      - 'scripts/audit_curriculum_route_integrity.mjs'
       - 'scripts/audit_static_teacher_slides.mjs'
       - 'scripts/validate_static_curriculum_architecture.mjs'
       - 'scripts/migrate_runtime_topic_pages_static.mjs'
@@ -17,8 +20,11 @@ on:
     paths:
       - 'foundation/**'
       - 'year*/**'
+      - 'quiz/**'
+      - 'worksheets/**'
       - 'assets/**'
       - 'scripts/audit_static_curriculum_site.mjs'
+      - 'scripts/audit_curriculum_route_integrity.mjs'
       - 'scripts/audit_static_teacher_slides.mjs'
       - 'scripts/validate_static_curriculum_architecture.mjs'
       - 'scripts/migrate_runtime_topic_pages_static.mjs'
@@ -39,6 +45,8 @@ jobs:
         run: node scripts/validate_static_curriculum_architecture.mjs
       - name: Enforce static Teacher Slides architecture
         run: node scripts/audit_static_teacher_slides.mjs
+      - name: Enforce curriculum route integrity
+        run: node scripts/audit_curriculum_route_integrity.mjs
       - name: Enforce static HTML curriculum topic pages and inventory remaining non-blocking issues
         run: node scripts/audit_static_curriculum_site.mjs --fail-on-runtime-topics --json=artifacts/static-curriculum-audit.json
       - name: Upload audit report
