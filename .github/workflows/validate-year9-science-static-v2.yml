@@ -1,0 +1,49 @@
+name: Validate Year 9 Science static v2
+
+on:
+  pull_request:
+    paths:
+      - 'year9/science/**'
+      - 'quiz/year-9/science/**'
+      - 'assets/year9-science-topic-v2.css'
+      - 'scripts/year9_science_static_v2_manifest.mjs'
+      - 'scripts/validate_year9_science_static_v2.mjs'
+      - 'scripts/validate_year9_science_question_banks.mjs'
+      - 'scripts/validate_f10_topic_learning_order.mjs'
+      - '.github/workflows/validate-year9-science-static-v2.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'year9/science/**'
+      - 'quiz/year-9/science/**'
+      - 'assets/year9-science-topic-v2.css'
+      - 'scripts/year9_science_static_v2_manifest.mjs'
+      - 'scripts/validate_year9_science_static_v2.mjs'
+      - 'scripts/validate_year9_science_question_banks.mjs'
+      - 'scripts/validate_f10_topic_learning_order.mjs'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Year 9 Science authored quality gate
+        run: node scripts/validate_year9_science_static_v2.mjs
+      - name: Locked 16-section F–10 learning order
+        run: node scripts/validate_f10_topic_learning_order.mjs
+      - name: Year 9 Science question-bank quality and progression
+        run: node scripts/validate_year9_science_question_banks.mjs
+      - name: Validate static curriculum architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Audit static Teacher Slides
+        run: node scripts/audit_static_teacher_slides.mjs
+      - name: Sitewide zero-runtime curriculum audit
+        run: node scripts/audit_static_curriculum_site.mjs --fail-on-runtime-topics --json=artifacts/year9-science-static-audit.json
