@@ -1,4 +1,5 @@
 name: Validate F-10 topic layout
+# Re-run the restored post-merge curriculum state after the PR #661 rollback.
 
 on:
   pull_request:

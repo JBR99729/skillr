@@ -1,4 +1,5 @@
 name: Audit static curriculum site
+# Re-run the restored post-merge curriculum state after the PR #661 rollback.
 
 on:
   pull_request:
