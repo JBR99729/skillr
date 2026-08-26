@@ -60,4 +60,4 @@ if(errors.length){
   errors.forEach(e=>console.error(`- ${e}`));
   process.exit(1);
 }
-console.log(`Year 8 Maths static v2 PASS: full ${YEAR8_MATHS_EXPECTED_CODES.length}-code inventory verified; ${YEAR8_MATHS_V2_MIGRATED.length} migrated Number pages satisfy authored depth, locked section order, SEO/resources/schema and state alignment.`);
+console.log(`Year 8 Maths static v2 PASS: full ${YEAR8_MATHS_EXPECTED_CODES.length}-code inventory verified; ${YEAR8_MATHS_V2_MIGRATED.length} migrated pages satisfy authored depth, locked section order, SEO/resources/schema and state alignment.`);
