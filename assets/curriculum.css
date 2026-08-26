@@ -16,7 +16,7 @@
   --skillr-gold: #9a6700;
 }
 
-.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/maths/"]) .curriculum-layout{grid-template-columns:minmax(0,1fr);max-width:980px;margin-inline:auto}.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/maths/"]) .curriculum-sidebar{display:none}.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/maths/"]) .curriculum-content{min-width:0}
+.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/maths/"]) .curriculum-layout,.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/science/"]) .curriculum-layout{grid-template-columns:minmax(0,1fr);max-width:980px;margin-inline:auto}.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/maths/"]) .curriculum-sidebar,.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/science/"]) .curriculum-sidebar{display:none}.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/maths/"]) .curriculum-content,.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/science/"]) .curriculum-content{min-width:0}
 
 .curriculum-page:has(.breadcrumb a[href="/year2/curriculum/maths/"]) .curriculum-layout,.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/science/"]) .curriculum-layout{grid-template-columns:minmax(0,1fr);max-width:980px;margin-inline:auto}.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/maths/"]) .curriculum-sidebar,.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/science/"]) .curriculum-sidebar{display:none}.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/maths/"]) .curriculum-content,.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/science/"]) .curriculum-content{min-width:0}
 
