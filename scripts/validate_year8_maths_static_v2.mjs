@@ -12,12 +12,15 @@ const uniqueHub=[...new Set(hubCodes)].sort();
 const expected=[...YEAR8_MATHS_EXPECTED_CODES].sort();
 if(JSON.stringify(uniqueHub)!==JSON.stringify(expected))errors.push(`Year 8 Maths hub inventory mismatch: found ${uniqueHub.length}, expected ${expected.length}`);
 
-function countWithin(html,id,pattern){
+function sectionSlice(html,id){
   const start=html.indexOf(`id="${id}"`);
-  if(start<0)return 0;
+  if(start<0)return '';
   const next=ids.map(x=>html.indexOf(`id="${x}"`,start+1)).filter(x=>x>start).sort((a,b)=>a-b)[0]??html.length;
-  return (html.slice(start,next).match(pattern)||[]).length;
+  return html.slice(start,next);
 }
+function countWithin(html,id,pattern){return (sectionSlice(html,id).match(pattern)||[]).length;}
+function requireTokens(code,html,tokens,label){for(const token of tokens)if(!html.toLowerCase().includes(token.toLowerCase()))errors.push(`${code}: preserved ${label} token missing: ${token}`);}
+
 for(const item of YEAR8_MATHS_V2_MIGRATED){
   const file=path.join(ROOT,'year8','maths',item.slug,'index.html');
   if(!fs.existsSync(file)){errors.push(`${item.code}: missing ${file}`);continue;}
@@ -48,16 +51,27 @@ for(const item of YEAR8_MATHS_V2_MIGRATED){
   if(!html.includes('G-8P22BET45N'))errors.push(`${item.code}: analytics missing`);
   if(!html.includes('ca-pub-7734963540104771'))errors.push(`${item.code}: AdSense readiness missing`);
   if(/year8-maths-render\.js|curriculum-renderer|topic-renderer/i.test(html))errors.push(`${item.code}: runtime curriculum renderer detected`);
+  if(/name the deciding relationship|Build the (?:equation|relationship|geometry|measurement|ratio|timeline|graph|numberline) model/i.test(html))errors.push(`${item.code}: legacy generic pedagogy detected`);
   if(countWithin(html,'examples',/class=["']curriculum-worked-example["']/gi)<3)errors.push(`${item.code}: fewer than 3 worked/modelled examples`);
   if(countWithin(html,'misconceptions',/<li>/gi)<4)errors.push(`${item.code}: fewer than 4 misconceptions`);
   if(countWithin(html,'independent-practice',/<li>/gi)<6)errors.push(`${item.code}: fewer than 6 independent questions`);
   if(countWithin(html,'important-questions',/<li>/gi)<4)errors.push(`${item.code}: fewer than 4 important Q&A`);
   if(countWithin(html,'assessment',/<li>/gi)<3)errors.push(`${item.code}: fewer than 3 assessment questions`);
   if(!/<figure\b[^>]*class=["'][^"']*math-concept-diagram/i.test(html))errors.push(`${item.code}: purposeful native maths model/diagram missing`);
+  if(item.differentiation){
+    const guidance=sectionSlice(html,'guidance');
+    for(const tier of ['Support:','Core:','Extend:'])if(!guidance.includes(tier))errors.push(`${item.code}: ${tier} differentiation missing from guidance`);
+  }
 }
+
+const byCode=new Map(YEAR8_MATHS_V2_MIGRATED.map(item=>[item.code,item]));
+function migratedHtml(code){const item=byCode.get(code);return item?fs.readFileSync(path.join(ROOT,'year8','maths',item.slug,'index.html'),'utf8'):'';}
+requireTokens('AC9M8N01',migratedHtml('AC9M8N01'),['A-series','golden ratio','historical','22/7'],'elaboration coverage');
+requireTokens('AC9M8N05',migratedHtml('AC9M8N05'),['temperature','sea depth','tax table','extended time'],'elaboration coverage');
+
 if(errors.length){
-  console.error('Year 8 Maths static v2 batch validation FAILED:\n');
+  console.error('Year 8 Maths static v2 validation FAILED:\n');
   errors.forEach(e=>console.error(`- ${e}`));
   process.exit(1);
 }
-console.log(`Year 8 Maths static v2 PASS: full ${YEAR8_MATHS_EXPECTED_CODES.length}-code inventory verified; ${YEAR8_MATHS_V2_MIGRATED.length} migrated pages satisfy authored depth, locked section order, SEO/resources/schema and state alignment.`);
+console.log(`Year 8 Maths static v2 PASS: full ${YEAR8_MATHS_EXPECTED_CODES.length}-code inventory verified; ${YEAR8_MATHS_V2_MIGRATED.length} migrated pages satisfy authored depth, preservation/differentiation, locked order, SEO/resources/schema and state alignment.`);
