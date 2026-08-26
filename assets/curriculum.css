@@ -784,3 +784,19 @@
 a[href^="/quiz/year-7/science/"][href*="/worksheet/"] {
   display: none !important;
 }
+
+/* English topic guides are reading-led pages. Keep the authored guide in one
+   focused column while leaving curriculum indexes and other subjects alone. */
+.curriculum-page:has(.topic-action-row a[href*="/english/"]) .curriculum-layout {
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 980px;
+  margin-inline: auto;
+}
+
+.curriculum-page:has(.topic-action-row a[href*="/english/"]) .curriculum-sidebar {
+  display: none;
+}
+
+.curriculum-page:has(.topic-action-row a[href*="/english/"]) .curriculum-content {
+  min-width: 0;
+}

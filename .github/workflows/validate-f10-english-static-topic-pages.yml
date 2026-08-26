@@ -1,0 +1,32 @@
+name: Validate F-10 English static topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'foundation/english/**'
+      - 'year*/english/**'
+      - 'assets/curriculum.css'
+      - 'data/curriculum-units.json'
+      - 'scripts/validate_f10_english_static_topic_pages.mjs'
+      - '.github/workflows/validate-f10-english-static-topic-pages.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'foundation/english/**'
+      - 'year*/english/**'
+      - 'assets/curriculum.css'
+      - 'data/curriculum-units.json'
+      - 'scripts/validate_f10_english_static_topic_pages.mjs'
+      - '.github/workflows/validate-f10-english-static-topic-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate F-10 English static topic pages
+        run: node scripts/validate_f10_english_static_topic_pages.mjs
