@@ -40,7 +40,7 @@ DETAIL_RE = re.compile(
     re.I,
 )
 MAIN_RE = re.compile(
-    r'(?P<open><main class="curriculum-layout">)(?P<body>[\s\S]*?)'
+    r'(?P<open><main class="[^"]*\bcurriculum-layout\b[^"]*">)(?P<body>[\s\S]*?)'
     r'(?P<feedback><!-- skillr-facebook-feedback:start -->)',
     re.I,
 )

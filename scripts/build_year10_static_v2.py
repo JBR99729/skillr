@@ -216,6 +216,8 @@ def enhancement(code: str, item: dict) -> str:
 def upgrade_page(code: str, item: dict) -> None:
     path = ROOT / item["path"] / "index.html"
     text = path.read_text()
+    text = text.replace('/assets/curriculum.css?v=4', '/assets/curriculum.css?v=5')
+    text = text.replace('class="curriculum-layout"', 'class="curriculum-layout curriculum-layout--single"', 1)
     text = strip_block(text, START, END)
     text = strip_block(text, SCHEMA_START, SCHEMA_END)
     canonical = f'https://skillrhub.com/{item["path"]}/'
