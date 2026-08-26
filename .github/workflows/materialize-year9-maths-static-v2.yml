@@ -1,0 +1,55 @@
+name: Materialize Year 9 Maths static v2
+
+on:
+  push:
+    branches:
+      - feat/year9-maths-static-v2
+    paths:
+      - '.github/workflows/materialize-year9-maths-static-v2.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feat/year9-maths-static-v2
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Compile Year 9 Maths authoring scripts
+        run: |
+          python -m py_compile \
+            scripts/year9_maths_v2_profiles_number_algebra.py \
+            scripts/year9_maths_v2_profiles_measurement_space.py \
+            scripts/year9_maths_v2_profiles_statistics_probability.py \
+            scripts/build_year9_maths_static_v2.py
+      - name: Build all 23 Year 9 Maths static v2 pages
+        run: python scripts/build_year9_maths_static_v2.py
+      - name: Guard generated diff
+        run: git diff --check
+      - name: Commit generated Year 9 Maths pages locally
+        shell: bash
+        run: |
+          git add year9/maths
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Materialize Year 9 Maths static v2 pages'
+      - name: Validate Year 9 Maths authored quality
+        run: node scripts/validate_year9_maths_static_v2.mjs
+      - name: Validate static curriculum architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Validate locked F-10 topic learning order
+        run: node scripts/validate_f10_topic_learning_order.mjs --base origin/main
+      - name: Require zero runtime curriculum topics
+        run: node scripts/audit_static_curriculum_site.mjs --fail-on-runtime-topics
+      - name: Push validated materialization
+        run: git push origin HEAD:feat/year9-maths-static-v2
