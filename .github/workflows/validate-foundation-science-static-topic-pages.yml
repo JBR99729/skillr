@@ -1,0 +1,30 @@
+name: Validate Foundation Science static topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'foundation/science/**'
+      - 'quiz/grade-k/science/**'
+      - 'assets/curriculum.css'
+      - 'scripts/validate_foundation_science_static_topic_pages.mjs'
+      - '.github/workflows/validate-foundation-science-static-topic-pages.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'foundation/science/**'
+      - 'quiz/grade-k/science/**'
+      - 'assets/curriculum.css'
+      - 'scripts/validate_foundation_science_static_topic_pages.mjs'
+      - '.github/workflows/validate-foundation-science-static-topic-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Foundation Science static topic pages
+        run: node scripts/validate_foundation_science_static_topic_pages.mjs

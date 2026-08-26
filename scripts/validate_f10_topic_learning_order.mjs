@@ -9,7 +9,7 @@ const EXPECTED_IDS=['learn','prerequisites','teaching','examples','misconception
 const PERMANENTLY_LOCKED_ROOTS=['year10/maths','year10/science','year9/maths','year9/science','year8/maths','year8/science'];
 // Year 7 Maths static topic pages are intentionally maintained under a dedicated
 // static-page validator until the whole root is migrated to the F-10 macro layout.
-const DEDICATED_STATIC_VALIDATOR_ROOTS=['foundation/maths','year1/maths','year1/science','year2/maths','year2/science','year3/maths','year3/science','year4/maths','year4/science','year5/maths','year5/science','year6/maths','year6/science','year7/maths','year7/science'];
+const DEDICATED_STATIC_VALIDATOR_ROOTS=['foundation/maths','foundation/science','year1/maths','year1/science','year2/maths','year2/science','year3/maths','year3/science','year4/maths','year4/science','year5/maths','year5/science','year6/maths','year6/science','year7/maths','year7/science'];
 const TOPIC_RE=/^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/[^/]+\/index\.html$/i;
 const START_TAG_RE=/<(section|details)\b[^>]*>/gi;
 function normalise(p){return p.replaceAll('\\','/').replace(/^\.\//,'');}
