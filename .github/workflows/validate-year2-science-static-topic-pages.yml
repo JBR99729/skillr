@@ -1,0 +1,30 @@
+name: Validate Year 2 Science static topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'year2/science/**'
+      - 'quiz/year-2/science/**'
+      - 'assets/curriculum.css'
+      - 'scripts/validate_year2_science_static_topic_pages.mjs'
+      - '.github/workflows/validate-year2-science-static-topic-pages.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'year2/science/**'
+      - 'quiz/year-2/science/**'
+      - 'assets/curriculum.css'
+      - 'scripts/validate_year2_science_static_topic_pages.mjs'
+      - '.github/workflows/validate-year2-science-static-topic-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Year 2 Science static topic pages
+        run: node scripts/validate_year2_science_static_topic_pages.mjs

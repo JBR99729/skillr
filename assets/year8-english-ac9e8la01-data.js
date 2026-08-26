@@ -52,7 +52,7 @@ masteryItems:[
 {id:"mastery-final",type:"summative",after:"slide-5",prompt:"Choose one language choice from a short text and explain how it shapes a relationship, role or group identity.",expectedAnswer:"A complete answer quotes or names the language choice, identifies the relationship/role/group identity, and explains the effect on the audience.",acceptableRepresentations:["Two-sentence explanation","Annotated text plus oral explanation","Short paragraph with quoted evidence"],evidenceOfMastery:"Student transfers the concept to a new example without relying on the slide wording.",likelyMisconception:"Student describes the topic of the text rather than the social effect of language.",remediation:"Ask for the exact word choice first, then ask who it includes, distances, respects or positions.",decision:{continueWhen:"Student includes evidence plus social effect.",reteachWhen:"Student gives summary without language evidence."}}
 ],
 references:[{title:"Australian Curriculum Version 9.0 - English",url:"https://www.australiancurriculum.edu.au/"}],
-resourceLinks:{topic,slides:"/worksheets/year8/english/teacher-slides/live.html?code=AC9E8LA01",worksheet:"/quiz/year-8/english/ac9e8la01/worksheet/",practice:"/quiz/year-8/english/ac9e8la01/practice/",test:"/quiz/year-8/english/ac9e8la01/test/",hub:"/year8/curriculum/english/"},
+resourceLinks:{topic,slides:"${topic}teacher-slides/",worksheet:"/quiz/year-8/english/ac9e8la01/worksheet/",practice:"/quiz/year-8/english/ac9e8la01/practice/",test:"/quiz/year-8/english/ac9e8la01/test/",hub:"/year8/curriculum/english/"},
 review:{concept:true,elaborations:true,parity:true,visualQA:"manual prototype"}
 };
 })();

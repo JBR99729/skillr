@@ -100,7 +100,7 @@ window.SkillrYear8ScienceData={
     ],
     resourceLinks:{
       topic:"/year8/science/ac9s8u01-cells-as-the-basic-units-of-living-things-compare-plant/",
-      slides:"/worksheets/year8/science/teacher-slides/live.html?code=AC9S8U01",
+      slides:"/year8/science/ac9s8u01-cells-as-the-basic-units-of-living-things-compare-plant/teacher-slides/",
       worksheet:"/quiz/year-8/science/ac9s8u01/worksheet/",
       practice:"/quiz/year-8/science/ac9s8u01/practice/",
       test:"/quiz/year-8/science/ac9s8u01/test/"

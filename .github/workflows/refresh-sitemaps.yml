@@ -10,6 +10,7 @@ on:
     paths:
       - 'scripts/generate_sitemap.py'
       - 'scripts/prepare_google_sitemap.py'
+      - 'scripts/validate_sitemap_index_quality.py'
       - '.github/workflows/refresh-sitemaps.yml'
 
 permissions:
@@ -39,6 +40,9 @@ jobs:
 
       - name: Prepare Google crawl-priority sitemap
         run: python3 scripts/prepare_google_sitemap.py
+
+      - name: Validate sitemap index quality
+        run: python3 scripts/validate_sitemap_index_quality.py
 
       - name: Validate sitemap XML
         run: |

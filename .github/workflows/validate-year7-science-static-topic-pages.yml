@@ -1,0 +1,34 @@
+name: Validate Year 7 Science static topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'year7/science/**'
+      - 'quiz/year-7/science/**'
+      - 'assets/year7-curriculum.css'
+      - 'assets/year7-science-premium.css'
+      - 'assets/illustrations/science/**'
+      - 'scripts/validate_year7_science_static_topic_pages.mjs'
+      - '.github/workflows/validate-year7-science-static-topic-pages.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'year7/science/**'
+      - 'quiz/year-7/science/**'
+      - 'assets/year7-curriculum.css'
+      - 'assets/year7-science-premium.css'
+      - 'assets/illustrations/science/**'
+      - 'scripts/validate_year7_science_static_topic_pages.mjs'
+      - '.github/workflows/validate-year7-science-static-topic-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Year 7 Science static topic pages
+        run: node scripts/validate_year7_science_static_topic_pages.mjs

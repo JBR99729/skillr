@@ -664,7 +664,7 @@
     ],
     resourceLinks: {
       topic: "/foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/",
-      slide: "/worksheets/foundation/english/teacher-slides/live.html?code=AC9EFLA01",
+      slide: "/foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/teacher-slides/",
       worksheet: "/quiz/grade-k/english/ac9efla01/worksheet/",
       practice: "/quiz/grade-k/english/ac9efla01/practice/",
       test: "/quiz/grade-k/english/ac9efla01/test/"

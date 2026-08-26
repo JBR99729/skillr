@@ -2,10 +2,10 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import vm from "node:vm";
 
-const source = fs.readFileSync(
-  new URL("../quiz/assets/script.js", import.meta.url),
-  "utf8"
-);
+const source = [
+  fs.readFileSync(new URL("../quiz/assets/script.js", import.meta.url), "utf8"),
+  fs.readFileSync(new URL("../quiz/assets/script-runtime-v115.js", import.meta.url), "utf8")
+].join("\n");
 const context = vm.createContext({
   Audio: class Audio {
     pause() {}
@@ -15,7 +15,12 @@ const context = vm.createContext({
   },
   console,
   document: {
-    addEventListener() {}
+    addEventListener() {},
+    write() {}
+  },
+  window: {
+    location: { pathname: "/" },
+    quizQuestions: []
   }
 });
 

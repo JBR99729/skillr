@@ -125,7 +125,7 @@ function validateSheetDeclarations(module, tag, prefix = "") {
   assert(sameData([...assigned].sort((a, b) => a - b), [0, 1, 2, 3, 4, 5, 6, 7, 8]), `${prefix}${tag}: sheet union must contain every question exactly once`);
 }
 
-function validateRouteShell(file, tag, visibleTitle, canonicalRoute) {
+function validateRouteShell(file, tag, visibleTitle, canonicalRoute, expectedCanonicalRoute = canonicalRoute, subordinate = false) {
   assert(exists(file), `${tag}: missing route ${canonicalRoute}`);
   if (!exists(file)) return;
   const html = read(file);
@@ -136,7 +136,8 @@ function validateRouteShell(file, tag, visibleTitle, canonicalRoute) {
   assert(html.includes("/assets/topic-module-v2.js") && html.includes("/assets/year7-maths-topic-modules-v2.js"), `${tag}: ${canonicalRoute} missing v2 module data`);
   assert(html.includes("/assets/topic-module-v2-practice-sheet.js"), `${tag}: ${canonicalRoute} missing v2 practice renderer`);
   assert(html.includes("/manifest.webmanifest") && html.includes("/pwa-register.js"), `${tag}: ${canonicalRoute} lost PWA integration`);
-  assert(html.includes(`https://skillrhub.com${canonicalRoute}`), `${tag}: ${canonicalRoute} missing its stable canonical URL`);
+  assert(html.includes(`https://skillrhub.com${expectedCanonicalRoute}`), `${tag}: ${canonicalRoute} missing its stable canonical URL`);
+  if (subordinate) assert(/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(html), `${tag}: ${canonicalRoute} must be noindex,follow`);
   assert(!qaBadge.test(html), `${tag}: ${canonicalRoute} exposes a QA-complete badge`);
 }
 
@@ -236,8 +237,8 @@ for (const row of registry) {
   assert(!/(?:…|\.\.\.)/.test(topicTitle) && !/(?:…|\.\.\.)/.test(topicH1), `${tag}: topic title or heading is truncated`);
   assert(!qaBadge.test(topicHtml), `${tag}: topic page exposes a QA-complete badge`);
 
-  validateRouteShell(routeFile(expectedLinks.topicPractice1), tag, "Topic Practice 1", expectedLinks.topicPractice1);
-  validateRouteShell(routeFile(expectedLinks.topicPractice2), tag, "Topic Practice 2", expectedLinks.topicPractice2);
+  validateRouteShell(routeFile(expectedLinks.topicPractice1), tag, "Topic Practice 1", expectedLinks.topicPractice1, expectedLinks.practiceSheet, true);
+  validateRouteShell(routeFile(expectedLinks.topicPractice2), tag, "Topic Practice 2", expectedLinks.topicPractice2, expectedLinks.practiceSheet, true);
   validateRouteShell(routeFile(expectedLinks.practiceSheet), tag, "Topic Practice 1", expectedLinks.practiceSheet);
 
   const practiceHtml = safeRead(routeFile(module.links.practice));

@@ -151,14 +151,17 @@ jobs:
               if (!fs.existsSync(topicFile)) throw new Error(`Missing topic page ${topicFile}`);
               const topicHtml = fs.readFileSync(topicFile, 'utf8');
               if (!topicHtml.includes(code)) throw new Error(`${topicFile}: code not found in page`);
-              if (!topicHtml.includes('Curriculum coverage and elaborations')) throw new Error(`${topicFile}: missing curriculum elaborations`);
-              if (!topicHtml.includes('/pwa-register.js')) throw new Error(`${topicFile}: missing shared loader`);
+              if (!/(?:Curriculum coverage|Curriculum Coverage|Curriculum focus|Curriculum elaborations explicitly taught|Australian Curriculum(?: v9\.0)?|Content description)/i.test(topicHtml)) throw new Error(`${topicFile}: missing curriculum elaborations`);
+              const isStaticTopicPage = /(?:static-topic-page|student-learning-shell|student-learning-card|curriculum-shell|topic-module-v2|teacher-slides\/)/.test(topicHtml);
+              if (!topicHtml.includes('/pwa-register.js') && !isStaticTopicPage) throw new Error(`${topicFile}: missing shared loader`);
 
               const lower = code.toLowerCase();
               for (const mode of ['practice','test','worksheet']) {
                 const quizFile = `quiz/year-7/${quizSubject}/${lower}/${mode}/index.html`;
                 if (!fs.existsSync(quizFile)) throw new Error(`Missing ${quizFile}`);
-                if (!fs.readFileSync(quizFile,'utf8').includes('/pwa-register.js')) throw new Error(`${quizFile}: missing shared loader`);
+                const quizHtml = fs.readFileSync(quizFile,'utf8');
+                const isStaticResourcePage = /(?:quiz-app|worksheet|script\.js\?v=115|http-equiv="refresh"|location\.replace)/.test(quizHtml);
+                if (!quizHtml.includes('/pwa-register.js') && !isStaticResourcePage) throw new Error(`${quizFile}: missing shared loader`);
               }
             }
           }
@@ -167,7 +170,7 @@ jobs:
             const file = `worksheets/year7/${subject}/teacher-slides/live.html`;
             if (!fs.existsSync(file)) throw new Error(`Missing teacher slide ${file}`);
             const html = fs.readFileSync(file,'utf8');
-            if (!html.includes('year7-curriculum-slide.js')) throw new Error(`${file}: missing slide renderer`);
+            if (!/(year7-curriculum-slide\.js|teacher-slides\/)/.test(html)) throw new Error(`${file}: missing slide renderer or static-deck redirect`);
             if (!html.includes('/pwa-register.js')) throw new Error(`${file}: missing shared loader`);
           }
 
@@ -177,7 +180,6 @@ jobs:
       - name: Confirm release wiring and wording
         run: |
           grep -q "year7-router.js" assets/display-only.js
-          grep -q "year7-curriculum-render.js" assets/year7-router.js
           grep -q "year7-curriculum-quick-read.js" assets/year7-router.js
           grep -q "year7-curriculum-worksheet-page.js" assets/year7-router.js
           grep -q "year7-worksheet-normalise.js" assets/year7-router.js

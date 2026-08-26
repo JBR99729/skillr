@@ -42,12 +42,23 @@ def find_topic(stage, subject, code):
     if not root.exists():
         return None, "subject topic root missing"
     prefix = code.lower()
+
+    def is_redirect_stub(directory):
+        html = read(directory / "index.html").lower()
+        return (
+            'http-equiv="refresh"' in html
+            or "http-equiv='refresh'" in html
+            or 'content="0; url=' in html
+            or "content='0; url=" in html
+        ) and "noindex" in html
+
     matches = [
         directory
         for directory in root.iterdir()
         if directory.is_dir()
         and (directory.name.lower() == prefix or directory.name.lower().startswith(prefix + "-"))
         and (directory / "index.html").exists()
+        and not is_redirect_stub(directory)
     ]
     if len(matches) == 1:
         return matches[0], None

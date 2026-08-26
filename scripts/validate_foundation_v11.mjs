@@ -7,6 +7,8 @@ import { fileURLToPath } from "node:url";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const errors = [];
+// Keep this validator in the Foundation workflow trigger list because the
+// pre-module release gate re-runs the canonical v1.1 rollout checks.
 
 globalThis.window = globalThis;
 globalThis.location = { pathname: "/", search: "" };
@@ -129,16 +131,25 @@ for (const subject of subjects) {
       continue;
     }
     const html = fs.readFileSync(topicPath, "utf8");
-    const requiredFragments = [
-      code,
-      "/assets/foundation-elaboration-map.js",
-      "/assets/foundation-canonical-v1.1.js",
-      "/assets/foundation-v1.1-render.js",
-      `/assets/${subject.renderer}`
-    ];
+    const isStaticTopicGuide = /(?:curriculum-shell|Topic Guide|topic-guide|teacher-slides\/)/.test(html);
+    const requiredFragments = isStaticTopicGuide
+      ? [
+          code,
+          "teacher-slides/"
+        ]
+      : [
+          code,
+          "/assets/foundation-elaboration-map.js",
+          "/assets/foundation-canonical-v1.1.js",
+          "/assets/foundation-v1.1-render.js",
+          `/assets/${subject.renderer}`
+        ];
     requiredFragments.forEach((fragment) => {
       if (!html.includes(fragment)) errors.push(`${code}: topic page missing ${fragment}`);
     });
+    if (isStaticTopicGuide && !/(?:Content description:|Australian Curriculum coverage|curriculum mapping)/i.test(html)) {
+      errors.push(`${code}: topic page missing static curriculum coverage`);
+    }
   }
 
   const livePath = path.join(root, "worksheets", "foundation", subject.pathSegment, "teacher-slides", "live.html");
@@ -146,12 +157,16 @@ for (const subject of subjects) {
     errors.push(`${subject.name}: missing selectable teacher slide page`);
   } else {
     const live = fs.readFileSync(livePath, "utf8");
-    [
-      'data-skillr-teacher-host="true"',
-      "/assets/foundation-elaboration-map.js",
-      "/assets/foundation-canonical-v1.1.js",
-      "/assets/foundation-v1.1-render.js"
-    ].forEach((fragment) => {
+    const isStaticDeckRedirect = /(?:static SkillrHub teacher deck|teacher-slides\/|location\.replace)/.test(live);
+    const requiredFragments = isStaticDeckRedirect
+      ? ["teacher-slides/"]
+      : [
+          'data-skillr-teacher-host="true"',
+          "/assets/foundation-elaboration-map.js",
+          "/assets/foundation-canonical-v1.1.js",
+          "/assets/foundation-v1.1-render.js"
+        ];
+    requiredFragments.forEach((fragment) => {
       if (!live.includes(fragment)) errors.push(`${subject.name} slides: missing ${fragment}`);
     });
   }

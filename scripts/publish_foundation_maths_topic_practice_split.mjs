@@ -102,6 +102,7 @@ function buildChildPage(parentHtml, code, spec, sheetNumber) {
     ? "3 Warm-Up • 2 Core"
     : "2 Core • 2 Challenge";
   const route = `/quiz/grade-k/math/${codeLower}/worksheet/topic-practice-${sheetNumber}/`;
+  const canonicalRoute = `/quiz/grade-k/math/${codeLower}/worksheet/`;
   const topicUrl = spec.resourceLinks?.topic || `/foundation/maths/${spec.slug}/`;
   const title = `${code} ${spec.title} — ${sheetLabel} | SkillrHub`;
   const description = `${code} ${spec.title} ${sheetLabel}: ${questionCount} Foundation Maths questions from the aligned 9-question topic set, with a matching answer key.`;
@@ -110,10 +111,11 @@ function buildChildPage(parentHtml, code, spec, sheetNumber) {
   let html = addPublicBrandLogo(updateSharedAssets(parentHtml));
   html = replaceRequired(html, /<title>[\s\S]*?<\/title>/, `<title>${escapeHtml(title)}</title>`, "document title");
   html = replaceRequired(html, /<meta name="description" content="[^"]*">/, `<meta name="description" content="${escapeHtml(description)}">`, "meta description");
+  html = replaceRequired(html, /<meta name="robots" content="[^"]*">/, '<meta name="robots" content="noindex,follow">', "robots directive");
   html = replaceRequired(
     html,
     /<link rel="canonical" id="worksheetCanonical" href="[^"]*">/,
-    `<link rel="canonical" id="worksheetCanonical" href="${siteOrigin}${route}">`,
+    `<link rel="canonical" id="worksheetCanonical" href="${siteOrigin}${canonicalRoute}">`,
     "canonical link"
   );
   html = replaceRequired(
