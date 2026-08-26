@@ -27,6 +27,7 @@ const EXPECTED_IDS = [
 const PERMANENTLY_LOCKED_ROOTS = [
   'year10/maths',
   'year10/science',
+  'year9/maths',
 ];
 
 const TOPIC_RE = /^(foundation|year(?:[1-9]|10))\/(maths|science|english)\/[^/]+\/index\.html$/i;

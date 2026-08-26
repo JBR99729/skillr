@@ -193,9 +193,9 @@ def page_for(unit: dict[str, str]) -> str:
     test = href_for(legacy, "test") or f'/quiz/year-9/math/{code.lower()}/test/'
 
     title = f'{profile["title"]} | {code} Year 9 Maths'
-    description = f'{code} Year 9 Maths: {profile["summary"]} Includes worked examples, guided practice, assessment and Australian curriculum mapping.'
-    if len(description) > 270:
-        description = description[:267].rstrip() + '...'
+    description = f'{code} Year 9 Maths: {profile["title"]}. Worked examples, misconceptions, practice, assessment and Australian/VIC/NSW curriculum mapping.'
+    if len(description) > 170:
+        description = description[:166].rsplit(' ', 1)[0] + '…'
 
     alignments = [
         {"@type":"AlignmentObject","alignmentType":"teaches","educationalFramework":"Australian Curriculum v9.0","targetName":f'{code} — {unit["descriptor"]}',"targetUrl":ACARA},
