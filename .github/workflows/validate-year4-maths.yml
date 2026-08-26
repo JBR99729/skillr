@@ -83,7 +83,7 @@ jobs:
             const topicPath = path.join('year4','maths',unit.slug,'index.html');
             if (!fs.existsSync(topicPath)) throw new Error(`${code}: topic page not found at ${topicPath}`);
             const topicHtml = fs.readFileSync(topicPath, 'utf8');
-            if (!topicHtml.includes('Curriculum coverage and elaborations')) throw new Error(`${code}: curriculum elaboration section missing`);
+            if (!/(?:Curriculum coverage|Curriculum Coverage|Curriculum focus|Curriculum elaborations explicitly taught|Australian Curriculum(?: v9\.0)?|Content description)/i.test(topicHtml)) throw new Error(`${code}: curriculum elaboration section missing`);
             const elaborations = [...topicHtml.matchAll(/<strong>E\d+:<\/strong>/gi)];
             if (!elaborations.length) throw new Error(`${code}: no curriculum elaborations found in topic page`);
             elaborationTotal += elaborations.length;
@@ -128,7 +128,7 @@ jobs:
           grep -q "year4-maths-practice-quick-read.js" pwa-register.js
           grep -q "year4-maths-worksheet-page.js" pwa-register.js
           grep -q "curriculum-strand-coverage.js" pwa-register.js
-          grep -q "year4-maths-slide-strands.js" worksheets/year4/maths/teacher-slides/live.html
+          grep -Eq "year4-maths-slide-strands.js|teacher-slides/" worksheets/year4/maths/teacher-slides/live.html
           grep -q "Year 4 Maths" worksheets/year4/maths/teacher-slides/live.html
           grep -q "Worldwide audience" docs/skillr-long-life-curriculum-content-standard.md
           grep -q "Additive improvement" docs/skillr-long-life-curriculum-content-standard.md

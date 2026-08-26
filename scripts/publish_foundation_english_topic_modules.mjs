@@ -78,6 +78,7 @@ function installTopicOverlays(file) {
 
 function updatedHead(parentHtml, code, unit, route, sheetNumber = null) {
   const sheetTitle = sheetNumber ? `Topic Practice ${sheetNumber}` : "Topic Practice Sheets";
+  const canonicalRoute = sheetNumber ? route.replace(/topic-practice-[12]\/$/, "") : route;
   const title = `${code} ${unit.title} — ${sheetTitle} | SkillrHub`;
   const description = sheetNumber
     ? `${code} ${unit.title} Topic Practice ${sheetNumber}, one of two aligned printable Foundation English sheets with its own answer key.`
@@ -85,10 +86,13 @@ function updatedHead(parentHtml, code, unit, route, sheetNumber = null) {
   let html = parentHtml;
   html = replaceRequired(html, /<title>[\s\S]*?<\/title>/, `<title>${escapeHtml(title)}</title>`, `${code}: title`);
   html = replaceRequired(html, /<meta name="description" content="[^"]*">/, `<meta name="description" content="${escapeHtml(description)}">`, `${code}: description`);
+  if (sheetNumber) {
+    html = replaceRequired(html, /<meta name="robots" content="[^"]*">/, '<meta name="robots" content="noindex,follow">', `${code}: robots`);
+  }
   html = replaceRequired(
     html,
     /<link rel="canonical"(?: id="worksheetCanonical")? href="[^"]*">/,
-    `<link rel="canonical" id="worksheetCanonical" href="${siteOrigin}${route}">`,
+    `<link rel="canonical" id="worksheetCanonical" href="${siteOrigin}${canonicalRoute}">`,
     `${code}: canonical`
   );
   html = html.replace(/<link rel="stylesheet" href="\/quiz\/assets\/foundation-authored-worksheet\.css[^>]*>\s*/g, "");

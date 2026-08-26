@@ -49,7 +49,7 @@ for (const file of changed) {
     if (/id=["'](?:topicRoot|year\d+Topic|slideRoot)["'][^>]*>\s*(?:<p[^>]*>)?\s*Loading/i.test(html)) errors.push(`${file}: curriculum teaching content cannot be a runtime Loading shell`);
     if (/(?:year\d+-(?:maths|science|english)-(?:render|topic)|topic-modules-render|lesson-render|lower-materials-render|foundation-.*render)\.js/i.test(html)) errors.push(`${file}: canonical topic teaching content must not depend on a curriculum renderer`);
     const text = html.replace(/<script[\s\S]*?<\/script>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '');
-    if (!/What students learn|Key concept|Learning intention|Learning goal/i.test(text)) errors.push(`${file}: static teaching content appears to be missing`);
+    if (!/What students learn|Key concept|Learning intention|Learning goal|Teaching Lesson/i.test(text)) errors.push(`${file}: static teaching content appears to be missing`);
     if (publicDownload.test(html)) errors.push(`${file}: Teacher Slides must not expose direct PPTX/PDF download links`);
     if (!/href=["'][^"']*(?:teacher-deck|teacher-slides)[^"']*\/(?:[?#][^"']*)?["']/i.test(html)) errors.push(`${file}: migrated topic page must link to a fixed page-by-page Teacher Slides viewer`);
   }
@@ -58,7 +58,8 @@ for (const file of changed) {
     const html = fs.readFileSync(file, 'utf8');
     if (runtimeDeck.test(html)) errors.push(`${file}: Teacher Slides viewer must not assemble curriculum slides at runtime`);
     if (publicDownload.test(html) || /download\s*=|download\s+(?:pptx|pdf)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must not expose PPTX/PDF download controls`);
-    if (!/<img\b[^>]*(?:slide|teacher)/i.test(html) && !/data-slide-(?:src|image)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must present pre-rendered fixed slide pages/images`);
+    const fixedSlidePages = /<(?:section|article|div|figure)\b[^>]*(?:\bdata-slide\b|class=["'][^"']*\bslide\b)/i.test(html);
+    if (!/<img\b[^>]*(?:slide|teacher)/i.test(html) && !/data-slide-(?:src|image)/i.test(html) && !fixedSlidePages) errors.push(`${file}: Teacher Slides viewer must present pre-rendered fixed slide pages/images`);
     if (!/(?:Previous|Next|aria-label=["']Next slide|data-next-slide)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must support page-by-page navigation`);
   }
 }

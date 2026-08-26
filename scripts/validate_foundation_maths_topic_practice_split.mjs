@@ -186,16 +186,16 @@ for (const code of expectedCodes) {
 
     const canonicalTag = html.match(/<link\b(?=[^>]*\brel=["']canonical["'])[^>]*>/i)?.[0] || "";
     const canonicalHref = canonicalTag.match(/\bhref=["']([^"']*)["']/i)?.[1] ?? null;
-    const expectedCanonical = `https://skillrhub.com${route}`;
-    const runtimePathCanonical = canonicalHref === "" && /worksheetCanonical[\s\S]{0,300}window\.location\.origin\s*\+\s*window\.location\.pathname/.test(html);
+    const expectedCanonical = `https://skillrhub.com${parentRoute}`;
     check(Boolean(canonicalTag), `${code} sheet ${sheetNumber}: canonical link element is missing`);
+    check(/<meta\b[^>]*\bname=["']robots["'][^>]*\bcontent=["']noindex,\s*follow["']/i.test(html), `${code} sheet ${sheetNumber}: subordinate route must be noindex,follow`);
     check(
-      canonicalHref === expectedCanonical || runtimePathCanonical,
+      canonicalHref === expectedCanonical,
       `${code} sheet ${sheetNumber}: canonical must resolve to ${expectedCanonical}; found ${canonicalHref ?? "none"}`
     );
-    if (canonicalHref === expectedCanonical || runtimePathCanonical) routeCanonicals.add(expectedCanonical);
+    if (canonicalHref === expectedCanonical) routeCanonicals.add(expectedCanonical);
   }
-  check(routeCanonicals.size === 2, `${code}: Topic Practice child canonicals are not distinct and route-correct`);
+  check(routeCanonicals.size === 1, `${code}: Topic Practice children must consolidate to the parent worksheet canonical`);
 }
 
 const renderer = read(rendererPath);

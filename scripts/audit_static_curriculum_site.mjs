@@ -122,4 +122,10 @@ console.log(`Direct teacher file links: ${totals.directTeacherDownloads}`);
 console.log(`Total violations: ${violations.length}`);
 for (const [type, count] of Object.entries(byType)) console.log(`- ${type}: ${count}`);
 
+if (process.argv.includes('--fail-on-runtime-topics') && totals.runtimeTopicPages) {
+  console.error(`\nSTATIC TOPIC CONTENT RELEASE BLOCKER: ${totals.runtimeTopicPages} canonical topic page(s) still depend on runtime curriculum rendering.`);
+  console.error('Core lesson content must be present in static HTML. CSS handles presentation; JavaScript may enhance the page but must not supply the curriculum lesson.');
+  process.exit(1);
+}
+
 if (process.argv.includes('--fail-on-violations') && violations.length) process.exit(1);

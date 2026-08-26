@@ -298,7 +298,8 @@
         ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
         ["Worksheets", "/worksheets/"], ["About", "/about.html"],
         ["Features", "/why-skillrhub.html"], ["Contact", "/contact.html"],
-        ["💬 Request a Feature / Feedback", "/contact.html"], ["Privacy", "/privacy-policy.html"]
+        ["💬 Request a Feature / Feedback", "/contact.html"], ["Support SkillrHub", "/support-skillrhub.html"],
+        ["Privacy", "/privacy-policy.html"]
       ].map(([label, href]) => {
         const link = document.createElement("a");
         link.textContent = label;

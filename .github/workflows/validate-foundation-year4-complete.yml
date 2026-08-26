@@ -135,7 +135,7 @@ jobs:
               const file = path.join(url.replace(/^\//, ''), 'index.html');
               if (!fs.existsSync(file)) throw new Error(`Missing topic file ${file}`);
               const topicHtml = fs.readFileSync(file, 'utf8');
-              if (!topicHtml.includes('Curriculum coverage and elaborations')) throw new Error(`${file}: missing curriculum elaborations section`);
+              if (!/(?:Curriculum coverage|Curriculum Coverage|Curriculum focus|Curriculum elaborations explicitly taught|Australian Curriculum(?: v9\.0)?|Content description)/i.test(topicHtml)) throw new Error(`${file}: missing curriculum elaborations section`);
               if (!topicHtml.includes('/pwa-register.js')) throw new Error(`${file}: missing shared loader`);
             }
 

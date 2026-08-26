@@ -1,0 +1,30 @@
+name: Validate Year 5 Maths static topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'year5/maths/**'
+      - 'quiz/year-5/math/**'
+      - 'assets/year5-curriculum.css'
+      - 'scripts/validate_year5_maths_static_topic_pages.mjs'
+      - '.github/workflows/validate-year5-maths-static-topic-pages.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'year5/maths/**'
+      - 'quiz/year-5/math/**'
+      - 'assets/year5-curriculum.css'
+      - 'scripts/validate_year5_maths_static_topic_pages.mjs'
+      - '.github/workflows/validate-year5-maths-static-topic-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Year 5 Maths static topic pages
+        run: node scripts/validate_year5_maths_static_topic_pages.mjs

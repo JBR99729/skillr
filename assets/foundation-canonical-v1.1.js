@@ -404,7 +404,7 @@
       references: [{ title: "Australian Curriculum Version 9.0", url: "https://www.australiancurriculum.edu.au/" }],
       resourceLinks: {
         topic: `/foundation/${config.pathSegment || subject.toLowerCase()}/${unit.slug}/`,
-        slide: `/worksheets/foundation/${config.pathSegment || subject.toLowerCase()}/teacher-slides/live.html?code=${code}`,
+        slide: `/foundation/${config.pathSegment || subject.toLowerCase()}/${unit.slug}/teacher-slides/`,
         worksheet: `/quiz/grade-k/${config.quizSubject || subject.toLowerCase()}/${code.toLowerCase()}/worksheet/`,
         practice: `/quiz/grade-k/${config.quizSubject || subject.toLowerCase()}/${code.toLowerCase()}/practice/`,
         test: `/quiz/grade-k/${config.quizSubject || subject.toLowerCase()}/${code.toLowerCase()}/test/`

@@ -18,6 +18,17 @@ const proseFor = (notes) => [
   ...(notes.key_rules || []),
   notes.memory_clue
 ].join(" ");
+const parseConfigLiteral = (source, label) => {
+  try {
+    return JSON.parse(source);
+  } catch {
+    return vm.runInNewContext(`(${source})`, {}, {
+      timeout: 1000,
+      displayErrors: false,
+      filename: `${label}-quiz-config.js`
+    });
+  }
+};
 
 const noteContext = vm.createContext({ window: {} });
 new vm.Script(read("quiz/assets/year3-maths-pre-module-notes.js"), {
@@ -105,7 +116,7 @@ for (const code of codes) {
     const configMatch = html.match(/window\.quizConfig=(\{.*?\});<\/script>/s);
     assert(configMatch, `${code} ${mode}: quiz config missing`);
     if (!configMatch) continue;
-    const config = JSON.parse(configMatch[1]);
+    const config = parseConfigLiteral(configMatch[1], `${code}-${mode}`);
     const isPractice = mode === "practice";
     const expectedQuestionCount = isPractice ? 8 : 12;
     assert(config.skillCode === code, `${code} ${mode}: skill code mismatch`);
@@ -150,7 +161,10 @@ for (const role of requiredSlideRoles) {
 assert(slideRenderer.includes("worked_examples[0]"), "Final Teacher Slide renderer must expose the cited first worked example");
 assert(!slideRenderer.includes("worked_examples[1]"), "Year 3 source contract changed: review application-model provenance before release");
 
-const engine = read("quiz/assets/script.js");
+const engine = [
+  read("quiz/assets/script.js"),
+  read("quiz/assets/script-runtime-v115.js")
+].join("\n");
 for (const marker of ["buildPreModuleScreen", "showPreModuleScreen", "preModuleContinueButton", "getPreModuleSpeechText()", "Continue to Practice", "Continue to Test"]) {
   assert(engine.includes(marker), `Shared pre-module renderer missing ${marker}`);
 }

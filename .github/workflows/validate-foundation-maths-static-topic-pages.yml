@@ -1,0 +1,30 @@
+name: Validate Foundation Maths static topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'foundation/maths/**'
+      - 'quiz/grade-k/math/**'
+      - 'assets/curriculum.css'
+      - 'scripts/validate_foundation_maths_static_topic_pages.mjs'
+      - '.github/workflows/validate-foundation-maths-static-topic-pages.yml'
+  push:
+    branches: [ main ]
+    paths:
+      - 'foundation/maths/**'
+      - 'quiz/grade-k/math/**'
+      - 'assets/curriculum.css'
+      - 'scripts/validate_foundation_maths_static_topic_pages.mjs'
+      - '.github/workflows/validate-foundation-maths-static-topic-pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Foundation Maths static topic pages
+        run: node scripts/validate_foundation_maths_static_topic_pages.mjs

@@ -73,12 +73,24 @@ function routeFor(routePrefix, code, mode) {
   return `${routePrefix}/${code.toLowerCase()}/${mode}/`;
 }
 
+function parseConfigLiteral(source, label) {
+  try {
+    return JSON.parse(source);
+  } catch {
+    return vm.runInNewContext(`(${source})`, {}, {
+      timeout: 1000,
+      displayErrors: false,
+      filename: `${label}-quiz-config.js`
+    });
+  }
+}
+
 async function getRouteQuestionCycleKey(routePrefix, code, mode) {
   const route = routeFor(routePrefix, code, mode);
   const html = await readFile(path.join(root, normalisePublicPath(`${route}index.html`)), "utf8");
   const configMatch = html.match(/window\.quizConfig\s*=\s*(\{.*?\});<\/script>/s);
   assert(configMatch, `${code} ${mode}: quiz config is missing from the launch route`);
-  const config = JSON.parse(configMatch[1]);
+  const config = parseConfigLiteral(configMatch[1], `${code}-${mode}`);
   assert.equal(config.questionCycle, true, `${code} ${mode}: question-cycle behaviour changed`);
   const storageKey = config.questionCycleStorageKey || config.storageKey;
   assert.equal(typeof storageKey, "string", `${code} ${mode}: question-cycle storage key is missing`);

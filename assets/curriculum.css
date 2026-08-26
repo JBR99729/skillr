@@ -16,6 +16,13 @@
   --skillr-gold: #9a6700;
 }
 
+.foundation-maths-topic .curriculum-layout{grid-template-columns:minmax(0,1fr);max-width:980px;margin-inline:auto}.foundation-maths-topic .curriculum-sidebar{display:none}.foundation-maths-topic .curriculum-content{min-width:0}
+.foundation-science-topic .curriculum-layout{grid-template-columns:minmax(0,1fr);max-width:980px;margin-inline:auto}.foundation-science-topic .curriculum-sidebar{display:none}.foundation-science-topic .curriculum-content{min-width:0}
+
+.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/maths/"]) .curriculum-layout,.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/science/"]) .curriculum-layout{grid-template-columns:minmax(0,1fr);max-width:980px;margin-inline:auto}.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/maths/"]) .curriculum-sidebar,.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/science/"]) .curriculum-sidebar{display:none}.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/maths/"]) .curriculum-content,.curriculum-page:has(.breadcrumb a[href="/year1/curriculum/science/"]) .curriculum-content{min-width:0}
+
+.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/maths/"]) .curriculum-layout,.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/science/"]) .curriculum-layout{grid-template-columns:minmax(0,1fr);max-width:980px;margin-inline:auto}.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/maths/"]) .curriculum-sidebar,.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/science/"]) .curriculum-sidebar{display:none}.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/maths/"]) .curriculum-content,.curriculum-page:has(.breadcrumb a[href="/year2/curriculum/science/"]) .curriculum-content{min-width:0}
+
 .curriculum-shell {
   background:
     radial-gradient(circle at top left, rgba(36, 87, 214, 0.08), transparent 32rem),
@@ -169,6 +176,29 @@
   grid-template-columns: minmax(0, 1fr) minmax(240px, 300px);
   gap: 22px;
   align-items: start;
+}
+
+/* Years 9–10 topic guides use one calm reading column. Some older guides
+   omitted the sidebar while retaining the two-column shell, leaving a large
+   blank rail; others squeezed long lesson content beside a utility panel. */
+.curriculum-layout--single {
+  grid-template-columns: minmax(0, 1fr);
+  width: 100%;
+  max-width: 980px;
+  margin-inline: auto;
+}
+
+.curriculum-layout--single > *,
+.curriculum-layout--single .curriculum-detail-body {
+  min-width: 0;
+}
+
+.curriculum-layout--single .curriculum-sidebar {
+  position: static;
+}
+
+.curriculum-layout--single .curriculum-sidebar .curriculum-panel {
+  margin-top: 12px;
 }
 
 .curriculum-sidebar {
@@ -753,4 +783,20 @@
    Legacy Worksheet URLs remain as redirects for old links/bookmarks. */
 a[href^="/quiz/year-7/science/"][href*="/worksheet/"] {
   display: none !important;
+}
+
+/* English topic guides are reading-led pages. Keep the authored guide in one
+   focused column while leaving curriculum indexes and other subjects alone. */
+.curriculum-page:has(.topic-action-row a[href*="/english/"]) .curriculum-layout {
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 980px;
+  margin-inline: auto;
+}
+
+.curriculum-page:has(.topic-action-row a[href*="/english/"]) .curriculum-sidebar {
+  display: none;
+}
+
+.curriculum-page:has(.topic-action-row a[href*="/english/"]) .curriculum-content {
+  min-width: 0;
 }
