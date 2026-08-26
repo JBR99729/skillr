@@ -1,10 +1,6 @@
 name: Fix AC9M3M03 slide visuals
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - '.github/workflows/fix-ac9m3m03-slide-visuals.yml'
   workflow_dispatch:
 
 permissions:

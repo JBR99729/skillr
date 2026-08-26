@@ -1,9 +1,7 @@
 name: Hotfix GA4 learning events
 
 on:
-  push:
-    paths:
-      - '.github/workflows/hotfix-ga4-learning-events.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
