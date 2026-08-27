@@ -22,7 +22,7 @@ ADS_META = f'<meta name="google-adsense-account" content="{ADSENSE_CLIENT}">\n'
 
 REQUIRED_ALIASES = {
     "foundation/Maths/foundation-days-of-the-week-and-daily-routines.html":
-        "/foundation/maths/foundation-days-of-the-week-and-daily-routines.html",
+        "/foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/",
     "foundation/Maths/foundation-data-collection-sorting-and-comparing-activities.html":
         "/foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/",
     "quiz/grade-k/math/AC9MFN01/index.html":
