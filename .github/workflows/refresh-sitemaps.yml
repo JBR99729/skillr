@@ -1,6 +1,6 @@
 name: Refresh sitemaps
 
-# Manual rebuild marker: 2026-08-22 articles
+# Manual rebuild marker: 2026-08-27 SEO recovery and AC9MFM02 alias
 on:
   workflow_dispatch:
   schedule:
