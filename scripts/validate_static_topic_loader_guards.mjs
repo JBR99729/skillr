@@ -18,7 +18,7 @@ if (!/pwa-register-legacy\.js/.test(pwa)) {
 if (!/blockedCurriculumAsset/.test(pwa) || !/curriculum-visual-layer/.test(pwa) || !/year\(\?:\[1-9\]\|10\)-/.test(pwa)) {
   errors.push(`${pwaPath}: canonical topic pages are not protected from dynamic curriculum asset loading`);
 }
-if (!/normaliseTeacherSlideLinks/.test(pwa) || !/teacher-slides\\\/$/.test(pwa) || !/index\.html/.test(pwa)) {
+if (!pwa.includes('normaliseTeacherSlideLinks') || !pwa.includes('teacher-slides') || !pwa.includes('target.pathname += "index.html"')) {
   errors.push(`${pwaPath}: canonical topic Teacher Slides links must resolve to the concrete static index.html viewer file`);
 }
 
