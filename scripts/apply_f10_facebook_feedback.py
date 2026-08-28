@@ -30,6 +30,7 @@ FACEBOOK_POST_HREF = FACEBOOK_POST_URL.replace("&", "&amp;")
 
 START_MARKER = "<!-- skillr-facebook-feedback:start -->"
 END_MARKER = "<!-- skillr-facebook-feedback:end -->"
+CURRICULUM_EQUIVALENTS_END_MARKER = "<!-- skillr-curriculum-equivalents:end -->"
 
 # Find/validate a generated block wherever it sits in the HTML. Some legacy topic
 # layouts place the marker inline rather than at the start of a line.
@@ -139,6 +140,13 @@ def feedback_card(code: str, title: str) -> str:
 
 
 def insertion_index(source: str) -> int:
+    # Curriculum equivalences are generated supplementary references after the
+    # core lesson flow. Keep the feedback card after that block so both
+    # generators are idempotent and neither interrupts the locked 16 sections.
+    curriculum_equivalents_end = source.find(CURRICULUM_EQUIVALENTS_END_MARKER)
+    if curriculum_equivalents_end >= 0:
+        return curriculum_equivalents_end + len(CURRICULUM_EQUIVALENTS_END_MARKER)
+
     related = RELATED_HEADING_RE.search(source)
     if related:
         heading_index = related.start()
