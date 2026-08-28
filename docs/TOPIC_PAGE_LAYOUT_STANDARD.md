@@ -82,6 +82,7 @@ The existing F–10 action-layout contract remains separate and complementary: L
 - Year 10 Mathematics is fully migrated and is validated on every CI run.
 - Any **new or edited** canonical F–10 Mathematics, Science or English topic page must satisfy this layout before merge.
 - Legacy F–9 pages that have not yet been migrated are not bulk-rewritten merely to satisfy the lock. When one is next edited, migration to this standard is part of that change.
+- A deterministic, marker-delimited supplementary curriculum-equivalence block may be added after the core teaching flow without triggering an unrelated legacy-page migration, provided stripping that generated block leaves the topic byte-for-byte unchanged. Permanently locked roots remain fully validated.
 - Once an entire year/subject root is migrated, add it to the permanently locked roots in `scripts/validate_f10_topic_learning_order.mjs` so every page in that root is checked even when untouched.
 
 This contract is a release guardrail. Content can improve continuously; the learning sequence must not drift.

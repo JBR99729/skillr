@@ -9,3 +9,6 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# Generated on demand by scripts/build_curriculum_equivalents.mjs
+data/curriculum-equivalents.json
