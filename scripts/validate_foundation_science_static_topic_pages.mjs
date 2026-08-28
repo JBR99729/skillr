@@ -11,6 +11,13 @@ const routeFile = href => {
   return route.endsWith('/') ? `${route}index.html` : route;
 };
 const hrefs = html => [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["']/gi)].map(match => match[1]);
+const teacherDisplayPage = html => /Teacher Display Page/i.test(html)
+  && /data-single-open/i.test(html)
+  && /<details\b/i.test(html)
+  && /<summary\b/i.test(html)
+  && /Clean visual examples/i.test(html)
+  && /<svg\b/i.test(html)
+  && /skillrhublearning@gmail\.com/i.test(html);
 
 const units = JSON.parse(read('data/curriculum-units.json')).units
   .filter(unit => unit.yearNumber === 0 && unit.subjectSlug === 'science')
@@ -56,7 +63,8 @@ for (const unit of units) {
     if (!/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must be noindex,follow`);
     if (!viewer.includes(`<link rel="canonical" href="${expectedCanonical}">`)) failures.push(`${code}: teacher-slides viewer must canonicalise to parent topic URL`);
     if (/http-equiv=["']refresh["']|location\.replace\(/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must not be a redirect`);
-    if (!(/<img\b[^>]+slide-/i.test(viewer) || /\bdata-slide\b/i.test(viewer)) || !/(?:Previous|data-prev|data-slide-previous|id=["']prev["'])/i.test(viewer) || !/(?:Next|data-next|data-slide-next|id=["']next["'])/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must expose fixed slide pages and navigation`);
+    const displayPage = teacherDisplayPage(viewer);
+    if (!displayPage && (!(/<img\b[^>]+slide-/i.test(viewer) || /\bdata-slide\b/i.test(viewer)) || !/(?:Previous|data-prev|data-slide-previous|id=["']prev["'])/i.test(viewer) || !/(?:Next|data-next|data-slide-next|id=["']next["'])/i.test(viewer))) failures.push(`${code}: teacher resource must expose fixed slide pages/navigation or a static Teacher Display Page`);
     if (/href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must not expose PPTX/PDF downloads`);
   }
 }
