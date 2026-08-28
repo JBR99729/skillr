@@ -21,7 +21,7 @@ if (order.length !== 24) throw new Error(`Expected 24 Year 6 Maths units, found 
 
 const esc = (value) => String(value ?? "").replace(/[&<>\"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[char]));
 const lower = (code) => code.toLowerCase();
-const viewerUrl = (code) => `/worksheets/year6/maths/teacher-slides/viewer/?code=${encodeURIComponent(code)}`;
+const viewerUrl = (code) => `/year6/maths/${units[code].slug}/teacher-slides/`;
 const quizUrl = (code, mode) => `/quiz/year-6/math/${lower(code)}/${mode}/`;
 const pageUrl = (unit) => `/year6/maths/${unit.slug}/`;
 const list = (items, className = "") => `<ul${className ? ` class="${className}"` : ""}>${items.map((item) => `<li>${esc(item)}</li>`).join("")}</ul>`;
@@ -268,7 +268,12 @@ fs.writeFileSync(viewerPath, viewer);
 
 const hubPath = path.join(root, "year6/curriculum/maths/index.html");
 let hub = fs.readFileSync(hubPath, "utf8");
-hub = hub.replace(/href=(["'])\/worksheets\/year6\/maths\/teacher-slides\/(ac9m6[a-z0-9]+)-teacher-slide\.pdf\1/gi, (_match, quote, code) => `href=${quote}/worksheets/year6/maths/teacher-slides/viewer/?code=${code.toUpperCase()}${quote}`);
+for (const code of order) {
+  const localViewer = `/year6/maths/${units[code].slug}/teacher-slides/`;
+  const legacyPdf = `/worksheets/year6/maths/teacher-slides/${code.toLowerCase()}-teacher-slide.pdf`;
+  const legacyViewer = `/worksheets/year6/maths/teacher-slides/viewer/?code=${code}`;
+  hub = hub.replaceAll(legacyPdf, localViewer).replaceAll(legacyViewer, localViewer);
+}
 hub = hub.replace(/Open teacher slide \(PDF\)/gi, "Open Teacher Slides").replace(/Teacher slide PDF/gi, "Teacher Slides");
 fs.writeFileSync(hubPath, hub);
 
