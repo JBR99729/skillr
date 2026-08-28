@@ -10,6 +10,8 @@ on:
       - "pwa-register.js"
       - "worksheets/year3/science/teacher-slides/live.html"
       - "worksheets/year3/english/teacher-slides/live.html"
+      - "year3/curriculum/science/index.html"
+      - "year3/science/**/teacher-slides/index.html"
       - ".github/workflows/validate-year3-science-english.yml"
   workflow_dispatch:
 
@@ -89,5 +91,6 @@ jobs:
           grep -q "year3-subject-render.js" pwa-register.js
           grep -q "year3-subject-quick-read.js" pwa-register.js
           grep -q "year3-subject-worksheet-page.js" pwa-register.js
-          grep -q "year3-subject-slide.js" worksheets/year3/science/teacher-slides/live.html
+          grep -q "location.replace(target)" worksheets/year3/science/teacher-slides/live.html
+          grep -q "/year3/science/" worksheets/year3/science/teacher-slides/live.html
           grep -q "year3-subject-slide.js" worksheets/year3/english/teacher-slides/live.html
