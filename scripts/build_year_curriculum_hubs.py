@@ -99,10 +99,33 @@ def nav(label: str, year_folder: str, current: str, subject: str | None = None) 
 <nav class="breadcrumb" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="{year_url}">{esc(label)}</a></li>{curriculum_crumb}{subject_crumb}</ol></nav>'''
 
 
+def teacher_slide_url(unit: dict) -> str:
+    """Return the live slide route that actually exists for this topic.
+
+    Static HTML decks take precedence. Embedded decks are used only when the
+    topic page contains the matching anchor. This prevents stale manifest URLs
+    from generating curriculum-card links to missing fragments.
+    """
+    topic_url = str(unit["url"]).rstrip("/") + "/"
+    topic_dir = ROOT / topic_url.lstrip("/")
+    static_deck = topic_dir / "teacher-slides" / "index.html"
+    topic_page = topic_dir / "index.html"
+
+    if static_deck.exists():
+        return topic_url + "teacher-slides/"
+
+    if topic_page.exists():
+        topic_html = topic_page.read_text(encoding="utf-8", errors="ignore")
+        if 'id="teacher-slide"' in topic_html or "id='teacher-slide'" in topic_html:
+            return topic_url + "#teacher-slide"
+
+    return str(unit["teacherSlideUrl"])
+
+
 def action_links(unit: dict) -> str:
     return f'''<div class="unit-action-row">
   <a class="primary" href="{esc(unit['url'])}">Topic guide</a>
-  <a href="{esc(unit['teacherSlideUrl'])}" target="_blank" rel="noopener">Teacher slide</a>
+  <a href="{esc(teacher_slide_url(unit))}" target="_blank" rel="noopener">Teacher slide</a>
   <a href="{esc(unit['worksheetUrl'])}">Worksheet</a>
   <a href="{esc(unit['practiceUrl'])}">Practice</a>
   <a href="{esc(unit['testUrl'])}">Test</a>
