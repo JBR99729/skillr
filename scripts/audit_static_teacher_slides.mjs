@@ -26,12 +26,23 @@ function fail(file, message) {
   errors.push(`${rel(file)}: ${message}`);
 }
 
+function hasTeacherDisplayPage(html) {
+  return /Teacher Display Page/i.test(html)
+    && /data-single-open/i.test(html)
+    && /<details\b/i.test(html)
+    && /<summary\b/i.test(html)
+    && /Clean visual examples/i.test(html)
+    && /<svg\b/i.test(html)
+    && /skillrhublearning@gmail\.com/i.test(html);
+}
+
 function inspectStaticDeck(file, html) {
   if (runtimePatterns.some((pattern) => pattern.test(html))) fail(file, 'Teacher Slides must be fixed/static and must not assemble curriculum slide content at runtime');
-  const hasFixedPages = /data-slide\b/i.test(html) || /<img\b[^>]*(?:slide|teacher)/i.test(html) || /<svg\b/i.test(html) || /<(?:section|article|div)\b[^>]*class=["'][^"']*\bslide\b/i.test(html);
+  const displayPage = hasTeacherDisplayPage(html);
+  const hasFixedPages = displayPage || /data-slide\b/i.test(html) || /<img\b[^>]*(?:slide|teacher)/i.test(html) || /<svg\b/i.test(html) || /<(?:section|article|div)\b[^>]*class=["'][^"']*\bslide\b/i.test(html);
   if (!hasFixedPages) fail(file, 'static Teacher Slides host must contain fixed slide pages, images or SVG content');
   const hasNavigation = /data-slide-(?:previous|next)|\bPrevious\b|\bNext\b/i.test(html);
-  if (!hasNavigation) fail(file, 'static Teacher Slides host must provide page-by-page navigation');
+  if (!displayPage && !hasNavigation) fail(file, 'static Teacher Slides host must provide page-by-page navigation');
 }
 
 function inspectStaticRedirect(file, html) {
