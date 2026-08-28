@@ -73,30 +73,42 @@ function qaPairs(html) {
 function inspect(file) {
   const html = fs.readFileSync(file, 'utf8');
   const code = html.match(/\bAC9[A-Z0-9]{5,12}\b/i)?.[0]?.toUpperCase() || '';
-  const title = clean(html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i)?.[1]);
+  const title = clean(html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i)?.[1])
+    || clean(html.match(/<title\b[^>]*>([\s\S]*?)<\/title>/i)?.[1]);
   const sections = details(html);
   const curriculumSections = sections.filter((item) => /curriculum (?:alignment|coverage)|coverage (?:and|&) elaborations|official curriculum/i.test(item.heading));
   const curriculumItems = curriculumSections.flatMap((item) => listItems(item.source));
-  const description = curriculumItems.find((item) => /^(?:content description|curriculum description)\s*:/i.test(item)) || '';
+  const description = curriculumItems.find((item) => /^(?:content description|curriculum description)\s*:/i.test(item))
+    || clean(curriculumSections[0]?.source);
   const elaborations = curriculumItems.filter((item) => /^(?:E\d+|Elaboration\s*\d*)\s*:/i.test(item));
+  const elaborationSections = curriculumSections.filter((item) => /elaboration/i.test(item.heading));
+  const learningSections = sections.filter((item) => /learning goal|what students learn|learning intention|success looks/i.test(item.heading));
   const exampleSections = sections.filter((item) => /worked|modelled|example/i.test(item.heading));
   const examples = exampleSections.flatMap((item) => articles(item.source));
-  const pairs = qaPairs(html);
+  const questionAnswerSections = sections.filter((item) => /important questions and answers|questions.*answers|check answer/i.test(item.heading));
+  const assessmentSections = sections.filter((item) => /assessment-style questions and review hints|assessment.*review hint/i.test(item.heading));
+  const exitSections = sections.filter((item) => /exit ticket|mastery check/i.test(item.heading));
   const missing = [];
   if (!code) missing.push('curriculum code');
   if (!title) missing.push('topic title');
   if (!description) missing.push('content description');
-  if (!elaborations.length) missing.push('explicit elaborations');
-  if (!examples.length) missing.push('worked/modelled examples');
-  if (!pairs.length) missing.push('paired question and answer');
+  if (!learningSections.length) missing.push('learning intention section');
+  if (!elaborations.length && !elaborationSections.length) missing.push('explicit elaborations');
+  if (!examples.length && !exampleSections.some((item) => clean(item.source))) missing.push('worked/modelled examples');
+  if (!questionAnswerSections.length) missing.push('important questions and answers section');
+  if (!assessmentSections.length) missing.push('assessment-style questions and review hints section');
+  if (!exitSections.length) missing.push('exit ticket section');
   return {
     file: path.relative(ROOT, file).split(path.sep).join('/'),
     code,
     title,
     description,
+    learningSectionCount: learningSections.length,
     elaborationCount: elaborations.length,
     exampleCount: examples.length,
-    questionAnswerPairCount: pairs.length,
+    questionAnswerSectionCount: questionAnswerSections.length,
+    assessmentSectionCount: assessmentSections.length,
+    exitTicketSectionCount: exitSections.length,
     eligible: missing.length === 0,
     missing,
   };

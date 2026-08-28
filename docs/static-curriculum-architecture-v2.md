@@ -64,12 +64,17 @@ Public delivery rules:
 The user explicitly unlocked this architecture on 2026-08-28 to add the following global rule for Foundation-Year 10 Maths, English and Science:
 
 - Teacher-slide curriculum content must be copied from the same code's published static topic-page HTML. The slide builder must not invent, paraphrase, infer, complete or AI-author curriculum wording, elaborations, examples, questions or answers.
-- Slide 1 presents the curriculum code, content description and learning intention already present on the topic page.
-- Each curriculum elaboration is then presented in source order.
-- Each elaboration is followed by the worked/modelled example or examples already present on the topic page. Use additional slides when the number or length of copied examples would make one slide crowded.
-- The final teaching sequence contains a copied question slide followed immediately by its copied answer slide. Multiple question/answer pairs must preserve that alternating order.
-- If the topic page does not contain an explicit elaboration, example, question or paired answer required by this sequence, the global builder must report the missing source and must not invent replacement content or silently overwrite the existing deck.
-- The build output is fixed static HTML with inline or local fixed SVG/HTML slide pages. Runtime extraction, runtime curriculum assembly, public PPTX/PDF delivery and generative authoring are prohibited.
+- The mandatory F-10 sequence is: (1) curriculum, (2) learning intention, (3+) elaboration expansion with its existing examples, (next) important questions and answers, (next) assessment-style questions and review hints, and (final) exit ticket.
+- Slide 1 copies the curriculum code and content description already present on the topic page.
+- Slide 2 copies the learning intention already present on the topic page.
+- Each curriculum elaboration is then presented in source order together with the expansion and worked/modelled example or examples already present on the topic page. Use additional slides when copied source content would make one slide crowded.
+- The next slide or slides copy the topic page's Important questions and answers section.
+- The next slide or slides copy the topic page's Assessment-style questions and review hints section.
+- The final slide copies the topic page's Exit ticket or mastery-check section.
+- If the topic page does not contain a required section, the global builder must report the missing source and must not invent replacement content, infer an answer, convert a hint into an answer or silently overwrite the existing deck.
+- The build output is fixed, pre-generated static HTML with inline or local fixed SVG/HTML slide pages. Runtime extraction, runtime curriculum assembly, public PPTX/PDF delivery and generative authoring are prohibited.
+- The public viewer provides only page-by-page navigation, slide count, keyboard navigation and fullscreen. It must not expose a download, print, PPTX or PDF control or link.
+- Branding and watermarking must remain subtle and outside protected teaching-content areas. The curriculum code footer must use its reserved safe area; no brand element may cover, crowd or visually compete with teaching content.
 - A single deterministic build command may regenerate all eligible decks, but publication still requires source-completeness validation, static-deck QA, link QA and visual safe-area checks.
 
 Because the site is public, displayed slide images/pages cannot be made technically impossible to save by a determined user. The product requirement is therefore: do not expose the editable/downloadable deck file and do not provide a download control.
