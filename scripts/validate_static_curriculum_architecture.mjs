@@ -26,6 +26,12 @@ function hasTeacherDisplayPage(html) {
     && /skillrhublearning@gmail\.com/i.test(html);
 }
 
+function isTeacherRedirectShim(html) {
+  return /Teacher Display Redirect|page moved/i.test(html)
+    && /teacherDisplayPages/i.test(html)
+    && /location\.replace\(target\)/i.test(html);
+}
+
 // The feedback-card generator is additive UI, not curriculum teaching content.
 // When that marker-delimited block is the *only* difference from the PR base,
 // do not force an unrelated legacy topic page through a full architecture
@@ -66,6 +72,7 @@ for (const file of changed) {
 
   if (teacherViewerPath.test(file)) {
     const html = fs.readFileSync(file, 'utf8');
+    if (isTeacherRedirectShim(html)) continue;
     if (runtimeDeck.test(html)) errors.push(`${file}: Teacher Slides viewer must not assemble curriculum slides at runtime`);
     if (publicDownload.test(html) || /download\s*=|download\s+(?:pptx|pdf)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must not expose PPTX/PDF download controls`);
     const fixedSlidePages = /<(?:section|article|div|figure)\b[^>]*(?:\bdata-slide\b|class=["'][^"']*\bslide\b)/i.test(html);
