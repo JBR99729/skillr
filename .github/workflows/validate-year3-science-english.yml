@@ -86,11 +86,12 @@ jobs:
           NODE
       - name: Confirm route and live slide wiring
         run: |
-          grep -q "year3-science-data.js" pwa-register.js
-          grep -q "year3-english-data-la1.js" pwa-register.js
-          grep -q "year3-subject-render.js" pwa-register.js
-          grep -q "year3-subject-quick-read.js" pwa-register.js
-          grep -q "year3-subject-worksheet-page.js" pwa-register.js
+          test "$(find year3/science -path '*/teacher-slides/index.html' | wc -l)" -eq 12
+          grep -R -q "Teacher Display Page" year3/science/*/teacher-slides/index.html
+          grep -R -q "data-single-open" year3/science/*/teacher-slides/index.html
+          grep -R -q 'class="example-board"' year3/science/*/teacher-slides/index.html
+          ! grep -R "fixed-slide-viewer\|data-fixed-slide-viewer\|data-slide-previous\|data-slide-next\|data-slide-fullscreen\|@media print" year3/science/*/teacher-slides/index.html
+          ! grep -q "/worksheets/year3/science/teacher-slides/.*teacher-slide.pdf" year3/curriculum/science/index.html
           grep -q "location.replace(target)" worksheets/year3/science/teacher-slides/live.html
           grep -q "/year3/science/" worksheets/year3/science/teacher-slides/live.html
           grep -q "year3-subject-slide.js" worksheets/year3/english/teacher-slides/live.html
