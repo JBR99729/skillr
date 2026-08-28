@@ -1,0 +1,36 @@
+name: Fix AC9S5U03 whitespace
+
+on:
+  push:
+    branches:
+      - fix/remove-generic-teacher-display-icons
+
+permissions:
+  contents: write
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Remove trailing whitespace from AC9S5U03 only
+        shell: bash
+        run: |
+          file='year5/science/ac9s5u03-sources-of-light-recognise-that-light-travels-in-a-straight/index.html'
+          sed -i 's/[[:space:]]\+$//' "$file"
+          git diff --check -- "$file"
+      - name: Commit cleanup and remove one-time workflow
+        shell: bash
+        run: |
+          rm -f .github/workflows/fix-ac9s5u03-whitespace.yml
+          git add year5/science/ac9s5u03-sources-of-light-recognise-that-light-travels-in-a-straight/index.html .github/workflows/fix-ac9s5u03-whitespace.yml
+          if git diff --cached --quiet; then
+            echo 'No whitespace changes needed.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Remove AC9S5U03 trailing whitespace'
+          git push origin HEAD:fix/remove-generic-teacher-display-icons
