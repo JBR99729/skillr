@@ -26,8 +26,24 @@ const SOURCES = {
 
 const VIC_EXCEPTIONS = {
   AC9M3M06: 'VC2M3N07',
+  AC9M8N05: 'VC2M8N06',
+  AC9M8A04: 'VC2M8A05',
+  AC9M9A03: 'VC2M9A03 + VC2M9A04',
+  AC9M9A04: 'VC2M9A05',
+  AC9M9A05: 'VC2M9A06',
+  AC9M9A06: 'VC2M9A07',
+  AC9M10A01: 'VC2M10A01 + VC2M10A02 + VC2M10A04 + VC2M10A07 + VC2M10A12 + VC2M10A13',
+  AC9M10A02: 'VC2M10A08 + VC2M10A09',
+  AC9M10A03: 'VC2M10A11 + VC2M10A14 + VC2M10A16',
+  AC9M10A04: 'VC2M10A15',
+  AC9M10A05: 'VC2M10A11 + VC2M10A16',
   AC9M10M05: 'VC2M10M04',
   AC9M10SP03: 'VC2M10ASP06',
+  AC9M10ST01: 'VC2M10ST04',
+  AC9M10ST02: 'VC2M10ST01',
+  AC9M10ST03: 'VC2M10ST02',
+  AC9M10ST04: 'VC2M10ST03',
+  AC9M10P02: 'VC2M10P01 + VC2M10P02',
   AC9E7LE07: 'VC2E7LE06',
   AC9E10LE07: 'VC2E10LE04 + VC2E10LE05',
   AC9E10LE08: 'VC2E10LE06',
@@ -69,6 +85,66 @@ const NSW_FOUNDATION_MATHS = {
   AC9MFSP01: 'MAE-2DS-01 + MAE-3DS-01',
   AC9MFSP02: 'MAE-GM-01',
   AC9MFST01: 'MAE-DATA-01',
+};
+
+// Curated exceptions retain the exact/closest outcome relationships already
+// verified in authored canonical topic guides. NSW often groups content across
+// Working Mathematically, Core and Path outcomes instead of mirroring AC v9.
+const NSW_EXCEPTIONS = {
+  AC9M8N01: 'MA4-IND-C-01 + MAO-WM-01',
+  AC9M8N02: 'MA4-IND-C-01 + MAO-WM-01',
+  AC9M8N03: 'MA4-FRC-C-01 + MAO-WM-01',
+  AC9M8N04: 'MA4-FRC-C-01 + MA4-INT-C-01 + MAO-WM-01',
+  AC9M8N05: 'MA4-FRC-C-01 + MAO-WM-01',
+  AC9M8A01: 'MA4-ALG-C-01 + MAO-WM-01',
+  AC9M8A02: 'MA4-EQU-C-01 + MA4-LIN-C-01 + MAO-WM-01',
+  AC9M8A03: 'MA4-LIN-C-01 + MAO-WM-01',
+  AC9M8A04: 'MA4-LIN-C-01 + MAO-WM-01',
+  AC9M8M01: 'MA4-ARE-C-01 + MA4-LEN-C-01 + MAO-WM-01',
+  AC9M8M02: 'MA4-VOL-C-01 + MAO-WM-01',
+  AC9M8M03: 'MA4-ARE-C-01 + MA4-LEN-C-01 + MAO-WM-01',
+  AC9M8M04: 'MA4-RAT-C-01 + MAO-WM-01',
+  AC9M8M05: 'MA4-RAT-C-01 + MAO-WM-01',
+  AC9M8M06: 'MA4-PYT-C-01 + MAO-WM-01',
+  AC9M8M07: 'MA4-FRC-C-01 + MA4-RAT-C-01 + MAO-WM-01',
+  AC9M8SP01: 'MA4-GEO-C-01 + MAO-WM-01',
+  AC9M8SP03: 'MAO-WM-01',
+  AC9M8ST01: 'MA4-DAT-C-01 + MA4-DAT-C-02 + MAO-WM-01',
+  AC9M8ST02: 'MA4-DAT-C-01 + MA4-DAT-C-02 + MAO-WM-01',
+  AC9M8ST03: 'MA4-DAT-C-02 + MAO-WM-01',
+  AC9M8ST04: 'MA4-DAT-C-01 + MA4-DAT-C-02 + MAO-WM-01',
+  AC9M8P01: 'MA4-PRO-C-01 + MAO-WM-01',
+  AC9M8P02: 'MA4-PRO-C-01 + MAO-WM-01',
+  AC9M8P03: 'MA4-PRO-C-01 + MAO-WM-01',
+  AC9S8U02: 'SC4-LIV-01',
+  AC9S8U05: 'SC4-CHG-01 + SC4-FOR-01',
+  AC9S8U06: 'SC4-PRT-01 + SC4-SOL-01',
+  AC9S8H01: 'SC4-DA1-01 + SC4-WS-06',
+  AC9S8H02: 'SC4-DA1-01 + SC4-WS-08',
+  AC9S8H03: 'SC4-WS-07 + SC4-WS-08',
+  AC9S8H04: 'SC4-WS-08',
+  AC9S8I03: 'SC4-WS-01 + SC4-WS-04 + SC4-WS-05',
+  AC9S8I06: 'SC4-DA1-01 + SC4-WS-06',
+  AC9S8I07: 'SC4-DA1-01 + SC4-WS-08',
+  AC9S9U01: 'SC4-LIV-01 (supporting prior-stage alignment)',
+  AC9S9U05: 'SC5-EGY-01',
+  AC9S9U06: 'SC4-PRT-01 + SC5-MAT-01',
+  AC9S9H04: 'SC5-DA2-01 + SC5-EGY-01 + SC5-ENV-01',
+  AC9S9I03: 'SC5-WS-01 + SC5-WS-04 + SC5-WS-05',
+  AC9S9I06: 'SC5-DA2-01 + SC5-WS-06',
+  AC9S9I07: 'SC5-DA2-01 + SC5-WS-08',
+  AC9M10N01: 'MA5-IND-P-02 + MA5-MAG-C-01 + MAO-WM-01',
+  AC9M10A01: 'MA5-ALG-C-01 + MA5-ALG-P-01 + MA5-EQU-C-01 + MA5-EQU-P-01 + MA5-IND-C-01 + MA5-IND-P-01 + MAO-WM-01',
+  AC9M10A02: 'MA5-EQU-P-01 + MA5-EQU-P-02 + MA5-FNC-P-01 + MAO-WM-01',
+  AC9M10A03: 'MA5-LOG-P-01 + MA5-NLI-C-01 + MA5-NLI-C-02 + MAO-WM-01',
+  AC9M10A04: 'MA5-FIN-C-02 + MA5-NLI-C-01 + MA5-NLI-C-02 + MAO-WM-01',
+  AC9S10U04: 'SC5-EGY-01 + SC5-ENV-01',
+  AC9S10U06: 'SC4-PRT-01 + SC5-MAT-01',
+  AC9S10U07: 'SC5-RXN-01 + SC5-RXN-02',
+  AC9S10H04: 'SC5-DA2-01 + SC5-EGY-01 + SC5-ENV-01',
+  AC9S10I03: 'SC5-WS-01 + SC5-WS-04 + SC5-WS-05',
+  AC9S10I06: 'SC5-DA2-01 + SC5-WS-06',
+  AC9S10I07: 'SC5-DA2-01 + SC5-WS-08',
 };
 
 function includesAny(text, terms) {
@@ -356,6 +432,7 @@ function nswScience(unit) {
 }
 
 function nswCode(unit) {
+  if (NSW_EXCEPTIONS[unit.code]) return NSW_EXCEPTIONS[unit.code];
   if (unit.subjectSlug === 'maths') return nswMaths(unit);
   if (unit.subjectSlug === 'english') return nswEnglish(unit);
   return nswScience(unit);
@@ -412,18 +489,42 @@ function sourceForNsw(unit) {
   return unit.yearNumber && unit.yearNumber >= 7 ? SOURCES.nswScienceSecondary : SOURCES.nswSciencePrimary;
 }
 
+function topicFile(url) {
+  return path.join(ROOT, url.replace(/^\//, ''), 'index.html');
+}
+
+function canonicalTopicUrl(unit) {
+  const inventoryFile = topicFile(unit.url);
+  if (!fs.existsSync(inventoryFile)) throw new Error(`${unit.code}: inventory topic page is missing at ${path.relative(ROOT, inventoryFile)}`);
+  const inventoryHtml = fs.readFileSync(inventoryFile, 'utf8');
+  const canonicalMatch = inventoryHtml.match(/<link\s+rel=["']canonical["']\s+href=["']https:\/\/skillrhub\.com([^"']+)["']/i);
+  if (!canonicalMatch) throw new Error(`${unit.code}: inventory topic page has no SkillrHub canonical URL`);
+  const canonicalUrl = canonicalMatch[1];
+  const canonicalFile = topicFile(canonicalUrl);
+  if (!fs.existsSync(canonicalFile)) throw new Error(`${unit.code}: canonical topic page is missing at ${path.relative(ROOT, canonicalFile)}`);
+  const canonicalHtml = fs.readFileSync(canonicalFile, 'utf8');
+  if (/<meta\s+name=["']robots["']\s+content=["'][^"']*noindex/i.test(canonicalHtml)) {
+    throw new Error(`${unit.code}: canonical topic page is noindex at ${path.relative(ROOT, canonicalFile)}`);
+  }
+  const selfCanonical = canonicalHtml.match(/<link\s+rel=["']canonical["']\s+href=["']https:\/\/skillrhub\.com([^"']+)["']/i)?.[1];
+  if (selfCanonical !== canonicalUrl) throw new Error(`${unit.code}: canonical topic page does not self-canonicalise (${selfCanonical || 'missing'})`);
+  return canonicalUrl;
+}
+
 export function buildCurriculumEquivalents() {
   const inventory = JSON.parse(fs.readFileSync(UNITS_FILE, 'utf8'));
   const mappings = {};
   for (const unit of inventory.units) {
     const regions = international(unit);
+    const canonicalUrl = canonicalTopicUrl(unit);
     mappings[unit.code] = {
       code: unit.code,
       subject: unit.subject,
       year: unit.levelLabel,
       title: unit.title,
       skill: unit.description,
-      url: unit.url,
+      url: canonicalUrl,
+      ...(canonicalUrl !== unit.url ? { legacyUrl: unit.url } : {}),
       australia: { framework: 'Australian Curriculum v9.0', code: unit.code, level: unit.levelLabel, url: SOURCES.australia },
       victoria: { framework: `Victorian Curriculum F–10 Version 2.0 — ${unit.subject}`, code: victoriaCode(unit), level: victoriaLevel(unit), relationship: 'matching or closely related content', url: sourceForVictoria(unit.subjectSlug) },
       nsw: { framework: unit.subjectSlug === 'maths' ? 'NSW Mathematics K–10 Syllabus (2022)' : unit.subjectSlug === 'english' ? 'NSW English K–10 Syllabus (2022)' : unit.yearNumber && unit.yearNumber >= 7 ? 'NSW Science 7–10 Syllabus (2023)' : 'NSW Science and Technology K–6 Syllabus (2024)', code: nswCode(unit), level: nswStage(unit.yearNumber), relationship: 'closest outcome alignment', url: sourceForNsw(unit) },

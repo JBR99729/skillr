@@ -131,6 +131,17 @@ for (const mapping of Object.values(source.mappings)) {
   if (requestedStages.size && !requestedStages.has(stage)) continue;
   const file = path.join(ROOT, mapping.url.replace(/^\//, ''), 'index.html');
   if (!fs.existsSync(file)) throw new Error(`${mapping.code}: topic page is missing at ${path.relative(ROOT, file)}`);
+  if (mapping.legacyUrl) {
+    const legacyFile = path.join(ROOT, mapping.legacyUrl.replace(/^\//, ''), 'index.html');
+    if (!fs.existsSync(legacyFile)) throw new Error(`${mapping.code}: legacy topic page is missing at ${path.relative(ROOT, legacyFile)}`);
+    const legacyOriginal = fs.readFileSync(legacyFile, 'utf8');
+    let legacyHtml = removeMarked(legacyOriginal, START, END);
+    legacyHtml = removeMarked(legacyHtml, JSON_START, JSON_END);
+    if (legacyHtml !== legacyOriginal) {
+      changed += 1;
+      if (!dryRun) fs.writeFileSync(legacyFile, legacyHtml);
+    }
+  }
   const original = fs.readFileSync(file, 'utf8');
   let html = removeMarked(original, START, END);
   html = removeMarked(html, JSON_START, JSON_END);

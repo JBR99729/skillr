@@ -9,6 +9,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const expectedRegions = ['Australia', 'Victoria', 'New South Wales', 'United States (USA)', 'Canada (Ontario)', 'United Kingdom (England)', 'India'];
 const failures = [];
 const counts = new Map();
+const mappedUrls = new Set();
 
 function count(haystack, needle) {
   return haystack.split(needle).length - 1;
@@ -24,6 +25,11 @@ for (const mapping of Object.values(source.mappings)) {
     continue;
   }
   const html = fs.readFileSync(file, 'utf8');
+  if (mappedUrls.has(mapping.url)) failures.push(`${mapping.code}: duplicate canonical mapping URL ${mapping.url}`);
+  mappedUrls.add(mapping.url);
+  const expectedCanonical = `https://skillrhub.com${mapping.url}`;
+  if (!html.includes(`<link rel="canonical" href="${expectedCanonical}"`)) failures.push(`${mapping.code}: topic page does not self-canonicalise to ${mapping.url}`);
+  if (/<meta\s+name=["']robots["']\s+content=["'][^"']*noindex/i.test(html)) failures.push(`${mapping.code}: mapped topic page is noindex`);
   if (count(html, '<!-- skillr-curriculum-equivalents:start -->') !== 1) failures.push(`${mapping.code}: expected one static equivalence block`);
   if (count(html, '<!-- skillr-curriculum-equivalents-jsonld:start -->') !== 1) failures.push(`${mapping.code}: expected one equivalence JSON-LD block`);
   if (count(html, 'id="curriculum-equivalents"') !== 1) failures.push(`${mapping.code}: expected one curriculum-equivalents id`);
@@ -40,8 +46,19 @@ for (const mapping of Object.values(source.mappings)) {
       if (schema['@type'] !== 'LearningResource') failures.push(`${mapping.code}: equivalence schema is not a LearningResource`);
       if (!Array.isArray(schema.educationalAlignment) || schema.educationalAlignment.length !== 7) failures.push(`${mapping.code}: expected 7 structured educational alignments`);
       if (schema.teaches !== mapping.skill) failures.push(`${mapping.code}: JSON-LD skill differs from mapping data`);
+      if (schema.url !== expectedCanonical) failures.push(`${mapping.code}: JSON-LD URL differs from canonical topic URL`);
     } catch (error) {
       failures.push(`${mapping.code}: invalid equivalence JSON-LD (${error.message})`);
+    }
+  }
+  if (mapping.legacyUrl) {
+    const legacyFile = path.join(ROOT, mapping.legacyUrl.replace(/^\//, ''), 'index.html');
+    if (!fs.existsSync(legacyFile)) failures.push(`${mapping.code}: legacy redirect page is missing`);
+    else {
+      const legacyHtml = fs.readFileSync(legacyFile, 'utf8');
+      if (legacyHtml.includes('<!-- skillr-curriculum-equivalents:start -->') || legacyHtml.includes('<!-- skillr-curriculum-equivalents-jsonld:start -->')) {
+        failures.push(`${mapping.code}: curriculum mapping remains on legacy redirect ${mapping.legacyUrl}`);
+      }
     }
   }
 }
