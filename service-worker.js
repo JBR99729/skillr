@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v20";
-const STATIC_CACHE_NAME = "skillrhub-static-v18";
+const CACHE_NAME = "skillrhub-pwa-v21";
+const STATIC_CACHE_NAME = "skillrhub-static-v19";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -73,21 +73,20 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  const rebuiltCurriculumRoutes = [
-    "/foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/",
-    "/year2/science/ac9s2u03-that-materials-can-be-changed-physically-without-changing-their/",
-    "/year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/"
-  ];
-
   const isTeacherDeckPath =
     url.origin === self.location.origin &&
     (url.pathname.includes("/teacher-slides/") || url.pathname.includes("/teacher-deck/"));
 
-  // Teacher deck pages are live resources: always prefer the network so content edits appear immediately.
+  const isCanonicalCurriculumTopicPath =
+    url.origin === self.location.origin &&
+    /^\/(?:foundation|year(?:[1-9]|10))\/(?:maths|science|english)\/ac9[a-z0-9]+(?:-[^/]+)?\/(?:index\.html)?$/i.test(url.pathname);
+
+  // Curriculum topic guides and teacher decks are live authored resources. Bypass both
+  // Cache Storage and the browser HTTP cache so installed PWAs cannot retain old HTML.
   if (
     request.mode === "navigate" &&
     url.origin === self.location.origin &&
-    (isTeacherDeckPath || rebuiltCurriculumRoutes.includes(url.pathname))
+    (isTeacherDeckPath || isCanonicalCurriculumTopicPath)
   ) {
     event.respondWith(fetch(request, { cache: "no-store" }).catch(() => caches.match("/offline.html")));
     return;
@@ -119,6 +118,7 @@ self.addEventListener("fetch", (event) => {
       request.destination === "script" &&
       (
       url.pathname === "/pwa-register.js" ||
+      url.pathname === "/assets/pwa-register-legacy.js" ||
       url.pathname === "/assets/ac9s3u04-lesson.js" ||
       url.pathname === "/assets/ac9s3u04-render.js" ||
       url.pathname === "/assets/lower-materials-lessons.js" ||
@@ -179,6 +179,8 @@ self.addEventListener("fetch", (event) => {
   }
 
   if (request.mode === "navigate") {
-    event.respondWith(fetch(request).catch(() => caches.match("/offline.html")));
+    // Navigations should always revalidate against the live site. GitHub Pages and
+    // mobile standalone browsers may otherwise reuse stale HTML from their HTTP cache.
+    event.respondWith(fetch(request, { cache: "no-store" }).catch(() => caches.match("/offline.html")));
   }
 });
