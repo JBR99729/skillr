@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v19";
-const STATIC_CACHE_NAME = "skillrhub-static-v17";
+const CACHE_NAME = "skillrhub-pwa-v20";
+const STATIC_CACHE_NAME = "skillrhub-static-v18";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -31,15 +31,26 @@ self.addEventListener("install", (event) => {
 
 self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.delete(STATIC_CACHE_NAME).then(() =>
-      caches.keys().then((cacheNames) => {
-        return Promise.all(
-          cacheNames
-            .filter((name) => name !== CACHE_NAME && name !== STATIC_CACHE_NAME)
-            .map((name) => caches.delete(name))
-        );
-      })
-    )
+    caches.keys().then((cacheNames) => {
+      return Promise.all(
+        cacheNames.map(async (name) => {
+          if (name !== CACHE_NAME && name !== STATIC_CACHE_NAME) {
+            await caches.delete(name);
+            return;
+          }
+          const cache = await caches.open(name);
+          const requests = await cache.keys();
+          await Promise.all(
+            requests
+              .filter((cachedRequest) => {
+                const cachedUrl = new URL(cachedRequest.url);
+                return cachedUrl.origin === self.location.origin && cachedUrl.pathname.includes("/teacher-slides/");
+              })
+              .map((cachedRequest) => cache.delete(cachedRequest))
+          );
+        })
+      );
+    })
   );
   self.clients.claim();
 });
