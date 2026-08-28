@@ -26,6 +26,64 @@
     loadSharedEnhancement("/assets/f10-learning-path-links-loader.js?v=1", "data-skillr-learning-path-links");
   }
 
+  function applyTargetedTopicFixes() {
+    const meta = window.skillrPageMeta || {};
+    if (meta.curriculumCode !== "AC9S5U03") return;
+
+    document.body.dataset.ac9s5u03LayoutFix = "true";
+
+    const layout = document.querySelector(".curriculum-layout");
+    if (layout) layout.classList.add("curriculum-layout--single");
+
+    const sidebar = document.querySelector(".curriculum-sidebar");
+    if (sidebar) sidebar.hidden = true;
+
+    const actionRow = document.querySelector(".topic-action-row");
+    if (actionRow) {
+      actionRow.style.gridTemplateColumns = "repeat(auto-fit, minmax(128px, 1fr))";
+      actionRow.style.maxWidth = "920px";
+    }
+
+    const fixedSlidesHref = "/year5/science/ac9s5u03-sources-of-light-recognise-that-light-travels-in-a-straight/teacher-slides.html";
+    document.querySelectorAll('a[href="teacher-slides/"], a[href="./teacher-slides/"], a[href="#teacher-slide"]').forEach((link) => {
+      if (/teacher slides/i.test(link.textContent || "")) link.setAttribute("href", fixedSlidesHref);
+    });
+
+    if (!document.querySelector("style[data-ac9s5u03-layout-fix]")) {
+      const style = document.createElement("style");
+      style.dataset.ac9s5u03LayoutFix = "true";
+      style.textContent = `
+        body[data-ac9s5u03-layout-fix="true"] .curriculum-layout--single {
+          grid-template-columns: minmax(0, 1fr);
+          width: 100%;
+          max-width: 980px;
+          margin-inline: auto;
+        }
+        body[data-ac9s5u03-layout-fix="true"] .curriculum-sidebar[hidden] { display: none !important; }
+        body[data-ac9s5u03-layout-fix="true"] .y5-board { overflow-x: auto; }
+        body[data-ac9s5u03-layout-fix="true"] .y5-table span {
+          background: #fff;
+          font-weight: 400;
+        }
+        body[data-ac9s5u03-layout-fix="true"] .y5-table[style*="repeat(3"] span:nth-child(-n+3) {
+          background: #f7faff;
+          font-weight: 800;
+        }
+        @media (max-width: 720px) {
+          body[data-ac9s5u03-layout-fix="true"] .topic-action-row {
+            grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+          }
+        }
+        @media (max-width: 430px) {
+          body[data-ac9s5u03-layout-fix="true"] .topic-action-row {
+            grid-template-columns: 1fr !important;
+          }
+        }
+      `;
+      document.head.appendChild(style);
+    }
+  }
+
   function getPageMeta() {
     return {
       pageTitle: document.title || "SkillrHub page",
@@ -54,6 +112,7 @@
 
   function createFloatingButton() {
     loadCurriculumEnhancements();
+    applyTargetedTopicFixes();
     if (document.querySelector("[data-report-issue], .report-issue-button")) return;
     const existingFloating = document.querySelector(".floating-learning-links");
     const button = document.createElement("button");
