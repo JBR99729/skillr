@@ -1,0 +1,47 @@
+name: Build Year 10 Teacher Display pages
+on:
+  push:
+    branches: [feature/year10-teacher-display-pages]
+permissions:
+  contents: write
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/year10-teacher-display-pages
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Derive Year 10 converter and validator
+        run: |
+          sed -e 's/year9/year10/g' -e 's/Year 9/Year 10/g' scripts/convert_year9_teacher_slides_to_display_pages.mjs > scripts/convert_year10_teacher_slides_to_display_pages.mjs
+          sed -e 's/year9/year10/g' -e 's/Year 9/Year 10/g' scripts/validate_year9_teacher_display_pages.mjs > scripts/validate_year10_teacher_display_pages.mjs
+      - name: Generate Year 10 display pages
+        run: node scripts/convert_year10_teacher_slides_to_display_pages.mjs
+      - name: Validate Year 10 display pages
+        run: |
+          node scripts/validate_year10_teacher_display_pages.mjs
+          node scripts/validate_static_curriculum_architecture.mjs
+          node scripts/validate_f10_topic_layout_contract.mjs
+          node scripts/audit_static_teacher_slides.mjs
+          node scripts/audit_static_curriculum_site.mjs --fail-on-runtime-topics
+          git diff --check
+      - name: Verify deterministic rebuild
+        run: |
+          git add year10 scripts/convert_year10_teacher_slides_to_display_pages.mjs scripts/validate_year10_teacher_display_pages.mjs
+          git diff --cached --quiet && { echo 'No Year 10 Teacher Display changes generated'; exit 1; }
+          node scripts/convert_year10_teacher_slides_to_display_pages.mjs
+          node scripts/validate_year10_teacher_display_pages.mjs
+          git diff --check
+      - name: Commit generated Year 10 displays
+        run: |
+          rm .github/workflows/build-year10-teacher-display-pages.yml
+          git add year10 scripts/convert_year10_teacher_slides_to_display_pages.mjs scripts/validate_year10_teacher_display_pages.mjs .github/workflows/build-year10-teacher-display-pages.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Convert all Year 10 Teacher Slides to display pages'
+          git push origin HEAD:feature/year10-teacher-display-pages
