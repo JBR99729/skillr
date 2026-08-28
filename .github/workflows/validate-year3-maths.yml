@@ -81,7 +81,7 @@ jobs:
           NODE
       - name: Confirm route wiring
         run: |
-          grep -q "year3-maths-data-base.js" pwa-register.js
-          grep -q "year3-maths-render.js" pwa-register.js
-          grep -q "year3-maths-practice-quick-read.js" pwa-register.js
-          grep -q "year3-maths-worksheet-page.js" pwa-register.js
+          grep -q "location.replace(target)" worksheets/year3/maths/teacher-slides/live.html
+          grep -q "/year3/maths/" worksheets/year3/maths/teacher-slides/live.html
+          test "$(find year3/maths -path '*/teacher-slides/index.html' | wc -l)" -eq 23
+          grep -R -q "Teacher Display Page" year3/maths/*/teacher-slides/index.html
