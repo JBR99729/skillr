@@ -5,10 +5,15 @@ on:
     paths:
       - 'foundation/**/index.html'
       - 'year*/**/index.html'
+      - 'pwa-register.js'
+      - 'assets/pwa-register-legacy.js'
+      - 'assets/curriculum-visual-layer.js'
+      - 'assets/curriculum-visual-layer-interactive.js'
       - 'assets/year7-router.js'
       - 'docs/static-curriculum-architecture-v2.md'
       - 'AGENTS.md'
       - 'scripts/validate_static_curriculum_architecture.mjs'
+      - 'scripts/validate_static_topic_loader_guards.mjs'
       - '.github/workflows/validate-static-curriculum-architecture.yml'
 
 permissions:
@@ -25,3 +30,4 @@ jobs:
         with:
           node-version: '20'
       - run: node scripts/validate_static_curriculum_architecture.mjs
+      - run: node scripts/validate_static_topic_loader_guards.mjs
