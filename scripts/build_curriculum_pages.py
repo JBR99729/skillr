@@ -239,7 +239,7 @@ def worksheet_url(unit: dict[str, Any]) -> str:
 
 
 def teacher_slide_url(unit: dict[str, Any]) -> str:
-    if unit["yearFolder"] in {"year5", "year6"}:
+    if unit["yearFolder"] in {"year5", "year6", "year7"}:
         return f"/{unit['yearFolder']}/{unit['subjectSlug']}/{unit['unitSlug']}/teacher-slides/"
     if unit["code"] in {"AC9M3M03", "AC9M3M04", "AC9S3U04"}:
         return f"/{unit['yearFolder']}/{unit['subjectSlug']}/{unit['unitSlug']}/teacher-deck/"
