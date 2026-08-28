@@ -94,7 +94,7 @@ const moduleSource = fs.readFileSync(path.join(ROOT, "assets/year4-science-topic
 for (const role of ["Learning intention and success criteria","Concept refresher and visual clues","Guided worked example","60-second Quick Check / Turn and Talk"]) expect(slide.includes(role), `Missing slide role: ${role}`);
 expect(slide.includes("concealed-answer") && slide.includes("Expected response") && slide.includes("If students are unsure"), "Quick Check answer/remediation incomplete");
 expect(slide.includes("unit.commercialMaster?.teacherSlides") && slide.includes("data-slide-id"), "Public teacher-slide renderer does not consume canonical structured slide data");
-for (const target of ["teacher-slides/live.html?code=","/worksheet/","/practice/","/test/"]) expect(topicRenderer.includes(target), `Topic renderer link missing: ${target}`);
+for (const target of ["teacher-slides/","/worksheet/","/practice/","/test/"]) expect(topicRenderer.includes(target), `Topic renderer link missing: ${target}`);
 expect(topicRenderer.includes("Legacy teacher-slide PDF") && topicRenderer.includes("Preserved optional extension prompts"), "Preserved teaching material is not exposed");
 expect(worksheetRenderer.includes("answer-key") && worksheetRenderer.includes("Summary:") && worksheetRenderer.includes("Hint:"), "Printable answer key incomplete");
 expect(moduleSource.includes('{ sheetId:"topic-practice-1", title:"Topic Practice 1"') && moduleSource.includes('{ sheetId:"topic-practice-2", title:"Topic Practice 2"'), "Stable sheet IDs or exact titles missing from canonical export data");

@@ -94,4 +94,5 @@ jobs:
           ! grep -q "/worksheets/year3/science/teacher-slides/.*teacher-slide.pdf" year3/curriculum/science/index.html
           grep -q "location.replace(target)" worksheets/year3/science/teacher-slides/live.html
           grep -q "/year3/science/" worksheets/year3/science/teacher-slides/live.html
-          grep -q "year3-subject-slide.js" worksheets/year3/english/teacher-slides/live.html
+          grep -q "location.replace(target)" worksheets/year3/english/teacher-slides/live.html
+          grep -q "/year3/english/" worksheets/year3/english/teacher-slides/live.html

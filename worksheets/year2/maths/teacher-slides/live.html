@@ -1,22 +1,39 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-AU">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex,nofollow">
-<title>Opening Year 2 Maths Teacher Slides | SkillrHub</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, follow">
+  <title>Year 2 Maths Teacher Display Redirect</title>
+  <script>
+    const teacherDisplayPages = {
+    "AC9M2A01": "/year2/maths/ac9m2a01-recognise-describe-and-create-additive-patterns-that-increase/",
+    "AC9M2A02": "/year2/maths/ac9m2a02-recall-and-demonstrate-proficiency-with-addition-facts-to-20/",
+    "AC9M2A03": "/year2/maths/ac9m2a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
+    "AC9M2M01": "/year2/maths/ac9m2m01-measure-and-compare-objects-based-on-length-capacity-and-mass/",
+    "AC9M2M02": "/year2/maths/ac9m2m02-common-uses-and-represent-halves-quarters-and-eighths-in/",
+    "AC9M2M03": "/year2/maths/ac9m2m03-the-date-and-determine-the-number-of-days-between-events/",
+    "AC9M2M04": "/year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/",
+    "AC9M2M05": "/year2/maths/ac9m2m05-identify-describe-and-demonstrate-quarter-half-three-quarter/",
+    "AC9M2N01": "/year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/",
+    "AC9M2N02": "/year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/",
+    "AC9M2N03": "/year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/",
+    "AC9M2N04": "/year2/maths/ac9m2n04-add-and-subtract-one-and-two-digit-numbers-representing/",
+    "AC9M2N05": "/year2/maths/ac9m2n05-multiply-and-divide-by-one-digit-numbers-using-repeated/",
+    "AC9M2N06": "/year2/maths/ac9m2n06-mathematical-modelling-to-solve-practical-problems-involving/",
+    "AC9M2SP01": "/year2/maths/ac9m2sp01-recognise-compare-and-classify-shapes-referencing-the-number-of/",
+    "AC9M2SP02": "/year2/maths/ac9m2sp02-locate-positions-in-two-dimensional-representations-of-a/",
+    "AC9M2ST01": "/year2/maths/ac9m2st01-acquire-data-for-categorical-variables-through-surveys/",
+    "AC9M2ST02": "/year2/maths/ac9m2st02-different-graphical-representations-of-data-using-software/"
+    };
+    const params = new URLSearchParams(window.location.search);
+    const code = (params.get("code") || "").toUpperCase();
+    const target = teacherDisplayPages[code] || "/year2/curriculum/maths/";
+    window.location.replace(target);
+  </script>
 </head>
 <body>
-<p>Opening the fixed SkillrHub teacher slide deck…</p>
-<script src="/assets/year2-maths-data.js?v=3"></script>
-<script src="/assets/year2-maths-data-extra.js?v=2"></script>
-<script>
-(() => {
-  const code=(new URLSearchParams(location.search).get('code')||'').toUpperCase();
-  const unit=window.SkillrYear2MathsData?.[code];
-  const target=unit?.slug ? `/year2/maths/${unit.slug}/teacher-slides/` : '/year2/curriculum/maths/';
-  location.replace(target);
-})();
-</script>
+  <p>Teacher Display Page moved. Redirecting to the static teacher display page.</p>
+  <p><a href="/year2/curriculum/maths/">Open Year 2 maths curriculum</a></p>
 </body>
 </html>
