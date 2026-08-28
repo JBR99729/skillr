@@ -74,7 +74,8 @@ for (const { slug, topicFile, legacyDeckFile, fixedViewerFile } of customDecks) 
     if (!fs.existsSync(path.join(root, fixedViewerFile))) fail(`${code}: fixed teacher-slides viewer target is missing`);
     else {
       const viewer = read(fixedViewerFile);
-      if (!viewer.includes("fixed-slide-viewer")) fail(`${code}: fixed teacher-slides route is not using the protected viewer`);
+      const isTeacherDisplayPage = viewer.includes("Teacher Display Page") && viewer.includes("data-single-open");
+      if (!viewer.includes("fixed-slide-viewer") && !isTeacherDisplayPage) fail(`${code}: fixed teacher-slides route is not using the protected viewer or teacher display page`);
       if (/href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i.test(viewer)) fail(`${code}: fixed teacher-slides viewer exposes a direct PPTX/PDF link`);
     }
   } else if (fs.existsSync(path.join(root, legacyDeckFile))) {
