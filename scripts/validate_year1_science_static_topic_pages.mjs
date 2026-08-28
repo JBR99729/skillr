@@ -58,7 +58,7 @@ for (const unit of units) {
     if (!/Teacher Display Page/i.test(viewer)) failures.push(`${code}: teacher-slides route must use the teacher display page standard`);
     if (!/\bdata-single-open\b/i.test(viewer)) failures.push(`${code}: teacher display page must keep single-open collapsible sections`);
     if (!/class=["']example-board["']/i.test(viewer) || !/class=["']example-card["']/i.test(viewer)) failures.push(`${code}: teacher display page must include readable example cards`);
-    if (!/<svg\b[^>]*viewBox=["']0 0 136 108["']/i.test(viewer)) failures.push(`${code}: teacher display page must include inline SVG teaching examples`);
+    if (/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(viewer)) failures.push(`${code}: teacher display page must not include generated filler example icons`);
     if (/teacher-slide-viewer|fixed-slide-viewer|data-fixed-slide-viewer|data-slide-previous|data-slide-next|data-slide-fullscreen|@media print/i.test(viewer)) failures.push(`${code}: teacher display page must not expose old slide controls or print blocking shell`);
     if (!viewer.includes('skillrhublearning@gmail.com')) failures.push(`${code}: teacher display page must include the SkillrHub contact ending`);
     if (/href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must not expose PPTX/PDF downloads`);
