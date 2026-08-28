@@ -21,7 +21,7 @@ function hasTeacherDisplayPage(html) {
     && /data-single-open/i.test(html)
     && /<details\b/i.test(html)
     && /<summary\b/i.test(html)
-    && /Clean visual examples/i.test(html)
+    && /(?:Clean visual examples|Worked examples)/i.test(html)
     && !/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(html)
     && /skillrhublearning@gmail\.com/i.test(html);
 }
