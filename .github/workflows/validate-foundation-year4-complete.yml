@@ -127,7 +127,9 @@ jobs:
             const codes = [...new Set((html.match(/AC9[A-Z0-9]+/g) || []).filter((code) => codePattern.test(code)))];
             if (codes.length !== expected) throw new Error(`${topicSubject}: expected ${expected} curriculum codes in index, found ${codes.length}`);
 
-            const links = [...html.matchAll(new RegExp(`href=["'](/year4/${topicSubject}/[^"']+/)["']`, 'g'))].map((match) => match[1]);
+            const links = [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>Topic guide<\/a>/gi)]
+              .map((match) => match[1])
+              .filter((href) => href.startsWith(`/year4/${topicSubject}/`));
             const uniqueTopicLinks = [...new Set(links)];
             if (uniqueTopicLinks.length !== expected) throw new Error(`${topicSubject}: expected ${expected} topic links, found ${uniqueTopicLinks.length}`);
 
@@ -151,7 +153,8 @@ jobs:
           for (const subject of ['maths','science','english']) {
             const file = `worksheets/year4/${subject}/teacher-slides/live.html`;
             if (!fs.existsSync(file)) throw new Error(`Missing live teacher slide ${file}`);
-            if (!fs.readFileSync(file,'utf8').includes('/pwa-register.js')) throw new Error(`${file}: missing shared loader`);
+            const text = fs.readFileSync(file,'utf8');
+            if (!text.includes('teacherDisplayPages') || !text.includes('location.replace(target)')) throw new Error(`${file}: missing static teacher display redirect`);
           }
 
           console.log('Year 4 route and resource validation passed.');
