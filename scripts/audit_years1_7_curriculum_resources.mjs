@@ -42,7 +42,7 @@ for (let year=1; year<=7; year++) for (const subject of subjects) {
   const curriculumIndex = path.join(`year${year}`,'curriculum',subject,'index.html');
   if (!fs.existsSync(curriculumIndex)) { failures.push(`MISSING curriculum index: ${curriculumIndex}`); continue; }
   const idx = read(curriculumIndex);
-  const re = subject==='maths' ? new RegExp(`AC9M${year}[A-Z][0-9]{2}`,'gi') : subject==='english' ? new RegExp(`AC9E${year}[A-Z]{2}[0-9]{2}`,'gi') : new RegExp(`AC9S${year}[A-Z][0-9]{2}`,'gi');
+  const re = subject==='maths' ? new RegExp(`AC9M${year}[A-Z]{1,2}[0-9]{2}`,'gi') : subject==='english' ? new RegExp(`AC9E${year}[A-Z]{2}[0-9]{2}`,'gi') : new RegExp(`AC9S${year}[A-Z][0-9]{2}`,'gi');
   const codes = [...new Set((idx.match(re)||[]).map(x=>x.toUpperCase()))].sort();
   if (!codes.length) failures.push(`NO curriculum codes found: ${curriculumIndex}`);
   const root = path.join(`year${year}`,subject);
@@ -54,6 +54,12 @@ for (let year=1; year<=7; year++) for (const subject of subjects) {
     let topicFile='', viewerDesc='', slideCount=0;
     if(matches.length!==1){issues.push(`expected exactly one topic directory, found ${matches.length}`);} else {
       const topicDir=path.join(root,matches[0]); topicFile=path.join(topicDir,'index.html');
+      if(year===5){
+        const legacyPdf=`/worksheets/year5/${subject}/teacher-slides/${code.toLowerCase()}-teacher-slide.pdf`;
+        const expectedDisplay=`/year5/${subject}/${matches[0]}/teacher-slides/`;
+        if(idx.includes(legacyPdf)) issues.push('Year 5 curriculum hub exposes a legacy Teacher Slide PDF');
+        if(!anchors(idx).some(a=>a.href===expectedDisplay)) issues.push('Year 5 curriculum hub does not link its Teacher Display Page');
+      }
       if(!fs.existsSync(topicFile)) issues.push('missing Topic Guide index.html'); else {
         const html=read(topicFile); const text=html.replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'');
         if(!/<details\b/i.test(html)||!/<summary\b/i.test(html)) issues.push('Topic Guide is not native dropdown HTML');
