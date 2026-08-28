@@ -248,6 +248,7 @@
     });
 
     navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (!isStandaloneApp()) return;
       try {
         const key = "skillr-sw-refresh-v20";
         if (sessionStorage.getItem(key)) return;
