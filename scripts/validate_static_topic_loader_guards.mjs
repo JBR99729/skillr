@@ -19,6 +19,12 @@ if (!/blockedCurriculumAsset/.test(pwa) || !/curriculum-visual-layer/.test(pwa) 
   errors.push(`${pwaPath}: canonical topic pages are not protected from dynamic curriculum asset loading`);
 }
 
+const legacyPwaPath = 'assets/pwa-register-legacy.js';
+const legacyPwa = read(legacyPwaPath);
+if (!/ac9e2la0\[1-3\]\\\/quiz/.test(legacyPwa)) {
+  errors.push(`${legacyPwaPath}: delegated Year 2 LA01-03 Quiz loader route is missing`);
+}
+
 const visualPath = 'assets/curriculum-visual-layer.js';
 const visual = read(visualPath);
 if (!/STATIC_CURRICULUM_TOPIC_GUARD/.test(visual)) {
@@ -31,7 +37,7 @@ if (!/curriculum-visual-layer-interactive\.js/.test(visual)) {
   errors.push(`${visualPath}: interactive-resource implementation must remain separated from canonical topic pages`);
 }
 
-for (const required of ['assets/pwa-register-legacy.js', 'assets/curriculum-visual-layer-interactive.js']) {
+for (const required of [legacyPwaPath, 'assets/curriculum-visual-layer-interactive.js']) {
   if (!fs.existsSync(required)) errors.push(`${required}: required internal interactive utility asset is missing`);
 }
 
