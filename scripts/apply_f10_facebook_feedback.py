@@ -31,10 +31,19 @@ FACEBOOK_POST_HREF = FACEBOOK_POST_URL.replace("&", "&amp;")
 START_MARKER = "<!-- skillr-facebook-feedback:start -->"
 END_MARKER = "<!-- skillr-facebook-feedback:end -->"
 
+# Find/validate a generated block wherever it sits in the HTML. Some legacy topic
+# layouts place the marker inline rather than at the start of a line.
 GENERATED_RE = re.compile(
     r"<!--\s*skillr-facebook-feedback:start\s*-->[\s\S]*?"
     r"<!--\s*skillr-facebook-feedback:end\s*-->(?:\r?\n)?",
     re.I,
+)
+
+# When a generated block begins on its own indented line, consume only that
+# indentation before removal so regeneration cannot leave a whitespace-only line.
+FEEDBACK_INDENT_RE = re.compile(
+    r"^[ \t]+(?=<!--\s*skillr-facebook-feedback:start\s*-->)",
+    re.I | re.M,
 )
 
 # Remove the one-page AC9S7U01 prototype when converting it to the generated form.
@@ -87,6 +96,7 @@ def topic_title(source: str, code: str) -> str:
 
 
 def remove_existing_feedback(source: str) -> str:
+    source = FEEDBACK_INDENT_RE.sub("", source)
     source = GENERATED_RE.sub("", source)
     source = LEGACY_PROTOTYPE_RE.sub("", source)
     return source
