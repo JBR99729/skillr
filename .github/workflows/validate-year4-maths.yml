@@ -121,14 +121,12 @@ jobs:
           if (elaborationTotal < expected) throw new Error(`Only ${elaborationTotal} elaborations found across ${expected} units`);
           console.log(`Year 4 Maths content validation passed with ${elaborationTotal} curriculum elaborations preserved for teaching coverage.`);
           NODE
-      - name: Confirm additive strand, worldwide and multi-slide wiring
+      - name: Confirm additive strand, worldwide and teacher display pages
         run: |
-          grep -q "year4-maths-data-base.js" pwa-register.js
-          grep -q "year4-maths-render.js" pwa-register.js
-          grep -q "year4-maths-practice-quick-read.js" pwa-register.js
-          grep -q "year4-maths-worksheet-page.js" pwa-register.js
-          grep -q "curriculum-strand-coverage.js" pwa-register.js
-          grep -Eq "year4-maths-slide-strands.js|teacher-slides/" worksheets/year4/maths/teacher-slides/live.html
-          grep -q "Year 4 Maths" worksheets/year4/maths/teacher-slides/live.html
+          test "$(find year4/maths -path '*/teacher-slides/index.html' | wc -l)" -eq 23
+          grep -R -q "Teacher Display Page" year4/maths/*/teacher-slides/index.html
+          grep -R -q "data-single-open" year4/maths/*/teacher-slides/index.html
+          grep -R -q 'class="example-board"' year4/maths/*/teacher-slides/index.html
+          ! grep -R "fixed-slide-viewer\|data-fixed-slide-viewer\|data-slide-previous\|data-slide-next\|data-slide-fullscreen\|@media print" year4/maths/*/teacher-slides/index.html
           grep -q "Worldwide audience" docs/skillr-long-life-curriculum-content-standard.md
           grep -q "Additive improvement" docs/skillr-long-life-curriculum-content-standard.md
