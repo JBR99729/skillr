@@ -16,6 +16,16 @@ const errors = [];
 const publicDownload = /href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i;
 const runtimeDeck = /(?:teachingSlides|\.slides\.forEach|render.*slide|lower-materials-render|year\d+.*slides\.js|topic-modules-render|lesson-render)/i;
 
+function hasTeacherDisplayPage(html) {
+  return /Teacher Display Page/i.test(html)
+    && /data-single-open/i.test(html)
+    && /<details\b/i.test(html)
+    && /<summary\b/i.test(html)
+    && /Clean visual examples/i.test(html)
+    && /<svg\b/i.test(html)
+    && /skillrhublearning@gmail\.com/i.test(html);
+}
+
 // The feedback-card generator is additive UI, not curriculum teaching content.
 // When that marker-delimited block is the *only* difference from the PR base,
 // do not force an unrelated legacy topic page through a full architecture
@@ -59,8 +69,9 @@ for (const file of changed) {
     if (runtimeDeck.test(html)) errors.push(`${file}: Teacher Slides viewer must not assemble curriculum slides at runtime`);
     if (publicDownload.test(html) || /download\s*=|download\s+(?:pptx|pdf)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must not expose PPTX/PDF download controls`);
     const fixedSlidePages = /<(?:section|article|div|figure)\b[^>]*(?:\bdata-slide\b|class=["'][^"']*\bslide\b)/i.test(html);
-    if (!/<img\b[^>]*(?:slide|teacher)/i.test(html) && !/data-slide-(?:src|image)/i.test(html) && !fixedSlidePages) errors.push(`${file}: Teacher Slides viewer must present pre-rendered fixed slide pages/images`);
-    if (!/(?:Previous|Next|aria-label=["']Next slide|data-next-slide)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must support page-by-page navigation`);
+    const displayPage = hasTeacherDisplayPage(html);
+    if (!displayPage && !/<img\b[^>]*(?:slide|teacher)/i.test(html) && !/data-slide-(?:src|image)/i.test(html) && !fixedSlidePages) errors.push(`${file}: Teacher resource must present fixed slide pages/images or a static Teacher Display Page`);
+    if (!displayPage && !/(?:Previous|Next|aria-label=["']Next slide|data-next-slide)/i.test(html)) errors.push(`${file}: Teacher Slides viewer must support page-by-page navigation`);
   }
 }
 
