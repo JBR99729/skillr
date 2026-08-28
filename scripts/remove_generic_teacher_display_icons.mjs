@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 // Teacher Display examples may use meaningful topic-derived visuals or no visual at all;
-// generated decorative/filler example icons are intentionally forbidden.
+// generated decorative/filler example icons are intentionally forbidden across Foundation-Year 7.
 const root = process.cwd();
 const curriculumRoots = ["foundation", "year1", "year2", "year3", "year4", "year5", "year6", "year7"];
 const generatorFiles = [
