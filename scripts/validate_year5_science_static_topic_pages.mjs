@@ -53,7 +53,8 @@ for (const unit of units) {
     const viewer = read(teacherViewer);
     if (!/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must be noindex,follow`);
     if (!viewer.includes(`<link rel="canonical" href="${expectedCanonical}">`)) failures.push(`${code}: teacher-slides viewer must canonicalise to parent topic URL`);
-    if (!(/<img\b[^>]+slide-/i.test(viewer) || /\bdata-slide\b/i.test(viewer)) || !/(?:Previous|data-prev|data-slide-previous)/i.test(viewer) || !/(?:Next|data-next|data-slide-next)/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must expose fixed slide pages and navigation`);
+    if (!viewer.includes('Teacher Display Page')) failures.push(`${code}: teacher-slides viewer must be the plain HTML Teacher Display Page`);
+    if (!viewer.includes('data-single-open')) failures.push(`${code}: teacher display page must use single-open collapsible sections`);
     if (/href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must not expose PPTX/PDF downloads`);
   }
 }
