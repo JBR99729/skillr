@@ -23,6 +23,22 @@
       }
       return originalAppendChild.call(this, node);
     };
+
+    // GitHub Pages/custom-domain directory resolution has intermittently returned
+    // 404 for otherwise valid local teacher-slides/ folders. Keep the authored
+    // static link in HTML, but navigate to the concrete fixed viewer file.
+    const normaliseTeacherSlideLinks = () => {
+      document.querySelectorAll("a[href]").forEach((link) => {
+        const rawHref = link.getAttribute("href");
+        if (!rawHref) return;
+        const target = new URL(rawHref, window.location.href);
+        if (target.origin !== window.location.origin || !/\/teacher-slides\/$/i.test(target.pathname)) return;
+        target.pathname += "index.html";
+        link.href = target.href;
+      });
+    };
+    if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", normaliseTeacherSlideLinks, { once: true });
+    else normaliseTeacherSlideLinks();
   }
 
   // Delegated interactive-route compatibility marker; the guard validator also
