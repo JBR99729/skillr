@@ -800,3 +800,47 @@ a[href^="/quiz/year-7/science/"][href*="/worksheet/"] {
 .curriculum-page:has(.topic-action-row a[href*="/english/"]) .curriculum-content {
   min-width: 0;
 }
+
+/* Global curriculum teaching flow.
+   Teaching content reads top-to-bottom by default. Explicit comparison,
+   table and diagram components keep their own multi-column layout rules. */
+.curriculum-topic-section .curriculum-detail-body:has(> article.curriculum-worked-example + article.curriculum-worked-example) {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  gap: 16px;
+}
+
+.curriculum-topic-section .curriculum-detail-body:has(> article.curriculum-worked-example + article.curriculum-worked-example) > article.curriculum-worked-example {
+  grid-column: 1 / -1 !important;
+  width: 100% !important;
+  max-width: none !important;
+  min-width: 0;
+}
+
+.curriculum-topic-section .learn-intro,
+.curriculum-topic-section .learn-visuals,
+.curriculum-topic-section .learn-misconceptions,
+.curriculum-topic-section .learn-problems,
+.curriculum-topic-section .unit-summary-grid,
+.curriculum-topic-section .unit-activity-grid,
+.curriculum-topic-section .unit-differentiation,
+.curriculum-topic-section .tmv2-grid,
+.curriculum-topic-section .tmv2-vocab,
+.curriculum-topic-section .tmv2-worked-grid,
+.curriculum-topic-section .tmv2-important-problems > ol {
+  grid-template-columns: minmax(0, 1fr) !important;
+}
+
+.curriculum-topic-section .learn-intro > *,
+.curriculum-topic-section .learn-visuals > *,
+.curriculum-topic-section .learn-misconceptions > *,
+.curriculum-topic-section .learn-problems > *,
+.curriculum-topic-section .unit-summary-grid > *,
+.curriculum-topic-section .unit-activity-grid > *,
+.curriculum-topic-section .unit-differentiation > *,
+.curriculum-topic-section .tmv2-grid > *,
+.curriculum-topic-section .tmv2-vocab > *,
+.curriculum-topic-section .tmv2-worked-grid > *,
+.curriculum-topic-section .tmv2-important-problems > ol > * {
+  min-width: 0;
+}

@@ -24,7 +24,7 @@
 
 .tmv2-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
   gap: 12px;
 }
 
@@ -37,7 +37,7 @@
 
 .tmv2-vocab {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
   gap: 8px;
 }
 
@@ -59,7 +59,7 @@
 
 .tmv2-worked-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
   gap: 12px;
   margin-top: 14px;
 }
@@ -247,7 +247,7 @@
   padding: 0;
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
   gap: 10px;
 }
 
