@@ -159,21 +159,11 @@ jobs:
 
       - name: Confirm Foundation to Year 4 integration wiring
         run: |
-          grep -q "skillr-svg-runtime.js" pwa-register.js
-          grep -q "skillr-concept-svg.js" pwa-register.js
-          grep -q "curriculum-cluster-core.js" pwa-register.js
-          grep -q "curriculum-strand-coverage.js" pwa-register.js
-          grep -q "curriculum-visual-layer.js" pwa-register.js
-          grep -q "teacher-slide-clusters.js" pwa-register.js
-          grep -q "multi-strand-worksheet-pack.js" pwa-register.js
-          grep -q "qa-complete-ribbon.js" pwa-register.js
-          grep -q "year1-english-data.js" pwa-register.js
-          grep -q "year4-science-data.js" pwa-register.js
-          grep -q "year4-english-data-la1.js" pwa-register.js
-          grep -q "year4-subject-render.js" pwa-register.js
-          grep -q "year4-subject-quick-read.js" pwa-register.js
-          grep -q "year4-subject-worksheet-page.js" pwa-register.js
-          grep -q "foundation-test-quick-read.js" assets/curriculum-visual-layer.js
+          test "$(find year4 -path '*/teacher-slides/index.html' | wc -l)" -eq 63
+          grep -R -q "Teacher Display Page" year4/*/*/teacher-slides/index.html
+          grep -R -q "data-single-open" year4/*/*/teacher-slides/index.html
+          grep -R -q 'class="example-board"' year4/*/*/teacher-slides/index.html
+          ! grep -R "fixed-slide-viewer\|data-fixed-slide-viewer\|data-slide-previous\|data-slide-next\|data-slide-fullscreen\|@media print" year4/*/*/teacher-slides/index.html
 
       - name: Check visible release wording
         run: |
