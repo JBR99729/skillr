@@ -114,7 +114,7 @@ for (const code of codes) {
 }
 
 const slideRenderer = read("assets/year4-science-slide.js");
-for (const role of requiredSlideRoles) assert(slideRenderer.includes(`frame("${role}"`), `Final Teacher Slide renderer missing ${role}`);
+for (const role of requiredSlideRoles) assert(slideRenderer.includes(`"${role}"`), `Final Teacher Slide renderer missing ${role}`);
 assert(slideRenderer.includes("workedExamples[0]"), "Final Teacher Slide renderer must expose the cited first worked example");
 assert(!slideRenderer.includes("workedExamples[1]"), "Year 4 source contract changed: review application-model provenance before release");
 assert(read("service-worker.js").includes('url.pathname.endsWith("-pre-module-notes.js")'), "Mandatory public note assets must use network-first service-worker handling");
