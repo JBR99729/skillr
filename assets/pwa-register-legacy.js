@@ -250,7 +250,7 @@
     navigator.serviceWorker.addEventListener("controllerchange", () => {
       if (!isStandaloneApp()) return;
       try {
-        const key = "skillr-sw-refresh-v20";
+        const key = "skillr-sw-refresh-v21";
         if (sessionStorage.getItem(key)) return;
         sessionStorage.setItem(key, "1");
         window.location.reload();
