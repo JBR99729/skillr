@@ -18,6 +18,9 @@ if (!/pwa-register-legacy\.js/.test(pwa)) {
 if (!/blockedCurriculumAsset/.test(pwa) || !/curriculum-visual-layer/.test(pwa) || !/year\(\?:\[1-9\]\|10\)-/.test(pwa)) {
   errors.push(`${pwaPath}: canonical topic pages are not protected from dynamic curriculum asset loading`);
 }
+if (!pwa.includes('normaliseTeacherSlideLinks') || !pwa.includes('teacher-slides') || !pwa.includes('target.pathname += "index.html"')) {
+  errors.push(`${pwaPath}: canonical topic Teacher Slides links must resolve to the concrete static index.html viewer file`);
+}
 
 const legacyPwaPath = 'assets/pwa-register-legacy.js';
 const legacyPwa = read(legacyPwaPath);
@@ -47,4 +50,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log('Static topic loader guards: PASS (canonical F-10 topic pages cannot load curriculum renderers through shared loaders).');
+console.log('Static topic loader guards: PASS (canonical F-10 topic pages stay static and Teacher Slides resolve to fixed index.html viewers).');
