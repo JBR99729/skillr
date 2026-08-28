@@ -46,7 +46,7 @@ for (const topicFile of topicFiles) {
   else {
     const viewer = read(teacherViewer);
     if (!/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must be noindex,follow`);
-    if (!(/<img\b[^>]+slide-/i.test(viewer) || /\bdata-slide\b/i.test(viewer)) || !/(?:Previous|data-prev|data-slide-previous)/i.test(viewer) || !/(?:Next|data-next|data-slide-next)/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must expose fixed slide pages and navigation`);
+    if (!/Teacher Display Page/i.test(viewer) || !/data-single-open/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must use the Year 4-style static Teacher Display Page`);
     if (/href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must not expose PPTX/PDF downloads`);
   }
 }

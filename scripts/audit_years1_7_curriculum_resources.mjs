@@ -54,11 +54,12 @@ for (let year=1; year<=7; year++) for (const subject of subjects) {
     let topicFile='', viewerDesc='', slideCount=0;
     if(matches.length!==1){issues.push(`expected exactly one topic directory, found ${matches.length}`);} else {
       const topicDir=path.join(root,matches[0]); topicFile=path.join(topicDir,'index.html');
-      if(year===5){
-        const legacyPdf=`/worksheets/year5/${subject}/teacher-slides/${code.toLowerCase()}-teacher-slide.pdf`;
-        const expectedDisplay=`/year5/${subject}/${matches[0]}/teacher-slides/`;
-        if(idx.includes(legacyPdf)) issues.push('Year 5 curriculum hub exposes a legacy Teacher Slide PDF');
-        if(!anchors(idx).some(a=>a.href===expectedDisplay)) issues.push('Year 5 curriculum hub does not link its Teacher Display Page');
+      if(year===5||year===6){
+        const legacyPdf=`/worksheets/year${year}/${subject}/teacher-slides/${code.toLowerCase()}-teacher-slide.pdf`;
+        const legacyViewer=`/worksheets/year${year}/${subject}/teacher-slides/viewer/?code=${code}`;
+        const expectedDisplay=`/year${year}/${subject}/${matches[0]}/teacher-slides/`;
+        if(idx.includes(legacyPdf)||idx.includes(legacyViewer)) issues.push(`Year ${year} curriculum hub exposes a legacy Teacher Slide route`);
+        if(!anchors(idx).some(a=>a.href===expectedDisplay)) issues.push(`Year ${year} curriculum hub does not link its Teacher Display Page`);
       }
       if(!fs.existsSync(topicFile)) issues.push('missing Topic Guide index.html'); else {
         const html=read(topicFile); const text=html.replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'');
@@ -76,7 +77,7 @@ for (let year=1; year<=7; year++) for (const subject of subjects) {
         } else {
           const viewerFile=found.file, viewer=read(viewerFile), assets=localAssets(viewerFile,viewer); viewerDesc=norm(viewerFile); slideCount=assets.length;
           const isTeacherDisplayPage = /Teacher Display Page/i.test(viewer) && /data-single-open/i.test(viewer);
-          if(year===5 && !isTeacherDisplayPage) issues.push('Year 5 Teacher Slides must use the Year 4-style static Teacher Display Page');
+          if((year===5||year===6) && !isTeacherDisplayPage) issues.push(`Year ${year} Teacher Slides must use the Year 4-style static Teacher Display Page`);
           if(!isTeacherDisplayPage && !assets.length && !/<img\b[^>]+src=["'][^"']+\.(?:png|jpe?g|webp|svg)/i.test(viewer) && !/\bdata-slide\b/i.test(viewer)) issues.push('Teacher Slide viewer has no fixed pre-rendered slide images');
           if(!isTeacherDisplayPage && !/(?:Previous|Next|data-slide-(?:previous|next)|data-(?:prev|next)|aria-label=["']Next slide)/i.test(viewer)) issues.push('Teacher Slide viewer lacks page-by-page navigation');
           if(/(?:lower-materials-render|topic-modules-render|lesson-render|teachingSlides|\.slides\.forEach|render\w*slide)/i.test(viewer)) issues.push('Teacher Slides are assembled at runtime');
