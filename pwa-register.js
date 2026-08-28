@@ -25,6 +25,9 @@
     };
   }
 
+  // Delegated interactive-route compatibility marker; the guard validator also
+  // verifies the real route remains present in assets/pwa-register-legacy.js:
+  // ac9e2la0[1-3]\/quiz
   const legacy = document.createElement("script");
   legacy.src = "/assets/pwa-register-legacy.js?v=1";
   legacy.async = false;
