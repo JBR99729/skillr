@@ -32,9 +32,9 @@ START_MARKER = "<!-- skillr-facebook-feedback:start -->"
 END_MARKER = "<!-- skillr-facebook-feedback:end -->"
 
 GENERATED_RE = re.compile(
-    r"<!--\s*skillr-facebook-feedback:start\s*-->[\s\S]*?"
+    r"^[ \t]*<!--\s*skillr-facebook-feedback:start\s*-->[\s\S]*?"
     r"<!--\s*skillr-facebook-feedback:end\s*-->(?:\r?\n)?",
-    re.I,
+    re.I | re.M,
 )
 
 # Remove the one-page AC9S7U01 prototype when converting it to the generated form.
