@@ -53,7 +53,12 @@ for (const unit of units) {
     const viewer = read(teacherViewer);
     if (!/<meta\b[^>]*name=["']robots["'][^>]*content=["']noindex,\s*follow["']/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must be noindex,follow`);
     if (!viewer.includes(`<link rel="canonical" href="${expectedCanonical}">`)) failures.push(`${code}: teacher-slides viewer must canonicalise to parent topic URL`);
-    if (!(/<img\b[^>]+slide-/i.test(viewer) || /\bdata-slide\b/i.test(viewer)) || !/(?:Previous|data-prev|data-slide-previous|id=["']prev["'])/i.test(viewer) || !/(?:Next|data-next|data-slide-next|id=["']next["'])/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must expose fixed slide pages and navigation`);
+    if (!viewer.includes('Teacher Display Page')) failures.push(`${code}: teacher-slides viewer must be the plain HTML Teacher Display Page`);
+    if (!viewer.includes('data-single-open')) failures.push(`${code}: teacher display page must use single-open collapsible sections`);
+    if (!viewer.includes('class="example-board"') || !viewer.includes('class="example-card"')) failures.push(`${code}: teacher display page must include readable visual example cards`);
+    if (!viewer.includes('viewBox="0 0 136 108"')) failures.push(`${code}: teacher display examples must include inline SVG teaching icons`);
+    if (!viewer.includes('skillrhublearning@gmail.com')) failures.push(`${code}: teacher display page must include SkillrHub contact ending`);
+    if (/teacher-slide-viewer|fixed-slide-viewer|data-fixed-slide-viewer|data-slide-previous|data-slide-next|data-slide-fullscreen|id=["']prev["']|id=["']next["']|@media\s+print/i.test(viewer)) failures.push(`${code}: teacher display page must not expose legacy slide navigation or print styling`);
     if (/href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i.test(viewer)) failures.push(`${code}: teacher-slides viewer must not expose PPTX/PDF downloads`);
   }
 }
