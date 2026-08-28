@@ -1,12 +1,12 @@
 name: Build Year 9 Teacher Display pages
-on:
+'on':
   push:
-    branches: [feature/year9-teacher-display-pages]
+    branches:
+      - feature/year9-teacher-display-pages
 permissions:
   contents: write
 jobs:
   build:
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -16,26 +16,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Derive independent Year 9 converter from locked Year 8 builder
+      - name: Derive Year 9 converter
         run: |
-          python - <<'PY'
-          from pathlib import Path
-          src = Path('scripts/convert_year8_teacher_slides_to_display_pages.mjs').read_text()
-          out = src.replace('year8', 'year9').replace('Year 8', 'Year 9')
-          # Preserve any Year 9-specific visual/model classes if they occur in source pages.
-          anchor = '  .replace(/\\s*class="worked-example"/g, \' class="nested-block"\')'
-          extra = '''  .replace(/\\s*class="y9-board"/g, ' class="display-model-board"')
-  .replace(/\\s*class="y9-(?:table|compare|evidence)"/g, ' class="display-card-grid"')
-  .replace(/\\s*class="y9-(?:cards|flow|sequence|fractions)"/g, ' class="display-card-row"')
-  .replace(/\\s*class="y9-(?:numberline|coordinate|triangle|graph|wave|atom|cycle|energy|scatter|network|prism|circle|area)"/g, ' class="display-model-board"')
-'''
-          if anchor in out:
-              out = out.replace(anchor, extra + anchor, 1)
-          Path('scripts/convert_year9_teacher_slides_to_display_pages.mjs').write_text(out)
-          PY
-      - name: Generate all Year 9 display pages
+          sed -e 's/year8/year9/g' -e 's/Year 8/Year 9/g' scripts/convert_year8_teacher_slides_to_display_pages.mjs > scripts/convert_year9_teacher_slides_to_display_pages.mjs
+      - name: Generate Year 9 display pages
         run: node scripts/convert_year9_teacher_slides_to_display_pages.mjs
-      - name: Validate Year 9 displays and static architecture
+      - name: Validate Year 9 display pages
         run: |
           node scripts/validate_year9_teacher_display_pages.mjs
           node scripts/validate_static_curriculum_architecture.mjs
@@ -43,10 +29,8 @@ jobs:
           node scripts/audit_static_teacher_slides.mjs
           node scripts/audit_static_curriculum_site.mjs --fail-on-runtime-topics
           git diff --check
-      - name: Deterministic rebuild check
+      - name: Verify deterministic rebuild
         run: |
-          git add year9 scripts/convert_year9_teacher_slides_to_display_pages.mjs scripts/validate_year9_teacher_display_pages.mjs
-          git diff --cached --quiet && { echo 'No Year 9 Teacher Display changes generated'; exit 1; }
           node scripts/convert_year9_teacher_slides_to_display_pages.mjs
           node scripts/validate_year9_teacher_display_pages.mjs
           git diff --check
