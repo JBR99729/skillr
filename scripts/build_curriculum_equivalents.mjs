@@ -412,32 +412,41 @@ function sourceForNsw(unit) {
   return unit.yearNumber && unit.yearNumber >= 7 ? SOURCES.nswScienceSecondary : SOURCES.nswSciencePrimary;
 }
 
-const source = JSON.parse(fs.readFileSync(UNITS_FILE, 'utf8'));
-const mappings = {};
-
-for (const unit of source.units) {
-  const regions = international(unit);
-  mappings[unit.code] = {
-    code: unit.code,
-    subject: unit.subject,
-    year: unit.levelLabel,
-    title: unit.title,
-    skill: unit.description,
-    url: unit.url,
-    australia: { framework: 'Australian Curriculum v9.0', code: unit.code, level: unit.levelLabel, url: SOURCES.australia },
-    victoria: { framework: `Victorian Curriculum F–10 Version 2.0 — ${unit.subject}`, code: victoriaCode(unit), level: victoriaLevel(unit), relationship: 'matching or closely related content', url: sourceForVictoria(unit.subjectSlug) },
-    nsw: { framework: unit.subjectSlug === 'maths' ? 'NSW Mathematics K–10 Syllabus (2022)' : unit.subjectSlug === 'english' ? 'NSW English K–10 Syllabus (2022)' : unit.yearNumber && unit.yearNumber >= 7 ? 'NSW Science 7–10 Syllabus (2023)' : 'NSW Science and Technology K–6 Syllabus (2024)', code: nswCode(unit), level: nswStage(unit.yearNumber), relationship: 'closest outcome alignment', url: sourceForNsw(unit) },
-    ...regions,
-  };
-}
-
-if (Object.keys(mappings).length !== source.units.length) throw new Error('Mapping output count does not match curriculum inventory.');
-for (const [code, mapping] of Object.entries(mappings)) {
-  for (const key of ['victoria', 'nsw', 'usa', 'canada', 'england', 'india']) {
-    if (!mapping[key]?.level || !mapping[key]?.framework || !mapping[key]?.url) throw new Error(`${code}: incomplete ${key} mapping`);
+export function buildCurriculumEquivalents() {
+  const inventory = JSON.parse(fs.readFileSync(UNITS_FILE, 'utf8'));
+  const mappings = {};
+  for (const unit of inventory.units) {
+    const regions = international(unit);
+    mappings[unit.code] = {
+      code: unit.code,
+      subject: unit.subject,
+      year: unit.levelLabel,
+      title: unit.title,
+      skill: unit.description,
+      url: unit.url,
+      australia: { framework: 'Australian Curriculum v9.0', code: unit.code, level: unit.levelLabel, url: SOURCES.australia },
+      victoria: { framework: `Victorian Curriculum F–10 Version 2.0 — ${unit.subject}`, code: victoriaCode(unit), level: victoriaLevel(unit), relationship: 'matching or closely related content', url: sourceForVictoria(unit.subjectSlug) },
+      nsw: { framework: unit.subjectSlug === 'maths' ? 'NSW Mathematics K–10 Syllabus (2022)' : unit.subjectSlug === 'english' ? 'NSW English K–10 Syllabus (2022)' : unit.yearNumber && unit.yearNumber >= 7 ? 'NSW Science 7–10 Syllabus (2023)' : 'NSW Science and Technology K–6 Syllabus (2024)', code: nswCode(unit), level: nswStage(unit.yearNumber), relationship: 'closest outcome alignment', url: sourceForNsw(unit) },
+      ...regions,
+    };
   }
-  if (!mapping.victoria.code || !mapping.nsw.code) throw new Error(`${code}: missing Australian state code mapping`);
+  if (Object.keys(mappings).length !== inventory.units.length) throw new Error('Mapping output count does not match curriculum inventory.');
+  for (const [code, mapping] of Object.entries(mappings)) {
+    for (const key of ['victoria', 'nsw', 'usa', 'canada', 'england', 'india']) {
+      if (!mapping[key]?.level || !mapping[key]?.framework || !mapping[key]?.url) throw new Error(`${code}: incomplete ${key} mapping`);
+    }
+    if (!mapping.victoria.code || !mapping.nsw.code) throw new Error(`${code}: missing Australian state code mapping`);
+  }
+  return { generatedBy: 'scripts/build_curriculum_equivalents.mjs', convention: 'International entries are matching or closely related planning references, not claims that curricula are identical.', sources: SOURCES, mappings };
 }
 
-fs.writeFileSync(OUTPUT_FILE, `${JSON.stringify({ generatedBy: 'scripts/build_curriculum_equivalents.mjs', convention: 'International entries are matching or closely related planning references, not claims that curricula are identical.', sources: SOURCES, mappings }, null, 2)}\n`);
-console.log(`Wrote ${Object.keys(mappings).length} curriculum equivalence records to ${path.relative(ROOT, OUTPUT_FILE)}.`);
+export const curriculumEquivalents = buildCurriculumEquivalents();
+
+if (path.resolve(process.argv[1] || '') === fileURLToPath(import.meta.url)) {
+  if (process.argv.includes('--write')) {
+    fs.writeFileSync(OUTPUT_FILE, `${JSON.stringify(curriculumEquivalents, null, 2)}\n`);
+    console.log(`Wrote ${Object.keys(curriculumEquivalents.mappings).length} curriculum equivalence records to ${path.relative(ROOT, OUTPUT_FILE)}.`);
+  } else {
+    console.log(`Built ${Object.keys(curriculumEquivalents.mappings).length} curriculum equivalence records in memory.`);
+  }
+}

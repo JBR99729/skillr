@@ -3,9 +3,9 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { curriculumEquivalents as source } from './build_curriculum_equivalents.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const DATA_FILE = path.join(ROOT, 'data', 'curriculum-equivalents.json');
 const START = '<!-- skillr-curriculum-equivalents:start -->';
 const END = '<!-- skillr-curriculum-equivalents:end -->';
 const JSON_START = '<!-- skillr-curriculum-equivalents-jsonld:start -->';
@@ -123,7 +123,6 @@ function insertAfterDetailsId(html, id, content) {
 
 const requestedStages = new Set(process.argv.slice(2).filter(arg => !arg.startsWith('--')));
 const dryRun = process.argv.includes('--check');
-const source = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
 let changed = 0;
 let checked = 0;
 

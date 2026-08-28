@@ -3,10 +3,9 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { curriculumEquivalents as source } from './build_curriculum_equivalents.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const DATA_FILE = path.join(ROOT, 'data', 'curriculum-equivalents.json');
-const source = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
 const expectedRegions = ['Australia', 'Victoria', 'New South Wales', 'United States (USA)', 'Canada (Ontario)', 'United Kingdom (England)', 'India'];
 const failures = [];
 const counts = new Map();
