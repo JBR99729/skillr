@@ -104,6 +104,23 @@ function insertBeforeFirst(html, markers, content) {
   throw new Error('No safe insertion point found.');
 }
 
+function insertAfterDetailsId(html, id, content) {
+  const startPattern = new RegExp(`<details\\b[^>]*id=["']${id}["'][^>]*>`, 'i');
+  const startMatch = startPattern.exec(html);
+  if (!startMatch) return null;
+  const tags = /<details\b[^>]*>|<\/details>/gi;
+  tags.lastIndex = startMatch.index;
+  let depth = 0;
+  for (let tag = tags.exec(html); tag; tag = tags.exec(html)) {
+    if (/^<details\b/i.test(tag[0])) depth += 1;
+    else {
+      depth -= 1;
+      if (depth === 0) return `${html.slice(0, tags.lastIndex)}${content}${html.slice(tags.lastIndex)}`;
+    }
+  }
+  throw new Error(`Could not balance details#${id}.`);
+}
+
 const requestedStages = new Set(process.argv.slice(2).filter(arg => !arg.startsWith('--')));
 const dryRun = process.argv.includes('--check');
 const source = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
@@ -121,7 +138,8 @@ for (const mapping of Object.values(source.mappings)) {
   html = removeLegacyInternationalDetails(html);
   try {
     html = insertBeforeFirst(html, ['</head>'], buildJsonLd(mapping));
-    html = insertBeforeFirst(html, [/<details\b[^>]*id=["']resources["']/i, /<details\b[^>]*id=["']official-references["']/i, '<!-- skillr-facebook-feedback:start -->', '</main>', '</body>'], buildBlock(mapping));
+    const afterOfficialReferences = insertAfterDetailsId(html, 'official-references', buildBlock(mapping));
+    html = afterOfficialReferences ?? insertBeforeFirst(html, ['<!-- skillr-facebook-feedback:start -->', '</main>', '</body>'], buildBlock(mapping));
   } catch (error) {
     throw new Error(`${mapping.code} (${path.relative(ROOT, file)}): ${error.message}`);
   }

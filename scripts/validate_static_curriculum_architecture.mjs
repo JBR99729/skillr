@@ -21,7 +21,7 @@ function hasTeacherDisplayPage(html) {
     && /data-single-open/i.test(html)
     && /<details\b/i.test(html)
     && /<summary\b/i.test(html)
-    && /(?:Clean visual examples|Worked examples)/i.test(html)
+    && /Clean visual examples/i.test(html)
     && !/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(html)
     && /skillrhublearning@gmail\.com/i.test(html);
 }
@@ -39,18 +39,39 @@ function isTeacherRedirectShim(html) {
 // architecture check below.
 const generatedFeedback = /<!--\s*skillr-facebook-feedback:start\s*-->[\s\S]*?<!--\s*skillr-facebook-feedback:end\s*-->(?:\r?\n)?/gi;
 const legacyFeedbackPrototype = /<section\b[^>]*aria-labelledby=["']skillr-feedback-title(?:-[^"']*)?["'][^>]*>[\s\S]*?<\/section>(?:\r?\n)?/gi;
+const generatedCurriculumEquivalents = /<!--\s*skillr-curriculum-equivalents:start\s*-->[\s\S]*?<!--\s*skillr-curriculum-equivalents:end\s*-->(?:\r?\n)?/gi;
+const generatedCurriculumEquivalentsJsonLd = /<!--\s*skillr-curriculum-equivalents-jsonld:start\s*-->[\s\S]*?<!--\s*skillr-curriculum-equivalents-jsonld:end\s*-->(?:\r?\n)?/gi;
 
-function stripFeedback(html) {
-  return html.replace(generatedFeedback, '').replace(legacyFeedbackPrototype, '');
+function removeLegacyInternationalDetails(html) {
+  const phraseIndex = html.search(/Accurate International Curriculum Mapping/i);
+  if (phraseIndex < 0) return html;
+  const start = html.lastIndexOf('<details', phraseIndex);
+  if (start < 0) return html;
+  const tags = /<details\b[^>]*>|<\/details>/gi;
+  tags.lastIndex = start;
+  let depth = 0;
+  for (let tag = tags.exec(html); tag; tag = tags.exec(html)) {
+    if (/^<details\b/i.test(tag[0])) depth += 1;
+    else if (--depth === 0) return `${html.slice(0, start)}${html.slice(tags.lastIndex)}`;
+  }
+  return html;
 }
 
-function isFeedbackOnlyChange(file, currentHtml) {
+function stripGeneratedSupplementaryContent(html) {
+  return removeLegacyInternationalDetails(html)
+    .replace(generatedFeedback, '')
+    .replace(legacyFeedbackPrototype, '')
+    .replace(generatedCurriculumEquivalents, '')
+    .replace(generatedCurriculumEquivalentsJsonLd, '');
+}
+
+function isGeneratedSupplementaryOnlyChange(file, currentHtml) {
   try {
     const baseHtml = execFileSync('git', ['show', `${base}:${file}`], {
       encoding: 'utf8',
       maxBuffer: 20 * 1024 * 1024,
     });
-    return stripFeedback(baseHtml) === stripFeedback(currentHtml);
+    return stripGeneratedSupplementaryContent(baseHtml) === stripGeneratedSupplementaryContent(currentHtml);
   } catch {
     return false;
   }
@@ -60,7 +81,7 @@ for (const file of changed) {
   if (!fs.existsSync(file)) continue;
   if (topicPath.test(file)) {
     const html = fs.readFileSync(file, 'utf8');
-    if (isFeedbackOnlyChange(file, html)) continue;
+    if (isGeneratedSupplementaryOnlyChange(file, html)) continue;
     if (!/<details\b/i.test(html) || !/<summary\b/i.test(html)) errors.push(`${file}: migrated topic pages must use native <details>/<summary> sections`);
     if (/id=["'](?:topicRoot|year\d+Topic|slideRoot)["'][^>]*>\s*(?:<p[^>]*>)?\s*Loading/i.test(html)) errors.push(`${file}: curriculum teaching content cannot be a runtime Loading shell`);
     if (/(?:year\d+-(?:maths|science|english)-(?:render|topic)|topic-modules-render|lesson-render|lower-materials-render|foundation-.*render)\.js/i.test(html)) errors.push(`${file}: canonical topic teaching content must not depend on a curriculum renderer`);
