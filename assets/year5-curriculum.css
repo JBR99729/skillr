@@ -20,3 +20,10 @@
 .y5-sequence{display:grid;grid-template-columns:repeat(auto-fit,minmax(145px,1fr));gap:8px}.y5-sequence>div{display:grid;gap:5px;border:1px solid #d9e5f5;border-radius:11px;background:#fff;padding:9px}.y5-sequence i{display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:#2457d6;color:#fff;font-style:normal;font-weight:900}.y5-sequence span{font-size:.75rem;color:#53677f}
 .y5-net{display:flex;align-items:center;justify-content:center;gap:26px;flex-wrap:wrap}.y5-net .net-shape{position:relative;width:170px;height:145px}.y5-net .net-shape i{position:absolute;width:42px;height:42px;border:2px solid #2457d6;background:#dbeafe}.y5-net .n1{left:43px;top:43px}.y5-net .n2{left:0;top:43px}.y5-net .n3{left:86px;top:43px}.y5-net .n4{left:129px;top:43px}.y5-net .n5{left:43px;top:0}.y5-net .n6{left:43px;top:86px}.y5-net>b{color:#2457d6}.y5-net .cube{width:90px;height:90px;transform:skewY(-10deg);border:3px solid #2457d6;background:#dbeafe}.y5-net>strong{width:100%;text-align:center}
 @media(max-width:760px){.y5-particles,.y5-transform{grid-template-columns:1fr}.y5-rays{grid-template-columns:1fr}.y5-rays .ray-lines i{transform:rotate(90deg)}.y5-evidence{display:grid}.y5-evidence>b{transform:rotate(90deg)}.y5-table span{font-size:.75rem;padding:6px}}
+
+/* Year 5 runtime topic renderer: teaching content is single-column by default. */
+.curriculum-shell .lesson-part>.mini-grid-3,
+.curriculum-shell .lesson-part>.mini-grid-4,
+.curriculum-shell .lesson-part>.success-grid,
+.curriculum-shell .lesson-part>.reasoning-strip,
+.curriculum-shell .micro-hero>.hero-visual{grid-template-columns:minmax(0,1fr)!important}
