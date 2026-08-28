@@ -71,7 +71,8 @@ The user explicitly unlocked this architecture on 2026-08-28 to add the followin
 - The next slide or slides copy the topic page's Important questions and answers section.
 - The next slide or slides copy the topic page's Assessment-style questions and review hints section.
 - The final slide copies the topic page's Exit ticket or mastery-check section.
-- If the topic page does not contain a required section, the global builder must report the missing source and must not invent replacement content, infer an answer, convert a hint into an answer or silently overwrite the existing deck.
+- If the topic page does not contain a required section, that section must first be authored or repaired on the static topic page, reviewed for curriculum accuracy and year-level boundaries, and committed as the canonical source. The slide builder must then copy it; it must never independently invent replacement content, infer an answer or convert a hint into an answer.
+- Site-wide remediation must proceed in year/subject batches. Each authored section must be curriculum-code-specific, preserve strong existing content and pass topic-page QA before its teacher deck is rebuilt. Generic filler and blind one-template overwrites are prohibited.
 - The build output is fixed, pre-generated static HTML with inline or local fixed SVG/HTML slide pages. Runtime extraction, runtime curriculum assembly, public PPTX/PDF delivery and generative authoring are prohibited.
 - The public viewer provides only page-by-page navigation, slide count, keyboard navigation and fullscreen. It must not expose a download, print, PPTX or PDF control or link.
 - Branding and watermarking must remain subtle and outside protected teaching-content areas. The curriculum code footer must use its reserved safe area; no brand element may cover, crowd or visually compete with teaching content.
