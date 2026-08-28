@@ -42,10 +42,11 @@ for(const code of valid){const u=units[code];if(!u){fail(code,"missing canonical
   const staticTopic=/curriculum-shell|topic-guide|teacher-slides\/|Topic guide/i.test(topicHtml);
   if(!topicExists||(!topicHtml.includes(`year3-maths-render.js?v=${CACHE_VERSION}`)&&!staticTopic))fail(code,"topic route not wired at current cache version");
   if(!sheetExists||!/year3-maths-worksheet-page\.js\?v=\d+/.test(sheetHtml))fail(code,"worksheet route not wired at current cache version");
-  if(!fs.existsSync(path.join(root,"worksheets/year3/maths/teacher-slides",`${code.toLowerCase()}-teacher-slide.pdf`)))fail(code,"legacy PDF missing");
+  const teacherPage=path.join(root,"year3/maths",u.slug,"teacher-slides/index.html");
+  if(!fs.existsSync(teacherPage))fail(code,"static teacher display page missing");
   for(const target of [
     topic,sheet,direct1,direct2,path.join(root,"quiz/year-3/math",code.toLowerCase(),"practice/index.html"),path.join(root,"quiz/year-3/math",code.toLowerCase(),"test/index.html"),
-    path.join(root,"worksheets/year3/maths/teacher-slides/live.html"),path.join(root,"worksheets/year3/maths/teacher-slides",`${code.toLowerCase()}-teacher-slide.pdf`)
+    path.join(root,"worksheets/year3/maths/teacher-slides/live.html"),path.join(root,"year3/maths",u.slug,"teacher-slides/index.html")
   ])if(!fs.existsSync(target))fail(code,`link target missing: ${path.relative(root,target)}`);
   const topicAssets=["data-base","data-n1","data-n2","data-n3","data-a","data-m1","data-m2","data-sp","data-st","data-p","render"];
   if(!staticTopic){for(const asset of topicAssets)if(!topicHtml.includes(`year3-maths-${asset}.js?v=${CACHE_VERSION}`))fail(code,`topic cache version missing for ${asset}`);}
@@ -64,13 +65,12 @@ const slide=fs.readFileSync(path.join(root,"assets/year3-maths-slide.js"),"utf8"
 if(!slide.includes("<details>")||!slide.includes("expected_response")||!slide.includes("remediation"))fail("slides","answer/guidance is not concealed");
 const topicRender=fs.readFileSync(path.join(root,"assets/year3-maths-render.js"),"utf8"),sheetRender=fs.readFileSync(path.join(root,"assets/year3-maths-worksheet-page.js"),"utf8");
 const slideRoute=fs.readFileSync(path.join(root,"worksheets/year3/maths/teacher-slides/live.html"),"utf8");
-for(const asset of ["data-base","data-n1","data-n2","data-n3","data-a","data-m1","data-m2","data-sp","data-st","data-p","slide"])if(!slideRoute.includes(`year3-maths-${asset}.js?v=${CACHE_VERSION}`))fail("cache",`slide route cache version missing for ${asset}`);
-if(/year3-maths-(?:data-[a-z0-9]+|slide)\.js\?v=(?!4\b)\d+/.test(slideRoute))fail("cache","slide route contains stale asset version");
+if(!slideRoute.includes("teacherDisplayPages")||!slideRoute.includes("location.replace(target)"))fail("cache","legacy live slide route must redirect to static teacher display pages");
 for(const asset of ["data-base","data-n1","data-n2","data-n3","data-a","data-m1","data-m2","data-sp","data-st","data-p"])if(!sheetRender.includes(`year3-maths-${asset}.js?v=${CACHE_VERSION}`))fail("cache",`worksheet loader cache version missing for ${asset}`);
 if(/year3-maths-data-[a-z0-9]+\.js\?v=(?!4\b)\d+/.test(sheetRender))fail("cache","worksheet loader contains stale data version");
 for(const token of ["Teacher slide","Topic Practice 1","Topic Practice 2","Practice","Test","topic-practice-1","topic-practice-2"])if(!topicRender.includes(token))fail("links",`topic missing ${token} link`);
 for(const token of ["Back to topic","Teacher slides","Open Practice","Open Test","topic-practice-1","topic-practice-2","worksheet-tabs"])if(!sheetRender.includes(token))fail("links",`worksheet missing ${token} link`);
-if(!slide.includes("legacy PDF")||!slide.includes("back.href"))fail("links","slides missing topic or legacy-PDF link");
+if(!slide.includes("back.href"))fail("links","slides missing topic link");
 if(!sheetRender.includes("@page{size:A4 portrait")||!sheetRender.includes('format:"a4"'))fail("print","A4 setup missing");
 if(!sheetRender.includes('/icons/icon-192.png')||!fs.existsSync(path.join(root,"icons/icon-192.png")))fail("print","logo asset missing");
 if(!sheetRender.includes("SkillrHub")||!topicRender.includes("Skillr"))fail("public-brand","public renderer branding missing");

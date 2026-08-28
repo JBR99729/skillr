@@ -1,61 +1,44 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-AU">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="robots" content="noindex,follow">
-<meta name="theme-color" content="#173968">
-<title>Year 3 Maths Teacher Display Redirect | SkillrHub</title>
-<style>
-:root{--blue:#173968;--bright:#2457d6;--line:#c7d5e8;--ink:#10233f}
-*{box-sizing:border-box}
-body{margin:0;min-height:100vh;display:grid;place-items:center;background:#edf2f8;color:var(--ink);font-family:Arial,Helvetica,sans-serif}
-main{width:min(760px,calc(100% - 32px));padding:28px;border:1px solid var(--line);border-radius:14px;background:#fff}
-h1{margin:0 0 10px;color:var(--blue);font-size:clamp(28px,5vw,44px)}
-p{font-size:18px;line-height:1.45}
-a{display:inline-flex;margin-top:10px;padding:12px 16px;border-radius:10px;background:var(--blue);color:#fff;font-weight:900;text-decoration:none}
-</style>
-<script>
-const teacherDisplayPages={
-  "AC9M3N01": "/year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/teacher-slides/",
-  "AC9M3N02": "/year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/teacher-slides/",
-  "AC9M3N03": "/year3/maths/ac9m3n03-add-and-subtract-two-and-three-digit-numbers-using-place-value/teacher-slides/",
-  "AC9M3N04": "/year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/teacher-slides/",
-  "AC9M3N05": "/year3/maths/ac9m3n05-estimate-the-quantity-of-objects-in-collections-and-make/teacher-slides/",
-  "AC9M3N06": "/year3/maths/ac9m3n06-mathematical-modelling-to-solve-practical-problems-involving/teacher-slides/",
-  "AC9M3N07": "/year3/maths/ac9m3n07-follow-and-create-algorithms-involving-a-sequence-of-steps-and/teacher-slides/",
-  "AC9M3A01": "/year3/maths/ac9m3a01-and-explain-the-connection-between-addition-and-subtraction-as/teacher-slides/",
-  "AC9M3A02": "/year3/maths/ac9m3a02-extend-and-apply-knowledge-of-addition-and-subtraction-facts-to/teacher-slides/",
-  "AC9M3A03": "/year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/teacher-slides/",
-  "AC9M3M01": "/year3/maths/ac9m3m01-which-metric-units-are-used-to-measure-everyday-items-use/teacher-slides/",
-  "AC9M3M02": "/year3/maths/ac9m3m02-measure-and-compare-objects-using-familiar-metric-units-of/teacher-slides/",
-  "AC9M3M03": "/year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/teacher-slides/",
-  "AC9M3M04": "/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/teacher-slides/",
-  "AC9M3M05": "/year3/maths/ac9m3m05-angles-as-measures-of-turn-and-compare-angles-with-right/teacher-slides/",
-  "AC9M3M06": "/year3/maths/ac9m3m06-the-relationships-between-dollars-and-cents-and-represent-money/teacher-slides/",
-  "AC9M3SP01": "/year3/maths/ac9m3sp01-make-compare-and-classify-objects-identifying-key-features-and/teacher-slides/",
-  "AC9M3SP02": "/year3/maths/ac9m3sp02-interpret-and-create-two-dimensional-representations-of/teacher-slides/",
-  "AC9M3ST01": "/year3/maths/ac9m3st01-acquire-data-for-categorical-and-discrete-numerical-variables/teacher-slides/",
-  "AC9M3ST02": "/year3/maths/ac9m3st02-and-compare-different-graphical-representations-of-data-sets/teacher-slides/",
-  "AC9M3ST03": "/year3/maths/ac9m3st03-conduct-guided-statistical-investigations-involving-the/teacher-slides/",
-  "AC9M3P01": "/year3/maths/ac9m3p01-practical-activities-and-everyday-events-involving-chance/teacher-slides/",
-  "AC9M3P02": "/year3/maths/ac9m3p02-conduct-repeated-chance-experiments-identify-and-describe/teacher-slides/"
-};
-const params=new URLSearchParams(location.search);
-const code=(params.get("code")||"").toUpperCase();
-const target=teacherDisplayPages[code]||"/year3/curriculum/maths/";
-if(target) location.replace(target);
-</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, follow">
+  <title>Year 3 Maths Teacher Display Redirect</title>
+  <script>
+    const teacherDisplayPages = {
+    "AC9M3A01": "/year3/maths/ac9m3a01-and-explain-the-connection-between-addition-and-subtraction-as/teacher-slides/",
+    "AC9M3A02": "/year3/maths/ac9m3a02-extend-and-apply-knowledge-of-addition-and-subtraction-facts-to/teacher-slides/",
+    "AC9M3A03": "/year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/teacher-slides/",
+    "AC9M3M01": "/year3/maths/ac9m3m01-which-metric-units-are-used-to-measure-everyday-items-use/teacher-slides/",
+    "AC9M3M02": "/year3/maths/ac9m3m02-measure-and-compare-objects-using-familiar-metric-units-of/teacher-slides/",
+    "AC9M3M03": "/year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/teacher-slides/",
+    "AC9M3M04": "/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/teacher-slides/",
+    "AC9M3M05": "/year3/maths/ac9m3m05-angles-as-measures-of-turn-and-compare-angles-with-right/teacher-slides/",
+    "AC9M3M06": "/year3/maths/ac9m3m06-the-relationships-between-dollars-and-cents-and-represent-money/teacher-slides/",
+    "AC9M3N01": "/year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/teacher-slides/",
+    "AC9M3N02": "/year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/teacher-slides/",
+    "AC9M3N03": "/year3/maths/ac9m3n03-add-and-subtract-two-and-three-digit-numbers-using-place-value/teacher-slides/",
+    "AC9M3N04": "/year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/teacher-slides/",
+    "AC9M3N05": "/year3/maths/ac9m3n05-estimate-the-quantity-of-objects-in-collections-and-make/teacher-slides/",
+    "AC9M3N06": "/year3/maths/ac9m3n06-mathematical-modelling-to-solve-practical-problems-involving/teacher-slides/",
+    "AC9M3N07": "/year3/maths/ac9m3n07-follow-and-create-algorithms-involving-a-sequence-of-steps-and/teacher-slides/",
+    "AC9M3P01": "/year3/maths/ac9m3p01-practical-activities-and-everyday-events-involving-chance/teacher-slides/",
+    "AC9M3P02": "/year3/maths/ac9m3p02-conduct-repeated-chance-experiments-identify-and-describe/teacher-slides/",
+    "AC9M3SP01": "/year3/maths/ac9m3sp01-make-compare-and-classify-objects-identifying-key-features-and/teacher-slides/",
+    "AC9M3SP02": "/year3/maths/ac9m3sp02-interpret-and-create-two-dimensional-representations-of/teacher-slides/",
+    "AC9M3ST01": "/year3/maths/ac9m3st01-acquire-data-for-categorical-and-discrete-numerical-variables/teacher-slides/",
+    "AC9M3ST02": "/year3/maths/ac9m3st02-and-compare-different-graphical-representations-of-data-sets/teacher-slides/",
+    "AC9M3ST03": "/year3/maths/ac9m3st03-conduct-guided-statistical-investigations-involving-the/teacher-slides/"
+    };
+    const params = new URLSearchParams(window.location.search);
+    const code = (params.get("code") || "").toUpperCase();
+    const target = teacherDisplayPages[code] || "/year3/curriculum/maths/";
+    window.location.replace(target);
+  </script>
 </head>
 <body>
-<main>
-<h1>Year 3 Maths Teacher Display Page</h1>
-<p>This old live-slide URL has moved to the plain HTML teacher display page for each curriculum code.</p>
-<a id="fallbackLink" href="/year3/curriculum/maths/">Open Year 3 Maths curriculum</a>
-</main>
-<script>
-const link=document.getElementById("fallbackLink");
-if(teacherDisplayPages[code]){link.href=teacherDisplayPages[code];link.textContent="Open " + code + " Teacher Display Page";}
-</script>
+  <p>Teacher Display Page moved. Redirecting to the static teacher display page.</p>
+  <p><a href="/year3/curriculum/maths/">Open Year 3 maths curriculum</a></p>
 </body>
 </html>
