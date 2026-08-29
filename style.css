@@ -3917,6 +3917,116 @@ pre { overflow-x: auto; }
     body.skillr-printing-qr .skillr-qr-print-card { width:7.5in; min-height:9.5in; margin:0 auto; justify-content:center; border-width:4px; break-inside:avoid; page-break-inside:avoid; }
 }
 
+/* Static Classroom View pages: projection and print polish. */
+.display-shell:has(.display-board) {
+    width:min(1400px,100%)!important;
+    padding:clamp(10px,1.4vw,18px)!important;
+}
+.display-shell:has(.display-board) .display-board {
+    border-radius:10px!important;
+}
+.display-shell:has(.display-board) .display-nav {
+    margin-bottom:10px!important;
+}
+.display-shell:has(.display-board) .display-nav a {
+    min-height:36px!important;
+    padding:7px 12px!important;
+    border-radius:8px!important;
+}
+.display-shell:has(.display-board) .display-header {
+    padding:clamp(14px,2vw,26px) clamp(22px,3vw,40px)!important;
+}
+.display-shell:has(.display-board) .display-topic-title {
+    max-width:88ch;
+    font-size:clamp(.92rem,1.1vw,1.12rem)!important;
+    line-height:1.3!important;
+}
+.display-shell:has(.display-board) .display-content {
+    padding:clamp(18px,2.5vw,36px)!important;
+}
+.display-shell:has(.display-board) .section-stack {
+    gap:10px!important;
+}
+.display-shell:has(.display-board) details:not([open]) {
+    border-color:#d8e4f2!important;
+    background:#fbfdff!important;
+}
+.display-shell:has(.display-board) details[open] {
+    border-color:#9bb7e8!important;
+    box-shadow:0 12px 26px rgba(15,23,42,.08)!important;
+}
+.display-shell:has(.display-board) details[open] summary {
+    border-bottom:1px solid var(--line,#d7e3f2)!important;
+}
+.display-shell:has(.display-board) summary {
+    font-size:clamp(21px,2.05vw,34px)!important;
+    line-height:1.15!important;
+}
+.display-shell:has(.display-board) summary span:last-child {
+    font-size:clamp(12px,.9vw,15px)!important;
+}
+.display-shell:has(.display-board) .panel {
+    padding:0 clamp(16px,2vw,26px) clamp(16px,2vw,26px)!important;
+}
+.display-shell:has(.display-board) .content-block {
+    border-radius:8px!important;
+    padding:clamp(16px,2vw,26px)!important;
+}
+.display-shell:has(.display-board) .content-block h2 {
+    font-size:clamp(30px,3.2vw,54px)!important;
+    line-height:1.05!important;
+}
+.display-shell:has(.display-board) .content-block h3 {
+    font-size:clamp(22px,2.2vw,34px)!important;
+    line-height:1.15!important;
+}
+.display-shell:has(.display-board) .content-block p,
+.display-shell:has(.display-board) .content-block li,
+.display-shell:has(.display-board) .content-block dt,
+.display-shell:has(.display-board) .content-block dd {
+    font-size:clamp(18px,1.62vw,27px)!important;
+    line-height:1.32!important;
+}
+.display-shell:has(.display-board) .content-block li {
+    padding:10px 14px!important;
+}
+.display-shell:has(.display-board) .nested-block,
+.display-shell:has(.display-board) .visual-cue,
+.display-shell:has(.display-board) .display-model-board {
+    border-radius:8px!important;
+}
+@media (max-width:720px) {
+    .display-shell:has(.display-board) .display-card-grid,
+    .display-shell:has(.display-board) .example-grid {
+        grid-template-columns:1fr!important;
+    }
+}
+.display-shell:has(.display-board) .display-card-row span,
+.display-shell:has(.display-board) .display-card-grid span,
+.display-shell:has(.display-board) .display-state-card {
+    min-height:50px!important;
+}
+
+@media (max-width:900px) {
+    .display-shell:has(.display-board) .display-board {
+        border-radius:8px!important;
+    }
+}
+
+@media print {
+    .display-shell:has(.display-board) {
+        display:none!important;
+    }
+    body:has(.display-shell .display-board)::before {
+        content:"Classroom View is designed for live projection. Use the topic guide or worksheet for printable resources.";
+        display:block;
+        margin:1in auto;
+        max-width:7in;
+        color:#173968;
+        font:700 14pt/1.45 "Segoe UI", Arial, Helvetica, sans-serif;
+    }
+}
+
 /* Foundation–Year 10 printable worksheet directory */
 .worksheet-year-grid {
     display:grid;
