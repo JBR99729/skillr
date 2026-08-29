@@ -840,12 +840,12 @@
     const questions = getPrintableQuestions();
 
     if (questions.length < WORKSHEET_LIMIT) {
-      alert(`This worksheet needs ${WORKSHEET_LIMIT} unique printable questions. Please add more paper-friendly questions to this set.`);
+      alert(`This homework needs ${WORKSHEET_LIMIT} unique printable questions. Please add more paper-friendly questions to this set.`);
       return;
     }
 
     const button = $("#downloadPdfButton");
-    const original = button?.textContent || "Worksheet";
+    const original = button?.textContent || "Homework";
 
     if (button) {
       button.disabled = true;
@@ -876,7 +876,7 @@
       button.id = "downloadPdfButton";
       button.type = "button";
       button.className = "button button-secondary";
-      button.textContent = "Worksheet";
+      button.textContent = "Homework";
       startButton.insertAdjacentElement("afterend", button);
     }
 
