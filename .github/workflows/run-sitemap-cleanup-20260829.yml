@@ -24,6 +24,8 @@ jobs:
           python-version: '3.x'
       - name: Generate and curate sitemaps
         run: |
+          # Pre-curate the human page so the search index sees the same source on every pass.
+          python3 scripts/tidy_sitemap_html.py
           python3 scripts/generate_sitemap.py
           python3 scripts/prepare_google_sitemap.py
           python3 scripts/tidy_sitemap_html.py
@@ -42,6 +44,7 @@ jobs:
       - name: Verify deterministic rebuild
         run: |
           git diff > /tmp/first.diff
+          python3 scripts/tidy_sitemap_html.py
           python3 scripts/generate_sitemap.py
           python3 scripts/prepare_google_sitemap.py
           python3 scripts/tidy_sitemap_html.py
