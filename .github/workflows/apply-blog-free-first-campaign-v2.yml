@@ -1,0 +1,51 @@
+name: Apply refined blog free-first campaign
+
+on:
+  push:
+    branches: ['content/blog-free-first-campaign-v2']
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: content/blog-free-first-campaign-v2
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply refined campaign
+        run: node scripts/apply_blog_free_first_campaign.mjs
+      - name: Validate campaign
+        run: node scripts/validate_blog_free_first_campaign.mjs
+      - name: Verify idempotency
+        run: |
+          git diff > /tmp/first.diff
+          node scripts/apply_blog_free_first_campaign.mjs
+          git diff > /tmp/second.diff
+          cmp /tmp/first.diff /tmp/second.diff
+          node scripts/validate_blog_free_first_campaign.mjs
+      - name: Verify scope
+        run: |
+          files=$(git diff --name-only)
+          bad=0
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            case "$file" in
+              blogs/*.html) ;;
+              *) echo "Unexpected refined campaign change: $file"; bad=1 ;;
+            esac
+          done <<< "$files"
+          exit "$bad"
+      - name: Commit refined campaign
+        run: |
+          rm .github/workflows/apply-blog-free-first-campaign-v2.yml
+          git add blogs .github/workflows/apply-blog-free-first-campaign-v2.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refine free-first links and campaign claims'
+          git push origin HEAD:content/blog-free-first-campaign-v2
