@@ -1,0 +1,98 @@
+name: Publish Year 8 English worksheet guide
+on:
+  push:
+    branches: [content/year8-english-worksheets-no-subscription-20260829]
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: content/year8-english-worksheets-no-subscription-20260829
+          fetch-depth: 0
+      - name: Add blog hub and sitemap links
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          blog = 'free-year-8-english-worksheets-australia-practice-tests.html'
+          index = Path('blogs/index.html')
+          text = index.read_text()
+          if blog not in text:
+              marker = '<div class="blog-grid">\n'
+              card = '          <article class="blog-card"><h3><a href="free-year-8-english-worksheets-australia-practice-tests.html">Free Year 8 English Worksheets Australia: Practice &amp; Tests</a></h3><p>Curriculum-linked comprehension, language and writing resources with direct free Practice and Test pathways — no monthly subscription required.</p><a class="blog-card__link" href="free-year-8-english-worksheets-australia-practice-tests.html">Read guide →</a></article>\n'
+              if marker not in text:
+                  raise SystemExit('blog-grid marker not found')
+              text = text.replace(marker, marker + card, 1)
+              index.write_text(text)
+
+          sitemap = Path('sitemap-site.xml')
+          xml = sitemap.read_text()
+          url = 'https://skillrhub.com/blogs/free-year-8-english-worksheets-australia-practice-tests.html'
+          if url not in xml:
+              anchor = '  <url>\n    <loc>https://skillrhub.com/blogs/free-year-1-year-2-science-worksheets-printable.html</loc>\n    <lastmod>2026-08-27</lastmod>\n  </url>\n'
+              entry = '  <url>\n    <loc>' + url + '</loc>\n    <lastmod>2026-08-29</lastmod>\n  </url>\n'
+              if anchor not in xml:
+                  raise SystemExit('sitemap insertion anchor not found')
+              xml = xml.replace(anchor, anchor + entry, 1)
+          xml = xml.replace('<loc>https://skillrhub.com/blogs/</loc>\n    <lastmod>2026-08-26</lastmod>', '<loc>https://skillrhub.com/blogs/</loc>\n    <lastmod>2026-08-29</lastmod>')
+          sitemap.write_text(xml)
+          PY
+      - name: Validate article and learning routes
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p = Path('blogs/free-year-8-english-worksheets-australia-practice-tests.html')
+          text = p.read_text()
+          required = [
+            '<meta name="robots" content="index,follow">',
+            'Year 8 English worksheets Australia',
+            'free Year 8 English worksheets',
+            '/quiz/year-8/english/ac9e8ly05/practice/',
+            '/quiz/year-8/english/ac9e8ly05/test/',
+            '/quiz/year-8/english/ac9e8la04/practice/',
+            '/quiz/year-8/english/ac9e8la04/test/',
+            '/quiz/year-8/english/ac9e8ly06/practice/',
+            '/quiz/year-8/english/ac9e8ly06/test/',
+            'Why you may not need another monthly or yearly learning subscription',
+            'Paid learning platforms can be useful.'
+          ]
+          missing = [x for x in required if x not in text]
+          if missing:
+            raise SystemExit('missing required article elements: ' + repr(missing))
+          canonical = re.search(r'<link rel="canonical" href="([^"]+)"', text)
+          if not canonical or canonical.group(1) != 'https://skillrhub.com/blogs/free-year-8-english-worksheets-australia-practice-tests.html':
+            raise SystemExit('canonical mismatch')
+          paths = [
+            'quiz/year-8/english/ac9e8ly05/practice/index.html',
+            'quiz/year-8/english/ac9e8ly05/test/index.html',
+            'quiz/year-8/english/ac9e8la04/practice/index.html',
+            'quiz/year-8/english/ac9e8la04/test/index.html',
+            'quiz/year-8/english/ac9e8ly06/practice/index.html',
+            'quiz/year-8/english/ac9e8ly06/test/index.html',
+            'year8/curriculum/english/index.html'
+          ]
+          bad = [x for x in paths if not Path(x).exists()]
+          if bad:
+            raise SystemExit('missing linked resources: ' + repr(bad))
+          if 'free-year-8-english-worksheets-australia-practice-tests.html' not in Path('blogs/index.html').read_text():
+            raise SystemExit('blog hub missing new article')
+          if 'https://skillrhub.com/blogs/free-year-8-english-worksheets-australia-practice-tests.html' not in Path('sitemap-site.xml').read_text():
+            raise SystemExit('sitemap missing new article')
+          print('Year 8 English weekly blog validation PASS')
+          PY
+          git diff --check
+      - name: Commit publication
+        shell: bash
+        run: |
+          rm .github/workflows/publish-year8-english-worksheet-guide.yml
+          git add blogs/index.html blogs/free-year-8-english-worksheets-australia-practice-tests.html sitemap-site.xml .github/workflows/publish-year8-english-worksheet-guide.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Publish Year 8 English worksheet guide'
+          git push origin HEAD:content/year8-english-worksheets-no-subscription-20260829
