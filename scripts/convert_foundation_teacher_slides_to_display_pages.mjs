@@ -64,7 +64,7 @@ const section = (title, kicker, items) => {
   return `<details><summary><span>${esc(title)}</span><span>${esc(kicker)}</span></summary><div class="panel">${body}</div></details>`;
 };
 
-const contactSection = `<details><summary><span>Need extra information?</span><span>Contact SkillrHub</span></summary><div class="panel"><article class="content-block"><h2>Need this page expanded?</h2><p>If this teacher display page needs an extra example, clearer wording or another classroom explanation, contact <a href="mailto:skillrhublearning@gmail.com">skillrhublearning@gmail.com</a>.</p></article></div></details>`;
+const contactSection = `<details><summary><span>Need teaching slides or worksheets?</span><span>Contact SkillrHub</span></summary><div class="panel"><article class="content-block"><h2>Need professional classroom resources?</h2><p>Teachers and parents: if you need professional, ready-to-display 16:9 teaching slides and matching worksheets for this curriculum code/topic, please email <a href="mailto:skillrhublearning@gmail.com?subject=Resource%20request%3A%20curriculum%20code%20-%20topic">skillrhublearning@gmail.com</a>.</p><p>Please include the curriculum code and topic name in your email so we can prepare the right resource pack. These can be delivered at a small cost.</p></article></div></details>`;
 
 const buildPage = ({ code, subject, topicTitle, canonical, sections, links }) => `<!doctype html>
 <html lang="en-AU">

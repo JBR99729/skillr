@@ -39,7 +39,7 @@ for (const subject of subjects) {
       ['Teacher Display Page', 'Teacher Display Page marker'],
       ['class="display-board"', 'display board'],
       ['data-single-open', 'single-open section behaviour'],
-      ['Need extra information?', 'contact section'],
+      ['Need teaching slides or worksheets?', 'contact section'],
       ['href="../"', 'Topic Guide return link'],
       ['Worked examples', 'worked-examples section'],
       ['>Practice</a>', 'Practice navigation'],
@@ -66,7 +66,7 @@ for (const subject of subjects) {
       if (html.includes(needle)) failures.push(`${subject}/${topic}: contains ${label}`);
     }
 
-    const contactAt = html.lastIndexOf('Need extra information?');
+    const contactAt = html.lastIndexOf('Need teaching slides or worksheets?');
     const assessmentAt = html.indexOf('Assessment and review');
     if (assessmentAt >= 0 && contactAt >= 0 && contactAt < assessmentAt) failures.push(`${subject}/${topic}: contact section is not last`);
   }
