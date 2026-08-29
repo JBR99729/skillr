@@ -239,9 +239,12 @@
       navigator.serviceWorker
         .register("/service-worker.js", { scope: "/", updateViaCache: "none" })
         .then((registration) => {
-          registration.update();
+          // A transient update fetch must not become an unhandled rejection.
+          // The active worker remains usable and the next visibility/load check retries.
+          const requestUpdate = () => registration.update().catch(() => {});
+          requestUpdate();
           document.addEventListener("visibilitychange", () => {
-            if (document.visibilityState === "visible") registration.update();
+            if (document.visibilityState === "visible") requestUpdate();
           });
         })
         .catch((error) => console.error("Skillr Education service worker registration failed:", error));
