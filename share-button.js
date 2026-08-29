@@ -116,7 +116,7 @@
 
     var highlight = document.createElement("aside");
     highlight.id = "free-first-highlight";
-    highlight.setAttribute("aria-label", "Try SkillrHub free resources first");
+    highlight.setAttribute("aria-label", "Request professional teaching slides and worksheets");
     highlight.style.margin = "clamp(14px, 2vw, 22px) 0";
     highlight.style.padding = "clamp(16px, 2.5vw, 24px)";
     highlight.style.border = "1px solid #d9e2ff";
@@ -125,18 +125,18 @@
     highlight.style.boxShadow = "0 6px 18px rgba(36, 87, 214, 0.06)";
 
     var heading = document.createElement("h2");
-    heading.textContent = "Free Australian Curriculum resources you can use right away — no login, no subscription.";
+    heading.textContent = "Teachers and parents: need professional, ready-to-display 16:9 teaching slides and matching worksheets?";
     heading.style.margin = "0";
     heading.style.fontSize = "clamp(1.15rem, 2.4vw, 1.55rem)";
     heading.style.lineHeight = "1.3";
 
     var supporting = document.createElement("p");
-    supporting.textContent = "Start with the topic guides, practice questions and tests. Add paid tools later only if you still need them.";
+    supporting.textContent = "More than 450 curriculum-aligned topics are already written. Email us with the curriculum code or topic, and we can deliver a polished resource pack at a small cost.";
     supporting.style.margin = "8px 0 0";
 
     var link = document.createElement("a");
-    link.href = "#choose-year";
-    link.textContent = "Explore free resources →";
+    link.href = "mailto:skillrhublearning@gmail.com?subject=Teaching%20resource%20request%20-%20curriculum%20code%20or%20topic";
+    link.textContent = "Email your code or topic →";
     link.style.display = "inline-block";
     link.style.marginTop = "10px";
     link.style.fontWeight = "700";
