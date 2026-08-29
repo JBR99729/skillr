@@ -134,7 +134,6 @@
   function closeResults() {
     results.hidden = true;
     results.replaceChildren();
-    input.setAttribute("aria-expanded", "false");
     activeIndex = -1;
   }
 
@@ -154,7 +153,6 @@
     paragraph.textContent = message;
     results.replaceChildren(paragraph);
     results.hidden = false;
-    input.setAttribute("aria-expanded", "true");
   }
 
   function render(items) {
@@ -177,7 +175,6 @@
 
     results.replaceChildren(list);
     results.hidden = false;
-    input.setAttribute("aria-expanded", "true");
     activeIndex = -1;
   }
 
