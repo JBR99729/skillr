@@ -13,16 +13,23 @@ function articleFiles() {
     .sort();
 }
 
-function inferHub(file, html) {
-  const haystack = `${file} ${html.slice(0, 8000)}`.toLowerCase();
-  const subject = ["maths", "science", "english"].find((item) => haystack.includes(item));
-  const foundation = haystack.includes("foundation");
-  const yearMatch = haystack.match(/year[\s-]?(10|[1-9])/i);
-  const subjectLabel = subject ? subject[0].toUpperCase() + subject.slice(1) : "";
-  if (foundation && subject) return { href: `/foundation/curriculum/${subject}/`, label: `Browse free Foundation ${subjectLabel} resources` };
-  if (yearMatch && subject) return { href: `/year${yearMatch[1]}/curriculum/${subject}/`, label: `Browse free Year ${yearMatch[1]} ${subjectLabel} resources` };
-  if (foundation) return { href: "/foundation/curriculum/", label: "Browse free Foundation curriculum resources" };
-  if (yearMatch) return { href: `/year${yearMatch[1]}/curriculum/`, label: `Browse free Year ${yearMatch[1]} curriculum resources` };
+function inferHub(file) {
+  const base = path.basename(file, ".html").toLowerCase();
+  const yearSubject = base.match(/(?:^|-)(?:free-)?year-?(10|[1-9])-(english|maths|science)(?:-|$)/);
+  if (yearSubject) {
+    const [, year, subject] = yearSubject;
+    const label = subject[0].toUpperCase() + subject.slice(1);
+    return { href: `/year${year}/curriculum/${subject}/`, label: `Browse free Year ${year} ${label} resources` };
+  }
+  const foundationSubject = base.match(/(?:^|-)foundation-(english|maths|science)(?:-|$)/);
+  if (foundationSubject && !base.includes("year-10")) {
+    const subject = foundationSubject[1];
+    const label = subject[0].toUpperCase() + subject.slice(1);
+    return { href: `/foundation/curriculum/${subject}/`, label: `Browse free Foundation ${label} resources` };
+  }
+  if (/year-?3-time/.test(base)) {
+    return { href: "/year3/curriculum/maths/", label: "Browse free Year 3 Maths resources" };
+  }
   return { href: "/#curriculum", label: "Browse free curriculum resources" };
 }
 
@@ -44,12 +51,26 @@ function replaceOrInsert(html, block, file) {
   throw new Error(`No safe insertion point for ${file}`);
 }
 
+function tightenKnownClaims(file, html) {
+  if (!file.endsWith("free-year-8-english-worksheets-australia-practice-tests.html")) return html;
+  return html
+    .replace(/No-Subscription Learning Path/g, "Free-First Learning Path")
+    .replace(/without a monthly learning subscription/g, "with a free-first learning path")
+    .replace("<h2>Why you may not need another monthly or yearly learning subscription</h2>", "<h2>Try free resources before committing to a subscription</h2>")
+    .replace("But many families are paying recurring fees when what they mainly need is much simpler:", "Some families may find that what they mainly need is much simpler:")
+    .replace("Large subscription platforms often organise learning into courses, levels or proprietary sequences. That can work well, but it can also make it harder to answer a very simple question:", "Different learning platforms organise content in different ways. For school revision, students may still have a very specific question:")
+    .replace("This is the same basic learning loop many families are looking for when they subscribe to an education app:", "This creates a straightforward learning loop:")
+    .replace("Pay for a service when the additional feature is genuinely valuable — not simply because the useful resources are hidden behind a familiar subscription model.", "If the free resources are being fully used and the learner still needs more support or volume, compare paid options based on that specific need.")
+    .replace("For many Year 8 English learners, the immediate need is not another platform. It is a clear next topic and enough focused practice to master it.", "For some Year 8 English learners, the immediate need may simply be a clear next topic and enough focused practice to master it.");
+}
+
 let changed = 0;
 let checked = 0;
 for (const file of articleFiles()) {
   const html = fs.readFileSync(file, "utf8");
   checked++;
-  let next = replaceOrInsert(html, campaignBlock(inferHub(file, html)), file);
+  let next = tightenKnownClaims(file, html);
+  next = replaceOrInsert(next, campaignBlock(inferHub(file)), file);
   next = next.replace(/("dateModified"\s*:\s*")\d{4}-\d{2}-\d{2}("?)/g, `$1${TODAY}$2`);
   if (next !== html) {
     fs.writeFileSync(file, next);
