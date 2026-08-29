@@ -1,6 +1,6 @@
 name: Refresh sitemaps
 
-# Manual rebuild marker: 2026-08-27 SEO recovery and AC9MFM02 alias
+# Manual rebuild marker: 2026-08-29 curated Google/Search Console sitemap cleanup
 on:
   workflow_dispatch:
   schedule:
@@ -10,7 +10,9 @@ on:
     paths:
       - 'scripts/generate_sitemap.py'
       - 'scripts/prepare_google_sitemap.py'
+      - 'scripts/tidy_sitemap_html.py'
       - 'scripts/validate_sitemap_index_quality.py'
+      - 'scripts/validate_google_sitemap_submission.py'
       - '.github/workflows/refresh-sitemaps.yml'
 
 permissions:
@@ -41,8 +43,14 @@ jobs:
       - name: Prepare Google crawl-priority sitemap
         run: python3 scripts/prepare_google_sitemap.py
 
+      - name: Tidy human sitemap
+        run: python3 scripts/tidy_sitemap_html.py
+
       - name: Validate sitemap index quality
         run: python3 scripts/validate_sitemap_index_quality.py
+
+      - name: Validate Search Console submission set
+        run: python3 scripts/validate_google_sitemap_submission.py
 
       - name: Validate sitemap XML
         run: |
