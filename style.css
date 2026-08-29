@@ -3382,7 +3382,7 @@ footer {
 .home-page .footer-nav .footer-facebook-link:visited {
     padding: 3px 9px;
     border-radius: 6px;
-    background: #1877f2;
+    background: #1664c0;
     color: #fff;
     text-decoration: none;
 }
@@ -3391,7 +3391,7 @@ footer {
 .footer-nav .footer-facebook-link:focus-visible,
 .home-page .footer-nav .footer-facebook-link:hover,
 .home-page .footer-nav .footer-facebook-link:focus-visible {
-    background: #0f5fc4;
+    background: #0d4f9d;
     color: #fff;
 }
 
