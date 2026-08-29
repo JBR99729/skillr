@@ -125,13 +125,13 @@
     highlight.style.boxShadow = "0 6px 18px rgba(36, 87, 214, 0.06)";
 
     var heading = document.createElement("h2");
-    heading.textContent = "Don’t spend a dollar on a paid learning subscription until you’ve used SkillrHub’s free resources.";
+    heading.textContent = "Free Australian Curriculum resources you can use right away — no login, no subscription.";
     heading.style.margin = "0";
     heading.style.fontSize = "clamp(1.15rem, 2.4vw, 1.55rem)";
     heading.style.lineHeight = "1.3";
 
     var supporting = document.createElement("p");
-    supporting.textContent = "Explore the free Maths, Science and English resources first. Then decide if you need anything else.";
+    supporting.textContent = "Start with the topic guides, practice questions and tests. Add paid tools later only if you still need them.";
     supporting.style.margin = "8px 0 0";
 
     var link = document.createElement("a");
