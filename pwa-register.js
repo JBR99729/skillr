@@ -2,7 +2,48 @@
   "use strict";
 
   const path = window.location.pathname;
+  const UPDATES_PATH = "/updates.html";
   const isCanonicalCurriculumTopic = /^\/(?:foundation|year(?:[1-9]|10))\/(?:maths|science|english)\/ac9[a-z0-9]+(?:-|\/)/i.test(path);
+
+  const linkTargetsUpdates = (link) => {
+    try {
+      return new URL(link.getAttribute("href") || "", window.location.href).pathname === UPDATES_PATH;
+    } catch (_) {
+      return false;
+    }
+  };
+
+  const ensureUpdatesLink = (container, beforeSelector = "") => {
+    if (!container || [...container.querySelectorAll("a[href]")].some(linkTargetsUpdates)) return;
+
+    const link = document.createElement("a");
+    link.href = UPDATES_PATH;
+    link.textContent = "Updates";
+    link.classList.add("updates-link");
+    link.dataset.skillrUpdatesLink = "true";
+    if (path === UPDATES_PATH || path === `${UPDATES_PATH}/`) link.setAttribute("aria-current", "page");
+
+    const before = beforeSelector ? container.querySelector(beforeSelector) : null;
+    container.insertBefore(link, before || null);
+  };
+
+  const ensureUpdatesNavigation = () => {
+    document.querySelectorAll("nav.main-nav").forEach((nav) => {
+      ensureUpdatesLink(nav, 'a[href="/about.html"], a[href="/contact.html"]');
+    });
+    document.querySelectorAll(".site-header__links").forEach((nav) => {
+      ensureUpdatesLink(nav, 'a[href="/contact.html"]');
+    });
+    document.querySelectorAll(".site-header__menu-panel").forEach((nav) => {
+      ensureUpdatesLink(nav, 'a[href="/about.html"], a[href="/contact.html"]');
+    });
+  };
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", ensureUpdatesNavigation, { once: true });
+  } else {
+    ensureUpdatesNavigation();
+  }
 
   // STATIC_CURRICULUM_TOPIC_GUARD: canonical F-10 topic pages are complete static HTML.
   // Keep PWA/general utilities, but never allow shared loaders to fetch or inject
