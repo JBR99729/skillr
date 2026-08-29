@@ -3923,7 +3923,6 @@ pre { overflow-x: auto; }
     padding:clamp(10px,1.4vw,18px)!important;
 }
 .display-shell:has(.display-board) .display-board {
-    min-height:min(660px,calc(100vh - 76px))!important;
     border-radius:10px!important;
 }
 .display-shell:has(.display-board) .display-nav {
@@ -3949,7 +3948,8 @@ pre { overflow-x: auto; }
     gap:10px!important;
 }
 .display-shell:has(.display-board) details:not([open]) {
-    opacity:.82;
+    border-color:#d8e4f2!important;
+    background:#fbfdff!important;
 }
 .display-shell:has(.display-board) details[open] {
     border-color:#9bb7e8!important;
@@ -3995,9 +3995,11 @@ pre { overflow-x: auto; }
 .display-shell:has(.display-board) .display-model-board {
     border-radius:8px!important;
 }
-.display-shell:has(.display-board) .display-card-grid,
-.display-shell:has(.display-board) .example-grid {
-    grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr))!important;
+@media (max-width:720px) {
+    .display-shell:has(.display-board) .display-card-grid,
+    .display-shell:has(.display-board) .example-grid {
+        grid-template-columns:1fr!important;
+    }
 }
 .display-shell:has(.display-board) .display-card-row span,
 .display-shell:has(.display-board) .display-card-grid span,
@@ -4005,98 +4007,23 @@ pre { overflow-x: auto; }
     min-height:50px!important;
 }
 
-@media (min-width:1100px) and (min-height:720px) {
-    .display-shell:has(.display-board) .display-board {
-        min-height:calc(100vh - 72px)!important;
-    }
-}
-
 @media (max-width:900px) {
     .display-shell:has(.display-board) .display-board {
-        min-height:0!important;
         border-radius:8px!important;
     }
 }
 
 @media print {
     .display-shell:has(.display-board) {
-        width:auto!important;
-        max-width:none!important;
-        padding:0!important;
-    }
-    .display-shell:has(.display-board) .display-nav {
         display:none!important;
     }
-    .display-shell:has(.display-board) .display-board {
-        display:block!important;
-        min-height:0!important;
-        height:auto!important;
-        aspect-ratio:auto!important;
-        overflow:visible!important;
-        border:0!important;
-        box-shadow:none!important;
-    }
-    .display-shell:has(.display-board) .display-header {
-        padding:0 0 8mm!important;
-        background:#fff!important;
-        color:#173968!important;
-    }
-    .display-shell:has(.display-board) .display-header *,
-    .display-shell:has(.display-board) .display-topic-title {
-        color:#173968!important;
-    }
-    .display-shell:has(.display-board) .display-header > p:last-child,
-    .display-shell:has(.display-board) .display-link-row,
-    .display-shell:has(.display-board) .classroom-related {
-        display:none!important;
-    }
-    .display-shell:has(.display-board) .display-content {
-        overflow:visible!important;
-        padding:0!important;
-    }
-    .display-shell:has(.display-board) .section-stack {
-        display:block!important;
-    }
-    .display-shell:has(.display-board) .section-stack > details {
-        display:block!important;
-        margin:0 0 7mm!important;
-        break-inside:avoid;
-        page-break-inside:avoid;
-        opacity:1!important;
-    }
-    .display-shell:has(.display-board) .section-stack > details:not([open]) > .panel {
-        display:block!important;
-    }
-    .display-shell:has(.display-board) summary {
-        padding:0 0 3mm!important;
-        color:#173968!important;
-        font-size:18pt!important;
-    }
-    .display-shell:has(.display-board) summary::before,
-    .display-shell:has(.display-board) summary span:last-child {
-        display:none!important;
-    }
-    .display-shell:has(.display-board) .panel {
-        padding:0!important;
-    }
-    .display-shell:has(.display-board) .content-block {
-        padding:0 0 4mm!important;
-        border:0!important;
-        box-shadow:none!important;
-        break-inside:avoid;
-    }
-    .display-shell:has(.display-board) .content-block h2 {
-        font-size:21pt!important;
-    }
-    .display-shell:has(.display-board) .content-block h3 {
-        font-size:15pt!important;
-    }
-    .display-shell:has(.display-board) .content-block p,
-    .display-shell:has(.display-board) .content-block li,
-    .display-shell:has(.display-board) .content-block dt,
-    .display-shell:has(.display-board) .content-block dd {
-        font-size:11.5pt!important;
-        line-height:1.35!important;
+    body:has(.display-shell .display-board)::before {
+        content:"Classroom View is designed for live projection. Use the topic guide or worksheet for printable resources.";
+        display:block;
+        margin:1in auto;
+        max-width:7in;
+        color:#173968;
+        font:700 14pt/1.45 "Segoe UI", Arial, Helvetica, sans-serif;
     }
 }
 
