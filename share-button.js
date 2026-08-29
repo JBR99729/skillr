@@ -131,7 +131,7 @@
     heading.style.lineHeight = "1.3";
 
     var supporting = document.createElement("p");
-    supporting.textContent = "More than 450 curriculum-aligned topics are already written. Email us with the curriculum code or topic, and we can deliver a polished resource pack at a small cost.";
+    supporting.textContent = "More than 450 classroom lesson pages have already been created. Email us with the curriculum code or topic, and we can deliver a polished 16:9 slide and worksheet pack at a small cost.";
     supporting.style.margin = "8px 0 0";
 
     var link = document.createElement("a");
