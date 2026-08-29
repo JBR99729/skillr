@@ -1,0 +1,68 @@
+name: Apply Classroom View topical links
+
+on:
+  push:
+    branches:
+      - feature/classroom-view-topic-links
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/classroom-view-topic-links
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build topical Classroom View links
+        run: node scripts/build_classroom_view_topic_links.mjs
+      - name: Validate topical links and Classroom View contract
+        run: |
+          node scripts/validate_classroom_view_topic_links.mjs
+          node scripts/validate_classroom_view_naming.mjs
+          node scripts/validate_year8_teacher_display_pages.mjs
+          node scripts/validate_year9_teacher_display_pages.mjs
+          node scripts/validate_year10_teacher_display_pages.mjs
+      - name: Run static architecture audits
+        run: |
+          node scripts/audit_static_teacher_slides.mjs
+          node scripts/validate_static_curriculum_architecture.mjs
+          node scripts/validate_f10_topic_layout_contract.mjs
+          git diff --check
+      - name: Verify deterministic rebuild
+        run: |
+          git diff > /tmp/first.diff
+          node scripts/build_classroom_view_topic_links.mjs
+          git diff > /tmp/second.diff
+          cmp /tmp/first.diff /tmp/second.diff
+          node scripts/validate_classroom_view_topic_links.mjs
+      - name: Verify scope is Classroom View only
+        run: |
+          git status --short
+          files=$( { git diff --name-only origin/main...HEAD; git diff --name-only; } | sort -u )
+          bad=0
+          while IFS= read -r file; do
+            [ -z "$file" ] && continue
+            case "$file" in
+              foundation/*/teacher-slides/index.html|foundation/*/*/teacher-slides/index.html) ;;
+              year[1-9]/*/*/teacher-slides/index.html|year10/*/*/teacher-slides/index.html) ;;
+              scripts/build_classroom_view_topic_links.mjs|scripts/validate_classroom_view_topic_links.mjs) ;;
+              scripts/convert_*_teacher_slides_to_display_pages.mjs) ;;
+              .github/workflows/apply-classroom-view-topic-links.yml) ;;
+              *) echo "Unexpected non-Classroom-View change: $file"; bad=1 ;;
+            esac
+          done <<< "$files"
+          exit "$bad"
+      - name: Commit topical links
+        run: |
+          rm .github/workflows/apply-classroom-view-topic-links.yml
+          git add foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10 scripts .github/workflows/apply-classroom-view-topic-links.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Interlink Classroom Views by curriculum topic'
+          git push origin HEAD:feature/classroom-view-topic-links
