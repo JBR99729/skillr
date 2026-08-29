@@ -72,7 +72,7 @@ const buildPage = ({ code, subject, topicTitle, canonical, sections, links }) =>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,follow">
-<title>${esc(code)} Teacher Display | SkillrHub</title>
+<title>${esc(code)} Classroom View | SkillrHub</title>
 <link rel="canonical" href="${esc(canonical)}">
 <link rel="stylesheet" href="../../../../style.css">
 <style>
@@ -82,9 +82,9 @@ const buildPage = ({ code, subject, topicTitle, canonical, sections, links }) =>
 </head>
 <body>
 <main class="display-shell">
-<nav class="display-nav" aria-label="Teacher display navigation"><a href="../">Topic Guide</a>${links.practice ? `<a href="${esc(links.practice)}">Practice</a>` : ""}${links.test ? `<a href="${esc(links.test)}">Test</a>` : ""}</nav>
+<nav class="display-nav" aria-label="Classroom View navigation"><a href="../">Topic Guide</a>${links.practice ? `<a href="${esc(links.practice)}">Practice</a>` : ""}${links.test ? `<a href="${esc(links.test)}">Test</a>` : ""}</nav>
 <section class="display-board" aria-labelledby="page-title">
-<header class="display-header"><div><p>Foundation ${esc(titleCaseSubject(subject))}</p><h1 id="page-title">${esc(code)} - ${esc(topicTitle)}</h1><small>Teacher Display Page - plain HTML, landscape-friendly</small></div><p>Open one section at a time</p></header>
+<header class="display-header"><div><p>Foundation ${esc(titleCaseSubject(subject))}</p><h1 id="page-title">Classroom View</h1><small>Ready to project and teach</small><p class="display-topic-title">${esc(code)} - ${esc(topicTitle)}</p><!-- Teacher Display Page --></div><p>Open one section at a time</p></header>
 <div class="display-content"><div class="section-stack" data-single-open>
 ${sections}
 ${contactSection}

@@ -31,7 +31,7 @@ for path in PAGES:
         needle = '<a class="primary" href="#topic-guide">Topic guide</a>'
         if needle not in text2:
             raise RuntimeError('AC9S7U04 topic-guide action not found')
-        text2 = text2.replace(needle, needle + '<a href="teacher-slides/">Teacher Slides</a>', 1)
+        text2 = text2.replace(needle, needle + '<a href="teacher-slides/">Classroom View</a>', 1)
 
     if text2 != text:
         path.write_text(text2, encoding='utf-8')

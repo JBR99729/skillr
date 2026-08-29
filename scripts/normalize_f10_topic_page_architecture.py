@@ -95,7 +95,7 @@ def normalize_teacher_link(source: str) -> str:
     if not FIXED_TEACHER_LINK.search(source):
         source = re.sub(
             r'(<div\s+class=["\']topic-action-row["\']>)',
-            r'\1<a href="teacher-slides/">Teacher Slides</a>',
+            r'\1<a href="teacher-slides/">Classroom View</a>',
             source,
             count=1,
             flags=re.I,

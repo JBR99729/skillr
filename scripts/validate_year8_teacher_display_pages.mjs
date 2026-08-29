@@ -45,8 +45,8 @@ for (const [subject, expectedCount] of Object.entries(expected)) {
       if (!html.includes(needle)) failures.push(`${subject}/${topic}: missing ${label}`);
     }
     if (code && !html.includes(code)) failures.push(`${subject}/${topic}: display does not contain ${code}`);
-    if (code && !html.includes(`<title>${code} Teacher Display | SkillrHub</title>`)) failures.push(`${subject}/${topic}: document title does not start with ${code}`);
-    if (code && !html.includes(`<h1 id="page-title">${code} - `)) failures.push(`${subject}/${topic}: display heading does not start with ${code}`);
+    if (code && !html.includes(`<title>${code} Classroom View | SkillrHub</title>`)) failures.push(`${subject}/${topic}: document title is not ${code} Classroom View`);
+    if (code && !html.includes(`<h1 id="page-title">Classroom View</h1>`)) failures.push(`${subject}/${topic}: display heading is not Classroom View`);
 
     const forbidden = [
       ['fixed-slide-viewer', 'legacy fixed-slide viewer'],

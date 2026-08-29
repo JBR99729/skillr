@@ -163,7 +163,7 @@ for(const year of years){const dir=path.join(root,`worksheets/year${year}/scienc
 
 for(const year of years){
   const file=path.join(root,`year${year}/curriculum/science/index.html`);let html=fs.readFileSync(file,"utf8");
-  html=html.replace(/<a href="\/worksheets\/year(?:8|9|10)\/science\/teacher-slides\/[^"]+" target="_blank" rel="noopener">Teacher slide<\/a>/g,m=>{const code=(m.match(/ac9s(?:8|9|10)[uhi]\d+/i)||[])[0]?.toUpperCase();return code?`<a href="/worksheets/year${year}/science/teacher-slides/live.html?code=${code}">Teacher slides</a>`:m});
+  html=html.replace(/<a href="\/worksheets\/year(?:8|9|10)\/science\/teacher-slides\/[^"]+" target="_blank" rel="noopener">Teacher slide<\/a>/g,m=>{const code=(m.match(/ac9s(?:8|9|10)[uhi]\d+/i)||[])[0]?.toUpperCase();return code?`<a href="/worksheets/year${year}/science/teacher-slides/live.html?code=${code}">Classroom View</a>`:m});
   html=html.replace(/>Worksheet<\/a>/g,">Practice Sheet</a>");
   for(const u of entries.filter(x=>x.year===year)){
     const officialCount=u.elaborations.filter(x=>!x.isTeachingFocus).length;
