@@ -21,6 +21,15 @@ if (!/blockedCurriculumAsset/.test(pwa) || !/curriculum-visual-layer/.test(pwa) 
 if (!pwa.includes('normaliseTeacherSlideLinks') || !pwa.includes('teacher-slides') || !pwa.includes('target.pathname += "index.html"')) {
   errors.push(`${pwaPath}: canonical topic Teacher Slides links must resolve to the concrete static index.html viewer file`);
 }
+if (
+  !pwa.includes('const UPDATES_PATH = "/updates.html"')
+  || !pwa.includes('ensureUpdatesNavigation')
+  || !pwa.includes('nav.main-nav')
+  || !pwa.includes('.site-header__links')
+  || !pwa.includes('.site-header__menu-panel')
+) {
+  errors.push(`${pwaPath}: shared desktop, mobile and PWA navigation must restore the Updates link without duplicating it`);
+}
 
 const legacyPwaPath = 'assets/pwa-register-legacy.js';
 const legacyPwa = read(legacyPwaPath);
@@ -50,4 +59,4 @@ if (errors.length) {
   process.exit(1);
 }
 
-console.log('Static topic loader guards: PASS (canonical F-10 topic pages stay static and Teacher Slides resolve to fixed index.html viewers).');
+console.log('Static topic loader guards: PASS (canonical F-10 topic pages stay static, Teacher Slides resolve to fixed index.html viewers, and Updates remains available in desktop/mobile/PWA navigation).');
