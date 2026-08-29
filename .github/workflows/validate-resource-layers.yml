@@ -11,6 +11,7 @@ on:
       - "assets/multi-strand-worksheet-pack.js"
       - "assets/science-visual-layer.js"
       - "assets/worksheet-pack-enhancer.js"
+      - "assets/pwa-register-legacy.js"
       - "pwa-register.js"
       - ".github/workflows/validate-resource-layers.yml"
   workflow_dispatch:
@@ -38,11 +39,12 @@ jobs:
           node --check pwa-register.js
       - name: Confirm current shared wiring and wording
         run: |
-          grep -q 'qa-complete-ribbon.js' pwa-register.js
-          grep -q 'skillr-concept-svg.js' pwa-register.js
-          grep -q 'curriculum-cluster-core.js' pwa-register.js
-          grep -q 'curriculum-visual-layer.js' pwa-register.js
-          grep -q 'multi-strand-worksheet-pack.js' pwa-register.js
+          grep -q 'pwa-register-legacy.js' pwa-register.js
+          grep -q 'qa-complete-ribbon.js' assets/pwa-register-legacy.js
+          grep -q 'skillr-concept-svg.js' assets/pwa-register-legacy.js
+          grep -q 'curriculum-cluster-core.js' assets/pwa-register-legacy.js
+          grep -q 'curriculum-visual-layer.js' assets/pwa-register-legacy.js
+          grep -q 'multi-strand-worksheet-pack.js' assets/pwa-register-legacy.js
           grep -q 'QA complete' assets/qa-complete-ribbon.js
           ! grep -qi 'artificial intelligence' assets/qa-complete-ribbon.js
           ! grep -qi 'AI complete' assets/qa-complete-ribbon.js
