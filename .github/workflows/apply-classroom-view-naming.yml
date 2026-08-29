@@ -1,0 +1,51 @@
+name: Apply Classroom View naming
+
+on:
+  push:
+    branches:
+      - feature/classroom-view-naming
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: feature/classroom-view-naming
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Apply naming migration
+        run: node scripts/migrate_classroom_view_naming.mjs
+      - name: Validate Classroom View naming
+        run: |
+          node scripts/validate_classroom_view_naming.mjs
+          node scripts/validate_year8_teacher_display_pages.mjs
+          node scripts/validate_year9_teacher_display_pages.mjs
+          node scripts/validate_year10_teacher_display_pages.mjs
+      - name: Run architecture and layout audits
+        run: |
+          node scripts/audit_static_teacher_slides.mjs
+          node scripts/validate_static_curriculum_architecture.mjs
+          node scripts/validate_f10_topic_layout_contract.mjs
+          git diff --check
+      - name: Verify migration is idempotent
+        run: |
+          git diff > /tmp/before-second-run.diff
+          node scripts/migrate_classroom_view_naming.mjs
+          git diff > /tmp/after-second-run.diff
+          cmp /tmp/before-second-run.diff /tmp/after-second-run.diff
+          node scripts/validate_classroom_view_naming.mjs
+          git diff --check
+      - name: Commit Classroom View naming
+        run: |
+          rm .github/workflows/apply-classroom-view-naming.yml
+          git add foundation year1 year2 year3 year4 year5 year6 year7 year8 year9 year10 scripts .github/workflows/apply-classroom-view-naming.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Rename Teacher Display to Classroom View'
+          git push origin HEAD:feature/classroom-view-naming
