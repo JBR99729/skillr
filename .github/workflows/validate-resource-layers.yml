@@ -8,6 +8,7 @@ on:
       - "assets/skillr-concept-svg.js"
       - "assets/curriculum-cluster-core.js"
       - "assets/curriculum-visual-layer.js"
+      - "assets/curriculum-visual-layer-interactive.js"
       - "assets/multi-strand-worksheet-pack.js"
       - "assets/science-visual-layer.js"
       - "assets/worksheet-pack-enhancer.js"
@@ -33,6 +34,7 @@ jobs:
           node --check assets/skillr-concept-svg.js
           node --check assets/curriculum-cluster-core.js
           node --check assets/curriculum-visual-layer.js
+          node --check assets/curriculum-visual-layer-interactive.js
           node --check assets/multi-strand-worksheet-pack.js
           node --check assets/science-visual-layer.js
           node --check assets/worksheet-pack-enhancer.js
@@ -54,7 +56,8 @@ jobs:
           grep -q 'Worksheet 2' assets/multi-strand-worksheet-pack.js
           grep -q 'Worksheet 3' assets/multi-strand-worksheet-pack.js
           grep -q 'window.print' assets/multi-strand-worksheet-pack.js
-          grep -q 'SkillrConceptSvg' assets/curriculum-visual-layer.js
+          grep -q 'curriculum-visual-layer-interactive.js' assets/curriculum-visual-layer.js
+          grep -q 'SkillrConceptSvg' assets/curriculum-visual-layer-interactive.js
       - name: Retain syntax compatibility for legacy resource layers
         run: |
           grep -q 'SkillrConceptSvg' assets/science-visual-layer.js
