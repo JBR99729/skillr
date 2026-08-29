@@ -45,7 +45,7 @@ jobs:
           grep -q 'curriculum-cluster-core.js' assets/pwa-register-legacy.js
           grep -q 'curriculum-visual-layer.js' assets/pwa-register-legacy.js
           grep -q 'multi-strand-worksheet-pack.js' assets/pwa-register-legacy.js
-          grep -q 'QA complete' assets/qa-complete-ribbon.js
+          grep -qi 'qa complete' assets/qa-complete-ribbon.js
           ! grep -qi 'artificial intelligence' assets/qa-complete-ribbon.js
           ! grep -qi 'AI complete' assets/qa-complete-ribbon.js
       - name: Confirm connected-strand and worksheet safeguards
