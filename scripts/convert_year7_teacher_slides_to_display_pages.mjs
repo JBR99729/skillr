@@ -293,3 +293,6 @@ for (const file of files) {
 }
 
 console.log(`Converted ${changed} Year 7 teacher slide files to display pages. Skipped ${skipped}.`);
+
+const { buildClassroomViewTopicLinks } = await import("./build_classroom_view_topic_links.mjs");
+buildClassroomViewTopicLinks({ patchGenerators: false });
