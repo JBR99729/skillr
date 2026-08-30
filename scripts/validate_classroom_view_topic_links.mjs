@@ -19,15 +19,17 @@ const errors = [];
 const pages = curriculumRoots
   .flatMap((dir) => findFiles(path.join(root, dir)))
   .map((file) => ({ file, html: fs.readFileSync(file, "utf8") }))
-  .filter(({ html }) => /<h1 id="page-title">Classroom View<\/h1>/i.test(html));
+  .filter(({ html }) => html.includes('class="display-board"') && /<h1 id="page-title">/i.test(html));
 
 for (const { file, html } of pages) {
   const rel = path.relative(root, file).replace(/\\/g, "/");
   const [year, subject] = rel.split("/");
-  const topicTitle = html.match(/<p class="display-topic-title">([\s\S]*?)<\/p>/i)?.[1] ?? "";
-  const code = topicTitle.match(/\bAC9[A-Z0-9]+\b/i)?.[0]?.toUpperCase() ?? "";
+  const topicIdentity = html.match(/<p class="display-topic-title">([\s\S]*?)<\/p>/i)?.[1]
+    ?? html.match(/<p class="display-eyebrow">([\s\S]*?)<\/p>/i)?.[1]
+    ?? "";
+  const code = topicIdentity.match(/\bAC9[A-Z0-9]+\b/i)?.[0]?.toUpperCase() ?? "";
   const canonical = html.match(/<link rel="canonical" href="([^"]+)"/i)?.[1] ?? "";
-  const related = html.match(/<details class="classroom-related" data-classroom-related>([\s\S]*?)<\/details>/i)?.[1] ?? "";
+  const related = html.match(/<details\b(?=[^>]*class="[^"]*classroom-related)(?=[^>]*data-classroom-related)[^>]*>([\s\S]*?)<\/details>/i)?.[1] ?? "";
 
   if (!/meta name="robots" content="noindex,follow"/i.test(html)) errors.push(`${rel}: Classroom View must stay noindex,follow`);
   if (!canonical || /\/teacher-slides\//i.test(canonical)) errors.push(`${rel}: canonical must point to the indexable topic page`);
@@ -64,7 +66,9 @@ for (const { file, html } of pages) {
 
 const byCode = new Map();
 for (const page of pages) {
-  const title = page.html.match(/<p class="display-topic-title">([\s\S]*?)<\/p>/i)?.[1] ?? "";
+  const title = page.html.match(/<p class="display-topic-title">([\s\S]*?)<\/p>/i)?.[1]
+    ?? page.html.match(/<p class="display-eyebrow">([\s\S]*?)<\/p>/i)?.[1]
+    ?? "";
   const code = title.match(/\bAC9[A-Z0-9]+\b/i)?.[0]?.toUpperCase();
   if (code && !byCode.has(code)) byCode.set(code, page.html);
 }
@@ -72,7 +76,7 @@ for (const page of pages) {
 const requirePair = (from, to) => {
   const html = byCode.get(from);
   if (!html) return;
-  const related = html.match(/<details class="classroom-related" data-classroom-related>([\s\S]*?)<\/details>/i)?.[1] ?? "";
+  const related = html.match(/<details\b(?=[^>]*class="[^"]*classroom-related)(?=[^>]*data-classroom-related)[^>]*>([\s\S]*?)<\/details>/i)?.[1] ?? "";
   if (!related.includes(`<strong>${to}</strong>`)) errors.push(`${from}: GSC-priority cluster should link ${to}`);
 };
 
