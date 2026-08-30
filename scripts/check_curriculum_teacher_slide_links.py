@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate every F-10 curriculum-card Teacher slide link."""
+"""Validate every F-10 curriculum-card Classroom View link."""
 
 from __future__ import annotations
 
@@ -16,7 +16,7 @@ CARD_RE = re.compile(
     re.I | re.S,
 )
 CODE_RE = re.compile(r'<span class="curriculum-badge">(AC9[A-Z0-9]+)</span>', re.I)
-SLIDE_RE = re.compile(r'<a[^>]+href="([^"]+)"[^>]*>Teacher slide</a>', re.I)
+SLIDE_RE = re.compile(r'<a[^>]+href="([^"]+)"[^>]*>(?:Classroom View|Teacher slide)</a>', re.I)
 
 
 def read(path: Path) -> str:
@@ -46,7 +46,7 @@ def main() -> int:
                 slide_match = SLIDE_RE.search(body)
                 code = code_match.group(1).upper() if code_match else "UNKNOWN"
                 if not slide_match:
-                    errors.append(f"{index.relative_to(ROOT)} {code}: missing Teacher slide link")
+                    errors.append(f"{index.relative_to(ROOT)} {code}: missing Classroom View link")
                     continue
 
                 href = slide_match.group(1)
@@ -71,13 +71,13 @@ def main() -> int:
                         f"{target_code.group(0).upper()} ({href})"
                     )
 
-    print(f"Teacher slide links checked: {checked}")
+    print(f"Classroom View links checked: {checked}")
     if errors:
         print(f"Errors: {len(errors)}", file=sys.stderr)
         for error in errors:
             print(f"- {error}", file=sys.stderr)
         return 1
-    print("All curriculum-card Teacher slide links resolve correctly.")
+    print("All curriculum-card Classroom View links resolve correctly.")
     return 0
 
 

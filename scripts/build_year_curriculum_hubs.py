@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -18,6 +19,21 @@ SUBJECTS = (
     ("Science", "science", "Science"),
     ("English", "english", "English"),
 )
+
+FOUNDATION_MATHS_COPY = {
+    "AC9MFN01": ("Numbers to 20", "Name, show and put numbers from 0 to 20 in order.", "12 comes after 11 and before 13."),
+    "AC9MFN02": ("Recognise quantities to 5 without counting", "See a small group and know how many objects there are straight away.", "Four dots can be recognised as 4 without counting one by one."),
+    "AC9MFN03": ("Count and compare groups to 20", "Count collections and decide which has more, fewer or the same number.", "A group of 12 has more objects than a group of 8."),
+    "AC9MFN04": ("Make and split numbers to 10", "Explore the smaller parts that combine to make a whole number.", "7 can be split into 5 and 2, or 4 and 3."),
+    "AC9MFN05": ("Model adding and taking away", "Use objects, drawings and numbers to show quantities joining or separating.", "5 birds and 2 more birds make 7 birds."),
+    "AC9MFN06": ("Share and group objects equally", "Make fair shares and equal groups, then check each group has the same amount.", "Share 8 counters between 4 people: each receives 2."),
+    "AC9MFA01": ("Copy and continue repeating patterns", "Spot the part that repeats, copy it and work out what comes next.", "Red, blue, red, blue … comes next with red."),
+    "AC9MFM01": ("Compare length, mass, capacity and time", "Compare everyday objects and events, then explain the result.", "Line up two objects at the same starting point to compare length."),
+    "AC9MFM02": ("Days of the week and times of day", "Put days and familiar daily events in order using everyday time language.", "Breakfast is in the morning; dinner is usually in the evening."),
+    "AC9MFSP01": ("Sort, name and make shapes", "Recognise familiar shapes, describe their features and sort or create them.", "A triangle has 3 straight sides and 3 corners."),
+    "AC9MFSP02": ("Describe position and location", "Use position words to explain where people and objects are.", "The ball is under the chair and beside the bag."),
+    "AC9MFST01": ("Collect, sort and compare data", "Collect objects or images, sort them into groups and compare the results.", "Sort class pets into cats, dogs and other animals, then find the largest group."),
+}
 
 YEAR3_MATHS_DISPLAY_TITLES = {
     "AC9M3N01": "Numbers beyond 10,000",
@@ -62,6 +78,83 @@ def display_title(unit: dict) -> str:
     return description[:1].upper() + description[1:]
 
 
+def strip_html(value: str) -> str:
+    value = re.sub(r"<script\b[\s\S]*?</script>", " ", value, flags=re.I)
+    value = re.sub(r"<style\b[\s\S]*?</style>", " ", value, flags=re.I)
+    value = re.sub(r"<[^>]+>", " ", value)
+    return " ".join(html.unescape(value).split())
+
+
+def first_match(source: str, patterns: tuple[str, ...]) -> str:
+    for pattern in patterns:
+        match = re.search(pattern, source, flags=re.I | re.S)
+        if match:
+            value = strip_html(match.group(1))
+            if value:
+                return value
+    return ""
+
+
+def concise(value: str, limit: int) -> str:
+    value = " ".join(value.split()).strip(" .")
+    if len(value) <= limit:
+        return value
+    clipped = value[: limit + 1].rsplit(" ", 1)[0].rstrip(" ,;:")
+    return f"{clipped}…"
+
+
+def topic_card_copy(unit: dict) -> tuple[str, str, str]:
+    """Reuse published, code-specific copy without authoring new curriculum content."""
+    code = str(unit["code"])
+    if code in FOUNDATION_MATHS_COPY:
+        return FOUNDATION_MATHS_COPY[code]
+
+    subject_dir = ROOT / str(unit["yearFolder"]) / str(unit["subjectSlug"])
+    topic_files = sorted(subject_dir.glob(f"{code.lower()}*/index.html"))
+    canonical = ROOT / str(unit["url"]).lstrip("/") / "index.html"
+    if canonical.exists() and canonical not in topic_files:
+        topic_files.insert(0, canonical)
+    sources = [(file, file.read_text(encoding="utf-8", errors="ignore")) for file in topic_files]
+    heading_candidates = []
+    for file, source in sources:
+        heading = first_match(source, (r"<h1\b[^>]*>([\s\S]*?)</h1>",))
+        heading = re.sub(rf"^{re.escape(code)}\s*[:—–-]?\s*", "", heading, flags=re.I)
+        heading = re.sub(rf"\s*[—–-]\s*{re.escape(code)}$", "", heading, flags=re.I)
+        if heading:
+            heading_candidates.append((len(heading), file, source, heading))
+    _, _, source, heading = min(heading_candidates, default=(0, canonical, "", display_title(unit)), key=lambda item: item[0])
+    heading = re.sub(rf"^{re.escape(code)}\s*[:—–-]?\s*", "", heading, flags=re.I)
+    heading = re.sub(rf"\s*[—–-]\s*{re.escape(code)}$", "", heading, flags=re.I)
+    title = concise(heading, 86)
+
+    summary = first_match(source, (
+        r'<p\b[^>]*class="[^"]*(?:curriculum|static-topic)-hero__lead[^"]*"[^>]*>([\s\S]*?)</p>',
+        r'<details\b[^>]*(?:id="learn"|open)[^>]*>[\s\S]*?<div\b[^>]*class="[^"]*curriculum-detail-body[^"]*"[^>]*>\s*<p\b[^>]*>([\s\S]*?)</p>',
+    ))
+    if not summary:
+        summary = str(unit.get("description") or heading)
+    summary = concise(summary, 170)
+
+    example = first_match(source, (
+        r'<article\b[^>]*class="[^"]*curriculum-worked-example[^"]*"[^>]*>[\s\S]*?<li\b[^>]*>([\s\S]*?)</li>',
+        r'<article\b[^>]*class="[^"]*curriculum-worked-example[^"]*"[^>]*>[\s\S]*?<p\b[^>]*>([\s\S]*?)</p>',
+        r'<div\b[^>]*class="[^"]*example-card[^"]*"[^>]*>[\s\S]*?<p\b[^>]*>([\s\S]*?)</p>',
+        r'<div\b[^>]*class="[^"]*mini-visual[^"]*"[^>]*>[\s\S]*?<p\b[^>]*>([\s\S]*?)</p>',
+    ))
+    teacher_file = topic_files[0].parent / "teacher-slides" / "index.html" if topic_files else None
+    teacher = teacher_file.read_text(encoding="utf-8", errors="ignore") if teacher_file and teacher_file.exists() else ""
+    if (not summary or summary.casefold() == str(unit.get("description") or "").casefold()) and teacher:
+        teacher_summary = first_match(teacher, (
+            r'<details\b[^>]*>[\s\S]*?<summary>[\s\S]*?Learning intention[\s\S]*?</summary>[\s\S]*?<p\b[^>]*>([\s\S]*?)</p>',
+            r'<details\b[^>]*>[\s\S]*?<summary>[\s\S]*?Learning intention[\s\S]*?</summary>[\s\S]*?<li\b[^>]*>([\s\S]*?)</li>',
+        ))
+        if teacher_summary:
+            summary = concise(teacher_summary, 170)
+    if not example and teacher:
+        example = first_match(teacher, (r'<div\b[^>]*class="[^"]*example-card[^"]*"[^>]*>[\s\S]*?<p\b[^>]*>([\s\S]*?)</p>',))
+    return title, summary, concise(example, 155) if example else ""
+
+
 def head(title: str, description: str, path: str) -> str:
     return f'''<head>
   <meta charset="UTF-8">
@@ -79,7 +172,8 @@ def head(title: str, description: str, path: str) -> str:
   <link rel="manifest" href="/manifest.webmanifest">
   <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
   <link rel="stylesheet" href="/style.css">
-  <link rel="stylesheet" href="/assets/curriculum.css?v=3">
+  <link rel="stylesheet" href="/assets/curriculum.css?v=4">
+  <link rel="stylesheet" href="/assets/css/curriculum-skill-hub.css">
   <script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments)}}gtag("js",new Date());gtag("config","{GA_ID}");</script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADSENSE}" crossorigin="anonymous"></script>
@@ -123,27 +217,37 @@ def teacher_slide_url(unit: dict) -> str:
 
 
 def action_links(unit: dict) -> str:
-    return f'''<div class="unit-action-row">
-  <a class="primary" href="{esc(unit['url'])}">Topic guide</a>
-  <a href="{esc(teacher_slide_url(unit))}" target="_blank" rel="noopener">Teacher slide</a>
-  <a href="{esc(unit['worksheetUrl'])}">Worksheet</a>
-  <a href="{esc(unit['practiceUrl'])}">Practice</a>
-  <a href="{esc(unit['testUrl'])}">Test</a>
-  <a href="{esc(unit.get('quizUrl') or unit['testUrl'].replace('/test/', '/quiz/'))}">Quiz</a>
+    return f'''<div class="skill-card-actions">
+  <a href="{esc(unit['url'])}">Explore skill</a>
+  <details class="resource-menu"><summary>Resources</summary><div class="resource-menu__links">
+    <a href="{esc(teacher_slide_url(unit))}" target="_blank" rel="noopener">Classroom View</a>
+    <a href="{esc(unit['worksheetUrl'])}">Worksheet</a>
+    <a href="{esc(unit['practiceUrl'])}">Practice</a>
+    <a href="{esc(unit['testUrl'])}">Quick check</a>
+  </div></details>
 </div>'''
 
 
 def unit_card(unit: dict) -> str:
-    eligible = sum(1 for item in unit.get("elaborations", []) if item.get("questionEligible"))
-    coverage = len(unit.get("questionCoverage", []))
+    title, summary, example = topic_card_copy(unit)
+    example_html = f'<p class="skill-example"><strong>Example</strong><span>{esc(example)}</span></p>\n  ' if example else ""
     return f'''<article class="curriculum-unit-card">
-  <span class="curriculum-live-badge">Live</span>
-  <span class="curriculum-badge">{esc(unit['code'])}</span>
-  <h3>{esc(display_title(unit))}</h3>
-  <p class="unit-context">{esc(unit['strand'])}{' · ' + esc(unit['subStrand']) if unit.get('subStrand') else ''}</p>
-  <div class="unit-meta"><span class="curriculum-chip">{eligible} elaborations</span><span class="curriculum-chip">{coverage} coverage points</span></div>
-  {action_links(unit)}
+  <div class="skill-card-topline"><span class="curriculum-badge">{esc(unit['code'])}</span><p class="skill-strand">{esc(unit['strand'])}</p></div>
+  <h3>{esc(title)}</h3>
+  <p class="skill-summary">{esc(summary)}</p>
+  {example_html}{action_links(unit)}
+  <details class="official-wording"><summary>Official curriculum wording</summary><p>{esc(unit['description'])}</p></details>
 </article>'''
+
+
+def strand_group(strand: str, units: list[dict]) -> str:
+    group_id = re.sub(r"[^a-z0-9]+", "-", strand.lower()).strip("-") or "curriculum"
+    cards = "".join(unit_card(unit) for unit in units)
+    count = len(units)
+    return f'''<section class="curriculum-skill-group" id="{esc(group_id)}" aria-labelledby="{esc(group_id)}-title">
+  <header class="curriculum-skill-group__header"><h2 id="{esc(group_id)}-title">{esc(strand)}</h2><span class="curriculum-skill-count">{count} {'skill' if count == 1 else 'skills'}</span></header>
+  <div class="curriculum-skill-grid">{cards}</div>
+</section>'''
 
 
 def write(path: Path, content: str) -> None:
@@ -183,7 +287,9 @@ def build_curriculum_hubs(units: list[dict]) -> None:
 <section class="subject-tile-grid" aria-label="{esc(label)} subjects">{tiles}</section>
 <section class="curriculum-panel"><h2>What the labels mean</h2><p><strong>Elaborations</strong> are curriculum examples showing how a skill may be taught. <strong>Coverage points</strong> count the main description and eligible elaborations covered by the unit.</p></section>
 </div><script src="/pwa-register.js"></script></body></html>'''
-        write(ROOT / year_folder / "curriculum" / "index.html", landing)
+        curriculum_landing = ROOT / year_folder / "curriculum" / "index.html"
+        if not curriculum_landing.exists():
+            write(curriculum_landing, landing)
 
         for name, slug, subject_label in SUBJECTS:
             subject_units = [item for item in year_units if item["learningArea"] == name]
@@ -192,14 +298,29 @@ def build_curriculum_hubs(units: list[dict]) -> None:
                 f"Browse {label} {subject_label} curriculum units with complete topic guides, "
                 "teacher slides, worksheets, practice, tests and quizzes."
             )
-            cards = "".join(unit_card(item) for item in subject_units)
+            subject_title = f"{label} {subject_label} Curriculum Units | SkillrHub"
+            if year_folder == "foundation" and slug == "maths":
+                subject_title = "Foundation Maths Skills Explained | Curriculum-Aligned Resources"
+                subject_description = (
+                    "Browse every Foundation Maths skill in plain English, with examples, exact Australian "
+                    "Curriculum wording, Classroom Views, worksheets, practice and quick checks."
+                )
+            grouped: dict[str, list[dict]] = {}
+            for item in subject_units:
+                grouped.setdefault(str(item.get("strand") or subject_label), []).append(item)
+            jump_links = "".join(
+                f'<a href="#{esc(re.sub(r"[^a-z0-9]+", "-", strand.lower()).strip("-") or "curriculum")}">{esc(strand)}</a>'
+                for strand in grouped
+            )
+            groups = "".join(strand_group(strand, items) for strand, items in grouped.items())
             page = f'''<!DOCTYPE html>
 <html lang="en-AU">
-{head(f"{label} {subject_label} Curriculum Units | SkillrHub", subject_description, subject_path)}
-<body class="curriculum-shell"><div class="curriculum-page">
+{head(subject_title, subject_description, subject_path)}
+<body class="curriculum-shell curriculum-skill-hub"><div class="curriculum-page">
 {nav(label, year_folder, subject_label, subject_label)}
-<header class="curriculum-hero"><p class="curriculum-eyebrow">{esc(label)} {esc(subject_label)}</p><h1>{esc(label)} {esc(subject_label)} curriculum units</h1><p class="curriculum-hero__lead">Choose a unit below. Every green Live label marks a complete path from teaching and printable resources to student Practice and Test.</p><div class="curriculum-actions"><a class="curriculum-button" href="{curriculum_path}">All {esc(label)} subjects</a><a class="curriculum-button" href="/how-to-use-skillr.html">User guide</a></div></header>
-<section class="curriculum-panel"><p><strong>Elaborations</strong> are curriculum teaching examples. <strong>Coverage points</strong> show how many curriculum ideas guide the unit.</p><div class="unit-matrix">{cards}</div></section>
+<header class="curriculum-hero"><p class="curriculum-eyebrow">{esc(label)} {esc(subject_label)}</p><h1>{esc(label)} {esc(subject_label)} skills</h1><p class="curriculum-hero__lead">Find the exact skill a learner needs, understand it clearly and open the right teaching or practice resource.</p><div class="curriculum-actions"><a class="curriculum-button" href="{curriculum_path}">All {esc(label)} subjects</a><a class="curriculum-button" href="/how-to-use-skillr.html">User guide</a></div></header>
+<section class="curriculum-panel curriculum-skill-intro" aria-labelledby="choose-skill"><div><p class="curriculum-eyebrow">Skill navigator</p><h2 id="choose-skill">Choose the skill you want to teach</h2><p>Skills are grouped by curriculum strand. Exact Australian Curriculum wording remains available on every card.</p></div><nav class="strand-jump-list" aria-label="{esc(subject_label)} strands">{jump_links}</nav></section>
+<main class="curriculum-skill-groups">{groups}</main>
 </div><script src="/pwa-register.js"></script></body></html>'''
             write(ROOT / year_folder / "curriculum" / slug / "index.html", page)
 
