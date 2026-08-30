@@ -4,6 +4,7 @@ import path from "node:path";
 const BLOG_DIR = "blogs";
 const START = "<!-- BLOG_FREE_FIRST_CAMPAIGN_START -->";
 const END = "<!-- BLOG_FREE_FIRST_CAMPAIGN_END -->";
+const DOWNLOAD_MARKER = "data-free-download";
 const REQUIRED = [
   "Try the free resources first",
   "monthly or yearly learning subscription",
@@ -29,6 +30,22 @@ const files = fs.readdirSync(BLOG_DIR, { withFileTypes: true })
 const failures = [];
 for (const file of files) {
   const html = fs.readFileSync(file, "utf8");
+  if (html.includes(DOWNLOAD_MARKER)) {
+    const requiredDownloadElements = [
+      'href="/downloads/free-resources/',
+      'src="/assets/free-resources/',
+      "Topic Guide",
+      "Teacher Slides",
+      "Worksheet",
+      "Practice",
+      "Test",
+      "Related",
+    ];
+    for (const element of requiredDownloadElements) {
+      if (!html.includes(element)) failures.push(`${file}: free-download article missing: ${element}`);
+    }
+    continue;
+  }
   const start = html.indexOf(START);
   const end = html.indexOf(END);
   if (start < 0 || end < 0 || end < start) {
@@ -56,4 +73,4 @@ if (failures.length) {
   for (const failure of failures) console.error(`- ${failure}`);
   process.exit(1);
 }
-console.log(`Blog free-first campaign validation PASS: ${files.length} articles checked.`);
+console.log(`Blog CTA validation PASS: ${files.length} articles checked (generic campaign or resource-specific download).`);
