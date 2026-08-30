@@ -17,11 +17,15 @@ const publicDownload = /href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i;
 const runtimeDeck = /(?:teachingSlides|\.slides\.forEach|render.*slide|lower-materials-render|year\d+.*slides\.js|topic-modules-render|lesson-render)/i;
 
 function hasTeacherDisplayPage(html) {
+  const legacy = /data-single-open/i.test(html) && /Clean visual examples/i.test(html);
+  const topicFirst = /name=["']lesson["']/i.test(html)
+    && /id=["']curriculum-mapping["']/i.test(html)
+    && /\/assets\/css\/classroom-view\.css/i.test(html)
+    && /We do/i.test(html);
   return /Teacher Display Page/i.test(html)
-    && /data-single-open/i.test(html)
+    && (legacy || topicFirst)
     && /<details\b/i.test(html)
     && /<summary\b/i.test(html)
-    && /Clean visual examples/i.test(html)
     && !/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(html)
     && /skillrhublearning@gmail\.com/i.test(html);
 }
