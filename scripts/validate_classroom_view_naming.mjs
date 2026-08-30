@@ -40,7 +40,14 @@ for (const curriculumRoot of curriculumRoots) {
     displayCount++;
 
     const code = (rel.match(/[\\/](ac9[a-z0-9]+)[^\\/]*[\\/]teacher-slides[\\/]index\.html$/i)?.[1] || '').toUpperCase();
-    const required = [
+    const topicFirst = html.includes('class="display-eyebrow"');
+    const required = topicFirst ? [
+      ['<h1 id="page-title">', 'topic-first page heading'],
+      ['Ready to project and teach', 'project-and-teach description'],
+      ['class="display-eyebrow"', 'curriculum-code eyebrow'],
+      ['aria-label="Classroom View navigation"', 'Classroom View navigation label'],
+      ['<!-- Teacher Display Page -->', 'hidden compatibility marker'],
+    ] : [
       ['<h1 id="page-title">Classroom View</h1>', 'Classroom View page heading'],
       ['<small>Ready to project and teach</small>', 'project-and-teach description'],
       ['class="display-topic-title"', 'retained topic-title line'],
@@ -55,8 +62,10 @@ for (const curriculumRoot of curriculumRoots) {
       if (!html.includes(`<title>${code} Classroom View | SkillrHub</title>`)) {
         failures.push(`${rel}: document title is not ${code} Classroom View`);
       }
-      const topicTitle = html.match(/<p class="display-topic-title">([\s\S]*?)<\/p>/i)?.[1] || '';
-      if (!topicTitle.toUpperCase().includes(code)) failures.push(`${rel}: retained topic-title line does not contain ${code}`);
+      const topicIdentity = topicFirst
+        ? html.match(/<p class="display-eyebrow">([\s\S]*?)<\/p>/i)?.[1] || ''
+        : html.match(/<p class="display-topic-title">([\s\S]*?)<\/p>/i)?.[1] || '';
+      if (!topicIdentity.toUpperCase().includes(code)) failures.push(`${rel}: visible topic identity does not contain ${code}`);
     }
 
     if (/<small>[^<]*Teacher Display/i.test(html)) failures.push(`${rel}: old Teacher Display wording remains visibly in the small description`);

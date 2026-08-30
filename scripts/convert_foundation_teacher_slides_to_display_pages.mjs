@@ -150,3 +150,7 @@ console.log(`Converted ${changed} Foundation teacher slide files to display page
 
 const { buildClassroomViewTopicLinks } = await import("./build_classroom_view_topic_links.mjs");
 buildClassroomViewTopicLinks({ patchGenerators: false });
+
+// Apply the topic-first, HTML/CSS-only classroom shell and reuse the
+// curriculum-equivalents data already published on each Foundation Maths page.
+await import("./migrate_foundation_maths_classroom_views.mjs");

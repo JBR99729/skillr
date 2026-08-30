@@ -11,13 +11,19 @@ const routeFile = href => {
   return route.endsWith('/') ? `${route}index.html` : route;
 };
 const hrefs = html => [...html.matchAll(/<a\b[^>]*href=["']([^"']+)["']/gi)].map(match => match[1]);
-const teacherDisplayPage = html => /Teacher Display Page/i.test(html)
-  && /data-single-open/i.test(html)
-  && /<details\b/i.test(html)
-  && /<summary\b/i.test(html)
-  && /Clean visual examples/i.test(html)
-  && !/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(html)
-  && /skillrhublearning@gmail\.com/i.test(html);
+const teacherDisplayPage = html => {
+  const legacy = /data-single-open/i.test(html) && /Clean visual examples/i.test(html);
+  const topicFirst = /name=["']lesson["']/i.test(html)
+    && /id=["']curriculum-mapping["']/i.test(html)
+    && /\/assets\/css\/classroom-view\.css/i.test(html)
+    && /We do/i.test(html);
+  return /Teacher Display Page/i.test(html)
+    && (legacy || topicFirst)
+    && /<details\b/i.test(html)
+    && /<summary\b/i.test(html)
+    && !/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(html)
+    && /skillrhublearning@gmail\.com/i.test(html);
+};
 
 const units = JSON.parse(read('data/curriculum-units.json')).units
   .filter(unit => unit.yearNumber === 0 && unit.subjectSlug === 'maths')
