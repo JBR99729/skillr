@@ -2,6 +2,8 @@
 
 Effective: 2026-08-17
 
+Latest explicit unlock: 2026-08-30 — the owner approved a site-wide shared UI rollout for curriculum skill cards and Classroom Views. This changes the presentation shell only; canonical topic and Classroom View lesson content remains code-specific and protected by the preservation rules below.
+
 This document supersedes the live-renderer architecture in Topic Guide + Teacher Slide v1.1. It applies to Foundation-Year 10 Maths, English and Science.
 
 ## 1. Topic pages are static HTML
@@ -157,7 +159,7 @@ A migrated topic is complete only when:
 
 ## 10. Change control
 
-This v2 architecture is locked after the user's explicit 2026-08-17 unlock and migration decision.
+This v2 architecture is locked after the user's explicit 2026-08-30 unlock and shared-UI migration decision.
 
 A future structural change may proceed only after a later user message containing the exact phrase:
 
