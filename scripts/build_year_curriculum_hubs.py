@@ -61,6 +61,20 @@ YEAR3_MATHS_DISPLAY_TITLES = {
     "AC9M3P02": "Repeated chance experiments and variation",
 }
 
+CURRICULUM_CARD_TITLE_OVERRIDES = {
+    "AC9E1LE05": "Retell or adapt a familiar story through speaking, role-play, writing, drawing or digital tools",
+    "AC9E2LY02": "Interaction skills: listening, instructions, ideas and opinions",
+    "AC9E3LY05": "Comprehension strategies for literal, inferred and evaluated meaning",
+    "AC9E4LA06": "Complex sentences: independent and dependent clauses",
+    "AC9E5LE01": "Literary texts in historical, social and cultural contexts",
+    "AC9E6LY02": "Formal and informal interaction skills for discussing and evaluating ideas",
+    "AC9E6LY05": "Comprehension strategies to connect and compare sources",
+    "AC9E6LY09": "Word origins, roots, prefixes, suffixes and spelling patterns",
+    "AC9E8LA03": "How purpose shapes text structure, language features and hybrid genres",
+    "AC9E10LE01": "How literary representations reflect historical, social and cultural contexts",
+    "AC9E10LY07": "Spoken and multimodal presentations using rhetorical devices and developed ideas",
+}
+
 
 def esc(value: object) -> str:
     return html.escape(str(value), quote=True)
@@ -103,6 +117,35 @@ def concise(value: str, limit: int) -> str:
     return f"{clipped}…"
 
 
+def curriculum_card_title(value: str) -> str:
+    """Return a complete, compact skill label without mid-phrase clipping."""
+    value = " ".join(value.split()).strip(" .")
+    if len(value) <= 190:
+        return value
+
+    # Long curriculum descriptions commonly put the central skill first and
+    # then add assessment/context qualifiers. Remove only at grammatical
+    # boundaries so the visible title remains a complete proposition.
+    boundaries = (
+        r";",
+        r",\s+(?=using|selecting|analysing|analyzing|organising|organizing|applying|"
+        r"evaluating|experimenting|acknowledging|drawn|and\s+(?:use|apply|analyse|analyze|evaluate|create|"
+        r"construct|compare|report|justify|organise|organize|develop|select)\b)",
+        r"\s+(?=in\s+ways\s+that\b)",
+        r"\s+(?=including\b|using\b|with\s+respect\s+to\b|depending\s+on\b|"
+        r"when\s+(?:listening|viewing|reading)\b|by\s+(?:engaging|drawing)\b|"
+        r"to\s+(?:record|organise|organize|fluently\s+read)\b)",
+    )
+    for boundary in boundaries:
+        match = re.search(boundary, value, flags=re.I)
+        if match and match.start() >= 45:
+            candidate = value[: match.start()].rstrip(" ,;:")
+            if candidate:
+                return candidate
+
+    return value
+
+
 def topic_card_copy(unit: dict) -> tuple[str, str, str]:
     """Reuse published, code-specific copy without authoring new curriculum content."""
     code = str(unit["code"])
@@ -125,7 +168,10 @@ def topic_card_copy(unit: dict) -> tuple[str, str, str]:
     _, _, source, heading = min(heading_candidates, default=(0, canonical, "", display_title(unit)), key=lambda item: item[0])
     heading = re.sub(rf"^{re.escape(code)}\s*[:—–-]?\s*", "", heading, flags=re.I)
     heading = re.sub(rf"\s*[—–-]\s*{re.escape(code)}$", "", heading, flags=re.I)
-    title = concise(heading, 86)
+    # Never clip a curriculum-card heading mid-idea. A complete published
+    # heading is preferable to a mechanically shortened title that drops the
+    # words distinguishing one skill from another.
+    title = CURRICULUM_CARD_TITLE_OVERRIDES.get(code, curriculum_card_title(heading))
 
     summary = first_match(source, (
         r'<p\b[^>]*class="[^"]*(?:curriculum|static-topic)-hero__lead[^"]*"[^>]*>([\s\S]*?)</p>',

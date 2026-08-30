@@ -56,7 +56,7 @@ const topicCopy = (unit, classroomFile, classroomHtml) => {
   const hubCard = hubCards.find((card) => new RegExp(`>${unit.code}<`, "i").test(card)) || "";
   const hubTitle = first(hubCard, [/<h3\b[^>]*>([\s\S]*?)<\/h3>/i]);
   const hubSummary = first(hubCard, [/<p\b[^>]*class="[^"]*skill-summary[^"]*"[^>]*>([\s\S]*?)<\/p>/i]);
-  if (hubTitle && hubSummary) return { title: concise(hubTitle, 108), summary: concise(hubSummary, 220) };
+  if (hubTitle && hubSummary) return { title: hubTitle, summary: concise(hubSummary, 220) };
 
   const topicFile = path.join(path.dirname(path.dirname(classroomFile)), "index.html");
   const source = fs.existsSync(topicFile) ? fs.readFileSync(topicFile, "utf8") : "";
@@ -71,7 +71,7 @@ const topicCopy = (unit, classroomFile, classroomHtml) => {
     /<p\b[^>]*class="[^"]*curriculum-hero__lead[^"]*"[^>]*>([\s\S]*?)<\/p>/i,
     /<details\b[^>]*(?:id="learn"|open)[^>]*>[\s\S]*?<div\b[^>]*class="[^"]*curriculum-detail-body[^"]*"[^>]*>\s*<p\b[^>]*>([\s\S]*?)<\/p>/i,
   ]) || unit.description;
-  return { title: concise(title, 108), summary: concise(summary, 220) };
+  return { title, summary: concise(summary, 220) };
 };
 
 const ensureStylesheet = (html) => {
