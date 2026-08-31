@@ -92,5 +92,5 @@
       observer.observe(document.body || document.documentElement, { childList: true, subtree: true });
       setTimeout(() => observer.disconnect(), 2500);
     })
-    .catch((error) => console.error("Skillr Year 1 English Quick Read failed:", error));
+    .catch((error) => console.error("SkillrHub Year 1 English Quick Read failed:", error));
 })();

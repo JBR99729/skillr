@@ -161,7 +161,7 @@
       document.getElementById("previewCorePdfButton")?.addEventListener("click", () => previewPdf(worksheet, "core"));
       document.getElementById("previewExtensionPdfButton")?.addEventListener("click", () => previewPdf(worksheet, "extension"));
     } catch (error) {
-      console.error("Skillr Year 2 Science worksheet setup failed:", error);
+      console.error("SkillrHub Year 2 Science worksheet setup failed:", error);
     }
   }
 

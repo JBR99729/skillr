@@ -123,5 +123,5 @@
       observer.observe(document.body || document.documentElement, { childList: true, subtree: true });
       setTimeout(() => observer.disconnect(), 3000);
     })
-    .catch((error) => console.error("Skillr Year 2 Maths Quick Read failed:", error));
+    .catch((error) => console.error("SkillrHub Year 2 Maths Quick Read failed:", error));
 })();

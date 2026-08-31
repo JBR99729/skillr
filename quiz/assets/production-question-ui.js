@@ -155,7 +155,7 @@
     box.className = "question-quality-feedback";
     box.setAttribute("aria-label", "Question quality feedback");
     const note = document.createElement("p");
-    note.textContent = "Help us improve Skillr: rate this question.";
+    note.textContent = "Help us improve SkillrHub: rate this question.";
     box.appendChild(note);
     const up = document.createElement("button"), down = document.createElement("button");
     up.type = down.type = "button";

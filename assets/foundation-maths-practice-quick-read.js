@@ -118,7 +118,7 @@
       }
       applyQuickRead();
     } catch (error) {
-      console.error("Skillr Foundation Maths Quick Read sync failed:", error);
+      console.error("SkillrHub Foundation Maths Quick Read sync failed:", error);
     }
   }
 

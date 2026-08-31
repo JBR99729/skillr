@@ -27,7 +27,7 @@ for (const relRoot of subjectRoots) {
     // so native HTML details/summary controls remain browser-managed and cannot hang.
     html = html.replace(/<script\b[^>]*\bsrc=["']\/(?:assets\/[^"']+|pwa-register\.js[^"']*)["'][^>]*><\/script>\s*/gi, '');
 
-    // Remove now-unused Skillr runtime metadata blocks, while preserving JSON-LD,
+    // Remove now-unused SkillrHub runtime metadata blocks, while preserving JSON-LD,
     // analytics and advertising scripts in the document head.
     html = html.replace(/<script>\s*window\.skillrPageMeta\s*=.*?<\/script>\s*/gis, '');
     html = html.replace(/<script>\s*window\.skillrAccess\s*=.*?<\/script>\s*/gis, '');

@@ -38,7 +38,7 @@
 
   function loadSequence(items) {
     return items.reduce((promise,src)=>promise.then(()=>loadScript(src)),Promise.resolve())
-      .catch((error)=>console.error("Skillr curriculum route load failed:",error));
+      .catch((error)=>console.error("SkillrHub curriculum route load failed:",error));
   }
 
   function dataFilesFor(year, subjectName) {
@@ -100,7 +100,7 @@
   }
 
   function findUnit() {
-    const candidates = Object.keys(window).filter((key) => /^Skillr(?:Foundation|Year\d+).+Data$/.test(key));
+    const candidates = Object.keys(window).filter((key) => /^SkillrHub(?:Foundation|Year\d+).+Data$/.test(key));
     for (const key of candidates) {
       const record = window[key]?.[code];
       if (record) return record;

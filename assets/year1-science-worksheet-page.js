@@ -53,7 +53,7 @@
       if (!window.jspdf?.jsPDF) await loadScript("https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js");
       await loadScript("/quiz/assets/foundation-maths-authored-worksheet.js?v=6");
     } catch (error) {
-      console.error("Skillr Year 1 Science worksheet setup failed:", error);
+      console.error("SkillrHub Year 1 Science worksheet setup failed:", error);
     }
   }
 
