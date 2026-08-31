@@ -99,5 +99,5 @@
       observer.observe(document.body || document.documentElement, { childList: true, subtree: true });
       setTimeout(() => observer.disconnect(), 2500);
     })
-    .catch((error) => console.error("Skillr Foundation English Quick Read failed:", error));
+    .catch((error) => console.error("SkillrHub Foundation English Quick Read failed:", error));
 })();

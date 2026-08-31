@@ -52,4 +52,4 @@ Years 7–10: 6–7 slides
 
 ## Not required
 
-Interactive drag-and-drop tools are optional and not required for Skillr quality. Practice and Test already handle student interaction. Teacher slides should support classroom teaching, not become a second quiz engine.
+Interactive drag-and-drop tools are optional and not required for SkillrHub quality. Practice and Test already handle student interaction. Teacher slides should support classroom teaching, not become a second quiz engine.

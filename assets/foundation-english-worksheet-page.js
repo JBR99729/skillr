@@ -59,7 +59,7 @@
       await forceLoadScript("/quiz/assets/foundation-maths-authored-worksheet.js?v=20260814-foundation-english-topic2");
       if (!window.jspdf?.jsPDF) loadScript("https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js").catch(() => {});
     } catch (error) {
-      console.error("Skillr Foundation English worksheet setup failed:", error);
+      console.error("SkillrHub Foundation English worksheet setup failed:", error);
     }
   }
 

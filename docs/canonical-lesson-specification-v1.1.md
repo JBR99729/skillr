@@ -1,6 +1,6 @@
 # Canonical Lesson Specification v1.1
 
-This contract is required for every new or rebuilt Skillr curriculum code.
+This contract is required for every new or rebuilt SkillrHub curriculum code.
 
 ## Authority and pipeline
 

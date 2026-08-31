@@ -130,5 +130,5 @@
       return response.text();
     })
     .then((html) => installPanels(extractElaborations(html)))
-    .catch((error) => console.warn("Skillr Year 4 strand slides could not load:", error));
+    .catch((error) => console.warn("SkillrHub Year 4 strand slides could not load:", error));
 })();

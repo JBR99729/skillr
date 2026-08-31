@@ -278,7 +278,7 @@
       const vote = readVote(question);
       like.setAttribute("aria-pressed", vote === "up" ? "true" : "false");
       dislike.setAttribute("aria-pressed", vote === "down" ? "true" : "false");
-      thanks.textContent = vote ? "Thanks — your feedback helps improve Skillr." : "";
+      thanks.textContent = vote ? "Thanks — your feedback helps improve SkillrHub." : "";
     };
 
     const castVote = (value) => {
