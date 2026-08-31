@@ -45,7 +45,7 @@
       }else{
         await loadScript("/quiz/assets/foundation-legacy-authored-worksheet.js?v=20260814-topic-practice-split2");
       }
-    }catch(error){console.error("SkillrHub Foundation Science worksheet setup failed:",error);}
+    }catch(error){console.error("Skillr Foundation Science worksheet setup failed:",error);}
   }
 
   init();

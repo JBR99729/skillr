@@ -1,4 +1,4 @@
-# SkillrHub Repository Instructions
+# Skillr Repository Instructions
 
 ## Current operating mode: stability / QA freeze
 

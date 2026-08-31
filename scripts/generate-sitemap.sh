@@ -123,8 +123,8 @@ to_title() {
 <head>
     <meta name="google-adsense-account" content="ca-pub-7734963540104771">
     <meta charset="UTF-8">
-    <title>Sitemap | SkillrHub</title>
-    <meta name="description" content="Complete sitemap for SkillrHub pages.">
+    <title>Sitemap | Skillr Education</title>
+    <meta name="description" content="Complete sitemap for Skillr Education pages.">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://www.googletagmanager.com">
     <link rel="preconnect" href="https://www.google-analytics.com">
@@ -190,7 +190,7 @@ HTML_HEADER
     </ul>
 
     <footer>
-        <p>© 2026 SkillrHub. All rights reserved.</p>
+        <p>© 2026 Skillr Education. All rights reserved.</p>
         <p>
             Educational resources are provided for students, parents and teachers for learning purposes only.
             Commercial use, redistribution or resale is strictly prohibited without written permission.

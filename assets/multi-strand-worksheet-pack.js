@@ -17,7 +17,7 @@
   const esc = (value) => String(value ?? "").replace(/[&<>"]/g, (char) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[char]));
 
   function findUnit() {
-    const candidates = Object.keys(window).filter((key) => /^SkillrHub(?:Foundation|Year\d+).+Data$/.test(key));
+    const candidates = Object.keys(window).filter((key) => /^Skillr(?:Foundation|Year\d+).+Data$/.test(key));
     for (const key of candidates) {
       const record = window[key]?.[code];
       if (record) return record;
@@ -174,7 +174,7 @@
         const result = core.clusterElaborations(elaborations, { yearLabel, subject });
         install(unit, result);
       })
-      .catch((error) => console.warn("SkillrHub worksheet pack could not load:", error));
+      .catch((error) => console.warn("Skillr worksheet pack could not load:", error));
     return true;
   }
 

@@ -27,7 +27,7 @@ const pageUrl = (unit) => `/year6/maths/${unit.slug}/`;
 const list = (items, className = "") => `<ul${className ? ` class="${className}"` : ""}>${items.map((item) => `<li>${esc(item)}</li>`).join("")}</ul>`;
 const splitRoutine = (routine) => String(routine || "Represent → Reason → Calculate → Interpret → Verify").split("→").map((part) => part.trim()).filter(Boolean);
 
-const nav = `<nav class="main-nav"><a href="/">Home</a><a href="/sitemap.html">Sitemap</a><a href="/about.html">About</a><a href="/contact.html">Contact</a><a href="/how-to-use-skillr.html">How to use SkillrHub</a><a href="/privacy-policy.html">Privacy Policy</a></nav>`;
+const nav = `<nav class="main-nav"><a href="/">Home</a><a href="/sitemap.html">Sitemap</a><a href="/about.html">About</a><a href="/contact.html">Contact</a><a href="/how-to-use-skillr.html">How to use Skillr</a><a href="/privacy-policy.html">Privacy Policy</a></nav>`;
 
 for (let index = 0; index < order.length; index += 1) {
   const code = order[index];

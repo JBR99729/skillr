@@ -2,10 +2,10 @@ const { test, expect } = require("@playwright/test");
 
 const baseURL = "http://localhost:8000";
 
-test.describe("SkillrHub smoke tests", () => {
+test.describe("Skillr smoke tests", () => {
   test("homepage loads", async ({ page }) => {
     await page.goto(baseURL + "/");
-    await expect(page).toHaveTitle(/SkillrHub|SkillrHub/i);
+    await expect(page).toHaveTitle(/SkillrHub|Skillr/i);
     await expect(page.locator("body")).toContainText(/Dashboard|Foundation|Year/i);
   });
 

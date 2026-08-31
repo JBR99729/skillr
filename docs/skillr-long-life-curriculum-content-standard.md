@@ -1,4 +1,4 @@
-# SkillrHub Long-Life Curriculum Content Standard
+# Skillr Long-Life Curriculum Content Standard
 
 > **Architecture notice (2026-08-17):** The live-renderer Topic Guide + Teacher Slide v1.1 architecture has been explicitly unlocked and superseded by `docs/static-curriculum-architecture-v2.md`. Continue using this document for curriculum correctness, elaboration coverage, concept boundaries, misconceptions, differentiation, assessment alignment and visual-quality principles only where they do not conflict with v2. For delivery architecture, v2 is authoritative: topic teaching content is static HTML/CSS with native disclosure sections, and teacher presentations are fixed branded PPTX/PDF assets generated and visually verified before publication.
 

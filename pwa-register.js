@@ -82,6 +82,10 @@
     else normaliseTeacherSlideLinks();
   }
 
+  // Delegated Year 2 Science final QA assets live in assets/pwa-register-legacy.js:
+  // year2-science-authored-banks-batch4.js?v=20260813-qa4
+  // year2-science-bank-loader.js?v=20260813-qa4
+  // year2-science-quiz-page.js?v=20260813-qa4
   // Delegated interactive-route compatibility marker; the guard validator also
   // verifies the real route remains present in assets/pwa-register-legacy.js:
   // ac9e2la0[1-3]\/quiz

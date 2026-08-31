@@ -88,5 +88,5 @@
     const observer = new MutationObserver(() => { if (apply()) observer.disconnect(); });
     observer.observe(document.body || document.documentElement,{childList:true,subtree:true});
     setTimeout(() => observer.disconnect(),4000);
-  }).catch((error) => console.error("SkillrHub Year 3 Maths Quick Read failed:",error));
+  }).catch((error) => console.error("Skillr Year 3 Maths Quick Read failed:",error));
 })();

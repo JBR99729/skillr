@@ -46,7 +46,7 @@
 
   function loadSequence(items) {
     return items.reduce((promise, src) => promise.then(() => loadScript(src)), Promise.resolve())
-      .catch((error) => console.error("SkillrHub script load failed:", error));
+      .catch((error) => console.error("Skillr script load failed:", error));
   }
 
   loadScript("/assets/display-only.js?v=1");
@@ -247,7 +247,7 @@
             if (document.visibilityState === "visible") requestUpdate();
           });
         })
-        .catch((error) => console.error("SkillrHub service worker registration failed:", error));
+        .catch((error) => console.error("Skillr Education service worker registration failed:", error));
     });
 
     navigator.serviceWorker.addEventListener("controllerchange", () => {

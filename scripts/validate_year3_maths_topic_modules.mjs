@@ -73,7 +73,7 @@ for(const token of ["Back to topic","Teacher slides","Open Practice","Open Test"
 if(!slide.includes("back.href"))fail("links","slides missing topic link");
 if(!sheetRender.includes("@page{size:A4 portrait")||!sheetRender.includes('format:"a4"'))fail("print","A4 setup missing");
 if(!sheetRender.includes('/icons/icon-192.png')||!fs.existsSync(path.join(root,"icons/icon-192.png")))fail("print","logo asset missing");
-if(!sheetRender.includes("SkillrHub")||!topicRender.includes("SkillrHub"))fail("public-brand","public renderer branding missing");
+if(!sheetRender.includes("SkillrHub")||!topicRender.includes("Skillr"))fail("public-brand","public renderer branding missing");
 for(const guard of ["overflow-wrap:anywhere","break-inside:avoid","page-break-inside:avoid","max-width:186mm"])if(!sheetRender.includes(guard))fail("print",`overflow safeguard missing: ${guard}`);
 if(!sheetRender.includes("answer-key")||!sheetRender.includes("Answer Key"))fail("print","print answer key missing");
 for(const token of ['all.slice(0,5)','all.slice(5)','selected.map(({question:q,index})','Topic Practice ${practiceNumber}','Only questions from this sheet'])if(!sheetRender.includes(token))fail("partition",`renderer missing ${token}`);

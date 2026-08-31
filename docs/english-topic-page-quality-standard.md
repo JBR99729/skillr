@@ -40,7 +40,7 @@ Use these four steps, adapted to the exact outcome:
 Mapping is **closest alignment, not exact equivalence**. English pages must map only to English/ELA/literacy/humanities standards. Never include Mathematics, Science or NGSS references on an English outcome page.
 
 Required jurisdictions:
-- Australia — Australian Curriculum v9.0 (exact SkillrHub code), Victorian Curriculum F–10 English, NSW English syllabus at the appropriate stage.
+- Australia — Australian Curriculum v9.0 (exact Skillr code), Victorian Curriculum F–10 English, NSW English syllabus at the appropriate stage.
 - United States — Common Core ELA/Literacy at the appropriate grade band (for example RL, RI, W, SL or L standards).
 - United Kingdom — appropriate Key Stage / GCSE English Language and/or Literature.
 - Canada — closest Grade-level English Language Arts alignment, identified as broad Ontario/BC-style alignment where a single national standard does not exist.

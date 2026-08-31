@@ -124,7 +124,7 @@
       renderScreen(unit,worksheet);
       document.getElementById("previewCorePdfButton")?.addEventListener("click",()=>previewPdf(worksheet,"core"));
       document.getElementById("previewExtensionPdfButton")?.addEventListener("click",()=>previewPdf(worksheet,"extension"));
-    } catch(error) {console.error("SkillrHub Year 3 Maths worksheet setup failed:",error);}
+    } catch(error) {console.error("Skillr Year 3 Maths worksheet setup failed:",error);}
   }
 
   init();

@@ -86,5 +86,5 @@
     const observer = new MutationObserver(() => { if (apply()) observer.disconnect(); });
     observer.observe(document.body || document.documentElement, { childList: true, subtree: true });
     setTimeout(() => observer.disconnect(), 3500);
-  }).catch((error) => console.error("SkillrHub Year 2 Science Quick Read failed:", error));
+  }).catch((error) => console.error("Skillr Year 2 Science Quick Read failed:", error));
 })();

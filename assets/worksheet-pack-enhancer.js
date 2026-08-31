@@ -16,7 +16,7 @@
   const subjectLabel = subjectRoute === "math" ? "Maths" : subjectRoute.charAt(0).toUpperCase() + subjectRoute.slice(1);
   const topicSubject = subjectRoute === "math" ? "maths" : subjectRoute;
   const dataPrefix = gradeNumber === 0 ? "Foundation" : `Year${gradeNumber}`;
-  const dataName = `SkillrHub${dataPrefix}${subjectLabel}Data`;
+  const dataName = `Skillr${dataPrefix}${subjectLabel}Data`;
 
   const esc = (value) => String(value ?? "").replace(/[&<>\"]/g, (char) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[char]));
   const short = (value, limit = 95) => {
@@ -304,7 +304,7 @@
       else if (sheetParam === "mastery" && hasMastery) renderPreview(unit,masteryQuestions(unit,clusters),clusters,url);
       else enhanceCore(unit,clusters,hasMastery);
     } catch (error) {
-      console.error("SkillrHub worksheet pack setup failed:",error);
+      console.error("Skillr worksheet pack setup failed:",error);
     }
   }
 
