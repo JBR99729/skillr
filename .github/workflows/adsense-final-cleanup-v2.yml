@@ -27,7 +27,10 @@ jobs:
       - name: Apply final content cleanup and guard
         run: python3 scripts/adsense_final_cleanup.py
 
-      - name: Protect legacy Practice-backed Homework
+      - name: Strip all legacy Homework ad variants
+        run: python3 scripts/strip_legacy_homework_ads.py
+
+      - name: Protect legacy Practice-backed Homework and generator
         run: python3 scripts/adsense_legacy_homework_safety.py
 
       - name: Show changed files
