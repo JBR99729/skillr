@@ -1,49 +1,35 @@
-name: AdSense final cleanup v2
+name: AdSense content quality guard
 
 on:
+  pull_request:
   push:
     branches:
-      - agent/adsense-final-risk-cleanup-v2
+      - main
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  cleanup:
-    if: ${{ !contains(github.event.head_commit.message || '', '[skip ci]') }}
+  adsense-quality-guard:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      - name: Apply final content cleanup and guard
+      - name: Verify known AdSense-risk content regressions
         run: python3 scripts/adsense_final_cleanup.py
 
-      - name: Strip all legacy Homework ad variants
+      - name: Verify legacy Homework indexing and ad protections
         run: python3 scripts/strip_legacy_homework_ads.py
 
-      - name: Protect legacy Practice-backed Homework and generator
+      - name: Verify Homework subject labels and generator safeguards
         run: python3 scripts/adsense_legacy_homework_safety.py
 
-      - name: Show changed files
-        run: git status --short
-
-      - name: Commit generated cleanup
-        run: |
-          if git diff --quiet; then
-            echo "No cleanup changes required."
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Protect legacy Homework from AdSense indexing [skip ci]"
-          git push
+      - name: Fail if a guard would change tracked files
+        run: git diff --exit-code
