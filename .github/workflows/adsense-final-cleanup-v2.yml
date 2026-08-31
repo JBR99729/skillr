@@ -24,8 +24,11 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Apply final cleanup and guard
+      - name: Apply final content cleanup and guard
         run: python3 scripts/adsense_final_cleanup.py
+
+      - name: Protect legacy Practice-backed Homework
+        run: python3 scripts/adsense_legacy_homework_safety.py
 
       - name: Show changed files
         run: git status --short
@@ -39,5 +42,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Apply final AdSense risk cleanup [skip ci]"
+          git commit -m "Protect legacy Homework from AdSense indexing [skip ci]"
           git push
