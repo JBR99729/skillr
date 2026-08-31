@@ -255,12 +255,14 @@ def worksheet(unit: dict, bank_url: str) -> str:
     path = unit["worksheetUrl"]
     title = TITLE_OVERRIDES.get(unit["code"], unit["title"])
     marker = "".join(f"<p>{esc(item)}</p>" for item in EXTRA_MARKERS.get(unit["code"], []))
-    return f'''<!DOCTYPE html><html lang="en-AU">{head(f"{unit['code']} {title} Worksheet", f"Generate an 8-question worksheet for {unit['code']}.", path)}<body>{breadcrumb(unit)}<main class="quiz-app"><section class="card start-card"><p class="eyebrow">{esc(unit['code'])} • Worksheet</p><h1 id="quizTitle">{esc(title)} Worksheet</h1><p>Download a worksheet containing the same eight questions used in Practice and Test.</p>{marker}<button class="button button-primary" id="downloadPdfButton" type="button">Download PDF worksheet</button><a class="button button-secondary" href="{esc(unit['practiceUrl'])}">Open practice</a></section></main><script>window.quizConfig={{skillCode:{json.dumps(unit['code'])},worksheetQuestionLimit:8}};</script><script src="{esc(bank_url)}"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script><script src="/quiz/assets/worksheet-pdf.js?v=17"></script><script src="/pwa-register.js"></script></body></html>'''
+    # Legacy generated Homework currently reuses the Practice bank. Keep the route useful
+    # but do not index or monetise it until independently authored Homework replaces it.
+    return f'''<!DOCTYPE html><html lang="en-AU">{head(f"{unit['code']} {title} Homework", f"Printable homework companion for {unit['code']}.", path, robots="noindex, follow", ads=False)}<body>{breadcrumb(unit)}<main class="quiz-app"><section class="card start-card"><p class="eyebrow">{esc(unit['code'])} • Homework</p><h1 id="quizTitle">{esc(title)} Homework</h1><p>Use this printable homework companion for written working and revision alongside the topic guide.</p>{marker}<button class="button button-primary" id="downloadPdfButton" type="button">Download PDF homework</button><a class="button button-secondary" href="{esc(unit['practiceUrl'])}">Open practice</a></section></main><script>window.quizConfig={{skillCode:{json.dumps(unit['code'])},worksheetQuestionLimit:8}};</script><script src="{esc(bank_url)}"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script><script src="/quiz/assets/worksheet-pdf.js?v=17"></script><script src="/pwa-register.js"></script></body></html>'''
 
 
 def activity_hub(unit: dict, path: str) -> str:
     subject = "Maths" if unit["learningArea"] == "Mathematics" else unit["learningArea"]
-    return f'''<!DOCTYPE html><html lang="en-AU">{head(f"{unit['code']} {unit['title']} Activities", f"Open the topic guide and access the teacher slide, worksheet, Practice and Test for {unit['code']}.", path, robots="noindex, follow", ads=True)}<body>{breadcrumb(unit)}<main class="quiz-app"><section class="card start-card"><p class="eyebrow">{esc(unit['code'])} • {esc(unit['levelLabel'])} {esc(subject)}</p><h1>{esc(unit['title'])}</h1><p>{esc(unit['description'])}</p><p>Choose a learning activity. Worksheet, Practice and Test use the same eight-question unit bank.</p><section class="pre-read-notes"><h2>Unit focus</h2><ul>{quick_notes(unit)}</ul></section><div class="result-actions"><a class="button button-primary" href="{esc(unit['url'])}">Topic guide</a><a class="button button-secondary" href="{esc(unit['url'])}#teacher-slide">Teacher slide</a><a class="button button-secondary" href="{esc(unit['worksheetUrl'])}">Worksheet</a><a class="button button-secondary" href="{esc(unit['practiceUrl'])}">Practice</a><a class="button button-secondary" href="{esc(unit['testUrl'])}">Test</a></div></section></main><script src="/pwa-register.js"></script></body></html>'''
+    return f'''<!DOCTYPE html><html lang="en-AU">{head(f"{unit['code']} {unit['title']} Activities", f"Open the topic guide and access the teacher slide, worksheet, Practice and Test for {unit['code']}.", path, robots="noindex, follow", ads=True)}<body>{breadcrumb(unit)}<main class="quiz-app"><section class="card start-card"><p class="eyebrow">{esc(unit['code'])} • {esc(unit['levelLabel'])} {esc(subject)}</p><h1>{esc(unit['title'])}</h1><p>{esc(unit['description'])}</p><p>Choose the resource that matches your next learning step: topic teaching, written Homework, guided Practice or an independent Test.</p><section class="pre-read-notes"><h2>Unit focus</h2><ul>{quick_notes(unit)}</ul></section><div class="result-actions"><a class="button button-primary" href="{esc(unit['url'])}">Topic guide</a><a class="button button-secondary" href="{esc(unit['url'])}#teacher-slide">Teacher slide</a><a class="button button-secondary" href="{esc(unit['worksheetUrl'])}">Homework</a><a class="button button-secondary" href="{esc(unit['practiceUrl'])}">Practice</a><a class="button button-secondary" href="{esc(unit['testUrl'])}">Test</a></div></section></main><script src="/pwa-register.js"></script></body></html>'''
 
 
 def write_page(url: str, content: str) -> None:
@@ -289,12 +291,17 @@ def main() -> None:
             unavailable_paths.append(activity_url)
             continue
         published_units += 1
-        bank_url = "/" + bank_file.relative_to(ROOT).as_posix()
+        practice_bank_url = "/" + bank_file.relative_to(ROOT).as_posix()
+        test_dir = disk_path(unit["testUrl"])
+        test_bank_file = test_dir / "questions.js"
         activity_url = unit["practiceUrl"].removesuffix("practice/")
         write_page(activity_url, activity_hub(unit, activity_url))
-        write_page(unit["practiceUrl"], attempt(unit, "practice", bank_url))
-        write_page(unit["testUrl"], attempt(unit, "test", bank_url))
-        write_page(unit["worksheetUrl"], worksheet(unit, bank_url))
+        write_page(unit["practiceUrl"], attempt(unit, "practice", practice_bank_url))
+        # Preserve an existing authored Test unless a genuinely separate Test bank exists.
+        if test_bank_file.exists() and test_bank_file.resolve() != bank_file.resolve():
+            test_bank_url = "/" + test_bank_file.relative_to(ROOT).as_posix()
+            write_page(unit["testUrl"], attempt(unit, "test", test_bank_url))
+        write_page(unit["worksheetUrl"], worksheet(unit, practice_bank_url))
         for mode in ("practice", "test"):
             for kind in ("result", "review", "retake"):
                 write_page(f"{unit[mode + 'Url']}{kind}/", secondary_page(unit, mode, kind))
