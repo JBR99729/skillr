@@ -29,6 +29,10 @@ BAD_TRAP = (
 )
 DUPLICATE_PHRASE = "same eight questions used in Practice and Test"
 DUPLICATE_HUB = "Worksheet, Practice and Test use the same eight-question unit bank."
+HOMEWORK_VALUE = (
+    "Use this printable homework sheet for written working, application and reflection alongside "
+    "the online learning activities."
+)
 
 
 def esc(value: str) -> str:
@@ -106,9 +110,11 @@ def repair_attempt_count(text: str) -> tuple[str, bool]:
 def repair_homework_copy(text: str, rel: str) -> tuple[str, bool]:
     original = text
     if "/worksheet/" in f"/{rel}":
+        # Older generators emitted several prefixes ("worksheet", "homework", etc.)
+        # before the same duplicate-bank claim. Replace the full user-facing paragraph.
         text = re.sub(
-            r"Download a worksheet containing the same eight questions used in Practice and Test\.?",
-            "Use this printable homework sheet for written working, application and reflection alongside the online learning activities.",
+            r"<p>[^<]*same eight questions used in Practice and Test\.?[^<]*</p>",
+            f"<p>{HOMEWORK_VALUE}</p>",
             text,
             flags=re.I,
         )
