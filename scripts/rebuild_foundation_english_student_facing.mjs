@@ -13,7 +13,7 @@ source = source.replace(
 );
 source = source.replace(
   "const data = context.window.SkillrFoundationEnglishData;\n",
-  "const data = context.window.SkillrFoundationEnglishData;\ncontext.window.SkillrFoundationEnglishStudentFacing?.applyData(data, context.window.SkillrFoundationEnglishWorksheetData);\n"
+  "const data = context.window.SkillrFoundationEnglishData;\ncontext.window.SkillrFoundationEnglishStudentFacing?.applyData(data, context.window.SkillrFoundationEnglishWorksheetData);\nfor (const [code, cfg] of Object.entries(context.window.SkillrFoundationEnglishStudentFacing?.configs || {})) { if (data[code]) { data[code].learn = cfg.childGoal; data[code].subtitle = cfg.bigIdea; } }\n"
 );
 source = source.replace(
   "run('assets/foundation-ac9efla01-lesson.js');\n",
@@ -36,7 +36,7 @@ for (const entry of topicDirs) {
   let html = fs.readFileSync(index, 'utf8');
   html = html
     .replace(/<summary><strong>What students learn<\/strong><\/summary>/g, '<summary><strong>What this skill means</strong></summary>')
-    .replace(/<strong>Learning intention:<\/strong>/g, '<strong>Learning goal: I can</strong>')
+    .replace(/<strong>Learning intention:<\/strong>/g, '<strong>Learning goal:</strong>')
     .replace(/<h3>Success criteria<\/h3>/g, '<h3>I am ready when I can</h3>')
     .replace(/<summary><strong>Model and guided application<\/strong><\/summary>/g, '<summary><strong>See it, then try it</strong></summary>')
     .replace(/<summary><strong>Learning activities<\/strong><\/summary>/g, '<summary><strong>Try these</strong></summary>')
