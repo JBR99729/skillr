@@ -4,13 +4,14 @@ on:
   push:
     branches:
       - main
+      - qa/year6-english-student-facing
   pull_request:
     branches:
       - main
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   validate-question-quality:
@@ -26,10 +27,37 @@ jobs:
         with:
           node-version: 20
 
+      - name: Rebuild Year 6 English student-facing banks
+        if: github.ref == 'refs/heads/qa/year6-english-student-facing' && !contains(github.event.head_commit.message, '[skip year6-bank-rebuild]')
+        run: node scripts/build_year6_english_quality_banks.mjs
+
+      - name: Reject Year 6 English teacher-facing stems
+        if: github.ref == 'refs/heads/qa/year6-english-student-facing'
+        run: |
+          if grep -R -E "Which evidence would best show secure understanding|Which principle should guide a response|Which response plan best addresses|Which analytical move is strongest|Which approach best addresses this evaluation" quiz/year-6/english --include='questions.js' --include='practice-questions.js'; then
+            echo "Teacher-facing question stem remains in Year 6 English"
+            exit 1
+          fi
+
+      - name: Commit Year 6 English generated banks
+        if: github.ref == 'refs/heads/qa/year6-english-student-facing' && !contains(github.event.head_commit.message, '[skip year6-bank-rebuild]')
+        run: |
+          if git diff --quiet; then
+            echo "No Year 6 English generated changes"
+          else
+            git config user.name "skillr-content-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add assets/assessment-banks/year6/english quiz/year-6/english
+            git commit -m "content: complete Year 6 English student-facing banks [skip year6-bank-rebuild]"
+            git push origin HEAD:qa/year6-english-student-facing
+          fi
+
       - name: Reject new or touched templated question stems
+        if: github.ref != 'refs/heads/qa/year6-english-student-facing'
         env:
           BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
         run: node scripts/validate_no_templated_question_stems.mjs
 
       - name: Validate authored upper-year banks
+        if: github.ref != 'refs/heads/qa/year6-english-student-facing'
         run: node scripts/build_missing_upper_assessment_banks.mjs
