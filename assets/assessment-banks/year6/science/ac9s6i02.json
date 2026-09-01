@@ -1,1418 +1,1322 @@
 [
   {
-    "id": "AC9S6I02-P-001",
+    "id": "ac9s6i02-p-001",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "During a class investigation, students discuss the evidence. In work about Planning Repeatable Investigations, a record describes “method described clearly enough for another group to follow”. Which scientific term should label it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. In work about Planning Repeatable Investigations, a record describes “method described clearly enough for another group to follow”. Which scientific term should label it?",
+    "skill": "repeatable investigations",
+    "question": "What detail makes a method more repeatable?",
+    "audio_prompt": "What detail makes a method more repeatable?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "repeatable method",
+        "text": "Use 50 mL of water at 25 degrees C in each cup.",
         "is_correct": true
       },
       {
-        "text": "controlled variable",
+        "text": "Use some water.",
         "is_correct": false
       },
       {
-        "text": "pilot test",
+        "text": "Do the test nicely.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "repeatable method means method described clearly enough for another group to follow.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Use 50 mL of water at 25 degrees C in each cup.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-002",
+    "id": "ac9s6i02-p-002",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student checks a science notebook. In work about Planning Repeatable Investigations, a record describes “relevant condition kept consistent”. Which scientific term should label it?",
-    "audio_prompt": "A student checks a science notebook. In work about Planning Repeatable Investigations, a record describes “relevant condition kept consistent”. Which scientific term should label it?",
+    "skill": "repeatable investigations",
+    "question": "Why include control variables?",
+    "audio_prompt": "Why include control variables?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "repeatable method",
+        "text": "They are the results being measured.",
         "is_correct": false
       },
       {
-        "text": "controlled variable",
+        "text": "They keep other conditions the same so the test is fairer.",
         "is_correct": true
       },
       {
-        "text": "pilot test",
+        "text": "They make repeats unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "controlled variable means relevant condition kept consistent.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "They keep other conditions the same so the test is fairer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-003",
+    "id": "ac9s6i02-p-003",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A group compares its evidence. In work about Planning Repeatable Investigations, a record describes “small preliminary test used to improve method”. Which scientific term should label it?",
-    "audio_prompt": "A group compares its evidence. In work about Planning Repeatable Investigations, a record describes “small preliminary test used to improve method”. Which scientific term should label it?",
+    "skill": "repeatable investigations",
+    "question": "What is a pilot test useful for?",
+    "audio_prompt": "What is a pilot test useful for?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "repeatable method",
+        "text": "Changing results to match the prediction.",
         "is_correct": false
       },
       {
-        "text": "controlled variable",
+        "text": "Avoiding safety checks.",
         "is_correct": false
       },
       {
-        "text": "pilot test",
+        "text": "Finding problems in the method before the main investigation.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "pilot test means small preliminary test used to improve method.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 4,
-    "sequence_priority": 2
+      "summary": "Finding problems in the method before the main investigation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-004",
+    "id": "ac9s6i02-p-004",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "At a science station, the class reviews its work. A student's reasoning is “Repeatable means identical results”. Which revision corrects it?",
-    "audio_prompt": "At a science station, the class reviews its work. A student's reasoning is “Repeatable means identical results”. Which revision corrects it?",
+    "skill": "repeatable investigations",
+    "question": "Which risk control is specific enough?",
+    "audio_prompt": "Which risk control is specific enough?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It refers to method clarity and consistency.",
+        "text": "Wear eye protection when heating water and keep cups away from table edges.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Be careful.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Try not to make mistakes.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It refers to method clarity and consistency.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Wear eye protection when heating water and keep cups away from table edges.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-005",
+    "id": "ac9s6i02-p-005",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student reviews a model. A student's reasoning is “Control variables labelled but not quantified”. Which revision corrects it?",
-    "audio_prompt": "A student reviews a model. A student's reasoning is “Control variables labelled but not quantified”. Which revision corrects it?",
+    "skill": "repeatable investigations",
+    "question": "Why repeat each setup three times?",
+    "audio_prompt": "Why repeat each setup three times?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Repeats guarantee identical results.",
         "is_correct": false
       },
       {
-        "text": "State actual values or procedures.",
+        "text": "Repeats show whether results are consistent.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Repeats let you ignore measurements.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "State actual values or procedures.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Repeats show whether results are consistent.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-006",
+    "id": "ac9s6i02-p-006",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Risk control says only ‘be careful’”. Which revision corrects it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Risk control says only ‘be careful’”. Which revision corrects it?",
+    "skill": "repeatable investigations",
+    "question": "Which permission issue matters before a field investigation on Country/Place?",
+    "audio_prompt": "Which permission issue matters before a field investigation on Country/Place?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Whether the graph has a title.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Whether the pencil is sharp.",
         "is_correct": false
       },
       {
-        "text": "Name hazard and specific action.",
+        "text": "Whether students have approval to enter and collect observations respectfully.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Name hazard and specific action.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Whether students have approval to enter and collect observations respectfully.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-007",
+    "id": "ac9s6i02-p-007",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Method changed silently mid-test”. Which revision corrects it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Method changed silently mid-test”. Which revision corrects it?",
+    "skill": "repeatable investigations",
+    "question": "A group changes soil type and water amount together. What is wrong?",
+    "audio_prompt": "A group changes soil type and water amount together. What is wrong?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Document deviations and their effect.",
+        "text": "Two variables changed, so the cause of any growth difference is unclear.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "The investigation has too many repeats.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "The measured variable is too precise.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Document deviations and their effect.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Two variables changed, so the cause of any growth difference is unclear.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-008",
+    "id": "ac9s6i02-p-008",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student checks a science notebook. A science organiser labels one part “question”. Which entry belongs with that label?",
-    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “question”. Which entry belongs with that label?",
+    "skill": "repeatable investigations",
+    "question": "Which equipment choice best matches measuring small temperature changes?",
+    "audio_prompt": "Which equipment choice best matches measuring small temperature changes?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-p-008",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting question as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "number of identical lamps",
+        "text": "A ruler.",
         "is_correct": false
       },
       {
-        "text": "How does number of series lamps affect brightness?",
+        "text": "A thermometer or digital probe with a suitable scale.",
         "is_correct": true
       },
       {
-        "text": "light sensor reading",
+        "text": "A stopwatch only.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links question with How does number of series lamps affect brightness?.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A thermometer or digital probe with a suitable scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-009",
+    "id": "ac9s6i02-p-009",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A group compares its evidence. A science organiser labels one part “change”. Which entry belongs with that label?",
-    "audio_prompt": "A group compares its evidence. A science organiser labels one part “change”. Which entry belongs with that label?",
+    "skill": "repeatable investigations",
+    "question": "What detail makes a method more repeatable in a new class investigation?",
+    "audio_prompt": "What detail makes a method more repeatable in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-p-009",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting change as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "How does number of series lamps affect brightness?",
+        "text": "Use some water.",
         "is_correct": false
       },
       {
-        "text": "light sensor reading",
+        "text": "Do the test nicely.",
         "is_correct": false
       },
       {
-        "text": "number of identical lamps",
+        "text": "Use 50 mL of water at 25 degrees C in each cup.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links change with number of identical lamps.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Use 50 mL of water at 25 degrees C in each cup.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-010",
+    "id": "ac9s6i02-p-010",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "At a science station, the class reviews its work. A science organiser labels one part “measure”. Which entry belongs with that label?",
-    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “measure”. Which entry belongs with that label?",
+    "skill": "repeatable investigations",
+    "question": "Why include control variables in a new class investigation?",
+    "audio_prompt": "Why include control variables in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-p-010",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting measure as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "light sensor reading",
+        "text": "They keep other conditions the same so the test is fairer.",
         "is_correct": true
       },
       {
-        "text": "How does number of series lamps affect brightness?",
+        "text": "They are the results being measured.",
         "is_correct": false
       },
       {
-        "text": "number of identical lamps",
+        "text": "They make repeats unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links measure with light sensor reading.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "They keep other conditions the same so the test is fairer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-011",
+    "id": "ac9s6i02-p-011",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student reviews a model. A science organiser labels one part “control”. Which entry belongs with that label?",
-    "audio_prompt": "A student reviews a model. A science organiser labels one part “control”. Which entry belongs with that label?",
+    "skill": "repeatable investigations",
+    "question": "What is a pilot test useful for in a new class investigation?",
+    "audio_prompt": "What is a pilot test useful for in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-p-011",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting control as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "How does number of series lamps affect brightness?",
+        "text": "Changing results to match the prediction.",
         "is_correct": false
       },
       {
-        "text": "cells, lamp type, sensor distance, room light",
+        "text": "Finding problems in the method before the main investigation.",
         "is_correct": true
       },
       {
-        "text": "number of identical lamps",
+        "text": "Avoiding safety checks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links control with cells, lamp type, sensor distance, room light.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Finding problems in the method before the main investigation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-012",
+    "id": "ac9s6i02-p-012",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “repeat”. Which entry belongs with that label?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “repeat”. Which entry belongs with that label?",
+    "skill": "repeatable investigations",
+    "question": "Which risk control is specific enough in a new class investigation?",
+    "audio_prompt": "Which risk control is specific enough in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-p-012",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting repeat as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "How does number of series lamps affect brightness?",
+        "text": "Be careful.",
         "is_correct": false
       },
       {
-        "text": "number of identical lamps",
+        "text": "Try not to make mistakes.",
         "is_correct": false
       },
       {
-        "text": "3+ readings each setup",
+        "text": "Wear eye protection when heating water and keep cups away from table edges.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links repeat with 3+ readings each setup.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Wear eye protection when heating water and keep cups away from table edges.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-013",
+    "id": "ac9s6i02-p-013",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “risk”. Which entry belongs with that label?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “risk”. Which entry belongs with that label?",
+    "skill": "repeatable investigations",
+    "question": "Why repeat each setup three times in a new class investigation?",
+    "audio_prompt": "Why repeat each setup three times in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-p-013",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting risk as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "low-voltage cells only; prevent hot components",
+        "text": "Repeats show whether results are consistent.",
         "is_correct": true
       },
       {
-        "text": "How does number of series lamps affect brightness?",
+        "text": "Repeats guarantee identical results.",
         "is_correct": false
       },
       {
-        "text": "number of identical lamps",
+        "text": "Repeats let you ignore measurements.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links risk with low-voltage cells only; prevent hot components.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Repeats show whether results are consistent.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-014",
+    "id": "ac9s6i02-p-014",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student checks a science notebook. Which detail improves repeatability most?",
-    "audio_prompt": "A student checks a science notebook. Which detail improves repeatability most?",
+    "skill": "repeatable investigations",
+    "question": "Which permission issue matters before a field investigation on Country/Place in a new class investigation?",
+    "audio_prompt": "Which permission issue matters before a field investigation on Country/Place in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Say ‘build a circuit’",
+        "text": "Whether the graph has a title.",
         "is_correct": false
       },
       {
-        "text": "Specify component connections, sensor distance and timing",
+        "text": "Whether students have approval to enter and collect observations respectfully.",
         "is_correct": true
       },
       {
-        "text": "Use any cells available",
+        "text": "Whether the pencil is sharp.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Specify component connections, sensor distance and timing is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Whether students have approval to enter and collect observations respectfully.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-015",
+    "id": "ac9s6i02-p-015",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A group compares its evidence. What is a pilot test for?",
-    "audio_prompt": "A group compares its evidence. What is a pilot test for?",
+    "skill": "repeatable investigations",
+    "question": "A group changes soil type and water amount together. What is wrong in a new class investigation?",
+    "audio_prompt": "A group changes soil type and water amount together. What is wrong in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Changing results to match a prediction",
+        "text": "The investigation has too many repeats.",
         "is_correct": false
       },
       {
-        "text": "Avoiding safety planning",
+        "text": "The measured variable is too precise.",
         "is_correct": false
       },
       {
-        "text": "Finding practical problems before full collection",
+        "text": "Two variables changed, so the cause of any growth difference is unclear.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Finding practical problems before full collection is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Two variables changed, so the cause of any growth difference is unclear.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-016",
+    "id": "ac9s6i02-p-016",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Planning Repeatable Investigations, a record describes “method described clearly enough for another group to follow”. Which scientific term should label it?",
-    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Planning Repeatable Investigations, a record describes “method described clearly enough for another group to follow”. Which scientific term should label it?",
+    "skill": "repeatable investigations",
+    "question": "Which equipment choice best matches measuring small temperature changes in a new class investigation?",
+    "audio_prompt": "Which equipment choice best matches measuring small temperature changes in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "repeatable method",
+        "text": "A thermometer or digital probe with a suitable scale.",
         "is_correct": true
       },
       {
-        "text": "controlled variable",
+        "text": "A ruler.",
         "is_correct": false
       },
       {
-        "text": "pilot test",
+        "text": "A stopwatch only.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "repeatable method means method described clearly enough for another group to follow.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A thermometer or digital probe with a suitable scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-017",
+    "id": "ac9s6i02-p-017",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. In work about Planning Repeatable Investigations, a record describes “relevant condition kept consistent”. Which scientific term should label it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. In work about Planning Repeatable Investigations, a record describes “relevant condition kept consistent”. Which scientific term should label it?",
+    "skill": "repeatable investigations",
+    "question": "What detail makes a method more repeatable after students review their evidence?",
+    "audio_prompt": "What detail makes a method more repeatable after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "repeatable method",
+        "text": "Use some water.",
         "is_correct": false
       },
       {
-        "text": "controlled variable",
+        "text": "Use 50 mL of water at 25 degrees C in each cup.",
         "is_correct": true
       },
       {
-        "text": "pilot test",
+        "text": "Do the test nicely.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "controlled variable means relevant condition kept consistent.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Use 50 mL of water at 25 degrees C in each cup.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-018",
+    "id": "ac9s6i02-p-018",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Planning Repeatable Investigations, a record describes “small preliminary test used to improve method”. Which scientific term should label it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Planning Repeatable Investigations, a record describes “small preliminary test used to improve method”. Which scientific term should label it?",
+    "skill": "repeatable investigations",
+    "question": "Why include control variables after students review their evidence?",
+    "audio_prompt": "Why include control variables after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "repeatable method",
+        "text": "They are the results being measured.",
         "is_correct": false
       },
       {
-        "text": "controlled variable",
+        "text": "They make repeats unnecessary.",
         "is_correct": false
       },
       {
-        "text": "pilot test",
+        "text": "They keep other conditions the same so the test is fairer.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "pilot test means small preliminary test used to improve method.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 4,
-    "sequence_priority": 2
+      "summary": "They keep other conditions the same so the test is fairer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-019",
+    "id": "ac9s6i02-p-019",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Repeatable means identical results”. Which revision corrects it?",
-    "audio_prompt": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Repeatable means identical results”. Which revision corrects it?",
+    "skill": "repeatable investigations",
+    "question": "What is a pilot test useful for after students review their evidence?",
+    "audio_prompt": "What is a pilot test useful for after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It refers to method clarity and consistency.",
+        "text": "Finding problems in the method before the main investigation.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Changing results to match the prediction.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Avoiding safety checks.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It refers to method clarity and consistency.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Finding problems in the method before the main investigation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-020",
+    "id": "ac9s6i02-p-020",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Control variables labelled but not quantified”. Which revision corrects it?",
-    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Control variables labelled but not quantified”. Which revision corrects it?",
+    "skill": "repeatable investigations",
+    "question": "Which risk control is specific enough after students review their evidence?",
+    "audio_prompt": "Which risk control is specific enough after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Be careful.",
         "is_correct": false
       },
       {
-        "text": "State actual values or procedures.",
+        "text": "Wear eye protection when heating water and keep cups away from table edges.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Try not to make mistakes.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "State actual values or procedures.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Wear eye protection when heating water and keep cups away from table edges.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-021",
+    "id": "ac9s6i02-p-021",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Risk control says only ‘be careful’”. Which revision corrects it?",
-    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Risk control says only ‘be careful’”. Which revision corrects it?",
+    "skill": "repeatable investigations",
+    "question": "Why repeat each setup three times after students review their evidence?",
+    "audio_prompt": "Why repeat each setup three times after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Repeats guarantee identical results.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Repeats let you ignore measurements.",
         "is_correct": false
       },
       {
-        "text": "Name hazard and specific action.",
+        "text": "Repeats show whether results are consistent.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Name hazard and specific action.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Repeats show whether results are consistent.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-022",
+    "id": "ac9s6i02-p-022",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Method changed silently mid-test”. Which revision corrects it?",
-    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Method changed silently mid-test”. Which revision corrects it?",
+    "skill": "repeatable investigations",
+    "question": "Which permission issue matters before a field investigation on Country/Place after students review their evidence?",
+    "audio_prompt": "Which permission issue matters before a field investigation on Country/Place after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Document deviations and their effect.",
+        "text": "Whether students have approval to enter and collect observations respectfully.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Whether the graph has a title.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Whether the pencil is sharp.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Document deviations and their effect.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Whether students have approval to enter and collect observations respectfully.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-023",
+    "id": "ac9s6i02-p-023",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “question”. Which entry belongs with that label?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “question”. Which entry belongs with that label?",
+    "skill": "repeatable investigations",
+    "question": "A group changes soil type and water amount together. What is wrong after students review their evidence?",
+    "audio_prompt": "A group changes soil type and water amount together. What is wrong after students review their evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-p-023",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting question as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "number of identical lamps",
+        "text": "The investigation has too many repeats.",
         "is_correct": false
       },
       {
-        "text": "How does number of series lamps affect brightness?",
+        "text": "Two variables changed, so the cause of any growth difference is unclear.",
         "is_correct": true
       },
       {
-        "text": "light sensor reading",
+        "text": "The measured variable is too precise.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links question with How does number of series lamps affect brightness?.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Two variables changed, so the cause of any growth difference is unclear.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-P-024",
+    "id": "ac9s6i02-p-024",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "practice",
-    "skill": "planning_repeatable_investigations",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “change”. Which entry belongs with that label?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “change”. Which entry belongs with that label?",
+    "skill": "repeatable investigations",
+    "question": "Which equipment choice best matches measuring small temperature changes after students review their evidence?",
+    "audio_prompt": "Which equipment choice best matches measuring small temperature changes after students review their evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-p-024",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting change as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "How does number of series lamps affect brightness?",
+        "text": "A ruler.",
         "is_correct": false
       },
       {
-        "text": "light sensor reading",
+        "text": "A stopwatch only.",
         "is_correct": false
       },
       {
-        "text": "number of identical lamps",
+        "text": "A thermometer or digital probe with a suitable scale.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links change with number of identical lamps.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A thermometer or digital probe with a suitable scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I02-T-001",
+    "id": "ac9s6i02-t-001",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A new investigation report must be checked. A student chose “Changing results to match a prediction”. Reconsider this question using scientific evidence: What is a pilot test for?",
-    "audio_prompt": "A new investigation report must be checked. A student chose “Changing results to match a prediction”. Reconsider this question using scientific evidence: What is a pilot test for?",
+    "skill": "repeatable investigations",
+    "question": "A different class checks the same science idea: Which equipment choice best matches measuring small temperature changes?",
+    "audio_prompt": "A different class checks the same science idea: Which equipment choice best matches measuring small temperature changes?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Changing results to match a prediction",
-        "is_correct": false
-      },
-      {
-        "text": "Finding practical problems before full collection",
+        "text": "A thermometer or digital probe with a suitable scale.",
         "is_correct": true
       },
       {
-        "text": "Avoiding safety planning",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Finding practical problems before full collection is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
-    }
-  },
-  {
-    "id": "AC9S6I02-T-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A different class analyses its results. A student chose “Say ‘build a circuit’”. Reconsider this question using scientific evidence: Which detail improves repeatability most?",
-    "audio_prompt": "A different class analyses its results. A student chose “Say ‘build a circuit’”. Reconsider this question using scientific evidence: Which detail improves repeatability most?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Say ‘build a circuit’",
+        "text": "A ruler.",
         "is_correct": false
       },
       {
-        "text": "Use any cells available",
-        "is_correct": false
-      },
-      {
-        "text": "Specify component connections, sensor distance and timing",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Specify component connections, sensor distance and timing is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
-    }
-  },
-  {
-    "id": "AC9S6I02-T-003",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “low-voltage cells only; prevent hot components”. Which heading best identifies its role?",
-    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “low-voltage cells only; prevent hot components”. Which heading best identifies its role?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-t-003",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting risk as one part of the evidence."
-    },
-    "answers": [
-      {
-        "text": "risk",
-        "is_correct": true
-      },
-      {
-        "text": "question",
-        "is_correct": false
-      },
-      {
-        "text": "change",
+        "text": "A stopwatch only.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "low-voltage cells only; prevent hot components belongs under risk.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "A thermometer or digital probe with a suitable scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-004",
+    "id": "ac9s6i02-t-002",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “3+ readings each setup”. Which heading best identifies its role?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “3+ readings each setup”. Which heading best identifies its role?",
+    "skill": "repeatable investigations",
+    "question": "A different class checks the same science idea: A group changes soil type and water amount together. What is wrong?",
+    "audio_prompt": "A different class checks the same science idea: A group changes soil type and water amount together. What is wrong?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-t-004",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting repeat as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "question",
+        "text": "The investigation has too many repeats.",
         "is_correct": false
       },
       {
-        "text": "repeat",
+        "text": "Two variables changed, so the cause of any growth difference is unclear.",
         "is_correct": true
       },
       {
-        "text": "change",
+        "text": "The measured variable is too precise.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "3+ readings each setup belongs under repeat.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Two variables changed, so the cause of any growth difference is unclear.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-005",
+    "id": "ac9s6i02-t-003",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “cells, lamp type, sensor distance, room light”. Which heading best identifies its role?",
-    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “cells, lamp type, sensor distance, room light”. Which heading best identifies its role?",
+    "skill": "repeatable investigations",
+    "question": "A different class checks the same science idea: Which permission issue matters before a field investigation on Country/Place?",
+    "audio_prompt": "A different class checks the same science idea: Which permission issue matters before a field investigation on Country/Place?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-t-005",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting control as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "question",
+        "text": "Whether the graph has a title.",
         "is_correct": false
       },
       {
-        "text": "change",
+        "text": "Whether the pencil is sharp.",
         "is_correct": false
       },
       {
-        "text": "control",
+        "text": "Whether students have approval to enter and collect observations respectfully.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "cells, lamp type, sensor distance, room light belongs under control.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Whether students have approval to enter and collect observations respectfully.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-006",
+    "id": "ac9s6i02-t-004",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A different class analyses its results. A science organiser contains the entry “light sensor reading”. Which heading best identifies its role?",
-    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “light sensor reading”. Which heading best identifies its role?",
+    "skill": "repeatable investigations",
+    "question": "A different class checks the same science idea: Why repeat each setup three times?",
+    "audio_prompt": "A different class checks the same science idea: Why repeat each setup three times?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-t-006",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting measure as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "measure",
+        "text": "Repeats show whether results are consistent.",
         "is_correct": true
       },
       {
-        "text": "question",
+        "text": "Repeats guarantee identical results.",
         "is_correct": false
       },
       {
-        "text": "change",
+        "text": "Repeats let you ignore measurements.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "light sensor reading belongs under measure.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Repeats show whether results are consistent.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-007",
+    "id": "ac9s6i02-t-005",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “number of identical lamps”. Which heading best identifies its role?",
-    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “number of identical lamps”. Which heading best identifies its role?",
+    "skill": "repeatable investigations",
+    "question": "A different class checks the same science idea: Which risk control is specific enough?",
+    "audio_prompt": "A different class checks the same science idea: Which risk control is specific enough?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-t-007",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting change as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "question",
+        "text": "Be careful.",
         "is_correct": false
       },
       {
-        "text": "change",
+        "text": "Wear eye protection when heating water and keep cups away from table edges.",
         "is_correct": true
       },
       {
-        "text": "measure",
+        "text": "Try not to make mistakes.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "number of identical lamps belongs under change.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Wear eye protection when heating water and keep cups away from table edges.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-008",
+    "id": "ac9s6i02-t-006",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “How does number of series lamps affect brightness?”. Which heading best identifies its role?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “How does number of series lamps affect brightness?”. Which heading best identifies its role?",
+    "skill": "repeatable investigations",
+    "question": "A different class checks the same science idea: What is a pilot test useful for?",
+    "audio_prompt": "A different class checks the same science idea: What is a pilot test useful for?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i02.svg#ac9s6i02-t-008",
-      "alt_text": "A Year 6 science organiser for Planning Repeatable Investigations, highlighting question as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "change",
+        "text": "Changing results to match the prediction.",
         "is_correct": false
       },
       {
-        "text": "measure",
+        "text": "Avoiding safety checks.",
         "is_correct": false
       },
       {
-        "text": "question",
+        "text": "Finding problems in the method before the main investigation.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "How does number of series lamps affect brightness? belongs under question.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Finding problems in the method before the main investigation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-009",
+    "id": "ac9s6i02-t-007",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A new investigation report must be checked. A review recommends, “Document deviations and their effect.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A new investigation report must be checked. A review recommends, “Document deviations and their effect.” Which original claim most clearly needs that revision?",
+    "skill": "repeatable investigations",
+    "question": "A different class checks the same science idea: Why include control variables?",
+    "audio_prompt": "A different class checks the same science idea: Why include control variables?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Method changed silently mid-test",
+        "text": "They keep other conditions the same so the test is fairer.",
         "is_correct": true
       },
       {
-        "text": "Repeatable means identical results",
+        "text": "They are the results being measured.",
         "is_correct": false
       },
       {
-        "text": "Control variables labelled but not quantified",
+        "text": "They make repeats unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Method changed silently mid-test”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "They keep other conditions the same so the test is fairer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-010",
+    "id": "ac9s6i02-t-008",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A different class analyses its results. A review recommends, “Name hazard and specific action.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A different class analyses its results. A review recommends, “Name hazard and specific action.” Which original claim most clearly needs that revision?",
+    "skill": "repeatable investigations",
+    "question": "A different class checks the same science idea: What detail makes a method more repeatable?",
+    "audio_prompt": "A different class checks the same science idea: What detail makes a method more repeatable?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Repeatable means identical results",
+        "text": "Use some water.",
         "is_correct": false
       },
       {
-        "text": "Risk control says only ‘be careful’",
+        "text": "Use 50 mL of water at 25 degrees C in each cup.",
         "is_correct": true
       },
       {
-        "text": "Control variables labelled but not quantified",
+        "text": "Do the test nicely.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Risk control says only ‘be careful’”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Use 50 mL of water at 25 degrees C in each cup.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-011",
+    "id": "ac9s6i02-t-009",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A team conducts an independent evidence review. A review recommends, “State actual values or procedures.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A team conducts an independent evidence review. A review recommends, “State actual values or procedures.” Which original claim most clearly needs that revision?",
+    "skill": "repeatable investigations",
+    "question": "A follow-up test asks: Which equipment choice best matches measuring small temperature changes?",
+    "audio_prompt": "A follow-up test asks: Which equipment choice best matches measuring small temperature changes?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Repeatable means identical results",
+        "text": "A ruler.",
         "is_correct": false
       },
       {
-        "text": "Risk control says only ‘be careful’",
+        "text": "A stopwatch only.",
         "is_correct": false
       },
       {
-        "text": "Control variables labelled but not quantified",
+        "text": "A thermometer or digital probe with a suitable scale.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Control variables labelled but not quantified”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "A thermometer or digital probe with a suitable scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-012",
+    "id": "ac9s6i02-t-010",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A student applies the science to an unfamiliar situation. A review recommends, “It refers to method clarity and consistency.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A review recommends, “It refers to method clarity and consistency.” Which original claim most clearly needs that revision?",
+    "skill": "repeatable investigations",
+    "question": "A follow-up test asks: A group changes soil type and water amount together. What is wrong?",
+    "audio_prompt": "A follow-up test asks: A group changes soil type and water amount together. What is wrong?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Repeatable means identical results",
+        "text": "Two variables changed, so the cause of any growth difference is unclear.",
         "is_correct": true
       },
       {
-        "text": "Control variables labelled but not quantified",
+        "text": "The investigation has too many repeats.",
         "is_correct": false
       },
       {
-        "text": "Risk control says only ‘be careful’",
+        "text": "The measured variable is too precise.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Repeatable means identical results”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Two variables changed, so the cause of any growth difference is unclear.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-013",
+    "id": "ac9s6i02-t-011",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A new investigation report must be checked. A student labels an observation “pilot test”. Which description shows that term being used correctly?",
-    "audio_prompt": "A new investigation report must be checked. A student labels an observation “pilot test”. Which description shows that term being used correctly?",
+    "skill": "repeatable investigations",
+    "question": "A follow-up test asks: Which permission issue matters before a field investigation on Country/Place?",
+    "audio_prompt": "A follow-up test asks: Which permission issue matters before a field investigation on Country/Place?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "method described clearly enough for another group to follow",
+        "text": "Whether the graph has a title.",
         "is_correct": false
       },
       {
-        "text": "small preliminary test used to improve method",
+        "text": "Whether students have approval to enter and collect observations respectfully.",
         "is_correct": true
       },
       {
-        "text": "relevant condition kept consistent",
+        "text": "Whether the pencil is sharp.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "pilot test describes small preliminary test used to improve method.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Whether students have approval to enter and collect observations respectfully.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-014",
+    "id": "ac9s6i02-t-012",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A different class analyses its results. A student labels an observation “controlled variable”. Which description shows that term being used correctly?",
-    "audio_prompt": "A different class analyses its results. A student labels an observation “controlled variable”. Which description shows that term being used correctly?",
+    "skill": "repeatable investigations",
+    "question": "A follow-up test asks: Why repeat each setup three times?",
+    "audio_prompt": "A follow-up test asks: Why repeat each setup three times?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "method described clearly enough for another group to follow",
+        "text": "Repeats guarantee identical results.",
         "is_correct": false
       },
       {
-        "text": "small preliminary test used to improve method",
+        "text": "Repeats let you ignore measurements.",
         "is_correct": false
       },
       {
-        "text": "relevant condition kept consistent",
+        "text": "Repeats show whether results are consistent.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "controlled variable describes relevant condition kept consistent.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Repeats show whether results are consistent.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-015",
+    "id": "ac9s6i02-t-013",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A team conducts an independent evidence review. A student labels an observation “repeatable method”. Which description shows that term being used correctly?",
-    "audio_prompt": "A team conducts an independent evidence review. A student labels an observation “repeatable method”. Which description shows that term being used correctly?",
+    "skill": "repeatable investigations",
+    "question": "A follow-up test asks: Which risk control is specific enough?",
+    "audio_prompt": "A follow-up test asks: Which risk control is specific enough?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "method described clearly enough for another group to follow",
+        "text": "Wear eye protection when heating water and keep cups away from table edges.",
         "is_correct": true
       },
       {
-        "text": "relevant condition kept consistent",
+        "text": "Be careful.",
         "is_correct": false
       },
       {
-        "text": "small preliminary test used to improve method",
+        "text": "Try not to make mistakes.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "repeatable method describes method described clearly enough for another group to follow.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Wear eye protection when heating water and keep cups away from table edges.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I02-T-016",
+    "id": "ac9s6i02-t-014",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I02",
     "bank": "test",
-    "skill": "planning_repeatable_investigations",
-    "question": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A student chose “Changing results to match a prediction”. Reconsider this question using scientific evidence: What is a pilot test for?",
-    "audio_prompt": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A student chose “Changing results to match a prediction”. Reconsider this question using scientific evidence: What is a pilot test for?",
+    "skill": "repeatable investigations",
+    "question": "A follow-up test asks: What is a pilot test useful for?",
+    "audio_prompt": "A follow-up test asks: What is a pilot test useful for?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Changing results to match a prediction",
+        "text": "Changing results to match the prediction.",
         "is_correct": false
       },
       {
-        "text": "Finding practical problems before full collection",
+        "text": "Finding problems in the method before the main investigation.",
         "is_correct": true
       },
       {
-        "text": "Avoiding safety planning",
+        "text": "Avoiding safety checks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Finding practical problems before full collection is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "Finding problems in the method before the main investigation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i02-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I02",
+    "bank": "test",
+    "skill": "repeatable investigations",
+    "question": "A follow-up test asks: Why include control variables?",
+    "audio_prompt": "A follow-up test asks: Why include control variables?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They are the results being measured.",
+        "is_correct": false
+      },
+      {
+        "text": "They make repeats unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "They keep other conditions the same so the test is fairer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "They keep other conditions the same so the test is fairer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i02-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I02",
+    "bank": "test",
+    "skill": "repeatable investigations",
+    "question": "A follow-up test asks: What detail makes a method more repeatable?",
+    "audio_prompt": "A follow-up test asks: What detail makes a method more repeatable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use 50 mL of water at 25 degrees C in each cup.",
+        "is_correct": true
+      },
+      {
+        "text": "Use some water.",
+        "is_correct": false
+      },
+      {
+        "text": "Do the test nicely.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use 50 mL of water at 25 degrees C in each cup.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   }
 ]

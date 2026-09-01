@@ -4,697 +4,673 @@ window.skillrPracticeQuestions = [
     "id": "ac9s6h01-p-001",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. In work about Scientific Advances through Collaboration and Technology, a record describes “people combining expertise and work”. Which scientific term should label it?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. In work about Scientific Advances through Collaboration and Technology, a record describes “people combining expertise and work”. Which scientific term should label it?",
+    "question": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
+    "audioPrompt": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "collaboration",
-      "replication",
-      "scientific advance"
+      "Different expertise helps collect, process and interpret better evidence.",
+      "One scientist must do every job alone.",
+      "Collaboration means nobody checks the method."
     ],
     "correct": 0,
-    "explanation": "collaboration means people combining expertise and work.\nHint: Match every important part of the description to the term.",
+    "explanation": "Different expertise helps collect, process and interpret better evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "collaboration means people combining expertise and work.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Different expertise helps collect, process and interpret better evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-002",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A student checks a science notebook. In work about Scientific Advances through Collaboration and Technology, a record describes “independent repetition or testing”. Which scientific term should label it?",
-    "audioPrompt": "A student checks a science notebook. In work about Scientific Advances through Collaboration and Technology, a record describes “independent repetition or testing”. Which scientific term should label it?",
+    "question": "A new sensor gives surprising readings. What should the team do first?",
+    "audioPrompt": "A new sensor gives surprising readings. What should the team do first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "collaboration",
-      "replication",
-      "scientific advance"
+      "Accept the data because new technology is always accurate.",
+      "Test and compare the sensor readings before trusting them.",
+      "Delete older data automatically."
     ],
     "correct": 1,
-    "explanation": "replication means independent repetition or testing.\nHint: Match every important part of the description to the term.",
+    "explanation": "Test and compare the sensor readings before trusting them.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "replication means independent repetition or testing.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Test and compare the sensor readings before trusting them.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-003",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. In work about Scientific Advances through Collaboration and Technology, a record describes “improvement in explanation, method, measurement or application”. Which scientific term should label it?",
-    "audioPrompt": "A group compares its evidence. In work about Scientific Advances through Collaboration and Technology, a record describes “improvement in explanation, method, measurement or application”. Which scientific term should label it?",
+    "question": "How can repeating another group’s investigation help science?",
+    "audioPrompt": "How can repeating another group’s investigation help science?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "collaboration",
-      "replication",
-      "scientific advance"
+      "It proves the first group cheated.",
+      "It makes methods unnecessary.",
+      "It checks whether the finding is reliable."
     ],
     "correct": 2,
-    "explanation": "scientific advance means improvement in explanation, method, measurement or application.\nHint: Match every important part of the description to the term.",
+    "explanation": "It checks whether the finding is reliable.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "scientific advance means improvement in explanation, method, measurement or application.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "It checks whether the finding is reliable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-004",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. A student's reasoning is “Advance credited to one visible person only”. Which revision corrects it?",
-    "audioPrompt": "At a science station, the class reviews its work. A student's reasoning is “Advance credited to one visible person only”. Which revision corrects it?",
+    "question": "Why are shared databases useful in large environmental studies?",
+    "audioPrompt": "Why are shared databases useful in large environmental studies?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Identify teams and prior contributions.",
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence."
+      "Many observations can reveal patterns across places and time.",
+      "They remove the need for careful measurements.",
+      "They make all scientists agree immediately."
     ],
     "correct": 0,
-    "explanation": "Identify teams and prior contributions.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "Many observations can reveal patterns across places and time.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Identify teams and prior contributions.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "Many observations can reveal patterns across places and time.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-005",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. A student's reasoning is “New technology assumed automatically accurate”. Which revision corrects it?",
-    "audioPrompt": "A student reviews a model. A student's reasoning is “New technology assumed automatically accurate”. Which revision corrects it?",
+    "question": "A report credits one famous scientist for a discovery made by a team. What is missing?",
+    "audioPrompt": "A report credits one famous scientist for a discovery made by a team. What is missing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Validate and calibrate it.",
-      "Make the claim more certain without collecting more evidence."
+      "A longer title only.",
+      "The contribution of collaborators and earlier work.",
+      "A claim that technology did all the thinking."
     ],
     "correct": 1,
-    "explanation": "Validate and calibrate it.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "The contribution of collaborators and earlier work.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Validate and calibrate it.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "The contribution of collaborators and earlier work.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-006",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Collaboration means agreement without critique”. Which revision corrects it?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Collaboration means agreement without critique”. Which revision corrects it?",
+    "question": "Why can critique improve scientific work?",
+    "audioPrompt": "Why can critique improve scientific work?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence.",
-      "Constructive challenge improves reliability."
+      "It means rejecting every result.",
+      "It replaces evidence with opinions.",
+      "It helps find weaknesses in evidence, methods or explanations."
     ],
     "correct": 2,
-    "explanation": "Constructive challenge improves reliability.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "It helps find weaknesses in evidence, methods or explanations.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Constructive challenge improves reliability.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "It helps find weaknesses in evidence, methods or explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-007",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “More data always better”. Which revision corrects it?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. A student's reasoning is “More data always better”. Which revision corrects it?",
+    "question": "Which example shows science building on earlier work?",
+    "audioPrompt": "Which example shows science building on earlier work?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Data quality and relevance matter.",
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence."
+      "A team improves a water-quality test using a method published last year.",
+      "A student copies results without checking them.",
+      "A group ignores all previous measurements."
     ],
     "correct": 0,
-    "explanation": "Data quality and relevance matter.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "A team improves a water-quality test using a method published last year.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Data quality and relevance matter.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "A team improves a water-quality test using a method published last year.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-008",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A student checks a science notebook. A science organiser labels one part “Technology”. Which entry belongs with that label?",
-    "audioPrompt": "A student checks a science notebook. A science organiser labels one part “Technology”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Technology as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Technology as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-008\"></use></svg>",
+    "question": "Why does collaboration not mean automatic agreement?",
+    "audioPrompt": "Why does collaboration not mean automatic agreement?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-008",
-      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Technology as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "field observers, technicians, analysts",
-      "new sensor or imaging method",
-      "standard formats and open methods"
+      "Everyone must choose the same answer before testing.",
+      "Scientists still compare evidence and challenge explanations.",
+      "The oldest scientist decides the result."
     ],
     "correct": 1,
-    "explanation": "The organiser links Technology with new sensor or imaging method.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Scientists still compare evidence and challenge explanations.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Technology with new sensor or imaging method.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Scientists still compare evidence and challenge explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-009",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. A science organiser labels one part “Team roles”. Which entry belongs with that label?",
-    "audioPrompt": "A group compares its evidence. A science organiser labels one part “Team roles”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Team roles as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Team roles as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-009\"></use></svg>",
+    "question": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring in a new class investigation?",
+    "audioPrompt": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-009",
-      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Team roles as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "new sensor or imaging method",
-      "standard formats and open methods",
-      "field observers, technicians, analysts"
+      "One scientist must do every job alone.",
+      "Collaboration means nobody checks the method.",
+      "Different expertise helps collect, process and interpret better evidence."
     ],
     "correct": 2,
-    "explanation": "The organiser links Team roles with field observers, technicians, analysts.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Different expertise helps collect, process and interpret better evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Team roles with field observers, technicians, analysts.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Different expertise helps collect, process and interpret better evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-010",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. A science organiser labels one part “Shared data”. Which entry belongs with that label?",
-    "audioPrompt": "At a science station, the class reviews its work. A science organiser labels one part “Shared data”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Shared data as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Shared data as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-010\"></use></svg>",
+    "question": "A new sensor gives surprising readings. What should the team do first in a new class investigation?",
+    "audioPrompt": "A new sensor gives surprising readings. What should the team do first in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-010",
-      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Shared data as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "standard formats and open methods",
-      "new sensor or imaging method",
-      "field observers, technicians, analysts"
+      "Test and compare the sensor readings before trusting them.",
+      "Accept the data because new technology is always accurate.",
+      "Delete older data automatically."
     ],
     "correct": 0,
-    "explanation": "The organiser links Shared data with standard formats and open methods.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Test and compare the sensor readings before trusting them.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Shared data with standard formats and open methods.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Test and compare the sensor readings before trusting them.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-011",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. A science organiser labels one part “Critique/replication”. Which entry belongs with that label?",
-    "audioPrompt": "A student reviews a model. A science organiser labels one part “Critique/replication”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Critique/replication as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Critique/replication as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-011\"></use></svg>",
+    "question": "How can repeating another group’s investigation help science in a new class investigation?",
+    "audioPrompt": "How can repeating another group’s investigation help science in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-011",
-      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Critique/replication as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "new sensor or imaging method",
-      "other groups test findings",
-      "field observers, technicians, analysts"
+      "It proves the first group cheated.",
+      "It checks whether the finding is reliable.",
+      "It makes methods unnecessary."
     ],
     "correct": 1,
-    "explanation": "The organiser links Critique/replication with other groups test findings.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "It checks whether the finding is reliable.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Critique/replication with other groups test findings.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "It checks whether the finding is reliable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-012",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “Advance”. Which entry belongs with that label?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “Advance”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Advance as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Advance as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-012\"></use></svg>",
+    "question": "Why are shared databases useful in large environmental studies in a new class investigation?",
+    "audioPrompt": "Why are shared databases useful in large environmental studies in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-012",
-      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting Advance as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "new sensor or imaging method",
-      "field observers, technicians, analysts",
-      "explanation becomes more precise or useful"
+      "They remove the need for careful measurements.",
+      "They make all scientists agree immediately.",
+      "Many observations can reveal patterns across places and time."
     ],
     "correct": 2,
-    "explanation": "The organiser links Advance with explanation becomes more precise or useful.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Many observations can reveal patterns across places and time.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Advance with explanation becomes more precise or useful.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Many observations can reveal patterns across places and time.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-013",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “more sensitive sensor”. Which entry belongs with that label?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “more sensitive sensor”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting more sensitive sensor as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting more sensitive sensor as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-013\"></use></svg>",
+    "question": "A report credits one famous scientist for a discovery made by a team. What is missing in a new class investigation?",
+    "audioPrompt": "A report credits one famous scientist for a discovery made by a team. What is missing in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-013",
-      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting more sensitive sensor as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "detect smaller changes",
-      "analyse larger data sets",
-      "coordinate global observations"
+      "The contribution of collaborators and earlier work.",
+      "A longer title only.",
+      "A claim that technology did all the thinking."
     ],
     "correct": 0,
-    "explanation": "The organiser links more sensitive sensor with detect smaller changes.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "The contribution of collaborators and earlier work.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links more sensitive sensor with detect smaller changes.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "The contribution of collaborators and earlier work.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-014",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A student checks a science notebook. A science organiser labels one part “faster computing”. Which entry belongs with that label?",
-    "audioPrompt": "A student checks a science notebook. A science organiser labels one part “faster computing”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting faster computing as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting faster computing as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-014\"></use></svg>",
+    "question": "Why can critique improve scientific work in a new class investigation?",
+    "audioPrompt": "Why can critique improve scientific work in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-014",
-      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting faster computing as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "detect smaller changes",
-      "analyse larger data sets",
-      "coordinate global observations"
+      "It means rejecting every result.",
+      "It helps find weaknesses in evidence, methods or explanations.",
+      "It replaces evidence with opinions."
     ],
     "correct": 1,
-    "explanation": "The organiser links faster computing with analyse larger data sets.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "It helps find weaknesses in evidence, methods or explanations.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links faster computing with analyse larger data sets.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "It helps find weaknesses in evidence, methods or explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-015",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. A science organiser labels one part “remote communication”. Which entry belongs with that label?",
-    "audioPrompt": "A group compares its evidence. A science organiser labels one part “remote communication”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting remote communication as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting remote communication as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-015\"></use></svg>",
+    "question": "Which example shows science building on earlier work in a new class investigation?",
+    "audioPrompt": "Which example shows science building on earlier work in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-015",
-      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting remote communication as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "detect smaller changes",
-      "analyse larger data sets",
-      "coordinate global observations"
+      "A student copies results without checking them.",
+      "A group ignores all previous measurements.",
+      "A team improves a water-quality test using a method published last year."
     ],
     "correct": 2,
-    "explanation": "The organiser links remote communication with coordinate global observations.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "A team improves a water-quality test using a method published last year.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links remote communication with coordinate global observations.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "A team improves a water-quality test using a method published last year.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-016",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. A science organiser labels one part “standardised database”. Which entry belongs with that label?",
-    "audioPrompt": "At a science station, the class reviews its work. A science organiser labels one part “standardised database”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting standardised database as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting standardised database as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-016\"></use></svg>",
+    "question": "Why does collaboration not mean automatic agreement in a new class investigation?",
+    "audioPrompt": "Why does collaboration not mean automatic agreement in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-016",
-      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting standardised database as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "combine evidence",
-      "detect smaller changes",
-      "analyse larger data sets"
+      "Scientists still compare evidence and challenge explanations.",
+      "Everyone must choose the same answer before testing.",
+      "The oldest scientist decides the result."
     ],
     "correct": 0,
-    "explanation": "The organiser links standardised database with combine evidence.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Scientists still compare evidence and challenge explanations.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links standardised database with combine evidence.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Scientists still compare evidence and challenge explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-017",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. A science organiser labels one part “new model”. Which entry belongs with that label?",
-    "audioPrompt": "A student reviews a model. A science organiser labels one part “new model”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting new model as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting new model as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-017\"></use></svg>",
+    "question": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring after students review their evidence?",
+    "audioPrompt": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring after students review their evidence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h01.svg#ac9s6h01-p-017",
-      "alt_text": "A Year 6 science organiser for Scientific Advances through Collaboration and Technology, highlighting new model as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "detect smaller changes",
-      "generate testable predictions",
-      "analyse larger data sets"
+      "One scientist must do every job alone.",
+      "Different expertise helps collect, process and interpret better evidence.",
+      "Collaboration means nobody checks the method."
     ],
     "correct": 1,
-    "explanation": "The organiser links new model with generate testable predictions.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Different expertise helps collect, process and interpret better evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links new model with generate testable predictions.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Different expertise helps collect, process and interpret better evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-018",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. Why can collaboration improve science?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. Why can collaboration improve science?",
+    "question": "A new sensor gives surprising readings. What should the team do first after students review their evidence?",
+    "audioPrompt": "A new sensor gives surprising readings. What should the team do first after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "It removes the need for methods",
-      "It guarantees no disagreement",
-      "Different expertise and independent checking strengthen evidence"
+      "Accept the data because new technology is always accurate.",
+      "Delete older data automatically.",
+      "Test and compare the sensor readings before trusting them."
     ],
     "correct": 2,
-    "explanation": "Different expertise and independent checking strengthen evidence is supported by the scientific relationship in the question.\nHint: Check which choice is measurable, evidence-based and consistent with the relevant science.",
+    "explanation": "Test and compare the sensor readings before trusting them.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Different expertise and independent checking strengthen evidence is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+      "summary": "Test and compare the sensor readings before trusting them.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-019",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. What should happen when a new sensor is introduced?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. What should happen when a new sensor is introduced?",
+    "question": "How can repeating another group’s investigation help science after students review their evidence?",
+    "audioPrompt": "How can repeating another group’s investigation help science after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "It should be calibrated and validated",
-      "Its readings should be accepted automatically",
-      "Old units should be ignored"
+      "It checks whether the finding is reliable.",
+      "It proves the first group cheated.",
+      "It makes methods unnecessary."
     ],
     "correct": 0,
-    "explanation": "It should be calibrated and validated is supported by the scientific relationship in the question.\nHint: Check which choice is measurable, evidence-based and consistent with the relevant science.",
+    "explanation": "It checks whether the finding is reliable.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "It should be calibrated and validated is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+      "summary": "It checks whether the finding is reliable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-020",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “people combining expertise and work”. Which scientific term should label it?",
-    "audioPrompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “people combining expertise and work”. Which scientific term should label it?",
+    "question": "Why are shared databases useful in large environmental studies after students review their evidence?",
+    "audioPrompt": "Why are shared databases useful in large environmental studies after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "replication",
-      "collaboration",
-      "scientific advance"
+      "They remove the need for careful measurements.",
+      "Many observations can reveal patterns across places and time.",
+      "They make all scientists agree immediately."
     ],
     "correct": 1,
-    "explanation": "collaboration means people combining expertise and work.\nHint: Match every important part of the description to the term.",
+    "explanation": "Many observations can reveal patterns across places and time.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "collaboration means people combining expertise and work.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Many observations can reveal patterns across places and time.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-021",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “independent repetition or testing”. Which scientific term should label it?",
-    "audioPrompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “independent repetition or testing”. Which scientific term should label it?",
+    "question": "A report credits one famous scientist for a discovery made by a team. What is missing after students review their evidence?",
+    "audioPrompt": "A report credits one famous scientist for a discovery made by a team. What is missing after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "collaboration",
-      "scientific advance",
-      "replication"
+      "A longer title only.",
+      "A claim that technology did all the thinking.",
+      "The contribution of collaborators and earlier work."
     ],
     "correct": 2,
-    "explanation": "replication means independent repetition or testing.\nHint: Match every important part of the description to the term.",
+    "explanation": "The contribution of collaborators and earlier work.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "replication means independent repetition or testing.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "The contribution of collaborators and earlier work.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-022",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “improvement in explanation, method, measurement or application”. Which scientific term should label it?",
-    "audioPrompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Scientific Advances through Collaboration and Technology, a record describes “improvement in explanation, method, measurement or application”. Which scientific term should label it?",
+    "question": "Why can critique improve scientific work after students review their evidence?",
+    "audioPrompt": "Why can critique improve scientific work after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "scientific advance",
-      "collaboration",
-      "replication"
+      "It helps find weaknesses in evidence, methods or explanations.",
+      "It means rejecting every result.",
+      "It replaces evidence with opinions."
     ],
     "correct": 0,
-    "explanation": "scientific advance means improvement in explanation, method, measurement or application.\nHint: Match every important part of the description to the term.",
+    "explanation": "It helps find weaknesses in evidence, methods or explanations.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "scientific advance means improvement in explanation, method, measurement or application.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "It helps find weaknesses in evidence, methods or explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-023",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Advance credited to one visible person only”. Which revision corrects it?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Advance credited to one visible person only”. Which revision corrects it?",
+    "question": "Which example shows science building on earlier work after students review their evidence?",
+    "audioPrompt": "Which example shows science building on earlier work after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Identify teams and prior contributions.",
-      "Make the claim more certain without collecting more evidence."
+      "A student copies results without checking them.",
+      "A team improves a water-quality test using a method published last year.",
+      "A group ignores all previous measurements."
     ],
     "correct": 1,
-    "explanation": "Identify teams and prior contributions.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "A team improves a water-quality test using a method published last year.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Identify teams and prior contributions.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "A team improves a water-quality test using a method published last year.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h01-p-024",
     "curriculumCode": "AC9S6H01",
     "bank": "practice",
-    "skill": "scientific advances through collaboration and technology",
+    "skill": "science collaboration",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “New technology assumed automatically accurate”. Which revision corrects it?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “New technology assumed automatically accurate”. Which revision corrects it?",
+    "question": "Why does collaboration not mean automatic agreement after students review their evidence?",
+    "audioPrompt": "Why does collaboration not mean automatic agreement after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence.",
-      "Validate and calibrate it."
+      "Everyone must choose the same answer before testing.",
+      "The oldest scientist decides the result.",
+      "Scientists still compare evidence and challenge explanations."
     ],
     "correct": 2,
-    "explanation": "Validate and calibrate it.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "Scientists still compare evidence and challenge explanations.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Validate and calibrate it.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "Scientists still compare evidence and challenge explanations.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

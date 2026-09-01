@@ -4,697 +4,673 @@ window.skillrPracticeQuestions = [
     "id": "ac9s6i03-p-001",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. In work about Measurement Precision and Repeated Data, a record describes “resolution and repeatability of measurement”. Which scientific term should label it?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. In work about Measurement Precision and Repeated Data, a record describes “resolution and repeatability of measurement”. Which scientific term should label it?",
+    "question": "A ruler is marked in millimetres. Which record is reasonable?",
+    "audioPrompt": "A ruler is marked in millimetres. Which record is reasonable?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "accuracy",
-      "precision",
-      "systematic error"
+      "83 mm.",
+      "83.00000 mm.",
+      "about somewhere near 80ish."
     ],
-    "correct": 1,
-    "explanation": "precision means resolution and repeatability of measurement.\nHint: Match every important part of the description to the term.",
+    "correct": 0,
+    "explanation": "83 mm.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "precision means resolution and repeatability of measurement.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "83 mm.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-002",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A student checks a science notebook. In work about Measurement Precision and Repeated Data, a record describes “closeness to an accepted or true value”. Which scientific term should label it?",
-    "audioPrompt": "A student checks a science notebook. In work about Measurement Precision and Repeated Data, a record describes “closeness to an accepted or true value”. Which scientific term should label it?",
+    "question": "Why take repeated measurements?",
+    "audioPrompt": "Why take repeated measurements?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "precision",
-      "systematic error",
-      "accuracy"
+      "They make the first reading always correct.",
+      "They help reveal random variation and improve confidence in the result.",
+      "They remove the need to record units."
     ],
-    "correct": 2,
-    "explanation": "accuracy means closeness to an accepted or true value.\nHint: Match every important part of the description to the term.",
+    "correct": 1,
+    "explanation": "They help reveal random variation and improve confidence in the result.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "accuracy means closeness to an accepted or true value.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "They help reveal random variation and improve confidence in the result.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-003",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. In work about Measurement Precision and Repeated Data, a record describes “consistent bias in one direction”. Which scientific term should label it?",
-    "audioPrompt": "A group compares its evidence. In work about Measurement Precision and Repeated Data, a record describes “consistent bias in one direction”. Which scientific term should label it?",
+    "question": "All thermometer readings are 2 degrees C too high. What type of problem is likely?",
+    "audioPrompt": "All thermometer readings are 2 degrees C too high. What type of problem is likely?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "systematic error",
-      "precision",
-      "accuracy"
+      "Random variation only.",
+      "A perfect result.",
+      "Systematic error."
     ],
-    "correct": 0,
-    "explanation": "systematic error means consistent bias in one direction.\nHint: Match every important part of the description to the term.",
+    "correct": 2,
+    "explanation": "Systematic error.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "systematic error means consistent bias in one direction.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Systematic error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-004",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. A student's reasoning is “More decimal places means accuracy”. Which revision corrects it?",
-    "audioPrompt": "At a science station, the class reviews its work. A student's reasoning is “More decimal places means accuracy”. Which revision corrects it?",
+    "question": "One timing result is much larger than the others. What should students do?",
+    "audioPrompt": "One timing result is much larger than the others. What should students do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Display resolution may exceed method quality.",
-      "Make the claim more certain without collecting more evidence."
+      "Check for a possible error before deciding whether to exclude it.",
+      "Delete it immediately because it is inconvenient.",
+      "Average it without mentioning it."
     ],
-    "correct": 1,
-    "explanation": "Display resolution may exceed method quality.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "correct": 0,
+    "explanation": "Check for a possible error before deciding whether to exclude it.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Display resolution may exceed method quality.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "Check for a possible error before deciding whether to exclude it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-005",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. A student's reasoning is “One reading accepted”. Which revision corrects it?",
-    "audioPrompt": "A student reviews a model. A student's reasoning is “One reading accepted”. Which revision corrects it?",
+    "question": "What is precision about?",
+    "audioPrompt": "What is precision about?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence.",
-      "Repeat where variation is plausible."
+      "Whether the prediction was liked.",
+      "How finely and consistently a measurement is recorded.",
+      "How colourful the table is."
     ],
-    "correct": 2,
-    "explanation": "Repeat where variation is plausible.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "correct": 1,
+    "explanation": "How finely and consistently a measurement is recorded.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Repeat where variation is plausible.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "How finely and consistently a measurement is recorded.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-006",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Outlier deleted automatically”. Which revision corrects it?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Outlier deleted automatically”. Which revision corrects it?",
+    "question": "Which tool suits measuring the mass of powder?",
+    "audioPrompt": "Which tool suits measuring the mass of powder?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Investigate and document.",
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence."
+      "A stopwatch.",
+      "A metre ruler.",
+      "A digital balance."
     ],
-    "correct": 0,
-    "explanation": "Investigate and document.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "correct": 2,
+    "explanation": "A digital balance.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Investigate and document.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "A digital balance.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-007",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Precision and accuracy treated as synonyms”. Which revision corrects it?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Precision and accuracy treated as synonyms”. Which revision corrects it?",
+    "question": "Why should units be recorded in a data table?",
+    "audioPrompt": "Why should units be recorded in a data table?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "They describe different qualities.",
-      "Make the claim more certain without collecting more evidence."
+      "They show what was measured and allow fair comparison.",
+      "They decorate the heading.",
+      "They make all values larger."
     ],
-    "correct": 1,
-    "explanation": "They describe different qualities.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "correct": 0,
+    "explanation": "They show what was measured and allow fair comparison.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "They describe different qualities.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "They show what was measured and allow fair comparison.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-008",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A student checks a science notebook. A science organiser labels one part “temperature”. Which entry belongs with that label?",
-    "audioPrompt": "A student checks a science notebook. A science organiser labels one part “temperature”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting temperature as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting temperature as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-008\"></use></svg>",
+    "question": "Which set of readings suggests random variation?",
+    "audioPrompt": "Which set of readings suggests random variation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-008",
-      "alt_text": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting temperature as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "10 mL graduated cylinder; about 46 mL",
-      "mm ruler; 83 mm",
-      "0.1°C probe; 24.6°C"
+      "All readings exactly 2 units above a known value.",
+      "12.4, 12.6, 12.5 and 12.7 seconds.",
+      "A title and no numbers."
     ],
-    "correct": 2,
-    "explanation": "The organiser links temperature with 0.1°C probe; 24.6°C.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "correct": 1,
+    "explanation": "12.4, 12.6, 12.5 and 12.7 seconds.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links temperature with 0.1°C probe; 24.6°C.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "12.4, 12.6, 12.5 and 12.7 seconds.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-009",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. A science organiser labels one part “volume”. Which entry belongs with that label?",
-    "audioPrompt": "A group compares its evidence. A science organiser labels one part “volume”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting volume as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting volume as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-009\"></use></svg>",
+    "question": "A ruler is marked in millimetres. Which record is reasonable in a new class investigation?",
+    "audioPrompt": "A ruler is marked in millimetres. Which record is reasonable in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-009",
-      "alt_text": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting volume as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "10 mL graduated cylinder; about 46 mL",
-      "0.1°C probe; 24.6°C",
-      "mm ruler; 83 mm"
+      "83.00000 mm.",
+      "about somewhere near 80ish.",
+      "83 mm."
     ],
-    "correct": 0,
-    "explanation": "The organiser links volume with 10 mL graduated cylinder; about 46 mL.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "correct": 2,
+    "explanation": "83 mm.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links volume with 10 mL graduated cylinder; about 46 mL.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "83 mm.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-010",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. A science organiser labels one part “length”. Which entry belongs with that label?",
-    "audioPrompt": "At a science station, the class reviews its work. A science organiser labels one part “length”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting length as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting length as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-010\"></use></svg>",
+    "question": "Why take repeated measurements in a new class investigation?",
+    "audioPrompt": "Why take repeated measurements in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-010",
-      "alt_text": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting length as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "0.1°C probe; 24.6°C",
-      "mm ruler; 83 mm",
-      "10 mL graduated cylinder; about 46 mL"
+      "They help reveal random variation and improve confidence in the result.",
+      "They make the first reading always correct.",
+      "They remove the need to record units."
     ],
-    "correct": 1,
-    "explanation": "The organiser links length with mm ruler; 83 mm.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "correct": 0,
+    "explanation": "They help reveal random variation and improve confidence in the result.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links length with mm ruler; 83 mm.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "They help reveal random variation and improve confidence in the result.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-011",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. A science organiser labels one part “time”. Which entry belongs with that label?",
-    "audioPrompt": "A student reviews a model. A science organiser labels one part “time”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting time as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting time as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-011\"></use></svg>",
+    "question": "All thermometer readings are 2 degrees C too high. What type of problem is likely in a new class investigation?",
+    "audioPrompt": "All thermometer readings are 2 degrees C too high. What type of problem is likely in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-011",
-      "alt_text": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting time as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "0.1°C probe; 24.6°C",
-      "10 mL graduated cylinder; about 46 mL",
-      "0.01 s timer but human start; precision limited by reaction time"
+      "Random variation only.",
+      "Systematic error.",
+      "A perfect result."
     ],
-    "correct": 2,
-    "explanation": "The organiser links time with 0.01 s timer but human start; precision limited by reaction time.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "correct": 1,
+    "explanation": "Systematic error.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links time with 0.01 s timer but human start; precision limited by reaction time.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Systematic error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-012",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “light”. Which entry belongs with that label?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “light”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting light as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting light as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-012\"></use></svg>",
+    "question": "One timing result is much larger than the others. What should students do in a new class investigation?",
+    "audioPrompt": "One timing result is much larger than the others. What should students do in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-012",
-      "alt_text": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting light as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "sensor; unit and calibration required",
-      "0.1°C probe; 24.6°C",
-      "10 mL graduated cylinder; about 46 mL"
+      "Delete it immediately because it is inconvenient.",
+      "Average it without mentioning it.",
+      "Check for a possible error before deciding whether to exclude it."
     ],
-    "correct": 0,
-    "explanation": "The organiser links light with sensor; unit and calibration required.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "correct": 2,
+    "explanation": "Check for a possible error before deciding whether to exclude it.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links light with sensor; unit and calibration required.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Check for a possible error before deciding whether to exclude it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-013",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “12.4, 12.5, 18.9”. Which entry belongs with that label?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “12.4, 12.5, 18.9”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting 12.4, 12.5, 18.9 as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting 12.4, 12.5, 18.9 as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-013\"></use></svg>",
+    "question": "What is precision about in a new class investigation?",
+    "audioPrompt": "What is precision about in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-013",
-      "alt_text": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting 12.4, 12.5, 18.9 as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "possible systematic calibration error",
-      "investigate possible outlier",
-      "random reaction-time variation"
+      "How finely and consistently a measurement is recorded.",
+      "Whether the prediction was liked.",
+      "How colourful the table is."
     ],
-    "correct": 1,
-    "explanation": "The organiser links 12.4, 12.5, 18.9 with investigate possible outlier.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "correct": 0,
+    "explanation": "How finely and consistently a measurement is recorded.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links 12.4, 12.5, 18.9 with investigate possible outlier.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "How finely and consistently a measurement is recorded.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-014",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A student checks a science notebook. A science organiser labels one part “all 2°C too high”. Which entry belongs with that label?",
-    "audioPrompt": "A student checks a science notebook. A science organiser labels one part “all 2°C too high”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting all 2°C too high as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting all 2°C too high as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-014\"></use></svg>",
+    "question": "Which tool suits measuring the mass of powder in a new class investigation?",
+    "audioPrompt": "Which tool suits measuring the mass of powder in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-014",
-      "alt_text": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting all 2°C too high as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "investigate possible outlier",
-      "random reaction-time variation",
-      "possible systematic calibration error"
+      "A stopwatch.",
+      "A digital balance.",
+      "A metre ruler."
     ],
-    "correct": 2,
-    "explanation": "The organiser links all 2°C too high with possible systematic calibration error.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "correct": 1,
+    "explanation": "A digital balance.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links all 2°C too high with possible systematic calibration error.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "A digital balance.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-015",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. A science organiser labels one part “manual timing spread”. Which entry belongs with that label?",
-    "audioPrompt": "A group compares its evidence. A science organiser labels one part “manual timing spread”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting manual timing spread as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting manual timing spread as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-015\"></use></svg>",
+    "question": "Why should units be recorded in a data table in a new class investigation?",
+    "audioPrompt": "Why should units be recorded in a data table in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-015",
-      "alt_text": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting manual timing spread as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "random reaction-time variation",
-      "investigate possible outlier",
-      "possible systematic calibration error"
+      "They decorate the heading.",
+      "They make all values larger.",
+      "They show what was measured and allow fair comparison."
     ],
-    "correct": 0,
-    "explanation": "The organiser links manual timing spread with random reaction-time variation.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "correct": 2,
+    "explanation": "They show what was measured and allow fair comparison.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links manual timing spread with random reaction-time variation.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "They show what was measured and allow fair comparison.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-016",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. A science organiser labels one part “mean/range”. Which entry belongs with that label?",
-    "audioPrompt": "At a science station, the class reviews its work. A science organiser labels one part “mean/range”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting mean/range as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting mean/range as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-016\"></use></svg>",
+    "question": "Which set of readings suggests random variation in a new class investigation?",
+    "audioPrompt": "Which set of readings suggests random variation in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i03.svg#ac9s6i03-p-016",
-      "alt_text": "A Year 6 science organiser for Measurement Precision and Repeated Data, highlighting mean/range as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "investigate possible outlier",
-      "summarise while retaining raw data",
-      "possible systematic calibration error"
+      "12.4, 12.6, 12.5 and 12.7 seconds.",
+      "All readings exactly 2 units above a known value.",
+      "A title and no numbers."
     ],
-    "correct": 1,
-    "explanation": "The organiser links mean/range with summarise while retaining raw data.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "correct": 0,
+    "explanation": "12.4, 12.6, 12.5 and 12.7 seconds.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links mean/range with summarise while retaining raw data.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "12.4, 12.6, 12.5 and 12.7 seconds.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-017",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. Which recording suits a ruler marked in millimetres?",
-    "audioPrompt": "A student reviews a model. Which recording suits a ruler marked in millimetres?",
+    "question": "A ruler is marked in millimetres. Which record is reasonable after students review their evidence?",
+    "audioPrompt": "A ruler is marked in millimetres. Which record is reasonable after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "83.00000 mm",
-      "about 8 m",
-      "83 mm"
+      "83.00000 mm.",
+      "83 mm.",
+      "about somewhere near 80ish."
     ],
-    "correct": 2,
-    "explanation": "83 mm is supported by the scientific relationship in the question.\nHint: Check which choice is measurable, evidence-based and consistent with the relevant science.",
+    "correct": 1,
+    "explanation": "83 mm.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "83 mm is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+      "summary": "83 mm.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-018",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. Which pattern suggests systematic error?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. Which pattern suggests systematic error?",
+    "question": "Why take repeated measurements after students review their evidence?",
+    "audioPrompt": "Why take repeated measurements after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Every reading is about 2°C too high",
-      "Readings vary randomly around a value",
-      "One timer reaction is late"
+      "They make the first reading always correct.",
+      "They remove the need to record units.",
+      "They help reveal random variation and improve confidence in the result."
     ],
-    "correct": 0,
-    "explanation": "Every reading is about 2°C too high is supported by the scientific relationship in the question.\nHint: Check which choice is measurable, evidence-based and consistent with the relevant science.",
+    "correct": 2,
+    "explanation": "They help reveal random variation and improve confidence in the result.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Every reading is about 2°C too high is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+      "summary": "They help reveal random variation and improve confidence in the result.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-019",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. In work about Measurement Precision and Repeated Data, a record describes “resolution and repeatability of measurement”. Which scientific term should label it?",
-    "audioPrompt": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. In work about Measurement Precision and Repeated Data, a record describes “resolution and repeatability of measurement”. Which scientific term should label it?",
+    "question": "All thermometer readings are 2 degrees C too high. What type of problem is likely after students review their evidence?",
+    "audioPrompt": "All thermometer readings are 2 degrees C too high. What type of problem is likely after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "accuracy",
-      "precision",
-      "systematic error"
+      "Systematic error.",
+      "Random variation only.",
+      "A perfect result."
     ],
-    "correct": 1,
-    "explanation": "precision means resolution and repeatability of measurement.\nHint: Match every important part of the description to the term.",
+    "correct": 0,
+    "explanation": "Systematic error.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "precision means resolution and repeatability of measurement.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Systematic error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-020",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Measurement Precision and Repeated Data, a record describes “closeness to an accepted or true value”. Which scientific term should label it?",
-    "audioPrompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Measurement Precision and Repeated Data, a record describes “closeness to an accepted or true value”. Which scientific term should label it?",
+    "question": "One timing result is much larger than the others. What should students do after students review their evidence?",
+    "audioPrompt": "One timing result is much larger than the others. What should students do after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "precision",
-      "systematic error",
-      "accuracy"
+      "Delete it immediately because it is inconvenient.",
+      "Check for a possible error before deciding whether to exclude it.",
+      "Average it without mentioning it."
     ],
-    "correct": 2,
-    "explanation": "accuracy means closeness to an accepted or true value.\nHint: Match every important part of the description to the term.",
+    "correct": 1,
+    "explanation": "Check for a possible error before deciding whether to exclude it.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "accuracy means closeness to an accepted or true value.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Check for a possible error before deciding whether to exclude it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-021",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Measurement Precision and Repeated Data, a record describes “consistent bias in one direction”. Which scientific term should label it?",
-    "audioPrompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Measurement Precision and Repeated Data, a record describes “consistent bias in one direction”. Which scientific term should label it?",
+    "question": "What is precision about after students review their evidence?",
+    "audioPrompt": "What is precision about after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "systematic error",
-      "precision",
-      "accuracy"
+      "Whether the prediction was liked.",
+      "How colourful the table is.",
+      "How finely and consistently a measurement is recorded."
     ],
-    "correct": 0,
-    "explanation": "systematic error means consistent bias in one direction.\nHint: Match every important part of the description to the term.",
+    "correct": 2,
+    "explanation": "How finely and consistently a measurement is recorded.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "systematic error means consistent bias in one direction.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "How finely and consistently a measurement is recorded.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-022",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “More decimal places means accuracy”. Which revision corrects it?",
-    "audioPrompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “More decimal places means accuracy”. Which revision corrects it?",
+    "question": "Which tool suits measuring the mass of powder after students review their evidence?",
+    "audioPrompt": "Which tool suits measuring the mass of powder after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Display resolution may exceed method quality.",
-      "Make the claim more certain without collecting more evidence."
+      "A digital balance.",
+      "A stopwatch.",
+      "A metre ruler."
     ],
-    "correct": 1,
-    "explanation": "Display resolution may exceed method quality.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "correct": 0,
+    "explanation": "A digital balance.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Display resolution may exceed method quality.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "A digital balance.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-023",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “One reading accepted”. Which revision corrects it?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “One reading accepted”. Which revision corrects it?",
+    "question": "Why should units be recorded in a data table after students review their evidence?",
+    "audioPrompt": "Why should units be recorded in a data table after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence.",
-      "Repeat where variation is plausible."
+      "They decorate the heading.",
+      "They show what was measured and allow fair comparison.",
+      "They make all values larger."
     ],
-    "correct": 2,
-    "explanation": "Repeat where variation is plausible.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "correct": 1,
+    "explanation": "They show what was measured and allow fair comparison.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Repeat where variation is plausible.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "They show what was measured and allow fair comparison.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i03-p-024",
     "curriculumCode": "AC9S6I03",
     "bank": "practice",
-    "skill": "measurement precision and repeated data",
+    "skill": "measurement precision",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Outlier deleted automatically”. Which revision corrects it?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Outlier deleted automatically”. Which revision corrects it?",
+    "question": "Which set of readings suggests random variation after students review their evidence?",
+    "audioPrompt": "Which set of readings suggests random variation after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Investigate and document.",
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence."
+      "All readings exactly 2 units above a known value.",
+      "A title and no numbers.",
+      "12.4, 12.6, 12.5 and 12.7 seconds."
     ],
-    "correct": 0,
-    "explanation": "Investigate and document.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "correct": 2,
+    "explanation": "12.4, 12.6, 12.5 and 12.7 seconds.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Investigate and document.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "12.4, 12.6, 12.5 and 12.7 seconds.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

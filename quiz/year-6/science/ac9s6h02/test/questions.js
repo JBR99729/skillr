@@ -4,465 +4,449 @@ window.skillrTestQuestions = [
     "id": "ac9s6h02-t-001",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A student chose “To avoid defining success”. Reconsider this question using scientific evidence: Why monitor an implemented decision?",
-    "audioPrompt": "A new investigation report must be checked. A student chose “To avoid defining success”. Reconsider this question using scientific evidence: Why monitor an implemented decision?",
+    "question": "A different class checks the same science idea: Which conclusion uses science appropriately?",
+    "audioPrompt": "A different class checks the same science idea: Which conclusion uses science appropriately?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "To avoid defining success",
-      "To remove the original evidence",
-      "To check outcomes and detect unintended effects"
+      "The evidence supports trialling shade cloth, but growth should be monitored.",
+      "Science proves shade cloth is morally perfect.",
+      "No evidence is needed because shade sounds helpful."
     ],
-    "correct": 2,
-    "explanation": "To check outcomes and detect unintended effects is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "correct": 0,
+    "explanation": "The evidence supports trialling shade cloth, but growth should be monitored.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "To check outcomes and detect unintended effects is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-002",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A student chose “A guarantee of one morally correct choice”. Reconsider this question using scientific evidence: What can science contribute to a community decision?",
-    "audioPrompt": "A different class analyses its results. A student chose “A guarantee of one morally correct choice”. Reconsider this question using scientific evidence: What can science contribute to a community decision?",
+    "question": "A different class checks the same science idea: Why might a decision need review points?",
+    "audioPrompt": "A different class checks the same science idea: Why might a decision need review points?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Evidence about likely effects and uncertainty",
-      "A guarantee of one morally correct choice",
-      "Only personal preference"
+      "Review points prevent any action.",
+      "Real results can show whether the response is working.",
+      "A first plan is always perfect."
     ],
-    "correct": 0,
-    "explanation": "Evidence about likely effects and uncertainty is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "correct": 1,
+    "explanation": "Real results can show whether the response is working.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Evidence about likely effects and uncertainty is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "Real results can show whether the response is working.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-003",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “combined action with review points”. Which heading best identifies its role?",
-    "audioPrompt": "A team conducts an independent evidence review. A science organiser contains the entry “combined action with review points”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting recommendation as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting recommendation as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-003\"></use></svg>",
+    "question": "A different class checks the same science idea: A popular option has weak evidence. What should decision-makers do?",
+    "audioPrompt": "A different class checks the same science idea: A popular option has weak evidence. What should decision-makers do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-003",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting recommendation as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "problem",
-      "recommendation",
-      "science evidence"
+      "Choose it because popularity proves it is best.",
+      "Reject all community views.",
+      "Compare it with evidence, risks, costs and likely impacts."
     ],
-    "correct": 1,
-    "explanation": "combined action with review points belongs under recommendation.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 2,
+    "explanation": "Compare it with evidence, risks, costs and likely impacts.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "combined action with review points belongs under recommendation.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Compare it with evidence, risks, costs and likely impacts.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-004",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “seasonal variation and incomplete monitoring”. Which heading best identifies its role?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “seasonal variation and incomplete monitoring”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting uncertainty as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting uncertainty as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-004\"></use></svg>",
+    "question": "A different class checks the same science idea: Which factor is a scientific part of a food-storage decision?",
+    "audioPrompt": "A different class checks the same science idea: Which factor is a scientific part of a food-storage decision?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-004",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting uncertainty as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "problem",
-      "science evidence",
-      "uncertainty"
+      "How temperature affects bacterial growth.",
+      "Which packaging colour is most popular.",
+      "Which slogan sounds best."
     ],
-    "correct": 2,
-    "explanation": "seasonal variation and incomplete monitoring belongs under uncertainty.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 0,
+    "explanation": "How temperature affects bacterial growth.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "seasonal variation and incomplete monitoring belongs under uncertainty.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "How temperature affects bacterial growth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-005",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “effectiveness, cost, equity, time, habitat impact”. Which heading best identifies its role?",
-    "audioPrompt": "A new investigation report must be checked. A science organiser contains the entry “effectiveness, cost, equity, time, habitat impact”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting criteria as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting criteria as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-005\"></use></svg>",
+    "question": "A different class checks the same science idea: Why is uncertainty not a reason to ignore evidence?",
+    "audioPrompt": "A different class checks the same science idea: Why is uncertainty not a reason to ignore evidence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-005",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting criteria as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "criteria",
-      "problem",
-      "science evidence"
+      "Uncertainty means all options are equally scientific.",
+      "Evidence can still guide a cautious decision while limits are named.",
+      "Uncertainty proves the problem is imaginary."
     ],
-    "correct": 0,
-    "explanation": "effectiveness, cost, equity, time, habitat impact belongs under criteria.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 1,
+    "explanation": "Evidence can still guide a cautious decision while limits are named.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "effectiveness, cost, equity, time, habitat impact belongs under criteria.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Evidence can still guide a cautious decision while limits are named.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-006",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A science organiser contains the entry “wetland, source reduction, treatment”. Which heading best identifies its role?",
-    "audioPrompt": "A different class analyses its results. A science organiser contains the entry “wetland, source reduction, treatment”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting options as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting options as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-006\"></use></svg>",
+    "question": "A different class checks the same science idea: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
+    "audioPrompt": "A different class checks the same science idea: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-006",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting options as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "problem",
-      "options",
-      "science evidence"
+      "Whether the rule has a nicer name.",
+      "Whether no one ever asks questions again.",
+      "Whether noise levels and nesting impacts improve."
     ],
-    "correct": 1,
-    "explanation": "wetland, source reduction, treatment belongs under options.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 2,
+    "explanation": "Whether noise levels and nesting impacts improve.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "wetland, source reduction, treatment belongs under options.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Whether noise levels and nesting impacts improve.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-007",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “nutrient levels, species surveys, flow data”. Which heading best identifies its role?",
-    "audioPrompt": "A team conducts an independent evidence review. A science organiser contains the entry “nutrient levels, species surveys, flow data”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting science evidence as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting science evidence as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-007\"></use></svg>",
+    "question": "A different class checks the same science idea: Why should a community decision include stakeholders?",
+    "audioPrompt": "A different class checks the same science idea: Why should a community decision include stakeholders?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-007",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting science evidence as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "problem",
-      "options",
-      "science evidence"
+      "Different people or environments may be affected by the decision.",
+      "Only scientists are affected by local decisions.",
+      "Stakeholders make evidence unnecessary."
     ],
-    "correct": 2,
-    "explanation": "nutrient levels, species surveys, flow data belongs under science evidence.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 0,
+    "explanation": "Different people or environments may be affected by the decision.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "nutrient levels, species surveys, flow data belongs under science evidence.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Different people or environments may be affected by the decision.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-008",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “declining water quality and biodiversity”. Which heading best identifies its role?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “declining water quality and biodiversity”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting problem as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting problem as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-008\"></use></svg>",
+    "question": "A different class checks the same science idea: A town is deciding how to reduce mould in a community hall. What can science contribute?",
+    "audioPrompt": "A different class checks the same science idea: A town is deciding how to reduce mould in a community hall. What can science contribute?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-008",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting problem as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "problem",
-      "science evidence",
-      "options"
+      "A guarantee that everyone will prefer one option.",
+      "Evidence about moisture, ventilation and materials.",
+      "The cheapest choice without testing."
     ],
-    "correct": 0,
-    "explanation": "declining water quality and biodiversity belongs under problem.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 1,
+    "explanation": "Evidence about moisture, ventilation and materials.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "declining water quality and biodiversity belongs under problem.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Evidence about moisture, ventilation and materials.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-009",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A review recommends, “Include long-term and indirect consequences.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A new investigation report must be checked. A review recommends, “Include long-term and indirect consequences.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: Which conclusion uses science appropriately?",
+    "audioPrompt": "A follow-up test asks: Which conclusion uses science appropriately?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Science supplies one value-free answer",
-      "Only immediate effects considered",
-      "Most popular option assumed scientifically best"
+      "Science proves shade cloth is morally perfect.",
+      "No evidence is needed because shade sounds helpful.",
+      "The evidence supports trialling shade cloth, but growth should be monitored."
     ],
-    "correct": 1,
-    "explanation": "The recommendation corrects the claim “Only immediate effects considered”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 2,
+    "explanation": "The evidence supports trialling shade cloth, but growth should be monitored.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Only immediate effects considered”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-010",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A review recommends, “Decisions can state uncertainty and monitor.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A different class analyses its results. A review recommends, “Decisions can state uncertainty and monitor.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: Why might a decision need review points?",
+    "audioPrompt": "A follow-up test asks: Why might a decision need review points?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Science supplies one value-free answer",
-      "Most popular option assumed scientifically best",
-      "Uncertainty used as reason to ignore all evidence"
+      "Real results can show whether the response is working.",
+      "Review points prevent any action.",
+      "A first plan is always perfect."
     ],
-    "correct": 2,
-    "explanation": "The recommendation corrects the claim “Uncertainty used as reason to ignore all evidence”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 0,
+    "explanation": "Real results can show whether the response is working.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Uncertainty used as reason to ignore all evidence”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Real results can show whether the response is working.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-011",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A review recommends, “Popularity is not evidence of effectiveness.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A team conducts an independent evidence review. A review recommends, “Popularity is not evidence of effectiveness.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: A popular option has weak evidence. What should decision-makers do?",
+    "audioPrompt": "A follow-up test asks: A popular option has weak evidence. What should decision-makers do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Most popular option assumed scientifically best",
-      "Science supplies one value-free answer",
-      "Uncertainty used as reason to ignore all evidence"
+      "Choose it because popularity proves it is best.",
+      "Compare it with evidence, risks, costs and likely impacts.",
+      "Reject all community views."
     ],
-    "correct": 0,
-    "explanation": "The recommendation corrects the claim “Most popular option assumed scientifically best”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 1,
+    "explanation": "Compare it with evidence, risks, costs and likely impacts.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Most popular option assumed scientifically best”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Compare it with evidence, risks, costs and likely impacts.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-012",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A review recommends, “Criteria and values also shape decisions.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A review recommends, “Criteria and values also shape decisions.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: Which factor is a scientific part of a food-storage decision?",
+    "audioPrompt": "A follow-up test asks: Which factor is a scientific part of a food-storage decision?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Most popular option assumed scientifically best",
-      "Science supplies one value-free answer",
-      "Uncertainty used as reason to ignore all evidence"
+      "Which packaging colour is most popular.",
+      "Which slogan sounds best.",
+      "How temperature affects bacterial growth."
     ],
-    "correct": 1,
-    "explanation": "The recommendation corrects the claim “Science supplies one value-free answer”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 2,
+    "explanation": "How temperature affects bacterial growth.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Science supplies one value-free answer”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "How temperature affects bacterial growth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-013",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A student labels an observation “uncertainty”. Which description shows that term being used correctly?",
-    "audioPrompt": "A new investigation report must be checked. A student labels an observation “uncertainty”. Which description shows that term being used correctly?",
+    "question": "A follow-up test asks: Why is uncertainty not a reason to ignore evidence?",
+    "audioPrompt": "A follow-up test asks: Why is uncertainty not a reason to ignore evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "person, group or environment affected by a decision",
-      "combination of likelihood and consequence",
-      "recognised limit in knowledge or prediction"
+      "Evidence can still guide a cautious decision while limits are named.",
+      "Uncertainty means all options are equally scientific.",
+      "Uncertainty proves the problem is imaginary."
     ],
-    "correct": 2,
-    "explanation": "uncertainty describes recognised limit in knowledge or prediction.\nHint: Apply the term to the description that includes all of its important features.",
+    "correct": 0,
+    "explanation": "Evidence can still guide a cautious decision while limits are named.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "uncertainty describes recognised limit in knowledge or prediction.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Evidence can still guide a cautious decision while limits are named.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-014",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A student labels an observation “risk”. Which description shows that term being used correctly?",
-    "audioPrompt": "A different class analyses its results. A student labels an observation “risk”. Which description shows that term being used correctly?",
+    "question": "A follow-up test asks: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
+    "audioPrompt": "A follow-up test asks: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "combination of likelihood and consequence",
-      "person, group or environment affected by a decision",
-      "recognised limit in knowledge or prediction"
+      "Whether the rule has a nicer name.",
+      "Whether noise levels and nesting impacts improve.",
+      "Whether no one ever asks questions again."
     ],
-    "correct": 0,
-    "explanation": "risk describes combination of likelihood and consequence.\nHint: Apply the term to the description that includes all of its important features.",
+    "correct": 1,
+    "explanation": "Whether noise levels and nesting impacts improve.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "risk describes combination of likelihood and consequence.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Whether noise levels and nesting impacts improve.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-015",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A student labels an observation “stakeholder”. Which description shows that term being used correctly?",
-    "audioPrompt": "A team conducts an independent evidence review. A student labels an observation “stakeholder”. Which description shows that term being used correctly?",
+    "question": "A follow-up test asks: Why should a community decision include stakeholders?",
+    "audioPrompt": "A follow-up test asks: Why should a community decision include stakeholders?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "combination of likelihood and consequence",
-      "person, group or environment affected by a decision",
-      "recognised limit in knowledge or prediction"
+      "Only scientists are affected by local decisions.",
+      "Stakeholders make evidence unnecessary.",
+      "Different people or environments may be affected by the decision."
     ],
-    "correct": 1,
-    "explanation": "stakeholder describes person, group or environment affected by a decision.\nHint: Apply the term to the description that includes all of its important features.",
+    "correct": 2,
+    "explanation": "Different people or environments may be affected by the decision.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "stakeholder describes person, group or environment affected by a decision.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Different people or environments may be affected by the decision.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6h02-t-016",
     "curriculumCode": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific knowledge in community decisions",
+    "skill": "science decisions",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A student chose “To avoid defining success”. Reconsider this question using scientific evidence: Why monitor an implemented decision?",
-    "audioPrompt": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A student chose “To avoid defining success”. Reconsider this question using scientific evidence: Why monitor an implemented decision?",
+    "question": "A follow-up test asks: A town is deciding how to reduce mould in a community hall. What can science contribute?",
+    "audioPrompt": "A follow-up test asks: A town is deciding how to reduce mould in a community hall. What can science contribute?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "To avoid defining success",
-      "To remove the original evidence",
-      "To check outcomes and detect unintended effects"
+      "Evidence about moisture, ventilation and materials.",
+      "A guarantee that everyone will prefer one option.",
+      "The cheapest choice without testing."
     ],
-    "correct": 2,
-    "explanation": "To check outcomes and detect unintended effects is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "correct": 0,
+    "explanation": "Evidence about moisture, ventilation and materials.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "To check outcomes and detect unintended effects is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "Evidence about moisture, ventilation and materials.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

@@ -4,465 +4,449 @@ window.skillrTestQuestions = [
     "id": "ac9s6u03-t-001",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A student chose “There is only one path”. Reconsider this question using scientific evidence: What is an advantage of parallel branches?",
-    "audioPrompt": "A new investigation report must be checked. A student chose “There is only one path”. Reconsider this question using scientific evidence: What is an advantage of parallel branches?",
+    "question": "A different class checks the same science idea: A student draws crossing lines and calls it parallel. What should they check?",
+    "audioPrompt": "A different class checks the same science idea: A student draws crossing lines and calls it parallel. What should they check?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "There is only one path",
-      "All current is used up by the first lamp",
-      "One branch may operate if another branch is open"
+      "Whether there are separate complete paths, not just how the drawing looks.",
+      "Whether the lines look neat.",
+      "Whether both lamps are drawn at the top."
     ],
-    "correct": 2,
-    "explanation": "One branch may operate if another branch is open is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "correct": 0,
+    "explanation": "Whether there are separate complete paths, not just how the drawing looks.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "One branch may operate if another branch is open is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "Whether there are separate complete paths, not just how the drawing looks.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-002",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A student chose “The current has been stored in the switch”. Reconsider this question using scientific evidence: Why does a lamp switch off when the switch is open?",
-    "audioPrompt": "A different class analyses its results. A student chose “The current has been stored in the switch”. Reconsider this question using scientific evidence: Why does a lamp switch off when the switch is open?",
+    "question": "A different class checks the same science idea: What is the role of the cell or battery?",
+    "audioPrompt": "A different class checks the same science idea: What is the role of the cell or battery?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The conducting path is incomplete",
-      "The current has been stored in the switch",
-      "The lamp has no energy transformations ever"
+      "It blocks all charge movement.",
+      "It supplies electrical energy to the circuit.",
+      "It changes metal into plastic."
     ],
-    "correct": 0,
-    "explanation": "The conducting path is incomplete is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "correct": 1,
+    "explanation": "It supplies electrical energy to the circuit.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The conducting path is incomplete is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "It supplies electrical energy to the circuit.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-003",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “electrical transfer to kinetic + thermal + sound”. Which heading best identifies its role?",
-    "audioPrompt": "A team conducts an independent evidence review. A science organiser contains the entry “electrical transfer to kinetic + thermal + sound”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting motor as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting motor as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u03.svg#ac9s6u03-t-003\"></use></svg>",
+    "question": "A different class checks the same science idea: Two lamps in series become dimmer than one lamp. What is a likely reason?",
+    "audioPrompt": "A different class checks the same science idea: Two lamps in series become dimmer than one lamp. What is a likely reason?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u03.svg#ac9s6u03-t-003",
-      "alt_text": "A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting motor as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "switch open",
-      "motor",
-      "two lamps in series"
+      "The current disappears after the first lamp.",
+      "Series means each lamp has a separate battery.",
+      "The same energy source is shared through one path."
     ],
-    "correct": 1,
-    "explanation": "electrical transfer to kinetic + thermal + sound belongs under motor.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 2,
+    "explanation": "The same energy source is shared through one path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "electrical transfer to kinetic + thermal + sound belongs under motor.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "The same energy source is shared through one path.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-004",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “greater energy supplied per charge; lamp may brighten”. Which heading best identifies its role?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “greater energy supplied per charge; lamp may brighten”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting more cells in suitable series as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting more cells in suitable series as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u03.svg#ac9s6u03-t-004\"></use></svg>",
+    "question": "A different class checks the same science idea: Why can one lamp stay on in a parallel circuit when another branch opens?",
+    "audioPrompt": "A different class checks the same science idea: Why can one lamp stay on in a parallel circuit when another branch opens?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u03.svg#ac9s6u03-t-004",
-      "alt_text": "A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting more cells in suitable series as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "switch open",
-      "two lamps in series",
-      "more cells in suitable series"
+      "The working branch still has its own complete path.",
+      "Parallel circuits have no wires.",
+      "The open branch gives extra current to the other lamp."
     ],
-    "correct": 2,
-    "explanation": "greater energy supplied per charge; lamp may brighten belongs under more cells in suitable series.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 0,
+    "explanation": "The working branch still has its own complete path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "greater energy supplied per charge; lamp may brighten belongs under more cells in suitable series.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "The working branch still has its own complete path.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-005",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “separate paths; one branch can operate if other opens”. Which heading best identifies its role?",
-    "audioPrompt": "A new investigation report must be checked. A science organiser contains the entry “separate paths; one branch can operate if other opens”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting two branches in parallel as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting two branches in parallel as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u03.svg#ac9s6u03-t-005\"></use></svg>",
+    "question": "A different class checks the same science idea: Which material is most useful for connecting parts of a circuit?",
+    "audioPrompt": "A different class checks the same science idea: Which material is most useful for connecting parts of a circuit?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u03.svg#ac9s6u03-t-005",
-      "alt_text": "A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting two branches in parallel as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "two branches in parallel",
-      "switch open",
-      "two lamps in series"
+      "Rubber band.",
+      "Copper wire.",
+      "Dry wooden stick."
     ],
-    "correct": 0,
-    "explanation": "separate paths; one branch can operate if other opens belongs under two branches in parallel.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 1,
+    "explanation": "Copper wire.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "separate paths; one branch can operate if other opens belongs under two branches in parallel.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Copper wire.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-006",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A science organiser contains the entry “same path; brightness may reduce”. Which heading best identifies its role?",
-    "audioPrompt": "A different class analyses its results. A science organiser contains the entry “same path; brightness may reduce”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting two lamps in series as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting two lamps in series as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u03.svg#ac9s6u03-t-006\"></use></svg>",
+    "question": "A different class checks the same science idea: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
+    "audioPrompt": "A different class checks the same science idea: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u03.svg#ac9s6u03-t-006",
-      "alt_text": "A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting two lamps in series as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "switch open",
-      "two lamps in series",
-      "two branches in parallel"
+      "Light energy changes into sound only.",
+      "Thermal energy changes into stored chemical energy.",
+      "Electrical energy changes into movement and thermal energy."
     ],
-    "correct": 1,
-    "explanation": "same path; brightness may reduce belongs under two lamps in series.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 2,
+    "explanation": "Electrical energy changes into movement and thermal energy.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "same path; brightness may reduce belongs under two lamps in series.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Electrical energy changes into movement and thermal energy.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-007",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “path incomplete; components stop”. Which heading best identifies its role?",
-    "audioPrompt": "A team conducts an independent evidence review. A science organiser contains the entry “path incomplete; components stop”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting switch open as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting switch open as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u03.svg#ac9s6u03-t-007\"></use></svg>",
+    "question": "A different class checks the same science idea: Why does a switch turn a lamp off when opened?",
+    "audioPrompt": "A different class checks the same science idea: Why does a switch turn a lamp off when opened?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u03.svg#ac9s6u03-t-007",
-      "alt_text": "A Year 6 science organiser for Energy Transfer and Transformation in Circuits, highlighting switch open as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "two lamps in series",
-      "two branches in parallel",
-      "switch open"
+      "It breaks the conducting path.",
+      "It uses up all the current.",
+      "It changes the lamp into an insulator."
     ],
-    "correct": 2,
-    "explanation": "path incomplete; components stop belongs under switch open.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 0,
+    "explanation": "It breaks the conducting path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "path incomplete; components stop belongs under switch open.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "It breaks the conducting path.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-008",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A review recommends, “Respect component ratings and classroom limits.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A review recommends, “Respect component ratings and classroom limits.” Which original claim most clearly needs that revision?",
+    "question": "A different class checks the same science idea: A lamp lights only when the wire path is complete. What does this show?",
+    "audioPrompt": "A different class checks the same science idea: A lamp lights only when the wire path is complete. What does this show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "More cells always safe",
-      "Current is used up by the lamp",
-      "Open switch still completes circuit"
+      "Current is stored inside the lamp.",
+      "A closed circuit is needed for electrical energy transfer.",
+      "Plastic wire covering conducts electricity."
     ],
-    "correct": 0,
-    "explanation": "The recommendation corrects the claim “More cells always safe”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 1,
+    "explanation": "A closed circuit is needed for electrical energy transfer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “More cells always safe”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "A closed circuit is needed for electrical energy transfer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-009",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A review recommends, “Trace actual connection points and paths.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A new investigation report must be checked. A review recommends, “Trace actual connection points and paths.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: A student draws crossing lines and calls it parallel. What should they check?",
+    "audioPrompt": "A follow-up test asks: A student draws crossing lines and calls it parallel. What should they check?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Current is used up by the lamp",
-      "Series and parallel judged from page appearance",
-      "Open switch still completes circuit"
+      "Whether the lines look neat.",
+      "Whether both lamps are drawn at the top.",
+      "Whether there are separate complete paths, not just how the drawing looks."
     ],
-    "correct": 1,
-    "explanation": "The recommendation corrects the claim “Series and parallel judged from page appearance”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 2,
+    "explanation": "Whether there are separate complete paths, not just how the drawing looks.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Series and parallel judged from page appearance”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Whether there are separate complete paths, not just how the drawing looks.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-010",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A review recommends, “A gap stops the closed path.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A different class analyses its results. A review recommends, “A gap stops the closed path.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: What is the role of the cell or battery?",
+    "audioPrompt": "A follow-up test asks: What is the role of the cell or battery?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Current is used up by the lamp",
-      "Series and parallel judged from page appearance",
-      "Open switch still completes circuit"
+      "It supplies electrical energy to the circuit.",
+      "It blocks all charge movement.",
+      "It changes metal into plastic."
     ],
-    "correct": 2,
-    "explanation": "The recommendation corrects the claim “Open switch still completes circuit”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 0,
+    "explanation": "It supplies electrical energy to the circuit.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Open switch still completes circuit”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "It supplies electrical energy to the circuit.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-011",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A review recommends, “Current is not a fuel; energy is transferred at components.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A team conducts an independent evidence review. A review recommends, “Current is not a fuel; energy is transferred at components.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: Two lamps in series become dimmer than one lamp. What is a likely reason?",
+    "audioPrompt": "A follow-up test asks: Two lamps in series become dimmer than one lamp. What is a likely reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Current is used up by the lamp",
-      "Open switch still completes circuit",
-      "Series and parallel judged from page appearance"
+      "The current disappears after the first lamp.",
+      "The same energy source is shared through one path.",
+      "Series means each lamp has a separate battery."
     ],
-    "correct": 0,
-    "explanation": "The recommendation corrects the claim “Current is used up by the lamp”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 1,
+    "explanation": "The same energy source is shared through one path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Current is used up by the lamp”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "The same energy source is shared through one path.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-012",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A student labels an observation “transformation”. Which description shows that term being used correctly?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A student labels an observation “transformation”. Which description shows that term being used correctly?",
+    "question": "A follow-up test asks: Why can one lamp stay on in a parallel circuit when another branch opens?",
+    "audioPrompt": "A follow-up test asks: Why can one lamp stay on in a parallel circuit when another branch opens?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "complete conducting path containing components",
-      "change from one energy form to another",
-      "movement of energy between stores or systems"
+      "Parallel circuits have no wires.",
+      "The open branch gives extra current to the other lamp.",
+      "The working branch still has its own complete path."
     ],
-    "correct": 1,
-    "explanation": "transformation describes change from one energy form to another.\nHint: Apply the term to the description that includes all of its important features.",
+    "correct": 2,
+    "explanation": "The working branch still has its own complete path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "transformation describes change from one energy form to another.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "The working branch still has its own complete path.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-013",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A student labels an observation “energy transfer”. Which description shows that term being used correctly?",
-    "audioPrompt": "A new investigation report must be checked. A student labels an observation “energy transfer”. Which description shows that term being used correctly?",
+    "question": "A follow-up test asks: Which material is most useful for connecting parts of a circuit?",
+    "audioPrompt": "A follow-up test asks: Which material is most useful for connecting parts of a circuit?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "complete conducting path containing components",
-      "change from one energy form to another",
-      "movement of energy between stores or systems"
+      "Copper wire.",
+      "Rubber band.",
+      "Dry wooden stick."
     ],
-    "correct": 2,
-    "explanation": "energy transfer describes movement of energy between stores or systems.\nHint: Apply the term to the description that includes all of its important features.",
+    "correct": 0,
+    "explanation": "Copper wire.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "energy transfer describes movement of energy between stores or systems.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Copper wire.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-014",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A student labels an observation “circuit”. Which description shows that term being used correctly?",
-    "audioPrompt": "A different class analyses its results. A student labels an observation “circuit”. Which description shows that term being used correctly?",
+    "question": "A follow-up test asks: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
+    "audioPrompt": "A follow-up test asks: A motor in a circuit spins and warms slightly. Which energy transformation is shown?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "complete conducting path containing components",
-      "movement of energy between stores or systems",
-      "change from one energy form to another"
+      "Light energy changes into sound only.",
+      "Electrical energy changes into movement and thermal energy.",
+      "Thermal energy changes into stored chemical energy."
     ],
-    "correct": 0,
-    "explanation": "circuit describes complete conducting path containing components.\nHint: Apply the term to the description that includes all of its important features.",
+    "correct": 1,
+    "explanation": "Electrical energy changes into movement and thermal energy.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "circuit describes complete conducting path containing components.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Electrical energy changes into movement and thermal energy.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-015",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. The class applies the same scientific idea to a second set of observations. A student chose “There is only one path”. Reconsider this question using scientific evidence: What is an advantage of parallel branches?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. The class applies the same scientific idea to a second set of observations. A student chose “There is only one path”. Reconsider this question using scientific evidence: What is an advantage of parallel branches?",
+    "question": "A follow-up test asks: Why does a switch turn a lamp off when opened?",
+    "audioPrompt": "A follow-up test asks: Why does a switch turn a lamp off when opened?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "There is only one path",
-      "One branch may operate if another branch is open",
-      "All current is used up by the first lamp"
+      "It uses up all the current.",
+      "It changes the lamp into an insulator.",
+      "It breaks the conducting path."
     ],
-    "correct": 1,
-    "explanation": "One branch may operate if another branch is open is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "correct": 2,
+    "explanation": "It breaks the conducting path.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "One branch may operate if another branch is open is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "It breaks the conducting path.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u03-t-016",
     "curriculumCode": "AC9S6U03",
     "bank": "test",
-    "skill": "energy transfer and transformation in circuits",
+    "skill": "circuits energy",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A student chose “The current has been stored in the switch”. Reconsider this question using scientific evidence: Why does a lamp switch off when the switch is open?",
-    "audioPrompt": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A student chose “The current has been stored in the switch”. Reconsider this question using scientific evidence: Why does a lamp switch off when the switch is open?",
+    "question": "A follow-up test asks: A lamp lights only when the wire path is complete. What does this show?",
+    "audioPrompt": "A follow-up test asks: A lamp lights only when the wire path is complete. What does this show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The current has been stored in the switch",
-      "The lamp has no energy transformations ever",
-      "The conducting path is incomplete"
+      "A closed circuit is needed for electrical energy transfer.",
+      "Current is stored inside the lamp.",
+      "Plastic wire covering conducts electricity."
     ],
-    "correct": 2,
-    "explanation": "The conducting path is incomplete is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "correct": 0,
+    "explanation": "A closed circuit is needed for electrical energy transfer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The conducting path is incomplete is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "A closed circuit is needed for electrical energy transfer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

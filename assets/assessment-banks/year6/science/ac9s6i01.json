@@ -1,1418 +1,1322 @@
 [
   {
-    "id": "AC9S6I01-P-001",
+    "id": "ac9s6i01-p-001",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "During a class investigation, students discuss the evidence. In work about Investigable Questions and Reasoned Predictions, a record describes “question answerable through planned evidence”. Which scientific term should label it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. In work about Investigable Questions and Reasoned Predictions, a record describes “question answerable through planned evidence”. Which scientific term should label it?",
+    "skill": "investigable questions",
+    "question": "Which question can be investigated with a fair test?",
+    "audio_prompt": "Which question can be investigated with a fair test?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "variable",
-        "is_correct": false
-      },
-      {
-        "text": "reasoned prediction",
-        "is_correct": false
-      },
-      {
-        "text": "investigable question",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "investigable question means question answerable through planned evidence.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S6I01-P-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student checks a science notebook. In work about Investigable Questions and Reasoned Predictions, a record describes “factor changed, measured or controlled”. Which scientific term should label it?",
-    "audio_prompt": "A student checks a science notebook. In work about Investigable Questions and Reasoned Predictions, a record describes “factor changed, measured or controlled”. Which scientific term should label it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "variable",
+        "text": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
         "is_correct": true
       },
       {
-        "text": "investigable question",
+        "text": "Which drink tastes nicest?",
         "is_correct": false
       },
       {
-        "text": "reasoned prediction",
+        "text": "Why is science interesting?",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "variable means factor changed, measured or controlled.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-003",
+    "id": "ac9s6i01-p-002",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A group compares its evidence. In work about Investigable Questions and Reasoned Predictions, a record describes “expected pattern with scientific justification”. Which scientific term should label it?",
-    "audio_prompt": "A group compares its evidence. In work about Investigable Questions and Reasoned Predictions, a record describes “expected pattern with scientific justification”. Which scientific term should label it?",
+    "skill": "investigable questions",
+    "question": "Which prediction is reasoned?",
+    "audio_prompt": "Which prediction is reasoned?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "investigable question",
+        "text": "The warm seeds will win.",
         "is_correct": false
       },
       {
-        "text": "reasoned prediction",
+        "text": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
         "is_correct": true
       },
       {
-        "text": "variable",
+        "text": "I think the blue pot is best.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "reasoned prediction means expected pattern with scientific justification.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-004",
+    "id": "ac9s6i01-p-003",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "At a science station, the class reviews its work. A student's reasoning is “Question asks for preference”. Which revision corrects it?",
-    "audio_prompt": "At a science station, the class reviews its work. A student's reasoning is “Question asks for preference”. Which revision corrects it?",
+    "skill": "investigable questions",
+    "question": "What is the changed variable in a test of lamp distance and brightness?",
+    "audio_prompt": "What is the changed variable in a test of lamp distance and brightness?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Brightness reading.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Type of graph used later.",
         "is_correct": false
       },
       {
-        "text": "Define a measurable relationship.",
+        "text": "Distance from the lamp.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Define a measurable relationship.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Distance from the lamp.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-005",
+    "id": "ac9s6i01-p-004",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student reviews a model. A student's reasoning is “Prediction lacks direction”. Which revision corrects it?",
-    "audio_prompt": "A student reviews a model. A student's reasoning is “Prediction lacks direction”. Which revision corrects it?",
+    "skill": "investigable questions",
+    "question": "What is the measured variable in that lamp investigation?",
+    "audio_prompt": "What is the measured variable in that lamp investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "State increase, decrease or difference.",
+        "text": "Brightness reading.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Distance from the lamp.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "The student’s favourite colour.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "State increase, decrease or difference.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Brightness reading.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-006",
+    "id": "ac9s6i01-p-005",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Several variables change together”. Which revision corrects it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Several variables change together”. Which revision corrects it?",
+    "skill": "investigable questions",
+    "question": "Why should only one main variable be changed?",
+    "audio_prompt": "Why should only one main variable be changed?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "So the investigation finishes instantly.",
         "is_correct": false
       },
       {
-        "text": "Focus or use a design that can separate them.",
+        "text": "So differences in results can be linked more clearly to that variable.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "So results are guaranteed identical.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Focus or use a design that can separate them.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "So differences in results can be linked more clearly to that variable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-007",
+    "id": "ac9s6i01-p-006",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Conclusion written as prediction”. Which revision corrects it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Conclusion written as prediction”. Which revision corrects it?",
+    "skill": "investigable questions",
+    "question": "Which question is too vague for a repeatable investigation?",
+    "audio_prompt": "Which question is too vague for a repeatable investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "How does compost amount affect seedling height after 14 days?",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "How does water temperature affect dissolving time?",
         "is_correct": false
       },
       {
-        "text": "Keep stages distinct.",
+        "text": "Does compost help plants?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Keep stages distinct.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Does compost help plants?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-008",
+    "id": "ac9s6i01-p-007",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student checks a science notebook. A science organiser labels one part “Changed variable”. Which entry belongs with that label?",
-    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “Changed variable”. Which entry belongs with that label?",
+    "skill": "investigable questions",
+    "question": "A prediction says, “The closer sample will warm more.” What is missing?",
+    "audio_prompt": "A prediction says, “The closer sample will warm more.” What is missing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-008",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Changed variable as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "distance from lamp",
+        "text": "A scientific reason explaining why.",
         "is_correct": true
       },
       {
-        "text": "temperature increase after 10 min",
+        "text": "A drawing of the table border.",
         "is_correct": false
       },
       {
-        "text": "How does distance affect temperature increase?",
+        "text": "A second unrelated prediction.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links Changed variable with distance from lamp.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A scientific reason explaining why.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-009",
+    "id": "ac9s6i01-p-008",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A group compares its evidence. A science organiser labels one part “Measured variable”. Which entry belongs with that label?",
-    "audio_prompt": "A group compares its evidence. A science organiser labels one part “Measured variable”. Which entry belongs with that label?",
+    "skill": "investigable questions",
+    "question": "Which question looks for a pattern?",
+    "audio_prompt": "Which question looks for a pattern?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-009",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Measured variable as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "distance from lamp",
+        "text": "Which snail is cutest?",
         "is_correct": false
       },
       {
-        "text": "temperature increase after 10 min",
+        "text": "How does shell length vary among snails from three shore zones?",
         "is_correct": true
       },
       {
-        "text": "How does distance affect temperature increase?",
+        "text": "Can I collect every shell on the beach?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links Measured variable with temperature increase after 10 min.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "How does shell length vary among snails from three shore zones?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-010",
+    "id": "ac9s6i01-p-009",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "At a science station, the class reviews its work. A science organiser labels one part “Question”. Which entry belongs with that label?",
-    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “Question”. Which entry belongs with that label?",
+    "skill": "investigable questions",
+    "question": "Which question can be investigated with a fair test in a new class investigation?",
+    "audio_prompt": "Which question can be investigated with a fair test in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-010",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Question as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "distance from lamp",
+        "text": "Which drink tastes nicest?",
         "is_correct": false
       },
       {
-        "text": "temperature increase after 10 min",
+        "text": "Why is science interesting?",
         "is_correct": false
       },
       {
-        "text": "How does distance affect temperature increase?",
+        "text": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links Question with How does distance affect temperature increase?.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-011",
+    "id": "ac9s6i01-p-010",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student reviews a model. A science organiser labels one part “Prediction”. Which entry belongs with that label?",
-    "audio_prompt": "A student reviews a model. A science organiser labels one part “Prediction”. Which entry belongs with that label?",
+    "skill": "investigable questions",
+    "question": "Which prediction is reasoned in a new class investigation?",
+    "audio_prompt": "Which prediction is reasoned in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-011",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Prediction as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Closer samples will warm more because light intensity is greater",
+        "text": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
         "is_correct": true
       },
       {
-        "text": "distance from lamp",
+        "text": "The warm seeds will win.",
         "is_correct": false
       },
       {
-        "text": "temperature increase after 10 min",
+        "text": "I think the blue pot is best.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links Prediction with Closer samples will warm more because light intensity is greater.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-012",
+    "id": "ac9s6i01-p-011",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “Which circuit is best?”. Which entry belongs with that label?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “Which circuit is best?”. Which entry belongs with that label?",
+    "skill": "investigable questions",
+    "question": "What is the changed variable in a test of lamp distance and brightness in a new class investigation?",
+    "audio_prompt": "What is the changed variable in a test of lamp distance and brightness in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-012",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Which circuit is best? as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "How does light level affect growth rate?",
+        "text": "Brightness reading.",
         "is_correct": false
       },
       {
-        "text": "How does lamp arrangement affect brightness with the same cells?",
+        "text": "Distance from the lamp.",
         "is_correct": true
       },
       {
-        "text": "How does water temperature affect dissolving time for equal samples?",
+        "text": "Type of graph used later.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links Which circuit is best? with How does lamp arrangement affect brightness with the same cells?.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Distance from the lamp.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-013",
+    "id": "ac9s6i01-p-012",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “Do plants like shade?”. Which entry belongs with that label?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “Do plants like shade?”. Which entry belongs with that label?",
+    "skill": "investigable questions",
+    "question": "What is the measured variable in that lamp investigation in a new class investigation?",
+    "audio_prompt": "What is the measured variable in that lamp investigation in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-013",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Do plants like shade? as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "How does lamp arrangement affect brightness with the same cells?",
+        "text": "Distance from the lamp.",
         "is_correct": false
       },
       {
-        "text": "How does water temperature affect dissolving time for equal samples?",
+        "text": "The student’s favourite colour.",
         "is_correct": false
       },
       {
-        "text": "How does light level affect growth rate?",
+        "text": "Brightness reading.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links Do plants like shade? with How does light level affect growth rate?.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Brightness reading.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-014",
+    "id": "ac9s6i01-p-013",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student checks a science notebook. A science organiser labels one part “Does everything dissolve?”. Which entry belongs with that label?",
-    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “Does everything dissolve?”. Which entry belongs with that label?",
+    "skill": "investigable questions",
+    "question": "Why should only one main variable be changed in a new class investigation?",
+    "audio_prompt": "Why should only one main variable be changed in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-014",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Does everything dissolve? as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "How does water temperature affect dissolving time for equal samples?",
+        "text": "So differences in results can be linked more clearly to that variable.",
         "is_correct": true
       },
       {
-        "text": "How does lamp arrangement affect brightness with the same cells?",
+        "text": "So the investigation finishes instantly.",
         "is_correct": false
       },
       {
-        "text": "How does light level affect growth rate?",
+        "text": "So results are guaranteed identical.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links Does everything dissolve? with How does water temperature affect dissolving time for equal samples?.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "So differences in results can be linked more clearly to that variable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-015",
+    "id": "ac9s6i01-p-014",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A group compares its evidence. Which question is investigable?",
-    "audio_prompt": "A group compares its evidence. Which question is investigable?",
+    "skill": "investigable questions",
+    "question": "Which question is too vague for a repeatable investigation in a new class investigation?",
+    "audio_prompt": "Which question is too vague for a repeatable investigation in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Which lamp looks nicest?",
+        "text": "How does compost amount affect seedling height after 14 days?",
         "is_correct": false
       },
       {
-        "text": "How does lamp distance affect temperature increase after 10 minutes?",
+        "text": "Does compost help plants?",
         "is_correct": true
       },
       {
-        "text": "Why is my favourite distance best?",
+        "text": "How does water temperature affect dissolving time?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How does lamp distance affect temperature increase after 10 minutes? is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Does compost help plants?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-016",
+    "id": "ac9s6i01-p-015",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "At a science station, the class reviews its work. Which prediction is reasoned?",
-    "audio_prompt": "At a science station, the class reviews its work. Which prediction is reasoned?",
+    "skill": "investigable questions",
+    "question": "A prediction says, “The closer sample will warm more.” What is missing in a new class investigation?",
+    "audio_prompt": "A prediction says, “The closer sample will warm more.” What is missing in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Closer will win",
+        "text": "A drawing of the table border.",
         "is_correct": false
       },
       {
-        "text": "I hope it warms",
+        "text": "A second unrelated prediction.",
         "is_correct": false
       },
       {
-        "text": "The closer sample will warm more because it receives more intense light",
+        "text": "A scientific reason explaining why.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The closer sample will warm more because it receives more intense light is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A scientific reason explaining why.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-017",
+    "id": "ac9s6i01-p-016",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “question answerable through planned evidence”. Which scientific term should label it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “question answerable through planned evidence”. Which scientific term should label it?",
+    "skill": "investigable questions",
+    "question": "Which question looks for a pattern in a new class investigation?",
+    "audio_prompt": "Which question looks for a pattern in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "investigable question",
+        "text": "How does shell length vary among snails from three shore zones?",
         "is_correct": true
       },
       {
-        "text": "variable",
+        "text": "Which snail is cutest?",
         "is_correct": false
       },
       {
-        "text": "reasoned prediction",
+        "text": "Can I collect every shell on the beach?",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "investigable question means question answerable through planned evidence.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "How does shell length vary among snails from three shore zones?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-018",
+    "id": "ac9s6i01-p-017",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “factor changed, measured or controlled”. Which scientific term should label it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “factor changed, measured or controlled”. Which scientific term should label it?",
+    "skill": "investigable questions",
+    "question": "Which question can be investigated with a fair test after students review their evidence?",
+    "audio_prompt": "Which question can be investigated with a fair test after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "investigable question",
+        "text": "Which drink tastes nicest?",
         "is_correct": false
       },
       {
-        "text": "variable",
+        "text": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
         "is_correct": true
       },
       {
-        "text": "reasoned prediction",
+        "text": "Why is science interesting?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "variable means factor changed, measured or controlled.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-019",
+    "id": "ac9s6i01-p-018",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “expected pattern with scientific justification”. Which scientific term should label it?",
-    "audio_prompt": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. In work about Investigable Questions and Reasoned Predictions, a record describes “expected pattern with scientific justification”. Which scientific term should label it?",
+    "skill": "investigable questions",
+    "question": "Which prediction is reasoned after students review their evidence?",
+    "audio_prompt": "Which prediction is reasoned after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "investigable question",
+        "text": "The warm seeds will win.",
         "is_correct": false
       },
       {
-        "text": "variable",
+        "text": "I think the blue pot is best.",
         "is_correct": false
       },
       {
-        "text": "reasoned prediction",
+        "text": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "reasoned prediction means expected pattern with scientific justification.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-020",
+    "id": "ac9s6i01-p-019",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Question asks for preference”. Which revision corrects it?",
-    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Question asks for preference”. Which revision corrects it?",
+    "skill": "investigable questions",
+    "question": "What is the changed variable in a test of lamp distance and brightness after students review their evidence?",
+    "audio_prompt": "What is the changed variable in a test of lamp distance and brightness after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Define a measurable relationship.",
+        "text": "Distance from the lamp.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Brightness reading.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Type of graph used later.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Define a measurable relationship.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Distance from the lamp.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-021",
+    "id": "ac9s6i01-p-020",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Prediction lacks direction”. Which revision corrects it?",
-    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Prediction lacks direction”. Which revision corrects it?",
+    "skill": "investigable questions",
+    "question": "What is the measured variable in that lamp investigation after students review their evidence?",
+    "audio_prompt": "What is the measured variable in that lamp investigation after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Distance from the lamp.",
         "is_correct": false
       },
       {
-        "text": "State increase, decrease or difference.",
+        "text": "Brightness reading.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "The student’s favourite colour.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "State increase, decrease or difference.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Brightness reading.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-022",
+    "id": "ac9s6i01-p-021",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Several variables change together”. Which revision corrects it?",
-    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Several variables change together”. Which revision corrects it?",
+    "skill": "investigable questions",
+    "question": "Why should only one main variable be changed after students review their evidence?",
+    "audio_prompt": "Why should only one main variable be changed after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "So the investigation finishes instantly.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "So results are guaranteed identical.",
         "is_correct": false
       },
       {
-        "text": "Focus or use a design that can separate them.",
+        "text": "So differences in results can be linked more clearly to that variable.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Focus or use a design that can separate them.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "So differences in results can be linked more clearly to that variable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-023",
+    "id": "ac9s6i01-p-022",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Conclusion written as prediction”. Which revision corrects it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Conclusion written as prediction”. Which revision corrects it?",
+    "skill": "investigable questions",
+    "question": "Which question is too vague for a repeatable investigation after students review their evidence?",
+    "audio_prompt": "Which question is too vague for a repeatable investigation after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep stages distinct.",
+        "text": "Does compost help plants?",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "How does compost amount affect seedling height after 14 days?",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "How does water temperature affect dissolving time?",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Keep stages distinct.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Does compost help plants?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-P-024",
+    "id": "ac9s6i01-p-023",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "practice",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Changed variable”. Which entry belongs with that label?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Changed variable”. Which entry belongs with that label?",
+    "skill": "investigable questions",
+    "question": "A prediction says, “The closer sample will warm more.” What is missing after students review their evidence?",
+    "audio_prompt": "A prediction says, “The closer sample will warm more.” What is missing after students review their evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-p-024",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Changed variable as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "temperature increase after 10 min",
+        "text": "A drawing of the table border.",
         "is_correct": false
       },
       {
-        "text": "distance from lamp",
+        "text": "A scientific reason explaining why.",
         "is_correct": true
       },
       {
-        "text": "How does distance affect temperature increase?",
+        "text": "A second unrelated prediction.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links Changed variable with distance from lamp.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A scientific reason explaining why.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I01-T-001",
+    "id": "ac9s6i01-p-024",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A new investigation report must be checked. A student chose “Closer will win”. Reconsider this question using scientific evidence: Which prediction is reasoned?",
-    "audio_prompt": "A new investigation report must be checked. A student chose “Closer will win”. Reconsider this question using scientific evidence: Which prediction is reasoned?",
+    "bank": "practice",
+    "skill": "investigable questions",
+    "question": "Which question looks for a pattern after students review their evidence?",
+    "audio_prompt": "Which question looks for a pattern after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The closer sample will warm more because it receives more intense light",
-        "is_correct": true
-      },
-      {
-        "text": "Closer will win",
+        "text": "Which snail is cutest?",
         "is_correct": false
       },
       {
-        "text": "I hope it warms",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The closer sample will warm more because it receives more intense light is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
-    }
-  },
-  {
-    "id": "AC9S6I01-T-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A different class analyses its results. A student chose “Which lamp looks nicest?”. Reconsider this question using scientific evidence: Which question is investigable?",
-    "audio_prompt": "A different class analyses its results. A student chose “Which lamp looks nicest?”. Reconsider this question using scientific evidence: Which question is investigable?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Which lamp looks nicest?",
+        "text": "Can I collect every shell on the beach?",
         "is_correct": false
       },
       {
-        "text": "How does lamp distance affect temperature increase after 10 minutes?",
-        "is_correct": true
-      },
-      {
-        "text": "Why is my favourite distance best?",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "How does lamp distance affect temperature increase after 10 minutes? is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
-    }
-  },
-  {
-    "id": "AC9S6I01-T-003",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “How does water temperature affect dissolving time for equal samples?”. Which heading best identifies its role?",
-    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “How does water temperature affect dissolving time for equal samples?”. Which heading best identifies its role?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-003",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Does everything dissolve? as one part of the evidence."
-    },
-    "answers": [
-      {
-        "text": "Which circuit is best?",
-        "is_correct": false
-      },
-      {
-        "text": "Do plants like shade?",
-        "is_correct": false
-      },
-      {
-        "text": "Does everything dissolve?",
+        "text": "How does shell length vary among snails from three shore zones?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "How does water temperature affect dissolving time for equal samples? belongs under Does everything dissolve?.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "How does shell length vary among snails from three shore zones?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-004",
+    "id": "ac9s6i01-t-001",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “How does light level affect growth rate?”. Which heading best identifies its role?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “How does light level affect growth rate?”. Which heading best identifies its role?",
+    "skill": "investigable questions",
+    "question": "A different class checks the same science idea: Which question looks for a pattern?",
+    "audio_prompt": "A different class checks the same science idea: Which question looks for a pattern?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-004",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Do plants like shade? as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Do plants like shade?",
+        "text": "How does shell length vary among snails from three shore zones?",
         "is_correct": true
       },
       {
-        "text": "Which circuit is best?",
+        "text": "Which snail is cutest?",
         "is_correct": false
       },
       {
-        "text": "Does everything dissolve?",
+        "text": "Can I collect every shell on the beach?",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How does light level affect growth rate? belongs under Do plants like shade?.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "How does shell length vary among snails from three shore zones?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-005",
+    "id": "ac9s6i01-t-002",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “How does lamp arrangement affect brightness with the same cells?”. Which heading best identifies its role?",
-    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “How does lamp arrangement affect brightness with the same cells?”. Which heading best identifies its role?",
+    "skill": "investigable questions",
+    "question": "A different class checks the same science idea: A prediction says, “The closer sample will warm more.” What is missing?",
+    "audio_prompt": "A different class checks the same science idea: A prediction says, “The closer sample will warm more.” What is missing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-005",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Which circuit is best? as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Do plants like shade?",
+        "text": "A drawing of the table border.",
         "is_correct": false
       },
       {
-        "text": "Which circuit is best?",
+        "text": "A scientific reason explaining why.",
         "is_correct": true
       },
       {
-        "text": "Does everything dissolve?",
+        "text": "A second unrelated prediction.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How does lamp arrangement affect brightness with the same cells? belongs under Which circuit is best?.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "A scientific reason explaining why.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-006",
+    "id": "ac9s6i01-t-003",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A different class analyses its results. A science organiser contains the entry “Closer samples will warm more because light intensity is greater”. Which heading best identifies its role?",
-    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “Closer samples will warm more because light intensity is greater”. Which heading best identifies its role?",
+    "skill": "investigable questions",
+    "question": "A different class checks the same science idea: Which question is too vague for a repeatable investigation?",
+    "audio_prompt": "A different class checks the same science idea: Which question is too vague for a repeatable investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-006",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Prediction as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Changed variable",
+        "text": "How does compost amount affect seedling height after 14 days?",
         "is_correct": false
       },
       {
-        "text": "Measured variable",
+        "text": "How does water temperature affect dissolving time?",
         "is_correct": false
       },
       {
-        "text": "Prediction",
+        "text": "Does compost help plants?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Closer samples will warm more because light intensity is greater belongs under Prediction.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Does compost help plants?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-007",
+    "id": "ac9s6i01-t-004",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “How does distance affect temperature increase?”. Which heading best identifies its role?",
-    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “How does distance affect temperature increase?”. Which heading best identifies its role?",
+    "skill": "investigable questions",
+    "question": "A different class checks the same science idea: Why should only one main variable be changed?",
+    "audio_prompt": "A different class checks the same science idea: Why should only one main variable be changed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-007",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Question as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Question",
+        "text": "So differences in results can be linked more clearly to that variable.",
         "is_correct": true
       },
       {
-        "text": "Changed variable",
+        "text": "So the investigation finishes instantly.",
         "is_correct": false
       },
       {
-        "text": "Measured variable",
+        "text": "So results are guaranteed identical.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How does distance affect temperature increase? belongs under Question.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "So differences in results can be linked more clearly to that variable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-008",
+    "id": "ac9s6i01-t-005",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “temperature increase after 10 min”. Which heading best identifies its role?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “temperature increase after 10 min”. Which heading best identifies its role?",
+    "skill": "investigable questions",
+    "question": "A different class checks the same science idea: What is the measured variable in that lamp investigation?",
+    "audio_prompt": "A different class checks the same science idea: What is the measured variable in that lamp investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-008",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Measured variable as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Changed variable",
+        "text": "Distance from the lamp.",
         "is_correct": false
       },
       {
-        "text": "Measured variable",
+        "text": "Brightness reading.",
         "is_correct": true
       },
       {
-        "text": "Question",
+        "text": "The student’s favourite colour.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "temperature increase after 10 min belongs under Measured variable.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Brightness reading.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-009",
+    "id": "ac9s6i01-t-006",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “distance from lamp”. Which heading best identifies its role?",
-    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “distance from lamp”. Which heading best identifies its role?",
+    "skill": "investigable questions",
+    "question": "A different class checks the same science idea: What is the changed variable in a test of lamp distance and brightness?",
+    "audio_prompt": "A different class checks the same science idea: What is the changed variable in a test of lamp distance and brightness?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i01.svg#ac9s6i01-t-009",
-      "alt_text": "A Year 6 science organiser for Investigable Questions and Reasoned Predictions, highlighting Changed variable as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Measured variable",
+        "text": "Brightness reading.",
         "is_correct": false
       },
       {
-        "text": "Question",
+        "text": "Type of graph used later.",
         "is_correct": false
       },
       {
-        "text": "Changed variable",
+        "text": "Distance from the lamp.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "distance from lamp belongs under Changed variable.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Distance from the lamp.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-010",
+    "id": "ac9s6i01-t-007",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A different class analyses its results. A review recommends, “Keep stages distinct.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A different class analyses its results. A review recommends, “Keep stages distinct.” Which original claim most clearly needs that revision?",
+    "skill": "investigable questions",
+    "question": "A different class checks the same science idea: Which prediction is reasoned?",
+    "audio_prompt": "A different class checks the same science idea: Which prediction is reasoned?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Conclusion written as prediction",
+        "text": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
         "is_correct": true
       },
       {
-        "text": "Question asks for preference",
+        "text": "The warm seeds will win.",
         "is_correct": false
       },
       {
-        "text": "Prediction lacks direction",
+        "text": "I think the blue pot is best.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Conclusion written as prediction”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-011",
+    "id": "ac9s6i01-t-008",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A team conducts an independent evidence review. A review recommends, “Focus or use a design that can separate them.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A team conducts an independent evidence review. A review recommends, “Focus or use a design that can separate them.” Which original claim most clearly needs that revision?",
+    "skill": "investigable questions",
+    "question": "A different class checks the same science idea: Which question can be investigated with a fair test?",
+    "audio_prompt": "A different class checks the same science idea: Which question can be investigated with a fair test?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Question asks for preference",
+        "text": "Which drink tastes nicest?",
         "is_correct": false
       },
       {
-        "text": "Several variables change together",
+        "text": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
         "is_correct": true
       },
       {
-        "text": "Prediction lacks direction",
+        "text": "Why is science interesting?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Several variables change together”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-012",
+    "id": "ac9s6i01-t-009",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student applies the science to an unfamiliar situation. A review recommends, “State increase, decrease or difference.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A review recommends, “State increase, decrease or difference.” Which original claim most clearly needs that revision?",
+    "skill": "investigable questions",
+    "question": "A follow-up test asks: Which question looks for a pattern?",
+    "audio_prompt": "A follow-up test asks: Which question looks for a pattern?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Question asks for preference",
+        "text": "Which snail is cutest?",
         "is_correct": false
       },
       {
-        "text": "Several variables change together",
+        "text": "Can I collect every shell on the beach?",
         "is_correct": false
       },
       {
-        "text": "Prediction lacks direction",
+        "text": "How does shell length vary among snails from three shore zones?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Prediction lacks direction”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "How does shell length vary among snails from three shore zones?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-013",
+    "id": "ac9s6i01-t-010",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A new investigation report must be checked. A review recommends, “Define a measurable relationship.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A new investigation report must be checked. A review recommends, “Define a measurable relationship.” Which original claim most clearly needs that revision?",
+    "skill": "investigable questions",
+    "question": "A follow-up test asks: A prediction says, “The closer sample will warm more.” What is missing?",
+    "audio_prompt": "A follow-up test asks: A prediction says, “The closer sample will warm more.” What is missing?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Question asks for preference",
+        "text": "A scientific reason explaining why.",
         "is_correct": true
       },
       {
-        "text": "Prediction lacks direction",
+        "text": "A drawing of the table border.",
         "is_correct": false
       },
       {
-        "text": "Several variables change together",
+        "text": "A second unrelated prediction.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Question asks for preference”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "A scientific reason explaining why.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-014",
+    "id": "ac9s6i01-t-011",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A different class analyses its results. A student labels an observation “reasoned prediction”. Which description shows that term being used correctly?",
-    "audio_prompt": "A different class analyses its results. A student labels an observation “reasoned prediction”. Which description shows that term being used correctly?",
+    "skill": "investigable questions",
+    "question": "A follow-up test asks: Which question is too vague for a repeatable investigation?",
+    "audio_prompt": "A follow-up test asks: Which question is too vague for a repeatable investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "question answerable through planned evidence",
+        "text": "How does compost amount affect seedling height after 14 days?",
         "is_correct": false
       },
       {
-        "text": "expected pattern with scientific justification",
+        "text": "Does compost help plants?",
         "is_correct": true
       },
       {
-        "text": "factor changed, measured or controlled",
+        "text": "How does water temperature affect dissolving time?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "reasoned prediction describes expected pattern with scientific justification.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Does compost help plants?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-015",
+    "id": "ac9s6i01-t-012",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A team conducts an independent evidence review. A student labels an observation “variable”. Which description shows that term being used correctly?",
-    "audio_prompt": "A team conducts an independent evidence review. A student labels an observation “variable”. Which description shows that term being used correctly?",
+    "skill": "investigable questions",
+    "question": "A follow-up test asks: Why should only one main variable be changed?",
+    "audio_prompt": "A follow-up test asks: Why should only one main variable be changed?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "question answerable through planned evidence",
+        "text": "So the investigation finishes instantly.",
         "is_correct": false
       },
       {
-        "text": "expected pattern with scientific justification",
+        "text": "So results are guaranteed identical.",
         "is_correct": false
       },
       {
-        "text": "factor changed, measured or controlled",
+        "text": "So differences in results can be linked more clearly to that variable.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "variable describes factor changed, measured or controlled.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "So differences in results can be linked more clearly to that variable.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I01-T-016",
+    "id": "ac9s6i01-t-013",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable_questions_and_reasoned_predictions",
-    "question": "A student applies the science to an unfamiliar situation. A student labels an observation “investigable question”. Which description shows that term being used correctly?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A student labels an observation “investigable question”. Which description shows that term being used correctly?",
+    "skill": "investigable questions",
+    "question": "A follow-up test asks: What is the measured variable in that lamp investigation?",
+    "audio_prompt": "A follow-up test asks: What is the measured variable in that lamp investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "question answerable through planned evidence",
+        "text": "Brightness reading.",
         "is_correct": true
       },
       {
-        "text": "factor changed, measured or controlled",
+        "text": "Distance from the lamp.",
         "is_correct": false
       },
       {
-        "text": "expected pattern with scientific justification",
+        "text": "The student’s favourite colour.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "investigable question describes question answerable through planned evidence.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Brightness reading.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i01-t-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable questions",
+    "question": "A follow-up test asks: What is the changed variable in a test of lamp distance and brightness?",
+    "audio_prompt": "A follow-up test asks: What is the changed variable in a test of lamp distance and brightness?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Brightness reading.",
+        "is_correct": false
+      },
+      {
+        "text": "Distance from the lamp.",
+        "is_correct": true
+      },
+      {
+        "text": "Type of graph used later.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distance from the lamp.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i01-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable questions",
+    "question": "A follow-up test asks: Which prediction is reasoned?",
+    "audio_prompt": "A follow-up test asks: Which prediction is reasoned?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The warm seeds will win.",
+        "is_correct": false
+      },
+      {
+        "text": "I think the blue pot is best.",
+        "is_correct": false
+      },
+      {
+        "text": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i01-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I01",
+    "bank": "test",
+    "skill": "investigable questions",
+    "question": "A follow-up test asks: Which question can be investigated with a fair test?",
+    "audio_prompt": "A follow-up test asks: Which question can be investigated with a fair test?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
+        "is_correct": true
+      },
+      {
+        "text": "Which drink tastes nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is science interesting?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   }
 ]

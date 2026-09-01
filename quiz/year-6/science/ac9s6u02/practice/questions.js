@@ -4,697 +4,673 @@ window.skillrPracticeQuestions = [
     "id": "ac9s6u02-p-001",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. In work about Earth, Planets and the Solar System, a record describes “spinning about an axis”. Which scientific term should label it?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. In work about Earth, Planets and the Solar System, a record describes “spinning about an axis”. Which scientific term should label it?",
+    "question": "Which motion causes day and night on Earth?",
+    "audioPrompt": "Which motion causes day and night on Earth?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "rotation",
-      "revolution",
-      "orbit"
+      "Earth rotating on its axis.",
+      "Earth orbiting the Sun once a year.",
+      "The Moon blocking sunlight every night."
     ],
     "correct": 0,
-    "explanation": "rotation means spinning about an axis.\nHint: Match every important part of the description to the term.",
+    "explanation": "Earth rotating on its axis.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "rotation means spinning about an axis.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Earth rotating on its axis.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-002",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A student checks a science notebook. In work about Earth, Planets and the Solar System, a record describes “movement around another object”. Which scientific term should label it?",
-    "audioPrompt": "A student checks a science notebook. In work about Earth, Planets and the Solar System, a record describes “movement around another object”. Which scientific term should label it?",
+    "question": "Why do seasons occur on Earth?",
+    "audioPrompt": "Why do seasons occur on Earth?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "rotation",
-      "revolution",
-      "orbit"
+      "Earth is much closer to the Sun in every country’s summer.",
+      "Earth is tilted as it revolves around the Sun.",
+      "The Sun turns off some of its heat in winter."
     ],
     "correct": 1,
-    "explanation": "revolution means movement around another object.\nHint: Match every important part of the description to the term.",
+    "explanation": "Earth is tilted as it revolves around the Sun.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "revolution means movement around another object.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Earth is tilted as it revolves around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-003",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. In work about Earth, Planets and the Solar System, a record describes “repeated curved path under gravitational interaction”. Which scientific term should label it?",
-    "audioPrompt": "A group compares its evidence. In work about Earth, Planets and the Solar System, a record describes “repeated curved path under gravitational interaction”. Which scientific term should label it?",
+    "question": "A model shows Earth, Mars and Jupiter very close together. What should students remember?",
+    "audioPrompt": "A model shows Earth, Mars and Jupiter very close together. What should students remember?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "rotation",
-      "revolution",
-      "orbit"
+      "The planets really touch each other.",
+      "Jupiter is always between Earth and Mars.",
+      "Most classroom diagrams are not drawn to scale."
     ],
     "correct": 2,
-    "explanation": "orbit means repeated curved path under gravitational interaction.\nHint: Match every important part of the description to the term.",
+    "explanation": "Most classroom diagrams are not drawn to scale.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "orbit means repeated curved path under gravitational interaction.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Most classroom diagrams are not drawn to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-004",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. A student's reasoning is “Rotation and revolution treated as synonyms”. Which revision corrects it?",
-    "audioPrompt": "At a science station, the class reviews its work. A student's reasoning is “Rotation and revolution treated as synonyms”. Which revision corrects it?",
+    "question": "What does revolution mean in astronomy?",
+    "audioPrompt": "What does revolution mean in astronomy?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Rotation is spin; revolution is orbit.",
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence."
+      "One object moving around another object.",
+      "An object spinning on its own axis.",
+      "The Sun moving around Earth each day."
     ],
     "correct": 0,
-    "explanation": "Rotation is spin; revolution is orbit.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "One object moving around another object.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Rotation is spin; revolution is orbit.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "One object moving around another object.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-005",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. A student's reasoning is “Seasons caused by distance alone”. Which revision corrects it?",
-    "audioPrompt": "A student reviews a model. A student's reasoning is “Seasons caused by distance alone”. Which revision corrects it?",
+    "question": "Why does Canberra have longer daylight in summer than winter?",
+    "audioPrompt": "Why does Canberra have longer daylight in summer than winter?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Axial tilt changes sunlight angle and duration.",
-      "Make the claim more certain without collecting more evidence."
+      "The Sun is smaller in winter.",
+      "Its hemisphere is tilted more toward the Sun in summer.",
+      "Earth stops rotating in winter."
     ],
     "correct": 1,
-    "explanation": "Axial tilt changes sunlight angle and duration.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "Its hemisphere is tilted more toward the Sun in summer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Axial tilt changes sunlight angle and duration.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "Its hemisphere is tilted more toward the Sun in summer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-006",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Solar-system diagrams assumed to scale”. Which revision corrects it?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Solar-system diagrams assumed to scale”. Which revision corrects it?",
+    "question": "A student says the Moon makes day and night. What correction is best?",
+    "audioPrompt": "A student says the Moon makes day and night. What correction is best?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence.",
-      "State model limitations."
+      "The Moon is the main source of daylight.",
+      "Day and night happen because Earth changes size.",
+      "Day and night happen because Earth rotates, while the Moon orbits Earth."
     ],
     "correct": 2,
-    "explanation": "State model limitations.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "Day and night happen because Earth rotates, while the Moon orbits Earth.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "State model limitations.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-007",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Sun travels around Earth daily”. Which revision corrects it?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Sun travels around Earth daily”. Which revision corrects it?",
+    "question": "Which observation is linked to Earth’s yearly revolution plus tilt?",
+    "audioPrompt": "Which observation is linked to Earth’s yearly revolution plus tilt?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Earth’s rotation creates the apparent daily sky movement.",
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence."
+      "Seasonal changes in daylight length.",
+      "The Sun appearing to cross the sky each day.",
+      "A torch making a shadow on a wall."
     ],
     "correct": 0,
-    "explanation": "Earth’s rotation creates the apparent daily sky movement.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "Seasonal changes in daylight length.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Earth’s rotation creates the apparent daily sky movement.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "Seasonal changes in daylight length.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-008",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A student checks a science notebook. A science organiser labels one part “Earth rotates on axis”. Which entry belongs with that label?",
-    "audioPrompt": "A student checks a science notebook. A science organiser labels one part “Earth rotates on axis”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth rotates on axis as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth rotates on axis as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-008\"></use></svg>",
+    "question": "Why is gravity important in the solar system?",
+    "audioPrompt": "Why is gravity important in the solar system?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-008",
-      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth rotates on axis as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "about 1 year; annual position and seasons with axial tilt",
-      "about 24 h; day/night and apparent sky motion",
-      "about 1 month; changing relative positions and phases"
+      "It makes planets produce their own light.",
+      "It helps keep planets in orbit around the Sun.",
+      "It stops Earth from rotating."
     ],
     "correct": 1,
-    "explanation": "The organiser links Earth rotates on axis with about 24 h; day/night and apparent sky motion.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "It helps keep planets in orbit around the Sun.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Earth rotates on axis with about 24 h; day/night and apparent sky motion.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "It helps keep planets in orbit around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-009",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. A science organiser labels one part “Earth revolves around Sun”. Which entry belongs with that label?",
-    "audioPrompt": "A group compares its evidence. A science organiser labels one part “Earth revolves around Sun”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth revolves around Sun as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth revolves around Sun as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-009\"></use></svg>",
+    "question": "Which motion causes day and night on Earth in a new class investigation?",
+    "audioPrompt": "Which motion causes day and night on Earth in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-009",
-      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth revolves around Sun as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "about 24 h; day/night and apparent sky motion",
-      "about 1 month; changing relative positions and phases",
-      "about 1 year; annual position and seasons with axial tilt"
+      "Earth orbiting the Sun once a year.",
+      "The Moon blocking sunlight every night.",
+      "Earth rotating on its axis."
     ],
     "correct": 2,
-    "explanation": "The organiser links Earth revolves around Sun with about 1 year; annual position and seasons with axial tilt.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Earth rotating on its axis.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Earth revolves around Sun with about 1 year; annual position and seasons with axial tilt.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Earth rotating on its axis.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-010",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. A science organiser labels one part “Moon revolves around Earth”. Which entry belongs with that label?",
-    "audioPrompt": "At a science station, the class reviews its work. A science organiser labels one part “Moon revolves around Earth”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Moon revolves around Earth as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Moon revolves around Earth as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-010\"></use></svg>",
+    "question": "Why do seasons occur on Earth in a new class investigation?",
+    "audioPrompt": "Why do seasons occur on Earth in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-010",
-      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Moon revolves around Earth as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "about 1 month; changing relative positions and phases",
-      "about 24 h; day/night and apparent sky motion",
-      "about 1 year; annual position and seasons with axial tilt"
+      "Earth is tilted as it revolves around the Sun.",
+      "Earth is much closer to the Sun in every country’s summer.",
+      "The Sun turns off some of its heat in winter."
     ],
     "correct": 0,
-    "explanation": "The organiser links Moon revolves around Earth with about 1 month; changing relative positions and phases.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Earth is tilted as it revolves around the Sun.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Moon revolves around Earth with about 1 month; changing relative positions and phases.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Earth is tilted as it revolves around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-011",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. A science organiser labels one part “other planets orbit Sun”. Which entry belongs with that label?",
-    "audioPrompt": "A student reviews a model. A science organiser labels one part “other planets orbit Sun”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting other planets orbit Sun as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Earth, Planets and the Solar System, highlighting other planets orbit Sun as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-011\"></use></svg>",
+    "question": "A model shows Earth, Mars and Jupiter very close together. What should students remember in a new class investigation?",
+    "audioPrompt": "A model shows Earth, Mars and Jupiter very close together. What should students remember in a new class investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-011",
-      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting other planets orbit Sun as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "about 24 h; day/night and apparent sky motion",
-      "different periods; different planetary years",
-      "about 1 year; annual position and seasons with axial tilt"
+      "The planets really touch each other.",
+      "Most classroom diagrams are not drawn to scale.",
+      "Jupiter is always between Earth and Mars."
     ],
     "correct": 1,
-    "explanation": "The organiser links other planets orbit Sun with different periods; different planetary years.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Most classroom diagrams are not drawn to scale.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links other planets orbit Sun with different periods; different planetary years.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Most classroom diagrams are not drawn to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-012",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. Which motion causes day and night?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. Which motion causes day and night?",
+    "question": "What does revolution mean in astronomy in a new class investigation?",
+    "audioPrompt": "What does revolution mean in astronomy in a new class investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Earth’s yearly revolution only",
-      "The Sun orbiting Earth daily",
-      "Earth’s rotation"
+      "An object spinning on its own axis.",
+      "The Sun moving around Earth each day.",
+      "One object moving around another object."
     ],
     "correct": 2,
-    "explanation": "Earth’s rotation is supported by the scientific relationship in the question.\nHint: Check which choice is measurable, evidence-based and consistent with the relevant science.",
+    "explanation": "One object moving around another object.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Earth’s rotation is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+      "summary": "One object moving around another object.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-013",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. What is the main cause of seasons?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. What is the main cause of seasons?",
+    "question": "Why does Canberra have longer daylight in summer than winter in a new class investigation?",
+    "audioPrompt": "Why does Canberra have longer daylight in summer than winter in a new class investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Earth’s axial tilt and revolution",
-      "Earth being much closer to the Sun every summer everywhere",
-      "The Moon’s shadow"
+      "Its hemisphere is tilted more toward the Sun in summer.",
+      "The Sun is smaller in winter.",
+      "Earth stops rotating in winter."
     ],
     "correct": 0,
-    "explanation": "Earth’s axial tilt and revolution is supported by the scientific relationship in the question.\nHint: Check which choice is measurable, evidence-based and consistent with the relevant science.",
+    "explanation": "Its hemisphere is tilted more toward the Sun in summer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Earth’s axial tilt and revolution is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
+      "summary": "Its hemisphere is tilted more toward the Sun in summer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-014",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “spinning about an axis”. Which scientific term should label it?",
-    "audioPrompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “spinning about an axis”. Which scientific term should label it?",
+    "question": "A student says the Moon makes day and night. What correction is best in a new class investigation?",
+    "audioPrompt": "A student says the Moon makes day and night. What correction is best in a new class investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "revolution",
-      "rotation",
-      "orbit"
+      "The Moon is the main source of daylight.",
+      "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+      "Day and night happen because Earth changes size."
     ],
     "correct": 1,
-    "explanation": "rotation means spinning about an axis.\nHint: Match every important part of the description to the term.",
+    "explanation": "Day and night happen because Earth rotates, while the Moon orbits Earth.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "rotation means spinning about an axis.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-015",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “movement around another object”. Which scientific term should label it?",
-    "audioPrompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “movement around another object”. Which scientific term should label it?",
+    "question": "Which observation is linked to Earth’s yearly revolution plus tilt in a new class investigation?",
+    "audioPrompt": "Which observation is linked to Earth’s yearly revolution plus tilt in a new class investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "rotation",
-      "orbit",
-      "revolution"
+      "The Sun appearing to cross the sky each day.",
+      "A torch making a shadow on a wall.",
+      "Seasonal changes in daylight length."
     ],
     "correct": 2,
-    "explanation": "revolution means movement around another object.\nHint: Match every important part of the description to the term.",
+    "explanation": "Seasonal changes in daylight length.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "revolution means movement around another object.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "Seasonal changes in daylight length.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-016",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “repeated curved path under gravitational interaction”. Which scientific term should label it?",
-    "audioPrompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Earth, Planets and the Solar System, a record describes “repeated curved path under gravitational interaction”. Which scientific term should label it?",
+    "question": "Why is gravity important in the solar system in a new class investigation?",
+    "audioPrompt": "Why is gravity important in the solar system in a new class investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "orbit",
-      "rotation",
-      "revolution"
+      "It helps keep planets in orbit around the Sun.",
+      "It makes planets produce their own light.",
+      "It stops Earth from rotating."
     ],
     "correct": 0,
-    "explanation": "orbit means repeated curved path under gravitational interaction.\nHint: Match every important part of the description to the term.",
+    "explanation": "It helps keep planets in orbit around the Sun.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "orbit means repeated curved path under gravitational interaction.",
-      "hint": "Match every important part of the description to the term."
+      "summary": "It helps keep planets in orbit around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-017",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Rotation and revolution treated as synonyms”. Which revision corrects it?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Rotation and revolution treated as synonyms”. Which revision corrects it?",
+    "question": "Which motion causes day and night on Earth after students review their evidence?",
+    "audioPrompt": "Which motion causes day and night on Earth after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Rotation is spin; revolution is orbit.",
-      "Make the claim more certain without collecting more evidence."
+      "Earth orbiting the Sun once a year.",
+      "Earth rotating on its axis.",
+      "The Moon blocking sunlight every night."
     ],
     "correct": 1,
-    "explanation": "Rotation is spin; revolution is orbit.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "Earth rotating on its axis.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Rotation is spin; revolution is orbit.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "Earth rotating on its axis.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-018",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Seasons caused by distance alone”. Which revision corrects it?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Seasons caused by distance alone”. Which revision corrects it?",
+    "question": "Why do seasons occur on Earth after students review their evidence?",
+    "audioPrompt": "Why do seasons occur on Earth after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence.",
-      "Axial tilt changes sunlight angle and duration."
+      "Earth is much closer to the Sun in every country’s summer.",
+      "The Sun turns off some of its heat in winter.",
+      "Earth is tilted as it revolves around the Sun."
     ],
     "correct": 2,
-    "explanation": "Axial tilt changes sunlight angle and duration.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "Earth is tilted as it revolves around the Sun.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Axial tilt changes sunlight angle and duration.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "Earth is tilted as it revolves around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-019",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Solar-system diagrams assumed to scale”. Which revision corrects it?",
-    "audioPrompt": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Solar-system diagrams assumed to scale”. Which revision corrects it?",
+    "question": "A model shows Earth, Mars and Jupiter very close together. What should students remember after students review their evidence?",
+    "audioPrompt": "A model shows Earth, Mars and Jupiter very close together. What should students remember after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "State model limitations.",
-      "Keep the claim because one observation is enough.",
-      "Make the claim more certain without collecting more evidence."
+      "Most classroom diagrams are not drawn to scale.",
+      "The planets really touch each other.",
+      "Jupiter is always between Earth and Mars."
     ],
     "correct": 0,
-    "explanation": "State model limitations.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "Most classroom diagrams are not drawn to scale.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "State model limitations.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "Most classroom diagrams are not drawn to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-020",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Sun travels around Earth daily”. Which revision corrects it?",
-    "audioPrompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Sun travels around Earth daily”. Which revision corrects it?",
+    "question": "What does revolution mean in astronomy after students review their evidence?",
+    "audioPrompt": "What does revolution mean in astronomy after students review their evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Keep the claim because one observation is enough.",
-      "Earth’s rotation creates the apparent daily sky movement.",
-      "Make the claim more certain without collecting more evidence."
+      "An object spinning on its own axis.",
+      "One object moving around another object.",
+      "The Sun moving around Earth each day."
     ],
     "correct": 1,
-    "explanation": "Earth’s rotation creates the apparent daily sky movement.\nHint: Choose the response that corrects the stated misconception without overstating the evidence.",
+    "explanation": "One object moving around another object.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Earth’s rotation creates the apparent daily sky movement.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
+      "summary": "One object moving around another object.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-021",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Earth rotates on axis”. Which entry belongs with that label?",
-    "audioPrompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Earth rotates on axis”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth rotates on axis as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth rotates on axis as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-021\"></use></svg>",
+    "question": "Why does Canberra have longer daylight in summer than winter after students review their evidence?",
+    "audioPrompt": "Why does Canberra have longer daylight in summer than winter after students review their evidence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-021",
-      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth rotates on axis as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "about 1 year; annual position and seasons with axial tilt",
-      "about 1 month; changing relative positions and phases",
-      "about 24 h; day/night and apparent sky motion"
+      "The Sun is smaller in winter.",
+      "Earth stops rotating in winter.",
+      "Its hemisphere is tilted more toward the Sun in summer."
     ],
     "correct": 2,
-    "explanation": "The organiser links Earth rotates on axis with about 24 h; day/night and apparent sky motion.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Its hemisphere is tilted more toward the Sun in summer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Earth rotates on axis with about 24 h; day/night and apparent sky motion.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Its hemisphere is tilted more toward the Sun in summer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-022",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Earth revolves around Sun”. Which entry belongs with that label?",
-    "audioPrompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Earth revolves around Sun”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth revolves around Sun as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth revolves around Sun as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-022\"></use></svg>",
+    "question": "A student says the Moon makes day and night. What correction is best after students review their evidence?",
+    "audioPrompt": "A student says the Moon makes day and night. What correction is best after students review their evidence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-022",
-      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Earth revolves around Sun as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "about 1 year; annual position and seasons with axial tilt",
-      "about 24 h; day/night and apparent sky motion",
-      "about 1 month; changing relative positions and phases"
+      "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+      "The Moon is the main source of daylight.",
+      "Day and night happen because Earth changes size."
     ],
     "correct": 0,
-    "explanation": "The organiser links Earth revolves around Sun with about 1 year; annual position and seasons with axial tilt.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Day and night happen because Earth rotates, while the Moon orbits Earth.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Earth revolves around Sun with about 1 year; annual position and seasons with axial tilt.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Day and night happen because Earth rotates, while the Moon orbits Earth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-023",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Moon revolves around Earth”. Which entry belongs with that label?",
-    "audioPrompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “Moon revolves around Earth”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Moon revolves around Earth as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Moon revolves around Earth as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-023\"></use></svg>",
+    "question": "Which observation is linked to Earth’s yearly revolution plus tilt after students review their evidence?",
+    "audioPrompt": "Which observation is linked to Earth’s yearly revolution plus tilt after students review their evidence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-023",
-      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting Moon revolves around Earth as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "about 24 h; day/night and apparent sky motion",
-      "about 1 month; changing relative positions and phases",
-      "about 1 year; annual position and seasons with axial tilt"
+      "The Sun appearing to cross the sky each day.",
+      "Seasonal changes in daylight length.",
+      "A torch making a shadow on a wall."
     ],
     "correct": 1,
-    "explanation": "The organiser links Moon revolves around Earth with about 1 month; changing relative positions and phases.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "Seasonal changes in daylight length.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links Moon revolves around Earth with about 1 month; changing relative positions and phases.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "Seasonal changes in daylight length.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6u02-p-024",
     "curriculumCode": "AC9S6U02",
     "bank": "practice",
-    "skill": "earth planets and the solar system",
+    "skill": "solar system motions",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “other planets orbit Sun”. Which entry belongs with that label?",
-    "audioPrompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “other planets orbit Sun”. Which entry belongs with that label?",
-    "visual": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting other planets orbit Sun as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Earth, Planets and the Solar System, highlighting other planets orbit Sun as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-024\"></use></svg>",
+    "question": "Why is gravity important in the solar system after students review their evidence?",
+    "audioPrompt": "Why is gravity important in the solar system after students review their evidence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6u02.svg#ac9s6u02-p-024",
-      "alt_text": "A Year 6 science organiser for Earth, Planets and the Solar System, highlighting other planets orbit Sun as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "about 24 h; day/night and apparent sky motion",
-      "about 1 year; annual position and seasons with axial tilt",
-      "different periods; different planetary years"
+      "It makes planets produce their own light.",
+      "It stops Earth from rotating.",
+      "It helps keep planets in orbit around the Sun."
     ],
     "correct": 2,
-    "explanation": "The organiser links other planets orbit Sun with different periods; different planetary years.\nHint: Use the role of the labelled part, not just a repeated word.",
+    "explanation": "It helps keep planets in orbit around the Sun.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The organiser links other planets orbit Sun with different periods; different planetary years.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
+      "summary": "It helps keep planets in orbit around the Sun.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,1418 +1,1322 @@
 [
   {
-    "id": "AC9S6I04-P-001",
+    "id": "ac9s6i04-p-001",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "During a class investigation, students discuss the evidence. In work about Representing and Processing Scientific Evidence, a record describes “data transformed through calculations or grouping”. Which scientific term should label it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. In work about Representing and Processing Scientific Evidence, a record describes “data transformed through calculations or grouping”. Which scientific term should label it?",
+    "skill": "representing evidence",
+    "question": "Which representation best shows temperature change over time?",
+    "audio_prompt": "Which representation best shows temperature change over time?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "trend",
-        "is_correct": false
-      },
-      {
-        "text": "model",
-        "is_correct": false
-      },
-      {
-        "text": "processed data",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "processed data means data transformed through calculations or grouping.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S6I04-P-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I04",
-    "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student checks a science notebook. In work about Representing and Processing Scientific Evidence, a record describes “general direction in ordered or related data”. Which scientific term should label it?",
-    "audio_prompt": "A student checks a science notebook. In work about Representing and Processing Scientific Evidence, a record describes “general direction in ordered or related data”. Which scientific term should label it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "trend",
+        "text": "A line graph.",
         "is_correct": true
       },
       {
-        "text": "processed data",
+        "text": "An unordered pie chart.",
         "is_correct": false
       },
       {
-        "text": "model",
+        "text": "A labelled photo only.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "trend means general direction in ordered or related data.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-003",
+    "id": "ac9s6i04-p-002",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A group compares its evidence. In work about Representing and Processing Scientific Evidence, a record describes “simplified representation of a system or relationship”. Which scientific term should label it?",
-    "audio_prompt": "A group compares its evidence. In work about Representing and Processing Scientific Evidence, a record describes “simplified representation of a system or relationship”. Which scientific term should label it?",
+    "skill": "representing evidence",
+    "question": "Why should graph axes use even intervals?",
+    "audio_prompt": "Why should graph axes use even intervals?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "processed data",
+        "text": "So the graph looks taller.",
         "is_correct": false
       },
       {
-        "text": "model",
+        "text": "So the pattern is not visually distorted.",
         "is_correct": true
       },
       {
-        "text": "trend",
+        "text": "So labels can be skipped.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "model means simplified representation of a system or relationship.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-004",
+    "id": "ac9s6i04-p-003",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "At a science station, the class reviews its work. A student's reasoning is “Graph type chosen by appearance”. Which revision corrects it?",
-    "audio_prompt": "At a science station, the class reviews its work. A student's reasoning is “Graph type chosen by appearance”. Which revision corrects it?",
+    "skill": "representing evidence",
+    "question": "A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "audio_prompt": "A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Which student wrote fastest.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Whether the lamp has a nice colour.",
         "is_correct": false
       },
       {
-        "text": "Match variables and purpose.",
+        "text": "Whether temperature rise changes as distance changes.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Match variables and purpose.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-005",
+    "id": "ac9s6i04-p-004",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student reviews a model. A student's reasoning is “Axis starts or intervals conceal change”. Which revision corrects it?",
-    "audio_prompt": "A student reviews a model. A student's reasoning is “Axis starts or intervals conceal change”. Which revision corrects it?",
+    "skill": "representing evidence",
+    "question": "When is a model useful?",
+    "audio_prompt": "When is a model useful?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use clear scales and disclose breaks.",
+        "text": "When it simplifies a system so parts and relationships can be examined.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "When it replaces all real evidence.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "When it hides limitations.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use clear scales and disclose breaks.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-006",
+    "id": "ac9s6i04-p-005",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Mean shown without raw evidence”. Which revision corrects it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Mean shown without raw evidence”. Which revision corrects it?",
+    "skill": "representing evidence",
+    "question": "What should a conclusion about a trend include?",
+    "audio_prompt": "What should a conclusion about a trend include?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "A claim that the pattern proves everything.",
         "is_correct": false
       },
       {
-        "text": "Retain source data.",
+        "text": "The pattern plus evidence and any limits.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "The prettiest graph colour.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Retain source data.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-007",
+    "id": "ac9s6i04-p-006",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Trend stated as proof of cause”. Which revision corrects it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Trend stated as proof of cause”. Which revision corrects it?",
+    "skill": "representing evidence",
+    "question": "Why keep raw data when showing a mean?",
+    "audio_prompt": "Why keep raw data when showing a mean?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Raw data makes the mean invalid.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Raw data is only decoration.",
         "is_correct": false
       },
       {
-        "text": "Consider investigation design.",
+        "text": "Others can check variation and how the mean was made.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Consider investigation design.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-008",
+    "id": "ac9s6i04-p-007",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student checks a science notebook. A science organiser labels one part “exact repeated measurements”. Which entry belongs with that label?",
-    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “exact repeated measurements”. Which entry belongs with that label?",
+    "skill": "representing evidence",
+    "question": "Which graph choice best compares categories?",
+    "audio_prompt": "Which graph choice best compares categories?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-p-008",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting exact repeated measurements as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "raw-data table",
+        "text": "A column graph.",
         "is_correct": true
       },
       {
-        "text": "line graph",
+        "text": "A line graph with no order.",
         "is_correct": false
       },
       {
-        "text": "column graph",
+        "text": "A paragraph with no numbers.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links exact repeated measurements with raw-data table.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-009",
+    "id": "ac9s6i04-p-008",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A group compares its evidence. A science organiser labels one part “change through time”. Which entry belongs with that label?",
-    "audio_prompt": "A group compares its evidence. A science organiser labels one part “change through time”. Which entry belongs with that label?",
+    "skill": "representing evidence",
+    "question": "A physical model of Earth and Sun is used. What should students state?",
+    "audio_prompt": "A physical model of Earth and Sun is used. What should students state?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-p-009",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting change through time as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "raw-data table",
+        "text": "That the model is the real solar system.",
         "is_correct": false
       },
       {
-        "text": "line graph",
+        "text": "What the model shows well and what it does not show to scale.",
         "is_correct": true
       },
       {
-        "text": "column graph",
+        "text": "That models never have limits.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links change through time with line graph.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-010",
+    "id": "ac9s6i04-p-009",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "At a science station, the class reviews its work. A science organiser labels one part “compare categories”. Which entry belongs with that label?",
-    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “compare categories”. Which entry belongs with that label?",
+    "skill": "representing evidence",
+    "question": "Which representation best shows temperature change over time in a new class investigation?",
+    "audio_prompt": "Which representation best shows temperature change over time in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-p-010",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting compare categories as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "raw-data table",
+        "text": "An unordered pie chart.",
         "is_correct": false
       },
       {
-        "text": "line graph",
+        "text": "A labelled photo only.",
         "is_correct": false
       },
       {
-        "text": "column graph",
+        "text": "A line graph.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links compare categories with column graph.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-011",
+    "id": "ac9s6i04-p-010",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student reviews a model. A science organiser labels one part “relationship between two numbers”. Which entry belongs with that label?",
-    "audio_prompt": "A student reviews a model. A science organiser labels one part “relationship between two numbers”. Which entry belongs with that label?",
+    "skill": "representing evidence",
+    "question": "Why should graph axes use even intervals in a new class investigation?",
+    "audio_prompt": "Why should graph axes use even intervals in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-p-011",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting relationship between two numbers as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "scatter-style plot",
+        "text": "So the pattern is not visually distorted.",
         "is_correct": true
       },
       {
-        "text": "raw-data table",
+        "text": "So the graph looks taller.",
         "is_correct": false
       },
       {
-        "text": "line graph",
+        "text": "So labels can be skipped.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links relationship between two numbers with scatter-style plot.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-012",
+    "id": "ac9s6i04-p-011",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “system or process”. Which entry belongs with that label?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “system or process”. Which entry belongs with that label?",
+    "skill": "representing evidence",
+    "question": "A table lists distance from lamp and temperature rise. What relationship could a graph help show in a new class investigation?",
+    "audio_prompt": "A table lists distance from lamp and temperature rise. What relationship could a graph help show in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-p-012",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting system or process as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "raw-data table",
+        "text": "Which student wrote fastest.",
         "is_correct": false
       },
       {
-        "text": "labelled model/flow diagram",
+        "text": "Whether temperature rise changes as distance changes.",
         "is_correct": true
       },
       {
-        "text": "line graph",
+        "text": "Whether the lamp has a nice colour.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links system or process with labelled model/flow diagram.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-013",
+    "id": "ac9s6i04-p-012",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “Data”. Which entry belongs with that label?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “Data”. Which entry belongs with that label?",
+    "skill": "representing evidence",
+    "question": "When is a model useful in a new class investigation?",
+    "audio_prompt": "When is a model useful in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-p-013",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Data as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "same lamp, materials and 10-minute period",
+        "text": "When it replaces all real evidence.",
         "is_correct": false
       },
       {
-        "text": "few distances and possible room-light effects",
+        "text": "When it hides limitations.",
         "is_correct": false
       },
       {
-        "text": "12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm",
+        "text": "When it simplifies a system so parts and relationships can be examined.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links Data with 12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-014",
+    "id": "ac9s6i04-p-013",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student checks a science notebook. A science organiser labels one part “Scope”. Which entry belongs with that label?",
-    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “Scope”. Which entry belongs with that label?",
+    "skill": "representing evidence",
+    "question": "What should a conclusion about a trend include in a new class investigation?",
+    "audio_prompt": "What should a conclusion about a trend include in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-p-014",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Scope as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "same lamp, materials and 10-minute period",
+        "text": "The pattern plus evidence and any limits.",
         "is_correct": true
       },
       {
-        "text": "12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm",
+        "text": "A claim that the pattern proves everything.",
         "is_correct": false
       },
       {
-        "text": "few distances and possible room-light effects",
+        "text": "The prettiest graph colour.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links Scope with same lamp, materials and 10-minute period.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-015",
+    "id": "ac9s6i04-p-014",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A group compares its evidence. A science organiser labels one part “Limitation”. Which entry belongs with that label?",
-    "audio_prompt": "A group compares its evidence. A science organiser labels one part “Limitation”. Which entry belongs with that label?",
+    "skill": "representing evidence",
+    "question": "Why keep raw data when showing a mean in a new class investigation?",
+    "audio_prompt": "Why keep raw data when showing a mean in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-p-015",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Limitation as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm",
+        "text": "Raw data makes the mean invalid.",
         "is_correct": false
       },
       {
-        "text": "few distances and possible room-light effects",
+        "text": "Others can check variation and how the mean was made.",
         "is_correct": true
       },
       {
-        "text": "same lamp, materials and 10-minute period",
+        "text": "Raw data is only decoration.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links Limitation with few distances and possible room-light effects.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-016",
+    "id": "ac9s6i04-p-015",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "At a science station, the class reviews its work. Which representation best shows temperature change over time?",
-    "audio_prompt": "At a science station, the class reviews its work. Which representation best shows temperature change over time?",
+    "skill": "representing evidence",
+    "question": "Which graph choice best compares categories in a new class investigation?",
+    "audio_prompt": "Which graph choice best compares categories in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "unordered pie chart",
+        "text": "A line graph with no order.",
         "is_correct": false
       },
       {
-        "text": "word cloud",
+        "text": "A paragraph with no numbers.",
         "is_correct": false
       },
       {
-        "text": "line graph",
+        "text": "A column graph.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "line graph is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-017",
+    "id": "ac9s6i04-p-016",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student reviews a model. Which statement is appropriately limited?",
-    "audio_prompt": "A student reviews a model. Which statement is appropriately limited?",
+    "skill": "representing evidence",
+    "question": "A physical model of Earth and Sun is used. What should students state in a new class investigation?",
+    "audio_prompt": "A physical model of Earth and Sun is used. What should students state in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Under these conditions, temperature rise decreased with distance",
+        "text": "What the model shows well and what it does not show to scale.",
         "is_correct": true
       },
       {
-        "text": "Distance always causes every temperature result",
+        "text": "That the model is the real solar system.",
         "is_correct": false
       },
       {
-        "text": "The graph alone proves the mechanism",
+        "text": "That models never have limits.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Under these conditions, temperature rise decreased with distance is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-018",
+    "id": "ac9s6i04-p-017",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Representing and Processing Scientific Evidence, a record describes “data transformed through calculations or grouping”. Which scientific term should label it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Representing and Processing Scientific Evidence, a record describes “data transformed through calculations or grouping”. Which scientific term should label it?",
+    "skill": "representing evidence",
+    "question": "Which representation best shows temperature change over time after students review their evidence?",
+    "audio_prompt": "Which representation best shows temperature change over time after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "trend",
+        "text": "An unordered pie chart.",
         "is_correct": false
       },
       {
-        "text": "processed data",
+        "text": "A line graph.",
         "is_correct": true
       },
       {
-        "text": "model",
+        "text": "A labelled photo only.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "processed data means data transformed through calculations or grouping.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-019",
+    "id": "ac9s6i04-p-018",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. In work about Representing and Processing Scientific Evidence, a record describes “general direction in ordered or related data”. Which scientific term should label it?",
-    "audio_prompt": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. In work about Representing and Processing Scientific Evidence, a record describes “general direction in ordered or related data”. Which scientific term should label it?",
+    "skill": "representing evidence",
+    "question": "Why should graph axes use even intervals after students review their evidence?",
+    "audio_prompt": "Why should graph axes use even intervals after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "processed data",
+        "text": "So the graph looks taller.",
         "is_correct": false
       },
       {
-        "text": "model",
+        "text": "So labels can be skipped.",
         "is_correct": false
       },
       {
-        "text": "trend",
+        "text": "So the pattern is not visually distorted.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "trend means general direction in ordered or related data.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-020",
+    "id": "ac9s6i04-p-019",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Representing and Processing Scientific Evidence, a record describes “simplified representation of a system or relationship”. Which scientific term should label it?",
-    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Representing and Processing Scientific Evidence, a record describes “simplified representation of a system or relationship”. Which scientific term should label it?",
+    "skill": "representing evidence",
+    "question": "A table lists distance from lamp and temperature rise. What relationship could a graph help show after students review their evidence?",
+    "audio_prompt": "A table lists distance from lamp and temperature rise. What relationship could a graph help show after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "model",
+        "text": "Whether temperature rise changes as distance changes.",
         "is_correct": true
       },
       {
-        "text": "processed data",
+        "text": "Which student wrote fastest.",
         "is_correct": false
       },
       {
-        "text": "trend",
+        "text": "Whether the lamp has a nice colour.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "model means simplified representation of a system or relationship.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-021",
+    "id": "ac9s6i04-p-020",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Graph type chosen by appearance”. Which revision corrects it?",
-    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Graph type chosen by appearance”. Which revision corrects it?",
+    "skill": "representing evidence",
+    "question": "When is a model useful after students review their evidence?",
+    "audio_prompt": "When is a model useful after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "When it replaces all real evidence.",
         "is_correct": false
       },
       {
-        "text": "Match variables and purpose.",
+        "text": "When it simplifies a system so parts and relationships can be examined.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "When it hides limitations.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Match variables and purpose.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-022",
+    "id": "ac9s6i04-p-021",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Axis starts or intervals conceal change”. Which revision corrects it?",
-    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Axis starts or intervals conceal change”. Which revision corrects it?",
+    "skill": "representing evidence",
+    "question": "What should a conclusion about a trend include after students review their evidence?",
+    "audio_prompt": "What should a conclusion about a trend include after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "A claim that the pattern proves everything.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "The prettiest graph colour.",
         "is_correct": false
       },
       {
-        "text": "Use clear scales and disclose breaks.",
+        "text": "The pattern plus evidence and any limits.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use clear scales and disclose breaks.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-023",
+    "id": "ac9s6i04-p-022",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Mean shown without raw evidence”. Which revision corrects it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Mean shown without raw evidence”. Which revision corrects it?",
+    "skill": "representing evidence",
+    "question": "Why keep raw data when showing a mean after students review their evidence?",
+    "audio_prompt": "Why keep raw data when showing a mean after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Retain source data.",
+        "text": "Others can check variation and how the mean was made.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Raw data makes the mean invalid.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Raw data is only decoration.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Retain source data.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-P-024",
+    "id": "ac9s6i04-p-023",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "practice",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Trend stated as proof of cause”. Which revision corrects it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Trend stated as proof of cause”. Which revision corrects it?",
+    "skill": "representing evidence",
+    "question": "Which graph choice best compares categories after students review their evidence?",
+    "audio_prompt": "Which graph choice best compares categories after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "A line graph with no order.",
         "is_correct": false
       },
       {
-        "text": "Consider investigation design.",
+        "text": "A column graph.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "A paragraph with no numbers.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Consider investigation design.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I04-T-001",
+    "id": "ac9s6i04-p-024",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A new investigation report must be checked. A student chose “Distance always causes every temperature result”. Reconsider this question using scientific evidence: Which statement is appropriately limited?",
-    "audio_prompt": "A new investigation report must be checked. A student chose “Distance always causes every temperature result”. Reconsider this question using scientific evidence: Which statement is appropriately limited?",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "A physical model of Earth and Sun is used. What should students state after students review their evidence?",
+    "audio_prompt": "A physical model of Earth and Sun is used. What should students state after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Under these conditions, temperature rise decreased with distance",
-        "is_correct": true
-      },
-      {
-        "text": "Distance always causes every temperature result",
+        "text": "That the model is the real solar system.",
         "is_correct": false
       },
       {
-        "text": "The graph alone proves the mechanism",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Under these conditions, temperature rise decreased with distance is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
-    }
-  },
-  {
-    "id": "AC9S6I04-T-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A different class analyses its results. A student chose “unordered pie chart”. Reconsider this question using scientific evidence: Which representation best shows temperature change over time?",
-    "audio_prompt": "A different class analyses its results. A student chose “unordered pie chart”. Reconsider this question using scientific evidence: Which representation best shows temperature change over time?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "unordered pie chart",
+        "text": "That models never have limits.",
         "is_correct": false
       },
       {
-        "text": "line graph",
-        "is_correct": true
-      },
-      {
-        "text": "word cloud",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "line graph is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
-    }
-  },
-  {
-    "id": "AC9S6I04-T-003",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “few distances and possible room-light effects”. Which heading best identifies its role?",
-    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “few distances and possible room-light effects”. Which heading best identifies its role?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-003",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Limitation as one part of the evidence."
-    },
-    "answers": [
-      {
-        "text": "Data",
-        "is_correct": false
-      },
-      {
-        "text": "Scope",
-        "is_correct": false
-      },
-      {
-        "text": "Limitation",
+        "text": "What the model shows well and what it does not show to scale.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "few distances and possible room-light effects belongs under Limitation.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-004",
+    "id": "ac9s6i04-t-001",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “same lamp, materials and 10-minute period”. Which heading best identifies its role?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “same lamp, materials and 10-minute period”. Which heading best identifies its role?",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: A physical model of Earth and Sun is used. What should students state?",
+    "audio_prompt": "A different class checks the same science idea: A physical model of Earth and Sun is used. What should students state?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-004",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Scope as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Scope",
+        "text": "What the model shows well and what it does not show to scale.",
         "is_correct": true
       },
       {
-        "text": "Data",
+        "text": "That the model is the real solar system.",
         "is_correct": false
       },
       {
-        "text": "Limitation",
+        "text": "That models never have limits.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "same lamp, materials and 10-minute period belongs under Scope.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-005",
+    "id": "ac9s6i04-t-002",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm”. Which heading best identifies its role?",
-    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm”. Which heading best identifies its role?",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: Which graph choice best compares categories?",
+    "audio_prompt": "A different class checks the same science idea: Which graph choice best compares categories?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-005",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Data as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "Scope",
+        "text": "A line graph with no order.",
         "is_correct": false
       },
       {
-        "text": "Data",
+        "text": "A column graph.",
         "is_correct": true
       },
       {
-        "text": "Limitation",
+        "text": "A paragraph with no numbers.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm belongs under Data.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-006",
+    "id": "ac9s6i04-t-003",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A different class analyses its results. A science organiser contains the entry “labelled model/flow diagram”. Which heading best identifies its role?",
-    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “labelled model/flow diagram”. Which heading best identifies its role?",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: Why keep raw data when showing a mean?",
+    "audio_prompt": "A different class checks the same science idea: Why keep raw data when showing a mean?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-006",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting system or process as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "exact repeated measurements",
+        "text": "Raw data makes the mean invalid.",
         "is_correct": false
       },
       {
-        "text": "change through time",
+        "text": "Raw data is only decoration.",
         "is_correct": false
       },
       {
-        "text": "system or process",
+        "text": "Others can check variation and how the mean was made.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "labelled model/flow diagram belongs under system or process.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-007",
+    "id": "ac9s6i04-t-004",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “scatter-style plot”. Which heading best identifies its role?",
-    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “scatter-style plot”. Which heading best identifies its role?",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: What should a conclusion about a trend include?",
+    "audio_prompt": "A different class checks the same science idea: What should a conclusion about a trend include?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-007",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting relationship between two numbers as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "relationship between two numbers",
+        "text": "The pattern plus evidence and any limits.",
         "is_correct": true
       },
       {
-        "text": "exact repeated measurements",
+        "text": "A claim that the pattern proves everything.",
         "is_correct": false
       },
       {
-        "text": "change through time",
+        "text": "The prettiest graph colour.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "scatter-style plot belongs under relationship between two numbers.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-008",
+    "id": "ac9s6i04-t-005",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “column graph”. Which heading best identifies its role?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “column graph”. Which heading best identifies its role?",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: When is a model useful?",
+    "audio_prompt": "A different class checks the same science idea: When is a model useful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-008",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting compare categories as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "exact repeated measurements",
+        "text": "When it replaces all real evidence.",
         "is_correct": false
       },
       {
-        "text": "compare categories",
+        "text": "When it simplifies a system so parts and relationships can be examined.",
         "is_correct": true
       },
       {
-        "text": "change through time",
+        "text": "When it hides limitations.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "column graph belongs under compare categories.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-009",
+    "id": "ac9s6i04-t-006",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “line graph”. Which heading best identifies its role?",
-    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “line graph”. Which heading best identifies its role?",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "audio_prompt": "A different class checks the same science idea: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-009",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting change through time as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "exact repeated measurements",
+        "text": "Which student wrote fastest.",
         "is_correct": false
       },
       {
-        "text": "compare categories",
+        "text": "Whether the lamp has a nice colour.",
         "is_correct": false
       },
       {
-        "text": "change through time",
+        "text": "Whether temperature rise changes as distance changes.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "line graph belongs under change through time.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-010",
+    "id": "ac9s6i04-t-007",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A different class analyses its results. A science organiser contains the entry “raw-data table”. Which heading best identifies its role?",
-    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “raw-data table”. Which heading best identifies its role?",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: Why should graph axes use even intervals?",
+    "audio_prompt": "A different class checks the same science idea: Why should graph axes use even intervals?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-010",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting exact repeated measurements as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "exact repeated measurements",
+        "text": "So the pattern is not visually distorted.",
         "is_correct": true
       },
       {
-        "text": "change through time",
+        "text": "So the graph looks taller.",
         "is_correct": false
       },
       {
-        "text": "compare categories",
+        "text": "So labels can be skipped.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "raw-data table belongs under exact repeated measurements.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-011",
+    "id": "ac9s6i04-t-008",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A team conducts an independent evidence review. A review recommends, “Consider investigation design.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A team conducts an independent evidence review. A review recommends, “Consider investigation design.” Which original claim most clearly needs that revision?",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: Which representation best shows temperature change over time?",
+    "audio_prompt": "A different class checks the same science idea: Which representation best shows temperature change over time?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Graph type chosen by appearance",
+        "text": "An unordered pie chart.",
         "is_correct": false
       },
       {
-        "text": "Trend stated as proof of cause",
+        "text": "A line graph.",
         "is_correct": true
       },
       {
-        "text": "Axis starts or intervals conceal change",
+        "text": "A labelled photo only.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Trend stated as proof of cause”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-012",
+    "id": "ac9s6i04-t-009",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student applies the science to an unfamiliar situation. A review recommends, “Retain source data.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A review recommends, “Retain source data.” Which original claim most clearly needs that revision?",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: A physical model of Earth and Sun is used. What should students state?",
+    "audio_prompt": "A follow-up test asks: A physical model of Earth and Sun is used. What should students state?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Graph type chosen by appearance",
+        "text": "That the model is the real solar system.",
         "is_correct": false
       },
       {
-        "text": "Axis starts or intervals conceal change",
+        "text": "That models never have limits.",
         "is_correct": false
       },
       {
-        "text": "Mean shown without raw evidence",
+        "text": "What the model shows well and what it does not show to scale.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Mean shown without raw evidence”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-013",
+    "id": "ac9s6i04-t-010",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A new investigation report must be checked. A review recommends, “Use clear scales and disclose breaks.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A new investigation report must be checked. A review recommends, “Use clear scales and disclose breaks.” Which original claim most clearly needs that revision?",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: Which graph choice best compares categories?",
+    "audio_prompt": "A follow-up test asks: Which graph choice best compares categories?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Axis starts or intervals conceal change",
+        "text": "A column graph.",
         "is_correct": true
       },
       {
-        "text": "Graph type chosen by appearance",
+        "text": "A line graph with no order.",
         "is_correct": false
       },
       {
-        "text": "Mean shown without raw evidence",
+        "text": "A paragraph with no numbers.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Axis starts or intervals conceal change”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-014",
+    "id": "ac9s6i04-t-011",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A different class analyses its results. A review recommends, “Match variables and purpose.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A different class analyses its results. A review recommends, “Match variables and purpose.” Which original claim most clearly needs that revision?",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: Why keep raw data when showing a mean?",
+    "audio_prompt": "A follow-up test asks: Why keep raw data when showing a mean?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Axis starts or intervals conceal change",
+        "text": "Raw data makes the mean invalid.",
         "is_correct": false
       },
       {
-        "text": "Graph type chosen by appearance",
+        "text": "Others can check variation and how the mean was made.",
         "is_correct": true
       },
       {
-        "text": "Mean shown without raw evidence",
+        "text": "Raw data is only decoration.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Graph type chosen by appearance”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-015",
+    "id": "ac9s6i04-t-012",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A team conducts an independent evidence review. A student labels an observation “model”. Which description shows that term being used correctly?",
-    "audio_prompt": "A team conducts an independent evidence review. A student labels an observation “model”. Which description shows that term being used correctly?",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: What should a conclusion about a trend include?",
+    "audio_prompt": "A follow-up test asks: What should a conclusion about a trend include?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "data transformed through calculations or grouping",
+        "text": "A claim that the pattern proves everything.",
         "is_correct": false
       },
       {
-        "text": "general direction in ordered or related data",
+        "text": "The prettiest graph colour.",
         "is_correct": false
       },
       {
-        "text": "simplified representation of a system or relationship",
+        "text": "The pattern plus evidence and any limits.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "model describes simplified representation of a system or relationship.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I04-T-016",
+    "id": "ac9s6i04-t-013",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I04",
     "bank": "test",
-    "skill": "representing_and_processing_scientific_evidence",
-    "question": "A student applies the science to an unfamiliar situation. A student labels an observation “trend”. Which description shows that term being used correctly?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A student labels an observation “trend”. Which description shows that term being used correctly?",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: When is a model useful?",
+    "audio_prompt": "A follow-up test asks: When is a model useful?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "general direction in ordered or related data",
+        "text": "When it simplifies a system so parts and relationships can be examined.",
         "is_correct": true
       },
       {
-        "text": "data transformed through calculations or grouping",
+        "text": "When it replaces all real evidence.",
         "is_correct": false
       },
       {
-        "text": "simplified representation of a system or relationship",
+        "text": "When it hides limitations.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "trend describes general direction in ordered or related data.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "audio_prompt": "A follow-up test asks: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which student wrote fastest.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether temperature rise changes as distance changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Whether the lamp has a nice colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: Why should graph axes use even intervals?",
+    "audio_prompt": "A follow-up test asks: Why should graph axes use even intervals?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So the graph looks taller.",
+        "is_correct": false
+      },
+      {
+        "text": "So labels can be skipped.",
+        "is_correct": false
+      },
+      {
+        "text": "So the pattern is not visually distorted.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: Which representation best shows temperature change over time?",
+    "audio_prompt": "A follow-up test asks: Which representation best shows temperature change over time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A line graph.",
+        "is_correct": true
+      },
+      {
+        "text": "An unordered pie chart.",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled photo only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   }
 ]

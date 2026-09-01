@@ -4,465 +4,449 @@ window.skillrTestQuestions = [
     "id": "ac9s6i04-t-001",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A student chose “Distance always causes every temperature result”. Reconsider this question using scientific evidence: Which statement is appropriately limited?",
-    "audioPrompt": "A new investigation report must be checked. A student chose “Distance always causes every temperature result”. Reconsider this question using scientific evidence: Which statement is appropriately limited?",
+    "question": "A different class checks the same science idea: A physical model of Earth and Sun is used. What should students state?",
+    "audioPrompt": "A different class checks the same science idea: A physical model of Earth and Sun is used. What should students state?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Under these conditions, temperature rise decreased with distance",
-      "Distance always causes every temperature result",
-      "The graph alone proves the mechanism"
+      "What the model shows well and what it does not show to scale.",
+      "That the model is the real solar system.",
+      "That models never have limits."
     ],
     "correct": 0,
-    "explanation": "Under these conditions, temperature rise decreased with distance is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "explanation": "What the model shows well and what it does not show to scale.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "Under these conditions, temperature rise decreased with distance is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-002",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A student chose “unordered pie chart”. Reconsider this question using scientific evidence: Which representation best shows temperature change over time?",
-    "audioPrompt": "A different class analyses its results. A student chose “unordered pie chart”. Reconsider this question using scientific evidence: Which representation best shows temperature change over time?",
+    "question": "A different class checks the same science idea: Which graph choice best compares categories?",
+    "audioPrompt": "A different class checks the same science idea: Which graph choice best compares categories?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "unordered pie chart",
-      "line graph",
-      "word cloud"
+      "A line graph with no order.",
+      "A column graph.",
+      "A paragraph with no numbers."
     ],
     "correct": 1,
-    "explanation": "line graph is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "explanation": "A column graph.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "line graph is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-003",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “few distances and possible room-light effects”. Which heading best identifies its role?",
-    "audioPrompt": "A team conducts an independent evidence review. A science organiser contains the entry “few distances and possible room-light effects”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Limitation as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Limitation as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-003\"></use></svg>",
+    "question": "A different class checks the same science idea: Why keep raw data when showing a mean?",
+    "audioPrompt": "A different class checks the same science idea: Why keep raw data when showing a mean?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-003",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Limitation as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Data",
-      "Scope",
-      "Limitation"
+      "Raw data makes the mean invalid.",
+      "Raw data is only decoration.",
+      "Others can check variation and how the mean was made."
     ],
     "correct": 2,
-    "explanation": "few distances and possible room-light effects belongs under Limitation.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "explanation": "Others can check variation and how the mean was made.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "few distances and possible room-light effects belongs under Limitation.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-004",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “same lamp, materials and 10-minute period”. Which heading best identifies its role?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “same lamp, materials and 10-minute period”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Scope as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Scope as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-004\"></use></svg>",
+    "question": "A different class checks the same science idea: What should a conclusion about a trend include?",
+    "audioPrompt": "A different class checks the same science idea: What should a conclusion about a trend include?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-004",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Scope as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Scope",
-      "Data",
-      "Limitation"
+      "The pattern plus evidence and any limits.",
+      "A claim that the pattern proves everything.",
+      "The prettiest graph colour."
     ],
     "correct": 0,
-    "explanation": "same lamp, materials and 10-minute period belongs under Scope.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "explanation": "The pattern plus evidence and any limits.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "same lamp, materials and 10-minute period belongs under Scope.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-005",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm”. Which heading best identifies its role?",
-    "audioPrompt": "A new investigation report must be checked. A science organiser contains the entry “12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Data as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Data as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-005\"></use></svg>",
+    "question": "A different class checks the same science idea: When is a model useful?",
+    "audioPrompt": "A different class checks the same science idea: When is a model useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-005",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting Data as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Scope",
-      "Data",
-      "Limitation"
+      "When it replaces all real evidence.",
+      "When it simplifies a system so parts and relationships can be examined.",
+      "When it hides limitations."
     ],
     "correct": 1,
-    "explanation": "12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm belongs under Data.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "explanation": "When it simplifies a system so parts and relationships can be examined.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "12.1°C at 10 cm; 6.8°C at 20 cm; 3.2°C at 30 cm belongs under Data.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-006",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A science organiser contains the entry “labelled model/flow diagram”. Which heading best identifies its role?",
-    "audioPrompt": "A different class analyses its results. A science organiser contains the entry “labelled model/flow diagram”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting system or process as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting system or process as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-006\"></use></svg>",
+    "question": "A different class checks the same science idea: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "audioPrompt": "A different class checks the same science idea: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-006",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting system or process as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "exact repeated measurements",
-      "change through time",
-      "system or process"
+      "Which student wrote fastest.",
+      "Whether the lamp has a nice colour.",
+      "Whether temperature rise changes as distance changes."
     ],
     "correct": 2,
-    "explanation": "labelled model/flow diagram belongs under system or process.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "explanation": "Whether temperature rise changes as distance changes.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "labelled model/flow diagram belongs under system or process.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-007",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “scatter-style plot”. Which heading best identifies its role?",
-    "audioPrompt": "A team conducts an independent evidence review. A science organiser contains the entry “scatter-style plot”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting relationship between two numbers as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting relationship between two numbers as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-007\"></use></svg>",
+    "question": "A different class checks the same science idea: Why should graph axes use even intervals?",
+    "audioPrompt": "A different class checks the same science idea: Why should graph axes use even intervals?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-007",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting relationship between two numbers as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "relationship between two numbers",
-      "exact repeated measurements",
-      "change through time"
+      "So the pattern is not visually distorted.",
+      "So the graph looks taller.",
+      "So labels can be skipped."
     ],
     "correct": 0,
-    "explanation": "scatter-style plot belongs under relationship between two numbers.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "explanation": "So the pattern is not visually distorted.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "scatter-style plot belongs under relationship between two numbers.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-008",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “column graph”. Which heading best identifies its role?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “column graph”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting compare categories as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting compare categories as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-008\"></use></svg>",
+    "question": "A different class checks the same science idea: Which representation best shows temperature change over time?",
+    "audioPrompt": "A different class checks the same science idea: Which representation best shows temperature change over time?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-008",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting compare categories as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "exact repeated measurements",
-      "compare categories",
-      "change through time"
+      "An unordered pie chart.",
+      "A line graph.",
+      "A labelled photo only."
     ],
     "correct": 1,
-    "explanation": "column graph belongs under compare categories.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "explanation": "A line graph.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "column graph belongs under compare categories.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-009",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “line graph”. Which heading best identifies its role?",
-    "audioPrompt": "A new investigation report must be checked. A science organiser contains the entry “line graph”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting change through time as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting change through time as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-009\"></use></svg>",
+    "question": "A follow-up test asks: A physical model of Earth and Sun is used. What should students state?",
+    "audioPrompt": "A follow-up test asks: A physical model of Earth and Sun is used. What should students state?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-009",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting change through time as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "exact repeated measurements",
-      "compare categories",
-      "change through time"
+      "That the model is the real solar system.",
+      "That models never have limits.",
+      "What the model shows well and what it does not show to scale."
     ],
     "correct": 2,
-    "explanation": "line graph belongs under change through time.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "explanation": "What the model shows well and what it does not show to scale.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "line graph belongs under change through time.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-010",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A science organiser contains the entry “raw-data table”. Which heading best identifies its role?",
-    "audioPrompt": "A different class analyses its results. A science organiser contains the entry “raw-data table”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting exact repeated measurements as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting exact repeated measurements as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-010\"></use></svg>",
+    "question": "A follow-up test asks: Which graph choice best compares categories?",
+    "audioPrompt": "A follow-up test asks: Which graph choice best compares categories?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i04.svg#ac9s6i04-t-010",
-      "alt_text": "A Year 6 science organiser for Representing and Processing Scientific Evidence, highlighting exact repeated measurements as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "exact repeated measurements",
-      "change through time",
-      "compare categories"
+      "A column graph.",
+      "A line graph with no order.",
+      "A paragraph with no numbers."
     ],
     "correct": 0,
-    "explanation": "raw-data table belongs under exact repeated measurements.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "explanation": "A column graph.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "raw-data table belongs under exact repeated measurements.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-011",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A review recommends, “Consider investigation design.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A team conducts an independent evidence review. A review recommends, “Consider investigation design.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: Why keep raw data when showing a mean?",
+    "audioPrompt": "A follow-up test asks: Why keep raw data when showing a mean?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Graph type chosen by appearance",
-      "Trend stated as proof of cause",
-      "Axis starts or intervals conceal change"
+      "Raw data makes the mean invalid.",
+      "Others can check variation and how the mean was made.",
+      "Raw data is only decoration."
     ],
     "correct": 1,
-    "explanation": "The recommendation corrects the claim “Trend stated as proof of cause”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "explanation": "Others can check variation and how the mean was made.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Trend stated as proof of cause”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-012",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A review recommends, “Retain source data.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A review recommends, “Retain source data.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: What should a conclusion about a trend include?",
+    "audioPrompt": "A follow-up test asks: What should a conclusion about a trend include?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Graph type chosen by appearance",
-      "Axis starts or intervals conceal change",
-      "Mean shown without raw evidence"
+      "A claim that the pattern proves everything.",
+      "The prettiest graph colour.",
+      "The pattern plus evidence and any limits."
     ],
     "correct": 2,
-    "explanation": "The recommendation corrects the claim “Mean shown without raw evidence”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "explanation": "The pattern plus evidence and any limits.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Mean shown without raw evidence”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-013",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A review recommends, “Use clear scales and disclose breaks.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A new investigation report must be checked. A review recommends, “Use clear scales and disclose breaks.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: When is a model useful?",
+    "audioPrompt": "A follow-up test asks: When is a model useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Axis starts or intervals conceal change",
-      "Graph type chosen by appearance",
-      "Mean shown without raw evidence"
+      "When it simplifies a system so parts and relationships can be examined.",
+      "When it replaces all real evidence.",
+      "When it hides limitations."
     ],
     "correct": 0,
-    "explanation": "The recommendation corrects the claim “Axis starts or intervals conceal change”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "explanation": "When it simplifies a system so parts and relationships can be examined.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Axis starts or intervals conceal change”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-014",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A review recommends, “Match variables and purpose.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A different class analyses its results. A review recommends, “Match variables and purpose.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "audioPrompt": "A follow-up test asks: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Axis starts or intervals conceal change",
-      "Graph type chosen by appearance",
-      "Mean shown without raw evidence"
+      "Which student wrote fastest.",
+      "Whether temperature rise changes as distance changes.",
+      "Whether the lamp has a nice colour."
     ],
     "correct": 1,
-    "explanation": "The recommendation corrects the claim “Graph type chosen by appearance”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "explanation": "Whether temperature rise changes as distance changes.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Graph type chosen by appearance”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-015",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A student labels an observation “model”. Which description shows that term being used correctly?",
-    "audioPrompt": "A team conducts an independent evidence review. A student labels an observation “model”. Which description shows that term being used correctly?",
+    "question": "A follow-up test asks: Why should graph axes use even intervals?",
+    "audioPrompt": "A follow-up test asks: Why should graph axes use even intervals?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "data transformed through calculations or grouping",
-      "general direction in ordered or related data",
-      "simplified representation of a system or relationship"
+      "So the graph looks taller.",
+      "So labels can be skipped.",
+      "So the pattern is not visually distorted."
     ],
     "correct": 2,
-    "explanation": "model describes simplified representation of a system or relationship.\nHint: Apply the term to the description that includes all of its important features.",
+    "explanation": "So the pattern is not visually distorted.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "model describes simplified representation of a system or relationship.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i04-t-016",
     "curriculumCode": "AC9S6I04",
     "bank": "test",
-    "skill": "representing and processing scientific evidence",
+    "skill": "representing evidence",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A student labels an observation “trend”. Which description shows that term being used correctly?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A student labels an observation “trend”. Which description shows that term being used correctly?",
+    "question": "A follow-up test asks: Which representation best shows temperature change over time?",
+    "audioPrompt": "A follow-up test asks: Which representation best shows temperature change over time?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "general direction in ordered or related data",
-      "data transformed through calculations or grouping",
-      "simplified representation of a system or relationship"
+      "A line graph.",
+      "An unordered pie chart.",
+      "A labelled photo only."
     ],
     "correct": 0,
-    "explanation": "trend describes general direction in ordered or related data.\nHint: Apply the term to the description that includes all of its important features.",
+    "explanation": "A line graph.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "trend describes general direction in ordered or related data.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

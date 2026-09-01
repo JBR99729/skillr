@@ -1,1418 +1,1322 @@
 [
   {
-    "id": "AC9S6H02-P-001",
+    "id": "ac9s6h02-p-001",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "During a class investigation, students discuss the evidence. In work about Scientific Knowledge in Community Decisions, a record describes “person, group or environment affected by a decision”. Which scientific term should label it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. In work about Scientific Knowledge in Community Decisions, a record describes “person, group or environment affected by a decision”. Which scientific term should label it?",
+    "skill": "science decisions",
+    "question": "A town is deciding how to reduce mould in a community hall. What can science contribute?",
+    "audio_prompt": "A town is deciding how to reduce mould in a community hall. What can science contribute?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "risk",
-        "is_correct": false
-      },
-      {
-        "text": "stakeholder",
+        "text": "Evidence about moisture, ventilation and materials.",
         "is_correct": true
       },
       {
-        "text": "uncertainty",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "stakeholder means person, group or environment affected by a decision.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S6H02-P-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student checks a science notebook. In work about Scientific Knowledge in Community Decisions, a record describes “combination of likelihood and consequence”. Which scientific term should label it?",
-    "audio_prompt": "A student checks a science notebook. In work about Scientific Knowledge in Community Decisions, a record describes “combination of likelihood and consequence”. Which scientific term should label it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "stakeholder",
+        "text": "A guarantee that everyone will prefer one option.",
         "is_correct": false
       },
       {
-        "text": "uncertainty",
-        "is_correct": false
-      },
-      {
-        "text": "risk",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "risk means combination of likelihood and consequence.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S6H02-P-003",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A group compares its evidence. In work about Scientific Knowledge in Community Decisions, a record describes “recognised limit in knowledge or prediction”. Which scientific term should label it?",
-    "audio_prompt": "A group compares its evidence. In work about Scientific Knowledge in Community Decisions, a record describes “recognised limit in knowledge or prediction”. Which scientific term should label it?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "uncertainty",
-        "is_correct": true
-      },
-      {
-        "text": "stakeholder",
-        "is_correct": false
-      },
-      {
-        "text": "risk",
+        "text": "The cheapest choice without testing.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "uncertainty means recognised limit in knowledge or prediction.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Evidence about moisture, ventilation and materials.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-004",
+    "id": "ac9s6h02-p-002",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "At a science station, the class reviews its work. A student's reasoning is “Science supplies one value-free answer”. Which revision corrects it?",
-    "audio_prompt": "At a science station, the class reviews its work. A student's reasoning is “Science supplies one value-free answer”. Which revision corrects it?",
+    "skill": "science decisions",
+    "question": "Why should a community decision include stakeholders?",
+    "audio_prompt": "Why should a community decision include stakeholders?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Only scientists are affected by local decisions.",
         "is_correct": false
       },
       {
-        "text": "Criteria and values also shape decisions.",
+        "text": "Different people or environments may be affected by the decision.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Stakeholders make evidence unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Criteria and values also shape decisions.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Different people or environments may be affected by the decision.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-005",
+    "id": "ac9s6h02-p-003",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student reviews a model. A student's reasoning is “Most popular option assumed scientifically best”. Which revision corrects it?",
-    "audio_prompt": "A student reviews a model. A student's reasoning is “Most popular option assumed scientifically best”. Which revision corrects it?",
+    "skill": "science decisions",
+    "question": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
+    "audio_prompt": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Whether the rule has a nicer name.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Whether no one ever asks questions again.",
         "is_correct": false
       },
       {
-        "text": "Popularity is not evidence of effectiveness.",
+        "text": "Whether noise levels and nesting impacts improve.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Popularity is not evidence of effectiveness.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Whether noise levels and nesting impacts improve.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-006",
+    "id": "ac9s6h02-p-004",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Uncertainty used as reason to ignore all evidence”. Which revision corrects it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “Uncertainty used as reason to ignore all evidence”. Which revision corrects it?",
+    "skill": "science decisions",
+    "question": "Why is uncertainty not a reason to ignore evidence?",
+    "audio_prompt": "Why is uncertainty not a reason to ignore evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Decisions can state uncertainty and monitor.",
+        "text": "Evidence can still guide a cautious decision while limits are named.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Uncertainty means all options are equally scientific.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Uncertainty proves the problem is imaginary.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Decisions can state uncertainty and monitor.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Evidence can still guide a cautious decision while limits are named.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-007",
+    "id": "ac9s6h02-p-005",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Only immediate effects considered”. Which revision corrects it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Only immediate effects considered”. Which revision corrects it?",
+    "skill": "science decisions",
+    "question": "Which factor is a scientific part of a food-storage decision?",
+    "audio_prompt": "Which factor is a scientific part of a food-storage decision?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Which packaging colour is most popular.",
         "is_correct": false
       },
       {
-        "text": "Include long-term and indirect consequences.",
+        "text": "How temperature affects bacterial growth.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Which slogan sounds best.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Include long-term and indirect consequences.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "How temperature affects bacterial growth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-008",
+    "id": "ac9s6h02-p-006",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student checks a science notebook. A science organiser labels one part “problem”. Which entry belongs with that label?",
-    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “problem”. Which entry belongs with that label?",
+    "skill": "science decisions",
+    "question": "A popular option has weak evidence. What should decision-makers do?",
+    "audio_prompt": "A popular option has weak evidence. What should decision-makers do?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-p-008",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting problem as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "nutrient levels, species surveys, flow data",
+        "text": "Choose it because popularity proves it is best.",
         "is_correct": false
       },
       {
-        "text": "wetland, source reduction, treatment",
+        "text": "Reject all community views.",
         "is_correct": false
       },
       {
-        "text": "declining water quality and biodiversity",
+        "text": "Compare it with evidence, risks, costs and likely impacts.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links problem with declining water quality and biodiversity.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Compare it with evidence, risks, costs and likely impacts.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-009",
+    "id": "ac9s6h02-p-007",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A group compares its evidence. A science organiser labels one part “science evidence”. Which entry belongs with that label?",
-    "audio_prompt": "A group compares its evidence. A science organiser labels one part “science evidence”. Which entry belongs with that label?",
+    "skill": "science decisions",
+    "question": "Why might a decision need review points?",
+    "audio_prompt": "Why might a decision need review points?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-p-009",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting science evidence as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "nutrient levels, species surveys, flow data",
+        "text": "Real results can show whether the response is working.",
         "is_correct": true
       },
       {
-        "text": "declining water quality and biodiversity",
+        "text": "Review points prevent any action.",
         "is_correct": false
       },
       {
-        "text": "wetland, source reduction, treatment",
+        "text": "A first plan is always perfect.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links science evidence with nutrient levels, species surveys, flow data.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Real results can show whether the response is working.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-010",
+    "id": "ac9s6h02-p-008",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "At a science station, the class reviews its work. A science organiser labels one part “options”. Which entry belongs with that label?",
-    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “options”. Which entry belongs with that label?",
+    "skill": "science decisions",
+    "question": "Which conclusion uses science appropriately?",
+    "audio_prompt": "Which conclusion uses science appropriately?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-p-010",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting options as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "declining water quality and biodiversity",
+        "text": "Science proves shade cloth is morally perfect.",
         "is_correct": false
       },
       {
-        "text": "wetland, source reduction, treatment",
+        "text": "The evidence supports trialling shade cloth, but growth should be monitored.",
         "is_correct": true
       },
       {
-        "text": "nutrient levels, species surveys, flow data",
+        "text": "No evidence is needed because shade sounds helpful.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links options with wetland, source reduction, treatment.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-011",
+    "id": "ac9s6h02-p-009",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student reviews a model. A science organiser labels one part “criteria”. Which entry belongs with that label?",
-    "audio_prompt": "A student reviews a model. A science organiser labels one part “criteria”. Which entry belongs with that label?",
+    "skill": "science decisions",
+    "question": "A town is deciding how to reduce mould in a community hall. What can science contribute in a new class investigation?",
+    "audio_prompt": "A town is deciding how to reduce mould in a community hall. What can science contribute in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-p-011",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting criteria as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "declining water quality and biodiversity",
+        "text": "A guarantee that everyone will prefer one option.",
         "is_correct": false
       },
       {
-        "text": "nutrient levels, species surveys, flow data",
+        "text": "The cheapest choice without testing.",
         "is_correct": false
       },
       {
-        "text": "effectiveness, cost, equity, time, habitat impact",
+        "text": "Evidence about moisture, ventilation and materials.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links criteria with effectiveness, cost, equity, time, habitat impact.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Evidence about moisture, ventilation and materials.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-012",
+    "id": "ac9s6h02-p-010",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “uncertainty”. Which entry belongs with that label?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A science organiser labels one part “uncertainty”. Which entry belongs with that label?",
+    "skill": "science decisions",
+    "question": "Why should a community decision include stakeholders in a new class investigation?",
+    "audio_prompt": "Why should a community decision include stakeholders in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-p-012",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting uncertainty as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "seasonal variation and incomplete monitoring",
+        "text": "Different people or environments may be affected by the decision.",
         "is_correct": true
       },
       {
-        "text": "declining water quality and biodiversity",
+        "text": "Only scientists are affected by local decisions.",
         "is_correct": false
       },
       {
-        "text": "nutrient levels, species surveys, flow data",
+        "text": "Stakeholders make evidence unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links uncertainty with seasonal variation and incomplete monitoring.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Different people or environments may be affected by the decision.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-013",
+    "id": "ac9s6h02-p-011",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "During a class investigation, students discuss the evidence. A science organiser labels one part “recommendation”. Which entry belongs with that label?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. A science organiser labels one part “recommendation”. Which entry belongs with that label?",
+    "skill": "science decisions",
+    "question": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later in a new class investigation?",
+    "audio_prompt": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-p-013",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting recommendation as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "declining water quality and biodiversity",
+        "text": "Whether the rule has a nicer name.",
         "is_correct": false
       },
       {
-        "text": "combined action with review points",
+        "text": "Whether noise levels and nesting impacts improve.",
         "is_correct": true
       },
       {
-        "text": "nutrient levels, species surveys, flow data",
+        "text": "Whether no one ever asks questions again.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links recommendation with combined action with review points.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Whether noise levels and nesting impacts improve.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-014",
+    "id": "ac9s6h02-p-012",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student checks a science notebook. What can science contribute to a community decision?",
-    "audio_prompt": "A student checks a science notebook. What can science contribute to a community decision?",
+    "skill": "science decisions",
+    "question": "Why is uncertainty not a reason to ignore evidence in a new class investigation?",
+    "audio_prompt": "Why is uncertainty not a reason to ignore evidence in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A guarantee of one morally correct choice",
+        "text": "Uncertainty means all options are equally scientific.",
         "is_correct": false
       },
       {
-        "text": "Only personal preference",
+        "text": "Uncertainty proves the problem is imaginary.",
         "is_correct": false
       },
       {
-        "text": "Evidence about likely effects and uncertainty",
+        "text": "Evidence can still guide a cautious decision while limits are named.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Evidence about likely effects and uncertainty is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Evidence can still guide a cautious decision while limits are named.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-015",
+    "id": "ac9s6h02-p-013",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A group compares its evidence. Why monitor an implemented decision?",
-    "audio_prompt": "A group compares its evidence. Why monitor an implemented decision?",
+    "skill": "science decisions",
+    "question": "Which factor is a scientific part of a food-storage decision in a new class investigation?",
+    "audio_prompt": "Which factor is a scientific part of a food-storage decision in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "To check outcomes and detect unintended effects",
+        "text": "How temperature affects bacterial growth.",
         "is_correct": true
       },
       {
-        "text": "To avoid defining success",
+        "text": "Which packaging colour is most popular.",
         "is_correct": false
       },
       {
-        "text": "To remove the original evidence",
+        "text": "Which slogan sounds best.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "To check outcomes and detect unintended effects is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "How temperature affects bacterial growth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-016",
+    "id": "ac9s6h02-p-014",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Scientific Knowledge in Community Decisions, a record describes “person, group or environment affected by a decision”. Which scientific term should label it?",
-    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Scientific Knowledge in Community Decisions, a record describes “person, group or environment affected by a decision”. Which scientific term should label it?",
+    "skill": "science decisions",
+    "question": "A popular option has weak evidence. What should decision-makers do in a new class investigation?",
+    "audio_prompt": "A popular option has weak evidence. What should decision-makers do in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "risk",
+        "text": "Choose it because popularity proves it is best.",
         "is_correct": false
       },
       {
-        "text": "stakeholder",
+        "text": "Compare it with evidence, risks, costs and likely impacts.",
         "is_correct": true
       },
       {
-        "text": "uncertainty",
+        "text": "Reject all community views.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "stakeholder means person, group or environment affected by a decision.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Compare it with evidence, risks, costs and likely impacts.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-017",
+    "id": "ac9s6h02-p-015",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. In work about Scientific Knowledge in Community Decisions, a record describes “combination of likelihood and consequence”. Which scientific term should label it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. In work about Scientific Knowledge in Community Decisions, a record describes “combination of likelihood and consequence”. Which scientific term should label it?",
+    "skill": "science decisions",
+    "question": "Why might a decision need review points in a new class investigation?",
+    "audio_prompt": "Why might a decision need review points in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "stakeholder",
+        "text": "Review points prevent any action.",
         "is_correct": false
       },
       {
-        "text": "uncertainty",
+        "text": "A first plan is always perfect.",
         "is_correct": false
       },
       {
-        "text": "risk",
+        "text": "Real results can show whether the response is working.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "risk means combination of likelihood and consequence.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Real results can show whether the response is working.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-018",
+    "id": "ac9s6h02-p-016",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Scientific Knowledge in Community Decisions, a record describes “recognised limit in knowledge or prediction”. Which scientific term should label it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. In work about Scientific Knowledge in Community Decisions, a record describes “recognised limit in knowledge or prediction”. Which scientific term should label it?",
+    "skill": "science decisions",
+    "question": "Which conclusion uses science appropriately in a new class investigation?",
+    "audio_prompt": "Which conclusion uses science appropriately in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "uncertainty",
+        "text": "The evidence supports trialling shade cloth, but growth should be monitored.",
         "is_correct": true
       },
       {
-        "text": "stakeholder",
+        "text": "Science proves shade cloth is morally perfect.",
         "is_correct": false
       },
       {
-        "text": "risk",
+        "text": "No evidence is needed because shade sounds helpful.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "uncertainty means recognised limit in knowledge or prediction.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-019",
+    "id": "ac9s6h02-p-017",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Science supplies one value-free answer”. Which revision corrects it?",
-    "audio_prompt": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Science supplies one value-free answer”. Which revision corrects it?",
+    "skill": "science decisions",
+    "question": "A town is deciding how to reduce mould in a community hall. What can science contribute after students review their evidence?",
+    "audio_prompt": "A town is deciding how to reduce mould in a community hall. What can science contribute after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "A guarantee that everyone will prefer one option.",
         "is_correct": false
       },
       {
-        "text": "Criteria and values also shape decisions.",
+        "text": "Evidence about moisture, ventilation and materials.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "The cheapest choice without testing.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Criteria and values also shape decisions.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Evidence about moisture, ventilation and materials.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-020",
+    "id": "ac9s6h02-p-018",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Most popular option assumed scientifically best”. Which revision corrects it?",
-    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Most popular option assumed scientifically best”. Which revision corrects it?",
+    "skill": "science decisions",
+    "question": "Why should a community decision include stakeholders after students review their evidence?",
+    "audio_prompt": "Why should a community decision include stakeholders after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Only scientists are affected by local decisions.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Stakeholders make evidence unnecessary.",
         "is_correct": false
       },
       {
-        "text": "Popularity is not evidence of effectiveness.",
+        "text": "Different people or environments may be affected by the decision.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Popularity is not evidence of effectiveness.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Different people or environments may be affected by the decision.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-021",
+    "id": "ac9s6h02-p-019",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Uncertainty used as reason to ignore all evidence”. Which revision corrects it?",
-    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Uncertainty used as reason to ignore all evidence”. Which revision corrects it?",
+    "skill": "science decisions",
+    "question": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later after students review their evidence?",
+    "audio_prompt": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Decisions can state uncertainty and monitor.",
+        "text": "Whether noise levels and nesting impacts improve.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Whether the rule has a nicer name.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Whether no one ever asks questions again.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Decisions can state uncertainty and monitor.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Whether noise levels and nesting impacts improve.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-022",
+    "id": "ac9s6h02-p-020",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Only immediate effects considered”. Which revision corrects it?",
-    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Only immediate effects considered”. Which revision corrects it?",
+    "skill": "science decisions",
+    "question": "Why is uncertainty not a reason to ignore evidence after students review their evidence?",
+    "audio_prompt": "Why is uncertainty not a reason to ignore evidence after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Uncertainty means all options are equally scientific.",
         "is_correct": false
       },
       {
-        "text": "Include long-term and indirect consequences.",
+        "text": "Evidence can still guide a cautious decision while limits are named.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Uncertainty proves the problem is imaginary.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Include long-term and indirect consequences.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Evidence can still guide a cautious decision while limits are named.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-023",
+    "id": "ac9s6h02-p-021",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “problem”. Which entry belongs with that label?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “problem”. Which entry belongs with that label?",
+    "skill": "science decisions",
+    "question": "Which factor is a scientific part of a food-storage decision after students review their evidence?",
+    "audio_prompt": "Which factor is a scientific part of a food-storage decision after students review their evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-p-023",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting problem as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "nutrient levels, species surveys, flow data",
+        "text": "Which packaging colour is most popular.",
         "is_correct": false
       },
       {
-        "text": "wetland, source reduction, treatment",
+        "text": "Which slogan sounds best.",
         "is_correct": false
       },
       {
-        "text": "declining water quality and biodiversity",
+        "text": "How temperature affects bacterial growth.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links problem with declining water quality and biodiversity.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "How temperature affects bacterial growth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-P-024",
+    "id": "ac9s6h02-p-022",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "practice",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “science evidence”. Which entry belongs with that label?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “science evidence”. Which entry belongs with that label?",
+    "skill": "science decisions",
+    "question": "A popular option has weak evidence. What should decision-makers do after students review their evidence?",
+    "audio_prompt": "A popular option has weak evidence. What should decision-makers do after students review their evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-p-024",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting science evidence as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "nutrient levels, species surveys, flow data",
+        "text": "Compare it with evidence, risks, costs and likely impacts.",
         "is_correct": true
       },
       {
-        "text": "declining water quality and biodiversity",
+        "text": "Choose it because popularity proves it is best.",
         "is_correct": false
       },
       {
-        "text": "wetland, source reduction, treatment",
+        "text": "Reject all community views.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links science evidence with nutrient levels, species surveys, flow data.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Compare it with evidence, risks, costs and likely impacts.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6H02-T-001",
+    "id": "ac9s6h02-p-023",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A new investigation report must be checked. A student chose “To avoid defining success”. Reconsider this question using scientific evidence: Why monitor an implemented decision?",
-    "audio_prompt": "A new investigation report must be checked. A student chose “To avoid defining success”. Reconsider this question using scientific evidence: Why monitor an implemented decision?",
+    "bank": "practice",
+    "skill": "science decisions",
+    "question": "Why might a decision need review points after students review their evidence?",
+    "audio_prompt": "Why might a decision need review points after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "To avoid defining success",
+        "text": "Review points prevent any action.",
         "is_correct": false
       },
       {
-        "text": "To remove the original evidence",
-        "is_correct": false
-      },
-      {
-        "text": "To check outcomes and detect unintended effects",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "To check outcomes and detect unintended effects is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
-    }
-  },
-  {
-    "id": "AC9S6H02-T-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A different class analyses its results. A student chose “A guarantee of one morally correct choice”. Reconsider this question using scientific evidence: What can science contribute to a community decision?",
-    "audio_prompt": "A different class analyses its results. A student chose “A guarantee of one morally correct choice”. Reconsider this question using scientific evidence: What can science contribute to a community decision?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Evidence about likely effects and uncertainty",
+        "text": "Real results can show whether the response is working.",
         "is_correct": true
       },
       {
-        "text": "A guarantee of one morally correct choice",
-        "is_correct": false
-      },
-      {
-        "text": "Only personal preference",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Evidence about likely effects and uncertainty is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
-    }
-  },
-  {
-    "id": "AC9S6H02-T-003",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “combined action with review points”. Which heading best identifies its role?",
-    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “combined action with review points”. Which heading best identifies its role?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-003",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting recommendation as one part of the evidence."
-    },
-    "answers": [
-      {
-        "text": "problem",
-        "is_correct": false
-      },
-      {
-        "text": "recommendation",
-        "is_correct": true
-      },
-      {
-        "text": "science evidence",
+        "text": "A first plan is always perfect.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "combined action with review points belongs under recommendation.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Real results can show whether the response is working.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-004",
+    "id": "ac9s6h02-p-024",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “seasonal variation and incomplete monitoring”. Which heading best identifies its role?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “seasonal variation and incomplete monitoring”. Which heading best identifies its role?",
+    "bank": "practice",
+    "skill": "science decisions",
+    "question": "Which conclusion uses science appropriately after students review their evidence?",
+    "audio_prompt": "Which conclusion uses science appropriately after students review their evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-004",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting uncertainty as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "problem",
+        "text": "Science proves shade cloth is morally perfect.",
         "is_correct": false
       },
       {
-        "text": "science evidence",
+        "text": "No evidence is needed because shade sounds helpful.",
         "is_correct": false
       },
       {
-        "text": "uncertainty",
+        "text": "The evidence supports trialling shade cloth, but growth should be monitored.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "seasonal variation and incomplete monitoring belongs under uncertainty.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-005",
+    "id": "ac9s6h02-t-001",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “effectiveness, cost, equity, time, habitat impact”. Which heading best identifies its role?",
-    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “effectiveness, cost, equity, time, habitat impact”. Which heading best identifies its role?",
+    "skill": "science decisions",
+    "question": "A different class checks the same science idea: Which conclusion uses science appropriately?",
+    "audio_prompt": "A different class checks the same science idea: Which conclusion uses science appropriately?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-005",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting criteria as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "criteria",
+        "text": "The evidence supports trialling shade cloth, but growth should be monitored.",
         "is_correct": true
       },
       {
-        "text": "problem",
+        "text": "Science proves shade cloth is morally perfect.",
         "is_correct": false
       },
       {
-        "text": "science evidence",
+        "text": "No evidence is needed because shade sounds helpful.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "effectiveness, cost, equity, time, habitat impact belongs under criteria.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-006",
+    "id": "ac9s6h02-t-002",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A different class analyses its results. A science organiser contains the entry “wetland, source reduction, treatment”. Which heading best identifies its role?",
-    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “wetland, source reduction, treatment”. Which heading best identifies its role?",
+    "skill": "science decisions",
+    "question": "A different class checks the same science idea: Why might a decision need review points?",
+    "audio_prompt": "A different class checks the same science idea: Why might a decision need review points?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-006",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting options as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "problem",
+        "text": "Review points prevent any action.",
         "is_correct": false
       },
       {
-        "text": "options",
+        "text": "Real results can show whether the response is working.",
         "is_correct": true
       },
       {
-        "text": "science evidence",
+        "text": "A first plan is always perfect.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "wetland, source reduction, treatment belongs under options.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Real results can show whether the response is working.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-007",
+    "id": "ac9s6h02-t-003",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “nutrient levels, species surveys, flow data”. Which heading best identifies its role?",
-    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “nutrient levels, species surveys, flow data”. Which heading best identifies its role?",
+    "skill": "science decisions",
+    "question": "A different class checks the same science idea: A popular option has weak evidence. What should decision-makers do?",
+    "audio_prompt": "A different class checks the same science idea: A popular option has weak evidence. What should decision-makers do?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-007",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting science evidence as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "problem",
+        "text": "Choose it because popularity proves it is best.",
         "is_correct": false
       },
       {
-        "text": "options",
+        "text": "Reject all community views.",
         "is_correct": false
       },
       {
-        "text": "science evidence",
+        "text": "Compare it with evidence, risks, costs and likely impacts.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "nutrient levels, species surveys, flow data belongs under science evidence.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Compare it with evidence, risks, costs and likely impacts.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-008",
+    "id": "ac9s6h02-t-004",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “declining water quality and biodiversity”. Which heading best identifies its role?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “declining water quality and biodiversity”. Which heading best identifies its role?",
+    "skill": "science decisions",
+    "question": "A different class checks the same science idea: Which factor is a scientific part of a food-storage decision?",
+    "audio_prompt": "A different class checks the same science idea: Which factor is a scientific part of a food-storage decision?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6h02.svg#ac9s6h02-t-008",
-      "alt_text": "A Year 6 science organiser for Scientific Knowledge in Community Decisions, highlighting problem as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "problem",
+        "text": "How temperature affects bacterial growth.",
         "is_correct": true
       },
       {
-        "text": "science evidence",
+        "text": "Which packaging colour is most popular.",
         "is_correct": false
       },
       {
-        "text": "options",
+        "text": "Which slogan sounds best.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "declining water quality and biodiversity belongs under problem.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "How temperature affects bacterial growth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-009",
+    "id": "ac9s6h02-t-005",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A new investigation report must be checked. A review recommends, “Include long-term and indirect consequences.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A new investigation report must be checked. A review recommends, “Include long-term and indirect consequences.” Which original claim most clearly needs that revision?",
+    "skill": "science decisions",
+    "question": "A different class checks the same science idea: Why is uncertainty not a reason to ignore evidence?",
+    "audio_prompt": "A different class checks the same science idea: Why is uncertainty not a reason to ignore evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Science supplies one value-free answer",
+        "text": "Uncertainty means all options are equally scientific.",
         "is_correct": false
       },
       {
-        "text": "Only immediate effects considered",
+        "text": "Evidence can still guide a cautious decision while limits are named.",
         "is_correct": true
       },
       {
-        "text": "Most popular option assumed scientifically best",
+        "text": "Uncertainty proves the problem is imaginary.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Only immediate effects considered”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Evidence can still guide a cautious decision while limits are named.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-010",
+    "id": "ac9s6h02-t-006",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A different class analyses its results. A review recommends, “Decisions can state uncertainty and monitor.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A different class analyses its results. A review recommends, “Decisions can state uncertainty and monitor.” Which original claim most clearly needs that revision?",
+    "skill": "science decisions",
+    "question": "A different class checks the same science idea: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
+    "audio_prompt": "A different class checks the same science idea: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Science supplies one value-free answer",
+        "text": "Whether the rule has a nicer name.",
         "is_correct": false
       },
       {
-        "text": "Most popular option assumed scientifically best",
+        "text": "Whether no one ever asks questions again.",
         "is_correct": false
       },
       {
-        "text": "Uncertainty used as reason to ignore all evidence",
+        "text": "Whether noise levels and nesting impacts improve.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Uncertainty used as reason to ignore all evidence”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Whether noise levels and nesting impacts improve.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-011",
+    "id": "ac9s6h02-t-007",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A team conducts an independent evidence review. A review recommends, “Popularity is not evidence of effectiveness.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A team conducts an independent evidence review. A review recommends, “Popularity is not evidence of effectiveness.” Which original claim most clearly needs that revision?",
+    "skill": "science decisions",
+    "question": "A different class checks the same science idea: Why should a community decision include stakeholders?",
+    "audio_prompt": "A different class checks the same science idea: Why should a community decision include stakeholders?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Most popular option assumed scientifically best",
+        "text": "Different people or environments may be affected by the decision.",
         "is_correct": true
       },
       {
-        "text": "Science supplies one value-free answer",
+        "text": "Only scientists are affected by local decisions.",
         "is_correct": false
       },
       {
-        "text": "Uncertainty used as reason to ignore all evidence",
+        "text": "Stakeholders make evidence unnecessary.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Most popular option assumed scientifically best”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Different people or environments may be affected by the decision.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-012",
+    "id": "ac9s6h02-t-008",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A student applies the science to an unfamiliar situation. A review recommends, “Criteria and values also shape decisions.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A review recommends, “Criteria and values also shape decisions.” Which original claim most clearly needs that revision?",
+    "skill": "science decisions",
+    "question": "A different class checks the same science idea: A town is deciding how to reduce mould in a community hall. What can science contribute?",
+    "audio_prompt": "A different class checks the same science idea: A town is deciding how to reduce mould in a community hall. What can science contribute?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Most popular option assumed scientifically best",
+        "text": "A guarantee that everyone will prefer one option.",
         "is_correct": false
       },
       {
-        "text": "Science supplies one value-free answer",
+        "text": "Evidence about moisture, ventilation and materials.",
         "is_correct": true
       },
       {
-        "text": "Uncertainty used as reason to ignore all evidence",
+        "text": "The cheapest choice without testing.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Science supplies one value-free answer”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Evidence about moisture, ventilation and materials.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-013",
+    "id": "ac9s6h02-t-009",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A new investigation report must be checked. A student labels an observation “uncertainty”. Which description shows that term being used correctly?",
-    "audio_prompt": "A new investigation report must be checked. A student labels an observation “uncertainty”. Which description shows that term being used correctly?",
+    "skill": "science decisions",
+    "question": "A follow-up test asks: Which conclusion uses science appropriately?",
+    "audio_prompt": "A follow-up test asks: Which conclusion uses science appropriately?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "person, group or environment affected by a decision",
+        "text": "Science proves shade cloth is morally perfect.",
         "is_correct": false
       },
       {
-        "text": "combination of likelihood and consequence",
+        "text": "No evidence is needed because shade sounds helpful.",
         "is_correct": false
       },
       {
-        "text": "recognised limit in knowledge or prediction",
+        "text": "The evidence supports trialling shade cloth, but growth should be monitored.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "uncertainty describes recognised limit in knowledge or prediction.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-014",
+    "id": "ac9s6h02-t-010",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A different class analyses its results. A student labels an observation “risk”. Which description shows that term being used correctly?",
-    "audio_prompt": "A different class analyses its results. A student labels an observation “risk”. Which description shows that term being used correctly?",
+    "skill": "science decisions",
+    "question": "A follow-up test asks: Why might a decision need review points?",
+    "audio_prompt": "A follow-up test asks: Why might a decision need review points?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "combination of likelihood and consequence",
+        "text": "Real results can show whether the response is working.",
         "is_correct": true
       },
       {
-        "text": "person, group or environment affected by a decision",
+        "text": "Review points prevent any action.",
         "is_correct": false
       },
       {
-        "text": "recognised limit in knowledge or prediction",
+        "text": "A first plan is always perfect.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "risk describes combination of likelihood and consequence.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Real results can show whether the response is working.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-015",
+    "id": "ac9s6h02-t-011",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A team conducts an independent evidence review. A student labels an observation “stakeholder”. Which description shows that term being used correctly?",
-    "audio_prompt": "A team conducts an independent evidence review. A student labels an observation “stakeholder”. Which description shows that term being used correctly?",
+    "skill": "science decisions",
+    "question": "A follow-up test asks: A popular option has weak evidence. What should decision-makers do?",
+    "audio_prompt": "A follow-up test asks: A popular option has weak evidence. What should decision-makers do?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "combination of likelihood and consequence",
+        "text": "Choose it because popularity proves it is best.",
         "is_correct": false
       },
       {
-        "text": "person, group or environment affected by a decision",
+        "text": "Compare it with evidence, risks, costs and likely impacts.",
         "is_correct": true
       },
       {
-        "text": "recognised limit in knowledge or prediction",
+        "text": "Reject all community views.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "stakeholder describes person, group or environment affected by a decision.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Compare it with evidence, risks, costs and likely impacts.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6H02-T-016",
+    "id": "ac9s6h02-t-012",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6H02",
     "bank": "test",
-    "skill": "scientific_knowledge_in_community_decisions",
-    "question": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A student chose “To avoid defining success”. Reconsider this question using scientific evidence: Why monitor an implemented decision?",
-    "audio_prompt": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A student chose “To avoid defining success”. Reconsider this question using scientific evidence: Why monitor an implemented decision?",
+    "skill": "science decisions",
+    "question": "A follow-up test asks: Which factor is a scientific part of a food-storage decision?",
+    "audio_prompt": "A follow-up test asks: Which factor is a scientific part of a food-storage decision?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "To avoid defining success",
+        "text": "Which packaging colour is most popular.",
         "is_correct": false
       },
       {
-        "text": "To remove the original evidence",
+        "text": "Which slogan sounds best.",
         "is_correct": false
       },
       {
-        "text": "To check outcomes and detect unintended effects",
+        "text": "How temperature affects bacterial growth.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "To check outcomes and detect unintended effects is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "How temperature affects bacterial growth.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h02-t-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H02",
+    "bank": "test",
+    "skill": "science decisions",
+    "question": "A follow-up test asks: Why is uncertainty not a reason to ignore evidence?",
+    "audio_prompt": "A follow-up test asks: Why is uncertainty not a reason to ignore evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evidence can still guide a cautious decision while limits are named.",
+        "is_correct": true
+      },
+      {
+        "text": "Uncertainty means all options are equally scientific.",
+        "is_correct": false
+      },
+      {
+        "text": "Uncertainty proves the problem is imaginary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evidence can still guide a cautious decision while limits are named.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h02-t-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H02",
+    "bank": "test",
+    "skill": "science decisions",
+    "question": "A follow-up test asks: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
+    "audio_prompt": "A follow-up test asks: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Whether the rule has a nicer name.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether noise levels and nesting impacts improve.",
+        "is_correct": true
+      },
+      {
+        "text": "Whether no one ever asks questions again.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Whether noise levels and nesting impacts improve.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h02-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H02",
+    "bank": "test",
+    "skill": "science decisions",
+    "question": "A follow-up test asks: Why should a community decision include stakeholders?",
+    "audio_prompt": "A follow-up test asks: Why should a community decision include stakeholders?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Only scientists are affected by local decisions.",
+        "is_correct": false
+      },
+      {
+        "text": "Stakeholders make evidence unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "Different people or environments may be affected by the decision.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different people or environments may be affected by the decision.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6h02-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6H02",
+    "bank": "test",
+    "skill": "science decisions",
+    "question": "A follow-up test asks: A town is deciding how to reduce mould in a community hall. What can science contribute?",
+    "audio_prompt": "A follow-up test asks: A town is deciding how to reduce mould in a community hall. What can science contribute?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evidence about moisture, ventilation and materials.",
+        "is_correct": true
+      },
+      {
+        "text": "A guarantee that everyone will prefer one option.",
+        "is_correct": false
+      },
+      {
+        "text": "The cheapest choice without testing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evidence about moisture, ventilation and materials.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   }
 ]

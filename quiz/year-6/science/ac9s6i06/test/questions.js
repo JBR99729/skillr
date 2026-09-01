@@ -4,465 +4,449 @@ window.skillrTestQuestions = [
     "id": "ac9s6i06-t-001",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A student chose “The level of vocabulary support”. Reconsider this question using scientific evidence: What should remain unchanged across audiences?",
-    "audioPrompt": "A new investigation report must be checked. A student chose “The level of vocabulary support”. Reconsider this question using scientific evidence: What should remain unchanged across audiences?",
+    "question": "A different class checks the same science idea: Which communication choice improves accessibility?",
+    "audioPrompt": "A different class checks the same science idea: Which communication choice improves accessibility?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "The level of vocabulary support",
-      "The amount of detail",
-      "The evidence and scientific relationship"
+      "Clear contrast, readable text and alt text for important images.",
+      "Low-contrast labels.",
+      "Important information only in tiny images."
     ],
-    "correct": 2,
-    "explanation": "The evidence and scientific relationship is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "correct": 0,
+    "explanation": "Clear contrast, readable text and alt text for important images.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The evidence and scientific relationship is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "Clear contrast, readable text and alt text for important images.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-002",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A student chose “An unrelated decoration”. Reconsider this question using scientific evidence: Which feature best supports a scientific finding?",
-    "audioPrompt": "A different class analyses its results. A student chose “An unrelated decoration”. Reconsider this question using scientific evidence: Which feature best supports a scientific finding?",
+    "question": "A different class checks the same science idea: A report includes a graph but no explanation. What should be added?",
+    "audioPrompt": "A different class checks the same science idea: A report includes a graph but no explanation. What should be added?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "A labelled graph plus a numerical evidence statement",
-      "An unrelated decoration",
-      "A claim without data"
+      "More decorative borders.",
+      "Text explaining the pattern and what it means.",
+      "A different prediction only."
     ],
-    "correct": 0,
-    "explanation": "A labelled graph plus a numerical evidence statement is the evidence-based choice.\nHint: Check the relationship in the question and reject the tempting misconception.",
+    "correct": 1,
+    "explanation": "Text explaining the pattern and what it means.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "A labelled graph plus a numerical evidence statement is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "Text explaining the pattern and what it means.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-003",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “navigation, source attribution and accessible labels”. Which heading best identifies its role?",
-    "audioPrompt": "A team conducts an independent evidence review. A science organiser contains the entry “navigation, source attribution and accessible labels”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting digital page as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting digital page as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-003\"></use></svg>",
+    "question": "A different class checks the same science idea: Which slide design helps an oral presentation?",
+    "audioPrompt": "A different class checks the same science idea: Which slide design helps an oral presentation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-003",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting digital page as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "formal report",
-      "digital page",
-      "class poster"
+      "Six paragraphs of tiny text.",
+      "Images with no connection to findings.",
+      "Few key words, readable labels and spoken explanation."
     ],
-    "correct": 1,
-    "explanation": "navigation, source attribution and accessible labels belongs under digital page.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 2,
+    "explanation": "Few key words, readable labels and spoken explanation.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "navigation, source attribution and accessible labels belongs under digital page.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Few key words, readable labels and spoken explanation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-004",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “defined terms and concrete comparison”. Which heading best identifies its role?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “defined terms and concrete comparison”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting younger audience as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting younger audience as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-004\"></use></svg>",
+    "question": "A different class checks the same science idea: Why cite or name data sources in a digital report?",
+    "audioPrompt": "A different class checks the same science idea: Why cite or name data sources in a digital report?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-004",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting younger audience as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "formal report",
-      "class poster",
-      "younger audience"
+      "So readers can judge and check the evidence.",
+      "So the report looks longer.",
+      "So no explanation is needed."
     ],
-    "correct": 2,
-    "explanation": "defined terms and concrete comparison belongs under younger audience.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 0,
+    "explanation": "So readers can judge and check the evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "defined terms and concrete comparison belongs under younger audience.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "So readers can judge and check the evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-005",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “signposting, limited slide text, spoken reasoning”. Which heading best identifies its role?",
-    "audioPrompt": "A new investigation report must be checked. A science organiser contains the entry “signposting, limited slide text, spoken reasoning”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting oral presentation as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting oral presentation as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-005\"></use></svg>",
+    "question": "A different class checks the same science idea: A conclusion only repeats the prediction. What is missing?",
+    "audioPrompt": "A different class checks the same science idea: A conclusion only repeats the prediction. What is missing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-005",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting oral presentation as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "oral presentation",
-      "formal report",
-      "class poster"
+      "A brighter background.",
+      "A statement linking results to evidence.",
+      "A new unrelated question."
     ],
-    "correct": 0,
-    "explanation": "signposting, limited slide text, spoken reasoning belongs under oral presentation.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 1,
+    "explanation": "A statement linking results to evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "signposting, limited slide text, spoken reasoning belongs under oral presentation.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "A statement linking results to evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-006",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A science organiser contains the entry “large model, concise findings, readable captions”. Which heading best identifies its role?",
-    "audioPrompt": "A different class analyses its results. A science organiser contains the entry “large model, concise findings, readable captions”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting class poster as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting class poster as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-006\"></use></svg>",
+    "question": "A different class checks the same science idea: Why define technical words for a younger audience?",
+    "audioPrompt": "A different class checks the same science idea: Why define technical words for a younger audience?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-006",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting class poster as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "formal report",
-      "class poster",
-      "oral presentation"
+      "It changes the results.",
+      "It hides the evidence.",
+      "It helps readers understand without changing the science."
     ],
-    "correct": 1,
-    "explanation": "large model, concise findings, readable captions belongs under class poster.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 2,
+    "explanation": "It helps readers understand without changing the science.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "large model, concise findings, readable captions belongs under class poster.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "It helps readers understand without changing the science.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-007",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “method detail, raw/processed data, limitations”. Which heading best identifies its role?",
-    "audioPrompt": "A team conducts an independent evidence review. A science organiser contains the entry “method detail, raw/processed data, limitations”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting formal report as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting formal report as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-007\"></use></svg>",
+    "question": "A different class checks the same science idea: Which feature best supports a scientific finding on a poster?",
+    "audioPrompt": "A different class checks the same science idea: Which feature best supports a scientific finding on a poster?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-007",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting formal report as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "class poster",
-      "oral presentation",
-      "formal report"
+      "A labelled graph with a caption explaining the trend.",
+      "An unrelated decoration.",
+      "A huge title with no data."
     ],
-    "correct": 2,
-    "explanation": "method detail, raw/processed data, limitations belongs under formal report.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 0,
+    "explanation": "A labelled graph with a caption explaining the trend.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "method detail, raw/processed data, limitations belongs under formal report.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "A labelled graph with a caption explaining the trend.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-008",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “scope and improvement”. Which heading best identifies its role?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “scope and improvement”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Limit/next question as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Limit/next question as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-008\"></use></svg>",
+    "question": "A different class checks the same science idea: What should stay the same when explaining findings to different audiences?",
+    "audioPrompt": "A different class checks the same science idea: What should stay the same when explaining findings to different audiences?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-008",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Limit/next question as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Limit/next question",
-      "Question/prediction",
-      "Method"
+      "The exact vocabulary level.",
+      "The accuracy of the evidence and conclusion.",
+      "The font colour."
     ],
-    "correct": 0,
-    "explanation": "scope and improvement belongs under Limit/next question.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 1,
+    "explanation": "The accuracy of the evidence and conclusion.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "scope and improvement belongs under Limit/next question.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "The accuracy of the evidence and conclusion.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-009",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “claim + reasoning”. Which heading best identifies its role?",
-    "audioPrompt": "A new investigation report must be checked. A science organiser contains the entry “claim + reasoning”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Conclusion as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Conclusion as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-009\"></use></svg>",
+    "question": "A follow-up test asks: Which communication choice improves accessibility?",
+    "audioPrompt": "A follow-up test asks: Which communication choice improves accessibility?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-009",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Conclusion as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Question/prediction",
-      "Conclusion",
-      "Method"
+      "Low-contrast labels.",
+      "Important information only in tiny images.",
+      "Clear contrast, readable text and alt text for important images."
     ],
-    "correct": 1,
-    "explanation": "claim + reasoning belongs under Conclusion.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 2,
+    "explanation": "Clear contrast, readable text and alt text for important images.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "claim + reasoning belongs under Conclusion.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Clear contrast, readable text and alt text for important images.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-010",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A science organiser contains the entry “pattern stated with data”. Which heading best identifies its role?",
-    "audioPrompt": "A different class analyses its results. A science organiser contains the entry “pattern stated with data”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Finding as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Finding as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-010\"></use></svg>",
+    "question": "A follow-up test asks: A report includes a graph but no explanation. What should be added?",
+    "audioPrompt": "A follow-up test asks: A report includes a graph but no explanation. What should be added?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-010",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Finding as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Question/prediction",
-      "Method",
-      "Finding"
+      "Text explaining the pattern and what it means.",
+      "More decorative borders.",
+      "A different prediction only."
     ],
-    "correct": 2,
-    "explanation": "pattern stated with data belongs under Finding.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 0,
+    "explanation": "Text explaining the pattern and what it means.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "pattern stated with data belongs under Finding.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Text explaining the pattern and what it means.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-011",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “table/graph/model with units”. Which heading best identifies its role?",
-    "audioPrompt": "A team conducts an independent evidence review. A science organiser contains the entry “table/graph/model with units”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Results as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Results as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-011\"></use></svg>",
+    "question": "A follow-up test asks: Which slide design helps an oral presentation?",
+    "audioPrompt": "A follow-up test asks: Which slide design helps an oral presentation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-011",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Results as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Results",
-      "Question/prediction",
-      "Method"
+      "Six paragraphs of tiny text.",
+      "Few key words, readable labels and spoken explanation.",
+      "Images with no connection to findings."
     ],
-    "correct": 0,
-    "explanation": "table/graph/model with units belongs under Results.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 1,
+    "explanation": "Few key words, readable labels and spoken explanation.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "table/graph/model with units belongs under Results.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Few key words, readable labels and spoken explanation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-012",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “repeatable summary and variables”. Which heading best identifies its role?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “repeatable summary and variables”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Method as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Method as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-012\"></use></svg>",
+    "question": "A follow-up test asks: Why cite or name data sources in a digital report?",
+    "audioPrompt": "A follow-up test asks: Why cite or name data sources in a digital report?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-012",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Method as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Question/prediction",
-      "Method",
-      "Results"
+      "So the report looks longer.",
+      "So no explanation is needed.",
+      "So readers can judge and check the evidence."
     ],
-    "correct": 1,
-    "explanation": "repeatable summary and variables belongs under Method.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 2,
+    "explanation": "So readers can judge and check the evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "repeatable summary and variables belongs under Method.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "So readers can judge and check the evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-013",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “focus”. Which heading best identifies its role?",
-    "audioPrompt": "A new investigation report must be checked. A science organiser contains the entry “focus”. Which heading best identifies its role?",
-    "visual": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Question/prediction as one part of the evidence.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Question/prediction as one part of the evidence.\"><use href=\"/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-013\"></use></svg>",
+    "question": "A follow-up test asks: A conclusion only repeats the prediction. What is missing?",
+    "audioPrompt": "A follow-up test asks: A conclusion only repeats the prediction. What is missing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i06.svg#ac9s6i06-t-013",
-      "alt_text": "A Year 6 science organiser for Communicating Scientific Ideas and Findings, highlighting Question/prediction as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Method",
-      "Results",
-      "Question/prediction"
+      "A statement linking results to evidence.",
+      "A brighter background.",
+      "A new unrelated question."
     ],
-    "correct": 2,
-    "explanation": "focus belongs under Question/prediction.\nHint: Identify what the entry does in the organiser, then select its heading.",
+    "correct": 0,
+    "explanation": "A statement linking results to evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "focus belongs under Question/prediction.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "A statement linking results to evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-014",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A different class analyses its results. A review recommends, “Use models and concise cues.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A different class analyses its results. A review recommends, “Use models and concise cues.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: Why define technical words for a younger audience?",
+    "audioPrompt": "A follow-up test asks: Why define technical words for a younger audience?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Slide becomes a paragraph wall",
-      "Results displayed without interpretation",
-      "Conclusion repeats prediction only"
+      "It changes the results.",
+      "It helps readers understand without changing the science.",
+      "It hides the evidence."
     ],
-    "correct": 0,
-    "explanation": "The recommendation corrects the claim “Slide becomes a paragraph wall”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 1,
+    "explanation": "It helps readers understand without changing the science.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Slide becomes a paragraph wall”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "It helps readers understand without changing the science.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-015",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A team conducts an independent evidence review. A review recommends, “Attribute external material.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A team conducts an independent evidence review. A review recommends, “Attribute external material.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: Which feature best supports a scientific finding on a poster?",
+    "audioPrompt": "A follow-up test asks: Which feature best supports a scientific finding on a poster?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Results displayed without interpretation",
-      "Sources and image/data origins omitted",
-      "Conclusion repeats prediction only"
+      "An unrelated decoration.",
+      "A huge title with no data.",
+      "A labelled graph with a caption explaining the trend."
     ],
-    "correct": 1,
-    "explanation": "The recommendation corrects the claim “Sources and image/data origins omitted”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 2,
+    "explanation": "A labelled graph with a caption explaining the trend.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Sources and image/data origins omitted”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "A labelled graph with a caption explaining the trend.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9s6i06-t-016",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating scientific ideas and findings",
+    "skill": "communicating findings",
     "printable": true,
     "type": "single",
-    "question": "A student applies the science to an unfamiliar situation. A review recommends, “Preserve accuracy.” Which original claim most clearly needs that revision?",
-    "audioPrompt": "A student applies the science to an unfamiliar situation. A review recommends, “Preserve accuracy.” Which original claim most clearly needs that revision?",
+    "question": "A follow-up test asks: What should stay the same when explaining findings to different audiences?",
+    "audioPrompt": "A follow-up test asks: What should stay the same when explaining findings to different audiences?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
-      "Results displayed without interpretation",
-      "Conclusion repeats prediction only",
-      "Audience adaptation changes facts"
+      "The accuracy of the evidence and conclusion.",
+      "The exact vocabulary level.",
+      "The font colour."
     ],
-    "correct": 2,
-    "explanation": "The recommendation corrects the claim “Audience adaptation changes facts”.\nHint: Match the revision to the specific reasoning error it fixes.",
+    "correct": 0,
+    "explanation": "The accuracy of the evidence and conclusion.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
     "structuredExplanation": {
-      "summary": "The recommendation corrects the claim “Audience adaptation changes facts”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "The accuracy of the evidence and conclusion.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

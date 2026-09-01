@@ -1,1418 +1,1322 @@
 [
   {
-    "id": "AC9S6I05-P-001",
+    "id": "ac9s6i05-p-001",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "During a class investigation, students discuss the evidence. In work about Comparing Methods, Findings and Sources of Error, a record describes “unpredictable variation among measurements”. Which scientific term should label it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. In work about Comparing Methods, Findings and Sources of Error, a record describes “unpredictable variation among measurements”. Which scientific term should label it?",
+    "skill": "errors and conclusions",
+    "question": "Two groups get different dissolving times. What should they compare first?",
+    "audio_prompt": "Two groups get different dissolving times. What should they compare first?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "random error",
+        "text": "Their methods, variables and measurement tools.",
         "is_correct": true
       },
       {
-        "text": "systematic error",
+        "text": "Who is more confident.",
         "is_correct": false
       },
       {
-        "text": "evidence-based conclusion",
+        "text": "Which table looks neater.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "random error means unpredictable variation among measurements.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Their methods, variables and measurement tools.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-002",
+    "id": "ac9s6i05-p-002",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student checks a science notebook. In work about Comparing Methods, Findings and Sources of Error, a record describes “consistent bias in one direction”. Which scientific term should label it?",
-    "audio_prompt": "A student checks a science notebook. In work about Comparing Methods, Findings and Sources of Error, a record describes “consistent bias in one direction”. Which scientific term should label it?",
+    "skill": "errors and conclusions",
+    "question": "What should happen before excluding an outlier?",
+    "audio_prompt": "What should happen before excluding an outlier?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "random error",
+        "text": "Delete it immediately.",
         "is_correct": false
       },
       {
-        "text": "systematic error",
+        "text": "Investigate whether a mistake or unusual condition explains it.",
         "is_correct": true
       },
       {
-        "text": "evidence-based conclusion",
+        "text": "Keep it secret.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "systematic error means consistent bias in one direction.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Investigate whether a mistake or unusual condition explains it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-003",
+    "id": "ac9s6i05-p-003",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A group compares its evidence. In work about Comparing Methods, Findings and Sources of Error, a record describes “claim proportionate to data and method”. Which scientific term should label it?",
-    "audio_prompt": "A group compares its evidence. In work about Comparing Methods, Findings and Sources of Error, a record describes “claim proportionate to data and method”. Which scientific term should label it?",
+    "skill": "errors and conclusions",
+    "question": "Which method difference makes results less comparable?",
+    "audio_prompt": "Which method difference makes results less comparable?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "random error",
+        "text": "All groups used seconds.",
         "is_correct": false
       },
       {
-        "text": "systematic error",
+        "text": "All groups labelled their cups.",
         "is_correct": false
       },
       {
-        "text": "evidence-based conclusion",
+        "text": "One group used hot water while others used room-temperature water.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "evidence-based conclusion means claim proportionate to data and method.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "One group used hot water while others used room-temperature water.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-004",
+    "id": "ac9s6i05-p-004",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "At a science station, the class reviews its work. A student's reasoning is “Different finding equals misconduct”. Which revision corrects it?",
-    "audio_prompt": "At a science station, the class reviews its work. A student's reasoning is “Different finding equals misconduct”. Which revision corrects it?",
+    "skill": "errors and conclusions",
+    "question": "Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "audio_prompt": "Can more repeats fix a thermometer that is always 2 degrees C too high?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Check method and variation.",
+        "text": "No, repeats do not remove systematic calibration error.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Yes, repeats fix every error.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Yes, if the table is colourful.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check method and variation.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "No, repeats do not remove systematic calibration error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-005",
+    "id": "ac9s6i05-p-005",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student reviews a model. A student's reasoning is “Outlier removed because inconvenient”. Which revision corrects it?",
-    "audio_prompt": "A student reviews a model. A student's reasoning is “Outlier removed because inconvenient”. Which revision corrects it?",
+    "skill": "errors and conclusions",
+    "question": "Which conclusion is proportionate?",
+    "audio_prompt": "Which conclusion is proportionate?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Material A is always the best in every situation.",
         "is_correct": false
       },
       {
-        "text": "Investigate first.",
+        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "The prediction must be true because we liked it.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Investigate first.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-006",
+    "id": "ac9s6i05-p-006",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “More repeats fix calibration bias”. Which revision corrects it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. A student's reasoning is “More repeats fix calibration bias”. Which revision corrects it?",
+    "skill": "errors and conclusions",
+    "question": "Why compare findings with others?",
+    "audio_prompt": "Why compare findings with others?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "It proves one group must be dishonest.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "It means your data should be changed.",
         "is_correct": false
       },
       {
-        "text": "Systematic error remains.",
+        "text": "It can reveal method differences, errors or stronger patterns.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Systematic error remains.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "It can reveal method differences, errors or stronger patterns.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-007",
+    "id": "ac9s6i05-p-007",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "During a class investigation, students discuss the evidence. A student's reasoning is “Conclusion ignores scope”. Which revision corrects it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. A student's reasoning is “Conclusion ignores scope”. Which revision corrects it?",
+    "skill": "errors and conclusions",
+    "question": "What is a useful question for further investigation?",
+    "audio_prompt": "What is a useful question for further investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "State conditions and limitations.",
+        "text": "Would the same pattern occur with different material thicknesses?",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Can we ignore the unexpected result?",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Which result is easiest to write?",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "State conditions and limitations.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Would the same pattern occur with different material thicknesses?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-008",
+    "id": "ac9s6i05-p-008",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student checks a science notebook. A science organiser labels one part “A”. Which entry belongs with that label?",
-    "audio_prompt": "A student checks a science notebook. A science organiser labels one part “A”. Which entry belongs with that label?",
+    "skill": "errors and conclusions",
+    "question": "Which source of random error fits manual stopwatch timing?",
+    "audio_prompt": "Which source of random error fits manual stopwatch timing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-p-008",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting A as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "8.5°C; lamp 20 cm; 3 trials",
+        "text": "A ruler with centimetre marks.",
         "is_correct": false
       },
       {
-        "text": "8.2°C; lamp 20 cm; 3 trials",
+        "text": "Different reaction times when starting and stopping the timer.",
         "is_correct": true
       },
       {
-        "text": "12.9°C; lamp 10 cm; 1 trial",
+        "text": "A graph title.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links A with 8.2°C; lamp 20 cm; 3 trials.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Different reaction times when starting and stopping the timer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-009",
+    "id": "ac9s6i05-p-009",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A group compares its evidence. A science organiser labels one part “B”. Which entry belongs with that label?",
-    "audio_prompt": "A group compares its evidence. A science organiser labels one part “B”. Which entry belongs with that label?",
+    "skill": "errors and conclusions",
+    "question": "Two groups get different dissolving times. What should they compare first in a new class investigation?",
+    "audio_prompt": "Two groups get different dissolving times. What should they compare first in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-p-009",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting B as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "8.2°C; lamp 20 cm; 3 trials",
+        "text": "Who is more confident.",
         "is_correct": false
       },
       {
-        "text": "12.9°C; lamp 10 cm; 1 trial",
+        "text": "Which table looks neater.",
         "is_correct": false
       },
       {
-        "text": "8.5°C; lamp 20 cm; 3 trials",
+        "text": "Their methods, variables and measurement tools.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links B with 8.5°C; lamp 20 cm; 3 trials.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Their methods, variables and measurement tools.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-010",
+    "id": "ac9s6i05-p-010",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "At a science station, the class reviews its work. A science organiser labels one part “C”. Which entry belongs with that label?",
-    "audio_prompt": "At a science station, the class reviews its work. A science organiser labels one part “C”. Which entry belongs with that label?",
+    "skill": "errors and conclusions",
+    "question": "What should happen before excluding an outlier in a new class investigation?",
+    "audio_prompt": "What should happen before excluding an outlier in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-p-010",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting C as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "12.9°C; lamp 10 cm; 1 trial",
+        "text": "Investigate whether a mistake or unusual condition explains it.",
         "is_correct": true
       },
       {
-        "text": "8.2°C; lamp 20 cm; 3 trials",
+        "text": "Delete it immediately.",
         "is_correct": false
       },
       {
-        "text": "8.5°C; lamp 20 cm; 3 trials",
+        "text": "Keep it secret.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links C with 12.9°C; lamp 10 cm; 1 trial.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Investigate whether a mistake or unusual condition explains it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-011",
+    "id": "ac9s6i05-p-011",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student reviews a model. A science organiser labels one part “evaluation”. Which entry belongs with that label?",
-    "audio_prompt": "A student reviews a model. A science organiser labels one part “evaluation”. Which entry belongs with that label?",
+    "skill": "errors and conclusions",
+    "question": "Which method difference makes results less comparable in a new class investigation?",
+    "audio_prompt": "Which method difference makes results less comparable in a new class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-p-011",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting evaluation as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "8.2°C; lamp 20 cm; 3 trials",
+        "text": "All groups used seconds.",
         "is_correct": false
       },
       {
-        "text": "A/B comparable; C method differs",
+        "text": "One group used hot water while others used room-temperature water.",
         "is_correct": true
       },
       {
-        "text": "8.5°C; lamp 20 cm; 3 trials",
+        "text": "All groups labelled their cups.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links evaluation with A/B comparable; C method differs.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "One group used hot water while others used room-temperature water.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-012",
+    "id": "ac9s6i05-p-012",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. Which method difference makes Group C less comparable?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. Which method difference makes Group C less comparable?",
+    "skill": "errors and conclusions",
+    "question": "Can more repeats fix a thermometer that is always 2 degrees C too high in a new class investigation?",
+    "audio_prompt": "Can more repeats fix a thermometer that is always 2 degrees C too high in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Same temperature unit",
+        "text": "Yes, repeats fix every error.",
         "is_correct": false
       },
       {
-        "text": "Same material",
+        "text": "Yes, if the table is colourful.",
         "is_correct": false
       },
       {
-        "text": "Different lamp distance and only one trial",
+        "text": "No, repeats do not remove systematic calibration error.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Different lamp distance and only one trial is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "No, repeats do not remove systematic calibration error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-013",
+    "id": "ac9s6i05-p-013",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "During a class investigation, students discuss the evidence. What should happen before excluding an outlier?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. What should happen before excluding an outlier?",
+    "skill": "errors and conclusions",
+    "question": "Which conclusion is proportionate in a new class investigation?",
+    "audio_prompt": "Which conclusion is proportionate in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Check method, instrument and recording evidence",
+        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
         "is_correct": true
       },
       {
-        "text": "Delete it immediately",
+        "text": "Material A is always the best in every situation.",
         "is_correct": false
       },
       {
-        "text": "Replace it with the prediction",
+        "text": "The prediction must be true because we liked it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check method, instrument and recording evidence is supported by the scientific relationship in the question.",
-      "hint": "Check which choice is measurable, evidence-based and consistent with the relevant science."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-014",
+    "id": "ac9s6i05-p-014",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Comparing Methods, Findings and Sources of Error, a record describes “unpredictable variation among measurements”. Which scientific term should label it?",
-    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. In work about Comparing Methods, Findings and Sources of Error, a record describes “unpredictable variation among measurements”. Which scientific term should label it?",
+    "skill": "errors and conclusions",
+    "question": "Why compare findings with others in a new class investigation?",
+    "audio_prompt": "Why compare findings with others in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "systematic error",
+        "text": "It proves one group must be dishonest.",
         "is_correct": false
       },
       {
-        "text": "random error",
+        "text": "It can reveal method differences, errors or stronger patterns.",
         "is_correct": true
       },
       {
-        "text": "evidence-based conclusion",
+        "text": "It means your data should be changed.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "random error means unpredictable variation among measurements.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "It can reveal method differences, errors or stronger patterns.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-015",
+    "id": "ac9s6i05-p-015",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Comparing Methods, Findings and Sources of Error, a record describes “consistent bias in one direction”. Which scientific term should label it?",
-    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. In work about Comparing Methods, Findings and Sources of Error, a record describes “consistent bias in one direction”. Which scientific term should label it?",
+    "skill": "errors and conclusions",
+    "question": "What is a useful question for further investigation in a new class investigation?",
+    "audio_prompt": "What is a useful question for further investigation in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "random error",
+        "text": "Can we ignore the unexpected result?",
         "is_correct": false
       },
       {
-        "text": "evidence-based conclusion",
+        "text": "Which result is easiest to write?",
         "is_correct": false
       },
       {
-        "text": "systematic error",
+        "text": "Would the same pattern occur with different material thicknesses?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "systematic error means consistent bias in one direction.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Would the same pattern occur with different material thicknesses?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-016",
+    "id": "ac9s6i05-p-016",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Comparing Methods, Findings and Sources of Error, a record describes “claim proportionate to data and method”. Which scientific term should label it?",
-    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. In work about Comparing Methods, Findings and Sources of Error, a record describes “claim proportionate to data and method”. Which scientific term should label it?",
+    "skill": "errors and conclusions",
+    "question": "Which source of random error fits manual stopwatch timing in a new class investigation?",
+    "audio_prompt": "Which source of random error fits manual stopwatch timing in a new class investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "evidence-based conclusion",
+        "text": "Different reaction times when starting and stopping the timer.",
         "is_correct": true
       },
       {
-        "text": "random error",
+        "text": "A ruler with centimetre marks.",
         "is_correct": false
       },
       {
-        "text": "systematic error",
+        "text": "A graph title.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "evidence-based conclusion means claim proportionate to data and method.",
-      "hint": "Match every important part of the description to the term."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Different reaction times when starting and stopping the timer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-017",
+    "id": "ac9s6i05-p-017",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Different finding equals misconduct”. Which revision corrects it?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Different finding equals misconduct”. Which revision corrects it?",
+    "skill": "errors and conclusions",
+    "question": "Two groups get different dissolving times. What should they compare first after students review their evidence?",
+    "audio_prompt": "Two groups get different dissolving times. What should they compare first after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Who is more confident.",
         "is_correct": false
       },
       {
-        "text": "Check method and variation.",
+        "text": "Their methods, variables and measurement tools.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Which table looks neater.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check method and variation.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Their methods, variables and measurement tools.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-018",
+    "id": "ac9s6i05-p-018",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Outlier removed because inconvenient”. Which revision corrects it?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Outlier removed because inconvenient”. Which revision corrects it?",
+    "skill": "errors and conclusions",
+    "question": "What should happen before excluding an outlier after students review their evidence?",
+    "audio_prompt": "What should happen before excluding an outlier after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Delete it immediately.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Keep it secret.",
         "is_correct": false
       },
       {
-        "text": "Investigate first.",
+        "text": "Investigate whether a mistake or unusual condition explains it.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Investigate first.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Investigate whether a mistake or unusual condition explains it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-019",
+    "id": "ac9s6i05-p-019",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. A student's reasoning is “More repeats fix calibration bias”. Which revision corrects it?",
-    "audio_prompt": "A student checks a science notebook. The class applies the same scientific idea to a second set of observations. A student's reasoning is “More repeats fix calibration bias”. Which revision corrects it?",
+    "skill": "errors and conclusions",
+    "question": "Which method difference makes results less comparable after students review their evidence?",
+    "audio_prompt": "Which method difference makes results less comparable after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Systematic error remains.",
+        "text": "One group used hot water while others used room-temperature water.",
         "is_correct": true
       },
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "All groups used seconds.",
         "is_correct": false
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "All groups labelled their cups.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Systematic error remains.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "One group used hot water while others used room-temperature water.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-020",
+    "id": "ac9s6i05-p-020",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Conclusion ignores scope”. Which revision corrects it?",
-    "audio_prompt": "A group compares its evidence. The class applies the same scientific idea to a second set of observations. A student's reasoning is “Conclusion ignores scope”. Which revision corrects it?",
+    "skill": "errors and conclusions",
+    "question": "Can more repeats fix a thermometer that is always 2 degrees C too high after students review their evidence?",
+    "audio_prompt": "Can more repeats fix a thermometer that is always 2 degrees C too high after students review their evidence?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Keep the claim because one observation is enough.",
+        "text": "Yes, repeats fix every error.",
         "is_correct": false
       },
       {
-        "text": "State conditions and limitations.",
+        "text": "No, repeats do not remove systematic calibration error.",
         "is_correct": true
       },
       {
-        "text": "Make the claim more certain without collecting more evidence.",
+        "text": "Yes, if the table is colourful.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "State conditions and limitations.",
-      "hint": "Choose the response that corrects the stated misconception without overstating the evidence."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "No, repeats do not remove systematic calibration error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-021",
+    "id": "ac9s6i05-p-021",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “A”. Which entry belongs with that label?",
-    "audio_prompt": "At a science station, the class reviews its work. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “A”. Which entry belongs with that label?",
+    "skill": "errors and conclusions",
+    "question": "Which conclusion is proportionate after students review their evidence?",
+    "audio_prompt": "Which conclusion is proportionate after students review their evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-p-021",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting A as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "8.5°C; lamp 20 cm; 3 trials",
+        "text": "Material A is always the best in every situation.",
         "is_correct": false
       },
       {
-        "text": "12.9°C; lamp 10 cm; 1 trial",
+        "text": "The prediction must be true because we liked it.",
         "is_correct": false
       },
       {
-        "text": "8.2°C; lamp 20 cm; 3 trials",
+        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links A with 8.2°C; lamp 20 cm; 3 trials.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-022",
+    "id": "ac9s6i05-p-022",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “B”. Which entry belongs with that label?",
-    "audio_prompt": "A student reviews a model. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “B”. Which entry belongs with that label?",
+    "skill": "errors and conclusions",
+    "question": "Why compare findings with others after students review their evidence?",
+    "audio_prompt": "Why compare findings with others after students review their evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-p-022",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting B as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "8.5°C; lamp 20 cm; 3 trials",
+        "text": "It can reveal method differences, errors or stronger patterns.",
         "is_correct": true
       },
       {
-        "text": "8.2°C; lamp 20 cm; 3 trials",
+        "text": "It proves one group must be dishonest.",
         "is_correct": false
       },
       {
-        "text": "12.9°C; lamp 10 cm; 1 trial",
+        "text": "It means your data should be changed.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The organiser links B with 8.5°C; lamp 20 cm; 3 trials.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "It can reveal method differences, errors or stronger patterns.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-023",
+    "id": "ac9s6i05-p-023",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “C”. Which entry belongs with that label?",
-    "audio_prompt": "During a field or laboratory discussion, the group checks its reasoning. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “C”. Which entry belongs with that label?",
+    "skill": "errors and conclusions",
+    "question": "What is a useful question for further investigation after students review their evidence?",
+    "audio_prompt": "What is a useful question for further investigation after students review their evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-p-023",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting C as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "8.2°C; lamp 20 cm; 3 trials",
+        "text": "Can we ignore the unexpected result?",
         "is_correct": false
       },
       {
-        "text": "12.9°C; lamp 10 cm; 1 trial",
+        "text": "Would the same pattern occur with different material thicknesses?",
         "is_correct": true
       },
       {
-        "text": "8.5°C; lamp 20 cm; 3 trials",
+        "text": "Which result is easiest to write?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The organiser links C with 12.9°C; lamp 10 cm; 1 trial.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Would the same pattern occur with different material thicknesses?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-P-024",
+    "id": "ac9s6i05-p-024",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "practice",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “evaluation”. Which entry belongs with that label?",
-    "audio_prompt": "During a class investigation, students discuss the evidence. The class applies the same scientific idea to a second set of observations. A science organiser labels one part “evaluation”. Which entry belongs with that label?",
+    "skill": "errors and conclusions",
+    "question": "Which source of random error fits manual stopwatch timing after students review their evidence?",
+    "audio_prompt": "Which source of random error fits manual stopwatch timing after students review their evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-p-024",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting evaluation as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "8.2°C; lamp 20 cm; 3 trials",
+        "text": "A ruler with centimetre marks.",
         "is_correct": false
       },
       {
-        "text": "8.5°C; lamp 20 cm; 3 trials",
+        "text": "A graph title.",
         "is_correct": false
       },
       {
-        "text": "A/B comparable; C method differs",
+        "text": "Different reaction times when starting and stopping the timer.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The organiser links evaluation with A/B comparable; C method differs.",
-      "hint": "Use the role of the labelled part, not just a repeated word."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Different reaction times when starting and stopping the timer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
   },
   {
-    "id": "AC9S6I05-T-001",
+    "id": "ac9s6i05-t-001",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A new investigation report must be checked. A student chose “Delete it immediately”. Reconsider this question using scientific evidence: What should happen before excluding an outlier?",
-    "audio_prompt": "A new investigation report must be checked. A student chose “Delete it immediately”. Reconsider this question using scientific evidence: What should happen before excluding an outlier?",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Which source of random error fits manual stopwatch timing?",
+    "audio_prompt": "A different class checks the same science idea: Which source of random error fits manual stopwatch timing?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Delete it immediately",
-        "is_correct": false
-      },
-      {
-        "text": "Check method, instrument and recording evidence",
+        "text": "Different reaction times when starting and stopping the timer.",
         "is_correct": true
       },
       {
-        "text": "Replace it with the prediction",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check method, instrument and recording evidence is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
-    }
-  },
-  {
-    "id": "AC9S6I05-T-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A different class analyses its results. A student chose “Same temperature unit”. Reconsider this question using scientific evidence: Which method difference makes Group C less comparable?",
-    "audio_prompt": "A different class analyses its results. A student chose “Same temperature unit”. Reconsider this question using scientific evidence: Which method difference makes Group C less comparable?",
-    "visual": {
-      "type": "none",
-      "asset_path": "",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Same temperature unit",
+        "text": "A ruler with centimetre marks.",
         "is_correct": false
       },
       {
-        "text": "Same material",
-        "is_correct": false
-      },
-      {
-        "text": "Different lamp distance and only one trial",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Different lamp distance and only one trial is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
-    }
-  },
-  {
-    "id": "AC9S6I05-T-003",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A team conducts an independent evidence review. A science organiser contains the entry “A/B comparable; C method differs”. Which heading best identifies its role?",
-    "audio_prompt": "A team conducts an independent evidence review. A science organiser contains the entry “A/B comparable; C method differs”. Which heading best identifies its role?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-t-003",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting evaluation as one part of the evidence."
-    },
-    "answers": [
-      {
-        "text": "evaluation",
-        "is_correct": true
-      },
-      {
-        "text": "A",
-        "is_correct": false
-      },
-      {
-        "text": "B",
+        "text": "A graph title.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A/B comparable; C method differs belongs under evaluation.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Different reaction times when starting and stopping the timer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-004",
+    "id": "ac9s6i05-t-002",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “12.9°C; lamp 10 cm; 1 trial”. Which heading best identifies its role?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A science organiser contains the entry “12.9°C; lamp 10 cm; 1 trial”. Which heading best identifies its role?",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: What is a useful question for further investigation?",
+    "audio_prompt": "A different class checks the same science idea: What is a useful question for further investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-t-004",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting C as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "A",
+        "text": "Can we ignore the unexpected result?",
         "is_correct": false
       },
       {
-        "text": "C",
+        "text": "Would the same pattern occur with different material thicknesses?",
         "is_correct": true
       },
       {
-        "text": "B",
+        "text": "Which result is easiest to write?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "12.9°C; lamp 10 cm; 1 trial belongs under C.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "Would the same pattern occur with different material thicknesses?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-005",
+    "id": "ac9s6i05-t-003",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A new investigation report must be checked. A science organiser contains the entry “8.5°C; lamp 20 cm; 3 trials”. Which heading best identifies its role?",
-    "audio_prompt": "A new investigation report must be checked. A science organiser contains the entry “8.5°C; lamp 20 cm; 3 trials”. Which heading best identifies its role?",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Why compare findings with others?",
+    "audio_prompt": "A different class checks the same science idea: Why compare findings with others?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-t-005",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting B as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "A",
+        "text": "It proves one group must be dishonest.",
         "is_correct": false
       },
       {
-        "text": "C",
+        "text": "It means your data should be changed.",
         "is_correct": false
       },
       {
-        "text": "B",
+        "text": "It can reveal method differences, errors or stronger patterns.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "8.5°C; lamp 20 cm; 3 trials belongs under B.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "It can reveal method differences, errors or stronger patterns.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-006",
+    "id": "ac9s6i05-t-004",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A different class analyses its results. A science organiser contains the entry “8.2°C; lamp 20 cm; 3 trials”. Which heading best identifies its role?",
-    "audio_prompt": "A different class analyses its results. A science organiser contains the entry “8.2°C; lamp 20 cm; 3 trials”. Which heading best identifies its role?",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Which conclusion is proportionate?",
+    "audio_prompt": "A different class checks the same science idea: Which conclusion is proportionate?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-t-006",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting A as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "A",
+        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
         "is_correct": true
       },
       {
-        "text": "B",
+        "text": "Material A is always the best in every situation.",
         "is_correct": false
       },
       {
-        "text": "C",
+        "text": "The prediction must be true because we liked it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "8.2°C; lamp 20 cm; 3 trials belongs under A.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-007",
+    "id": "ac9s6i05-t-005",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A team conducts an independent evidence review. A review recommends, “State conditions and limitations.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A team conducts an independent evidence review. A review recommends, “State conditions and limitations.” Which original claim most clearly needs that revision?",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "audio_prompt": "A different class checks the same science idea: Can more repeats fix a thermometer that is always 2 degrees C too high?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Different finding equals misconduct",
+        "text": "Yes, repeats fix every error.",
         "is_correct": false
       },
       {
-        "text": "Conclusion ignores scope",
+        "text": "No, repeats do not remove systematic calibration error.",
         "is_correct": true
       },
       {
-        "text": "Outlier removed because inconvenient",
+        "text": "Yes, if the table is colourful.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Conclusion ignores scope”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "No, repeats do not remove systematic calibration error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-008",
+    "id": "ac9s6i05-t-006",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student applies the science to an unfamiliar situation. A review recommends, “Systematic error remains.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A review recommends, “Systematic error remains.” Which original claim most clearly needs that revision?",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Which method difference makes results less comparable?",
+    "audio_prompt": "A different class checks the same science idea: Which method difference makes results less comparable?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Different finding equals misconduct",
+        "text": "All groups used seconds.",
         "is_correct": false
       },
       {
-        "text": "Outlier removed because inconvenient",
+        "text": "All groups labelled their cups.",
         "is_correct": false
       },
       {
-        "text": "More repeats fix calibration bias",
+        "text": "One group used hot water while others used room-temperature water.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The recommendation corrects the claim “More repeats fix calibration bias”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "One group used hot water while others used room-temperature water.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-009",
+    "id": "ac9s6i05-t-007",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A new investigation report must be checked. A review recommends, “Investigate first.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A new investigation report must be checked. A review recommends, “Investigate first.” Which original claim most clearly needs that revision?",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: What should happen before excluding an outlier?",
+    "audio_prompt": "A different class checks the same science idea: What should happen before excluding an outlier?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Outlier removed because inconvenient",
+        "text": "Investigate whether a mistake or unusual condition explains it.",
         "is_correct": true
       },
       {
-        "text": "Different finding equals misconduct",
+        "text": "Delete it immediately.",
         "is_correct": false
       },
       {
-        "text": "More repeats fix calibration bias",
+        "text": "Keep it secret.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Outlier removed because inconvenient”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Investigate whether a mistake or unusual condition explains it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-010",
+    "id": "ac9s6i05-t-008",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A different class analyses its results. A review recommends, “Check method and variation.” Which original claim most clearly needs that revision?",
-    "audio_prompt": "A different class analyses its results. A review recommends, “Check method and variation.” Which original claim most clearly needs that revision?",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Two groups get different dissolving times. What should they compare first?",
+    "audio_prompt": "A different class checks the same science idea: Two groups get different dissolving times. What should they compare first?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Outlier removed because inconvenient",
+        "text": "Who is more confident.",
         "is_correct": false
       },
       {
-        "text": "Different finding equals misconduct",
+        "text": "Their methods, variables and measurement tools.",
         "is_correct": true
       },
       {
-        "text": "More repeats fix calibration bias",
+        "text": "Which table looks neater.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The recommendation corrects the claim “Different finding equals misconduct”.",
-      "hint": "Match the revision to the specific reasoning error it fixes."
+      "summary": "Their methods, variables and measurement tools.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-011",
+    "id": "ac9s6i05-t-009",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A team conducts an independent evidence review. A student labels an observation “evidence-based conclusion”. Which description shows that term being used correctly?",
-    "audio_prompt": "A team conducts an independent evidence review. A student labels an observation “evidence-based conclusion”. Which description shows that term being used correctly?",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Which source of random error fits manual stopwatch timing?",
+    "audio_prompt": "A follow-up test asks: Which source of random error fits manual stopwatch timing?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "unpredictable variation among measurements",
+        "text": "A ruler with centimetre marks.",
         "is_correct": false
       },
       {
-        "text": "consistent bias in one direction",
+        "text": "A graph title.",
         "is_correct": false
       },
       {
-        "text": "claim proportionate to data and method",
+        "text": "Different reaction times when starting and stopping the timer.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "evidence-based conclusion describes claim proportionate to data and method.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Different reaction times when starting and stopping the timer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-012",
+    "id": "ac9s6i05-t-010",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student applies the science to an unfamiliar situation. A student labels an observation “systematic error”. Which description shows that term being used correctly?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. A student labels an observation “systematic error”. Which description shows that term being used correctly?",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: What is a useful question for further investigation?",
+    "audio_prompt": "A follow-up test asks: What is a useful question for further investigation?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "consistent bias in one direction",
+        "text": "Would the same pattern occur with different material thicknesses?",
         "is_correct": true
       },
       {
-        "text": "unpredictable variation among measurements",
+        "text": "Can we ignore the unexpected result?",
         "is_correct": false
       },
       {
-        "text": "claim proportionate to data and method",
+        "text": "Which result is easiest to write?",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "systematic error describes consistent bias in one direction.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "Would the same pattern occur with different material thicknesses?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-013",
+    "id": "ac9s6i05-t-011",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A new investigation report must be checked. A student labels an observation “random error”. Which description shows that term being used correctly?",
-    "audio_prompt": "A new investigation report must be checked. A student labels an observation “random error”. Which description shows that term being used correctly?",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Why compare findings with others?",
+    "audio_prompt": "A follow-up test asks: Why compare findings with others?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "consistent bias in one direction",
+        "text": "It proves one group must be dishonest.",
         "is_correct": false
       },
       {
-        "text": "unpredictable variation among measurements",
+        "text": "It can reveal method differences, errors or stronger patterns.",
         "is_correct": true
       },
       {
-        "text": "claim proportionate to data and method",
+        "text": "It means your data should be changed.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "random error describes unpredictable variation among measurements.",
-      "hint": "Apply the term to the description that includes all of its important features."
+      "summary": "It can reveal method differences, errors or stronger patterns.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-014",
+    "id": "ac9s6i05-t-012",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A team conducts an independent evidence review. The class applies the same scientific idea to a second set of observations. A student chose “Delete it immediately”. Reconsider this question using scientific evidence: What should happen before excluding an outlier?",
-    "audio_prompt": "A team conducts an independent evidence review. The class applies the same scientific idea to a second set of observations. A student chose “Delete it immediately”. Reconsider this question using scientific evidence: What should happen before excluding an outlier?",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Which conclusion is proportionate?",
+    "audio_prompt": "A follow-up test asks: Which conclusion is proportionate?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Delete it immediately",
+        "text": "Material A is always the best in every situation.",
         "is_correct": false
       },
       {
-        "text": "Replace it with the prediction",
+        "text": "The prediction must be true because we liked it.",
         "is_correct": false
       },
       {
-        "text": "Check method, instrument and recording evidence",
+        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check method, instrument and recording evidence is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-015",
+    "id": "ac9s6i05-t-013",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A student applies the science to an unfamiliar situation. The class applies the same scientific idea to a second set of observations. A student chose “Same temperature unit”. Reconsider this question using scientific evidence: Which method difference makes Group C less comparable?",
-    "audio_prompt": "A student applies the science to an unfamiliar situation. The class applies the same scientific idea to a second set of observations. A student chose “Same temperature unit”. Reconsider this question using scientific evidence: Which method difference makes Group C less comparable?",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "audio_prompt": "A follow-up test asks: Can more repeats fix a thermometer that is always 2 degrees C too high?",
     "visual": {
       "type": "none",
-      "asset_path": "",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Different lamp distance and only one trial",
+        "text": "No, repeats do not remove systematic calibration error.",
         "is_correct": true
       },
       {
-        "text": "Same temperature unit",
+        "text": "Yes, repeats fix every error.",
         "is_correct": false
       },
       {
-        "text": "Same material",
+        "text": "Yes, if the table is colourful.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Different lamp distance and only one trial is the evidence-based choice.",
-      "hint": "Check the relationship in the question and reject the tempting misconception."
+      "summary": "No, repeats do not remove systematic calibration error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   },
   {
-    "id": "AC9S6I05-T-016",
+    "id": "ac9s6i05-t-014",
     "subject": "science",
     "year_level": "Year 6",
     "curriculum_code": "AC9S6I05",
     "bank": "test",
-    "skill": "comparing_methods_findings_and_sources_of_error",
-    "question": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A science organiser contains the entry “A/B comparable; C method differs”. Which heading best identifies its role?",
-    "audio_prompt": "A new investigation report must be checked. The class applies the same scientific idea to a second set of observations. A science organiser contains the entry “A/B comparable; C method differs”. Which heading best identifies its role?",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Which method difference makes results less comparable?",
+    "audio_prompt": "A follow-up test asks: Which method difference makes results less comparable?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year6/science/ac9s6i05.svg#ac9s6i05-t-016",
-      "alt_text": "A Year 6 science organiser for Comparing Methods, Findings and Sources of Error, highlighting evaluation as one part of the evidence."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "A",
+        "text": "All groups used seconds.",
         "is_correct": false
       },
       {
-        "text": "evaluation",
+        "text": "One group used hot water while others used room-temperature water.",
         "is_correct": true
       },
       {
-        "text": "B",
+        "text": "All groups labelled their cups.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A/B comparable; C method differs belongs under evaluation.",
-      "hint": "Identify what the entry does in the organiser, then select its heading."
+      "summary": "One group used hot water while others used room-temperature water.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: What should happen before excluding an outlier?",
+    "audio_prompt": "A follow-up test asks: What should happen before excluding an outlier?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Delete it immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep it secret.",
+        "is_correct": false
+      },
+      {
+        "text": "Investigate whether a mistake or unusual condition explains it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Investigate whether a mistake or unusual condition explains it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Two groups get different dissolving times. What should they compare first?",
+    "audio_prompt": "A follow-up test asks: Two groups get different dissolving times. What should they compare first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Their methods, variables and measurement tools.",
+        "is_correct": true
+      },
+      {
+        "text": "Who is more confident.",
+        "is_correct": false
+      },
+      {
+        "text": "Which table looks neater.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Their methods, variables and measurement tools.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
     }
   }
 ]
