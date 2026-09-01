@@ -56,37 +56,42 @@
     return script;
   }
 
+  function withYear1EnglishStudentFacing(callback) {
+    const loadOverlay = () => {
+      if (window.SkillrYear1EnglishStudentFacing) { callback(); return; }
+      const overlay = loadScript("/assets/year1-english-student-facing.js?v=20260902", "skillr-year1-english-student-facing");
+      overlay?.addEventListener("load", callback, { once:true });
+      setTimeout(() => { if (window.SkillrYear1EnglishStudentFacing) callback(); }, 350);
+    };
+    if (window.SkillrYear1EnglishData) { loadOverlay(); return; }
+    const data = loadScript("/assets/year1-english-data.js?v=2", "skillr-year1-english-data");
+    data?.addEventListener("load", loadOverlay, { once:true });
+    setTimeout(() => { if (window.SkillrYear1EnglishData) loadOverlay(); }, 350);
+  }
+
   if (year1EnglishPracticeTest) {
-    loadScript("/assets/year1-english-practice-quick-read.js?v=1", "skillr-year1-english-quick-read");
+    withYear1EnglishStudentFacing(() => loadScript("/assets/year1-english-practice-quick-read.js?v=3", "skillr-year1-english-quick-read"));
   }
 
   if (year1EnglishWorksheet) {
-    loadScript("/assets/year1-english-worksheet-page.js?v=1", "skillr-year1-english-worksheet");
+    withYear1EnglishStudentFacing(() => loadScript("/assets/year1-english-worksheet-page.js?v=3", "skillr-year1-english-worksheet"));
   }
 
   if (year1EnglishTopic) {
-    const dataScript = loadScript("/assets/year1-english-data.js?v=1", "skillr-year1-english-data");
-    const loadRenderer = () => loadScript("/assets/year1-english-render.js?v=1", "skillr-year1-english-render");
-    if (window.SkillrYear1EnglishData) loadRenderer();
-    else dataScript?.addEventListener("load", loadRenderer, { once: true });
-    setTimeout(() => { if (window.SkillrYear1EnglishData) loadRenderer(); }, 500);
+    withYear1EnglishStudentFacing(() => loadScript("/assets/year1-english-render.js?v=3", "skillr-year1-english-render"));
   }
 
   function cleanHeadings() {
     document.querySelectorAll("h2,h3").forEach((heading) => {
       const text = (heading.textContent || "").trim();
-      if (/^(?:⚠️\s*)?fix these$/i.test(text)) {
-        heading.textContent = "Common Mix-Ups";
-      }
+      if (/^(?:⚠️\s*)?fix these$/i.test(text)) heading.textContent = "Common Mix-Ups";
     });
   }
 
   function removeWeakFallbackCopy() {
     document.querySelectorAll("p").forEach((paragraph) => {
       const text = (paragraph.textContent || "").replace(/\s+/g, " ").trim();
-      if (/^If not:\s*return to the concrete\/visual teaching model\.?$/i.test(text)) {
-        paragraph.remove();
-      }
+      if (/^If not:\s*return to the concrete\/visual teaching model\.?$/i.test(text)) paragraph.remove();
     });
   }
 
