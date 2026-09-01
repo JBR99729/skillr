@@ -7,27 +7,24 @@ window.skillrPracticeQuestions = [
     "skill": "identify formality level",
     "printable": true,
     "type": "single",
-    "question": "Which request best suits a formal email?",
-    "audioPrompt": "Which request best suits a formal email?",
+    "question": "Mia is emailing the school principal about a damaged playground. Which sentence is most appropriate?",
+    "audioPrompt": "Mia is emailing the school principal about a damaged playground. Which sentence is most appropriate?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Could you please review the attached proposal?",
-      "Hey, look at this now",
-      "Send it",
-      "Yo, thoughts?"
+      "Could you please consider repairing the damaged playground equipment?",
+      "Hey, can you fix the playground?",
+      "Oi, the playground needs fixing.",
+      "You need to repair it right now."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates identify formality level in the stated context.\nHint: Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
+    "explanation": "The first sentence is respectful, clear and suitable for writing to a principal.\nHint: Formal language should suit the audience and purpose; it does not need unnecessarily complicated words.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates identify formality level in the stated context.",
-      "hint": "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language."
+      "summary": "The first sentence is respectful, clear and suitable for writing to a principal.",
+      "hint": "Formal language should suit the audience and purpose; it does not need unnecessarily complicated words."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-p-002",
@@ -36,27 +33,24 @@ window.skillrPracticeQuestions = [
     "skill": "register",
     "printable": true,
     "type": "single",
-    "question": "Which term means “language variety or style associated with context”?",
-    "audioPrompt": "Which term means “language variety or style associated with context”?",
+    "question": "A student speaks casually with a close friend but more formally during a school presentation. What has changed?",
+    "audioPrompt": "A student speaks casually with a close friend but more formally during a school presentation. What has changed?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "social distance",
-      "register",
-      "authority",
-      "Formal means complex vocabulary"
+      "The social distance",
+      "The register",
+      "The spelling rules",
+      "The topic only"
     ],
     "correct": 1,
-    "explanation": "register means language variety or style associated with context.\nHint: Match the definition to the most precise term used in Formality, Social Distance and Authority.",
+    "explanation": "Register is the variety or style of language chosen for a particular context.\nHint: Think about how the speaker changes their language to suit the situation.",
     "structuredExplanation": {
-      "summary": "register means language variety or style associated with context.",
-      "hint": "Match the definition to the most precise term used in Formality, Social Distance and Authority."
+      "summary": "Register is the variety or style of language chosen for a particular context.",
+      "hint": "Think about how the speaker changes their language to suit the situation."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-p-003",
@@ -65,27 +59,24 @@ window.skillrPracticeQuestions = [
     "skill": "explain social distance",
     "printable": true,
     "type": "single",
-    "question": "Which wording uses inclusive authority?",
-    "audioPrompt": "Which wording uses inclusive authority?",
+    "question": "A team captain wants everyone to follow a safety rule without sounding bossy. Which sentence best uses inclusive authority?",
+    "audioPrompt": "A team captain wants everyone to follow a safety rule without sounding bossy. Which sentence best uses inclusive authority?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Do it because I said so",
-      "People like you cannot understand",
-      "Let us examine the evidence together",
-      "Whatever"
+      "Do it because I said so.",
+      "People like you never listen.",
+      "Let's make sure we all wear our helmets before we start.",
+      "Whatever, do what you want."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
+    "explanation": "The inclusive word 'we' lets the captain exercise authority while including the whole group.\nHint: Authority can be expressed through language choices other than direct commands.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+      "summary": "The inclusive word 'we' lets the captain exercise authority while including the whole group.",
+      "hint": "Authority can be expressed through language choices other than direct commands."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-p-004",
@@ -94,27 +85,24 @@ window.skillrPracticeQuestions = [
     "skill": "misconception repair",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Formal means complex vocabulary.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Formal means complex vocabulary.” Which response best corrects the misunderstanding?",
+    "question": "Which sentence is the best example of appropriate formal language in an email to a principal?",
+    "audioPrompt": "Which sentence is the best example of appropriate formal language in an email to a principal?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Questions, inclusive pronouns and modality can exercise authority",
-      "Varieties have conventions and serve identities",
-      "Analyse a pattern and context",
-      "Clarity and appropriateness matter more than inflated words"
+      "I hereby endeavour to utilise an extraordinarily sophisticated request.",
+      "Hey, I need you to change the rule.",
+      "Change the rule immediately.",
+      "I would appreciate the opportunity to discuss the rule with you."
     ],
     "correct": 3,
-    "explanation": "Clarity and appropriateness matter more than inflated words\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "Formal language is clear and appropriate for the audience. It does not mean using the most complicated vocabulary possible.\nHint: Choose the sentence that sounds respectful and natural for the situation.",
     "structuredExplanation": {
-      "summary": "Clarity and appropriateness matter more than inflated words",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "Formal language is clear and appropriate for the audience. It does not mean using the most complicated vocabulary possible.",
+      "hint": "Choose the sentence that sounds respectful and natural for the situation."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-p-005",
@@ -123,27 +111,24 @@ window.skillrPracticeQuestions = [
     "skill": "map one request across social distance",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Formality, Social Distance and Authority?",
-    "audioPrompt": "Which pairing accurately reflects the model for Formality, Social Distance and Authority?",
+    "question": "Sam wants the lesson notes. Which request best suits a close friend?",
+    "audioPrompt": "Sam wants the lesson notes. Which request best suits a close friend?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "close friend → Can you send me the notes? → low distance; direct",
-      "low distance; direct → Can you send me the notes? → close friend",
-      "teacher → Could you please send the lesson notes? → respectful role awareness",
-      "Authority always uses commands"
+      "Can you send me the notes?",
+      "Dear Sir or Madam, I respectfully request the lesson notes.",
+      "Could you please provide the lesson notes at your earliest convenience, Principal Lee?",
+      "Students are hereby instructed to provide all lesson notes."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language.",
+    "explanation": "A direct, casual request is suitable when the speakers know each other well.\nHint: As social distance changes, the language used for the same purpose can change too.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language."
+      "summary": "A direct, casual request is suitable when the speakers know each other well.",
+      "hint": "As social distance changes, the language used for the same purpose can change too."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-p-006",
@@ -152,27 +137,24 @@ window.skillrPracticeQuestions = [
     "skill": "concept principle",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Formality, Social Distance and Authority?",
-    "audioPrompt": "Which principle should guide a response about Formality, Social Distance and Authority?",
+    "question": "Which statement about formal and informal language is correct?",
+    "audioPrompt": "Which statement about formal and informal language is correct?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Formal means complex vocabulary",
-      "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language",
-      "Authority always uses commands",
-      "Informal variety is incorrect"
+      "Formal language always uses long and difficult words.",
+      "The most suitable level of formality depends on the audience, purpose and relationship.",
+      "Informal language is always incorrect.",
+      "People with authority always give commands."
     ],
     "correct": 1,
-    "explanation": "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "Formality changes according to context; neither formal nor informal language is automatically better.\nHint: Ask what language best suits the people, purpose and situation.",
     "structuredExplanation": {
-      "summary": "Formality is a continuum, not a simple polite/rude split. Authority can be accepted, negotiated or challenged through language",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "Formality changes according to context; neither formal nor informal language is automatically better.",
+      "hint": "Ask what language best suits the people, purpose and situation."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-p-007",
@@ -181,27 +163,24 @@ window.skillrPracticeQuestions = [
     "skill": "guided application",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Rewrite one message for a friend, a teacher and a formal committee, explaining every change?",
-    "audioPrompt": "Which plan would best complete this task: Rewrite one message for a friend, a teacher and a formal committee, explaining every change?",
+    "question": "A student writes to a teacher, 'Send me the worksheet tonight.' Which revision best suits the relationship?",
+    "audioPrompt": "A student writes to a teacher, 'Send me the worksheet tonight.' Which revision best suits the relationship?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "Yo, send the worksheet.",
+      "The worksheet must be sent tonight.",
+      "Could you please send me the worksheet when you have a chance?",
+      "Worksheet. Now."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
+    "explanation": "The revised request is polite and recognises the teacher-student relationship without becoming unnecessarily wordy.\nHint: Look for wording that changes the level of directness appropriately.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+      "summary": "The revised request is polite and recognises the teacher-student relationship without becoming unnecessarily wordy.",
+      "hint": "Look for wording that changes the level of directness appropriately."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la01-p-008",
@@ -210,27 +189,24 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Formality, Social Distance and Authority?",
-    "audioPrompt": "Which evidence would best show secure understanding of Formality, Social Distance and Authority?",
+    "question": "A coach says, 'Could we all be ready on the field by 8:00?' What does this wording show?",
+    "audioPrompt": "A coach says, 'Could we all be ready on the field by 8:00?' What does this wording show?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "visualMeta": { "type": "none", "alt_text": "" },
     "answers": [
-      "Formal means complex vocabulary",
-      "Authority always uses commands",
-      "Informal variety is incorrect",
-      "Students compare vocabulary, modality, terms of address, humour and interaction patterns across contexts and explain how language constructs closeness, expertise, authority or resistance The response also explains its evidence and limitations."
+      "The coach has no authority because it is phrased as a question.",
+      "The sentence is informal, so it must be incorrect.",
+      "Authority can only be shown by giving a direct order.",
+      "The coach uses a question and the inclusive word 'we' to exercise authority in a less direct way."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "Authority does not always appear as a command. Questions, modality and inclusive pronouns can also guide other people's actions.\nHint: Consider both the coach's role and the language choices in the sentence.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Authority does not always appear as a command. Questions, modality and inclusive pronouns can also guide other people's actions.",
+      "hint": "Consider both the coach's role and the language choices in the sentence."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
