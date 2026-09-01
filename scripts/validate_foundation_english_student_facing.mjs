@@ -45,6 +45,7 @@ for (const code of expected) {
   if (!Array.isArray(practice) || practice.length !== 40) throw new Error(`${code}: practice bank must contain 40 questions.`);
   if (practice.some(q=>q.type !== 'single' || q.answers?.length !== 3 || !Number.isInteger(q.correct) || q.correct < 0 || q.correct > 2)) throw new Error(`${code}: malformed practice MCQ.`);
   if (new Set(practice.map(q=>q.id)).size !== 40) throw new Error(`${code}: duplicate practice ids.`);
+  if (new Set(practice.map(q=>q.correct)).size !== 3) throw new Error(`${code}: correct options must appear across A, B and C.`);
   const worksheet = api.buildWorksheet(code);
   if (!worksheet || worksheet.questions?.length !== 10) throw new Error(`${code}: worksheet must contain 10 questions.`);
   if (worksheet.questions.filter(q=>q.enrichment).length !== 2) throw new Error(`${code}: worksheet must contain 8 core + 2 extension questions.`);
