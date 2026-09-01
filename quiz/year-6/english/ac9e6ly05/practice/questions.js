@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6ly05-p-001",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "skill": "build inference",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which statement is an inference?",
-    "audioPrompt": "Which statement is an inference?",
+    "question": "A reader predicts that a character will lie, then later evidence proves the opposite. What should the reader do?",
+    "audioPrompt": "A reader predicts that a character will lie, then later evidence proves the opposite. What should the reader do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The service may face pressure if the decline continues",
-      "The graph labels 12%",
-      "The heading is Demand",
-      "The table has four rows"
+      "Revise the prediction to fit the new evidence.",
+      "Keep the first prediction even when evidence changes.",
+      "Summarise by copying every sentence.",
+      "Make an inference without evidence."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates build inference in the stated context.\nHint: Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+    "explanation": "Revise the prediction to fit the new evidence.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates build inference in the stated context.",
-      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+      "summary": "Revise the prediction to fit the new evidence.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-p-002",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "skill": "inference",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which term means “meaning built from evidence and knowledge”?",
-    "audioPrompt": "Which term means “meaning built from evidence and knowledge”?",
+    "question": "Which detail supports an inference that Omar is nervous?",
+    "audioPrompt": "Which detail supports an inference that Omar is nervous?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "monitoring",
-      "inference",
-      "evaluation",
-      "Prediction defended after contradiction"
+      "Summarise by copying every sentence.",
+      "He taps his pencil and avoids looking at the stage.",
+      "Make an inference without evidence.",
+      "Ignore differences between sources."
     ],
     "correct": 1,
-    "explanation": "inference means meaning built from evidence and knowledge.\nHint: Match the definition to the most precise term used in Comprehension, Inference and Critical Evaluation.",
+    "explanation": "He taps his pencil and avoids looking at the stage.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "inference means meaning built from evidence and knowledge.",
-      "hint": "Match the definition to the most precise term used in Comprehension, Inference and Critical Evaluation."
+      "summary": "He taps his pencil and avoids looking at the stage.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-p-003",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "skill": "revise prediction",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which is a valid evaluation criterion?",
-    "audioPrompt": "Which is a valid evaluation criterion?",
+    "question": "What is the best summary of a paragraph?",
+    "audioPrompt": "What is the best summary of a paragraph?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "whether the reader likes the topic",
-      "the font alone",
-      "sample quality and evidence transparency",
-      "personal agreement"
+      "Make an inference without evidence.",
+      "Ignore differences between sources.",
+      "It states the main idea and key support without copying every detail.",
+      "Keep the first prediction even when evidence changes."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "explanation": "It states the main idea and key support without copying every detail.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "It states the main idea and key support without copying every detail.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-p-004",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Prediction defended after contradiction.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Prediction defended after contradiction.” Which response best corrects the misunderstanding?",
+    "question": "Why compare two sources on the same event?",
+    "audioPrompt": "Why compare two sources on the same event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Select central relationships",
-      "Link it to interpretation",
-      "Use evidence and criteria",
-      "Revise with evidence"
+      "Ignore differences between sources.",
+      "Keep the first prediction even when evidence changes.",
+      "Summarise by copying every sentence.",
+      "To notice agreements, differences and possible bias."
     ],
     "correct": 3,
-    "explanation": "Revise with evidence\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "To notice agreements, differences and possible bias.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Revise with evidence",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "To notice agreements, differences and possible bias.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-p-005",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "skill": "use a strategic comprehension cycle",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Comprehension, Inference and Critical Evaluation?",
-    "audioPrompt": "Which pairing accurately reflects the model for Comprehension, Inference and Critical Evaluation?",
+    "question": "Which question checks credibility?",
+    "audioPrompt": "Which question checks credibility?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "level → example",
-      "example → level",
-      "literal → The graph shows a 12% decline.",
-      "Summary becomes retell"
+      "Who made this, when, and what evidence do they use?",
+      "Keep the first prediction even when evidence changes.",
+      "Summarise by copying every sentence.",
+      "Make an inference without evidence."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+    "explanation": "Who made this, when, and what evidence do they use?\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+      "summary": "Who made this, when, and what evidence do they use?",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-p-006",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Comprehension, Inference and Critical Evaluation?",
-    "audioPrompt": "Which principle should guide a response about Comprehension, Inference and Critical Evaluation?",
+    "question": "A metaphor makes the classroom sound like a beehive. What can you infer?",
+    "audioPrompt": "A metaphor makes the classroom sound like a beehive. What can you infer?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Prediction defended after contradiction",
-      "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question",
-      "Summary becomes retell",
-      "Connection becomes unrelated anecdote"
+      "Summarise by copying every sentence.",
+      "The room is busy, noisy and full of movement.",
+      "Make an inference without evidence.",
+      "Ignore differences between sources."
     ],
     "correct": 1,
-    "explanation": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "The room is busy, noisy and full of movement.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "The room is busy, noisy and full of movement.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-p-007",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Use three purposeful strategies on a complex multimodal text and explain the evidence gained from each?",
-    "audioPrompt": "Which plan would best complete this task: Use three purposeful strategies on a complex multimodal text and explain the evidence gained from each?",
+    "question": "Which strategy helps when a text becomes confusing?",
+    "audioPrompt": "Which strategy helps when a text becomes confusing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "Make an inference without evidence.",
+      "Ignore differences between sources.",
+      "Pause, reread, and connect pronouns or ideas back to earlier sentences.",
+      "Keep the first prediction even when evidence changes."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "explanation": "Pause, reread, and connect pronouns or ideas back to earlier sentences.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "Pause, reread, and connect pronouns or ideas back to earlier sentences.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-p-008",
     "curriculumCode": "AC9E6LY05",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Comprehension, Inference and Critical Evaluation?",
-    "audioPrompt": "Which evidence would best show secure understanding of Comprehension, Inference and Critical Evaluation?",
+    "question": "Which evaluation uses both evidence and judgement?",
+    "audioPrompt": "Which evaluation uses both evidence and judgement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Prediction defended after contradiction",
-      "Summary becomes retell",
-      "Connection becomes unrelated anecdote",
-      "Students select strategies for purpose, integrate literal and implied evidence, revise mental models, summarise relationships and evaluate credibility, craft and representation The response also explains its evidence and limitations."
+      "Ignore differences between sources.",
+      "Keep the first prediction even when evidence changes.",
+      "Summarise by copying every sentence.",
+      "The article is useful for dates, but its one-sided interviews limit its fairness."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "The article is useful for dates, but its one-sided interviews limit its fairness.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "The article is useful for dates, but its one-sided interviews limit its fairness.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6ly08-t-001",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "phoneme",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies phoneme?",
-    "audioPrompt": "In a new text, which definition correctly identifies phoneme?",
+    "question": "Test example: In sign, why is the g not pronounced?",
+    "audioPrompt": "Test example: In sign, why is the g not pronounced?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Smallest contrastive speech sound",
-      "Letter or letters representing a phoneme",
-      "Relative prominence of a syllable",
-      "Guess from first letters"
+      "English spelling often preserves word history or related forms.",
+      "Spell only by sound and ignore word patterns.",
+      "One letter always has one sound.",
+      "Stress never affects pronunciation."
     ],
     "correct": 0,
-    "explanation": "phoneme means smallest contrastive speech sound.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "English spelling often preserves word history or related forms.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "phoneme means smallest contrastive speech sound.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "English spelling often preserves word history or related forms.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-t-002",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Guess from first letters.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Guess from first letters.” What is the most effective revision?",
+    "question": "Test example: pair shows the same sound spelled differently?",
+    "audioPrompt": "Test example: pair shows the same sound spelled differently?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "English patterns vary",
-      "Process full word",
-      "Cross-check written evidence",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "One letter always has one sound.",
+      "rain and day",
+      "Stress never affects pronunciation.",
+      "Related words cannot help spelling."
     ],
     "correct": 1,
-    "explanation": "Process full word\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "rain and day\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Process full word",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "rain and day",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-t-003",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "analyse complex sound letter patterns",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “ch → chair / chorus / chef”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “ch → chair / chorus / chef”?",
+    "question": "Test example: which word has c pronounced as s?",
+    "audioPrompt": "Test example: which word has c pronounced as s?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Complex Grapheme–Phoneme Patterns, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "Stress never affects pronunciation.",
+      "Related words cannot help spelling.",
+      "city",
+      "Spell only by sound and ignore word patterns."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
+    "explanation": "city\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
+      "summary": "city",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-t-004",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "use a strategic decoding and spelling routine",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "When applying Complex Grapheme–Phoneme Patterns to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Complex Grapheme–Phoneme Patterns to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: check syllables when spelling unfamiliar words?",
+    "audioPrompt": "Test example: check syllables when spelling unfamiliar words?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Related words cannot help spelling.",
+      "Spell only by sound and ignore word patterns.",
+      "One letter always has one sound.",
+      "Syllables help break the word into manageable sound and spelling parts."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "explanation": "Syllables help break the word into manageable sound and spelling parts.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "Syllables help break the word into manageable sound and spelling parts.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-t-005",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "stress",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of stress?",
-    "audioPrompt": "Which example best demonstrates an understanding of stress?",
+    "question": "Test example: which word changes pronunciation when the suffix is added?",
+    "audioPrompt": "Test example: which word changes pronunciation when the suffix is added?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Relative prominence of a syllable, identified using evidence from the text.",
-      "Context replaces decoding",
-      "Syllables cut at every vowel letter",
-      "A general comment that does not use the text."
+      "produce → production",
+      "Spell only by sound and ignore word patterns.",
+      "One letter always has one sound.",
+      "Stress never affects pronunciation."
     ],
     "correct": 0,
-    "explanation": "stress is relative prominence of a syllable.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "produce → production\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "stress is relative prominence of a syllable.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "produce → production",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-t-006",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Complex Grapheme–Phoneme Patterns?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Complex Grapheme–Phoneme Patterns?",
+    "question": "Test example: spells nature as nacher. What should they notice?",
+    "audioPrompt": "Test example: spells nature as nacher. What should they notice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "One letter always has one sound.",
+      "The /ch/ sound is spelled t in this word pattern.",
+      "Stress never affects pronunciation.",
+      "Related words cannot help spelling."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "The /ch/ sound is spelled t in this word pattern.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "The /ch/ sound is spelled t in this word pattern.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-t-007",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Create a teaching map for one variable grapheme using words grouped by pronunciation and origin?",
-    "audioPrompt": "Which response plan best addresses this challenge: Create a teaching map for one variable grapheme using words grouped by pronunciation and origin?",
+    "question": "Test example: strategy best helps with the word photograph?",
+    "audioPrompt": "Test example: strategy best helps with the word photograph?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "Stress never affects pronunciation.",
+      "Related words cannot help spelling.",
+      "Connect photo, photograph and photography to meaning and stress changes.",
+      "Spell only by sound and ignore word patterns."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "explanation": "Connect photo, photograph and photography to meaning and stress changes.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "Connect photo, photograph and photography to meaning and stress changes.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-t-008",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Compare two words with similar spelling but different stress or sound patterns and explain?",
-    "audioPrompt": "Which approach best addresses this evaluation: Compare two words with similar spelling but different stress or sound patterns and explain?",
+    "question": "Test example: can one grapheme have more than one pronunciation?",
+    "audioPrompt": "Test example: can one grapheme have more than one pronunciation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "Related words cannot help spelling.",
+      "Spell only by sound and ignore word patterns.",
+      "One letter always has one sound.",
+      "English words come from different origins and patterns."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "English words come from different origins and patterns.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "English words come from different origins and patterns.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

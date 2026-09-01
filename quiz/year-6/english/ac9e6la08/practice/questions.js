@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6la08-p-001",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "skill": "identify metaphor",
+    "skill": "vocabulary effects",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses metaphor?",
-    "audioPrompt": "Which sentence uses metaphor?",
+    "question": "Which phrase creates the strongest image of quiet movement?",
+    "audioPrompt": "Which phrase creates the strongest image of quiet movement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The city was a furnace.",
-      "The city temperature was 39°C.",
-      "The city had roads.",
-      "The city is large."
+      "The cat slipped silently through the grass.",
+      "The word choice has no effect on mood.",
+      "Figurative language must be explained as literal fact.",
+      "The strongest word is always the longest one."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates identify metaphor in the stated context.\nHint: A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+    "explanation": "The cat slipped silently through the grass.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates identify metaphor in the stated context.",
-      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
+      "summary": "The cat slipped silently through the grass.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la08-p-002",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "skill": "metaphor",
+    "skill": "vocabulary effects",
     "printable": true,
     "type": "single",
-    "question": "Which term means “conceptual comparison describing one thing as another”?",
-    "audioPrompt": "Which term means “conceptual comparison describing one thing as another”?",
+    "question": "In The crowd erupted, what effect does erupted create?",
+    "audioPrompt": "In The crowd erupted, what effect does erupted create?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "personification",
-      "metaphor",
-      "connotation",
-      "Device name treated as analysis"
+      "Figurative language must be explained as literal fact.",
+      "It suggests sudden, powerful noise or movement.",
+      "The strongest word is always the longest one.",
+      "Vivid vocabulary means adding many adjectives."
     ],
     "correct": 1,
-    "explanation": "metaphor means conceptual comparison describing one thing as another.\nHint: Match the definition to the most precise term used in Vivid and Emotive Vocabulary.",
+    "explanation": "It suggests sudden, powerful noise or movement.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "metaphor means conceptual comparison describing one thing as another.",
-      "hint": "Match the definition to the most precise term used in Vivid and Emotive Vocabulary."
+      "summary": "It suggests sudden, powerful noise or movement.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la08-p-003",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "skill": "explain connotation",
+    "skill": "vocabulary effects",
     "printable": true,
     "type": "single",
-    "question": "Which word has the most negative connotation in this set?",
-    "audioPrompt": "Which word has the most negative connotation in this set?",
+    "question": "Which word is most emotive in The abandoned puppy trembled beside the gate?",
+    "audioPrompt": "Which word is most emotive in The abandoned puppy trembled beside the gate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "slender",
-      "thin",
-      "scrawny",
-      "narrow"
+      "The strongest word is always the longest one.",
+      "Vivid vocabulary means adding many adjectives.",
+      "abandoned",
+      "The word choice has no effect on mood."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "explanation": "abandoned\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "abandoned",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la08-p-004",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "vocabulary effects",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Device name treated as analysis.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Device name treated as analysis.” Which response best corrects the misunderstanding?",
+    "question": "Which sentence uses figurative language effectively?",
+    "audioPrompt": "Which sentence uses figurative language effectively?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Connotation can threaten, praise or ridicule",
-      "Check coherence of image system",
-      "Quote or describe exact wording",
-      "Explain framing and effect"
+      "Vivid vocabulary means adding many adjectives.",
+      "The word choice has no effect on mood.",
+      "Figurative language must be explained as literal fact.",
+      "The moon hung like a silver coin above the oval."
     ],
     "correct": 3,
-    "explanation": "Explain framing and effect\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "The moon hung like a silver coin above the oval.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Explain framing and effect",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "The moon hung like a silver coin above the oval.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la08-p-005",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "skill": "analyse a sustained metaphor",
+    "skill": "vocabulary effects",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Vivid and Emotive Vocabulary?",
-    "audioPrompt": "Which pairing accurately reflects the model for Vivid and Emotive Vocabulary?",
+    "question": "Why is tiny cottage different from cramped cottage?",
+    "audioPrompt": "Why is tiny cottage different from cramped cottage?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The city was a furnace. → frames heat as enclosing and dangerous",
-      "frames heat as enclosing and dangerous → The city was a furnace.",
-      "Roads were glowing veins. → extends city-as-body imagery",
-      "All vivid language is positive"
+      "Tiny can sound gentle or small; cramped suggests uncomfortable lack of space.",
+      "The word choice has no effect on mood.",
+      "Figurative language must be explained as literal fact.",
+      "The strongest word is always the longest one."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme.",
+    "explanation": "Tiny can sound gentle or small; cramped suggests uncomfortable lack of space.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme."
+      "summary": "Tiny can sound gentle or small; cramped suggests uncomfortable lack of space.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la08-p-006",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "vocabulary effects",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Vivid and Emotive Vocabulary?",
-    "audioPrompt": "Which principle should guide a response about Vivid and Emotive Vocabulary?",
+    "question": "Which word choice would suit a calm factual report?",
+    "audioPrompt": "Which word choice would suit a calm factual report?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme",
-      "All vivid language is positive",
-      "Mixed metaphors ignored"
+      "Figurative language must be explained as literal fact.",
+      "The storm damaged three houses.",
+      "The strongest word is always the longest one.",
+      "Vivid vocabulary means adding many adjectives."
     ],
     "correct": 1,
-    "explanation": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "The storm damaged three houses.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A metaphor is not simply decorative. It frames one domain through another and can sustain a viewpoint or theme",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "The storm damaged three houses.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la08-p-007",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "vocabulary effects",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Analyse a vivid passage for one extended image, verb choices and emotional positioning?",
-    "audioPrompt": "Which plan would best complete this task: Analyse a vivid passage for one extended image, verb choices and emotional positioning?",
+    "question": "A writer describes clouds as bruised purple. What mood is suggested?",
+    "audioPrompt": "A writer describes clouds as bruised purple. What mood is suggested?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "The strongest word is always the longest one.",
+      "Vivid vocabulary means adding many adjectives.",
+      "A gloomy or uneasy mood.",
+      "The word choice has no effect on mood."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label.",
+    "explanation": "A gloomy or uneasy mood.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
+      "summary": "A gloomy or uneasy mood.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la08-p-008",
     "curriculumCode": "AC9E6LA08",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "vocabulary effects",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Vivid and Emotive Vocabulary?",
-    "audioPrompt": "Which evidence would best show secure understanding of Vivid and Emotive Vocabulary?",
+    "question": "Which revision replaces vague vocabulary with vivid detail?",
+    "audioPrompt": "Which revision replaces vague vocabulary with vivid detail?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Device name treated as analysis",
-      "All vivid language is positive",
-      "Mixed metaphors ignored",
-      "Students identify figurative and evaluative choices, explain conceptual and emotional effects in context and create controlled imagery rather than listing devices The response also explains its evidence and limitations."
+      "Vivid vocabulary means adding many adjectives.",
+      "The word choice has no effect on mood.",
+      "Figurative language must be explained as literal fact.",
+      "The bus rattled over the loose gravel."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "The bus rattled over the loose gravel.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "The bus rattled over the loose gravel.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

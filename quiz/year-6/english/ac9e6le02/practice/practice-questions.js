@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6le02-p-001",
     "curriculumCode": "AC9E6LE02",
     "bank": "practice",
-    "skill": "state similarity",
+    "skill": "theme comparison",
     "printable": true,
     "type": "single",
-    "question": "Which comparison is most analytical?",
-    "audioPrompt": "Which comparison is most analytical?",
+    "question": "Two stories both show friendship during a storm. What is the strongest comparison?",
+    "audioPrompt": "Two stories both show friendship during a storm. What is the strongest comparison?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both texts explore belonging, but one links it to peers while the other links it to family history",
-      "Both texts contain people",
-      "Text A is longer",
-      "The covers differ"
+      "Compare how each friendship is tested and what the ending suggests about trust.",
+      "It lists that both texts have characters and settings only.",
+      "It compares only one text.",
+      "It treats different endings as having the same meaning."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates state similarity in the stated context.\nHint: A shared theme such as belonging is not identical in each text. Context and craft define what belonging means and how it is resolved.",
+    "explanation": "Compare how each friendship is tested and what the ending suggests about trust.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates state similarity in the stated context.",
-      "hint": "A shared theme such as belonging is not identical in each text. Context and craft define what belonging means and how it is resolved."
+      "summary": "Compare how each friendship is tested and what the ending suggests about trust.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le02-p-002",
     "curriculumCode": "AC9E6LE02",
     "bank": "practice",
-    "skill": "theme",
+    "skill": "theme comparison",
     "printable": true,
     "type": "single",
-    "question": "Which term means “idea explored through a literary text”?",
-    "audioPrompt": "Which term means “idea explored through a literary text”?",
+    "question": "Which comparison goes beyond listing surface features?",
+    "audioPrompt": "Which comparison goes beyond listing surface features?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "comparative analysis",
-      "theme",
-      "synthesis",
-      "Shared topic treated as shared message"
+      "It compares only one text.",
+      "Both texts use a journey, but one shows growth while the other shows escape.",
+      "It treats different endings as having the same meaning.",
+      "It gives preference without evidence."
     ],
     "correct": 1,
-    "explanation": "theme means idea explored through a literary text.\nHint: Match the definition to the most precise term used in Comparing Literary Texts on Similar Topics or Themes.",
+    "explanation": "Both texts use a journey, but one shows growth while the other shows escape.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "theme means idea explored through a literary text.",
-      "hint": "Match the definition to the most precise term used in Comparing Literary Texts on Similar Topics or Themes."
+      "summary": "Both texts use a journey, but one shows growth while the other shows escape.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le02-p-003",
     "curriculumCode": "AC9E6LE02",
     "bank": "practice",
-    "skill": "find evidence in both",
+    "skill": "theme comparison",
     "printable": true,
     "type": "single",
-    "question": "What should a synthesis do?",
-    "audioPrompt": "What should a synthesis do?",
+    "question": "Story A ends with forgiveness; Story B ends with separation. What should a reader compare?",
+    "audioPrompt": "Story A ends with forgiveness; Story B ends with separation. What should a reader compare?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Retell one plot",
-      "List quotations without explanation",
-      "Draw a combined conclusion from both texts",
-      "Choose a winner only"
+      "It treats different endings as having the same meaning.",
+      "It gives preference without evidence.",
+      "How each ending changes the meaning of the conflict.",
+      "It lists that both texts have characters and settings only."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison.",
+    "explanation": "How each ending changes the meaning of the conflict.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison."
+      "summary": "How each ending changes the meaning of the conflict.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le02-p-004",
     "curriculumCode": "AC9E6LE02",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "theme comparison",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Shared topic treated as shared message.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Shared topic treated as shared message.” Which response best corrects the misunderstanding?",
+    "question": "Which detail is most useful when comparing settings?",
+    "audioPrompt": "Which detail is most useful when comparing settings?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Explain significance",
-      "Support both sides",
-      "Show effect on plot, viewpoint or theme",
-      "Analyse how each text develops it"
+      "It gives preference without evidence.",
+      "It lists that both texts have characters and settings only.",
+      "It compares only one text.",
+      "How the setting creates pressure on the characters."
     ],
     "correct": 3,
-    "explanation": "Analyse how each text develops it\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "How the setting creates pressure on the characters.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Analyse how each text develops it",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "How the setting creates pressure on the characters.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le02-p-005",
     "curriculumCode": "AC9E6LE02",
     "bank": "practice",
-    "skill": "compare two texts about belonging",
+    "skill": "theme comparison",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Comparing Literary Texts on Similar Topics or Themes?",
-    "audioPrompt": "Which pairing accurately reflects the model for Comparing Literary Texts on Similar Topics or Themes?",
+    "question": "Two poems describe the ocean, one as playful and one as dangerous. What creates the difference?",
+    "audioPrompt": "Two poems describe the ocean, one as playful and one as dangerous. What creates the difference?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context → new student in city school → family returning to ancestral town",
-      "family returning to ancestral town → new student in city school → context",
-      "viewpoint → first person → alternating third person",
-      "Comparison lists features only"
+      "Different imagery and word choices.",
+      "It lists that both texts have characters and settings only.",
+      "It compares only one text.",
+      "It treats different endings as having the same meaning."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: A shared theme such as belonging is not identical in each text. Context and craft define what belonging means and how it is resolved.",
+    "explanation": "Different imagery and word choices.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "A shared theme such as belonging is not identical in each text. Context and craft define what belonging means and how it is resolved."
+      "summary": "Different imagery and word choices.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le02-p-006",
     "curriculumCode": "AC9E6LE02",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "theme comparison",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Comparing Literary Texts on Similar Topics or Themes?",
-    "audioPrompt": "Which principle should guide a response about Comparing Literary Texts on Similar Topics or Themes?",
+    "question": "Which statement compares viewpoints?",
+    "audioPrompt": "Which statement compares viewpoints?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Shared topic treated as shared message",
-      "A shared theme such as belonging is not identical in each text. Context and craft define what belonging means and how it is resolved",
-      "Comparison lists features only",
-      "Evidence comes from one text"
+      "It compares only one text.",
+      "The first narrator admires the city, while the second feels trapped by it.",
+      "It treats different endings as having the same meaning.",
+      "It gives preference without evidence."
     ],
     "correct": 1,
-    "explanation": "A shared theme such as belonging is not identical in each text. Context and craft define what belonging means and how it is resolved\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "The first narrator admires the city, while the second feels trapped by it.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A shared theme such as belonging is not identical in each text. Context and craft define what belonging means and how it is resolved",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "The first narrator admires the city, while the second feels trapped by it.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le02-p-007",
     "curriculumCode": "AC9E6LE02",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "theme comparison",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Compare how two texts use setting and symbol to represent the same broad theme differently?",
-    "audioPrompt": "Which plan would best complete this task: Compare how two texts use setting and symbol to represent the same broad theme differently?",
+    "question": "Why should comparisons use evidence from both texts?",
+    "audioPrompt": "Why should comparisons use evidence from both texts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "It treats different endings as having the same meaning.",
+      "It gives preference without evidence.",
+      "A claim about similarity or difference needs support from both sides.",
+      "It lists that both texts have characters and settings only."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison.",
+    "explanation": "A claim about similarity or difference needs support from both sides.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison."
+      "summary": "A claim about similarity or difference needs support from both sides.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le02-p-008",
     "curriculumCode": "AC9E6LE02",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "theme comparison",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Comparing Literary Texts on Similar Topics or Themes?",
-    "audioPrompt": "Which evidence would best show secure understanding of Comparing Literary Texts on Similar Topics or Themes?",
+    "question": "Which comparison of themes is strongest?",
+    "audioPrompt": "Which comparison of themes is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Shared topic treated as shared message",
-      "Comparison lists features only",
-      "Evidence comes from one text",
-      "Students compare central ideas, plot patterns, relationships, setting, viewpoint, imagery and resolution and explain how differences create distinct meanings rather than listing surface features The response also explains its evidence and limitations."
+      "It gives preference without evidence.",
+      "It lists that both texts have characters and settings only.",
+      "It compares only one text.",
+      "Both texts explore courage, but one presents it as speaking up and the other as staying loyal."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "Both texts explore courage, but one presents it as speaking up and the other as staying loyal.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Both texts explore courage, but one presents it as speaking up and the other as staying loyal.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

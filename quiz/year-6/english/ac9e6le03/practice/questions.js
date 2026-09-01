@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6le03-p-001",
     "curriculumCode": "AC9E6LE03",
     "bank": "practice",
-    "skill": "identify recurring pattern",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "What best supports a claim about authorial style?",
-    "audioPrompt": "What best supports a claim about authorial style?",
+    "question": "Across three stories, an author often uses short sentences during danger. What style feature is this?",
+    "audioPrompt": "Across three stories, an author often uses short sentences during danger. What style feature is this?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A recurring combination of choices across several texts",
-      "One isolated adjective",
-      "The author’s photograph",
-      "A single plot fact"
+      "A pattern in syntax that affects pace.",
+      "One sentence from one story proves the whole style.",
+      "Style means topic only.",
+      "The author’s voice cannot appear across different texts."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates identify recurring pattern in the stated context.\nHint: One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions.",
+    "explanation": "A pattern in syntax that affects pace.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates identify recurring pattern in the stated context.",
-      "hint": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions."
+      "summary": "A pattern in syntax that affects pace.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-p-002",
@@ -36,8 +36,8 @@ window.skillrPracticeQuestions = [
     "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which term means “recurring distinctive pattern of craft choices”?",
-    "audioPrompt": "Which term means “recurring distinctive pattern of craft choices”?",
+    "question": "Which evidence best shows a recurring authorial voice?",
+    "audioPrompt": "Which evidence best shows a recurring authorial voice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "narrator",
-      "authorial style",
-      "motif",
-      "Narrator and author treated as identical"
+      "Style means topic only.",
+      "Several narrators use dry jokes when events become tense.",
+      "The author’s voice cannot appear across different texts.",
+      "Pace is unrelated to sentence choices."
     ],
     "correct": 1,
-    "explanation": "authorial style means recurring distinctive pattern of craft choices.\nHint: Match the definition to the most precise term used in Authorial Style and Voice.",
+    "explanation": "Several narrators use dry jokes when events become tense.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "authorial style means recurring distinctive pattern of craft choices.",
-      "hint": "Match the definition to the most precise term used in Authorial Style and Voice."
+      "summary": "Several narrators use dry jokes when events become tense.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-p-003",
     "curriculumCode": "AC9E6LE03",
     "bank": "practice",
-    "skill": "separate author narrator",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which may be a motif?",
-    "audioPrompt": "Which may be a motif?",
+    "question": "An author often mixes humour with serious moments. What should a reader explain?",
+    "audioPrompt": "An author often mixes humour with serious moments. What should a reader explain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "One random comma",
-      "The page number",
-      "A recurring image of locked doors",
-      "The publisher logo"
+      "The author’s voice cannot appear across different texts.",
+      "Pace is unrelated to sentence choices.",
+      "How the humour changes the reader’s response to the serious idea.",
+      "One sentence from one story proves the whole style."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+    "explanation": "How the humour changes the reader’s response to the serious idea.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "How the humour changes the reader’s response to the serious idea.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-p-004",
     "curriculumCode": "AC9E6LE03",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Narrator and author treated as identical.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Narrator and author treated as identical.” Which response best corrects the misunderstanding?",
+    "question": "Which statement avoids a weak generalisation about style?",
+    "audioPrompt": "Which statement avoids a weak generalisation about style?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use patterns across texts",
-      "Compare with wider genre patterns",
-      "Explain how choices shape reading",
-      "The narrator is a crafted textual role"
+      "Pace is unrelated to sentence choices.",
+      "One sentence from one story proves the whole style.",
+      "Style means topic only.",
+      "In these chapters, the author often uses clipped dialogue to show tension."
     ],
     "correct": 3,
-    "explanation": "The narrator is a crafted textual role\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "In these chapters, the author often uses clipped dialogue to show tension.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The narrator is a crafted textual role",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "In these chapters, the author often uses clipped dialogue to show tension.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-p-005",
     "curriculumCode": "AC9E6LE03",
     "bank": "practice",
-    "skill": "build an authorial style profile",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Authorial Style and Voice?",
-    "audioPrompt": "Which pairing accurately reflects the model for Authorial Style and Voice?",
+    "question": "A writer repeatedly describes ordinary objects in strange ways. What might this create?",
+    "audioPrompt": "A writer repeatedly describes ordinary objects in strange ways. What might this create?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "narration → close first person with gaps → intimacy and uncertainty",
-      "intimacy and uncertainty → close first person with gaps → narration",
-      "syntax → short fragments at turning points → emphasis and pace",
-      "One quotation defines style"
+      "A distinctive imaginative voice.",
+      "One sentence from one story proves the whole style.",
+      "Style means topic only.",
+      "The author’s voice cannot appear across different texts."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions.",
+    "explanation": "A distinctive imaginative voice.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions."
+      "summary": "A distinctive imaginative voice.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-p-006",
     "curriculumCode": "AC9E6LE03",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Authorial Style and Voice?",
-    "audioPrompt": "Which principle should guide a response about Authorial Style and Voice?",
+    "question": "Which pair of features could work together to create a fast pace?",
+    "audioPrompt": "Which pair of features could work together to create a fast pace?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Narrator and author treated as identical",
-      "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions",
-      "One quotation defines style",
-      "Genre convention credited only to author"
+      "Style means topic only.",
+      "Short sentences and quick scene changes.",
+      "The author’s voice cannot appear across different texts.",
+      "Pace is unrelated to sentence choices."
     ],
     "correct": 1,
-    "explanation": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "Short sentences and quick scene changes.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "Short sentences and quick scene changes.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-p-007",
     "curriculumCode": "AC9E6LE03",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Create an authorial-style profile using recurring syntax, imagery, viewpoint and themes from at least two texts?",
-    "audioPrompt": "Which plan would best complete this task: Create an authorial-style profile using recurring syntax, imagery, viewpoint and themes from at least two texts?",
+    "question": "Why compare more than one text by the same author?",
+    "audioPrompt": "Why compare more than one text by the same author?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "The author’s voice cannot appear across different texts.",
+      "Pace is unrelated to sentence choices.",
+      "Recurring choices are easier to see across several texts.",
+      "One sentence from one story proves the whole style."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+    "explanation": "Recurring choices are easier to see across several texts.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "Recurring choices are easier to see across several texts.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-p-008",
     "curriculumCode": "AC9E6LE03",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Authorial Style and Voice?",
-    "audioPrompt": "Which evidence would best show secure understanding of Authorial Style and Voice?",
+    "question": "Which comment best explains voice?",
+    "audioPrompt": "Which comment best explains voice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Narrator and author treated as identical",
-      "One quotation defines style",
-      "Genre convention credited only to author",
-      "Students compare several texts by an author, identify recurring patterns and explain how combinations of syntax, imagery, humour, pacing, narration and theme create recognisable style The response also explains its evidence and limitations."
+      "Pace is unrelated to sentence choices.",
+      "One sentence from one story proves the whole style.",
+      "Style means topic only.",
+      "The narrator sounds curious and slightly sarcastic because of the questions and playful comparisons."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "The narrator sounds curious and slightly sarcastic because of the questions and playful comparisons.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "The narrator sounds curious and slightly sarcastic because of the questions and playful comparisons.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

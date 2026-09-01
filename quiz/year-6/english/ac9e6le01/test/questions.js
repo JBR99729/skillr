@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6le01-t-001",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "skill": "context",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies context?",
-    "audioPrompt": "In a new text, which definition correctly identifies context?",
+    "question": "Test example: Leo refuses to share the map because he fears the group will get lost. Which judgement uses evidence fairly?",
+    "audioPrompt": "Test example: Leo refuses to share the map because he fears the group will get lost. Which judgement uses evidence fairly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Historical, social or cultural conditions relevant to meaning",
-      "Interpretation or evaluation developed by a reader",
-      "Specific wording, event or visual detail supporting a claim",
-      "Historical character judged without context"
+      "Leo may seem controlling, but his fear explains why he acts that way.",
+      "The response ignores what the character actually does.",
+      "One reader response must be the only possible one.",
+      "The judgement relies on a stereotype instead of evidence."
     ],
     "correct": 0,
-    "explanation": "context means historical, social or cultural conditions relevant to meaning.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "Leo may seem controlling, but his fear explains why he acts that way.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "context means historical, social or cultural conditions relevant to meaning.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "Leo may seem controlling, but his fear explains why he acts that way.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-t-002",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Historical character judged without context.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Historical character judged without context.” What is the most effective revision?",
+    "question": "Test example: Two readers disagree about a character who breaks a rule to help a friend. What should they compare first?",
+    "audioPrompt": "Test example: Two readers disagree about a character who breaks a rule to help a friend. What should they compare first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Explain feature and evidence",
-      "Consider available norms and constraints",
-      "Context explains but does not remove evaluation",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "One reader response must be the only possible one.",
+      "The character’s motives, consequences and the values in the text.",
+      "The judgement relies on a stereotype instead of evidence.",
+      "The narrator’s choice has no effect on the reader."
     ],
     "correct": 1,
-    "explanation": "Consider available norms and constraints\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "The character’s motives, consequences and the values in the text.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Consider available norms and constraints",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "The character’s motives, consequences and the values in the text.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-t-003",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "skill": "build a contextual character response",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “Context → The institution expects unquestioned obedience”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “Context → The institution expects unquestioned obedience”?",
+    "question": "Test example: response avoids stereotyping a character?",
+    "audioPrompt": "Test example: response avoids stereotyping a character?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Responses to Characters and Events across Contexts, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "The judgement relies on a stereotype instead of evidence.",
+      "The narrator’s choice has no effect on the reader.",
+      "Ari makes a rushed choice because he is under pressure in this scene.",
+      "The response ignores what the character actually does."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
+    "explanation": "Ari makes a rushed choice because he is under pressure in this scene.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place."
+      "summary": "Ari makes a rushed choice because he is under pressure in this scene.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-t-004",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "skill": "compare reader positions",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "When applying Responses to Characters and Events across Contexts to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Responses to Characters and Events across Contexts to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: A narrator hides why Mina is angry until the final page. How might this affect readers?",
+    "audioPrompt": "Test example: A narrator hides why Mina is angry until the final page. How might this affect readers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "The narrator’s choice has no effect on the reader.",
+      "The response ignores what the character actually does.",
+      "One reader response must be the only possible one.",
+      "They may judge Mina harshly at first, then reconsider later."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "They may judge Mina harshly at first, then reconsider later.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "They may judge Mina harshly at first, then reconsider later.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-t-005",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "skill": "textual evidence",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of textual evidence?",
-    "audioPrompt": "Which example best demonstrates an understanding of textual evidence?",
+    "question": "Test example: evidence best supports a claim about a character being brave?",
+    "audioPrompt": "Test example: evidence best supports a claim about a character being brave?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Specific wording, event or visual detail supporting a claim, identified using evidence from the text.",
-      "Context used to excuse all actions",
-      "One perspective generalised to a culture",
-      "A general comment that does not use the text."
+      "She enters the dark shed to rescue the younger child despite being scared.",
+      "The response ignores what the character actually does.",
+      "One reader response must be the only possible one.",
+      "The judgement relies on a stereotype instead of evidence."
     ],
     "correct": 0,
-    "explanation": "textual evidence is specific wording, event or visual detail supporting a claim.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "She enters the dark shed to rescue the younger child despite being scared.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "textual evidence is specific wording, event or visual detail supporting a claim.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "She enters the dark shed to rescue the younger child despite being scared.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-t-006",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Responses to Characters and Events across Contexts?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Responses to Characters and Events across Contexts?",
+    "question": "Test example: can readers from different contexts respond differently to the same event?",
+    "audioPrompt": "Test example: can readers from different contexts respond differently to the same event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "One reader response must be the only possible one.",
+      "Experiences and values can shape what readers notice and judge.",
+      "The judgement relies on a stereotype instead of evidence.",
+      "The narrator’s choice has no effect on the reader."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "Experiences and values can shape what readers notice and judge.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "Experiences and values can shape what readers notice and judge.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-t-007",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Write a response that changes after new contextual information is revealed, explaining the revision?",
-    "audioPrompt": "Which response plan best addresses this challenge: Write a response that changes after new contextual information is revealed, explaining the revision?",
+    "question": "Test example: interpretation stays within the evidence?",
+    "audioPrompt": "Test example: interpretation stays within the evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "The judgement relies on a stereotype instead of evidence.",
+      "The narrator’s choice has no effect on the reader.",
+      "The text suggests Jay is jealous because he clenches his fists when Sam is praised.",
+      "The response ignores what the character actually does."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "The text suggests Jay is jealous because he clenches his fists when Sam is praised.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The text suggests Jay is jealous because he clenches his fists when Sam is praised.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-t-008",
     "curriculumCode": "AC9E6LE01",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Evaluate when historical context should complicate moral judgement without eliminating it?",
-    "audioPrompt": "Which approach best addresses this evaluation: Evaluate when historical context should complicate moral judgement without eliminating it?",
+    "question": "Test example: A character apologises but repeats the same hurtful action. What is a fair response?",
+    "audioPrompt": "Test example: A character apologises but repeats the same hurtful action. What is a fair response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "The narrator’s choice has no effect on the reader.",
+      "The response ignores what the character actually does.",
+      "One reader response must be the only possible one.",
+      "The apology matters, but the repeated action makes the change incomplete."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "The apology matters, but the repeated action makes the change incomplete.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "The apology matters, but the repeated action makes the change incomplete.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6le05-p-001",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "skill": "identify mentor technique",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which approach is genuine adaptation?",
-    "audioPrompt": "Which approach is genuine adaptation?",
+    "question": "A writer borrows the idea of a locked door from a mystery but sets it in a space station. What must change?",
+    "audioPrompt": "A writer borrows the idea of a locked door from a mystery but sets it in a space station. What must change?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the mentor text’s suspense structure with new events, setting and characters",
-      "Copy the plot and change names",
-      "Repeat exact descriptions",
-      "Keep the same ending unchanged"
+      "The details, causes and consequences must fit the new setting.",
+      "Copy the original plot exactly.",
+      "Change the setting but ignore motivation.",
+      "Add random events without cause and effect."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates identify mentor technique in the stated context.\nHint: Adapt technique and structural function, not exact wording, event sequence or character identities.",
+    "explanation": "The details, causes and consequences must fit the new setting.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates identify mentor technique in the stated context.",
-      "hint": "Adapt technique and structural function, not exact wording, event sequence or character identities."
+      "summary": "The details, causes and consequences must fit the new setting.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-p-002",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "skill": "adaptation",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which term means “transformation of source techniques into a new text”?",
-    "audioPrompt": "Which term means “transformation of source techniques into a new text”?",
+    "question": "Which adaptation keeps a character motivation clear?",
+    "audioPrompt": "Which adaptation keeps a character motivation clear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "character motivation",
-      "adaptation",
-      "plot causality",
-      "Adaptation copies story with renamed characters"
+      "Change the setting but ignore motivation.",
+      "A shy character enters the debate because their friend is being blamed unfairly.",
+      "Add random events without cause and effect.",
+      "Keep style and purpose disconnected."
     ],
     "correct": 1,
-    "explanation": "adaptation means transformation of source techniques into a new text.\nHint: Match the definition to the most precise term used in Adapting Plot, Character, Setting and Style.",
+    "explanation": "A shy character enters the debate because their friend is being blamed unfairly.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "adaptation means transformation of source techniques into a new text.",
-      "hint": "Match the definition to the most precise term used in Adapting Plot, Character, Setting and Style."
+      "summary": "A shy character enters the debate because their friend is being blamed unfairly.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-p-003",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "skill": "plan original transformation",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which revision makes setting functional?",
-    "audioPrompt": "Which revision makes setting functional?",
+    "question": "Why is copying a whole plot not strong adaptation?",
+    "audioPrompt": "Why is copying a whole plot not strong adaptation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The room is blue",
-      "The setting is named once",
-      "A flood blocks the only route and forces a decision",
-      "The background never affects events"
+      "Add random events without cause and effect.",
+      "Keep style and purpose disconnected.",
+      "Adaptation should transform techniques for a new purpose, not simply repeat them.",
+      "Copy the original plot exactly."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "explanation": "Adaptation should transform techniques for a new purpose, not simply repeat them.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "Adaptation should transform techniques for a new purpose, not simply repeat them.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-p-004",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Adaptation copies story with renamed characters.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Adaptation copies story with renamed characters.” Which response best corrects the misunderstanding?",
+    "question": "Which setting detail creates pressure on the character?",
+    "audioPrompt": "Which setting detail creates pressure on the character?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use foreshadowing and causal logic",
-      "Make it constrain or enable action",
-      "Show through choices and consequences",
-      "Transform context, decisions and language"
+      "Keep style and purpose disconnected.",
+      "Copy the original plot exactly.",
+      "Change the setting but ignore motivation.",
+      "The oxygen warning flashes with ten minutes remaining."
     ],
     "correct": 3,
-    "explanation": "Transform context, decisions and language\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "The oxygen warning flashes with ten minutes remaining.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Transform context, decisions and language",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "The oxygen warning flashes with ten minutes remaining.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-p-005",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "skill": "transform rather than copy a mentor text",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Adapting Plot, Character, Setting and Style?",
-    "audioPrompt": "Which pairing accurately reflects the model for Adapting Plot, Character, Setting and Style?",
+    "question": "A student changes a fairy tale into a school election story. What should stay coherent?",
+    "audioPrompt": "A student changes a fairy tale into a school election story. What should stay coherent?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "begin at climax → open with failed space-station repair",
-      "open with failed space-station repair → begin at climax",
-      "unreliable first person → narrator misunderstands sensor warnings",
-      "Twist has no preparation"
+      "The conflict, character choices and ending should make sense in the new context.",
+      "Copy the original plot exactly.",
+      "Change the setting but ignore motivation.",
+      "Add random events without cause and effect."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: Adapt technique and structural function, not exact wording, event sequence or character identities.",
+    "explanation": "The conflict, character choices and ending should make sense in the new context.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Adapt technique and structural function, not exact wording, event sequence or character identities."
+      "summary": "The conflict, character choices and ending should make sense in the new context.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-p-006",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Adapting Plot, Character, Setting and Style?",
-    "audioPrompt": "Which principle should guide a response about Adapting Plot, Character, Setting and Style?",
+    "question": "Which revision improves cause and effect?",
+    "audioPrompt": "Which revision improves cause and effect?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Adaptation copies story with renamed characters",
-      "Adapt technique and structural function, not exact wording, event sequence or character identities",
-      "Twist has no preparation",
-      "Setting is decorative"
+      "Change the setting but ignore motivation.",
+      "Because the key is missing, Talia searches the old office before the deadline.",
+      "Add random events without cause and effect.",
+      "Keep style and purpose disconnected."
     ],
     "correct": 1,
-    "explanation": "Adapt technique and structural function, not exact wording, event sequence or character identities\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "Because the key is missing, Talia searches the old office before the deadline.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Adapt technique and structural function, not exact wording, event sequence or character identities",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "Because the key is missing, Talia searches the old office before the deadline.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-p-007",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Plan an original story adapting one structural technique, one viewpoint feature and one motif from mentor texts?",
-    "audioPrompt": "Which plan would best complete this task: Plan an original story adapting one structural technique, one viewpoint feature and one motif from mentor texts?",
+    "question": "Which choice adapts style rather than plot?",
+    "audioPrompt": "Which choice adapts style rather than plot?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "Add random events without cause and effect.",
+      "Keep style and purpose disconnected.",
+      "Keeping the original author’s playful exaggeration while using a new event.",
+      "Copy the original plot exactly."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "explanation": "Keeping the original author’s playful exaggeration while using a new event.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "Keeping the original author’s playful exaggeration while using a new event.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-p-008",
     "curriculumCode": "AC9E6LE05",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Adapting Plot, Character, Setting and Style?",
-    "audioPrompt": "Which evidence would best show secure understanding of Adapting Plot, Character, Setting and Style?",
+    "question": "What is the best check after adapting a scene?",
+    "audioPrompt": "What is the best check after adapting a scene?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Adaptation copies story with renamed characters",
-      "Twist has no preparation",
-      "Setting is decorative",
-      "Students identify transferable craft techniques, transform them into an original context and revise cause–effect structure, character motivation, setting pressure, viewpoint and language coherence The response also explains its evidence and limitations."
+      "Keep style and purpose disconnected.",
+      "Copy the original plot exactly.",
+      "Change the setting but ignore motivation.",
+      "Check whether motivation, setting and language choices work together."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "Check whether motivation, setting and language choices work together.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Check whether motivation, setting and language choices work together.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

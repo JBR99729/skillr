@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6la05-p-001",
     "curriculumCode": "AC9E6LA05",
     "bank": "practice",
-    "skill": "find head noun",
+    "skill": "embedded clauses",
     "printable": true,
     "type": "single",
-    "question": "What does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
-    "audioPrompt": "What does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "question": "Which sentence contains an embedded clause?",
+    "audioPrompt": "Which sentence contains an embedded clause?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "sensor",
-      "42°C",
-      "checked",
-      "the"
+      "The robot that won the contest used recycled parts.",
+      "The clause is the main action of the sentence.",
+      "The commas show the information is essential for identifying the noun.",
+      "The clause should always be removed."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates find head noun in the stated context.\nHint: The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
+    "explanation": "The robot that won the contest used recycled parts.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates find head noun in the stated context.",
-      "hint": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’"
+      "summary": "The robot that won the contest used recycled parts.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la05-p-002",
     "curriculumCode": "AC9E6LA05",
     "bank": "practice",
-    "skill": "embedded clause",
+    "skill": "embedded clauses",
     "printable": true,
     "type": "single",
-    "question": "Which term means “clause functioning inside another grammatical structure”?",
-    "audioPrompt": "Which term means “clause functioning inside another grammatical structure”?",
+    "question": "In The book that Max borrowed was overdue, what is the embedded clause?",
+    "audioPrompt": "In The book that Max borrowed was overdue, what is the embedded clause?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "relative clause",
-      "embedded clause",
-      "head noun",
-      "Every dependent clause called embedded"
+      "The commas show the information is essential for identifying the noun.",
+      "that Max borrowed",
+      "The clause should always be removed.",
+      "Every dependent clause is embedded inside a noun group."
     ],
     "correct": 1,
-    "explanation": "embedded clause means clause functioning inside another grammatical structure.\nHint: Match the definition to the most precise term used in Embedded Clauses in Complex Sentences.",
+    "explanation": "that Max borrowed\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "embedded clause means clause functioning inside another grammatical structure.",
-      "hint": "Match the definition to the most precise term used in Embedded Clauses in Complex Sentences."
+      "summary": "that Max borrowed",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la05-p-003",
     "curriculumCode": "AC9E6LA05",
     "bank": "practice",
-    "skill": "remove embedded clause",
+    "skill": "embedded clauses",
     "printable": true,
     "type": "single",
-    "question": "Which version treats the information as supplementary?",
-    "audioPrompt": "Which version treats the information as supplementary?",
+    "question": "Which sentence uses commas to add extra, non-essential information?",
+    "audioPrompt": "Which sentence uses commas to add extra, non-essential information?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The sensor which failed was new.",
-      "Which was new.",
-      "The sensor, which was new, failed.",
-      "The new sensor"
+      "The clause should always be removed.",
+      "Every dependent clause is embedded inside a noun group.",
+      "Our guide, who knew the track well, led the group safely.",
+      "The clause is the main action of the sentence."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+    "explanation": "Our guide, who knew the track well, led the group safely.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+      "summary": "Our guide, who knew the track well, led the group safely.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la05-p-004",
     "curriculumCode": "AC9E6LA05",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "embedded clauses",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Every dependent clause called embedded.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Every dependent clause called embedded.” Which response best corrects the misunderstanding?",
+    "question": "Which sentence changes meaning if the clause is removed?",
+    "audioPrompt": "Which sentence changes meaning if the clause is removed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Place clause next to the noun expanded",
-      "Essential and supplementary meanings differ",
-      "Remove embedding to test the main structure",
-      "Embedding concerns structural position"
+      "Every dependent clause is embedded inside a noun group.",
+      "The clause is the main action of the sentence.",
+      "The commas show the information is essential for identifying the noun.",
+      "The students who finished early began the extension task."
     ],
     "correct": 3,
-    "explanation": "Embedding concerns structural position\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "The students who finished early began the extension task.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Embedding concerns structural position",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "The students who finished early began the extension task.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la05-p-005",
     "curriculumCode": "AC9E6LA05",
     "bank": "practice",
-    "skill": "embed a relative clause inside a noun group",
+    "skill": "embedded clauses",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Embedded Clauses in Complex Sentences?",
-    "audioPrompt": "Which pairing accurately reflects the model for Embedded Clauses in Complex Sentences?",
+    "question": "A student writes: The cyclist, who won yesterday, trains daily. What do the commas show?",
+    "audioPrompt": "A student writes: The cyclist, who won yesterday, trains daily. What do the commas show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "head noun → sensor",
-      "sensor → head noun",
-      "embedded clause → that recorded the highest value",
-      "Head noun unclear"
+      "The clause adds information about the cyclist rather than identifying which cyclist.",
+      "The clause is the main action of the sentence.",
+      "The commas show the information is essential for identifying the noun.",
+      "The clause should always be removed."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
+    "explanation": "The clause adds information about the cyclist rather than identifying which cyclist.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’"
+      "summary": "The clause adds information about the cyclist rather than identifying which cyclist.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la05-p-006",
     "curriculumCode": "AC9E6LA05",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "embedded clauses",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Embedded Clauses in Complex Sentences?",
-    "audioPrompt": "Which principle should guide a response about Embedded Clauses in Complex Sentences?",
+    "question": "Which noun group includes extra information inside it?",
+    "audioPrompt": "Which noun group includes extra information inside it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every dependent clause called embedded",
-      "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
-      "Head noun unclear",
-      "Commas added to every relative clause"
+      "The commas show the information is essential for identifying the noun.",
+      "the painting that hangs near the entrance",
+      "The clause should always be removed.",
+      "Every dependent clause is embedded inside a noun group."
     ],
     "correct": 1,
-    "explanation": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "the painting that hangs near the entrance\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "the painting that hangs near the entrance",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la05-p-007",
     "curriculumCode": "AC9E6LA05",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "embedded clauses",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Write two versions of a sentence where comma use changes whether a relative clause identifies or merely adds information?",
-    "audioPrompt": "Which plan would best complete this task: Write two versions of a sentence where comma use changes whether a relative clause identifies or merely adds information?",
+    "question": "Which sentence is punctuated most clearly?",
+    "audioPrompt": "Which sentence is punctuated most clearly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "The clause should always be removed.",
+      "Every dependent clause is embedded inside a noun group.",
+      "The river, which had risen overnight, covered the lower path.",
+      "The clause is the main action of the sentence."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+    "explanation": "The river, which had risen overnight, covered the lower path.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+      "summary": "The river, which had risen overnight, covered the lower path.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la05-p-008",
     "curriculumCode": "AC9E6LA05",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "embedded clauses",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Embedded Clauses in Complex Sentences?",
-    "audioPrompt": "Which evidence would best show secure understanding of Embedded Clauses in Complex Sentences?",
+    "question": "Why can embedded clauses make writing more precise?",
+    "audioPrompt": "Why can embedded clauses make writing more precise?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every dependent clause called embedded",
-      "Head noun unclear",
-      "Commas added to every relative clause",
-      "Students identify clauses embedded inside noun groups or other structures, distinguish them from dependent clauses functioning around a main clause and punctuate restrictive and supplementary information clearly The response also explains its evidence and limitations."
+      "Every dependent clause is embedded inside a noun group.",
+      "The clause is the main action of the sentence.",
+      "The commas show the information is essential for identifying the noun.",
+      "They let the writer add identifying or extra details inside a sentence."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "They let the writer add identifying or extra details inside a sentence.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "They let the writer add identifying or extra details inside a sentence.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

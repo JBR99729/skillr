@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6ly02-p-001",
     "curriculumCode": "AC9E6LY02",
     "bank": "practice",
-    "skill": "paraphrase claim",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which response paraphrases before challenging?",
-    "audioPrompt": "Which response paraphrases before challenging?",
+    "question": "In a discussion, which response shows accurate listening?",
+    "audioPrompt": "In a discussion, which response shows accurate listening?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "So you argue that cost is the main issue; how does the long-term evidence affect that?",
-      "Wrong",
-      "I was not listening",
-      "Let me change the topic"
+      "So you are saying the garden should be moved because it needs more sunlight.",
+      "Disagree before showing you understood the idea.",
+      "Ask a question that attacks the speaker.",
+      "Give a claim with no reason."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates paraphrase claim in the stated context.\nHint: Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes.",
+    "explanation": "So you are saying the garden should be moved because it needs more sunlight.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates paraphrase claim in the stated context.",
-      "hint": "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes."
+      "summary": "So you are saying the garden should be moved because it needs more sunlight.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-p-002",
     "curriculumCode": "AC9E6LY02",
     "bank": "practice",
-    "skill": "paraphrase",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which term means “accurate restatement in new words”?",
-    "audioPrompt": "Which term means “accurate restatement in new words”?",
+    "question": "Which question is best for clarifying a claim?",
+    "audioPrompt": "Which question is best for clarifying a claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "probing question",
-      "paraphrase",
-      "register",
-      "Paraphrase repeats exact wording"
+      "Ask a question that attacks the speaker.",
+      "Can you explain what evidence supports that point?",
+      "Give a claim with no reason.",
+      "Use the same register in every discussion."
     ],
     "correct": 1,
-    "explanation": "paraphrase means accurate restatement in new words.\nHint: Match the definition to the most precise term used in Formal and Informal Interaction Skills.",
+    "explanation": "Can you explain what evidence supports that point?\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "paraphrase means accurate restatement in new words.",
-      "hint": "Match the definition to the most precise term used in Formal and Informal Interaction Skills."
+      "summary": "Can you explain what evidence supports that point?",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-p-003",
     "curriculumCode": "AC9E6LY02",
     "bank": "practice",
-    "skill": "ask probe",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which move best suits a formal panel?",
-    "audioPrompt": "Which move best suits a formal panel?",
+    "question": "A classmate challenges your idea politely. What is the strongest reply?",
+    "audioPrompt": "A classmate challenges your idea politely. What is the strongest reply?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Nah, that’s bad",
-      "Whatever",
-      "Could you clarify the evidence supporting that conclusion?",
-      "You always do this"
+      "Give a claim with no reason.",
+      "Use the same register in every discussion.",
+      "That is a fair concern; I still think my idea works because the survey supports it.",
+      "Disagree before showing you understood the idea."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain.",
+    "explanation": "That is a fair concern; I still think my idea works because the survey supports it.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
+      "summary": "That is a fair concern; I still think my idea works because the survey supports it.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-p-004",
     "curriculumCode": "AC9E6LY02",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Paraphrase repeats exact wording.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Paraphrase repeats exact wording.” Which response best corrects the misunderstanding?",
+    "question": "Which sentence uses a suitable formal register in a debate?",
+    "audioPrompt": "Which sentence uses a suitable formal register in a debate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use neutral inquiry",
-      "Formal discussion can include challenge",
-      "Connect it and recognise its limits",
-      "Restate meaning concisely"
+      "Use the same register in every discussion.",
+      "Disagree before showing you understood the idea.",
+      "Ask a question that attacks the speaker.",
+      "I disagree because the data suggests a different conclusion."
     ],
     "correct": 3,
-    "explanation": "Restate meaning concisely\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "I disagree because the data suggests a different conclusion.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Restate meaning concisely",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "I disagree because the data suggests a different conclusion.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-p-005",
     "curriculumCode": "AC9E6LY02",
     "bank": "practice",
-    "skill": "use a disciplined discussion response",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Formal and Informal Interaction Skills?",
-    "audioPrompt": "Which pairing accurately reflects the model for Formal and Informal Interaction Skills?",
+    "question": "Why paraphrase before disagreeing?",
+    "audioPrompt": "Why paraphrase before disagreeing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Paraphrase → So your position is…",
-      "So your position is… → Paraphrase",
-      "Clarify/probe → What evidence supports…?",
-      "Question becomes an accusation"
+      "It shows you understood the idea you are responding to.",
+      "Disagree before showing you understood the idea.",
+      "Ask a question that attacks the speaker.",
+      "Give a claim with no reason."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes.",
+    "explanation": "It shows you understood the idea you are responding to.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes."
+      "summary": "It shows you understood the idea you are responding to.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-p-006",
     "curriculumCode": "AC9E6LY02",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Formal and Informal Interaction Skills?",
-    "audioPrompt": "Which principle should guide a response about Formal and Informal Interaction Skills?",
+    "question": "Which response gives a reasoned position?",
+    "audioPrompt": "Which response gives a reasoned position?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Paraphrase repeats exact wording",
-      "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes",
-      "Question becomes an accusation",
-      "Formality confused with silence"
+      "Ask a question that attacks the speaker.",
+      "I support the later start because attendance improved during the trial.",
+      "Give a claim with no reason.",
+      "Use the same register in every discussion."
     ],
     "correct": 1,
-    "explanation": "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "I support the later start because attendance improved during the trial.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "I support the later start because attendance improved during the trial.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-p-007",
     "curriculumCode": "AC9E6LY02",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Write a six-turn discussion where participants paraphrase, probe, disagree and synthesize formally?",
-    "audioPrompt": "Which plan would best complete this task: Write a six-turn discussion where participants paraphrase, probe, disagree and synthesize formally?",
+    "question": "A speaker gives an example that does not match the claim. What should you ask?",
+    "audioPrompt": "A speaker gives an example that does not match the claim. What should you ask?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "Give a claim with no reason.",
+      "Use the same register in every discussion.",
+      "How does that example prove the main point?",
+      "Disagree before showing you understood the idea."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain.",
+    "explanation": "How does that example prove the main point?\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
+      "summary": "How does that example prove the main point?",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-p-008",
     "curriculumCode": "AC9E6LY02",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Formal and Informal Interaction Skills?",
-    "audioPrompt": "Which evidence would best show secure understanding of Formal and Informal Interaction Skills?",
+    "question": "Which interaction keeps the discussion constructive?",
+    "audioPrompt": "Which interaction keeps the discussion constructive?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Paraphrase repeats exact wording",
-      "Question becomes an accusation",
-      "Formality confused with silence",
-      "Students listen for claims and reasons, paraphrase accurately, adapt register, ask clarifying or probing questions and justify a position while responding constructively to challenge The response also explains its evidence and limitations."
+      "Use the same register in every discussion.",
+      "Disagree before showing you understood the idea.",
+      "Ask a question that attacks the speaker.",
+      "Building on another idea while adding new evidence."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "Building on another idea while adding new evidence.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Building on another idea while adding new evidence.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6ly05-t-001",
     "curriculumCode": "AC9E6LY05",
     "bank": "test",
-    "skill": "monitoring",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies monitoring?",
-    "audioPrompt": "In a new text, which definition correctly identifies monitoring?",
+    "question": "Test example: A reader predicts that a character will lie, then later evidence proves the opposite. What should the reader do?",
+    "audioPrompt": "Test example: A reader predicts that a character will lie, then later evidence proves the opposite. What should the reader do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Checking and regulating understanding",
-      "Meaning built from evidence and knowledge",
-      "Judgement supported by criteria",
-      "Summary becomes retell"
+      "Revise the prediction to fit the new evidence.",
+      "Keep the first prediction even when evidence changes.",
+      "Summarise by copying every sentence.",
+      "Make an inference without evidence."
     ],
     "correct": 0,
-    "explanation": "monitoring means checking and regulating understanding.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "Revise the prediction to fit the new evidence.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "monitoring means checking and regulating understanding.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "Revise the prediction to fit the new evidence.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-t-002",
     "curriculumCode": "AC9E6LY05",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Summary becomes retell.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Summary becomes retell.” What is the most effective revision?",
+    "question": "Test example: detail supports an inference that Omar is nervous?",
+    "audioPrompt": "Test example: detail supports an inference that Omar is nervous?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Revise with evidence",
-      "Select central relationships",
-      "Link it to interpretation",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "Summarise by copying every sentence.",
+      "He taps his pencil and avoids looking at the stage.",
+      "Make an inference without evidence.",
+      "Ignore differences between sources."
     ],
     "correct": 1,
-    "explanation": "Select central relationships\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "He taps his pencil and avoids looking at the stage.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Select central relationships",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "He taps his pencil and avoids looking at the stage.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-t-003",
     "curriculumCode": "AC9E6LY05",
     "bank": "test",
-    "skill": "use a strategic comprehension cycle",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “literal → The graph shows a 12% decline.”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “literal → The graph shows a 12% decline.”?",
+    "question": "Test example: What is the best summary of a paragraph?",
+    "audioPrompt": "Test example: What is the best summary of a paragraph?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Comprehension, Inference and Critical Evaluation, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "Make an inference without evidence.",
+      "Ignore differences between sources.",
+      "It states the main idea and key support without copying every detail.",
+      "Keep the first prediction even when evidence changes."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+    "explanation": "It states the main idea and key support without copying every detail.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+      "summary": "It states the main idea and key support without copying every detail.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-t-004",
     "curriculumCode": "AC9E6LY05",
     "bank": "test",
-    "skill": "separate literal inferred and evaluative claims",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "When applying Comprehension, Inference and Critical Evaluation to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Comprehension, Inference and Critical Evaluation to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: compare two sources on the same event?",
+    "audioPrompt": "Test example: compare two sources on the same event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Ignore differences between sources.",
+      "Keep the first prediction even when evidence changes.",
+      "Summarise by copying every sentence.",
+      "To notice agreements, differences and possible bias."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "explanation": "To notice agreements, differences and possible bias.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "To notice agreements, differences and possible bias.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-t-005",
     "curriculumCode": "AC9E6LY05",
     "bank": "test",
-    "skill": "evaluation",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of evaluation?",
-    "audioPrompt": "Which example best demonstrates an understanding of evaluation?",
+    "question": "Test example: question checks credibility?",
+    "audioPrompt": "Test example: question checks credibility?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Judgement supported by criteria, identified using evidence from the text.",
-      "Connection becomes unrelated anecdote",
-      "Evaluation equals liking",
-      "A general comment that does not use the text."
+      "Who made this, when, and what evidence do they use?",
+      "Keep the first prediction even when evidence changes.",
+      "Summarise by copying every sentence.",
+      "Make an inference without evidence."
     ],
     "correct": 0,
-    "explanation": "evaluation is judgement supported by criteria.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "Who made this, when, and what evidence do they use?\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "evaluation is judgement supported by criteria.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "Who made this, when, and what evidence do they use?",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-t-006",
     "curriculumCode": "AC9E6LY05",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Comprehension, Inference and Critical Evaluation?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Comprehension, Inference and Critical Evaluation?",
+    "question": "Test example: A metaphor makes the classroom sound like a beehive. What can you infer?",
+    "audioPrompt": "Test example: A metaphor makes the classroom sound like a beehive. What can you infer?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "Summarise by copying every sentence.",
+      "The room is busy, noisy and full of movement.",
+      "Make an inference without evidence.",
+      "Ignore differences between sources."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "The room is busy, noisy and full of movement.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "The room is busy, noisy and full of movement.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-t-007",
     "curriculumCode": "AC9E6LY05",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Compare two plausible interpretations of ambiguous evidence and identify what would change the judgement?",
-    "audioPrompt": "Which response plan best addresses this challenge: Compare two plausible interpretations of ambiguous evidence and identify what would change the judgement?",
+    "question": "Test example: strategy helps when a text becomes confusing?",
+    "audioPrompt": "Test example: strategy helps when a text becomes confusing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "Make an inference without evidence.",
+      "Ignore differences between sources.",
+      "Pause, reread, and connect pronouns or ideas back to earlier sentences.",
+      "Keep the first prediction even when evidence changes."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+    "explanation": "Pause, reread, and connect pronouns or ideas back to earlier sentences.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+      "summary": "Pause, reread, and connect pronouns or ideas back to earlier sentences.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly05-t-008",
     "curriculumCode": "AC9E6LY05",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "comprehension strategies",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Design a diagnostic guide linking comprehension problems to targeted strategies?",
-    "audioPrompt": "Which approach best addresses this evaluation: Design a diagnostic guide linking comprehension problems to targeted strategies?",
+    "question": "Test example: evaluation uses both evidence and judgement?",
+    "audioPrompt": "Test example: evaluation uses both evidence and judgement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "Ignore differences between sources.",
+      "Keep the first prediction even when evidence changes.",
+      "Summarise by copying every sentence.",
+      "The article is useful for dates, but its one-sided interviews limit its fairness."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "The article is useful for dates, but its one-sided interviews limit its fairness.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "The article is useful for dates, but its one-sided interviews limit its fairness.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

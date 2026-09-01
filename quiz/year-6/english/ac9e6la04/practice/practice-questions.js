@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6la04-p-001",
     "curriculumCode": "AC9E6LA04",
     "bank": "practice",
-    "skill": "trace reference chain",
+    "skill": "cohesion",
     "printable": true,
     "type": "single",
-    "question": "Which connective best signals a result?",
-    "audioPrompt": "Which connective best signals a result?",
+    "question": "Read: Ava planted seedlings. The seedlings needed shade. They also needed water. What does They refer to?",
+    "audioPrompt": "Read: Ava planted seedlings. The seedlings needed shade. They also needed water. What does They refer to?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "therefore",
-      "however",
-      "meanwhile",
-      "although"
+      "The seedlings.",
+      "The pronoun points to a different noun.",
+      "The connection is made by rhyme, not meaning.",
+      "The connective shows contrast instead of cause."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates trace reference chain in the stated context.\nHint: Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to.",
+    "explanation": "The seedlings.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates trace reference chain in the stated context.",
-      "hint": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to."
+      "summary": "The seedlings.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la04-p-002",
     "curriculumCode": "AC9E6LA04",
     "bank": "practice",
-    "skill": "reference",
+    "skill": "cohesion",
     "printable": true,
     "type": "single",
-    "question": "Which term means “language pointing to another element”?",
-    "audioPrompt": "Which term means “language pointing to another element”?",
+    "question": "Which rewrite avoids repeating the noun too heavily while keeping the meaning clear?",
+    "audioPrompt": "Which rewrite avoids repeating the noun too heavily while keeping the meaning clear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "substitution",
-      "reference",
-      "ellipsis",
-      "Every repetition removed"
+      "The connection is made by rhyme, not meaning.",
+      "Ava planted seedlings. They needed shade and water.",
+      "The connective shows contrast instead of cause.",
+      "Repeating a key word always makes writing weaker."
     ],
     "correct": 1,
-    "explanation": "reference means language pointing to another element.\nHint: Match the definition to the most precise term used in Cohesion through Reference and Lexical Chains.",
+    "explanation": "Ava planted seedlings. They needed shade and water.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "reference means language pointing to another element.",
-      "hint": "Match the definition to the most precise term used in Cohesion through Reference and Lexical Chains."
+      "summary": "Ava planted seedlings. They needed shade and water.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la04-p-003",
     "curriculumCode": "AC9E6LA04",
     "bank": "practice",
-    "skill": "use substitution",
+    "skill": "cohesion",
     "printable": true,
     "type": "single",
-    "question": "Which sentence contains ellipsis?",
-    "audioPrompt": "Which sentence contains ellipsis?",
+    "question": "In a paragraph about coral reefs, the words reef, coral, marine life and habitat form what kind of connection?",
+    "audioPrompt": "In a paragraph about coral reefs, the words reef, coral, marine life and habitat form what kind of connection?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Mia chose red and Kai chose blue.",
-      "Mia and Kai chose colours.",
-      "Mia chose red; Kai, blue.",
-      "Red and blue are colours."
+      "The connective shows contrast instead of cause.",
+      "Repeating a key word always makes writing weaker.",
+      "A lexical chain about the same field of meaning.",
+      "The pronoun points to a different noun."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
+    "explanation": "A lexical chain about the same field of meaning.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "A lexical chain about the same field of meaning.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la04-p-004",
     "curriculumCode": "AC9E6LA04",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "cohesion",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Every repetition removed.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Every repetition removed.” Which response best corrects the misunderstanding?",
+    "question": "Which connective best shows cause: The path was flooded, ___ the game was moved indoors.",
+    "audioPrompt": "Which connective best shows cause: The path was flooded, ___ the game was moved indoors.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Specify the noun",
-      "Omit only recoverable material",
-      "Match logic",
-      "Key terms may need repeating"
+      "Repeating a key word always makes writing weaker.",
+      "The pronoun points to a different noun.",
+      "The connection is made by rhyme, not meaning.",
+      "so"
     ],
     "correct": 3,
-    "explanation": "Key terms may need repeating\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "so\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Key terms may need repeating",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "so",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la04-p-005",
     "curriculumCode": "AC9E6LA04",
     "bank": "practice",
-    "skill": "build a cohesion chain across sentences",
+    "skill": "cohesion",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Cohesion through Reference and Lexical Chains?",
-    "audioPrompt": "Which pairing accurately reflects the model for Cohesion through Reference and Lexical Chains?",
+    "question": "A paragraph suddenly changes from Maya to they without naming the group. What is the likely problem?",
+    "audioPrompt": "A paragraph suddenly changes from Maya to they without naming the group. What is the likely problem?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "repetition → erosion … erosion → technical precision",
-      "technical precision → erosion … erosion → repetition",
-      "substitution → the process → avoids repetition while preserving reference",
-      "Pronoun has several antecedents"
+      "The pronoun reference may be unclear.",
+      "The pronoun points to a different noun.",
+      "The connection is made by rhyme, not meaning.",
+      "The connective shows contrast instead of cause."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to.",
+    "explanation": "The pronoun reference may be unclear.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to."
+      "summary": "The pronoun reference may be unclear.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la04-p-006",
     "curriculumCode": "AC9E6LA04",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "cohesion",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Cohesion through Reference and Lexical Chains?",
-    "audioPrompt": "Which principle should guide a response about Cohesion through Reference and Lexical Chains?",
+    "question": "Which pair shows substitution?",
+    "audioPrompt": "Which pair shows substitution?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every repetition removed",
-      "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to",
-      "Pronoun has several antecedents",
-      "Ellipsis removes essential meaning"
+      "The connection is made by rhyme, not meaning.",
+      "the long route → the shorter one",
+      "The connective shows contrast instead of cause.",
+      "Repeating a key word always makes writing weaker."
     ],
     "correct": 1,
-    "explanation": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "the long route → the shorter one\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Variation should not obscure the topic. Readers must recover exactly what each pronoun, substitute or ellipsis refers to",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "the long route → the shorter one",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la04-p-007",
     "curriculumCode": "AC9E6LA04",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "cohesion",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Revise a paragraph with excessive repetition, ambiguous pronouns and inaccurate connectives?",
-    "audioPrompt": "Which plan would best complete this task: Revise a paragraph with excessive repetition, ambiguous pronouns and inaccurate connectives?",
+    "question": "Why might a writer repeat a key word instead of replacing it every time?",
+    "audioPrompt": "Why might a writer repeat a key word instead of replacing it every time?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "The connective shows contrast instead of cause.",
+      "Repeating a key word always makes writing weaker.",
+      "To keep a technical idea precise and easy to track.",
+      "The pronoun points to a different noun."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Use technical repetition when precision matters; use substitution only where reference remains unmistakable.",
+    "explanation": "To keep a technical idea precise and easy to track.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
+      "summary": "To keep a technical idea precise and easy to track.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la04-p-008",
     "curriculumCode": "AC9E6LA04",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "cohesion",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Cohesion through Reference and Lexical Chains?",
-    "audioPrompt": "Which evidence would best show secure understanding of Cohesion through Reference and Lexical Chains?",
+    "question": "Read: First the class sorted the data. Next they graphed it. Finally they explained the trend. What do First, Next and Finally create?",
+    "audioPrompt": "Read: First the class sorted the data. Next they graphed it. Finally they explained the trend. What do First, Next and Finally create?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every repetition removed",
-      "Pronoun has several antecedents",
-      "Ellipsis removes essential meaning",
-      "Students trace how participants and ideas are maintained across paragraphs, use repetition for precision, substitution and ellipsis for economy and connectives for logical relationships The response also explains its evidence and limitations."
+      "Repeating a key word always makes writing weaker.",
+      "The pronoun points to a different noun.",
+      "The connection is made by rhyme, not meaning.",
+      "A clear sequence of events."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "A clear sequence of events.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "A clear sequence of events.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

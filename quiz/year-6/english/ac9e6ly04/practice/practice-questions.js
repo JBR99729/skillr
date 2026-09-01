@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6ly04-p-001",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "skill": "define need",
+    "skill": "text selection",
     "printable": true,
     "type": "single",
-    "question": "Which source best supports a current population statistic?",
-    "audioPrompt": "Which source best supports a current population statistic?",
+    "question": "You need recent information about local bus changes. Which source is best to check first?",
+    "audioPrompt": "You need recent information about local bus changes. Which source is best to check first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A recent official statistical publication",
-      "An undated personal comment",
-      "A fictional story",
-      "A search snippet with no source"
+      "The official transport website.",
+      "Choose the first search result without checking it.",
+      "Ignore author, date and purpose.",
+      "Use an index to judge website reliability."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates define need in the stated context.\nHint: The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
+    "explanation": "The official transport website.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates define need in the stated context.",
-      "hint": "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality."
+      "summary": "The official transport website.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly04-p-002",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "skill": "skimming",
+    "skill": "text selection",
     "printable": true,
     "type": "single",
-    "question": "Which term means “rapid reading for overview”?",
-    "audioPrompt": "Which term means “rapid reading for overview”?",
+    "question": "Which search result is most relevant for a biography task on Edith Cowan?",
+    "audioPrompt": "Which search result is most relevant for a biography task on Edith Cowan?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "scanning",
-      "skimming",
-      "source evaluation",
-      "First result accepted"
+      "Ignore author, date and purpose.",
+      "A museum page titled Edith Cowan: life and achievements.",
+      "Use an index to judge website reliability.",
+      "Treat a source as reliable because it looks neat."
     ],
     "correct": 1,
-    "explanation": "skimming means rapid reading for overview.\nHint: Match the definition to the most precise term used in Selecting and Navigating Texts for Purpose.",
+    "explanation": "A museum page titled Edith Cowan: life and achievements.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "skimming means rapid reading for overview.",
-      "hint": "Match the definition to the most precise term used in Selecting and Navigating Texts for Purpose."
+      "summary": "A museum page titled Edith Cowan: life and achievements.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly04-p-003",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "skill": "choose source type",
+    "skill": "text selection",
     "printable": true,
     "type": "single",
-    "question": "What should happen after locating a keyword match?",
-    "audioPrompt": "What should happen after locating a keyword match?",
+    "question": "Why use an index in a print book?",
+    "audioPrompt": "Why use an index in a print book?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy it immediately",
-      "Ignore units",
-      "Read surrounding context and check the source",
-      "Assume it answers the question"
+      "Use an index to judge website reliability.",
+      "Treat a source as reliable because it looks neat.",
+      "To find where specific topics are discussed.",
+      "Choose the first search result without checking it."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "explanation": "To find where specific topics are discussed.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "To find where specific topics are discussed.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly04-p-004",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "text selection",
     "printable": true,
     "type": "single",
-    "question": "A student says, “First result accepted.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “First result accepted.” Which response best corrects the misunderstanding?",
+    "question": "A website has no author, date or sources. What should you do?",
+    "audioPrompt": "A website has no author, date or sources. What should you do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Open and read the source",
-      "Ranking uses many non-quality factors",
-      "Adjust to purpose and complexity",
-      "Compare source and context"
+      "Treat a source as reliable because it looks neat.",
+      "Choose the first search result without checking it.",
+      "Ignore author, date and purpose.",
+      "Check the information against a more reliable source."
     ],
     "correct": 3,
-    "explanation": "Compare source and context\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "Check the information against a more reliable source.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Compare source and context",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "Check the information against a more reliable source.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly04-p-005",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "skill": "choose a reading pathway from a research need",
+    "skill": "text selection",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Selecting and Navigating Texts for Purpose?",
-    "audioPrompt": "Which pairing accurately reflects the model for Selecting and Navigating Texts for Purpose?",
+    "question": "Which navigation path is most efficient for finding a chapter on volcanoes?",
+    "audioPrompt": "Which navigation path is most efficient for finding a chapter on volcanoes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "need → useful text/feature",
-      "useful text/feature → need",
-      "quick definition → glossary or authoritative reference",
-      "Snippet treated as full evidence"
+      "Contents page, Earth science chapter, volcanoes section.",
+      "Choose the first search result without checking it.",
+      "Ignore author, date and purpose.",
+      "Use an index to judge website reliability."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality.",
+    "explanation": "Contents page, Earth science chapter, volcanoes section.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality."
+      "summary": "Contents page, Earth science chapter, volcanoes section.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly04-p-006",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "text selection",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Selecting and Navigating Texts for Purpose?",
-    "audioPrompt": "Which principle should guide a response about Selecting and Navigating Texts for Purpose?",
+    "question": "What does currency mean when evaluating a source?",
+    "audioPrompt": "What does currency mean when evaluating a source?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First result accepted",
-      "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility"
+      "Ignore author, date and purpose.",
+      "How up to date the information is.",
+      "Use an index to judge website reliability.",
+      "Treat a source as reliable because it looks neat."
     ],
     "correct": 1,
-    "explanation": "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "How up to date the information is.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The first search result or keyword match is only a candidate. Confirm context, units, definitions and source quality",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "How up to date the information is.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly04-p-007",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "text selection",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Plan a navigation strategy for a research question requiring a definition, a statistic and two viewpoints?",
-    "audioPrompt": "Which plan would best complete this task: Plan a navigation strategy for a research question requiring a definition, a statistic and two viewpoints?",
+    "question": "Which source is likely most authoritative for a science definition?",
+    "audioPrompt": "Which source is likely most authoritative for a science definition?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "Use an index to judge website reliability.",
+      "Treat a source as reliable because it looks neat.",
+      "A science museum or education site that explains and cites the term.",
+      "Choose the first search result without checking it."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria.",
+    "explanation": "A science museum or education site that explains and cites the term.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "A source may be credible but irrelevant, or relevant but outdated. Evaluate several criteria."
+      "summary": "A science museum or education site that explains and cites the term.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly04-p-008",
     "curriculumCode": "AC9E6LY04",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "text selection",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Selecting and Navigating Texts for Purpose?",
-    "audioPrompt": "Which evidence would best show secure understanding of Selecting and Navigating Texts for Purpose?",
+    "question": "A paragraph from a source partly answers your question. What should you do next?",
+    "audioPrompt": "A paragraph from a source partly answers your question. What should you do next?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First result accepted",
-      "Snippet treated as full evidence",
-      "Search ranking treated as credibility",
-      "Students select texts from task requirements, use print and digital navigation pathways, confirm located information in context and evaluate source authority, currency and relevance The response also explains its evidence and limitations."
+      "Treat a source as reliable because it looks neat.",
+      "Choose the first search result without checking it.",
+      "Ignore author, date and purpose.",
+      "Read around it to confirm the context before using it."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "Read around it to confirm the context before using it.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Read around it to confirm the context before using it.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

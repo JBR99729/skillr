@@ -1,12 +1,236 @@
 "use strict";
 window.skillrPracticeQuestions = [
-{"id":"ac9e6la05-p-001","curriculumCode":"AC9E6LA05","bank":"practice","skill":"head noun","printable":true,"type":"single","question":"In 'The sensor that recorded 42°C was checked', which word is expanded by 'that recorded 42°C'?","audioPrompt":"In The sensor that recorded forty-two degrees Celsius was checked, which word is expanded by that recorded forty-two degrees Celsius?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["sensor","42°C","checked","the"],"correct":0,"explanation":"The relative clause 'that recorded 42°C' gives extra information about the noun 'sensor'.\nHint: Find the noun immediately being described by the clause.","structuredExplanation":{"summary":"The clause expands the head noun 'sensor'.","hint":"Ask which noun the clause tells you more about."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la05-p-002","curriculumCode":"AC9E6LA05","bank":"practice","skill":"embedded clause","printable":true,"type":"single","question":"Which part is the embedded clause in 'The dog that barked all night finally slept'?","audioPrompt":"Which part is the embedded clause in The dog that barked all night finally slept?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The dog","that barked all night","finally slept","the dog finally"],"correct":1,"explanation":"'That barked all night' is embedded inside the noun group and adds information about 'dog'.\nHint: Temporarily remove the embedded clause; the core sentence should still make sense.","structuredExplanation":{"summary":"'That barked all night' is the embedded clause describing the dog.","hint":"Remove the extra clause to reveal the core sentence."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la05-p-003","curriculumCode":"AC9E6LA05","bank":"practice","skill":"supplementary relative clause","printable":true,"type":"single","question":"Which sentence treats the information about the sensor as extra, supplementary information?","audioPrompt":"Which sentence treats the information about the sensor as extra, supplementary information?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The sensor which failed was new.","Which was new.","The sensor, which was new, failed.","The new sensor."],"correct":2,"explanation":"The commas around 'which was new' show that the information is supplementary rather than needed to identify which sensor.\nHint: Commas can signal that a relative clause adds extra information.","structuredExplanation":{"summary":"The commas mark 'which was new' as supplementary information.","hint":"Notice how punctuation changes the relationship between the clause and noun."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la05-p-004","curriculumCode":"AC9E6LA05","bank":"practice","skill":"core clause","printable":true,"type":"single","question":"Remove the embedded clause from 'The students who finished early checked their answers.' What is the core clause?","audioPrompt":"Remove the embedded clause from The students who finished early checked their answers. What is the core clause?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Who finished early.","The students who.","Finished early checked.","The students checked their answers."],"correct":3,"explanation":"Removing 'who finished early' leaves the complete core clause 'The students checked their answers.'\nHint: Removing an embedded clause is a useful way to test the main sentence structure.","structuredExplanation":{"summary":"The core clause is 'The students checked their answers.'","hint":"The main message should remain after the embedded information is removed."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la05-p-005","curriculumCode":"AC9E6LA05","bank":"practice","skill":"relative clause","printable":true,"type":"single","question":"Which sentence contains a relative clause describing a noun?","audioPrompt":"Which sentence contains a relative clause describing a noun?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The book that won the award is on the shelf.","The book is on the shelf.","Books are useful.","On the shelf."],"correct":0,"explanation":"'That won the award' is a relative clause describing 'the book'.\nHint: Relative clauses are often introduced by who, which or that.","structuredExplanation":{"summary":"'That won the award' is a relative clause expanding 'book'.","hint":"Look for who, which or that introducing extra information about a noun."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la05-p-006","curriculumCode":"AC9E6LA05","bank":"practice","skill":"restrictive meaning","printable":true,"type":"single","question":"Read: 'The students who finished checked their results.' What does 'who finished' do?","audioPrompt":"The students who finished checked their results. What does who finished do?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It describes all students as having finished.","It identifies which students checked their results.","It is a separate main sentence.","It has no connection to 'students'."],"correct":1,"explanation":"Without commas, 'who finished' identifies which students are being discussed. It is restrictive information.\nHint: Ask whether the clause is needed to identify the noun or merely adds extra information.","structuredExplanation":{"summary":"'Who finished' identifies the particular students being referred to.","hint":"Restrictive clauses help identify which noun or group is meant."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la05-p-007","curriculumCode":"AC9E6LA05","bank":"practice","skill":"comma meaning","printable":true,"type":"single","question":"Compare: A. 'The players who trained won medals.' B. 'The players, who trained, won medals.' What changes?","audioPrompt":"Compare two sentences. The players who trained won medals. The players, who trained, won medals. What changes?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Nothing; commas never affect meaning.","Sentence A says nobody trained.","Sentence A identifies the players who trained; sentence B presents training as extra information about all the players.","Sentence B is always wrong."],"correct":2,"explanation":"Comma placement can change whether the relative clause identifies a subgroup or simply adds information about the whole group.\nHint: Punctuation can change meaning, not just pauses.","structuredExplanation":{"summary":"The commas change the clause from identifying information to supplementary information.","hint":"Ask whether the clause is essential to identify the noun."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la05-p-008","curriculumCode":"AC9E6LA05","bank":"practice","skill":"embedded clause clarity","printable":true,"type":"single","question":"Which sentence uses an embedded clause most clearly?","audioPrompt":"Which sentence uses an embedded clause most clearly?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The report that was long the teacher read.","That was long was read.","The report the teacher, that was long, read.","The report that contained the new data was submitted yesterday."],"correct":3,"explanation":"The embedded clause 'that contained the new data' sits directly beside the noun 'report', so the relationship is clear and the core sentence remains complete.\nHint: Keep an embedded clause close to the noun it expands.","structuredExplanation":{"summary":"The final sentence clearly attaches the embedded clause to 'report'.","hint":"Check the head noun and then remove the embedded clause to test the core sentence."},"qualitySchema":"student-facing-v2"}
+  {
+    "id": "ac9e6la05-p-001",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "skill": "embedded clauses",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence contains an embedded clause?",
+    "audioPrompt": "Which sentence contains an embedded clause?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The robot that won the contest used recycled parts.",
+      "The clause is the main action of the sentence.",
+      "The commas show the information is essential for identifying the noun.",
+      "The clause should always be removed."
+    ],
+    "correct": 0,
+    "explanation": "The robot that won the contest used recycled parts.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "The robot that won the contest used recycled parts.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la05-p-002",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "skill": "embedded clauses",
+    "printable": true,
+    "type": "single",
+    "question": "In The book that Max borrowed was overdue, what is the embedded clause?",
+    "audioPrompt": "In The book that Max borrowed was overdue, what is the embedded clause?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The commas show the information is essential for identifying the noun.",
+      "that Max borrowed",
+      "The clause should always be removed.",
+      "Every dependent clause is embedded inside a noun group."
+    ],
+    "correct": 1,
+    "explanation": "that Max borrowed\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "that Max borrowed",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la05-p-003",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "skill": "embedded clauses",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence uses commas to add extra, non-essential information?",
+    "audioPrompt": "Which sentence uses commas to add extra, non-essential information?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The clause should always be removed.",
+      "Every dependent clause is embedded inside a noun group.",
+      "Our guide, who knew the track well, led the group safely.",
+      "The clause is the main action of the sentence."
+    ],
+    "correct": 2,
+    "explanation": "Our guide, who knew the track well, led the group safely.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "Our guide, who knew the track well, led the group safely.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la05-p-004",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "skill": "embedded clauses",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence changes meaning if the clause is removed?",
+    "audioPrompt": "Which sentence changes meaning if the clause is removed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Every dependent clause is embedded inside a noun group.",
+      "The clause is the main action of the sentence.",
+      "The commas show the information is essential for identifying the noun.",
+      "The students who finished early began the extension task."
+    ],
+    "correct": 3,
+    "explanation": "The students who finished early began the extension task.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "The students who finished early began the extension task.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la05-p-005",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "skill": "embedded clauses",
+    "printable": true,
+    "type": "single",
+    "question": "A student writes: The cyclist, who won yesterday, trains daily. What do the commas show?",
+    "audioPrompt": "A student writes: The cyclist, who won yesterday, trains daily. What do the commas show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The clause adds information about the cyclist rather than identifying which cyclist.",
+      "The clause is the main action of the sentence.",
+      "The commas show the information is essential for identifying the noun.",
+      "The clause should always be removed."
+    ],
+    "correct": 0,
+    "explanation": "The clause adds information about the cyclist rather than identifying which cyclist.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "The clause adds information about the cyclist rather than identifying which cyclist.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la05-p-006",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "skill": "embedded clauses",
+    "printable": true,
+    "type": "single",
+    "question": "Which noun group includes extra information inside it?",
+    "audioPrompt": "Which noun group includes extra information inside it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The commas show the information is essential for identifying the noun.",
+      "the painting that hangs near the entrance",
+      "The clause should always be removed.",
+      "Every dependent clause is embedded inside a noun group."
+    ],
+    "correct": 1,
+    "explanation": "the painting that hangs near the entrance\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "the painting that hangs near the entrance",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la05-p-007",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "skill": "embedded clauses",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence is punctuated most clearly?",
+    "audioPrompt": "Which sentence is punctuated most clearly?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The clause should always be removed.",
+      "Every dependent clause is embedded inside a noun group.",
+      "The river, which had risen overnight, covered the lower path.",
+      "The clause is the main action of the sentence."
+    ],
+    "correct": 2,
+    "explanation": "The river, which had risen overnight, covered the lower path.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "The river, which had risen overnight, covered the lower path.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la05-p-008",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "skill": "embedded clauses",
+    "printable": true,
+    "type": "single",
+    "question": "Why can embedded clauses make writing more precise?",
+    "audioPrompt": "Why can embedded clauses make writing more precise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Every dependent clause is embedded inside a noun group.",
+      "The clause is the main action of the sentence.",
+      "The commas show the information is essential for identifying the noun.",
+      "They let the writer add identifying or extra details inside a sentence."
+    ],
+    "correct": 3,
+    "explanation": "They let the writer add identifying or extra details inside a sentence.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "They let the writer add identifying or extra details inside a sentence.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

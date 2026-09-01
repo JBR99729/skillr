@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6le03-t-001",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "narrator",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies narrator?",
-    "audioPrompt": "In a new text, which definition correctly identifies narrator?",
+    "question": "Test example: Across three stories, an author often uses short sentences during danger. What style feature is this?",
+    "audioPrompt": "Test example: Across three stories, an author often uses short sentences during danger. What style feature is this?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Constructed voice presenting a narrative",
-      "Recurring distinctive pattern of craft choices",
-      "Recurring image, phrase or idea",
-      "One quotation defines style"
+      "A pattern in syntax that affects pace.",
+      "One sentence from one story proves the whole style.",
+      "Style means topic only.",
+      "The author’s voice cannot appear across different texts."
     ],
     "correct": 0,
-    "explanation": "narrator means constructed voice presenting a narrative.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "A pattern in syntax that affects pace.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "narrator means constructed voice presenting a narrative.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "A pattern in syntax that affects pace.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-t-002",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “One quotation defines style.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “One quotation defines style.” What is the most effective revision?",
+    "question": "Test example: evidence best shows a recurring authorial voice?",
+    "audioPrompt": "Test example: evidence best shows a recurring authorial voice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The narrator is a crafted textual role",
-      "Use patterns across texts",
-      "Compare with wider genre patterns",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "Style means topic only.",
+      "Several narrators use dry jokes when events become tense.",
+      "The author’s voice cannot appear across different texts.",
+      "Pace is unrelated to sentence choices."
     ],
     "correct": 1,
-    "explanation": "Use patterns across texts\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "Several narrators use dry jokes when events become tense.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Use patterns across texts",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "Several narrators use dry jokes when events become tense.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-t-003",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "build an authorial style profile",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “syntax → short fragments at turning points → emphasis and pace”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “syntax → short fragments at turning points → emphasis and pace”?",
+    "question": "Test example: An author often mixes humour with serious moments. What should a reader explain?",
+    "audioPrompt": "Test example: An author often mixes humour with serious moments. What should a reader explain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Authorial Style and Voice, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "The author’s voice cannot appear across different texts.",
+      "Pace is unrelated to sentence choices.",
+      "How the humour changes the reader’s response to the serious idea.",
+      "One sentence from one story proves the whole style."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions.",
+    "explanation": "How the humour changes the reader’s response to the serious idea.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "One feature alone rarely defines style. Use repeated patterns across texts and distinguish author, narrator and genre conventions."
+      "summary": "How the humour changes the reader’s response to the serious idea.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-t-004",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "compare style with genre expectations",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "When applying Authorial Style and Voice to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Authorial Style and Voice to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: statement avoids a weak generalisation about style?",
+    "audioPrompt": "Test example: statement avoids a weak generalisation about style?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Pace is unrelated to sentence choices.",
+      "One sentence from one story proves the whole style.",
+      "Style means topic only.",
+      "In these chapters, the author often uses clipped dialogue to show tension."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+    "explanation": "In these chapters, the author often uses clipped dialogue to show tension.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "In these chapters, the author often uses clipped dialogue to show tension.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-t-005",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "motif",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of motif?",
-    "audioPrompt": "Which example best demonstrates an understanding of motif?",
+    "question": "Test example: repeatedly describes ordinary objects in strange ways. What might this create?",
+    "audioPrompt": "Test example: repeatedly describes ordinary objects in strange ways. What might this create?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Recurring image, phrase or idea, identified using evidence from the text.",
-      "Genre convention credited only to author",
-      "Feature list lacks effect",
-      "A general comment that does not use the text."
+      "A distinctive imaginative voice.",
+      "One sentence from one story proves the whole style.",
+      "Style means topic only.",
+      "The author’s voice cannot appear across different texts."
     ],
     "correct": 0,
-    "explanation": "motif is recurring image, phrase or idea.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "A distinctive imaginative voice.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "motif is recurring image, phrase or idea.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "A distinctive imaginative voice.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-t-006",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Authorial Style and Voice?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Authorial Style and Voice?",
+    "question": "Test example: pair of features could work together to create a fast pace?",
+    "audioPrompt": "Test example: pair of features could work together to create a fast pace?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "Style means topic only.",
+      "Short sentences and quick scene changes.",
+      "The author’s voice cannot appear across different texts.",
+      "Pace is unrelated to sentence choices."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "Short sentences and quick scene changes.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "Short sentences and quick scene changes.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-t-007",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Compare an author’s style across two genres, separating stable patterns from genre adaptation?",
-    "audioPrompt": "Which response plan best addresses this challenge: Compare an author’s style across two genres, separating stable patterns from genre adaptation?",
+    "question": "Test example: compare more than one text by the same author?",
+    "audioPrompt": "Test example: compare more than one text by the same author?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "The author’s voice cannot appear across different texts.",
+      "Pace is unrelated to sentence choices.",
+      "Recurring choices are easier to see across several texts.",
+      "One sentence from one story proves the whole style."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+    "explanation": "Recurring choices are easier to see across several texts.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+      "summary": "Recurring choices are easier to see across several texts.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le03-t-008",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Write a short imitation of a style without copying wording, then annotate transformed techniques?",
-    "audioPrompt": "Which approach best addresses this evaluation: Write a short imitation of a style without copying wording, then annotate transformed techniques?",
+    "question": "Test example: comment best explains voice?",
+    "audioPrompt": "Test example: comment best explains voice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "Pace is unrelated to sentence choices.",
+      "One sentence from one story proves the whole style.",
+      "Style means topic only.",
+      "The narrator sounds curious and slightly sarcastic because of the questions and playful comparisons."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "The narrator sounds curious and slightly sarcastic because of the questions and playful comparisons.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "The narrator sounds curious and slightly sarcastic because of the questions and playful comparisons.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

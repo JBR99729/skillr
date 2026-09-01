@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6le04-t-001",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "skill": "rhythm",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies rhythm?",
-    "audioPrompt": "In a new text, which definition correctly identifies rhythm?",
+    "question": "Test example: line uses alliteration?",
+    "audioPrompt": "Test example: line uses alliteration?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Pattern of beats, stress and timing",
-      "Repetition of vowel sounds",
-      "Language evoking sensory or conceptual experience",
-      "Device name replaces effect"
+      "Bright birds balanced on bending branches.",
+      "Naming the device is enough without explaining effect.",
+      "Sound patterns cannot affect mood.",
+      "Imagery only means pictures on the page."
     ],
     "correct": 0,
-    "explanation": "rhythm means pattern of beats, stress and timing.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "Bright birds balanced on bending branches.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "rhythm means pattern of beats, stress and timing.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "Bright birds balanced on bending branches.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-t-002",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Device name replaces effect.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Device name replaces effect.” What is the most effective revision?",
+    "question": "Test example: What effect can repeated s sounds create in a poem about wind?",
+    "audioPrompt": "Test example: What effect can repeated s sounds create in a poem about wind?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Analyse stress, repetition and internal sounds",
-      "Use evidence and context",
-      "Punctuation and lineation guide it",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "Sound patterns cannot affect mood.",
+      "A soft, whispering movement.",
+      "Imagery only means pictures on the page.",
+      "Repetition always weakens a poem."
     ],
     "correct": 1,
-    "explanation": "Use evidence and context\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "A soft, whispering movement.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Use evidence and context",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "A soft, whispering movement.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-t-003",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "skill": "analyse a sound image pattern",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “assonance → low road home → stretches mournful vowel”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “assonance → low road home → stretches mournful vowel”?",
+    "question": "Test example: phrase appeals most clearly to hearing?",
+    "audioPrompt": "Test example: phrase appeals most clearly to hearing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Sound and Imagery in Literary Texts, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "Imagery only means pictures on the page.",
+      "Repetition always weakens a poem.",
+      "The gate clanged behind us.",
+      "Naming the device is enough without explaining effect."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
+    "explanation": "The gate clanged behind us.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment."
+      "summary": "The gate clanged behind us.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-t-004",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "skill": "compare performance possibilities",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "When applying Sound and Imagery in Literary Texts to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Sound and Imagery in Literary Texts to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: A poem repeats the line We wait. What might the repetition emphasise?",
+    "audioPrompt": "Test example: A poem repeats the line We wait. What might the repetition emphasise?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Repetition always weakens a poem.",
+      "Naming the device is enough without explaining effect.",
+      "Sound patterns cannot affect mood.",
+      "The slow passing of time and the speaker’s patience."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "The slow passing of time and the speaker’s patience.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The slow passing of time and the speaker’s patience.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-t-005",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "skill": "imagery",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of imagery?",
-    "audioPrompt": "Which example best demonstrates an understanding of imagery?",
+    "question": "Test example: image creates a warm, safe mood?",
+    "audioPrompt": "Test example: image creates a warm, safe mood?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Language evoking sensory or conceptual experience, identified using evidence from the text.",
-      "Performance treated as separate from text",
-      "Image interpreted literally only",
-      "A general comment that does not use the text."
+      "Golden light pooled across the kitchen table.",
+      "Naming the device is enough without explaining effect.",
+      "Sound patterns cannot affect mood.",
+      "Imagery only means pictures on the page."
     ],
     "correct": 0,
-    "explanation": "imagery is language evoking sensory or conceptual experience.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "Golden light pooled across the kitchen table.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "imagery is language evoking sensory or conceptual experience.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "Golden light pooled across the kitchen table.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-t-006",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Sound and Imagery in Literary Texts?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Sound and Imagery in Literary Texts?",
+    "question": "Test example: should a reader connect sound devices to meaning?",
+    "audioPrompt": "Test example: should a reader connect sound devices to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "Sound patterns cannot affect mood.",
+      "Naming the device is not enough; its effect matters.",
+      "Imagery only means pictures on the page.",
+      "Repetition always weakens a poem."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "Naming the device is not enough; its effect matters.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "Naming the device is not enough; its effect matters.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-t-007",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Write and perform a short poem where rhythm changes at a thematic turning point?",
-    "audioPrompt": "Which response plan best addresses this challenge: Write and perform a short poem where rhythm changes at a thematic turning point?",
+    "question": "Test example: Which sentence explains onomatopoeia correctly?",
+    "audioPrompt": "Test example: Which sentence explains onomatopoeia correctly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "Imagery only means pictures on the page.",
+      "Repetition always weakens a poem.",
+      "Buzz imitates the sound it describes.",
+      "Naming the device is enough without explaining effect."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "Buzz imitates the sound it describes.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "Buzz imitates the sound it describes.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-t-008",
     "curriculumCode": "AC9E6LE04",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Compare two performances of the same text and justify different interpretations?",
-    "audioPrompt": "Which approach best addresses this evaluation: Compare two performances of the same text and justify different interpretations?",
+    "question": "Test example: which choice best links rhythm to pace?",
+    "audioPrompt": "Test example: which choice best links rhythm to pace?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "Repetition always weakens a poem.",
+      "Naming the device is enough without explaining effect.",
+      "Sound patterns cannot affect mood.",
+      "Short, regular beats can make the action feel quick and steady."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "Short, regular beats can make the action feel quick and steady.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "Short, regular beats can make the action feel quick and steady.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

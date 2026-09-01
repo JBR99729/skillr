@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6ly01-t-001",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "framing",
+    "skill": "media representation",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies framing?",
-    "audioPrompt": "In a new text, which definition correctly identifies framing?",
+    "question": "Test example: describe the same protest. One says residents gathered; the other says angry crowds swarmed. What changes?",
+    "audioPrompt": "Test example: describe the same protest. One says residents gathered; the other says angry crowds swarmed. What changes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Selection and arrangement shaping interpretation",
-      "Constructed version of an idea, person or event",
-      "Ways a text invites audiences to think or feel",
-      "Different representation called false automatically"
+      "The second report uses loaded language to position readers negatively.",
+      "The report shows every possible viewpoint neutrally.",
+      "Loaded words do not affect audiences.",
+      "Images cannot influence interpretation."
     ],
     "correct": 0,
-    "explanation": "framing means selection and arrangement shaping interpretation.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "The second report uses loaded language to position readers negatively.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "framing means selection and arrangement shaping interpretation.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "The second report uses loaded language to position readers negatively.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly01-t-002",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "media representation",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Different representation called false automatically.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Different representation called false automatically.” What is the most effective revision?",
+    "question": "Test example: A news clip interviews only shop owners about a bike lane. What viewpoint may be missing?",
+    "audioPrompt": "Test example: A news clip interviews only shop owners about a bike lane. What viewpoint may be missing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Analyse construction choices",
-      "Check factual accuracy and framing separately",
-      "Use crop, angle, caption and source",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "Loaded words do not affect audiences.",
+      "Cyclists, pedestrians or residents who support the bike lane.",
+      "Images cannot influence interpretation.",
+      "A graph scale never needs checking."
     ],
     "correct": 1,
-    "explanation": "Check factual accuracy and framing separately\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "Cyclists, pedestrians or residents who support the bike lane.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Check factual accuracy and framing separately",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "Cyclists, pedestrians or residents who support the bike lane.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly01-t-003",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "audit the representation of one event",
+    "skill": "media representation",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “image → wide crowd view → tight road-block crop”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “image → wide crowd view → tight road-block crop”?",
+    "question": "Test example: headline is most neutral?",
+    "audioPrompt": "Test example: headline is most neutral?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Representation and Influence in Media Texts, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "Images cannot influence interpretation.",
+      "A graph scale never needs checking.",
+      "Council opens new weekend market.",
+      "The report shows every possible viewpoint neutrally."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: Both texts may use true details while creating different representations through selection and framing.",
+    "explanation": "Council opens new weekend market.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "Both texts may use true details while creating different representations through selection and framing."
+      "summary": "Council opens new weekend market.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly01-t-004",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "use an influence analysis sequence",
+    "skill": "media representation",
     "printable": true,
     "type": "single",
-    "question": "When applying Representation and Influence in Media Texts to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Representation and Influence in Media Texts to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: can an image position an audience?",
+    "audioPrompt": "Test example: can an image position an audience?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "A graph scale never needs checking.",
+      "The report shows every possible viewpoint neutrally.",
+      "Loaded words do not affect audiences.",
+      "It can select an angle, facial expression or moment that shapes our response."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "explanation": "It can select an angle, facial expression or moment that shapes our response.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "It can select an angle, facial expression or moment that shapes our response.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly01-t-005",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "positioning",
+    "skill": "media representation",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of positioning?",
-    "audioPrompt": "Which example best demonstrates an understanding of positioning?",
+    "question": "Test example: starts its vertical scale at 90 instead of 0. What should a reader do?",
+    "audioPrompt": "Test example: starts its vertical scale at 90 instead of 0. What should a reader do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ways a text invites audiences to think or feel, identified using evidence from the text.",
-      "Image considered self-explanatory",
-      "Audience effect stated as guaranteed",
-      "A general comment that does not use the text."
+      "Check whether the scale makes a small difference look larger.",
+      "The report shows every possible viewpoint neutrally.",
+      "Loaded words do not affect audiences.",
+      "Images cannot influence interpretation."
     ],
     "correct": 0,
-    "explanation": "positioning is ways a text invites audiences to think or feel.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "Check whether the scale makes a small difference look larger.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "positioning is ways a text invites audiences to think or feel.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "Check whether the scale makes a small difference look larger.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly01-t-006",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "media representation",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Representation and Influence in Media Texts?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Representation and Influence in Media Texts?",
+    "question": "Test example: detail shows sequencing can influence meaning?",
+    "audioPrompt": "Test example: detail shows sequencing can influence meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "Loaded words do not affect audiences.",
+      "Putting damage before interviews may make the event seem more threatening.",
+      "Images cannot influence interpretation.",
+      "A graph scale never needs checking."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "Putting damage before interviews may make the event seem more threatening.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "Putting damage before interviews may make the event seem more threatening.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly01-t-007",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "media representation",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Create two accurate but differently framed reports of one event and annotate audience positioning?",
-    "audioPrompt": "Which response plan best addresses this challenge: Create two accurate but differently framed reports of one event and annotate audience positioning?",
+    "question": "Test example: is source selection important in media texts?",
+    "audioPrompt": "Test example: is source selection important in media texts?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "Images cannot influence interpretation.",
+      "A graph scale never needs checking.",
+      "Included and excluded voices shape the version of events.",
+      "The report shows every possible viewpoint neutrally."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "explanation": "Included and excluded voices shape the version of events.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+      "summary": "Included and excluded voices shape the version of events.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly01-t-008",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "media representation",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Evaluate how graph scale, image crop and source selection can combine to create a misleading impression?",
-    "audioPrompt": "Which approach best addresses this evaluation: Evaluate how graph scale, image crop and source selection can combine to create a misleading impression?",
+    "question": "Test example: statement about representation is accurate?",
+    "audioPrompt": "Test example: statement about representation is accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "A graph scale never needs checking.",
+      "The report shows every possible viewpoint neutrally.",
+      "Loaded words do not affect audiences.",
+      "Media texts construct a version of events rather than showing everything neutrally."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "Media texts construct a version of events rather than showing everything neutrally.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "Media texts construct a version of events rather than showing everything neutrally.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

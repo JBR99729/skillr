@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6la07-p-001",
     "curriculumCode": "AC9E6LA07",
     "bank": "practice",
-    "skill": "choose visual type",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which visual best shows exact values across categories?",
-    "audioPrompt": "Which visual best shows exact values across categories?",
+    "question": "A graph in an article shows rainfall each month. What should a reader check first?",
+    "audioPrompt": "A graph in an article shows rainfall each month. What should a reader check first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "table",
-      "unlabelled photograph",
-      "decorative icon",
-      "colour wash"
+      "The title, axes, labels and scale.",
+      "The picture should be read without labels.",
+      "A decorative image is the strongest evidence.",
+      "The scale never changes how data appears."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates choose visual type in the stated context.\nHint: A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence.",
+    "explanation": "The title, axes, labels and scale.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates choose visual type in the stated context.",
-      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
+      "summary": "The title, axes, labels and scale.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-p-002",
     "curriculumCode": "AC9E6LA07",
     "bank": "practice",
-    "skill": "figure",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which term means “numbered visual representation in a text”?",
-    "audioPrompt": "Which term means “numbered visual representation in a text”?",
+    "question": "A labelled diagram of a bike brake appears beside instructions. What is its main role?",
+    "audioPrompt": "A labelled diagram of a bike brake appears beside instructions. What is its main role?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "caption",
-      "figure",
-      "visual–verbal relationship",
-      "All visuals called pictures"
+      "A decorative image is the strongest evidence.",
+      "It explains parts that are hard to describe in words alone.",
+      "The scale never changes how data appears.",
+      "Captions only repeat the title."
     ],
     "correct": 1,
-    "explanation": "figure means numbered visual representation in a text.\nHint: Match the definition to the most precise term used in Images, Figures, Tables, Diagrams, Maps and Graphs.",
+    "explanation": "It explains parts that are hard to describe in words alone.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "figure means numbered visual representation in a text.",
-      "hint": "Match the definition to the most precise term used in Images, Figures, Tables, Diagrams, Maps and Graphs."
+      "summary": "It explains parts that are hard to describe in words alone.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-p-003",
     "curriculumCode": "AC9E6LA07",
     "bank": "practice",
-    "skill": "read graph scale",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "What can a caption do?",
-    "audioPrompt": "What can a caption do?",
+    "question": "A photo of smiling students beside a canteen article may influence readers by doing what?",
+    "audioPrompt": "A photo of smiling students beside a canteen article may influence readers by doing what?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Guarantee the visual is unbiased",
-      "Replace every label",
-      "Identify and frame interpretation of a visual",
-      "Make scale unnecessary"
+      "The scale never changes how data appears.",
+      "Captions only repeat the title.",
+      "Creating a positive feeling about the topic.",
+      "The picture should be read without labels."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+    "explanation": "Creating a positive feeling about the topic.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+      "summary": "Creating a positive feeling about the topic.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-p-004",
     "curriculumCode": "AC9E6LA07",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "A student says, “All visuals called pictures.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “All visuals called pictures.” Which response best corrects the misunderstanding?",
+    "question": "Which caption best helps a reader understand a map?",
+    "audioPrompt": "Which caption best helps a reader understand a map?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Read axes and source",
-      "It can frame interpretation",
-      "Integrate evidence from both modes",
-      "Name the form and function precisely"
+      "Captions only repeat the title.",
+      "The picture should be read without labels.",
+      "A decorative image is the strongest evidence.",
+      "Shaded areas show parks within 500 metres of the school."
     ],
     "correct": 3,
-    "explanation": "Name the form and function precisely\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "Shaded areas show parks within 500 metres of the school.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Name the form and function precisely",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "Shaded areas show parks within 500 metres of the school.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-p-005",
     "curriculumCode": "AC9E6LA07",
     "bank": "practice",
-    "skill": "match visual form to communicative purpose",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "audioPrompt": "Which pairing accurately reflects the model for Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "question": "A table compares three planets by size, distance and temperature. Why use a table?",
+    "audioPrompt": "A table compares three planets by size, distance and temperature. Why use a table?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "table → exact values and categories → headers, units, totals",
-      "headers, units, totals → exact values and categories → table",
-      "graph → pattern, comparison or change → axes, scale, source",
-      "Graph accepted without scale check"
+      "It lets readers compare the same features quickly.",
+      "The picture should be read without labels.",
+      "A decorative image is the strongest evidence.",
+      "The scale never changes how data appears."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence.",
+    "explanation": "It lets readers compare the same features quickly.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
+      "summary": "It lets readers compare the same features quickly.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-p-006",
     "curriculumCode": "AC9E6LA07",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "audioPrompt": "Which principle should guide a response about Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "question": "What is the risk of reading only the picture and skipping the caption?",
+    "audioPrompt": "What is the risk of reading only the picture and skipping the caption?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "All visuals called pictures",
-      "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence",
-      "Graph accepted without scale check",
-      "Caption assumed neutral"
+      "A decorative image is the strongest evidence.",
+      "The reader may miss the exact meaning or evidence being shown.",
+      "The scale never changes how data appears.",
+      "Captions only repeat the title."
     ],
     "correct": 1,
-    "explanation": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "The reader may miss the exact meaning or evidence being shown.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "The reader may miss the exact meaning or evidence being shown.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-p-007",
     "curriculumCode": "AC9E6LA07",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Analyse how a graph and paragraph support or contradict one another in a media text?",
-    "audioPrompt": "Which plan would best complete this task: Analyse how a graph and paragraph support or contradict one another in a media text?",
+    "question": "Which visual is most useful for showing change over time?",
+    "audioPrompt": "Which visual is most useful for showing change over time?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "The scale never changes how data appears.",
+      "Captions only repeat the title.",
+      "A line graph.",
+      "The picture should be read without labels."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+    "explanation": "A line graph.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+      "summary": "A line graph.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-p-008",
     "curriculumCode": "AC9E6LA07",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "audioPrompt": "Which evidence would best show secure understanding of Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "question": "A decorative border of stars appears on a science report. What is its role?",
+    "audioPrompt": "A decorative border of stars appears on a science report. What is its role?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "All visuals called pictures",
-      "Graph accepted without scale check",
-      "Caption assumed neutral",
-      "Students distinguish decorative, organisational, evidential and explanatory visual roles, read labels and scales and explain how visuals combine with captions and surrounding prose The response also explains its evidence and limitations."
+      "Captions only repeat the title.",
+      "The picture should be read without labels.",
+      "A decorative image is the strongest evidence.",
+      "It decorates the page but does not provide evidence."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "It decorates the page but does not provide evidence.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "It decorates the page but does not provide evidence.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6ly03-p-001",
     "curriculumCode": "AC9E6LY03",
     "bank": "practice",
-    "skill": "identify stage",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which response best links structure and language?",
-    "audioPrompt": "Which response best links structure and language?",
+    "question": "A persuasive text opens with a problem, uses strong modality and ends with a call to action. What is working together?",
+    "audioPrompt": "A persuasive text opens with a problem, uses strong modality and ends with a call to action. What is working together?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened",
-      "The text has although",
-      "The text has paragraphs",
-      "The graph is colourful"
+      "Structure and language features are combining to persuade.",
+      "One feature works alone and nothing else matters.",
+      "Structure and vocabulary cannot support each other.",
+      "Evidence is unrelated to paragraph order."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates identify stage in the stated context.\nHint: A feature does not work alone. Explain how its placement within the structure changes its effect.",
+    "explanation": "Structure and language features are combining to persuade.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates identify stage in the stated context.",
-      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
+      "summary": "Structure and language features are combining to persuade.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-p-002",
     "curriculumCode": "AC9E6LY03",
     "bank": "practice",
-    "skill": "text structure",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which term means “organisation of stages and phases”?",
-    "audioPrompt": "Which term means “organisation of stages and phases”?",
+    "question": "Which sentence links structure and vocabulary?",
+    "audioPrompt": "Which sentence links structure and vocabulary?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "language feature",
-      "text structure",
-      "purpose",
-      "Features analysed separately"
+      "Structure and vocabulary cannot support each other.",
+      "The problem-solution structure is strengthened by words such as urgent and protect.",
+      "Evidence is unrelated to paragraph order.",
+      "Visuals never contribute to meaning."
     ],
     "correct": 1,
-    "explanation": "text structure means organisation of stages and phases.\nHint: Match the definition to the most precise term used in How Structure and Language Work Together.",
+    "explanation": "The problem-solution structure is strengthened by words such as urgent and protect.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "text structure means organisation of stages and phases.",
-      "hint": "Match the definition to the most precise term used in How Structure and Language Work Together."
+      "summary": "The problem-solution structure is strengthened by words such as urgent and protect.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-p-003",
     "curriculumCode": "AC9E6LY03",
     "bank": "practice",
-    "skill": "link feature to stage",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Why might a graph appear in a persuasive stage?",
-    "audioPrompt": "Why might a graph appear in a persuasive stage?",
+    "question": "Why might a writer place evidence before an opinion?",
+    "audioPrompt": "Why might a writer place evidence before an opinion?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because every graph proves causation",
-      "Only for decoration",
-      "To support a claim while also directing attention",
-      "To replace explanation"
+      "Evidence is unrelated to paragraph order.",
+      "Visuals never contribute to meaning.",
+      "The evidence can make the opinion seem more reasonable.",
+      "One feature works alone and nothing else matters."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+    "explanation": "The evidence can make the opinion seem more reasonable.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+      "summary": "The evidence can make the opinion seem more reasonable.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-p-004",
     "curriculumCode": "AC9E6LY03",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Features analysed separately.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Features analysed separately.” Which response best corrects the misunderstanding?",
+    "question": "Which choice shows cohesion supporting meaning?",
+    "audioPrompt": "Which choice shows cohesion supporting meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use context",
-      "Explain audience guidance",
-      "Analyse interaction",
-      "Connect them to stage and purpose"
+      "Visuals never contribute to meaning.",
+      "One feature works alone and nothing else matters.",
+      "Structure and vocabulary cannot support each other.",
+      "The repeated term habitat keeps the environmental focus clear."
     ],
     "correct": 3,
-    "explanation": "Connect them to stage and purpose\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "The repeated term habitat keeps the environmental focus clear.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Connect them to stage and purpose",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "The repeated term habitat keeps the environmental focus clear.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-p-005",
     "curriculumCode": "AC9E6LY03",
     "bank": "practice",
-    "skill": "analyse a persuasive feature system",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for How Structure and Language Work Together?",
-    "audioPrompt": "Which pairing accurately reflects the model for How Structure and Language Work Together?",
+    "question": "A multimodal article uses headings, photos and captions. What should analysis explain?",
+    "audioPrompt": "A multimodal article uses headings, photos and captions. What should analysis explain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "opening problem → emotive image + evaluative headline → creates urgency",
-      "creates urgency → emotive image + evaluative headline → opening problem",
-      "reason 1 → topic sentence + data → builds evidence",
-      "One feature assigned fixed effect"
+      "How each mode guides the reader’s understanding.",
+      "One feature works alone and nothing else matters.",
+      "Structure and vocabulary cannot support each other.",
+      "Evidence is unrelated to paragraph order."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: A feature does not work alone. Explain how its placement within the structure changes its effect.",
+    "explanation": "How each mode guides the reader’s understanding.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
+      "summary": "How each mode guides the reader’s understanding.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-p-006",
     "curriculumCode": "AC9E6LY03",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about How Structure and Language Work Together?",
-    "audioPrompt": "Which principle should guide a response about How Structure and Language Work Together?",
+    "question": "Which sentence pattern creates urgency?",
+    "audioPrompt": "Which sentence pattern creates urgency?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Features analysed separately",
-      "A feature does not work alone. Explain how its placement within the structure changes its effect",
-      "One feature assigned fixed effect",
-      "Structure summarised but not evaluated"
+      "Structure and vocabulary cannot support each other.",
+      "Stop. Look. Listen.",
+      "Evidence is unrelated to paragraph order.",
+      "Visuals never contribute to meaning."
     ],
     "correct": 1,
-    "explanation": "A feature does not work alone. Explain how its placement within the structure changes its effect\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "Stop. Look. Listen.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A feature does not work alone. Explain how its placement within the structure changes its effect",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "Stop. Look. Listen.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-p-007",
     "curriculumCode": "AC9E6LY03",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Analyse one informative or persuasive text using at least three connected structural and language choices?",
-    "audioPrompt": "Which plan would best complete this task: Analyse one informative or persuasive text using at least three connected structural and language choices?",
+    "question": "Why is it weak to name only one feature?",
+    "audioPrompt": "Why is it weak to name only one feature?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "Evidence is unrelated to paragraph order.",
+      "Visuals never contribute to meaning.",
+      "Meaning often comes from several choices working together.",
+      "One feature works alone and nothing else matters."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+    "explanation": "Meaning often comes from several choices working together.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+      "summary": "Meaning often comes from several choices working together.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-p-008",
     "curriculumCode": "AC9E6LY03",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of How Structure and Language Work Together?",
-    "audioPrompt": "Which evidence would best show secure understanding of How Structure and Language Work Together?",
+    "question": "Which response best explains coordinated meaning?",
+    "audioPrompt": "Which response best explains coordinated meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Features analysed separately",
-      "One feature assigned fixed effect",
-      "Structure summarised but not evaluated",
-      "Students explain how stages, paragraph order, sentence patterns, vocabulary, modality, cohesion and multimodal features form a coordinated meaning system The response also explains its evidence and limitations."
+      "Visuals never contribute to meaning.",
+      "One feature works alone and nothing else matters.",
+      "Structure and vocabulary cannot support each other.",
+      "The heading frames the issue, the statistics support it and the modal verb must pushes action."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "The heading frames the issue, the statistics support it and the modal verb must pushes action.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "The heading frames the issue, the statistics support it and the modal verb must pushes action.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

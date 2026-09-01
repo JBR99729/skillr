@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6ly06-t-001",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "skill": "editing",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies editing?",
-    "audioPrompt": "In a new text, which definition correctly identifies editing?",
+    "question": "Test example: a long explanation, what should a student plan first?",
+    "audioPrompt": "Test example: a long explanation, what should a student plan first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Checking language conventions and accuracy",
-      "Substantive improvement of meaning and structure",
-      "Preparing and sharing a finished accessible text",
-      "Editing begins before structural problems are solved"
+      "Purpose, audience, key ideas and order.",
+      "Edit spelling before checking whether ideas make sense.",
+      "Use visuals that decorate but do not support meaning.",
+      "Publish tiny low-contrast text."
     ],
     "correct": 0,
-    "explanation": "editing means checking language conventions and accuracy.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "Purpose, audience, key ideas and order.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "editing means checking language conventions and accuracy.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "Purpose, audience, key ideas and order.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-t-002",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Editing begins before structural problems are solved.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Editing begins before structural problems are solved.” What is the most effective revision?",
+    "question": "Test example: paragraph opening clearly signals a new reason?",
+    "audioPrompt": "Test example: paragraph opening clearly signals a new reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use feedback and revision",
-      "Work from large scale to detail",
-      "Plan their meaning role",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "Use visuals that decorate but do not support meaning.",
+      "Another reason the wetlands should be protected is water quality.",
+      "Publish tiny low-contrast text.",
+      "Put paragraphs in any order."
     ],
     "correct": 1,
-    "explanation": "Work from large scale to detail\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "Another reason the wetlands should be protected is water quality.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Work from large scale to detail",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "Another reason the wetlands should be protected is water quality.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-t-003",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "skill": "use a layered production cycle",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “Draft → paragraphs, stages and sentence relationships”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “Draft → paragraphs, stages and sentence relationships”?",
+    "question": "Test example: Which sentence best develops an informative paragraph?",
+    "audioPrompt": "Test example: Which sentence best develops an informative paragraph?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Creating and Publishing Sustained Written and Multimodal Texts, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "Publish tiny low-contrast text.",
+      "Put paragraphs in any order.",
+      "This matters because the roots hold soil in place during heavy rain.",
+      "Edit spelling before checking whether ideas make sense."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
+    "explanation": "This matters because the roots hold soil in place during heavy rain.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "The process is recursive. New evidence or feedback may require returning to planning or restructuring."
+      "summary": "This matters because the roots hold soil in place during heavy rain.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-t-004",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "skill": "match text resources to purpose",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "When applying Creating and Publishing Sustained Written and Multimodal Texts to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Creating and Publishing Sustained Written and Multimodal Texts to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: revise before editing spelling?",
+    "audioPrompt": "Test example: revise before editing spelling?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Put paragraphs in any order.",
+      "Edit spelling before checking whether ideas make sense.",
+      "Use visuals that decorate but do not support meaning.",
+      "Revision checks meaning and organisation before surface accuracy."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "explanation": "Revision checks meaning and organisation before surface accuracy.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "Revision checks meaning and organisation before surface accuracy.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-t-005",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "skill": "publishing",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of publishing?",
-    "audioPrompt": "Which example best demonstrates an understanding of publishing?",
+    "question": "Test example: visual feature would support instructions for making a compost bin?",
+    "audioPrompt": "Test example: visual feature would support instructions for making a compost bin?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Preparing and sharing a finished accessible text, identified using evidence from the text.",
-      "Visuals added decoratively",
-      "Sources omitted",
-      "A general comment that does not use the text."
+      "A labelled diagram showing each layer.",
+      "Edit spelling before checking whether ideas make sense.",
+      "Use visuals that decorate but do not support meaning.",
+      "Publish tiny low-contrast text."
     ],
     "correct": 0,
-    "explanation": "publishing is preparing and sharing a finished accessible text.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "A labelled diagram showing each layer.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "publishing is preparing and sharing a finished accessible text.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "A labelled diagram showing each layer.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-t-006",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Creating and Publishing Sustained Written and Multimodal Texts?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Creating and Publishing Sustained Written and Multimodal Texts?",
+    "question": "Test example: which choice creates cohesion across paragraphs?",
+    "audioPrompt": "Test example: which choice creates cohesion across paragraphs?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "Use visuals that decorate but do not support meaning.",
+      "Repeating key terms and using connectives that show relationships.",
+      "Publish tiny low-contrast text.",
+      "Put paragraphs in any order."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "Repeating key terms and using connectives that show relationships.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "Repeating key terms and using connectives that show relationships.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-t-007",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Create a collaborative publishing workflow with version control, accessibility and source verification?",
-    "audioPrompt": "Which response plan best addresses this challenge: Create a collaborative publishing workflow with version control, accessibility and source verification?",
+    "question": "Test example: A persuasive text has evidence but no clear conclusion. What is missing?",
+    "audioPrompt": "Test example: A persuasive text has evidence but no clear conclusion. What is missing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "Publish tiny low-contrast text.",
+      "Put paragraphs in any order.",
+      "A final section that reinforces the position and next step.",
+      "Edit spelling before checking whether ideas make sense."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "explanation": "A final section that reinforces the position and next step.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "A final section that reinforces the position and next step.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-t-008",
     "curriculumCode": "AC9E6LY06",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Synthesize two drafts with different strengths without combining their weaknesses?",
-    "audioPrompt": "Which approach best addresses this evaluation: Synthesize two drafts with different strengths without combining their weaknesses?",
+    "question": "Test example: publishing choice improves accessibility?",
+    "audioPrompt": "Test example: publishing choice improves accessibility?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "Put paragraphs in any order.",
+      "Edit spelling before checking whether ideas make sense.",
+      "Use visuals that decorate but do not support meaning.",
+      "Readable font size, clear contrast and alt text for images."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "Readable font size, clear contrast and alt text for images.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "Readable font size, clear contrast and alt text for images.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

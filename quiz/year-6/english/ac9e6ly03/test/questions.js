@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6ly03-t-001",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "language feature",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies language feature?",
-    "audioPrompt": "In a new text, which definition correctly identifies language feature?",
+    "question": "Test example: A persuasive text opens with a problem, uses strong modality and ends with a call to action. What is working together?",
+    "audioPrompt": "Test example: A persuasive text opens with a problem, uses strong modality and ends with a call to action. What is working together?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Word, sentence or cohesion choice",
-      "Organisation of stages and phases",
-      "Intended communicative outcome",
-      "One feature assigned fixed effect"
+      "Structure and language features are combining to persuade.",
+      "One feature works alone and nothing else matters.",
+      "Structure and vocabulary cannot support each other.",
+      "Evidence is unrelated to paragraph order."
     ],
     "correct": 0,
-    "explanation": "language feature means word, sentence or cohesion choice.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "Structure and language features are combining to persuade.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "language feature means word, sentence or cohesion choice.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "Structure and language features are combining to persuade.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-t-002",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “One feature assigned fixed effect.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “One feature assigned fixed effect.” What is the most effective revision?",
+    "question": "Test example: Which sentence links structure and vocabulary?",
+    "audioPrompt": "Test example: Which sentence links structure and vocabulary?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Connect them to stage and purpose",
-      "Use context",
-      "Explain audience guidance",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "Structure and vocabulary cannot support each other.",
+      "The problem-solution structure is strengthened by words such as urgent and protect.",
+      "Evidence is unrelated to paragraph order.",
+      "Visuals never contribute to meaning."
     ],
     "correct": 1,
-    "explanation": "Use context\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "The problem-solution structure is strengthened by words such as urgent and protect.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Use context",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "The problem-solution structure is strengthened by words such as urgent and protect.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-t-003",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "analyse a persuasive feature system",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “reason 1 → topic sentence + data → builds evidence”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “reason 1 → topic sentence + data → builds evidence”?",
+    "question": "Test example: might a writer place evidence before an opinion?",
+    "audioPrompt": "Test example: might a writer place evidence before an opinion?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within How Structure and Language Work Together, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "Evidence is unrelated to paragraph order.",
+      "Visuals never contribute to meaning.",
+      "The evidence can make the opinion seem more reasonable.",
+      "One feature works alone and nothing else matters."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: A feature does not work alone. Explain how its placement within the structure changes its effect.",
+    "explanation": "The evidence can make the opinion seem more reasonable.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
+      "summary": "The evidence can make the opinion seem more reasonable.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-t-004",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "compare feature function across purposes",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "When applying How Structure and Language Work Together to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying How Structure and Language Work Together to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: which choice shows cohesion supporting meaning?",
+    "audioPrompt": "Test example: which choice shows cohesion supporting meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Visuals never contribute to meaning.",
+      "One feature works alone and nothing else matters.",
+      "Structure and vocabulary cannot support each other.",
+      "The repeated term habitat keeps the environmental focus clear."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+    "explanation": "The repeated term habitat keeps the environmental focus clear.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+      "summary": "The repeated term habitat keeps the environmental focus clear.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-t-005",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "purpose",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of purpose?",
-    "audioPrompt": "Which example best demonstrates an understanding of purpose?",
+    "question": "Test example: A multimodal article uses headings, photos and captions. What should analysis explain?",
+    "audioPrompt": "Test example: A multimodal article uses headings, photos and captions. What should analysis explain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Intended communicative outcome, identified using evidence from the text.",
-      "Structure summarised but not evaluated",
-      "Visual and verbal modes separated",
-      "A general comment that does not use the text."
+      "How each mode guides the reader’s understanding.",
+      "One feature works alone and nothing else matters.",
+      "Structure and vocabulary cannot support each other.",
+      "Evidence is unrelated to paragraph order."
     ],
     "correct": 0,
-    "explanation": "purpose is intended communicative outcome.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "How each mode guides the reader’s understanding.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "purpose is intended communicative outcome.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "How each mode guides the reader’s understanding.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-t-006",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing How Structure and Language Work Together?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing How Structure and Language Work Together?",
+    "question": "Test example: Which sentence pattern creates urgency?",
+    "audioPrompt": "Test example: Which sentence pattern creates urgency?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "Structure and vocabulary cannot support each other.",
+      "Stop. Look. Listen.",
+      "Evidence is unrelated to paragraph order.",
+      "Visuals never contribute to meaning."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "Stop. Look. Listen.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "Stop. Look. Listen.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-t-007",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Redesign a text for a different purpose, changing structure and features as a coordinated system?",
-    "audioPrompt": "Which response plan best addresses this challenge: Redesign a text for a different purpose, changing structure and features as a coordinated system?",
+    "question": "Test example: is it weak to name only one feature?",
+    "audioPrompt": "Test example: is it weak to name only one feature?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "Evidence is unrelated to paragraph order.",
+      "Visuals never contribute to meaning.",
+      "Meaning often comes from several choices working together.",
+      "One feature works alone and nothing else matters."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+    "explanation": "Meaning often comes from several choices working together.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+      "summary": "Meaning often comes from several choices working together.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly03-t-008",
     "curriculumCode": "AC9E6LY03",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "structure and language",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Compare two texts using similar features in different stages and explain changed effects?",
-    "audioPrompt": "Which approach best addresses this evaluation: Compare two texts using similar features in different stages and explain changed effects?",
+    "question": "Test example: response best explains coordinated meaning?",
+    "audioPrompt": "Test example: response best explains coordinated meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "Visuals never contribute to meaning.",
+      "One feature works alone and nothing else matters.",
+      "Structure and vocabulary cannot support each other.",
+      "The heading frames the issue, the statistics support it and the modal verb must pushes action."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "The heading frames the issue, the statistics support it and the modal verb must pushes action.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "The heading frames the issue, the statistics support it and the modal verb must pushes action.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

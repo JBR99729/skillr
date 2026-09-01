@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6la07-t-001",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "skill": "caption",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies caption?",
-    "audioPrompt": "In a new text, which definition correctly identifies caption?",
+    "question": "Test example: in an article shows rainfall each month. What should a reader check first?",
+    "audioPrompt": "Test example: in an article shows rainfall each month. What should a reader check first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Text identifying and interpreting a visual",
-      "Numbered visual representation in a text",
-      "Way image/data and words interact",
-      "Graph accepted without scale check"
+      "The title, axes, labels and scale.",
+      "The picture should be read without labels.",
+      "A decorative image is the strongest evidence.",
+      "The scale never changes how data appears."
     ],
     "correct": 0,
-    "explanation": "caption means text identifying and interpreting a visual.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "The title, axes, labels and scale.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "caption means text identifying and interpreting a visual.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "The title, axes, labels and scale.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-t-002",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Graph accepted without scale check.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Graph accepted without scale check.” What is the most effective revision?",
+    "question": "Test example: A labelled diagram of a bike brake appears beside instructions. What is its main role?",
+    "audioPrompt": "Test example: A labelled diagram of a bike brake appears beside instructions. What is its main role?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name the form and function precisely",
-      "Read axes and source",
-      "It can frame interpretation",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "A decorative image is the strongest evidence.",
+      "It explains parts that are hard to describe in words alone.",
+      "The scale never changes how data appears.",
+      "Captions only repeat the title."
     ],
     "correct": 1,
-    "explanation": "Read axes and source\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "It explains parts that are hard to describe in words alone.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Read axes and source",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "It explains parts that are hard to describe in words alone.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-t-003",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "skill": "match visual form to communicative purpose",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “graph → pattern, comparison or change → axes, scale, source”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “graph → pattern, comparison or change → axes, scale, source”?",
+    "question": "Test example: A photo of smiling students beside a canteen article may influence readers by doing what?",
+    "audioPrompt": "Test example: A photo of smiling students beside a canteen article may influence readers by doing what?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Images, Figures, Tables, Diagrams, Maps and Graphs, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "The scale never changes how data appears.",
+      "Captions only repeat the title.",
+      "Creating a positive feeling about the topic.",
+      "The picture should be read without labels."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence.",
+    "explanation": "Creating a positive feeling about the topic.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "A visual may extend information beyond the prose. Readers should cross-reference, not treat it as decoration or automatically trustworthy evidence."
+      "summary": "Creating a positive feeling about the topic.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-t-004",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "skill": "evaluate visual verbal alignment",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "When applying Images, Figures, Tables, Diagrams, Maps and Graphs to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Images, Figures, Tables, Diagrams, Maps and Graphs to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: caption best helps a reader understand a map?",
+    "audioPrompt": "Test example: caption best helps a reader understand a map?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Captions only repeat the title.",
+      "The picture should be read without labels.",
+      "A decorative image is the strongest evidence.",
+      "Shaded areas show parks within 500 metres of the school."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+    "explanation": "Shaded areas show parks within 500 metres of the school.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+      "summary": "Shaded areas show parks within 500 metres of the school.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-t-005",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "skill": "visual verbal relationship",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of visual–verbal relationship?",
-    "audioPrompt": "Which example best demonstrates an understanding of visual–verbal relationship?",
+    "question": "Test example: A table compares three planets by size, distance and temperature. Why use a table?",
+    "audioPrompt": "Test example: A table compares three planets by size, distance and temperature. Why use a table?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Way image/data and words interact, identified using evidence from the text.",
-      "Caption assumed neutral",
-      "Visual information not mentioned in response",
-      "A general comment that does not use the text."
+      "It lets readers compare the same features quickly.",
+      "The picture should be read without labels.",
+      "A decorative image is the strongest evidence.",
+      "The scale never changes how data appears."
     ],
     "correct": 0,
-    "explanation": "visual–verbal relationship is way image/data and words interact.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "It lets readers compare the same features quickly.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "visual–verbal relationship is way image/data and words interact.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "It lets readers compare the same features quickly.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-t-006",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Images, Figures, Tables, Diagrams, Maps and Graphs?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Images, Figures, Tables, Diagrams, Maps and Graphs?",
+    "question": "Test example: What is the risk of reading only the picture and skipping the caption?",
+    "audioPrompt": "Test example: What is the risk of reading only the picture and skipping the caption?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "A decorative image is the strongest evidence.",
+      "The reader may miss the exact meaning or evidence being shown.",
+      "The scale never changes how data appears.",
+      "Captions only repeat the title."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "The reader may miss the exact meaning or evidence being shown.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "The reader may miss the exact meaning or evidence being shown.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-t-007",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Design a page combining a map, graph and explanatory paragraph, assigning each mode a distinct function?",
-    "audioPrompt": "Which response plan best addresses this challenge: Design a page combining a map, graph and explanatory paragraph, assigning each mode a distinct function?",
+    "question": "Test example: visual is most useful for showing change over time?",
+    "audioPrompt": "Test example: visual is most useful for showing change over time?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "The scale never changes how data appears.",
+      "Captions only repeat the title.",
+      "A line graph.",
+      "The picture should be read without labels."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation.",
+    "explanation": "A line graph.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
+      "summary": "A line graph.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la07-t-008",
     "curriculumCode": "AC9E6LA07",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "visual information",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Create a technically accurate visual that could mislead through scale or selection, then repair it?",
-    "audioPrompt": "Which approach best addresses this evaluation: Create a technically accurate visual that could mislead through scale or selection, then repair it?",
+    "question": "Test example: A decorative border of stars appears on a science report. What is its role?",
+    "audioPrompt": "Test example: A decorative border of stars appears on a science report. What is its role?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "Captions only repeat the title.",
+      "The picture should be read without labels.",
+      "A decorative image is the strongest evidence.",
+      "It decorates the page but does not provide evidence."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "It decorates the page but does not provide evidence.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "It decorates the page but does not provide evidence.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

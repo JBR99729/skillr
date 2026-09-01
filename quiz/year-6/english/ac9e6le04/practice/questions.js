@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6le04-p-001",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "skill": "mark sound pattern",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which phrase uses alliteration?",
-    "audioPrompt": "Which phrase uses alliteration?",
+    "question": "Which line uses alliteration?",
+    "audioPrompt": "Which line uses alliteration?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "cold currents curled",
-      "the current was cold",
-      "water moved",
-      "a blue river"
+      "Bright birds balanced on bending branches.",
+      "Naming the device is enough without explaining effect.",
+      "Sound patterns cannot affect mood.",
+      "Imagery only means pictures on the page."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates mark sound pattern in the stated context.\nHint: Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
+    "explanation": "Bright birds balanced on bending branches.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates mark sound pattern in the stated context.",
-      "hint": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment."
+      "summary": "Bright birds balanced on bending branches.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-p-002",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "skill": "assonance",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which term means “repetition of vowel sounds”?",
-    "audioPrompt": "Which term means “repetition of vowel sounds”?",
+    "question": "What effect can repeated s sounds create in a poem about wind?",
+    "audioPrompt": "What effect can repeated s sounds create in a poem about wind?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "rhythm",
-      "assonance",
-      "imagery",
-      "Rhyme considered the only sound device"
+      "Sound patterns cannot affect mood.",
+      "A soft, whispering movement.",
+      "Imagery only means pictures on the page.",
+      "Repetition always weakens a poem."
     ],
     "correct": 1,
-    "explanation": "assonance means repetition of vowel sounds.\nHint: Match the definition to the most precise term used in Sound and Imagery in Literary Texts.",
+    "explanation": "A soft, whispering movement.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "assonance means repetition of vowel sounds.",
-      "hint": "Match the definition to the most precise term used in Sound and Imagery in Literary Texts."
+      "summary": "A soft, whispering movement.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-p-003",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "skill": "explain imagery",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "What can a line break do?",
-    "audioPrompt": "What can a line break do?",
+    "question": "Which phrase appeals most clearly to hearing?",
+    "audioPrompt": "Which phrase appeals most clearly to hearing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Guarantee rhyme",
-      "Remove all rhythm",
-      "Delay or emphasise meaning",
-      "Prove one reading"
+      "Imagery only means pictures on the page.",
+      "Repetition always weakens a poem.",
+      "The gate clanged behind us.",
+      "Naming the device is enough without explaining effect."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "The gate clanged behind us.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "The gate clanged behind us.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-p-004",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Rhyme considered the only sound device.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Rhyme considered the only sound device.” Which response best corrects the misunderstanding?",
+    "question": "A poem repeats the line We wait. What might the repetition emphasise?",
+    "audioPrompt": "A poem repeats the line We wait. What might the repetition emphasise?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use evidence and context",
-      "Punctuation and lineation guide it",
-      "Consider figurative comparison",
-      "Analyse stress, repetition and internal sounds"
+      "Repetition always weakens a poem.",
+      "Naming the device is enough without explaining effect.",
+      "Sound patterns cannot affect mood.",
+      "The slow passing of time and the speaker’s patience."
     ],
     "correct": 3,
-    "explanation": "Analyse stress, repetition and internal sounds\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "The slow passing of time and the speaker’s patience.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Analyse stress, repetition and internal sounds",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "The slow passing of time and the speaker’s patience.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-p-005",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "skill": "analyse a sound image pattern",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Sound and Imagery in Literary Texts?",
-    "audioPrompt": "Which pairing accurately reflects the model for Sound and Imagery in Literary Texts?",
+    "question": "Which image creates a warm, safe mood?",
+    "audioPrompt": "Which image creates a warm, safe mood?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "alliteration → cold currents curled → links sound and circular movement",
-      "links sound and circular movement → cold currents curled → alliteration",
-      "assonance → low road home → stretches mournful vowel",
-      "Device name replaces effect"
+      "Golden light pooled across the kitchen table.",
+      "Naming the device is enough without explaining effect.",
+      "Sound patterns cannot affect mood.",
+      "Imagery only means pictures on the page."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment.",
+    "explanation": "Golden light pooled across the kitchen table.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment."
+      "summary": "Golden light pooled across the kitchen table.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-p-006",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Sound and Imagery in Literary Texts?",
-    "audioPrompt": "Which principle should guide a response about Sound and Imagery in Literary Texts?",
+    "question": "Why should a reader connect sound devices to meaning?",
+    "audioPrompt": "Why should a reader connect sound devices to meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Rhyme considered the only sound device",
-      "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment",
-      "Device name replaces effect",
-      "Performance treated as separate from text"
+      "Sound patterns cannot affect mood.",
+      "Naming the device is not enough; its effect matters.",
+      "Imagery only means pictures on the page.",
+      "Repetition always weakens a poem."
     ],
     "correct": 1,
-    "explanation": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "Naming the device is not enough; its effect matters.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Sound works through performance and stress, not spelling alone. Explain the choice within its line, stanza or narrative moment",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "Naming the device is not enough; its effect matters.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-p-007",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Analyse one poem or passage for a connected sound and image pattern, including performance choices?",
-    "audioPrompt": "Which plan would best complete this task: Analyse one poem or passage for a connected sound and image pattern, including performance choices?",
+    "question": "Which sentence explains onomatopoeia correctly?",
+    "audioPrompt": "Which sentence explains onomatopoeia correctly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "Imagery only means pictures on the page.",
+      "Repetition always weakens a poem.",
+      "Buzz imitates the sound it describes.",
+      "Naming the device is enough without explaining effect."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence.",
+    "explanation": "Buzz imitates the sound it describes.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Different performances can be defensible when they follow punctuation, sound pattern and meaning evidence."
+      "summary": "Buzz imitates the sound it describes.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le04-p-008",
     "curriculumCode": "AC9E6LE04",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "sound and imagery",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Sound and Imagery in Literary Texts?",
-    "audioPrompt": "Which evidence would best show secure understanding of Sound and Imagery in Literary Texts?",
+    "question": "Which choice best links rhythm to pace?",
+    "audioPrompt": "Which choice best links rhythm to pace?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Rhyme considered the only sound device",
-      "Device name replaces effect",
-      "Performance treated as separate from text",
-      "Students analyse rhythm, rhyme, alliteration, assonance, onomatopoeia, repetition and sensory or figurative imagery and connect these choices to mood, pace, emphasis and theme The response also explains its evidence and limitations."
+      "Repetition always weakens a poem.",
+      "Naming the device is enough without explaining effect.",
+      "Sound patterns cannot affect mood.",
+      "Short, regular beats can make the action feel quick and steady."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "Short, regular beats can make the action feel quick and steady.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Short, regular beats can make the action feel quick and steady.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

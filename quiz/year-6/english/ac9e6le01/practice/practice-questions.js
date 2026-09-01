@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6le01-p-001",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "skill": "state response",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which response is best supported?",
-    "audioPrompt": "Which response is best supported?",
+    "question": "Leo refuses to share the map because he fears the group will get lost. Which judgement uses evidence fairly?",
+    "audioPrompt": "Leo refuses to share the map because he fears the group will get lost. Which judgement uses evidence fairly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The refusal appears courageous because it prevents harm despite institutional pressure",
-      "The character is good",
-      "Everyone would agree",
-      "The decision has no context"
+      "Leo may seem controlling, but his fear explains why he acts that way.",
+      "The response ignores what the character actually does.",
+      "One reader response must be the only possible one.",
+      "The judgement relies on a stereotype instead of evidence."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates state response in the stated context.\nHint: A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
+    "explanation": "Leo may seem controlling, but his fear explains why he acts that way.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates state response in the stated context.",
-      "hint": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place."
+      "summary": "Leo may seem controlling, but his fear explains why he acts that way.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-p-002",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "skill": "reader response",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which term means “interpretation or evaluation developed by a reader”?",
-    "audioPrompt": "Which term means “interpretation or evaluation developed by a reader”?",
+    "question": "Two readers disagree about a character who breaks a rule to help a friend. What should they compare first?",
+    "audioPrompt": "Two readers disagree about a character who breaks a rule to help a friend. What should they compare first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "context",
-      "reader response",
-      "textual evidence",
-      "Personal reaction treated as self-evident"
+      "One reader response must be the only possible one.",
+      "The character’s motives, consequences and the values in the text.",
+      "The judgement relies on a stereotype instead of evidence.",
+      "The narrator’s choice has no effect on the reader."
     ],
     "correct": 1,
-    "explanation": "reader response means interpretation or evaluation developed by a reader.\nHint: Match the definition to the most precise term used in Responses to Characters and Events across Contexts.",
+    "explanation": "The character’s motives, consequences and the values in the text.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "reader response means interpretation or evaluation developed by a reader.",
-      "hint": "Match the definition to the most precise term used in Responses to Characters and Events across Contexts."
+      "summary": "The character’s motives, consequences and the values in the text.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-p-003",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "skill": "cite character evidence",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which statement recognises interpretive difference?",
-    "audioPrompt": "Which statement recognises interpretive difference?",
+    "question": "Which response avoids stereotyping a character?",
+    "audioPrompt": "Which response avoids stereotyping a character?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only one reader response is possible",
-      "Context proves the character is correct",
-      "Another reader may value loyalty more strongly, but must still use evidence",
-      "Personal preference needs no text"
+      "The judgement relies on a stereotype instead of evidence.",
+      "The narrator’s choice has no effect on the reader.",
+      "Ari makes a rushed choice because he is under pressure in this scene.",
+      "The response ignores what the character actually does."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "Ari makes a rushed choice because he is under pressure in this scene.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "Ari makes a rushed choice because he is under pressure in this scene.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-p-004",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Personal reaction treated as self-evident.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Personal reaction treated as self-evident.” Which response best corrects the misunderstanding?",
+    "question": "A narrator hides why Mina is angry until the final page. How might this affect readers?",
+    "audioPrompt": "A narrator hides why Mina is angry until the final page. How might this affect readers?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Consider available norms and constraints",
-      "Context explains but does not remove evaluation",
-      "Limit claims to the text and representation",
-      "Explain feature and evidence"
+      "The narrator’s choice has no effect on the reader.",
+      "The response ignores what the character actually does.",
+      "One reader response must be the only possible one.",
+      "They may judge Mina harshly at first, then reconsider later."
     ],
     "correct": 3,
-    "explanation": "Explain feature and evidence\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "They may judge Mina harshly at first, then reconsider later.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Explain feature and evidence",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "They may judge Mina harshly at first, then reconsider later.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-p-005",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "skill": "build a contextual character response",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Responses to Characters and Events across Contexts?",
-    "audioPrompt": "Which pairing accurately reflects the model for Responses to Characters and Events across Contexts?",
+    "question": "Which evidence best supports a claim about a character being brave?",
+    "audioPrompt": "Which evidence best supports a claim about a character being brave?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Text evidence → The order would endanger another person",
-      "The order would endanger another person → Text evidence",
-      "Context → The institution expects unquestioned obedience",
-      "Historical character judged without context"
+      "She enters the dark shed to rescue the younger child despite being scared.",
+      "The response ignores what the character actually does.",
+      "One reader response must be the only possible one.",
+      "The judgement relies on a stereotype instead of evidence."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place.",
+    "explanation": "She enters the dark shed to rescue the younger child despite being scared.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place."
+      "summary": "She enters the dark shed to rescue the younger child despite being scared.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-p-006",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Responses to Characters and Events across Contexts?",
-    "audioPrompt": "Which principle should guide a response about Responses to Characters and Events across Contexts?",
+    "question": "Why can readers from different contexts respond differently to the same event?",
+    "audioPrompt": "Why can readers from different contexts respond differently to the same event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Personal reaction treated as self-evident",
-      "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place",
-      "Historical character judged without context",
-      "Context used to excuse all actions"
+      "One reader response must be the only possible one.",
+      "Experiences and values can shape what readers notice and judge.",
+      "The judgement relies on a stereotype instead of evidence.",
+      "The narrator’s choice has no effect on the reader."
     ],
     "correct": 1,
-    "explanation": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "Experiences and values can shape what readers notice and judge.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A response is strengthened by specific textual evidence and relevant context. Context explains possibilities but should not be used to stereotype all people from a time or place",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "Experiences and values can shape what readers notice and judge.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-p-007",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Compare two defensible responses to one difficult character decision, using evidence and context?",
-    "audioPrompt": "Which plan would best complete this task: Compare two defensible responses to one difficult character decision, using evidence and context?",
+    "question": "Which interpretation stays within the evidence?",
+    "audioPrompt": "Which interpretation stays within the evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "The judgement relies on a stereotype instead of evidence.",
+      "The narrator’s choice has no effect on the reader.",
+      "The text suggests Jay is jealous because he clenches his fists when Sam is praised.",
+      "The response ignores what the character actually does."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Different interpretations can both be defensible when they acknowledge evidence and limits.",
+    "explanation": "The text suggests Jay is jealous because he clenches his fists when Sam is praised.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
+      "summary": "The text suggests Jay is jealous because he clenches his fists when Sam is praised.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le01-p-008",
     "curriculumCode": "AC9E6LE01",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "character response",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Responses to Characters and Events across Contexts?",
-    "audioPrompt": "Which evidence would best show secure understanding of Responses to Characters and Events across Contexts?",
+    "question": "A character apologises but repeats the same hurtful action. What is a fair response?",
+    "audioPrompt": "A character apologises but repeats the same hurtful action. What is a fair response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Personal reaction treated as self-evident",
-      "Historical character judged without context",
-      "Context used to excuse all actions",
-      "Students compare how readers may judge character decisions differently, use evidence from action, narration and context and distinguish interpretation from unsupported assumption or stereotype The response also explains its evidence and limitations."
+      "The narrator’s choice has no effect on the reader.",
+      "The response ignores what the character actually does.",
+      "One reader response must be the only possible one.",
+      "The apology matters, but the repeated action makes the change incomplete."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "The apology matters, but the repeated action makes the change incomplete.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "The apology matters, but the repeated action makes the change incomplete.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

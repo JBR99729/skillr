@@ -1,13 +1,237 @@
 "use strict";
 window.skillrTestQuestions = [
-{"id":"ac9e6la03-t-001","curriculumCode":"AC9E6LA03","bank":"test","skill":"identify purpose structure","printable":true,"type":"single","question":"A text begins with a goal, lists equipment, gives numbered steps and finishes with a safety check. What type of text is it most likely to be?","audioPrompt":"A text begins with a goal, lists equipment, gives numbered steps and finishes with a safety check. What type of text is it most likely to be?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["procedure","argument","historical explanation","narrative"],"correct":0,"explanation":"A procedure commonly organises information as a goal, requirements and ordered steps because its purpose is to guide action.\nHint: Infer the text type from what its stages are doing.","structuredExplanation":{"summary":"Goal, requirements and ordered steps strongly signal a procedure.","hint":"Match structure to purpose."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la03-t-002","curriculumCode":"AC9E6LA03","bank":"test","skill":"historical explanation","printable":true,"type":"single","question":"Which organisation would best help explain why a historical event happened and what followed?","audioPrompt":"Which organisation would best help explain why a historical event happened and what followed?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["goal, equipment, steps","context, causes, events, consequences","position, reasons, counterpoint","characters, climax, resolution"],"correct":1,"explanation":"A historical explanation often moves through context, causes, events and consequences to show relationships over time.\nHint: Historical explanations usually need chronology and causality.","structuredExplanation":{"summary":"Context, causes, events and consequences suit a historical explanation.","hint":"Think about the relationships the reader needs to understand."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la03-t-003","curriculumCode":"AC9E6LA03","bank":"test","skill":"phase in multimodal text","printable":true,"type":"single","question":"In an online explanation, one screen contains a graph, caption and two sentences interpreting the pattern. What is the best description of this part?","audioPrompt":"In an online explanation, one screen contains a graph, caption and two sentences interpreting the pattern. What is the best description of this part?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["It cannot be part of the structure because it is visual.","It must be a whole new text.","It can be a phase that develops an explanation using several modes.","It is only decoration."],"correct":2,"explanation":"A phase can combine visual and verbal modes when they work together to develop one part of the text's purpose.\nHint: Multimodal structure includes screens, diagrams, captions and speech as well as paragraphs.","structuredExplanation":{"summary":"The graph, caption and interpretation can work together as an explanatory phase.","hint":"Judge a part by its function, not its format."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la03-t-004","curriculumCode":"AC9E6LA03","bank":"test","skill":"adapt structure","printable":true,"type":"single","question":"A writer moves the counterpoint earlier in an argument so readers consider the opposing view before the main evidence. Is this automatically poor organisation?","audioPrompt":"A writer moves the counterpoint earlier in an argument so readers consider the opposing view before the main evidence. Is this automatically poor organisation?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Yes, arguments must follow one exact template.","Yes, every stage has one fixed position.","Yes, because counterpoints should never be used.","No, writers can adapt typical structures if the change still supports purpose and clarity."],"correct":3,"explanation":"Text structures are typical patterns rather than fixed templates. A writer may adapt a stage if the organisation remains purposeful and clear.\nHint: Ask whether the change helps the audience follow the argument.","structuredExplanation":{"summary":"Writers can adapt typical structures when the purpose remains clear.","hint":"Purpose and clarity matter more than rigid templates."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la03-t-005","curriculumCode":"AC9E6LA03","bank":"test","skill":"disciplinary language","printable":true,"type":"single","question":"Which wording best suits the results stage of a science investigation?","audioPrompt":"Which wording best suits the results stage of a science investigation?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The temperature increased from 20°C to 27°C across the three trials.","The temperature was super awesome and really hot.","Once upon a time the temperature became magical.","Buy this thermometer today for an amazing result!"],"correct":0,"explanation":"The first sentence uses measurements and precise language suited to reporting scientific results.\nHint: Disciplinary language should match the subject and the job of the stage.","structuredExplanation":{"summary":"Precise measurements suit the results stage of a science investigation.","hint":"Look for language that serves the subject's purpose."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la03-t-006","curriculumCode":"AC9E6LA03","bank":"test","skill":"compare same purpose","printable":true,"type":"single","question":"Two explanations teach the same concept. One uses a labelled diagram before the prose; the other uses the diagram after the first paragraph. Which judgement is best?","audioPrompt":"Two explanations teach the same concept. One uses a labelled diagram before the prose; the other uses the diagram after the first paragraph. Which judgement is best?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Only the first can be effective.","Either can be effective if the placement helps the audience understand the explanation.","Only the second can be effective.","Diagrams cannot affect organisation."],"correct":1,"explanation":"Texts with the same purpose can organise stages and modes differently. Effectiveness depends on how the choices guide understanding.\nHint: Compare function, not just order.","structuredExplanation":{"summary":"Different organisational choices can both work when they support the same purpose.","hint":"Ask how each choice helps the reader."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la03-t-007","curriculumCode":"AC9E6LA03","bank":"test","skill":"identify stage and phase","printable":true,"type":"single","question":"A report's conclusion contains one sentence summarising findings and a second sentence recommending further research. Which statement is most accurate?","audioPrompt":"A report's conclusion contains one sentence summarising findings and a second sentence recommending further research. Which statement is most accurate?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Each sentence must be a separate stage.","The conclusion cannot contain smaller moves.","The conclusion is a stage that can contain smaller phases such as summary and recommendation.","The report has no structure because there are two functions."],"correct":2,"explanation":"One stage can contain several smaller phases. Here, summary and recommendation are smaller moves within the conclusion stage.\nHint: Do not assume stage = paragraph or sentence.","structuredExplanation":{"summary":"The conclusion stage can contain smaller summary and recommendation phases.","hint":"Look at big functions and smaller moves separately."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la03-t-008","curriculumCode":"AC9E6LA03","bank":"test","skill":"integrated organisation","printable":true,"type":"single","question":"A student says, 'If I know the text type, I can always use exactly the same structure.' What is the best response?","audioPrompt":"A student says, If I know the text type, I can always use exactly the same structure. What is the best response?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Correct; every text type has one unchangeable template.","Correct; audience and evidence do not matter.","Correct; multimodal texts should copy print structures exactly.","Not quite; typical structures guide writers, but purpose, audience, evidence and mode can change the organisation."],"correct":3,"explanation":"Knowing a typical structure is useful, but writers adapt it to the particular purpose, audience, evidence and mode.\nHint: Learn the pattern, then learn when and why it can change.","structuredExplanation":{"summary":"Typical structures guide rather than rigidly control every text.","hint":"Purpose and context shape organisation."},"qualitySchema":"student-facing-v2"}
+  {
+    "id": "ac9e6la03-t-001",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "skill": "text organisation",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: A science report starts with a question, explains the method, shows the results and finishes with a cautious conclusion. What does this structure help the reader do?",
+    "audioPrompt": "Test example: A science report starts with a question, explains the method, shows the results and finishes with a cautious conclusion. What does this structure help the reader do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "They can predict where to find each kind of information.",
+      "It would hide the method from the reader.",
+      "It makes the text imaginative instead of informative.",
+      "It proves the conclusion before evidence is shown."
+    ],
+    "correct": 0,
+    "explanation": "They can predict where to find each kind of information.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "They can predict where to find each kind of information.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la03-t-002",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "skill": "text organisation",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: Nia is writing a history explanation about why a town changed over time. Which order would help most?",
+    "audioPrompt": "Test example: Nia is writing a history explanation about why a town changed over time. Which order would help most?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It makes the text imaginative instead of informative.",
+      "Give context first, then causes, key events and consequences.",
+      "It proves the conclusion before evidence is shown.",
+      "It removes the need for subject vocabulary."
+    ],
+    "correct": 1,
+    "explanation": "Give context first, then causes, key events and consequences.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "Give context first, then causes, key events and consequences.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la03-t-003",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "skill": "text organisation",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: A multimodal page has a heading, a timeline, two labelled images and a short conclusion. Which part most clearly helps the reader follow sequence?",
+    "audioPrompt": "Test example: A multimodal page has a heading, a timeline, two labelled images and a short conclusion. Which part most clearly helps the reader follow sequence?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It proves the conclusion before evidence is shown.",
+      "It removes the need for subject vocabulary.",
+      "The timeline.",
+      "It would hide the method from the reader."
+    ],
+    "correct": 2,
+    "explanation": "The timeline.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "The timeline.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la03-t-004",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "skill": "text organisation",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: A procedure for building a kite begins with materials before steps. Why is that useful?",
+    "audioPrompt": "Test example: A procedure for building a kite begins with materials before steps. Why is that useful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It removes the need for subject vocabulary.",
+      "It would hide the method from the reader.",
+      "It makes the text imaginative instead of informative.",
+      "Readers know what they need before they begin."
+    ],
+    "correct": 3,
+    "explanation": "Readers know what they need before they begin.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "Readers know what they need before they begin.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la03-t-005",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "skill": "text organisation",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: Which sentence best explains why a writer might adapt a familiar report structure?",
+    "audioPrompt": "Test example: Which sentence best explains why a writer might adapt a familiar report structure?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The writer keeps the purpose clear while making the structure suit the topic and audience.",
+      "It would hide the method from the reader.",
+      "It makes the text imaginative instead of informative.",
+      "It proves the conclusion before evidence is shown."
+    ],
+    "correct": 0,
+    "explanation": "The writer keeps the purpose clear while making the structure suit the topic and audience.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "The writer keeps the purpose clear while making the structure suit the topic and audience.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la03-t-006",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "skill": "text organisation",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: a student says every stage must be one paragraph. Which example disproves this?",
+    "audioPrompt": "Test example: a student says every stage must be one paragraph. Which example disproves this?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It makes the text imaginative instead of informative.",
+      "A results stage may include a paragraph, a table and a labelled graph.",
+      "It proves the conclusion before evidence is shown.",
+      "It removes the need for subject vocabulary."
+    ],
+    "correct": 1,
+    "explanation": "A results stage may include a paragraph, a table and a labelled graph.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "A results stage may include a paragraph, a table and a labelled graph.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la03-t-007",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "skill": "text organisation",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: which choice best links text structure to subject purpose?",
+    "audioPrompt": "Test example: which choice best links text structure to subject purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It proves the conclusion before evidence is shown.",
+      "It removes the need for subject vocabulary.",
+      "A science report organises measurements and evidence so claims can be checked.",
+      "It would hide the method from the reader."
+    ],
+    "correct": 2,
+    "explanation": "A science report organises measurements and evidence so claims can be checked.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "A science report organises measurements and evidence so claims can be checked.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la03-t-008",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "skill": "text organisation",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: a website explanation uses tabs labelled Cause, Evidence and Impact. What are the tabs doing?",
+    "audioPrompt": "Test example: a website explanation uses tabs labelled Cause, Evidence and Impact. What are the tabs doing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It removes the need for subject vocabulary.",
+      "It would hide the method from the reader.",
+      "It makes the text imaginative instead of informative.",
+      "They organise phases of the explanation so readers can move through the ideas."
+    ],
+    "correct": 3,
+    "explanation": "They organise phases of the explanation so readers can move through the ideas.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "They organise phases of the explanation so readers can move through the ideas.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

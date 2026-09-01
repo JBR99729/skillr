@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6la06-p-001",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "skill": "sharpen a verb",
+    "skill": "verb groups and circumstances",
     "printable": true,
     "type": "single",
-    "question": "Which verb group shows an ongoing past process?",
-    "audioPrompt": "Which verb group shows an ongoing past process?",
+    "question": "Which verb group shows the action is still continuing?",
+    "audioPrompt": "Which verb group shows the action is still continuing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "was rising",
-      "rose",
-      "had risen",
-      "will rise"
+      "The class is collecting water samples.",
+      "The verb group gives no time information.",
+      "The circumstance changes the subject of the sentence.",
+      "A vague verb is always stronger."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates sharpen a verb in the stated context.\nHint: Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
+    "explanation": "The class is collecting water samples.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates sharpen a verb in the stated context.",
-      "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
+      "summary": "The class is collecting water samples.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la06-p-002",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "skill": "verb group",
+    "skill": "verb groups and circumstances",
     "printable": true,
     "type": "single",
-    "question": "Which term means “main verb with auxiliaries expressing tense, aspect or modality”?",
-    "audioPrompt": "Which term means “main verb with auxiliaries expressing tense, aspect or modality”?",
+    "question": "Which sentence adds a circumstance of reason?",
+    "audioPrompt": "Which sentence adds a circumstance of reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "aspect",
-      "verb group",
-      "adverbial",
-      "More modifiers means sharper writing"
+      "The circumstance changes the subject of the sentence.",
+      "The students stayed inside because lightning was nearby.",
+      "A vague verb is always stronger.",
+      "Modality proves the event definitely happened."
     ],
     "correct": 1,
-    "explanation": "verb group means main verb with auxiliaries expressing tense, aspect or modality.\nHint: Match the definition to the most precise term used in Expanding and Sharpening Ideas through Language Choice.",
+    "explanation": "The students stayed inside because lightning was nearby.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "verb group means main verb with auxiliaries expressing tense, aspect or modality.",
-      "hint": "Match the definition to the most precise term used in Expanding and Sharpening Ideas through Language Choice."
+      "summary": "The students stayed inside because lightning was nearby.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la06-p-003",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "skill": "compare aspect",
+    "skill": "verb groups and circumstances",
     "printable": true,
     "type": "single",
-    "question": "Which modal verb expresses possibility?",
-    "audioPrompt": "Which modal verb expresses possibility?",
+    "question": "Which revision makes the verb more precise?",
+    "audioPrompt": "Which revision makes the verb more precise?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "must",
-      "did",
-      "may",
-      "has"
+      "A vague verb is always stronger.",
+      "Modality proves the event definitely happened.",
+      "The eagle soared above the ridge.",
+      "The verb group gives no time information."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "explanation": "The eagle soared above the ridge.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "The eagle soared above the ridge.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la06-p-004",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "verb groups and circumstances",
     "printable": true,
     "type": "single",
-    "question": "A student says, “More modifiers means sharper writing.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “More modifiers means sharper writing.” Which response best corrects the misunderstanding?",
+    "question": "Read: The team might present tomorrow. What does might show?",
+    "audioPrompt": "Read: The team might present tomorrow. What does might show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Aspect shows ongoing or completed relationships",
-      "Check attachment",
-      "May, should and must express different commitment",
-      "Select precise relevant detail"
+      "Modality proves the event definitely happened.",
+      "The verb group gives no time information.",
+      "The circumstance changes the subject of the sentence.",
+      "Uncertainty or possibility."
     ],
     "correct": 3,
-    "explanation": "Select precise relevant detail\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "Uncertainty or possibility.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Select precise relevant detail",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "Uncertainty or possibility.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la06-p-005",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "skill": "sharpen a vague scientific statement",
+    "skill": "verb groups and circumstances",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Expanding and Sharpening Ideas through Language Choice?",
-    "audioPrompt": "Which pairing accurately reflects the model for Expanding and Sharpening Ideas through Language Choice?",
+    "question": "Which sentence gives the clearest information about when and where?",
+    "audioPrompt": "Which sentence gives the clearest information about when and where?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The water changed. → vague process",
-      "vague process → The water changed.",
-      "The water had gradually evaporated. → past-perfect aspect + manner",
-      "Tense and aspect treated as identical"
+      "After lunch, the group met beside the library entrance.",
+      "The verb group gives no time information.",
+      "The circumstance changes the subject of the sentence.",
+      "A vague verb is always stronger."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives.",
+    "explanation": "After lunch, the group met beside the library entrance.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives."
+      "summary": "After lunch, the group met beside the library entrance.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la06-p-006",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "verb groups and circumstances",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Expanding and Sharpening Ideas through Language Choice?",
-    "audioPrompt": "Which principle should guide a response about Expanding and Sharpening Ideas through Language Choice?",
+    "question": "Which choice uses an expanded verb group correctly?",
+    "audioPrompt": "Which choice uses an expanded verb group correctly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "More modifiers means sharper writing",
-      "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives",
-      "Tense and aspect treated as identical",
-      "Opening phrase has wrong actor"
+      "The circumstance changes the subject of the sentence.",
+      "The volunteers have been preparing the garden beds all morning.",
+      "A vague verb is always stronger.",
+      "Modality proves the event definitely happened."
     ],
     "correct": 1,
-    "explanation": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "The volunteers have been preparing the garden beds all morning.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Expansion is useful only when detail serves purpose. Verb choice often carries more precision than adding many adjectives",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "The volunteers have been preparing the garden beds all morning.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la06-p-007",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "verb groups and circumstances",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Revise three vague sentences by improving verb groups and adding only necessary circumstances?",
-    "audioPrompt": "Which plan would best complete this task: Revise three vague sentences by improving verb groups and adding only necessary circumstances?",
+    "question": "Why is sprinted stronger than went in The player went down the wing?",
+    "audioPrompt": "Why is sprinted stronger than went in The player went down the wing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "A vague verb is always stronger.",
+      "Modality proves the event definitely happened.",
+      "It gives a more exact action and suggests speed.",
+      "The verb group gives no time information."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases.",
+    "explanation": "It gives a more exact action and suggests speed.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
+      "summary": "It gives a more exact action and suggests speed.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la06-p-008",
     "curriculumCode": "AC9E6LA06",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "verb groups and circumstances",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Expanding and Sharpening Ideas through Language Choice?",
-    "audioPrompt": "Which evidence would best show secure understanding of Expanding and Sharpening Ideas through Language Choice?",
+    "question": "Which sentence adds a condition?",
+    "audioPrompt": "Which sentence adds a condition?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "More modifiers means sharper writing",
-      "Tense and aspect treated as identical",
-      "Opening phrase has wrong actor",
-      "Students select verb groups for tense, aspect, modality and precision and add circumstances that clarify when, where, how, why or under what condition an event occurs The response also explains its evidence and limitations."
+      "Modality proves the event definitely happened.",
+      "The verb group gives no time information.",
+      "The circumstance changes the subject of the sentence.",
+      "If the rain stops, the match will begin at 3 pm."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "If the rain stops, the match will begin at 3 pm.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "If the rain stops, the match will begin at 3 pm.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

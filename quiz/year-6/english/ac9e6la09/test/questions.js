@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6la09-t-001",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "skill": "dependent clause",
+    "skill": "commas",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies dependent clause?",
-    "audioPrompt": "In a new text, which definition correctly identifies dependent clause?",
+    "question": "Test example: Which sentence uses commas correctly in a list?",
+    "audioPrompt": "Test example: Which sentence uses commas correctly in a list?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Clause relying on a main clause",
-      "Incorrect joining of independent clauses by comma alone",
-      "Non-essential added detail often set off by commas",
-      "Independent clauses joined by comma alone"
+      "We packed torches, water, snacks and a map.",
+      "A comma can join any two complete sentences by itself.",
+      "Every pause in speech needs a comma.",
+      "List commas and clause commas do the same job."
     ],
     "correct": 0,
-    "explanation": "dependent clause means clause relying on a main clause.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "We packed torches, water, snacks and a map.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "dependent clause means clause relying on a main clause.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "We packed torches, water, snacks and a map.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la09-t-002",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "commas",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Independent clauses joined by comma alone.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Independent clauses joined by comma alone.” What is the most effective revision?",
+    "question": "Test example: Which sentence correctly uses a comma after an introductory clause?",
+    "audioPrompt": "Test example: Which sentence correctly uses a comma after an introductory clause?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use grammar and meaning",
-      "Use conjunction, semicolon or full stop",
-      "Add comma for clarity",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "Every pause in speech needs a comma.",
+      "After the bell rang, students moved to the hall.",
+      "List commas and clause commas do the same job.",
+      "Removing commas never changes meaning."
     ],
     "correct": 1,
-    "explanation": "Use conjunction, semicolon or full stop\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "After the bell rang, students moved to the hall.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Use conjunction, semicolon or full stop",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "After the bell rang, students moved to the hall.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la09-t-003",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "skill": "compare major comma functions",
+    "skill": "commas",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “dependent first → Although the data varied, the pattern remained.”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “dependent first → Although the data varied, the pattern remained.”?",
+    "question": "Test example: Which sentence avoids a comma splice?",
+    "audioPrompt": "Test example: Which sentence avoids a comma splice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Commas for Lists, Clauses and Clarity, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "List commas and clause commas do the same job.",
+      "Removing commas never changes meaning.",
+      "The rain stopped, so the match began.",
+      "A comma can join any two complete sentences by itself."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear.",
+    "explanation": "The rain stopped, so the match began.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear."
+      "summary": "The rain stopped, so the match began.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la09-t-004",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "skill": "identify and repair comma errors",
+    "skill": "commas",
     "printable": true,
     "type": "single",
-    "question": "When applying Commas for Lists, Clauses and Clarity to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Commas for Lists, Clauses and Clarity to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: What is the comma doing in Zara, my neighbour, owns a telescope?",
+    "audioPrompt": "Test example: What is the comma doing in Zara, my neighbour, owns a telescope?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Removing commas never changes meaning.",
+      "A comma can join any two complete sentences by itself.",
+      "Every pause in speech needs a comma.",
+      "It marks extra information about Zara."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Do not separate a subject from its verb or insert commas between essential elements without reason.",
+    "explanation": "It marks extra information about Zara.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+      "summary": "It marks extra information about Zara.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la09-t-005",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "skill": "supplementary information",
+    "skill": "commas",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of supplementary information?",
-    "audioPrompt": "Which example best demonstrates an understanding of supplementary information?",
+    "question": "Test example: Which sentence needs a comma to prevent confusion?",
+    "audioPrompt": "Test example: Which sentence needs a comma to prevent confusion?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Non-essential added detail often set off by commas, identified using evidence from the text.",
-      "Introductory dependent clause not separated",
-      "Subject and verb separated",
-      "A general comment that does not use the text."
+      "Before eating, the hikers washed their hands.",
+      "A comma can join any two complete sentences by itself.",
+      "Every pause in speech needs a comma.",
+      "List commas and clause commas do the same job."
     ],
     "correct": 0,
-    "explanation": "supplementary information is non-essential added detail often set off by commas.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "Before eating, the hikers washed their hands.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "supplementary information is non-essential added detail often set off by commas.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "Before eating, the hikers washed their hands.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la09-t-006",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "commas",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Commas for Lists, Clauses and Clarity?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Commas for Lists, Clauses and Clarity?",
+    "question": "Test example: Which sentence is punctuated correctly?",
+    "audioPrompt": "Test example: Which sentence is punctuated correctly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "Every pause in speech needs a comma.",
+      "Although the path was steep, the group kept walking.",
+      "List commas and clause commas do the same job.",
+      "Removing commas never changes meaning."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "Although the path was steep, the group kept walking.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "Although the path was steep, the group kept walking.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la09-t-007",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "commas",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Create sentence pairs where comma placement changes meaning, then explain the grammatical distinction?",
-    "audioPrompt": "Which response plan best addresses this challenge: Create sentence pairs where comma placement changes meaning, then explain the grammatical distinction?",
+    "question": "Test example: is Let us eat, Grandma different from Let us eat Grandma?",
+    "audioPrompt": "Test example: is Let us eat, Grandma different from Let us eat Grandma?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "List commas and clause commas do the same job.",
+      "Removing commas never changes meaning.",
+      "The comma shows Grandma is being spoken to, not eaten.",
+      "A comma can join any two complete sentences by itself."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Do not separate a subject from its verb or insert commas between essential elements without reason.",
+    "explanation": "The comma shows Grandma is being spoken to, not eaten.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+      "summary": "The comma shows Grandma is being spoken to, not eaten.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la09-t-008",
     "curriculumCode": "AC9E6LA09",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "commas",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Compare comma conventions in two reputable style contexts while preserving clarity and sentence structure?",
-    "audioPrompt": "Which approach best addresses this evaluation: Compare comma conventions in two reputable style contexts while preserving clarity and sentence structure?",
+    "question": "Test example: Which sentence uses commas around extra information?",
+    "audioPrompt": "Test example: Which sentence uses commas around extra information?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "Removing commas never changes meaning.",
+      "A comma can join any two complete sentences by itself.",
+      "Every pause in speech needs a comma.",
+      "The old bridge, built in 1920, still carries bikes and walkers."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "The old bridge, built in 1920, still carries bikes and walkers.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "The old bridge, built in 1920, still carries bikes and walkers.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

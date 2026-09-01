@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6ly06-p-001",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "skill": "plan purpose audience",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which stage most directly improves ideas and structure?",
-    "audioPrompt": "Which stage most directly improves ideas and structure?",
+    "question": "Before writing a long explanation, what should a student plan first?",
+    "audioPrompt": "Before writing a long explanation, what should a student plan first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "revision",
-      "printing",
-      "spell-check only",
-      "font colour selection"
+      "Purpose, audience, key ideas and order.",
+      "Edit spelling before checking whether ideas make sense.",
+      "Use visuals that decorate but do not support meaning.",
+      "Publish tiny low-contrast text."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates plan purpose/audience in the stated context.\nHint: The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
+    "explanation": "Purpose, audience, key ideas and order.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates plan purpose/audience in the stated context.",
-      "hint": "The process is recursive. New evidence or feedback may require returning to planning or restructuring."
+      "summary": "Purpose, audience, key ideas and order.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-p-002",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "skill": "revision",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which term means “substantive improvement of meaning and structure”?",
-    "audioPrompt": "Which term means “substantive improvement of meaning and structure”?",
+    "question": "Which paragraph opening clearly signals a new reason?",
+    "audioPrompt": "Which paragraph opening clearly signals a new reason?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "editing",
-      "revision",
-      "publishing",
-      "First draft treated as final"
+      "Use visuals that decorate but do not support meaning.",
+      "Another reason the wetlands should be protected is water quality.",
+      "Publish tiny low-contrast text.",
+      "Put paragraphs in any order."
     ],
     "correct": 1,
-    "explanation": "revision means substantive improvement of meaning and structure.\nHint: Match the definition to the most precise term used in Creating and Publishing Sustained Written and Multimodal Texts.",
+    "explanation": "Another reason the wetlands should be protected is water quality.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "revision means substantive improvement of meaning and structure.",
-      "hint": "Match the definition to the most precise term used in Creating and Publishing Sustained Written and Multimodal Texts."
+      "summary": "Another reason the wetlands should be protected is water quality.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-p-003",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "skill": "organise stages",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which visual is integrated effectively?",
-    "audioPrompt": "Which visual is integrated effectively?",
+    "question": "Which sentence best develops an informative paragraph?",
+    "audioPrompt": "Which sentence best develops an informative paragraph?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "An unrelated stock image",
-      "A logo covering data",
-      "A labelled diagram discussed in the explanation",
-      "A picture with no caption or role"
+      "Publish tiny low-contrast text.",
+      "Put paragraphs in any order.",
+      "This matters because the roots hold soil in place during heavy rain.",
+      "Edit spelling before checking whether ideas make sense."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "explanation": "This matters because the roots hold soil in place during heavy rain.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "This matters because the roots hold soil in place during heavy rain.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-p-004",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "A student says, “First draft treated as final.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “First draft treated as final.” Which response best corrects the misunderstanding?",
+    "question": "Why revise before editing spelling?",
+    "audioPrompt": "Why revise before editing spelling?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Work from large scale to detail",
-      "Plan their meaning role",
-      "Attribute evidence and media",
-      "Use feedback and revision"
+      "Put paragraphs in any order.",
+      "Edit spelling before checking whether ideas make sense.",
+      "Use visuals that decorate but do not support meaning.",
+      "Revision checks meaning and organisation before surface accuracy."
     ],
     "correct": 3,
-    "explanation": "Use feedback and revision\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "Revision checks meaning and organisation before surface accuracy.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Use feedback and revision",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "Revision checks meaning and organisation before surface accuracy.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-p-005",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "skill": "use a layered production cycle",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Creating and Publishing Sustained Written and Multimodal Texts?",
-    "audioPrompt": "Which pairing accurately reflects the model for Creating and Publishing Sustained Written and Multimodal Texts?",
+    "question": "Which visual feature would support instructions for making a compost bin?",
+    "audioPrompt": "Which visual feature would support instructions for making a compost bin?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Plan → ideas, evidence, structure, visual roles",
-      "ideas, evidence, structure, visual roles → Plan",
-      "Draft → paragraphs, stages and sentence relationships",
-      "Editing begins before structural problems are solved"
+      "A labelled diagram showing each layer.",
+      "Edit spelling before checking whether ideas make sense.",
+      "Use visuals that decorate but do not support meaning.",
+      "Publish tiny low-contrast text."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: The process is recursive. New evidence or feedback may require returning to planning or restructuring.",
+    "explanation": "A labelled diagram showing each layer.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "The process is recursive. New evidence or feedback may require returning to planning or restructuring."
+      "summary": "A labelled diagram showing each layer.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-p-006",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Creating and Publishing Sustained Written and Multimodal Texts?",
-    "audioPrompt": "Which principle should guide a response about Creating and Publishing Sustained Written and Multimodal Texts?",
+    "question": "Which choice creates cohesion across paragraphs?",
+    "audioPrompt": "Which choice creates cohesion across paragraphs?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "The process is recursive. New evidence or feedback may require returning to planning or restructuring",
-      "Editing begins before structural problems are solved",
-      "Visuals added decoratively"
+      "Use visuals that decorate but do not support meaning.",
+      "Repeating key terms and using connectives that show relationships.",
+      "Publish tiny low-contrast text.",
+      "Put paragraphs in any order."
     ],
     "correct": 1,
-    "explanation": "The process is recursive. New evidence or feedback may require returning to planning or restructuring\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "Repeating key terms and using connectives that show relationships.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The process is recursive. New evidence or feedback may require returning to planning or restructuring",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "Repeating key terms and using connectives that show relationships.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-p-007",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Plan a sustained multimodal text with paragraph purposes, visual roles, evidence and revision checkpoints?",
-    "audioPrompt": "Which plan would best complete this task: Plan a sustained multimodal text with paragraph purposes, visual roles, evidence and revision checkpoints?",
+    "question": "A persuasive text has evidence but no clear conclusion. What is missing?",
+    "audioPrompt": "A persuasive text has evidence but no clear conclusion. What is missing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "Publish tiny low-contrast text.",
+      "Put paragraphs in any order.",
+      "A final section that reinforces the position and next step.",
+      "Edit spelling before checking whether ideas make sense."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Multimodal elements need distinct functions and should be referenced in the written or spoken meaning.",
+    "explanation": "A final section that reinforces the position and next step.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Multimodal elements need distinct functions and should be referenced in the written or spoken meaning."
+      "summary": "A final section that reinforces the position and next step.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly06-p-008",
     "curriculumCode": "AC9E6LY06",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "creating sustained texts",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Creating and Publishing Sustained Written and Multimodal Texts?",
-    "audioPrompt": "Which evidence would best show secure understanding of Creating and Publishing Sustained Written and Multimodal Texts?",
+    "question": "Which publishing choice improves accessibility?",
+    "audioPrompt": "Which publishing choice improves accessibility?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First draft treated as final",
-      "Editing begins before structural problems are solved",
-      "Visuals added decoratively",
-      "Students plan sustained texts, organise paragraphs and multimodal stages, develop ideas with evidence or imagery, control sentence and cohesion choices and revise meaning before editing and publishing accessibly The response also explains its evidence and limitations."
+      "Put paragraphs in any order.",
+      "Edit spelling before checking whether ideas make sense.",
+      "Use visuals that decorate but do not support meaning.",
+      "Readable font size, clear contrast and alt text for images."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "Readable font size, clear contrast and alt text for images.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Readable font size, clear contrast and alt text for images.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

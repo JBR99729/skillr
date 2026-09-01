@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6la03-p-001",
     "curriculumCode": "AC9E6LA03",
     "bank": "practice",
-    "skill": "identify stages",
+    "skill": "text organisation",
     "printable": true,
     "type": "single",
-    "question": "Which sequence best suits a scientific investigation report?",
-    "audioPrompt": "Which sequence best suits a scientific investigation report?",
+    "question": "A science report starts with a question, explains the method, shows the results and finishes with a cautious conclusion. What does this structure help the reader do?",
+    "audioPrompt": "A science report starts with a question, explains the method, shows the results and finishes with a cautious conclusion. What does this structure help the reader do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "question, method, results, conclusion",
-      "orientation, climax, resolution only",
-      "slogan, price, purchase",
-      "greeting, joke, farewell"
+      "They can predict where to find each kind of information.",
+      "It would hide the method from the reader.",
+      "It makes the text imaginative instead of informative.",
+      "It proves the conclusion before evidence is shown."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates identify stages in the stated context.\nHint: Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose.",
+    "explanation": "They can predict where to find each kind of information.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates identify stages in the stated context.",
-      "hint": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose."
+      "summary": "They can predict where to find each kind of information.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la03-p-002",
     "curriculumCode": "AC9E6LA03",
     "bank": "practice",
-    "skill": "stage",
+    "skill": "text organisation",
     "printable": true,
     "type": "single",
-    "question": "Which term means “major functional section”?",
-    "audioPrompt": "Which term means “major functional section”?",
+    "question": "Nia is writing a history explanation about why a town changed over time. Which order would help most?",
+    "audioPrompt": "Nia is writing a history explanation about why a town changed over time. Which order would help most?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "phase",
-      "stage",
-      "disciplinary language",
-      "Stage equals one paragraph"
+      "It makes the text imaginative instead of informative.",
+      "Give context first, then causes, key events and consequences.",
+      "It proves the conclusion before evidence is shown.",
+      "It removes the need for subject vocabulary."
     ],
     "correct": 1,
-    "explanation": "stage means major functional section.\nHint: Match the definition to the most precise term used in Organisation of Curriculum Texts.",
+    "explanation": "Give context first, then causes, key events and consequences.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "stage means major functional section.",
-      "hint": "Match the definition to the most precise term used in Organisation of Curriculum Texts."
+      "summary": "Give context first, then causes, key events and consequences.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la03-p-003",
     "curriculumCode": "AC9E6LA03",
     "bank": "practice",
-    "skill": "name a phase",
+    "skill": "text organisation",
     "printable": true,
     "type": "single",
-    "question": "What is a phase?",
-    "audioPrompt": "What is a phase?",
+    "question": "A multimodal page has a heading, a timeline, two labelled images and a short conclusion. Which part most clearly helps the reader follow sequence?",
+    "audioPrompt": "A multimodal page has a heading, a timeline, two labelled images and a short conclusion. Which part most clearly helps the reader follow sequence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Always a whole book",
-      "A punctuation mark",
-      "A smaller functional move within a stage",
-      "An unrelated decoration"
+      "It proves the conclusion before evidence is shown.",
+      "It removes the need for subject vocabulary.",
+      "The timeline.",
+      "It would hide the method from the reader."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
+    "explanation": "The timeline.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "The timeline.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la03-p-004",
     "curriculumCode": "AC9E6LA03",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "text organisation",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Stage equals one paragraph.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Stage equals one paragraph.” Which response best corrects the misunderstanding?",
+    "question": "A procedure for building a kite begins with materials before steps. Why is that useful?",
+    "audioPrompt": "A procedure for building a kite begins with materials before steps. Why is that useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Purpose determines form",
-      "Audience and evidence shape organisation",
-      "They can form explanatory phases",
-      "Stages can span several paragraphs or modes"
+      "It removes the need for subject vocabulary.",
+      "It would hide the method from the reader.",
+      "It makes the text imaginative instead of informative.",
+      "Readers know what they need before they begin."
     ],
     "correct": 3,
-    "explanation": "Stages can span several paragraphs or modes\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "Readers know what they need before they begin.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Stages can span several paragraphs or modes",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "Readers know what they need before they begin.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la03-p-005",
     "curriculumCode": "AC9E6LA03",
     "bank": "practice",
-    "skill": "compare disciplinary text structures",
+    "skill": "text organisation",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Organisation of Curriculum Texts?",
-    "audioPrompt": "Which pairing accurately reflects the model for Organisation of Curriculum Texts?",
+    "question": "Which sentence best explains why a writer might adapt a familiar report structure?",
+    "audioPrompt": "Which sentence best explains why a writer might adapt a familiar report structure?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "science investigation → question–method–results–conclusion → variables, measurements, cautious claims",
-      "variables, measurements, cautious claims → question–method–results–conclusion → science investigation",
-      "historical explanation → context–causes–events–consequences → chronology, sources, causality",
-      "Every subject uses one text type"
+      "The writer keeps the purpose clear while making the structure suit the topic and audience.",
+      "It would hide the method from the reader.",
+      "It makes the text imaginative instead of informative.",
+      "It proves the conclusion before evidence is shown."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose.",
+    "explanation": "The writer keeps the purpose clear while making the structure suit the topic and audience.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose."
+      "summary": "The writer keeps the purpose clear while making the structure suit the topic and audience.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la03-p-006",
     "curriculumCode": "AC9E6LA03",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "text organisation",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Organisation of Curriculum Texts?",
-    "audioPrompt": "Which principle should guide a response about Organisation of Curriculum Texts?",
+    "question": "A student says every stage must be one paragraph. Which example disproves this?",
+    "audioPrompt": "A student says every stage must be one paragraph. Which example disproves this?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Stage equals one paragraph",
-      "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose",
-      "Every subject uses one text type",
-      "Template followed without adaptation"
+      "It makes the text imaginative instead of informative.",
+      "A results stage may include a paragraph, a table and a labelled graph.",
+      "It proves the conclusion before evidence is shown.",
+      "It removes the need for subject vocabulary."
     ],
     "correct": 1,
-    "explanation": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "A results stage may include a paragraph, a table and a labelled graph.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Structures are typical resources, not rigid templates. Writers adapt them while preserving recognisable purpose",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "A results stage may include a paragraph, a table and a labelled graph.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la03-p-007",
     "curriculumCode": "AC9E6LA03",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "text organisation",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Map stages and phases in a multimodal explanation and explain how each mode contributes?",
-    "audioPrompt": "Which plan would best complete this task: Map stages and phases in a multimodal explanation and explain how each mode contributes?",
+    "question": "Which choice best links text structure to subject purpose?",
+    "audioPrompt": "Which choice best links text structure to subject purpose?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "It proves the conclusion before evidence is shown.",
+      "It removes the need for subject vocabulary.",
+      "A science report organises measurements and evidence so claims can be checked.",
+      "It would hide the method from the reader."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
+    "explanation": "A science report organises measurements and evidence so claims can be checked.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+      "summary": "A science report organises measurements and evidence so claims can be checked.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6la03-p-008",
     "curriculumCode": "AC9E6LA03",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "text organisation",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Organisation of Curriculum Texts?",
-    "audioPrompt": "Which evidence would best show secure understanding of Organisation of Curriculum Texts?",
+    "question": "A website explanation uses tabs labelled Cause, Evidence and Impact. What are the tabs doing?",
+    "audioPrompt": "A website explanation uses tabs labelled Cause, Evidence and Impact. What are the tabs doing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Stage equals one paragraph",
-      "Every subject uses one text type",
-      "Template followed without adaptation",
-      "Students compare reports, explanations, arguments, procedures, historical accounts and multimodal presentations and connect their stages, evidence patterns and specialised language to purpose The response also explains its evidence and limitations."
+      "It removes the need for subject vocabulary.",
+      "It would hide the method from the reader.",
+      "It makes the text imaginative instead of informative.",
+      "They organise phases of the explanation so readers can move through the ideas."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "They organise phases of the explanation so readers can move through the ideas.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "They organise phases of the explanation so readers can move through the ideas.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

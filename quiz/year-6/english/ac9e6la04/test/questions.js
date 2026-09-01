@@ -1,13 +1,237 @@
 "use strict";
 window.skillrTestQuestions = [
-{"id":"ac9e6la04-t-001","curriculumCode":"AC9E6LA04","bank":"test","skill":"reference","printable":true,"type":"single","question":"Read: 'The storm damaged the jetty. This structure will need repairs.' What does 'This structure' refer to?","audioPrompt":"The storm damaged the jetty. This structure will need repairs. What does This structure refer to?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["the jetty","the storm","the repairs","the weather"],"correct":0,"explanation":"'This structure' substitutes for and refers back to 'the jetty', keeping the topic connected.\nHint: Follow the reference chain across sentences.","structuredExplanation":{"summary":"'This structure' refers back to the jetty.","hint":"Ask which earlier noun the replacement clearly points to."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la04-t-002","curriculumCode":"AC9E6LA04","bank":"test","skill":"repair ambiguity","printable":true,"type":"single","question":"Which revision best fixes the ambiguity in 'Noah told Liam that he needed to revise the paragraph'?","audioPrompt":"Which revision best fixes the ambiguity in Noah told Liam that he needed to revise the paragraph?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Noah told Liam that he really needed it.","Noah told Liam, 'You need to revise the paragraph.'","Noah told Liam that he needed to revise it thing.","He told him that he needed it."],"correct":1,"explanation":"The direct quotation makes it clear that Liam is the person who needs to revise.\nHint: If a pronoun has two possible antecedents, name the person or rewrite the sentence.","structuredExplanation":{"summary":"The direct quotation removes the unclear pronoun reference.","hint":"Clarity is more important than avoiding repeated nouns."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la04-t-003","curriculumCode":"AC9E6LA04","bank":"test","skill":"ellipsis","printable":true,"type":"single","question":"Which sentence uses ellipsis correctly?","audioPrompt":"Which sentence uses ellipsis correctly?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Ava brought sandwiches; Noah, fruit.","Ava brought sandwiches; Noah because.","Ava brought sandwiches; fruit Noah brought maybe.","Ava brought sandwiches and Noah."],"correct":0,"explanation":"In 'Noah, fruit', the reader can recover 'brought' from the first clause. The omitted wording is clear.\nHint: Ellipsis works only when the missing words are easy to recover.","structuredExplanation":{"summary":"'Noah, fruit' clearly omits the recoverable verb 'brought'.","hint":"Check whether the sentence is still unambiguous after words are omitted."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la04-t-004","curriculumCode":"AC9E6LA04","bank":"test","skill":"connective logic","printable":true,"type":"single","question":"Which sentence uses its connective correctly?","audioPrompt":"Which sentence uses its connective correctly?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["The path was flooded; however, the river had risen.","The path was flooded; meanwhile, flooding causes water.","The path was flooded; although, we turned back.","The path was flooded; therefore, we turned back."],"correct":3,"explanation":"Turning back is a consequence of the flooded path, so 'therefore' shows the correct result relationship.\nHint: Do not choose a connective just because it sounds formal; check the logic.","structuredExplanation":{"summary":"'Therefore' correctly links the flooded path to the decision to turn back.","hint":"Identify the relationship before choosing the connective."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la04-t-005","curriculumCode":"AC9E6LA04","bank":"test","skill":"technical repetition","printable":true,"type":"single","question":"A biology paragraph repeats 'photosynthesis' several times. When is this repetition useful rather than a weakness?","audioPrompt":"A biology paragraph repeats photosynthesis several times. When is this repetition useful rather than a weakness?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["When repeating the precise technical term prevents confusion about what process is being discussed.","Whenever the writer cannot think of another word.","Only when every sentence is identical.","Never; repetition must always be removed."],"correct":0,"explanation":"Technical repetition can maintain precision. Replacing a key term with vague synonyms may weaken cohesion.\nHint: Cohesion balances variation with clarity.","structuredExplanation":{"summary":"Repeating a precise technical term can keep the topic clear.","hint":"Do not remove useful repetition automatically."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la04-t-006","curriculumCode":"AC9E6LA04","bank":"test","skill":"substitution","printable":true,"type":"single","question":"Read: 'The council tested a new recycling process. The system reduced waste by 18%.' What cohesion device is used in 'The system'?","audioPrompt":"The council tested a new recycling process. The system reduced waste by eighteen percent. What cohesion device is used in The system?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["ellipsis","substitution that refers back to the recycling process","unrelated repetition","contrast"],"correct":1,"explanation":"'The system' stands in for the earlier phrase 'a new recycling process' while keeping the same topic.\nHint: Substitution replaces earlier content with a shorter referring expression.","structuredExplanation":{"summary":"'The system' substitutes for the earlier recycling process.","hint":"Trace what the new phrase stands for."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la04-t-007","curriculumCode":"AC9E6LA04","bank":"test","skill":"cohesion repair","printable":true,"type":"single","question":"Which revision best improves cohesion? 'The habitat is shrinking. The habitat is dry. The habitat has fewer nesting sites.'","audioPrompt":"Which revision best improves cohesion? The habitat is shrinking. The habitat is dry. The habitat has fewer nesting sites.","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Remove every mention of habitat.","The habitat is shrinking. Bananas are dry. It has fewer nesting sites.","The habitat is shrinking. This environment is becoming drier, and it has fewer nesting sites.","The habitat habitat habitat is shrinking dry nesting."],"correct":2,"explanation":"'This environment' and 'it' reduce awkward repetition while clearly referring to the habitat.\nHint: Vary wording only when the reference chain remains easy to follow.","structuredExplanation":{"summary":"The revision balances substitution and reference while keeping the topic clear.","hint":"Check both clarity and flow."},"qualitySchema":"student-facing-v2"},
-{"id":"ac9e6la04-t-008","curriculumCode":"AC9E6LA04","bank":"test","skill":"integrated cohesion","printable":true,"type":"single","question":"A paragraph uses pronouns, substitution and connectives, but readers still cannot tell what 'it' refers to. Is the paragraph cohesive?","audioPrompt":"A paragraph uses pronouns, substitution and connectives, but readers still cannot tell what it refers to. Is the paragraph cohesive?","visual":"","visualHtml":"","visualMeta":{"type":"none","alt_text":""},"answers":["Yes, because using many devices automatically creates cohesion.","Yes, because pronouns are always better than nouns.","Yes, because connectives fix unclear reference.","No; cohesion depends on clear recoverable links, not simply using the devices."],"correct":3,"explanation":"Cohesion works only when readers can recover the links between ideas. An unclear reference breaks that chain.\nHint: The purpose of cohesion devices is clarity and connection.","structuredExplanation":{"summary":"Using cohesion devices is not enough if the reference remains unclear.","hint":"Ask whether the reader can follow each link without guessing."},"qualitySchema":"student-facing-v2"}
+  {
+    "id": "ac9e6la04-t-001",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "test",
+    "skill": "cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: Ava planted seedlings. The seedlings needed shade. They also needed water. What does They refer to?",
+    "audioPrompt": "Test example: Ava planted seedlings. The seedlings needed shade. They also needed water. What does They refer to?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The seedlings.",
+      "The pronoun points to a different noun.",
+      "The connection is made by rhyme, not meaning.",
+      "The connective shows contrast instead of cause."
+    ],
+    "correct": 0,
+    "explanation": "The seedlings.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "The seedlings.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la04-t-002",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "test",
+    "skill": "cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: rewrite avoids repeating the noun too heavily while keeping the meaning clear?",
+    "audioPrompt": "Test example: rewrite avoids repeating the noun too heavily while keeping the meaning clear?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The connection is made by rhyme, not meaning.",
+      "Ava planted seedlings. They needed shade and water.",
+      "The connective shows contrast instead of cause.",
+      "Repeating a key word always makes writing weaker."
+    ],
+    "correct": 1,
+    "explanation": "Ava planted seedlings. They needed shade and water.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "Ava planted seedlings. They needed shade and water.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la04-t-003",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "test",
+    "skill": "cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: In a paragraph about coral reefs, the words reef, coral, marine life and habitat form what kind of connection?",
+    "audioPrompt": "Test example: In a paragraph about coral reefs, the words reef, coral, marine life and habitat form what kind of connection?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The connective shows contrast instead of cause.",
+      "Repeating a key word always makes writing weaker.",
+      "A lexical chain about the same field of meaning.",
+      "The pronoun points to a different noun."
+    ],
+    "correct": 2,
+    "explanation": "A lexical chain about the same field of meaning.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "A lexical chain about the same field of meaning.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la04-t-004",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "test",
+    "skill": "cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: connective best shows cause: The path was flooded, ___ the game was moved indoors.",
+    "audioPrompt": "Test example: connective best shows cause: The path was flooded, ___ the game was moved indoors.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Repeating a key word always makes writing weaker.",
+      "The pronoun points to a different noun.",
+      "The connection is made by rhyme, not meaning.",
+      "so"
+    ],
+    "correct": 3,
+    "explanation": "so\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "so",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la04-t-005",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "test",
+    "skill": "cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: A paragraph suddenly changes from Maya to they without naming the group. What is the likely problem?",
+    "audioPrompt": "Test example: A paragraph suddenly changes from Maya to they without naming the group. What is the likely problem?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The pronoun reference may be unclear.",
+      "The pronoun points to a different noun.",
+      "The connection is made by rhyme, not meaning.",
+      "The connective shows contrast instead of cause."
+    ],
+    "correct": 0,
+    "explanation": "The pronoun reference may be unclear.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "The pronoun reference may be unclear.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la04-t-006",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "test",
+    "skill": "cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: pair shows substitution?",
+    "audioPrompt": "Test example: pair shows substitution?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The connection is made by rhyme, not meaning.",
+      "the long route → the shorter one",
+      "The connective shows contrast instead of cause.",
+      "Repeating a key word always makes writing weaker."
+    ],
+    "correct": 1,
+    "explanation": "the long route → the shorter one\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "the long route → the shorter one",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la04-t-007",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "test",
+    "skill": "cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: might a writer repeat a key word instead of replacing it every time?",
+    "audioPrompt": "Test example: might a writer repeat a key word instead of replacing it every time?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The connective shows contrast instead of cause.",
+      "Repeating a key word always makes writing weaker.",
+      "To keep a technical idea precise and easy to track.",
+      "The pronoun points to a different noun."
+    ],
+    "correct": 2,
+    "explanation": "To keep a technical idea precise and easy to track.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "To keep a technical idea precise and easy to track.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  },
+  {
+    "id": "ac9e6la04-t-008",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "test",
+    "skill": "cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Test example: First the class sorted the data. Next they graphed it. Finally they explained the trend. What do First, Next and Finally create?",
+    "audioPrompt": "Test example: First the class sorted the data. Next they graphed it. Finally they explained the trend. What do First, Next and Finally create?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Repeating a key word always makes writing weaker.",
+      "The pronoun points to a different noun.",
+      "The connection is made by rhyme, not meaning.",
+      "A clear sequence of events."
+    ],
+    "correct": 3,
+    "explanation": "A clear sequence of events.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "structuredExplanation": {
+      "summary": "A clear sequence of events.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+    },
+    "qualitySchema": "student-facing-v2"
+  }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

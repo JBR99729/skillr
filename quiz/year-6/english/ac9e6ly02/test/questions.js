@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6ly02-t-001",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "probing question",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies probing question?",
-    "audioPrompt": "In a new text, which definition correctly identifies probing question?",
+    "question": "Test example: which response shows accurate listening?",
+    "audioPrompt": "Test example: which response shows accurate listening?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Question seeking deeper reasoning or evidence",
-      "Accurate restatement in new words",
-      "Language choices suited to context",
-      "Question becomes an accusation"
+      "So you are saying the garden should be moved because it needs more sunlight.",
+      "Disagree before showing you understood the idea.",
+      "Ask a question that attacks the speaker.",
+      "Give a claim with no reason."
     ],
     "correct": 0,
-    "explanation": "probing question means question seeking deeper reasoning or evidence.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "So you are saying the garden should be moved because it needs more sunlight.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "probing question means question seeking deeper reasoning or evidence.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "So you are saying the garden should be moved because it needs more sunlight.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-t-002",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Question becomes an accusation.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Question becomes an accusation.” What is the most effective revision?",
+    "question": "Test example: question is best for clarifying a claim?",
+    "audioPrompt": "Test example: question is best for clarifying a claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Restate meaning concisely",
-      "Use neutral inquiry",
-      "Formal discussion can include challenge",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "Ask a question that attacks the speaker.",
+      "Can you explain what evidence supports that point?",
+      "Give a claim with no reason.",
+      "Use the same register in every discussion."
     ],
     "correct": 1,
-    "explanation": "Use neutral inquiry\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "Can you explain what evidence supports that point?\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Use neutral inquiry",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "Can you explain what evidence supports that point?",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-t-003",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "use a disciplined discussion response",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “Clarify/probe → What evidence supportsthe omitted idea?”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “Clarify/probe → What evidence supportsthe omitted idea?”?",
+    "question": "Test example: A classmate challenges your idea politely. What is the strongest reply?",
+    "audioPrompt": "Test example: A classmate challenges your idea politely. What is the strongest reply?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Formal and Informal Interaction Skills, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "Give a claim with no reason.",
+      "Use the same register in every discussion.",
+      "That is a fair concern; I still think my idea works because the survey supports it.",
+      "Disagree before showing you understood the idea."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes.",
+    "explanation": "That is a fair concern; I still think my idea works because the survey supports it.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "Paraphrasing checks understanding; it does not signal agreement. Formality should suit the group, role and stakes."
+      "summary": "That is a fair concern; I still think my idea works because the survey supports it.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-t-004",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "adjust interaction language by context",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "When applying Formal and Informal Interaction Skills to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Formal and Informal Interaction Skills to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: Which sentence uses a suitable formal register in a debate?",
+    "audioPrompt": "Test example: Which sentence uses a suitable formal register in a debate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Use the same register in every discussion.",
+      "Disagree before showing you understood the idea.",
+      "Ask a question that attacks the speaker.",
+      "I disagree because the data suggests a different conclusion."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain.",
+    "explanation": "I disagree because the data suggests a different conclusion.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
+      "summary": "I disagree because the data suggests a different conclusion.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-t-005",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "register",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of register?",
-    "audioPrompt": "Which example best demonstrates an understanding of register?",
+    "question": "Test example: paraphrase before disagreeing?",
+    "audioPrompt": "Test example: paraphrase before disagreeing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Language choices suited to context, identified using evidence from the text.",
-      "Formality confused with silence",
-      "Personal experience replaces evidence",
-      "A general comment that does not use the text."
+      "It shows you understood the idea you are responding to.",
+      "Disagree before showing you understood the idea.",
+      "Ask a question that attacks the speaker.",
+      "Give a claim with no reason."
     ],
     "correct": 0,
-    "explanation": "register is language choices suited to context.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "It shows you understood the idea you are responding to.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "register is language choices suited to context.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "It shows you understood the idea you are responding to.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-t-006",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Formal and Informal Interaction Skills?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Formal and Informal Interaction Skills?",
+    "question": "Test example: response gives a reasoned position?",
+    "audioPrompt": "Test example: response gives a reasoned position?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "Ask a question that attacks the speaker.",
+      "I support the later start because attendance improved during the trial.",
+      "Give a claim with no reason.",
+      "Use the same register in every discussion."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "I support the later start because attendance improved during the trial.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "I support the later start because attendance improved during the trial.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-t-007",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Design a discussion protocol that balances equitable participation, formality and evidence quality?",
-    "audioPrompt": "Which response plan best addresses this challenge: Design a discussion protocol that balances equitable participation, formality and evidence quality?",
+    "question": "Test example: A speaker gives an example that does not match the claim. What should you ask?",
+    "audioPrompt": "Test example: A speaker gives an example that does not match the claim. What should you ask?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "Give a claim with no reason.",
+      "Use the same register in every discussion.",
+      "How does that example prove the main point?",
+      "Disagree before showing you understood the idea."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain.",
+    "explanation": "How does that example prove the main point?\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
+      "summary": "How does that example prove the main point?",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly02-t-008",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "discussion skills",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Analyse a transcript where participants misunderstand one another and repair key turns?",
-    "audioPrompt": "Which approach best addresses this evaluation: Analyse a transcript where participants misunderstand one another and repair key turns?",
+    "question": "Test example: interaction keeps the discussion constructive?",
+    "audioPrompt": "Test example: interaction keeps the discussion constructive?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "Use the same register in every discussion.",
+      "Disagree before showing you understood the idea.",
+      "Ask a question that attacks the speaker.",
+      "Building on another idea while adding new evidence."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "Building on another idea while adding new evidence.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "Building on another idea while adding new evidence.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

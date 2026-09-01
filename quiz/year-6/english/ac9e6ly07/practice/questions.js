@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6ly07-p-001",
     "curriculumCode": "AC9E6LY07",
     "bank": "practice",
-    "skill": "create roadmap",
+    "skill": "presentations",
     "printable": true,
     "type": "single",
-    "question": "Which slide best supports a presentation?",
-    "audioPrompt": "Which slide best supports a presentation?",
+    "question": "What should a storyboard for a presentation show?",
+    "audioPrompt": "What should a storyboard for a presentation show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A readable graph with a concise heading and spoken explanation",
-      "A full script in tiny text",
-      "An unrelated animation",
-      "A blank decorative screen"
+      "The order of ideas, visuals and spoken points.",
+      "Put all speaking notes on one slide.",
+      "Ignore timing until presentation day.",
+      "Use visuals that are unrelated to the claim."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates create roadmap in the stated context.\nHint: Slides cue and extend speech; they should not become a small-font script.",
+    "explanation": "The order of ideas, visuals and spoken points.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates create roadmap in the stated context.",
-      "hint": "Slides cue and extend speech; they should not become a small-font script."
+      "summary": "The order of ideas, visuals and spoken points.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly07-p-002",
     "curriculumCode": "AC9E6LY07",
     "bank": "practice",
-    "skill": "signposting",
+    "skill": "presentations",
     "printable": true,
     "type": "single",
-    "question": "Which term means “language signalling organisation”?",
-    "audioPrompt": "Which term means “language signalling organisation”?",
+    "question": "Which opening best signals the central idea?",
+    "audioPrompt": "Which opening best signals the central idea?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "elaboration",
-      "signposting",
-      "delivery",
-      "Confidence replaces content"
+      "Ignore timing until presentation day.",
+      "Today I will show why our class should reduce single-use packaging.",
+      "Use visuals that are unrelated to the claim.",
+      "Jump between ideas without transitions."
     ],
     "correct": 1,
-    "explanation": "signposting means language signalling organisation.\nHint: Match the definition to the most precise term used in Spoken and Multimodal Presentations.",
+    "explanation": "Today I will show why our class should reduce single-use packaging.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "signposting means language signalling organisation.",
-      "hint": "Match the definition to the most precise term used in Spoken and Multimodal Presentations."
+      "summary": "Today I will show why our class should reduce single-use packaging.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly07-p-003",
     "curriculumCode": "AC9E6LY07",
     "bank": "practice",
-    "skill": "elaborate claim",
+    "skill": "presentations",
     "printable": true,
     "type": "single",
-    "question": "Which rehearsal result requires revision?",
-    "audioPrompt": "Which rehearsal result requires revision?",
+    "question": "A slide has six paragraphs of tiny text. What is the best revision?",
+    "audioPrompt": "A slide has six paragraphs of tiny text. What is the best revision?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The timing meets the limit",
-      "The graph is readable",
-      "Listeners cannot identify the main claim",
-      "The speaker pauses before evidence"
+      "Use visuals that are unrelated to the claim.",
+      "Jump between ideas without transitions.",
+      "Use a few key words and explain the detail aloud.",
+      "Put all speaking notes on one slide."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
+    "explanation": "Use a few key words and explain the detail aloud.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "Use a few key words and explain the detail aloud.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly07-p-004",
     "curriculumCode": "AC9E6LY07",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "presentations",
     "printable": true,
     "type": "single",
-    "question": "A student says, “Confidence replaces content.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “Confidence replaces content.” Which response best corrects the misunderstanding?",
+    "question": "Why rehearse with a timer?",
+    "audioPrompt": "Why rehearse with a timer?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use models and cues",
-      "Control volume",
-      "Test timing, clarity and visuals",
-      "Support ideas"
+      "Jump between ideas without transitions.",
+      "Put all speaking notes on one slide.",
+      "Ignore timing until presentation day.",
+      "To check pacing and adjust sections before presenting."
     ],
     "correct": 3,
-    "explanation": "Support ideas\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "To check pacing and adjust sections before presenting.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Support ideas",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "To check pacing and adjust sections before presenting.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly07-p-005",
     "curriculumCode": "AC9E6LY07",
     "bank": "practice",
-    "skill": "storyboard before designing slides",
+    "skill": "presentations",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Spoken and Multimodal Presentations?",
-    "audioPrompt": "Which pairing accurately reflects the model for Spoken and Multimodal Presentations?",
+    "question": "Which visual best supports data about lunch waste?",
+    "audioPrompt": "Which visual best supports data about lunch waste?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "opening → hook, purpose, roadmap → one clear title/image/model",
-      "one clear title/image/model → hook, purpose, roadmap → opening",
-      "idea 1 → claim + evidence + explanation → graph or diagram",
-      "Slides duplicate script"
+      "A simple bar graph comparing waste from each day.",
+      "Put all speaking notes on one slide.",
+      "Ignore timing until presentation day.",
+      "Use visuals that are unrelated to the claim."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: Slides cue and extend speech; they should not become a small-font script.",
+    "explanation": "A simple bar graph comparing waste from each day.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Slides cue and extend speech; they should not become a small-font script."
+      "summary": "A simple bar graph comparing waste from each day.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly07-p-006",
     "curriculumCode": "AC9E6LY07",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "presentations",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Spoken and Multimodal Presentations?",
-    "audioPrompt": "Which principle should guide a response about Spoken and Multimodal Presentations?",
+    "question": "What transition helps listeners follow the structure?",
+    "audioPrompt": "What transition helps listeners follow the structure?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Confidence replaces content",
-      "Slides cue and extend speech; they should not become a small-font script",
-      "Slides duplicate script",
-      "Loudest voice considered best"
+      "Ignore timing until presentation day.",
+      "Now that we have seen the problem, let us look at one solution.",
+      "Use visuals that are unrelated to the claim.",
+      "Jump between ideas without transitions."
     ],
     "correct": 1,
-    "explanation": "Slides cue and extend speech; they should not become a small-font script\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "Now that we have seen the problem, let us look at one solution.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Slides cue and extend speech; they should not become a small-font script",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "Now that we have seen the problem, let us look at one solution.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly07-p-007",
     "curriculumCode": "AC9E6LY07",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "presentations",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Create a presentation storyboard with spoken sections, visual functions, transitions and delivery notes?",
-    "audioPrompt": "Which plan would best complete this task: Create a presentation storyboard with spoken sections, visual functions, transitions and delivery notes?",
+    "question": "A presenter speaks too quickly during key evidence. What should they adjust?",
+    "audioPrompt": "A presenter speaks too quickly during key evidence. What should they adjust?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "Use visuals that are unrelated to the claim.",
+      "Jump between ideas without transitions.",
+      "Pace and pausing.",
+      "Put all speaking notes on one slide."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
+    "explanation": "Pace and pausing.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+      "summary": "Pace and pausing.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly07-p-008",
     "curriculumCode": "AC9E6LY07",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "presentations",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Spoken and Multimodal Presentations?",
-    "audioPrompt": "Which evidence would best show secure understanding of Spoken and Multimodal Presentations?",
+    "question": "Which reflection uses rehearsal data well?",
+    "audioPrompt": "Which reflection uses rehearsal data well?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Confidence replaces content",
-      "Slides duplicate script",
-      "Loudest voice considered best",
-      "Students storyboard presentations, elaborate central ideas, integrate evidence and visuals, signal structure and use rehearsal data to refine timing, transitions, voice and audience connection The response also explains its evidence and limitations."
+      "Jump between ideas without transitions.",
+      "Put all speaking notes on one slide.",
+      "Ignore timing until presentation day.",
+      "Listeners were confused during the graph, so I will add a clearer caption and slow down there."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "Listeners were confused during the graph, so I will add a clearer caption and slow down there.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Listeners were confused during the graph, so I will add a clearer caption and slow down there.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

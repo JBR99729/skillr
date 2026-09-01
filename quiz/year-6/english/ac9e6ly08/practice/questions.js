@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9e6ly08-p-001",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "skill": "read an ough word",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which word uses ch with a /k/ sound?",
-    "audioPrompt": "Which word uses ch with a /k/ sound?",
+    "question": "In sign, why is the g not pronounced?",
+    "audioPrompt": "In sign, why is the g not pronounced?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "chorus",
-      "chair",
-      "chef",
-      "machine"
+      "English spelling often preserves word history or related forms.",
+      "Spell only by sound and ignore word patterns.",
+      "One letter always has one sound.",
+      "Stress never affects pronunciation."
     ],
     "correct": 0,
-    "explanation": "This choice best demonstrates read an ough word in the stated context.\nHint: The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
+    "explanation": "English spelling often preserves word history or related forms.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This choice best demonstrates read an ough word in the stated context.",
-      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
+      "summary": "English spelling often preserves word history or related forms.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-p-002",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "skill": "grapheme",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which term means “letter or letters representing a phoneme”?",
-    "audioPrompt": "Which term means “letter or letters representing a phoneme”?",
+    "question": "Which pair shows the same sound spelled differently?",
+    "audioPrompt": "Which pair shows the same sound spelled differently?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "phoneme",
-      "grapheme",
-      "stress",
-      "One grapheme has one sound"
+      "One letter always has one sound.",
+      "rain and day",
+      "Stress never affects pronunciation.",
+      "Related words cannot help spelling."
     ],
     "correct": 1,
-    "explanation": "grapheme means letter or letters representing a phoneme.\nHint: Match the definition to the most precise term used in Complex Grapheme–Phoneme Patterns.",
+    "explanation": "rain and day\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "grapheme means letter or letters representing a phoneme.",
-      "hint": "Match the definition to the most precise term used in Complex Grapheme–Phoneme Patterns."
+      "summary": "rain and day",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-p-003",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "skill": "compare ch sounds",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "What should a reader do after a first pronunciation does not fit?",
-    "audioPrompt": "What should a reader do after a first pronunciation does not fit?",
+    "question": "Which word has c pronounced as s?",
+    "audioPrompt": "Which word has c pronounced as s?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Keep the guess",
-      "Skip the word permanently",
-      "Recheck graphemes, morphemes, stress and context",
-      "Use the first letter only"
+      "Stress never affects pronunciation.",
+      "Related words cannot help spelling.",
+      "city",
+      "Spell only by sound and ignore word patterns."
     ],
     "correct": 2,
-    "explanation": "This answer applies the relevant language feature accurately.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "explanation": "city\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "city",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-p-004",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "skill": "misconception repair",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "A student says, “One grapheme has one sound.” Which response best corrects the misunderstanding?",
-    "audioPrompt": "A student says, “One grapheme has one sound.” Which response best corrects the misunderstanding?",
+    "question": "Why check syllables when spelling unfamiliar words?",
+    "audioPrompt": "Why check syllables when spelling unfamiliar words?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Process full word",
-      "Cross-check written evidence",
-      "Use spoken syllables and patterns",
-      "English patterns vary"
+      "Related words cannot help spelling.",
+      "Spell only by sound and ignore word patterns.",
+      "One letter always has one sound.",
+      "Syllables help break the word into manageable sound and spelling parts."
     ],
     "correct": 3,
-    "explanation": "English patterns vary\nHint: Check the concept boundary, not just whether the wording sounds confident.",
+    "explanation": "Syllables help break the word into manageable sound and spelling parts.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "English patterns vary",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "Syllables help break the word into manageable sound and spelling parts.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-p-005",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "skill": "analyse complex sound letter patterns",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which pairing accurately reflects the model for Complex Grapheme–Phoneme Patterns?",
-    "audioPrompt": "Which pairing accurately reflects the model for Complex Grapheme–Phoneme Patterns?",
+    "question": "Which word changes pronunciation when the suffix is added?",
+    "audioPrompt": "Which word changes pronunciation when the suffix is added?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "ough → though / through / rough / thought",
-      "though / through / rough / thought → ough",
-      "ch → chair / chorus / chef",
-      "Guess from first letters"
+      "produce → production",
+      "Spell only by sound and ignore word patterns.",
+      "One letter always has one sound.",
+      "Stress never affects pronunciation."
     ],
     "correct": 0,
-    "explanation": "The pairing comes directly from the lesson model and preserves the intended relationship.\nHint: The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
+    "explanation": "produce → production\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
+      "summary": "produce → production",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-p-006",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "skill": "concept principle",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which principle should guide a response about Complex Grapheme–Phoneme Patterns?",
-    "audioPrompt": "Which principle should guide a response about Complex Grapheme–Phoneme Patterns?",
+    "question": "A student spells nature as nacher. What should they notice?",
+    "audioPrompt": "A student spells nature as nacher. What should they notice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "One grapheme has one sound",
-      "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology",
-      "Guess from first letters",
-      "Context replaces decoding"
+      "One letter always has one sound.",
+      "The /ch/ sound is spelled t in this word pattern.",
+      "Stress never affects pronunciation.",
+      "Related words cannot help spelling."
     ],
     "correct": 1,
-    "explanation": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology\nHint: Choose the statement that is accurate across the whole concept, not an overgeneralisation.",
+    "explanation": "The /ch/ sound is spelled t in this word pattern.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "The /ch/ sound is spelled t in this word pattern.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-p-007",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "skill": "guided application",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which plan would best complete this task: Analyse three complex words with different grapheme pronunciations and explain context/morphology support?",
-    "audioPrompt": "Which plan would best complete this task: Analyse three complex words with different grapheme pronunciations and explain context/morphology support?",
+    "question": "Which strategy best helps with the word photograph?",
+    "audioPrompt": "Which strategy best helps with the word photograph?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "List features without explaining their effects.",
-      "Give a personal preference without textual evidence.",
-      "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-      "Discuss a different topic instead of the stated task."
+      "Stress never affects pronunciation.",
+      "Related words cannot help spelling.",
+      "Connect photo, photograph and photography to meaning and stress changes.",
+      "Spell only by sound and ignore word patterns."
     ],
     "correct": 2,
-    "explanation": "A complete response combines relevant evidence with an explanation tied to the task.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "explanation": "Connect photo, photograph and photography to meaning and stress changes.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "Connect photo, photograph and photography to meaning and stress changes.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6ly08-p-008",
     "curriculumCode": "AC9E6LY08",
     "bank": "practice",
-    "skill": "reasoning",
+    "skill": "grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would best show secure understanding of Complex Grapheme–Phoneme Patterns?",
-    "audioPrompt": "Which evidence would best show secure understanding of Complex Grapheme–Phoneme Patterns?",
+    "question": "Why can one grapheme have more than one pronunciation?",
+    "audioPrompt": "Why can one grapheme have more than one pronunciation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "One grapheme has one sound",
-      "Guess from first letters",
-      "Context replaces decoding",
-      "Students analyse full written patterns, syllables and stress, recognise multiple spellings for sounds and multiple pronunciations for graphemes and cross-check with morphology and context The response also explains its evidence and limitations."
+      "Related words cannot help spelling.",
+      "Spell only by sound and ignore word patterns.",
+      "One letter always has one sound.",
+      "English words come from different origins and patterns."
     ],
     "correct": 3,
-    "explanation": "Secure understanding is visible when a student applies the concept and explains the evidence used.\nHint: Look for application and explanation rather than a feature name alone.",
+    "explanation": "English words come from different origins and patterns.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "English words come from different origins and patterns.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;

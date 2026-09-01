@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e6le05-t-001",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "character motivation",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "In a new text, which definition correctly identifies character motivation?",
-    "audioPrompt": "In a new text, which definition correctly identifies character motivation?",
+    "question": "Test example: borrows the idea of a locked door from a mystery but sets it in a space station. What must change?",
+    "audioPrompt": "Test example: borrows the idea of a locked door from a mystery but sets it in a space station. What must change?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Goal, belief or need driving choices",
-      "Transformation of source techniques into a new text",
-      "Relationship where events and decisions create consequences",
-      "Twist has no preparation"
+      "The details, causes and consequences must fit the new setting.",
+      "Copy the original plot exactly.",
+      "Change the setting but ignore motivation.",
+      "Add random events without cause and effect."
     ],
     "correct": 0,
-    "explanation": "character motivation means goal, belief or need driving choices.\nHint: Distinguish this term from related features in the unit.",
+    "explanation": "The details, causes and consequences must fit the new setting.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "character motivation means goal, belief or need driving choices.",
-      "hint": "Distinguish this term from related features in the unit."
+      "summary": "The details, causes and consequences must fit the new setting.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-t-002",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "diagnosis",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "A response shows this problem: “Twist has no preparation.” What is the most effective revision?",
-    "audioPrompt": "A response shows this problem: “Twist has no preparation.” What is the most effective revision?",
+    "question": "Test example: adaptation keeps a character motivation clear?",
+    "audioPrompt": "Test example: adaptation keeps a character motivation clear?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Transform context, decisions and language",
-      "Use foreshadowing and causal logic",
-      "Make it constrain or enable action",
-      "Keep the response unchanged because the issue does not affect meaning."
+      "Change the setting but ignore motivation.",
+      "A shy character enters the debate because their friend is being blamed unfairly.",
+      "Add random events without cause and effect.",
+      "Keep style and purpose disconnected."
     ],
     "correct": 1,
-    "explanation": "Use foreshadowing and causal logic\nHint: Choose the repair that directly addresses the diagnosed problem.",
+    "explanation": "A shy character enters the debate because their friend is being blamed unfairly.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Use foreshadowing and causal logic",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
+      "summary": "A shy character enters the debate because their friend is being blamed unfairly.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-t-003",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "transform rather than copy a mentor text",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which interpretation of this model element is accurate: “unreliable first person → narrator misunderstands sensor warnings”?",
-    "audioPrompt": "Which interpretation of this model element is accurate: “unreliable first person → narrator misunderstands sensor warnings”?",
+    "question": "Test example: is copying a whole plot not strong adaptation?",
+    "audioPrompt": "Test example: is copying a whole plot not strong adaptation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +74,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The first part is decorative and can be ignored.",
-      "The second part always has the same effect in every text.",
-      "It shows a deliberate relationship within Adapting Plot, Character, Setting and Style, so both parts must be interpreted together.",
-      "The pairing proves that no alternative interpretation is possible."
+      "Add random events without cause and effect.",
+      "Keep style and purpose disconnected.",
+      "Adaptation should transform techniques for a new purpose, not simply repeat them.",
+      "Copy the original plot exactly."
     ],
     "correct": 2,
-    "explanation": "The model links the feature to its contextual function without claiming a universal effect.\nHint: Adapt technique and structural function, not exact wording, event sequence or character identities.",
+    "explanation": "Adaptation should transform techniques for a new purpose, not simply repeat them.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "Adapt technique and structural function, not exact wording, event sequence or character identities."
+      "summary": "Adaptation should transform techniques for a new purpose, not simply repeat them.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-t-004",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "use a layered revision process",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "When applying Adapting Plot, Character, Setting and Style to an unfamiliar text, which analytical move is strongest?",
-    "audioPrompt": "When applying Adapting Plot, Character, Setting and Style to an unfamiliar text, which analytical move is strongest?",
+    "question": "Test example: setting detail creates pressure on the character?",
+    "audioPrompt": "Test example: setting detail creates pressure on the character?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +103,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Name a feature and stop.",
-      "Assume every audience responds identically.",
-      "Replace analysis with an unsupported personal judgement.",
-      "Identify the specific choice, cite relevant evidence and explain its contextual effect."
+      "Keep style and purpose disconnected.",
+      "Copy the original plot exactly.",
+      "Change the setting but ignore motivation.",
+      "The oxygen warning flashes with ten minutes remaining."
     ],
     "correct": 3,
-    "explanation": "Strong analysis connects a specific choice and evidence to a contextual effect.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "explanation": "The oxygen warning flashes with ten minutes remaining.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "The oxygen warning flashes with ten minutes remaining.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-t-005",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "plot causality",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which example best demonstrates an understanding of plot causality?",
-    "audioPrompt": "Which example best demonstrates an understanding of plot causality?",
+    "question": "Test example: changes a fairy tale into a school election story. What should stay coherent?",
+    "audioPrompt": "Test example: changes a fairy tale into a school election story. What should stay coherent?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +132,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Relationship where events and decisions create consequences, identified using evidence from the text.",
-      "Setting is decorative",
-      "Character change is announced only",
-      "A general comment that does not use the text."
+      "The conflict, character choices and ending should make sense in the new context.",
+      "Copy the original plot exactly.",
+      "Change the setting but ignore motivation.",
+      "Add random events without cause and effect."
     ],
     "correct": 0,
-    "explanation": "plot causality is relationship where events and decisions create consequences.\nHint: Select the response that applies the definition and uses evidence.",
+    "explanation": "The conflict, character choices and ending should make sense in the new context.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "plot causality is relationship where events and decisions create consequences.",
-      "hint": "Select the response that applies the definition and uses evidence."
+      "summary": "The conflict, character choices and ending should make sense in the new context.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-t-006",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "transfer",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion stays within the evidence when analysing Adapting Plot, Character, Setting and Style?",
-    "audioPrompt": "Which conclusion stays within the evidence when analysing Adapting Plot, Character, Setting and Style?",
+    "question": "Test example: revision improves cause and effect?",
+    "audioPrompt": "Test example: revision improves cause and effect?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +161,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "This single example proves the rule applies identically everywhere.",
-      "The evidence supports this interpretation, although context may allow another defensible reading.",
-      "The writer's choice guarantees the same reaction from every reader.",
-      "No evidence is needed because the interpretation sounds reasonable."
+      "Change the setting but ignore motivation.",
+      "Because the key is missing, Talia searches the old office before the deadline.",
+      "Add random events without cause and effect.",
+      "Keep style and purpose disconnected."
     ],
     "correct": 1,
-    "explanation": "A defensible conclusion uses evidence and acknowledges reasonable limits.\nHint: Avoid absolute claims unless the evidence genuinely supports them.",
+    "explanation": "Because the key is missing, Talia searches the old office before the deadline.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
+      "summary": "Because the key is missing, Talia searches the old office before the deadline.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-t-007",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "extended analysis",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which response plan best addresses this challenge: Write two alternative climaxes arising from different character decisions and evaluate thematic effects?",
-    "audioPrompt": "Which response plan best addresses this challenge: Write two alternative climaxes arising from different character decisions and evaluate thematic effects?",
+    "question": "Test example: which choice adapts style rather than plot?",
+    "audioPrompt": "Test example: which choice adapts style rather than plot?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +190,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy the lesson example without adapting it.",
-      "Add several unrelated features and do not explain them.",
-      "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-      "Describe the task but do not produce or analyse a response."
+      "Add random events without cause and effect.",
+      "Keep style and purpose disconnected.",
+      "Keeping the original author’s playful exaggeration while using a new event.",
+      "Copy the original plot exactly."
     ],
     "correct": 2,
-    "explanation": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.\nHint: Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal.",
+    "explanation": "Keeping the original author’s playful exaggeration while using a new event.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Revision changes meaning and structure; proofreading follows. Attractive details that do not support the design may need removal."
+      "summary": "Keeping the original author’s playful exaggeration while using a new event.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   },
   {
     "id": "ac9e6le05-t-008",
     "curriculumCode": "AC9E6LE05",
     "bank": "test",
-    "skill": "critical evaluation",
+    "skill": "adaptation craft",
     "printable": true,
     "type": "single",
-    "question": "Which approach best addresses this evaluation: Audit a draft for accidental copying and redesign the most derivative elements?",
-    "audioPrompt": "Which approach best addresses this evaluation: Audit a draft for accidental copying and redesign the most derivative elements?",
+    "question": "Test example: What is the best check after adapting a scene?",
+    "audioPrompt": "Test example: What is the best check after adapting a scene?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +219,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose a preferred answer before examining evidence.",
-      "Summarise each example without comparing it.",
-      "Treat one feature as proof of the whole judgement.",
-      "Use explicit criteria, compare relevant evidence and qualify the final judgement."
+      "Keep style and purpose disconnected.",
+      "Copy the original plot exactly.",
+      "Change the setting but ignore motivation.",
+      "Check whether motivation, setting and language choices work together."
     ],
     "correct": 3,
-    "explanation": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.\nHint: Build the judgement from evidence rather than preference.",
+    "explanation": "Check whether motivation, setting and language choices work together.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
     "structuredExplanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
+      "summary": "Check whether motivation, setting and language choices work together.",
+      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "student-facing-v2"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;
