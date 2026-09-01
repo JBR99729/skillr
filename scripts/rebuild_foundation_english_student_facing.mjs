@@ -36,7 +36,7 @@ for (const entry of topicDirs) {
   let html = fs.readFileSync(index, 'utf8');
   html = html
     .replace(/<summary><strong>What students learn<\/strong><\/summary>/g, '<summary><strong>What this skill means</strong></summary>')
-    .replace(/<strong>Learning intention:<\/strong>/g, '<strong>I can:</strong>')
+    .replace(/<strong>Learning intention:<\/strong>/g, '<strong>Learning goal: I can</strong>')
     .replace(/<h3>Success criteria<\/h3>/g, '<h3>I am ready when I can</h3>')
     .replace(/<summary><strong>Model and guided application<\/strong><\/summary>/g, '<summary><strong>See it, then try it</strong></summary>')
     .replace(/<summary><strong>Learning activities<\/strong><\/summary>/g, '<summary><strong>Try these</strong></summary>')
@@ -45,6 +45,12 @@ for (const entry of topicDirs) {
     .replace(/>Practice Sheet</g, '>Printable Worksheet<')
     .replace(/>Practice<\/a>/g, '>40-question Practice</a>')
     .replace(/<h2>Teacher resource<\/h2><p>Project the fixed branded deck one slide at a time\.<\/p>/g, '<h2>Classroom display</h2><p>Open the fixed SkillrHub display for whole-class modelling and guided practice.</p>');
+
+  if (/^ac9efla01-/i.test(entry.name) && !/What students learn|Key concept|Learning intention|Learning goal|Teaching Lesson/i.test(html.replace(/<script[\s\S]*?<\/script>/gi, ''))) {
+    const learningGoal = '<section class="curriculum-topic-section"><div class="curriculum-detail-body"><h2>Learning goal</h2><p><strong>I can choose words that suit who I am talking to.</strong></p><p>Ask a relevant question, make a clear request or share an opinion, then choose words that fit the person and situation.</p></div></section>';
+    html = html.includes('</main>') ? html.replace('</main>', `${learningGoal}</main>`) : html.replace('</body>', `${learningGoal}</body>`);
+  }
+
   fs.writeFileSync(index, html);
 }
 
