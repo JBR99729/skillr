@@ -92,6 +92,11 @@
         unit.quick = cfg.quick || cfg.seeds.slice(0, 4).map((s) => s.q);
         unit.quickAnswers = cfg.seeds.slice(0, 4).map((s) => s.a);
         unit.studentFacing = cfg;
+        if (unit.canonical) {
+          unit.canonical.learningIntention = cfg.childGoal.replace(/^I can\s+/i, "");
+          unit.canonical.bigIdea = cfg.bigIdea;
+          unit.canonical.learningRoutine = cfg.routine;
+        }
       }
       if (worksheetData) {
         const ws = api.buildWorksheet(code);
