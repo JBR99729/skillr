@@ -65,8 +65,10 @@
           answers,
           answer: s.a,
           reason: s.why,
+          summary: s.why,
           hint: cfg.hint || `Think about: ${cfg.routine.join(" → ")}.`,
-          vocabulary: (cfg.vocabulary || [])[i % Math.max(1, (cfg.vocabulary || []).length)] || "skill"
+          vocabulary: (cfg.vocabulary || [])[i % Math.max(1, (cfg.vocabulary || []).length)] || "skill",
+          enrichment: i >= 8
         };
       })
     };
