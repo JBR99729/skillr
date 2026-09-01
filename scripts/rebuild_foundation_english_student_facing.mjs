@@ -1,0 +1,77 @@
+#!/usr/bin/env node
+import fs from 'node:fs';
+import os from 'node:os';
+import path from 'node:path';
+import { spawnSync } from 'node:child_process';
+
+const root = process.cwd();
+const original = path.join(root, 'scripts/migrate_foundation_english_static.mjs');
+const a01Dir = path.join(root, 'foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending');
+
+function snapshotDir(dir) {
+  const files = new Map();
+  if (!fs.existsSync(dir)) return files;
+  const walk = (current) => {
+    for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
+      const full = path.join(current, entry.name);
+      if (entry.isDirectory()) walk(full);
+      else files.set(path.relative(dir, full), fs.readFileSync(full));
+    }
+  };
+  walk(dir);
+  return files;
+}
+
+function restoreDir(dir, snapshot) {
+  fs.rmSync(dir, { recursive: true, force: true });
+  for (const [relative, bytes] of snapshot) {
+    const full = path.join(dir, relative);
+    fs.mkdirSync(path.dirname(full), { recursive: true });
+    fs.writeFileSync(full, bytes);
+  }
+}
+
+const a01Snapshot = snapshotDir(a01Dir);
+let source = fs.readFileSync(original, 'utf8');
+
+source = source.replace(
+  "  'assets/foundation-english-data.js',\n",
+  "  'assets/foundation-english-data.js',\n  'assets/foundation-english-student-facing-core.js',\n  'assets/foundation-english-student-facing-la.js',\n  'assets/foundation-english-student-facing-le.js',\n  'assets/foundation-english-student-facing-ly1.js',\n  'assets/foundation-english-student-facing-ly2.js',\n"
+);
+source = source.replace(
+  "const data = context.window.SkillrFoundationEnglishData;\n",
+  "const data = context.window.SkillrFoundationEnglishData;\ncontext.window.SkillrFoundationEnglishStudentFacing?.applyData(data, context.window.SkillrFoundationEnglishWorksheetData);\n"
+);
+
+const temp = path.join(root, 'scripts', `.tmp-foundation-english-student-facing-${process.pid}.mjs`);
+fs.writeFileSync(temp, source);
+const result = spawnSync(process.execPath, [temp], { cwd: root, stdio: 'inherit' });
+fs.rmSync(temp, { force: true });
+if (result.status !== 0) process.exit(result.status || 1);
+
+restoreDir(a01Dir, a01Snapshot);
+
+const englishRoot = path.join(root, 'foundation/english');
+const topicDirs = fs.readdirSync(englishRoot, { withFileTypes: true })
+  .filter((entry) => entry.isDirectory() && /^ac9ef(?:la|le|ly)\d{2}-/i.test(entry.name));
+
+for (const entry of topicDirs) {
+  if (/^ac9efla01-/i.test(entry.name)) continue;
+  const index = path.join(englishRoot, entry.name, 'index.html');
+  if (!fs.existsSync(index)) continue;
+  let html = fs.readFileSync(index, 'utf8');
+  html = html
+    .replace(/<summary><strong>What students learn<\/strong><\/summary>/g, '<summary><strong>What this skill means</strong></summary>')
+    .replace(/<strong>Learning intention:<\/strong>/g, '<strong>I can:</strong>')
+    .replace(/<h3>Success criteria<\/h3>/g, '<h3>I am ready when I can</h3>')
+    .replace(/<summary><strong>Model and guided application<\/strong><\/summary>/g, '<summary><strong>See it, then try it</strong></summary>')
+    .replace(/<summary><strong>Learning activities<\/strong><\/summary>/g, '<summary><strong>Try these</strong></summary>')
+    .replace(/<summary><strong>Common misconceptions and quick fixes<\/strong><\/summary>/g, '<summary><strong>Common mix-ups</strong></summary>')
+    .replace(/<summary><strong>Quick checks and mastery<\/strong><\/summary>/g, '<summary><strong>Check your understanding</strong></summary>')
+    .replace(/>Practice Sheet</g, '>Printable Worksheet<')
+    .replace(/>Practice<\/a>/g, '>40-question Practice</a>')
+    .replace(/<h2>Teacher resource<\/h2><p>Project the fixed branded deck one slide at a time\.<\/p>/g, '<h2>Classroom display</h2><p>Open the fixed SkillrHub display for whole-class modelling and guided practice.</p>');
+  fs.writeFileSync(index, html);
+}
+
+console.log(`Rebuilt ${topicDirs.length - 1} remaining Foundation English topic/classroom sets with the student-facing source.`);
