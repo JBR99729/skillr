@@ -1,37 +1,10 @@
 #!/usr/bin/env node
 import fs from 'node:fs';
-import os from 'node:os';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 
 const root = process.cwd();
 const original = path.join(root, 'scripts/migrate_foundation_english_static.mjs');
-const a01Dir = path.join(root, 'foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending');
-
-function snapshotDir(dir) {
-  const files = new Map();
-  if (!fs.existsSync(dir)) return files;
-  const walk = (current) => {
-    for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
-      const full = path.join(current, entry.name);
-      if (entry.isDirectory()) walk(full);
-      else files.set(path.relative(dir, full), fs.readFileSync(full));
-    }
-  };
-  walk(dir);
-  return files;
-}
-
-function restoreDir(dir, snapshot) {
-  fs.rmSync(dir, { recursive: true, force: true });
-  for (const [relative, bytes] of snapshot) {
-    const full = path.join(dir, relative);
-    fs.mkdirSync(path.dirname(full), { recursive: true });
-    fs.writeFileSync(full, bytes);
-  }
-}
-
-const a01Snapshot = snapshotDir(a01Dir);
 let source = fs.readFileSync(original, 'utf8');
 
 source = source.replace(
@@ -42,6 +15,10 @@ source = source.replace(
   "const data = context.window.SkillrFoundationEnglishData;\n",
   "const data = context.window.SkillrFoundationEnglishData;\ncontext.window.SkillrFoundationEnglishStudentFacing?.applyData(data, context.window.SkillrFoundationEnglishWorksheetData);\n"
 );
+source = source.replace(
+  "run('assets/foundation-ac9efla01-lesson.js');\n",
+  "run('assets/foundation-ac9efla01-lesson.js');\nrun('assets/foundation-ac9efla01-alignment.js');\n"
+);
 
 const temp = path.join(root, 'scripts', `.tmp-foundation-english-student-facing-${process.pid}.mjs`);
 fs.writeFileSync(temp, source);
@@ -49,14 +26,11 @@ const result = spawnSync(process.execPath, [temp], { cwd: root, stdio: 'inherit'
 fs.rmSync(temp, { force: true });
 if (result.status !== 0) process.exit(result.status || 1);
 
-restoreDir(a01Dir, a01Snapshot);
-
 const englishRoot = path.join(root, 'foundation/english');
 const topicDirs = fs.readdirSync(englishRoot, { withFileTypes: true })
   .filter((entry) => entry.isDirectory() && /^ac9ef(?:la|le|ly)\d{2}-/i.test(entry.name));
 
 for (const entry of topicDirs) {
-  if (/^ac9efla01-/i.test(entry.name)) continue;
   const index = path.join(englishRoot, entry.name, 'index.html');
   if (!fs.existsSync(index)) continue;
   let html = fs.readFileSync(index, 'utf8');
@@ -74,4 +48,4 @@ for (const entry of topicDirs) {
   fs.writeFileSync(index, html);
 }
 
-console.log(`Rebuilt ${topicDirs.length - 1} remaining Foundation English topic/classroom sets with the student-facing source.`);
+console.log(`Rebuilt ${topicDirs.length} Foundation English topic/classroom sets with the student-facing source.`);
