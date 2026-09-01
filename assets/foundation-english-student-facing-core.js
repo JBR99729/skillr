@@ -28,69 +28,47 @@
   }
 
   api.buildPractice = (code) => {
-    const cfg = api.configs[String(code || "").toUpperCase()];
+    code = String(code || "").toUpperCase();
+    const cfg = api.configs[code];
     if (!cfg || !Array.isArray(cfg.seeds) || cfg.seeds.length < 10) return null;
     const seeds = cfg.seeds.slice(0, 10);
     const out = [];
 
-    seeds.forEach((s, i) => {
-      out.push(item(code, out.length, s.q, [s.a, s.w1, s.w2], 0, s.why));
-    });
-
-    seeds.forEach((s) => {
-      out.push(item(
-        code,
-        out.length,
-        `Why is “${s.a}” a good answer here?`,
-        [s.why, genericWhyWrong[0], genericWhyWrong[1]],
-        0,
-        s.why
-      ));
-    });
-
+    seeds.forEach((s) => out.push(item(code, out.length, s.q, [s.a, s.w1, s.w2], 0, s.why)));
+    seeds.forEach((s) => out.push(item(code, out.length, `Why is “${s.a}” a good answer here?`, [s.why, genericWhyWrong[0], genericWhyWrong[1]], 0, s.why)));
     seeds.forEach((s, i) => {
       const next = seeds[(i + 1) % seeds.length];
-      out.push(item(
-        code,
-        out.length,
-        `Which choice does NOT show the skill “${cfg.childGoal}”?`,
-        [s.a, next.a, s.w1],
-        2,
-        `“${s.w1}” does not fit this skill. ${s.why}`
-      ));
+      out.push(item(code, out.length, `Which choice does NOT show the skill “${cfg.childGoal}”?`, [s.a, next.a, s.w1], 2, `“${s.w1}” does not fit this skill. ${s.why}`));
     });
-
     seeds.forEach((s, i) => {
       const next = seeds[(i + 1) % seeds.length];
-      out.push(item(
-        code,
-        out.length,
-        `Which pair both show the skill “${cfg.childGoal}”?`,
-        [`${s.a} / ${next.a}`, `${s.w1} / ${next.a}`, `${s.a} / ${next.w1}`],
-        0,
-        `Both choices use the target skill in a clear example.`
-      ));
+      out.push(item(code, out.length, `Which pair both show the skill “${cfg.childGoal}”?`, [`${s.a} / ${next.a}`, `${s.w1} / ${next.a}`, `${s.a} / ${next.w1}`], 0, "Both choices use the target skill in a clear example."));
     });
-
     return out;
   };
 
   api.buildWorksheet = (code) => {
-    const cfg = api.configs[String(code || "").toUpperCase()];
+    code = String(code || "").toUpperCase();
+    const cfg = api.configs[code];
     if (!cfg || !Array.isArray(cfg.seeds)) return null;
     return {
       title: cfg.worksheetTitle || cfg.shortTitle || cfg.childGoal,
       method: cfg.routine.join(" → "),
       vocabulary: cfg.vocabulary || [],
-      questions: cfg.seeds.slice(0, 10).map((s) => ({
-        type: "single",
-        question: s.q,
-        answers: [s.a, s.w1, s.w2],
-        answer: s.a,
-        reason: s.why,
-        hint: cfg.hint || `Think about: ${cfg.routine.join(" → ")}.`,
-        vocabulary: (cfg.vocabulary || [])[0] || "skill"
-      }))
+      questions: cfg.seeds.slice(0, 10).map((s, i) => {
+        const options = [s.a, s.w1, s.w2];
+        const shift = i % 3;
+        const answers = options.slice(shift).concat(options.slice(0, shift));
+        return {
+          type: "single",
+          question: s.q,
+          answers,
+          answer: s.a,
+          reason: s.why,
+          hint: cfg.hint || `Think about: ${cfg.routine.join(" → ")}.`,
+          vocabulary: (cfg.vocabulary || [])[i % Math.max(1, (cfg.vocabulary || []).length)] || "skill"
+        };
+      })
     };
   };
 
@@ -129,13 +107,17 @@
       window.quizConfig.shuffleQuestions = false;
       window.quizConfig.questionCycle = false;
     }
+    const count = document.getElementById("questionCount");
+    if (count) count.textContent = "40";
+    document.querySelectorAll(".intro-text, .adsense-learning-support p, .adsense-learning-support li").forEach((node) => {
+      node.textContent = node.textContent.replace(/\b8-question\b/gi, "40-question").replace(/\b8 practice questions\b/gi, "40 practice questions").replace(/\bserves 8 practice questions\b/gi, "serves 40 practice questions");
+    });
     return true;
   };
 
   api.enhanceWorksheet = () => {
     const code = String((location.pathname.match(/ac9ef(?:la|le|ly)\d{2}/i) || [""])[0]).toUpperCase();
-    if (!code || code === "AC9EFLA01") return false;
-    if (!window.SkillrFoundationEnglishWorksheetData) return false;
+    if (!code || code === "AC9EFLA01" || !window.SkillrFoundationEnglishWorksheetData) return false;
     const ws = api.buildWorksheet(code);
     if (!ws) return false;
     window.SkillrFoundationEnglishWorksheetData[code] = Object.assign(window.SkillrFoundationEnglishWorksheetData[code] || {}, ws);
