@@ -1,0 +1,21 @@
+"use strict";
+(() => {
+  const banks = window.SkillrFoundationEnglishWorksheetData || (window.SkillrFoundationEnglishWorksheetData = {});
+  banks.AC9EFLA01 = {
+    title: "Choose Words That Fit",
+    method: "think about the situation, who is listening and what you want to say",
+    vocabulary: ["question", "request", "opinion", "listener", "situation"],
+    questions: [
+      {type:"single",question:"You cannot find your hat at school. What could you ask your teacher?",answers:["Where is my hat?","My hat is blue.","I like hats."],answer:"Where is my hat?",reason:"This is a relevant question that asks for the information you need.",hint:"Choose the sentence that asks for information.",vocabulary:"question"},
+      {type:"single",question:"You need a pencil from your teacher. What is the best thing to say?",answers:["Pencil!","Give me one.","Can I please have a pencil?"],answer:"Can I please have a pencil?",reason:"This is a clear, polite request to a teacher.",hint:"Choose words that clearly ask for what you need.",vocabulary:"request"},
+      {type:"single",question:"Which sentence tells what you think?",answers:["Where is the book?","I think this book is funny.","Can I have the book?"],answer:"I think this book is funny.",reason:"The words I think introduce an opinion.",hint:"An opinion tells what someone thinks or likes.",vocabulary:"opinion"},
+      {type:"match",question:"Match each person to words that suit the situation.",matchLeft:["friend","teacher","shopkeeper"],matchRight:["Can I play too?","Excuse me, can you help me, please?","Can I please have an apple?"],answer:"friend → Can I play too?; teacher → Excuse me, can you help me, please?; shopkeeper → Can I please have an apple?",reason:"The words change to suit the listener and situation.",hint:"Picture who is listening to each sentence.",vocabulary:"listener"},
+      {type:"text",question:"Mia says to her teacher, ‘Give me that book!’ Write a better way for Mia to ask.",answer:"For example: Can I please have that book?",reason:"The new sentence keeps the same request but uses words that suit talking to a teacher.",hint:"Turn the command into a clear request.",vocabulary:"request"},
+      {type:"single",question:"Your friend has the glue. You need it next. What could you say?",answers:["Can I use the glue when you're finished?","That's mine now.","Give it!"],answer:"Can I use the glue when you're finished?",reason:"This friendly request suits talking to a classmate.",hint:"Choose the words that ask without ordering your friend.",vocabulary:"situation"},
+      {type:"text",question:"Your parent asks which story you liked. Write or say an opinion.",answer:"For example: I liked the dinosaur story best because it was funny.",reason:"The response tells what you think; a reason may explain your opinion.",hint:"Start with I like, I liked or I think.",vocabulary:"opinion"},
+      {type:"text",question:"You are in a shop and cannot find the milk. What could you ask the shopkeeper?",answer:"For example: Excuse me, can you please show me where the milk is?",reason:"The question is relevant, clear and suited to an unfamiliar adult.",hint:"Ask for the information you need and use polite words.",vocabulary:"question"},
+      {type:"text",question:"You want the same thing in two places: help opening a container. What could you say to a parent at home and to a teacher at school?",answer:"For example: Home—Dad, can you help me open this? School—Excuse me, can you please help me open this?",reason:"Both requests are suitable, but the wording can change because the relationship and setting change.",hint:"Keep what you need the same. Change the words to suit the listener.",vocabulary:"listener"},
+      {type:"single",question:"Which child shows the best understanding?",answers:["I must use exactly the same words with everyone.","I can choose words that fit who I am talking to and what is happening.","Only school words are correct."],answer:"I can choose words that fit who I am talking to and what is happening.",reason:"AC9EFLA01 is about choosing language that suits the relationship and context, not ranking home and school language.",hint:"Think about the person, place and purpose.",vocabulary:"situation"}
+    ]
+  };
+})();

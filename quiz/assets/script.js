@@ -1,9 +1,15 @@
 "use strict";
 
-// Compatibility bridge for mixed question-bank formats.
-// Older pages expose window.quizQuestions directly; newer authored banks may
-// expose window.skillrPracticeQuestions or window.skillrTestQuestions instead.
-if (!Array.isArray(window.quizQuestions) || window.quizQuestions.length === 0) {
+const foundationEnglishPractice = /\/quiz\/grade-k\/english\/ac9ef(?:la|le|ly)\d{2}\/practice\/?(?:index\.html)?$/i.test(window.location.pathname);
+
+if (foundationEnglishPractice) {
+  document.write('<script src="/assets/foundation-english-student-facing-core.js?v=20260902"><\/script>');
+  document.write('<script src="/assets/foundation-english-student-facing-la.js?v=20260902"><\/script>');
+  document.write('<script src="/assets/foundation-english-student-facing-le.js?v=20260902"><\/script>');
+  document.write('<script src="/assets/foundation-english-student-facing-ly1.js?v=20260902"><\/script>');
+  document.write('<script src="/assets/foundation-english-student-facing-ly2.js?v=20260902"><\/script>');
+  document.write('<script>window.SkillrFoundationEnglishStudentFacing?.enhancePractice();<\/script>');
+} else if (!Array.isArray(window.quizQuestions) || window.quizQuestions.length === 0) {
   if (Array.isArray(window.skillrPracticeQuestions) && window.skillrPracticeQuestions.length > 0) {
     window.quizQuestions = window.skillrPracticeQuestions;
   } else if (Array.isArray(window.skillrTestQuestions) && window.skillrTestQuestions.length > 0) {

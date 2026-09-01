@@ -31,4 +31,13 @@
   }
 
   window.SkillrFoundationEnglishWorksheetBalanced = true;
+
+  if (/\/quiz\/grade-k\/english\/ac9ef(?:la|le|ly)\d{2}\/worksheet\//i.test(location.pathname)) {
+    document.write('<script src="/assets/foundation-english-student-facing-core.js?v=20260902"><\/script>');
+    document.write('<script src="/assets/foundation-english-student-facing-la.js?v=20260902"><\/script>');
+    document.write('<script src="/assets/foundation-english-student-facing-le.js?v=20260902"><\/script>');
+    document.write('<script src="/assets/foundation-english-student-facing-ly1.js?v=20260902"><\/script>');
+    document.write('<script src="/assets/foundation-english-student-facing-ly2.js?v=20260902"><\/script>');
+    document.write('<script>window.SkillrFoundationEnglishStudentFacing?.enhanceWorksheet();<\/script>');
+  }
 })();

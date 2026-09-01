@@ -4,6 +4,9 @@ on:
   pull_request:
     paths:
       - 'scripts/migrate_foundation_english_static.mjs'
+      - 'scripts/rebuild_foundation_english_student_facing.mjs'
+      - 'scripts/validate_foundation_english_student_facing.mjs'
+      - 'assets/foundation-english-student-facing-*.js'
       - '.github/workflows/generate-foundation-english-static-migration.yml'
   workflow_dispatch:
 
@@ -30,8 +33,15 @@ jobs:
           test -f assets/foundation-english-topic-module-ly2-v2.js
           test -f assets/foundation-english-topic-module-core-v2.js
           test -f assets/foundation-canonical-v1.1.js
-      - name: Generate Foundation English static pages and fixed slides
-        run: node scripts/migrate_foundation_english_static.mjs
+          test -f assets/foundation-english-student-facing-core.js
+          test -f assets/foundation-english-student-facing-la.js
+          test -f assets/foundation-english-student-facing-le.js
+          test -f assets/foundation-english-student-facing-ly1.js
+          test -f assets/foundation-english-student-facing-ly2.js
+      - name: Validate student-facing banks
+        run: node scripts/validate_foundation_english_student_facing.mjs
+      - name: Generate student-facing Foundation English topics and fixed slides
+        run: node scripts/rebuild_foundation_english_student_facing.mjs
       - name: Validate generated static architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
       - name: Verify Foundation English topics no longer depend on runtime topic modules
@@ -50,5 +60,5 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add foundation/english
-          git commit -m 'Generate static Foundation English curriculum pages'
+          git commit -m 'Generate student-facing Foundation English curriculum pages'
           git push origin HEAD:${GITHUB_HEAD_REF}
